@@ -3,6 +3,8 @@
 
 Según COMPETENCIAS TRANSVERSALES Y ESPECÍFICAS DE LOS PERFILES QUE EVALÚA CONAIC DEFINIDAS POR ANIEI Y CONAIC  “junio 2017” 
 
+Competencias especificas:
+
 | ANIEI        | UADY           | UV            |
 | :---         |     :---:      |          ---: |
 | Realiza ingeniería de requisitos de software    | Desarrollo de software    | Análisis    |
@@ -18,7 +20,8 @@ Según COMPETENCIAS TRANSVERSALES Y ESPECÍFICAS DE LOS PERFILES QUE EVALÚA CON
 | Verifica calidad de soluciones de software      | Desarrollo de software      | Análisis    | 
 |   Usa herramientas para creación de software  | Desarrollo de software      |  Desarrollo de software    | 
 
-Las areas transversales son las competemcias compartidas con otras liceciaturas:
+Las comptencias transversales son las competemcias compartidas con otras liceciaturas:
+
  ANIEI               
     
 * Comunicación oral y escrita
