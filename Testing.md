@@ -1,9 +1,5 @@
----
 
-
----
-
-<h1 id="universidad-autónoma-de-yucatán">Universidad Autónoma de Yucatán</h1>
+<center><h1 id="universidad-autónoma-de-yucatán">Universidad Autónoma de Yucatán</h1></center>
 <h3 id="facultad-de-matemáticas">Facultad de Matemáticas</h3>
 <h3 id="periodo-agosto-diciembre">Periodo: Agosto-diciembre</h3>
 <h3 id="asignatura-fundamentos-de-la-ingeniería-de-software">Asignatura: Fundamentos de la Ingeniería de Software</h3>
