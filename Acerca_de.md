@@ -6,8 +6,8 @@
 |  |   |
 |  |   |
 |  |   |
-|  | <img src="https://media.licdn.com/dms/image/D4E03AQFAAlHmWAB0kw/profile-displayphoto-shrink_400_400/0/1693847035944?e=1700697600&v=beta&t=15FrbPz256Gct2T9XemEsdJSk0avo9GpE_nu3QdS-Gg" alt="Texto alternativo" width="100" height="100">  |  <p> Soy un estudiante en Ingeniería en software<br> me llamo Ruben moises Loria Pech busco adquirir experiencia con programación <br>busco siempre aprender cosas nuevas y así<br> acumular experiencia. busco siempre oportunidad de mejorar y aprender lo que me haga falta trabajando en equipo cooperando con todos </p>  |
+| <img src="https://media.licdn.com/dms/image/D4E03AQFAAlHmWAB0kw/profile-displayphoto-shrink_400_400/0/1693847035944?e=1700697600&v=beta&t=15FrbPz256Gct2T9XemEsdJSk0avo9GpE_nu3QdS-Gg" alt="Texto alternativo" width="100" height="100"> | <p> Soy un estudiante en Ingeniería en software<br> me llamo Ruben moises Loria Pech busco adquirir experiencia con programación <br>busco siempre aprender cosas nuevas y así<br> acumular experiencia. busco siempre oportunidad de mejorar y aprender lo que me haga falta trabajando en equipo cooperando con todos </p>  |   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk4MDUxNzddfQ==
+eyJoaXN0b3J5IjpbMTQ0MTA4NjFdfQ==
 -->
