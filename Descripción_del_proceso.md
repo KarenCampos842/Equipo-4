@@ -49,8 +49,8 @@
 
 **Responsables**
 
- 1. Rubén Moisés Loria Pech:* Descripción del producto y Usuarios/Clientes. 
- 2. Suárez Balam Brandon Emmanuel:* Propuesta de valor. 
+ 1. *Rubén Moisés Loria Pech:* Descripción del producto y Usuarios/Clientes. 
+ 2. *Suárez Balam Brandon Emmanuel:* Propuesta de valor. 
  
 **Revisor de redacción de "Producto":** *Suárez Balam Brandon Emmanuel:*
 
@@ -72,7 +72,7 @@
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzMwNzM3MTEsMTU0MTk0NTA3MCw5MD
-A3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5LC0xMzQwMzc2
-MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
+eyJoaXN0b3J5IjpbNjMwNjY0MTc5LDE1NDE5NDUwNzAsOTAwNz
+AwMzMzLC0zMjQ1NDU1MTEsMTQ0NDA4NzkyOSwtMTM0MDM3NjE2
+MywyMDQ4MTMzNDg3LC05NzgyNDE3M119
 -->
