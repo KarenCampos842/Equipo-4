@@ -88,14 +88,14 @@
  1. *Campos García Karen Elizabeth:* Sección Proceso.
 
 **Actividades**
- - **Descripción del proceso:** Describir de forma clara y concreta el proceso de desarrollo para el producto y la organización del equipo (roles/responsabilidades definidas), elegir una metodología ágil y ayudar a su cumplimiento. 
+ - **Descripción del proceso:** Describir de forma clara y concreta el proceso de desarrollo para el producto, así como la organización del equipo (roles/responsabilidades definidas). Adicionalmente, elegir una metodología ágil y ayudar a su cumplimiento. 
  - Se incluyen las actividades/tareas/herramientas de monitoreo y/o seguimiento. Se cuentan con bitácoras de las reuniones donde se pueden observar los acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
  
 
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjMyMTg3OSw2MzA2NjQxNzksMTU0MT
-k0NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5
-LC0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
+eyJoaXN0b3J5IjpbMzA3NzEyNTAwLDYzMDY2NDE3OSwxNTQxOT
+Q1MDcwLDkwMDcwMDMzMywtMzI0NTQ1NTExLDE0NDQwODc5Mjks
+LTEzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOTc4MjQxNzNdfQ==
 -->
