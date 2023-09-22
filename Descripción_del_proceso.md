@@ -112,10 +112,11 @@
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
-      <td>Diálogo en español para el video (síntesis de los requisitos sección "Requisitos").</td>  
+      <td>Diálogo en español para el video (síntesis de los requisitos funcionales y no funcionales teniendo en consideración el orden por prioridad).</td>  
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
+       <td>Diálogo en español para el video (síntesis de ).</td>  
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
@@ -128,7 +129,7 @@
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzY1NzkyNCwtMTE0MTYyNTE0NywxOT
+eyJoaXN0b3J5IjpbMjA0Nzc2MzcxMiwtMTE0MTYyNTE0NywxOT
 g5NzQ2MzQ4LC0xMDQ5ODQ3Mzk4LC0xMjg5Njk5MTI0LDYzMDY2
 NDE3OSwxNTQxOTQ1MDcwLDkwMDcwMDMzMywtMzI0NTQ1NTExLD
 E0NDQwODc5MjksLTEzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOTc4
