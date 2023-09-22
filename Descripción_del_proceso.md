@@ -41,7 +41,7 @@
 
 ### Scrum master
 <p><strong>Campos García Karen Elizabeth.</strong><br>
-Su rol es ayudar a que el equipo de trabajo cumpla con<br>lo planeado a realizar en el proyecto para llevarlo a<br>buen término. Ayuda con cuestiones de organización<br> y adicionalmente de asignación de tareas.</p>
+Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término. Ayuda con cuestiones de organización y adicionalmente de asignación de tareas.</p>
  
 <br>
 
@@ -50,8 +50,8 @@ Su rol es ayudar a que el equipo de trabajo cumpla con<br>lo planeado a realizar
 
 #### Sección de "Producto"
 
- - **Descripción del producto:** Escribir de forma clara<br> y específica el objetivo del producto. Definir <br> alcances y limitaciones. <br> 
- - **Usuarios/Clientes:** Escribir quienes serán los<br> usuarios primarios, secundarios y potenciales. <br> Describir características relevantes (investigar) de <br> los usuarios de cada tipo (edad,  ubicación <br> geográfica, nivel socioeconómico, etc.)  y posibles <br> escenarios en los que utilizarían el producto. 
+ - **Descripción del producto:** Escribir de forma clara y específica el objetivo del producto. Definir alcances y limitaciones. <br> 
+ - **Usuarios/Clientes:** Escribir quienes serán los usuarios primarios, secundarios y potenciales. Describir características relevantes (investigar) de  los usuarios de cada tipo (edad,  ubicación <br> geográfica, nivel socioeconómico, etc.)  y posibles <br> escenarios en los que utilizarían el producto. 
  - **Propuesta de valor:** Describir en qué consiste el <br>producto y cómo se diferencia  de productos <br>similares (investigar un producto similar y <br>comparar con el nuestro). <br>Preguntas guía: ¿Qué incluye este producto que no <br>hacen otros? ¿Existe una necesidad identificada? <br>¿Por qué se podría considerar de valor la propuesta?
  ***NOTA:***  Para realizar las actividades descritas con <br>anterioridad pueden apoyarse en lo descrito en el <br>documento "*propuesta.proyecto.equipo4.pdf*"  <br>localizado en el **main** del repositorio del equipo.
 
@@ -61,6 +61,6 @@ Su rol es ayudar a que el equipo de trabajo cumpla con<br>lo planeado a realizar
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDY3ODE0NywyMDQ4MTMzNDg3LC05Nz
-gyNDE3M119
+eyJoaXN0b3J5IjpbLTEzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOT
+c4MjQxNzNdfQ==
 -->
