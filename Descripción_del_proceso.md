@@ -103,7 +103,7 @@
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
-       <td>Editar un video de máximo 5 minutos presentando una síntesis de </td>  
+       <td>Editar un video de máximo 5 minutos presentando una síntesis de las secciones Producto, Requisitos, Proceso  y Competencias. </td>  
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
@@ -125,8 +125,8 @@
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDQ4NzIxOCwxOTg5NzQ2MzQ4LC0xMD
-Q5ODQ3Mzk4LC0xMjg5Njk5MTI0LDYzMDY2NDE3OSwxNTQxOTQ1
-MDcwLDkwMDcwMDMzMywtMzI0NTQ1NTExLDE0NDQwODc5MjksLT
-EzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOTc4MjQxNzNdfQ==
+eyJoaXN0b3J5IjpbLTExNDE2MjUxNDcsMTk4OTc0NjM0OCwtMT
+A0OTg0NzM5OCwtMTI4OTY5OTEyNCw2MzA2NjQxNzksMTU0MTk0
+NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5LC
+0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
 -->
