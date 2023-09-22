@@ -46,7 +46,7 @@
 
 ## Fase1: Sprint planning
 ### División del trabajo (basado en la rúbrica)
-NOTA: Se encontrarán archivos para cada sección divididos por actividad en la branch de Primera-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo corrrespondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Primera-Entrega. 
+NOTA: Se encontrarán archivos para cada sección divididos por actividad en la branch de Primera-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Primera-Entrega. Así mismo, colocar la actividad de acuerdo 
 ### *Sección  "Producto"*
 
 **Responsables**
@@ -142,9 +142,9 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczMDYwNzEzLDc3NDkzMjc1LDkxNzc5OD
-k5NSwtMTE0MTYyNTE0NywxOTg5NzQ2MzQ4LC0xMDQ5ODQ3Mzk4
-LC0xMjg5Njk5MTI0LDYzMDY2NDE3OSwxNTQxOTQ1MDcwLDkwMD
-cwMDMzMywtMzI0NTQ1NTExLDE0NDQwODc5MjksLTEzNDAzNzYx
-NjMsMjA0ODEzMzQ4NywtOTc4MjQxNzNdfQ==
+eyJoaXN0b3J5IjpbLTE3NTMzNDE0ODIsNzc0OTMyNzUsOTE3Nz
+k4OTk1LC0xMTQxNjI1MTQ3LDE5ODk3NDYzNDgsLTEwNDk4NDcz
+OTgsLTEyODk2OTkxMjQsNjMwNjY0MTc5LDE1NDE5NDUwNzAsOT
+AwNzAwMzMzLC0zMjQ1NDU1MTEsMTQ0NDA4NzkyOSwtMTM0MDM3
+NjE2MywyMDQ4MTMzNDg3LC05NzgyNDE3M119
 -->
