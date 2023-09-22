@@ -60,9 +60,10 @@ Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en
 ### *Sección de "Producto"*
 
 **Responsables**
+Rubén Moisés Loria Pech: Descripción del producto y Usuarios/Clientes.
 
  - **Descripción del producto:** Escribir de forma clara y específica el objetivo del producto. Definir alcances y limitaciones. <br> 
-<<<<<<< HEAD
+
  - **Usuarios/Clientes:** Escribir quienes serán los usuarios primarios, secundarios y potenciales. Describir características relevantes (investigar)
   <br>de los usuarios de cada tipo (edad,  ubicación geográfica, nivel socioeconómico, etc.) y posibles escenarios en los que utilizarían el producto.<br>
  - **Propuesta de valor:** Describir en qué consiste el producto y cómo se diferencia  de productos similares (investigar un producto similar y <br>comparar con el nuestro). 
@@ -81,7 +82,7 @@ Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTgzOTgwMzMsLTMyNDU0NTUxMSwxND
+eyJoaXN0b3J5IjpbLTEyOTYyMDg2NDQsLTMyNDU0NTUxMSwxND
 Q0MDg3OTI5LC0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0
 MTczXX0=
 -->
