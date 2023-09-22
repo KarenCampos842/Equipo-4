@@ -77,7 +77,7 @@
  - **Requisitos funcionales:** Escribir los requisitos funcionales de forma clara, completa y consistente. 
  - **Requisitos no funcionales:** Escribir los requisitos no funcionales de forma clara, completa y consistente (escribir solo los que podríamos verificar). Escribir por cada requisito una forma de verificarlo. 
  - **Priorización:** Ordenar los requisitos funcionales y no funcionales utilizando la metodología de *"MoSCoW".* 
- - **Artefactos**: Se incluyen como evidencia artefactos que especifican los Requisitos, incluye excepciones a considerar (*casos de uso, historias de usuario con criterios de aceptación). Se presenta un diagrama que resume el conjunto de requisitos (ej. Diagrama de Casos de Uso).
+ - **Artefactos**:  artefactos que especifican los Requisitos, incluye excepciones a considerar (*casos de uso, historias de usuario con criterios de aceptación). Realizar  un diagrama que resuma el conjunto de requisitos (funcionales, no funcionales) (ej. Diagrama de Casos de Uso).
 
   ***NOTA:*** Para realizar las actividades descritas con anterioridad pueden apoyarse en el documento "*propuesta.proyecto.equipo4.pdf*" localizado en el **main** del repositorio del equipo.
 
@@ -97,7 +97,7 @@
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDQ1MjI2Miw2MzA2NjQxNzksMTU0MT
+eyJoaXN0b3J5IjpbMTM4MTAyNTMxMSw2MzA2NjQxNzksMTU0MT
 k0NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5
 LC0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
 -->
