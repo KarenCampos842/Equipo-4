@@ -136,14 +136,15 @@
  1. *Cárdenas Rojas Kendrick Asaf:* Sección Competencias.
 
 **Actividades**
- - **Come:** Describir de forma clara y concreta el proceso de desarrollo para el producto, así como la organización del equipo (roles/responsabilidades definidas). Adicionalmente, elegir una metodología ágil y ayudar a su cumplimiento. 
+ - **Competencias genéricas:** Argumentar de qué forma se promueven las competencias genéricas a través de las actividades específicas del desarrollo del producto.
+ **- Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto. 
  
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDMwMDE3MjUsOTE3Nzk4OTk1LC0xMT
-QxNjI1MTQ3LDE5ODk3NDYzNDgsLTEwNDk4NDczOTgsLTEyODk2
-OTkxMjQsNjMwNjY0MTc5LDE1NDE5NDUwNzAsOTAwNzAwMzMzLC
-0zMjQ1NDU1MTEsMTQ0NDA4NzkyOSwtMTM0MDM3NjE2MywyMDQ4
-MTMzNDg3LC05NzgyNDE3M119
+eyJoaXN0b3J5IjpbNzc0OTMyNzUsOTE3Nzk4OTk1LC0xMTQxNj
+I1MTQ3LDE5ODk3NDYzNDgsLTEwNDk4NDczOTgsLTEyODk2OTkx
+MjQsNjMwNjY0MTc5LDE1NDE5NDUwNzAsOTAwNzAwMzMzLC0zMj
+Q1NDU1MTEsMTQ0NDA4NzkyOSwtMTM0MDM3NjE2MywyMDQ4MTMz
+NDg3LC05NzgyNDE3M119
 -->
