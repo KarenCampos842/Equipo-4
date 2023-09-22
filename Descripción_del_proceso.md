@@ -34,8 +34,8 @@
 <br>
 
 ### Product Owner 
-<p>Es considerado la voz del cliente dentro del proyecto y el encargado de garantizar que el proyecto cumpla con los objetivos marcados. 
-<br><strong>Product Owner: Maldonado Medina Hansony de Jesús </strong> En este caso, no tenemos un "cliente" que nos esté solicitando el proyecto. No obstante, Hansony como la persona que generó la idea, se encargará de revisar que el proyecto cumpla con los objetivos.  </p>
+<p>Es considerado la voz del cliente dentro del proyecto y el encargado de garantizar que el proyecto cumpla con los objetivos marcados. <br>
+<strong>Product Owner: Maldonado Medina Hansony de Jesús </strong><br> En este caso, no tenemos un "cliente" que nos esté solicitando el proyecto. No obstante, Hansony como la persona que generó la idea, se encargará de revisar que el proyecto cumpla con los objetivos.  </p>
 
 
 ### Scrum master
@@ -71,7 +71,7 @@
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzc0NzAwNDUsMTU0MTk0NTA3MCw5MD
-A3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5LC0xMzQwMzc2
-MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
+eyJoaXN0b3J5IjpbMTgwODc4OTA3NywxNTQxOTQ1MDcwLDkwMD
+cwMDMzMywtMzI0NTQ1NTExLDE0NDQwODc5MjksLTEzNDAzNzYx
+NjMsMjA0ODEzMzQ4NywtOTc4MjQxNzNdfQ==
 -->
