@@ -41,9 +41,8 @@
 <br> se encargará de revisar que el proyecto cumpla con los objetivos.  </p>
 
 ### Scrum master
-<p><strong>Campos García Karen Elizabeth.</strong><br>
-Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término. Ayuda con cuestionesde organización y adicionalmente de asignación de tareas.</p>
-=======
+<p><strong>Campos García Karen Elizabeth.</p></strong><br>
+<p>Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término. Ayuda con cuestiones de organización y adicionalmente de asignación de tareas.</p>
 <p>Es considerado la voz del cliente dentro del proyecto y  el encargado de garantizar que el proyecto cumpla con los objetivos marcados. </p>
 <p><strong>Product Owner: Maldonado Medina Hansony de Jesús </strong><br>
 
@@ -52,7 +51,6 @@ Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en
 ### Scrum master
 <p><strong>Campos García Karen Elizabeth.</strong><br>
 Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término. Ayuda con cuestiones de organización y adicionalmente de asignación de tareas.</p>
->>>>>>> Primera-Entrega
  
 <br>
 
@@ -67,9 +65,8 @@ Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en
   <br>de los usuarios de cada tipo (edad,  ubicación geográfica, nivel socioeconómico, etc.) y posibles escenarios en los que utilizarían el producto.<br>
  - **Propuesta de valor:** Describir en qué consiste el producto y cómo se diferencia  de productos similares (investigar un producto similar y <br>comparar con el nuestro). 
  <br>Preguntas guía: ¿Qué incluye este producto que no hacen otros?, ¿Existe una necesidad identificada?, ¿Por qué se podría considerar de valor la propuesta?
-<br> ***NOTA:*** Para realizar las actividades descritas con anterioridad pueden apoyarse en lo descrito en el documento "*propuesta.proyecto.equipo4.pdf*" 
-<br>localizado en el **main** del repositorio del equipo.
-=======
+<br> ***NOTA:*** Para realizar las actividades descritas con anterioridad pueden apoyarse en lo descrito en el documento "*propuesta.proyecto.equipo4.pdf*" localizado en el **main** del repositorio del equipo.
+
  - **Usuarios/Clientes:** Escribir quienes serán los usuarios primarios, secundarios y potenciales. Describir características relevantes (investigar) de  los usuarios de cada tipo (edad,  ubicación geográfica, nivel socioeconómico, etc.)  y posibles escenarios en los que utilizarían el producto. 
  - **Propuesta de valor:** Describir en qué consiste el producto y cómo se diferencia  de productos similares (investigar un producto similar y comparar con el nuestro). <br>Preguntas guía: ¿Qué incluye este producto que no hacen otros?, ¿Existe una necesidad identificada?, ¿Por qué se podría considerar de valor la propuesta?
  <br>***NOTA:***  Para realizar las actividades descritas con anterioridad pueden apoyarse en lo descrito en el documento "*propuesta.proyecto.equipo4.pdf*" localizado en el **main** del repositorio del equipo.
@@ -81,7 +78,7 @@ Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Mjc5MjAwMCwtMzI0NTQ1NTExLDE0ND
-QwODc5MjksLTEzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOTc4MjQx
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTE3MzAyOTY5NjYsLTMyNDU0NTUxMSwxND
+Q0MDg3OTI5LC0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0
+MTczXX0=
 -->
