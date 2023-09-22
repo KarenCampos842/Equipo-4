@@ -41,7 +41,7 @@
 
 
 ### Scrum master
-<p><strong>Campos García Karen Elizabeth.</strong><br>Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término tomando en consideración la metodología SCRUM. Adicionalmente, ayuda con cuestiones de organización y adicionalmente de asignación de tareas.</p>
+<p><strong>Campos García Karen Elizabeth.</strong><br>Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término tomando en consideración la metodología SCRUM.  Ayuda con cuestiones de organización y adicionalmente de asignación de tareas.</p>
 
 
 ## Fase1: Sprint planning
@@ -89,12 +89,13 @@
 
 **Actividades**
  - **Descripción del proceso:** Describir de forma clara y concreta el proceso de desarrollo para el producto y la organización del equipo (roles/responsabilidades definidas), elegir una metodología ágil y ayudar a su cumplimiento. 
+ - Se incluyen las actividades/tareas/herramientas de monitoreo y/o seguimiento. Se cuentan con bitácoras de las reuniones donde se pueden observar los acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
  
 
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTAxODAyMDIsNjMwNjY0MTc5LDE1ND
-E5NDUwNzAsOTAwNzAwMzMzLC0zMjQ1NDU1MTEsMTQ0NDA4Nzky
-OSwtMTM0MDM3NjE2MywyMDQ4MTMzNDg3LC05NzgyNDE3M119
+eyJoaXN0b3J5IjpbLTI1NjMyMTg3OSw2MzA2NjQxNzksMTU0MT
+k0NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5
+LC0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
 -->
