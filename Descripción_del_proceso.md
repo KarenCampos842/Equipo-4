@@ -116,11 +116,11 @@
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
-       <td>Diálogo en español para el video. Síntesis de la actividad Priorización (explicar de forma breve en q y Artefactos.</td>  
+       <td>Diálogo en español para el video. Síntesis de la actividad Priorización (explicar de forma breve en qué consiste la metodología MoSCoW) y Artefactos.</td>  
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
-        <td>Diálogo en español para el video (síntesis de las actividades Descripción del producto y Usuarios/Clientes ).</td>  
+        <td>Diálogo en español para el video. Síntesis de las actividades Descripción del producto y Usuarios/Clientes.</td>  
    </tr> 
     <tr>  
       <td>Suárez Balam Brandon Emmanuel</td>  
@@ -130,9 +130,9 @@
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjgxMzE0MCwtMTE0MTYyNTE0NywxOT
-g5NzQ2MzQ4LC0xMDQ5ODQ3Mzk4LC0xMjg5Njk5MTI0LDYzMDY2
-NDE3OSwxNTQxOTQ1MDcwLDkwMDcwMDMzMywtMzI0NTQ1NTExLD
-E0NDQwODc5MjksLTEzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOTc4
-MjQxNzNdfQ==
+eyJoaXN0b3J5IjpbOTYyNjg3ODAxLC0xMTQxNjI1MTQ3LDE5OD
+k3NDYzNDgsLTEwNDk4NDczOTgsLTEyODk2OTkxMjQsNjMwNjY0
+MTc5LDE1NDE5NDUwNzAsOTAwNzAwMzMzLC0zMjQ1NDU1MTEsMT
+Q0NDA4NzkyOSwtMTM0MDM3NjE2MywyMDQ4MTMzNDg3LC05Nzgy
+NDE3M119
 -->
