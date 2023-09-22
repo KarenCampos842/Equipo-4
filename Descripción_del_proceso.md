@@ -47,7 +47,7 @@
 ## Fase1: Sprint planning
 ### División del trabajo (basado en la rúbrica)
 
-### *Sección de "Producto"*
+### *Sección  "Producto"*
 
 **Responsables**
 
@@ -64,7 +64,7 @@
   
   ***NOTA:*** Para realizar las actividades descritas con anterioridad pueden apoyarse en el documento "*propuesta.proyecto.equipo4.pdf*" localizado en el **main** del repositorio del equipo.
 
-### *Sección de "Requisitos"*
+### *Sección "Requisitos"*
 
 **Responsables**
 
@@ -81,20 +81,20 @@
 
   ***NOTA:*** Para realizar las actividades descritas con anterioridad pueden apoyarse en el documento "*propuesta.proyecto.equipo4.pdf*" localizado en el **main** del repositorio del equipo.
 
-### *Sección de "Proceso"*
+### *Sección "Proceso"*
 
 **Responsables**
 
- 1. *Campos García Karen Elizabeth*.
+ 1. *Campos García Karen Elizabeth:* Sección Proceso.
 
 **Actividades**
- - **Descripción del proceso:** Escribir los requisitos funcionales de forma clara, completa y consistente.  
+ - **Descripción del proceso:** 
  
 
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzI1NzcyNyw2MzA2NjQxNzksMTU0MT
+eyJoaXN0b3J5IjpbLTI1ODc3NzQ5Myw2MzA2NjQxNzksMTU0MT
 k0NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5
 LC0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
 -->
