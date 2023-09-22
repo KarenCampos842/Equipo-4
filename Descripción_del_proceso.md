@@ -89,15 +89,15 @@
 
 **Actividades**
  - **Descripción del proceso:** Describir de forma clara y concreta el proceso de desarrollo para el producto, así como la organización del equipo (roles/responsabilidades definidas). Adicionalmente, elegir una metodología ágil y ayudar a su cumplimiento. 
- - **Gestión del proceso**: Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"descripción del proceso"* (ubicado en la branch "*Primera-Entrega*") a las personas correspondientes.  De igual forma, deberá realizar las actividades descritas en *"Scrum team meeting"* y  escribir una bitácora de las reuniones de equipo mencionando los acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
+ - **Gestión del proceso**: Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"Descripción_del_proceso"* (ubicado en la branch "*Primera-Entrega*") a las personas correspondientes.  De igual forma, deberá realizar las actividades descritas en *"Scrum team meeting"* y  escribir una bitácora de las reuniones de equipo mencionando los acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
  - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido (a criterio del responsable de ésta sección) la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, mediano, alto).  
- - **Organización y Documentación del Repositorio:** Crear archivos en formato StackEdit en la branch de "*Primera-Entrega*" del repositorio del equipo (Equipo-4)  para cada sección (Producto, Requisitos, Presentación del avance y Competencias). En el caso de la sección Proceso, crear un archivo por 
+ - **Organización y Documentación del Repositorio:** Crear archivos en formato StackEdit en la branch de "*Primera-Entrega*" del repositorio del equipo (Equipo-4)  para cada sección (Producto, Requisitos, Presentación del avance y Competencias). En el caso de la sección Proceso, crear un archivo individual para la actividad de Descripción del proceso, Gestión del proceso y Métrica de contribución. 
 
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3MTU3NDUsMTk4OTc0NjM0OCwtMTA0OT
-g0NzM5OCwtMTI4OTY5OTEyNCw2MzA2NjQxNzksMTU0MTk0NTA3
-MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5LC0xMz
-QwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
+eyJoaXN0b3J5IjpbLTEzMzI3NjI5MDIsMTk4OTc0NjM0OCwtMT
+A0OTg0NzM5OCwtMTI4OTY5OTEyNCw2MzA2NjQxNzksMTU0MTk0
+NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5LC
+0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
 -->
