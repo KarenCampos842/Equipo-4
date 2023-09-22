@@ -92,11 +92,15 @@
  - **Gestión del proceso**: Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"Descripción_del_proceso"* (ubicado en la branch "*Primera-Entrega*") a las personas correspondientes.  De igual forma, deberá realizar las actividades descritas en *"Scrum team meeting"* y  escribir una bitácora de las reuniones de equipo mencionando los acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
  - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido (a criterio del responsable de ésta sección) la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, mediano, alto).  
  - **Organización y Documentación del Repositorio:** Crear archivos en formato StackEdit en la branch de "*Primera-Entrega*" del repositorio del equipo (Equipo-4)  para cada sección (Producto, Requisitos, Presentación del avance y Competencias). En el caso de la sección Proceso, crear un archivo individual para la actividad de Descripción del proceso, Gestión del proceso y Métrica de contribución. 
+ 
+ 
+### *Sección "Presentación del avance"*
+
 
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI3NjI5MDIsMTk4OTc0NjM0OCwtMT
+eyJoaXN0b3J5IjpbLTIwMDE1NTIyNjUsMTk4OTc0NjM0OCwtMT
 A0OTg0NzM5OCwtMTI4OTY5OTEyNCw2MzA2NjQxNzksMTU0MTk0
 NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5LC
 0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
