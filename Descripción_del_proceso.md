@@ -34,7 +34,7 @@
 <br>
 
 ### Product Owner 
-<p>Es considerado la voz del cliente dentro del proyecto y <br> el encargado de garantizar que el proyecto cumpla<br> con los objetivos marcados. </p>
+<p>Es considerado la voz del cliente dentro del proyecto y  el encargado de garantizar que el proyecto cumpla con los objetivos marcados. </p>
 <p><strong>Product Owner: Maldonado Medina Hansony de Jesús </strong><br>
 
 <p>En este caso, no tenemos un "cliente" que nos esté <br>solicitando el proyecto. No obstante, Hansony como la<br> persona que generó la idea, se encargará de revisar que <br>el proyecto cumpla con los objetivos.  </p>
@@ -61,5 +61,5 @@ Su rol es ayudar a que el equipo de trabajo cumpla con<br>lo planeado a realizar
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODI0MTczXX0=
+eyJoaXN0b3J5IjpbMjA0ODEzMzQ4NywtOTc4MjQxNzNdfQ==
 -->
