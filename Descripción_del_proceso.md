@@ -34,11 +34,8 @@
 <br>
 
 ### Product Owner 
-<p>Es considerado la voz del cliente dentro del proyecto y el encargado de garantizar que el proyecto cumpla con los objetivos marcados. </p>
-<p><strong>Product Owner: Maldonado Medina Hansony de Jesús </strong><br>
-
-<p>En este caso, no tenemos un "cliente" que nos esté solicitando el proyecto. No obstante, Hansony como la persona que generó la idea, 
-<br> se encargará de revisar que el proyecto cumpla con los objetivos.  </p>
+<p>Es considerado la voz del cliente dentro del proyecto y el encargado de garantizar que el proyecto cumpla con los objetivos marcados. 
+<br><strong>Product Owner: Maldonado Medina Hansony de Jesús </strong></p> En este caso, no tenemos un "cliente" que nos esté solicitando el proyecto. No obstante, Hansony como la persona que generó la idea, se encargará de revisar que el proyecto cumpla con los objetivos.  </p>
 
 ### Scrum master
 <p><strong>Campos García Karen Elizabeth.</p></strong><br>
@@ -49,8 +46,7 @@
 <p>En este caso, no tenemos un "cliente" que nos esté solicitando el proyecto. No obstante, Hansony como la persona que generó la idea, se encargará de revisar que el proyecto cumpla con los objetivos.  </p>
 
 ### Scrum master
-<p><strong>Campos García Karen Elizabeth.</strong><br>
-Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término. Ayuda con cuestiones de organización y adicionalmente de asignación de tareas.</p>
+<p><strong>Campos García Karen Elizabeth.</strong><br>Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término. Ayuda con cuestiones de organización y adicionalmente de asignación de tareas.</p>
  
 <br>
 
@@ -78,7 +74,7 @@ Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzg3MDU1MSwtMzI0NTQ1NTExLDE0ND
-QwODc5MjksLTEzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOTc4MjQx
-NzNdfQ==
+eyJoaXN0b3J5IjpbOTAwNzAwMzMzLC0zMjQ1NDU1MTEsMTQ0ND
+A4NzkyOSwtMTM0MDM3NjE2MywyMDQ4MTMzNDg3LC05NzgyNDE3
+M119
 -->
