@@ -63,6 +63,17 @@
   
   ***NOTA:*** Para realizar las actividades descritas con anterioridad pueden apoyarse en el documento "*propuesta.proyecto.equipo4.pdf*" localizado en el **main** del repositorio del equipo.
 
+### *Sección de "Rrequisitos"*
+
+**Responsables**
+
+ 1. *Rubén Moisés Loria Pech:* Descripción del producto y Usuarios/Clientes. 
+ 2. *Suárez Balam Brandon Emmanuel:* Propuesta de valor. 
+ 
+**Revisor de redacción de "Producto":** *Suárez Balam Brandon Emmanuel:*
+
+**Actividades**
+ - **Descripción del producto:** Escribir de forma clara y específica el objetivo del producto. Definir alcances y limitaciones. <br> 
 
 
 
@@ -72,7 +83,7 @@
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzY2OTc3Miw2MzA2NjQxNzksMTU0MT
-k0NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5
-LC0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
+eyJoaXN0b3J5IjpbLTE0OTM0NzU2MzMsNjMwNjY0MTc5LDE1ND
+E5NDUwNzAsOTAwNzAwMzMzLC0zMjQ1NDU1MTEsMTQ0NDA4Nzky
+OSwtMTM0MDM3NjE2MywyMDQ4MTMzNDg3LC05NzgyNDE3M119
 -->
