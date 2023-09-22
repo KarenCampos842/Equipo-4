@@ -4,7 +4,7 @@
    </center>
 </div>
 <div>
- Durante una reunión de equipo discutimos las ideas para el proyecto de cada integrante para finalmente escoger la de nuestro cooptamos por 
+ Durante una reunión de equipo discutimos las ideas  de proyecto de cada integrante para finalmente escoger la de nuestro compañero Hansony titulada**"Workflash".**
  
   ### Metodología utilizada: SCRUM[^1].
   ## Roles
@@ -86,7 +86,7 @@
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc5OTc3OTIsNjMwNjY0MTc5LDE1ND
-E5NDUwNzAsOTAwNzAwMzMzLC0zMjQ1NDU1MTEsMTQ0NDA4Nzky
-OSwtMTM0MDM3NjE2MywyMDQ4MTMzNDg3LC05NzgyNDE3M119
+eyJoaXN0b3J5IjpbNTE1NzkwNTY4LDYzMDY2NDE3OSwxNTQxOT
+Q1MDcwLDkwMDcwMDMzMywtMzI0NTQ1NTExLDE0NDQwODc5Mjks
+LTEzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOTc4MjQxNzNdfQ==
 -->
