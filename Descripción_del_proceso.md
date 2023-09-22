@@ -91,13 +91,13 @@
  - **Descripción del proceso:** Describir de forma clara y concreta el proceso de desarrollo para el producto, así como la organización del equipo (roles/responsabilidades definidas). Adicionalmente, elegir una metodología ágil y ayudar a su cumplimiento. 
  - **Gestión del proceso**: Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"descripción del proceso"* (ubicado en la branch "*Primera-Entrega*") a las personas correspondientes.  De igual forma, deberá realizar las actividades descritas en *"Scrum team meeting"* y  escribir una bitácora de las reuniones de equipo mencionando los acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
  - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, mediano, alto).  
- - **Organización y Documentación del Repositorio:** Crear archivos en formato StackEdit en la branch de "*Primera-Entrega*" del repositorio del equipo (Equipo-4)  para cada sección d
+ - **Organización y Documentación del Repositorio:** Crear archivos en formato StackEdit en la branch de "*Primera-Entrega*" del repositorio del equipo (Equipo-4)  para cada sección (P
 
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3NDAzNTAwLC0xMDQ5ODQ3Mzk4LC0xMj
-g5Njk5MTI0LDYzMDY2NDE3OSwxNTQxOTQ1MDcwLDkwMDcwMDMz
-MywtMzI0NTQ1NTExLDE0NDQwODc5MjksLTEzNDAzNzYxNjMsMj
-A0ODEzMzQ4NywtOTc4MjQxNzNdfQ==
+eyJoaXN0b3J5IjpbLTIxMzEyMjc4NzYsLTEwNDk4NDczOTgsLT
+EyODk2OTkxMjQsNjMwNjY0MTc5LDE1NDE5NDUwNzAsOTAwNzAw
+MzMzLC0zMjQ1NDU1MTEsMTQ0NDA4NzkyOSwtMTM0MDM3NjE2My
+wyMDQ4MTMzNDg3LC05NzgyNDE3M119
 -->
