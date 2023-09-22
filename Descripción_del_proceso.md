@@ -57,7 +57,9 @@ Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en
 ## Fase1: Sprint planning
 ### División del trabajo (basado en la rúbrica)
 
-#### Sección de "Producto"
+### *Sección de "Producto"*
+
+**Responsables**
 
  - **Descripción del producto:** Escribir de forma clara y específica el objetivo del producto. Definir alcances y limitaciones. <br> 
 <<<<<<< HEAD
@@ -73,12 +75,13 @@ Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en
 
 
 
+
  
 
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyNDMxNjUsLTMyNDU0NTUxMSwxNDQ0MD
-g3OTI5LC0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTcz
-XX0=
+eyJoaXN0b3J5IjpbLTE1OTgzOTgwMzMsLTMyNDU0NTUxMSwxND
+Q0MDg3OTI5LC0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0
+MTczXX0=
 -->
