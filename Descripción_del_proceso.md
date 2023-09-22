@@ -95,13 +95,38 @@
  
  
 ### *Sección "Presentación del avance"*
-
-
+**Responsables**
+<table align=center>  
+   <tr>  
+      <th bgcolor="#D18888" >Nombres</th>  
+      <th bgcolor="#D18888" >Actividades</th>  
+   </tr> 
+    <tr>  
+      <td>Campos García Karen Elizabeth</td>  
+       <td>Edi</td>  
+   </tr> 
+   <tr>  
+      <td>Cárdenas Rojas Kendrick Asaf</td>  
+   </tr> 
+    <tr>  
+      <td>Maldonado Medina Hansony de Jesús</td>  
+   </tr> 
+    <tr>  
+      <td>Romero Poot Carlos Emmanuel</td>  
+   </tr> 
+     <tr>  
+      <td>Rubén Moisés Loria Pech</td>  
+   </tr> 
+    <tr>  
+      <td>Suárez Balam Brandon Emmanuel</td>  
+   </tr> 
+ </table>
+ 
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDE1NTIyNjUsMTk4OTc0NjM0OCwtMT
-A0OTg0NzM5OCwtMTI4OTY5OTEyNCw2MzA2NjQxNzksMTU0MTk0
-NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5LC
-0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
+eyJoaXN0b3J5IjpbLTgxNzAwMTg5OSwxOTg5NzQ2MzQ4LC0xMD
+Q5ODQ3Mzk4LC0xMjg5Njk5MTI0LDYzMDY2NDE3OSwxNTQxOTQ1
+MDcwLDkwMDcwMDMzMywtMzI0NTQ1NTExLDE0NDQwODc5MjksLT
+EzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOTc4MjQxNzNdfQ==
 -->
