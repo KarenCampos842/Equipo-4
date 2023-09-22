@@ -34,7 +34,6 @@
 <br>
 
 ### Product Owner 
-<<<<<<< HEAD
 <p>Es considerado la voz del cliente dentro del proyecto y el encargado de garantizar que el proyecto cumpla con los objetivos marcados. </p>
 <p><strong>Product Owner: Maldonado Medina Hansony de Jesús </strong><br>
 
@@ -43,8 +42,7 @@
 
 ### Scrum master
 <p><strong>Campos García Karen Elizabeth.</strong><br>
-Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término. Ayuda con cuestiones
-<br> de organización y adicionalmente de asignación de tareas.</p>
+Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término. Ayuda con cuestionesde organización y adicionalmente de asignación de tareas.</p>
 =======
 <p>Es considerado la voz del cliente dentro del proyecto y  el encargado de garantizar que el proyecto cumpla con los objetivos marcados. </p>
 <p><strong>Product Owner: Maldonado Medina Hansony de Jesús </strong><br>
@@ -83,7 +81,7 @@ Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTEzNzc1OCwtMzI0NTQ1NTExLDE0ND
+eyJoaXN0b3J5IjpbMTY1Mjc5MjAwMCwtMzI0NTQ1NTExLDE0ND
 QwODc5MjksLTEzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOTc4MjQx
 NzNdfQ==
 -->
