@@ -52,7 +52,7 @@
  1. *Rubén Moisés Loria Pech:* Descripción del producto y Usuarios/Clientes. 
  2. *Suárez Balam Brandon Emmanuel:* Propuesta de valor. 
  
-**Revisor de redacción de "Producto":** *Suárez Balam Brandon Emmanuel:*
+**Revisor de redacción de "Producto":** *Suárez Balam Brandon Emmanuel.*
 
 **Actividades**
  - **Descripción del producto:** Escribir de forma clara y específica el objetivo del producto. Definir alcances y limitaciones. <br> 
@@ -68,9 +68,9 @@
 **Responsables**
 
  1. *Maldonado Medina Hansony de Jesús:* Requisitos funcionales Y Requisitos no funcionales.
- 2. *Suárez Balam Brandon Emmanuel:* Propuesta de valor. 
+ 2. *Romero Poot Carlos Emmanuel:* Priorización y Artefactos.
  
-**Revisor de redacción de "Producto":** *Suárez Balam Brandon Emmanuel:*
+**Revisor de redacción de "Producto":** *Romero Poot Carlos Emmanuel.*
 
 **Actividades**
  - **Descripción del producto:** Escribir de forma clara y específica el objetivo del producto. Definir alcances y limitaciones. <br> 
@@ -83,7 +83,7 @@
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MTA1NjM3LDYzMDY2NDE3OSwxNTQxOT
-Q1MDcwLDkwMDcwMDMzMywtMzI0NTQ1NTExLDE0NDQwODc5Mjks
-LTEzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOTc4MjQxNzNdfQ==
+eyJoaXN0b3J5IjpbMjAxMzY4NDQxMyw2MzA2NjQxNzksMTU0MT
+k0NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5
+LC0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
 -->
