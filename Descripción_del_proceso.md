@@ -60,19 +60,15 @@ Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en
 ### *Sección de "Producto"*
 
 **Responsables**
-Rubén Moisés Loria Pech: Descripción del producto y Usuarios/Clientes.
+*Rubén Moisés Loria Pech:* Descripción del producto y Usuarios/Clientes.
+*Suárez Balam Brandon Emmanuel:* Propuesta de 
 
  - **Descripción del producto:** Escribir de forma clara y específica el objetivo del producto. Definir alcances y limitaciones. <br> 
 
- - **Usuarios/Clientes:** Escribir quienes serán los usuarios primarios, secundarios y potenciales. Describir características relevantes (investigar)
-  <br>de los usuarios de cada tipo (edad,  ubicación geográfica, nivel socioeconómico, etc.) y posibles escenarios en los que utilizarían el producto.<br>
- - **Propuesta de valor:** Describir en qué consiste el producto y cómo se diferencia  de productos similares (investigar un producto similar y <br>comparar con el nuestro). 
- <br>Preguntas guía: ¿Qué incluye este producto que no hacen otros?, ¿Existe una necesidad identificada?, ¿Por qué se podría considerar de valor la propuesta?
+ - **Usuarios/Clientes:** Escribir quienes serán los usuarios primarios, secundarios y potenciales. Describir características relevantes (investigar) de los usuarios de cada tipo (edad,  ubicación geográfica, nivel socioeconómico, etc.) y posibles escenarios en los que utilizarían el producto.<br>
+ - **Propuesta de valor:** Describir en qué consiste el producto y cómo se diferencia  de productos similares (investigar un producto similar y <br>comparar con el nuestro).  <br>Preguntas guía: ¿Qué incluye este producto que no hacen otros?, ¿Existe una necesidad identificada?, ¿Por qué se podría considerar de valor la propuesta?
 <br> ***NOTA:*** Para realizar las actividades descritas con anterioridad pueden apoyarse en lo descrito en el documento "*propuesta.proyecto.equipo4.pdf*" localizado en el **main** del repositorio del equipo.
 
- - **Usuarios/Clientes:** Escribir quienes serán los usuarios primarios, secundarios y potenciales. Describir características relevantes (investigar) de  los usuarios de cada tipo (edad,  ubicación geográfica, nivel socioeconómico, etc.)  y posibles escenarios en los que utilizarían el producto. 
- - **Propuesta de valor:** Describir en qué consiste el producto y cómo se diferencia  de productos similares (investigar un producto similar y comparar con el nuestro). <br>Preguntas guía: ¿Qué incluye este producto que no hacen otros?, ¿Existe una necesidad identificada?, ¿Por qué se podría considerar de valor la propuesta?
- <br>***NOTA:***  Para realizar las actividades descritas con anterioridad pueden apoyarse en lo descrito en el documento "*propuesta.proyecto.equipo4.pdf*" localizado en el **main** del repositorio del equipo.
 
 
 
@@ -82,7 +78,7 @@ Rubén Moisés Loria Pech: Descripción del producto y Usuarios/Clientes.
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTYyMDg2NDQsLTMyNDU0NTUxMSwxND
-Q0MDg3OTI5LC0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0
-MTczXX0=
+eyJoaXN0b3J5IjpbODc0ODU1MTIzLC0zMjQ1NDU1MTEsMTQ0ND
+A4NzkyOSwtMTM0MDM3NjE2MywyMDQ4MTMzNDg3LC05NzgyNDE3
+M119
 -->
