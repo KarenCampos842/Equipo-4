@@ -116,22 +116,22 @@
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
-       <td>Diálogo en español para el video. Síntesis de los requisitos funcionales y requisitos no funcionales tomando en cuanta el orden por prioridad. Síntesis de la actividad Artefactos.</td>  
+       <td>Diálogo en español para el video (1 min máx.). Síntesis de los requisitos funcionales y requisitos no funcionales tomando en cuanta el orden por prioridad. Síntesis de la actividad Artefactos.</td>  
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
-        <td>Diálogo en español para el video. Síntesis de las actividades Descripción del producto y Usuarios/Clientes (1 min max.).</td>  
+        <td>Diálogo en español para el video  (1 min máx.). Síntesis de las actividades Descripción del producto y Usuarios/Clientes.</td>  
    </tr> 
     <tr>  
       <td>Suárez Balam Brandon Emmanuel</td> 
-      <td>Diálogo en español para el video. Síntesis de la actividad Propuesta de valor (1 min). </td>   
+      <td>Diálogo en español para el video  (1 min máx.). Síntesis de la actividad Propuesta de valor. </td>   
    </tr> 
  </table>
  
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTI1MzAyMSw5MTc3OTg5OTUsLTExND
+eyJoaXN0b3J5IjpbLTE2NzA0NzMwMSw5MTc3OTg5OTUsLTExND
 E2MjUxNDcsMTk4OTc0NjM0OCwtMTA0OTg0NzM5OCwtMTI4OTY5
 OTEyNCw2MzA2NjQxNzksMTU0MTk0NTA3MCw5MDA3MDAzMzMsLT
 MyNDU0NTUxMSwxNDQ0MDg3OTI5LC0xMzQwMzc2MTYzLDIwNDgx
