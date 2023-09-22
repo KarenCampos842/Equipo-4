@@ -81,12 +81,11 @@
 
   ***NOTA:*** Para realizar las actividades descritas con anterioridad pueden apoyarse en el documento "*propuesta.proyecto.equipo4.pdf*" localizado en el **main** del repositorio del equipo.
 
-### *Sección de "Requisitos"*
+### *Sección de "Proceso"*
 
 **Responsables**
 
- 1. *Maldonado Medina Hansony de Jesús:* Requisitos funcionales Y Requisitos no funcionales.
- 2. *Romero Poot Carlos Emmanuel:* Priorización y Artefactos.
+ 1. *Camp.
  
 **Revisor de redacción de "Producto":** *Romero Poot Carlos Emmanuel.*
 
@@ -97,7 +96,7 @@
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgxNDg1Niw2MzA2NjQxNzksMTU0MT
-k0NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5
-LC0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
+eyJoaXN0b3J5IjpbLTE2NTkxOTU4NTcsNjMwNjY0MTc5LDE1ND
+E5NDUwNzAsOTAwNzAwMzMzLC0zMjQ1NDU1MTEsMTQ0NDA4Nzky
+OSwtMTM0MDM3NjE2MywyMDQ4MTMzNDg3LC05NzgyNDE3M119
 -->
