@@ -127,13 +127,21 @@
       <td>Diálogo en español para el video  (1 min máx.). Síntesis de la actividad Propuesta de valor. </td>   
    </tr> 
  </table>
- <BR>
+ <br>
  
+ ### *Sección "Competencias"*
+
+**Responsables**
+
+ 1. *Cárdenas Rojas Kendrick Asaf:* Sección Competencias.
+
+**Actividades**
+ - **Come:** Describir de forma clara y concreta el proceso de desarrollo para el producto, así como la organización del equipo (roles/responsabilidades definidas). Adicionalmente, elegir una metodología ágil y ayudar a su cumplimiento. 
  
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQyMDY5NzEsOTE3Nzk4OTk1LC0xMT
+eyJoaXN0b3J5IjpbLTE1NDMwMDE3MjUsOTE3Nzk4OTk1LC0xMT
 QxNjI1MTQ3LDE5ODk3NDYzNDgsLTEwNDk4NDczOTgsLTEyODk2
 OTkxMjQsNjMwNjY0MTc5LDE1NDE5NDUwNzAsOTAwNzAwMzMzLC
 0zMjQ1NDU1MTEsMTQ0NDA4NzkyOSwtMTM0MDM3NjE2MywyMDQ4
