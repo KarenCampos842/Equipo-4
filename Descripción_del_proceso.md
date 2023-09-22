@@ -103,7 +103,7 @@
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
-       <td>Editar un video de máximo 5 minutos presentando una síntesis de las secciones Producto, Requisitos, Proceso  y Competencias. El video debe contener audio en inglés (implica traducir de español a inglés los diálogos).
+       <td>Editar un video de máximo 5 minutos presentando una síntesis de las secciones Producto, Requisitos y Proceso. El video debe contener audio en inglés (implica traducir de español a inglés los diálogos). 
      </td>  
    </tr> 
    <tr>  
@@ -112,7 +112,7 @@
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
-      <td>Diálogo para el video. Síntesis de la forma de verificación de los requisitos no funcionales. </td>  
+      <td>Diálogo para el video. Síntesis de la forma de verificación de los requisitos no funcionales  (1 min máx.). </td>  
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
@@ -131,9 +131,9 @@
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA0NzMwMSw5MTc3OTg5OTUsLTExND
-E2MjUxNDcsMTk4OTc0NjM0OCwtMTA0OTg0NzM5OCwtMTI4OTY5
-OTEyNCw2MzA2NjQxNzksMTU0MTk0NTA3MCw5MDA3MDAzMzMsLT
-MyNDU0NTUxMSwxNDQ0MDg3OTI5LC0xMzQwMzc2MTYzLDIwNDgx
-MzM0ODcsLTk3ODI0MTczXX0=
+eyJoaXN0b3J5IjpbLTE4Mzk1NDY4MzgsOTE3Nzk4OTk1LC0xMT
+QxNjI1MTQ3LDE5ODk3NDYzNDgsLTEwNDk4NDczOTgsLTEyODk2
+OTkxMjQsNjMwNjY0MTc5LDE1NDE5NDUwNzAsOTAwNzAwMzMzLC
+0zMjQ1NDU1MTEsMTQ0NDA4NzkyOSwtMTM0MDM3NjE2MywyMDQ4
+MTMzNDg3LC05NzgyNDE3M119
 -->
