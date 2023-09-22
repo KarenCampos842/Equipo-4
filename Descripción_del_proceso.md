@@ -103,7 +103,7 @@
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
-       <td>Editar un video de máximo 5 minutos presentando una síntesis de las secciones Producto, Requisitos y Proceso. El video debe contener audio en inglés (implica traducir de español a inglés los diálogos). 
+       <td>Editar un video de máximo 5 minutos presentando una síntesis de las secciones Producto, Requisitos y Proceso. El video debe contener audio en inglés (implica traducir de español a inglés los diálogos). Igualmente, realizar el diálogo para la sección Proceso  (1 min máx.).
      </td>  
    </tr> 
    <tr>  
@@ -127,11 +127,13 @@
       <td>Diálogo en español para el video  (1 min máx.). Síntesis de la actividad Propuesta de valor. </td>   
    </tr> 
  </table>
+ <BR>
+ 
  
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzk1NDY4MzgsOTE3Nzk4OTk1LC0xMT
+eyJoaXN0b3J5IjpbLTEzMTQyMDY5NzEsOTE3Nzk4OTk1LC0xMT
 QxNjI1MTQ3LDE5ODk3NDYzNDgsLTEwNDk4NDczOTgsLTEyODk2
 OTkxMjQsNjMwNjY0MTc5LDE1NDE5NDUwNzAsOTAwNzAwMzMzLC
 0zMjQ1NDU1MTEsMTQ0NDA4NzkyOSwtMTM0MDM3NjE2MywyMDQ4
