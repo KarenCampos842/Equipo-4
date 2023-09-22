@@ -74,7 +74,7 @@
 
 **Actividades**
  - **Requisitos funcionales:** Escribir los requisitos funcionales de forma clara, completa y consistente. <br> 
- - **Requisitos no funcionales
+ - **Requisitos no funcionales:** Escribir los requisitos no funcionales de forma clara, completa y consistente (escribir solo los que podríamos verificar y la forma en
 
 
 
@@ -84,7 +84,7 @@
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDM1MTQwOSw2MzA2NjQxNzksMTU0MT
-k0NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5
-LC0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
+eyJoaXN0b3J5IjpbLTEyNTAzODY4OTgsNjMwNjY0MTc5LDE1ND
+E5NDUwNzAsOTAwNzAwMzMzLC0zMjQ1NDU1MTEsMTQ0NDA4Nzky
+OSwtMTM0MDM3NjE2MywyMDQ4MTMzNDg3LC05NzgyNDE3M119
 -->
