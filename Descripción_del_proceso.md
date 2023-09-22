@@ -46,7 +46,7 @@
 
 ## Fase1: Sprint planning
 ### División del trabajo (basado en la rúbrica)
-
+NOTA: Se encontr
 ### *Sección  "Producto"*
 
 **Responsables**
@@ -142,9 +142,9 @@
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0OTMyNzUsOTE3Nzk4OTk1LC0xMTQxNj
-I1MTQ3LDE5ODk3NDYzNDgsLTEwNDk4NDczOTgsLTEyODk2OTkx
-MjQsNjMwNjY0MTc5LDE1NDE5NDUwNzAsOTAwNzAwMzMzLC0zMj
-Q1NDU1MTEsMTQ0NDA4NzkyOSwtMTM0MDM3NjE2MywyMDQ4MTMz
-NDg3LC05NzgyNDE3M119
+eyJoaXN0b3J5IjpbLTE2MDIwMjg4OTgsNzc0OTMyNzUsOTE3Nz
+k4OTk1LC0xMTQxNjI1MTQ3LDE5ODk3NDYzNDgsLTEwNDk4NDcz
+OTgsLTEyODk2OTkxMjQsNjMwNjY0MTc5LDE1NDE5NDUwNzAsOT
+AwNzAwMzMzLC0zMjQ1NDU1MTEsMTQ0NDA4NzkyOSwtMTM0MDM3
+NjE2MywyMDQ4MTMzNDg3LC05NzgyNDE3M119
 -->
