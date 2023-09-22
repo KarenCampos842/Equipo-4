@@ -68,7 +68,7 @@
 
 **Responsables**
 
- 1. *Maldonado Medina Hansony de Jesús:* Requisitos funcionales Y Requisitos no funcionales.
+ 1. *Maldonado Medina Hansony de Jesús:* Requisitos funcionales y Requisitos no funcionales.
  2. *Romero Poot Carlos Emmanuel:* Priorización y Artefactos.
  
 **Revisor de redacción de "Producto":** *Romero Poot Carlos Emmanuel.*
@@ -85,18 +85,16 @@
 
 **Responsables**
 
- 1. *Camp.
- 
-**Revisor de redacción de "Producto":** *Romero Poot Carlos Emmanuel.*
+ 1. *Campos García Karen Elizabeth*.
 
 **Actividades**
- - **Requisitos funcionales:** Escribir los requisitos funcionales de forma clara, completa y consistente. <br> 
+ - **Descripción del proceso:** Escribir los requisitos funcionales de forma clara, completa y consistente.  
  
 
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTkxOTU4NTcsNjMwNjY0MTc5LDE1ND
-E5NDUwNzAsOTAwNzAwMzMzLC0zMjQ1NDU1MTEsMTQ0NDA4Nzky
-OSwtMTM0MDM3NjE2MywyMDQ4MTMzNDg3LC05NzgyNDE3M119
+eyJoaXN0b3J5IjpbLTU5NzI1NzcyNyw2MzA2NjQxNzksMTU0MT
+k0NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5
+LC0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
 -->
