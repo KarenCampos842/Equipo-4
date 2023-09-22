@@ -108,7 +108,7 @@
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
-       <td>Realiz.</td>  
+       <td>Apoyar en la edición del video (realizar actividades a solicitud de Karen).</td>  
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
@@ -131,7 +131,7 @@
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzcyMjYzNiwtMTE0MTYyNTE0NywxOT
+eyJoaXN0b3J5IjpbMTIyNjIyNzcxMywtMTE0MTYyNTE0NywxOT
 g5NzQ2MzQ4LC0xMDQ5ODQ3Mzk4LC0xMjg5Njk5MTI0LDYzMDY2
 NDE3OSwxNTQxOTQ1MDcwLDkwMDcwMDMzMywtMzI0NTQ1NTExLD
 E0NDQwODc5MjksLTEzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOTc4
