@@ -34,14 +34,16 @@
 <br>
 
 ### Product Owner 
-<p>Es considerado la voz del cliente dentro del proyecto y <br> el encargado de garantizar que el proyecto cumpla<br> con los objetivos marcados. </p>
+<p>Es considerado la voz del cliente dentro del proyecto y el encargado de garantizar que el proyecto cumpla con los objetivos marcados. </p>
 <p><strong>Product Owner: Maldonado Medina Hansony de Jesús </strong><br>
 
-<p>En este caso, no tenemos un "cliente" que nos esté <br>solicitando el proyecto. No obstante, Hansony como la<br> persona que generó la idea, se encargará de revisar que <br>el proyecto cumpla con los objetivos.  </p>
+<p>En este caso, no tenemos un "cliente" que nos esté solicitando el proyecto. No obstante, Hansony como la persona que generó la idea, 
+<br> se encargará de revisar que el proyecto cumpla con los objetivos.  </p>
 
 ### Scrum master
 <p><strong>Campos García Karen Elizabeth.</strong><br>
-Su rol es ayudar a que el equipo de trabajo cumpla con<br>lo planeado a realizar en el proyecto para llevarlo a<br>buen término. Ayuda con cuestiones de organización<br> y adicionalmente de asignación de tareas.</p>
+Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término. Ayuda con cuestiones
+<br> de organización y adicionalmente de asignación de tareas.</p>
  
 <br>
 
@@ -50,10 +52,13 @@ Su rol es ayudar a que el equipo de trabajo cumpla con<br>lo planeado a realizar
 
 #### Sección de "Producto"
 
- - **Descripción del producto:** Escribir de forma clara<br> y específica el objetivo del producto. Definir <br> alcances y limitaciones. <br> 
- - **Usuarios/Clientes:** Escribir quienes serán los<br> usuarios primarios, secundarios y potenciales. <br> Describir características relevantes (investigar) de <br> los usuarios de cada tipo (edad,  ubicación <br> geográfica, nivel socioeconómico, etc.)  y posibles <br> escenarios en los que utilizarían el producto. 
- - **Propuesta de valor:** Describir en qué consiste el <br>producto y cómo se diferencia  de productos <br>similares (investigar un producto similar y <br>comparar con el nuestro). <br>Preguntas guía: ¿Qué incluye este producto que no <br>hacen otros? ¿Existe una necesidad identificada? <br>¿Por qué se podría considerar de valor la propuesta?
- ***NOTA:***  Para realizar las actividades descritas con <br>anterioridad pueden apoyarse en lo descrito en el <br>documento "*propuesta.proyecto.equipo4.pdf*"  <br>localizado en el **main** del repositorio del equipo.
+ - **Descripción del producto:** Escribir de forma clara y específica el objetivo del producto. Definir alcances y limitaciones. <br> 
+ - **Usuarios/Clientes:** Escribir quienes serán los usuarios primarios, secundarios y potenciales. Describir características relevantes (investigar)
+  <br>de los usuarios de cada tipo (edad,  ubicación geográfica, nivel socioeconómico, etc.) y posibles escenarios en los que utilizarían el producto.<br>
+ - **Propuesta de valor:** Describir en qué consiste el producto y cómo se diferencia  de productos similares (investigar un producto similar y <br>comparar con el nuestro). 
+ <br>Preguntas guía: ¿Qué incluye este producto que no hacen otros?, ¿Existe una necesidad identificada?, ¿Por qué se podría considerar de valor la propuesta?
+<br> ***NOTA:*** Para realizar las actividades descritas con anterioridad pueden apoyarse en lo descrito en el documento "*propuesta.proyecto.equipo4.pdf*" 
+<br>localizado en el **main** del repositorio del equipo.
 
 
  
