@@ -112,7 +112,7 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
-      <td>Diálogo para el video. Síntesis de la forma de verificación de los requisitos no funcionales  (1 min máx.). </td>  
+      <td>Diálogo para el video  (1 min máx.). Síntesis de la forma de verificación de los requisitos no funcionales. </td>  
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
@@ -137,15 +137,15 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
 
 **Actividades**
  - **Competencias genéricas:** Argumentar de qué forma se promueven las competencias genéricas a través de las actividades específicas del desarrollo del producto.
- **- Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto. 
+ - **Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto. 
  
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTE1MTQwLC0xOTgyMjU0MDM1LDc3ND
-kzMjc1LDkxNzc5ODk5NSwtMTE0MTYyNTE0NywxOTg5NzQ2MzQ4
-LC0xMDQ5ODQ3Mzk4LC0xMjg5Njk5MTI0LDYzMDY2NDE3OSwxNT
-QxOTQ1MDcwLDkwMDcwMDMzMywtMzI0NTQ1NTExLDE0NDQwODc5
-MjksLTEzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOTc4MjQxNzNdfQ
-==
+eyJoaXN0b3J5IjpbLTIxMjc1MDAyMzIsMTY3OTE1MTQwLC0xOT
+gyMjU0MDM1LDc3NDkzMjc1LDkxNzc5ODk5NSwtMTE0MTYyNTE0
+NywxOTg5NzQ2MzQ4LC0xMDQ5ODQ3Mzk4LC0xMjg5Njk5MTI0LD
+YzMDY2NDE3OSwxNTQxOTQ1MDcwLDkwMDcwMDMzMywtMzI0NTQ1
+NTExLDE0NDQwODc5MjksLTEzNDAzNzYxNjMsMjA0ODEzMzQ4Ny
+wtOTc4MjQxNzNdfQ==
 -->
