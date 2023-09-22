@@ -51,9 +51,9 @@ Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en
 #### Sección de "Producto"
 
  - **Descripción del producto:** Escribir de forma clara y específica el objetivo del producto. Definir alcances y limitaciones. <br> 
- - **Usuarios/Clientes:** Escribir quienes serán los usuarios primarios, secundarios y potenciales. Describir características relevantes (investigar) de  los usuarios de cada tipo (edad,  ubicación <br> geográfica, nivel socioeconómico, etc.)  y posibles <br> escenarios en los que utilizarían el producto. 
+ - **Usuarios/Clientes:** Escribir quienes serán los usuarios primarios, secundarios y potenciales. Describir características relevantes (investigar) de  los usuarios de cada tipo (edad,  ubicación geográfica, nivel socioeconómico, etc.)  y posibles escenarios en los que utilizarían el producto. 
  - **Propuesta de valor:** Describir en qué consiste el <br>producto y cómo se diferencia  de productos <br>similares (investigar un producto similar y <br>comparar con el nuestro). <br>Preguntas guía: ¿Qué incluye este producto que no <br>hacen otros? ¿Existe una necesidad identificada? <br>¿Por qué se podría considerar de valor la propuesta?
- ***NOTA:***  Para realizar las actividades descritas con <br>anterioridad pueden apoyarse en lo descrito en el <br>documento "*propuesta.proyecto.equipo4.pdf*"  <br>localizado en el **main** del repositorio del equipo.
+ <br>***NOTA:***  Para realizar las actividades descritas con anterioridad pueden apoyarse en lo descrito en el documento "*propuesta.proyecto.equipo4.pdf*" localizado en el **main** del repositorio del equipo.
 
 
  
@@ -61,6 +61,6 @@ Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOT
-c4MjQxNzNdfQ==
+eyJoaXN0b3J5IjpbMTQ0NDA4NzkyOSwtMTM0MDM3NjE2MywyMD
+Q4MTMzNDg3LC05NzgyNDE3M119
 -->
