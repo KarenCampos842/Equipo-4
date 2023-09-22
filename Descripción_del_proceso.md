@@ -35,17 +35,12 @@
 
 ### Product Owner 
 <p>Es considerado la voz del cliente dentro del proyecto y el encargado de garantizar que el proyecto cumpla con los objetivos marcados. 
-<br><strong>Product Owner: Maldonado Medina Hansony de Jesús </strong></p> En este caso, no tenemos un "cliente" que nos esté solicitando el proyecto. No obstante, Hansony como la persona que generó la idea, se encargará de revisar que el proyecto cumpla con los objetivos.  </p>
+<br><strong>Product Owner: Maldonado Medina Hansony de Jesús </strong> En este caso, no tenemos un "cliente" que nos esté solicitando el proyecto. No obstante, Hansony como la persona que generó la idea, se encargará de revisar que el proyecto cumpla con los objetivos.  </p>
 
-### Scrum master
-<p><strong>Campos García Karen Elizabeth.</p></strong><br>
-<p>Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término. Ayuda con cuestiones de organización y adicionalmente de asignación de tareas.</p>
-<p>Es considerado la voz del cliente dentro del proyecto y  el encargado de garantizar que el proyecto cumpla con los objetivos marcados. </p>
 
 ### Scrum master
 <p><strong>Campos García Karen Elizabeth.</strong><br>Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término. Ayuda con cuestiones de organización y adicionalmente de asignación de tareas.</p>
- 
-<br>
+
 
 ## Fase1: Sprint planning
 ### División del trabajo (basado en la rúbrica)
@@ -75,7 +70,7 @@ Suárez Balam Brandon Emmanuel:* Propuesta de valor. <br>
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA0OTY2NjQsOTAwNzAwMzMzLC0zMj
-Q1NDU1MTEsMTQ0NDA4NzkyOSwtMTM0MDM3NjE2MywyMDQ4MTMz
-NDg3LC05NzgyNDE3M119
+eyJoaXN0b3J5IjpbMTU0MTk0NTA3MCw5MDA3MDAzMzMsLTMyND
+U0NTUxMSwxNDQ0MDg3OTI5LC0xMzQwMzc2MTYzLDIwNDgxMzM0
+ODcsLTk3ODI0MTczXX0=
 -->
