@@ -57,9 +57,8 @@
 **Revisor de redacción de "Producto":** *Suárez Balam Brandon Emmanuel.*
 
 **Actividades**
- - **Descripción del producto:** Escribir de forma clara y específica el objetivo del producto. Definir alcances y limitaciones. <br> 
-
- - **Usuarios/Clientes:** Escribir quienes serán los usuarios primarios, secundarios y potenciales. Describir características relevantes (investigar) de los usuarios de cada tipo (edad,  ubicación geográfica, nivel socioeconómico, etc.) y posibles escenarios en los que utilizarían el producto.<br>
+ - **Descripción del producto:** Escribir de forma clara y específica el objetivo del producto. Definir alcances y limitaciones. 
+ - **Usuarios/Clientes:** Escribir quienes serán los usuarios primarios, secundarios y potenciales. Describir características relevantes (investigar) de los usuarios de cada tipo (edad,  ubicación geográfica, nivel socioeconómico, etc.) y posibles escenarios en los que utilizarían el producto.
  - **Propuesta de valor:** Describir en qué consiste el producto y cómo se diferencia  de productos similares (investigar un producto similar y comparar con el nuestro).  <br>Preguntas guía: ¿Qué incluye este producto que no hacen otros?, ¿Existe una necesidad identificada?, ¿Por qué se podría considerar de valor la propuesta?
 
   
@@ -78,16 +77,27 @@
  - **Requisitos funcionales:** Escribir los requisitos funcionales de forma clara, completa y consistente. 
  - **Requisitos no funcionales:** Escribir los requisitos no funcionales de forma clara, completa y consistente (escribir solo los que podríamos verificar). Escribir por cada requisito una forma de verificarlo. 
  - **Priorización:** Ordenar los requisitos funcionales y no funcionales utilizando la metodología de *"MoSCoW".* 
+ - **Artefactos**: Se incluyen como evidencia artefactos que especifican los Requisitos, incluye excepciones a considerar (*casos de uso, historias de usuario con criterios de aceptación). Se presenta un diagrama que resume el conjunto de requisitos (ej. Diagrama de Casos de Uso).
 
   ***NOTA:*** Para realizar las actividades descritas con anterioridad pueden apoyarse en el documento "*propuesta.proyecto.equipo4.pdf*" localizado en el **main** del repositorio del equipo.
 
+### *Sección de "Requisitos"*
 
+**Responsables**
+
+ 1. *Maldonado Medina Hansony de Jesús:* Requisitos funcionales Y Requisitos no funcionales.
+ 2. *Romero Poot Carlos Emmanuel:* Priorización y Artefactos.
+ 
+**Revisor de redacción de "Producto":** *Romero Poot Carlos Emmanuel.*
+
+**Actividades**
+ - **Requisitos funcionales:** Escribir los requisitos funcionales de forma clara, completa y consistente. <br> 
  
 
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzIwNzEzNSw2MzA2NjQxNzksMTU0MT
+eyJoaXN0b3J5IjpbMTA4NDQ1MjI2Miw2MzA2NjQxNzksMTU0MT
 k0NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5
 LC0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
 -->
