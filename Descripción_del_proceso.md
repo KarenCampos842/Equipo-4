@@ -142,14 +142,14 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
 ## Scrum team meeting
  Karen se encargará de realizar reuniones con el equipo vía Teams de no más de 15 minutos  para monitorear el trabajo realizado.
  ## Sprint Review
- Se realizará una reunión al finalizar el 
+ Se realizará una reunión al finalizar el sprint
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzY0NDA5MSwxOTU4OTQ2NzIwLC0yMT
-I3NTAwMjMyLDE2NzkxNTE0MCwtMTk4MjI1NDAzNSw3NzQ5MzI3
-NSw5MTc3OTg5OTUsLTExNDE2MjUxNDcsMTk4OTc0NjM0OCwtMT
-A0OTg0NzM5OCwtMTI4OTY5OTEyNCw2MzA2NjQxNzksMTU0MTk0
-NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5LC
-0xMzQwMzc2MTYzLDIwNDgxMzM0ODcsLTk3ODI0MTczXX0=
+eyJoaXN0b3J5IjpbNTM3MTE2NTc3LDE5NTg5NDY3MjAsLTIxMj
+c1MDAyMzIsMTY3OTE1MTQwLC0xOTgyMjU0MDM1LDc3NDkzMjc1
+LDkxNzc5ODk5NSwtMTE0MTYyNTE0NywxOTg5NzQ2MzQ4LC0xMD
+Q5ODQ3Mzk4LC0xMjg5Njk5MTI0LDYzMDY2NDE3OSwxNTQxOTQ1
+MDcwLDkwMDcwMDMzMywtMzI0NTQ1NTExLDE0NDQwODc5MjksLT
+EzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOTc4MjQxNzNdfQ==
 -->
