@@ -44,7 +44,7 @@
 <p><strong>Campos García Karen Elizabeth.</strong><br>Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término tomando en consideración la metodología SCRUM.  Ayuda con cuestiones de organización y adicionalmente de asignación de tareas. Así mismo, será la encargada de aceptar los "pull request".</p>
 
 
-## Fase1: Sprint planning
+## Sprint planning
 ### División del trabajo (basado en la rúbrica)
 NOTA: Se encontrarán archivos para cada sección divididos por actividad en la branch de Primera-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Primera-Entrega. Así mismo, marcar con ayuda del board de Proyecto_FIS el estado de la actividad (In Progress o Done). 
 ### *Sección  "Producto"*
@@ -71,7 +71,7 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
  1. *Maldonado Medina Hansony de Jesús:* Requisitos funcionales y Requisitos no funcionales.
  2. *Romero Poot Carlos Emmanuel:* Priorización y Artefactos.
  
-**Revisor de redacción de "Producto":** *Romero Poot Carlos Emmanuel.*
+**Revisor de redacción de "Requisitos":** *Romero Poot Carlos Emmanuel.*
 
 **Actividades**
  - **Requisitos funcionales:** Escribir los requisitos funcionales de forma clara, completa y consistente. 
@@ -138,14 +138,16 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
 **Actividades**
  - **Competencias genéricas:** Argumentar de qué forma se promueven las competencias genéricas a través de las actividades específicas del desarrollo del producto.
  - **Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto. 
+
+## Scrum team meeting
  
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc1MDAyMzIsMTY3OTE1MTQwLC0xOT
-gyMjU0MDM1LDc3NDkzMjc1LDkxNzc5ODk5NSwtMTE0MTYyNTE0
-NywxOTg5NzQ2MzQ4LC0xMDQ5ODQ3Mzk4LC0xMjg5Njk5MTI0LD
-YzMDY2NDE3OSwxNTQxOTQ1MDcwLDkwMDcwMDMzMywtMzI0NTQ1
-NTExLDE0NDQwODc5MjksLTEzNDAzNzYxNjMsMjA0ODEzMzQ4Ny
-wtOTc4MjQxNzNdfQ==
+eyJoaXN0b3J5IjpbMTk0OTI4MTMxMCwtMjEyNzUwMDIzMiwxNj
+c5MTUxNDAsLTE5ODIyNTQwMzUsNzc0OTMyNzUsOTE3Nzk4OTk1
+LC0xMTQxNjI1MTQ3LDE5ODk3NDYzNDgsLTEwNDk4NDczOTgsLT
+EyODk2OTkxMjQsNjMwNjY0MTc5LDE1NDE5NDUwNzAsOTAwNzAw
+MzMzLC0zMjQ1NDU1MTEsMTQ0NDA4NzkyOSwtMTM0MDM3NjE2My
+wyMDQ4MTMzNDg3LC05NzgyNDE3M119
 -->
