@@ -44,7 +44,7 @@
 <p><strong>Campos García Karen Elizabeth.</strong><br>Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término tomando en consideración la metodología SCRUM.  Ayuda con cuestiones de organización y adicionalmente de asignación de tareas. Así mismo, será la encargada de aceptar los "pull request".</p>
 
 
-## Sprint planning
+## Sprint planning (first sprint)
 ### División del trabajo (basado en la rúbrica)
 NOTA: Se encontrarán archivos para cada sección divididos por actividad en la branch de Primera-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Primera-Entrega. Así mismo, marcar con ayuda del board de Proyecto_FIS el estado de la actividad (In Progress o Done). 
 ### *Sección  "Producto"*
@@ -150,11 +150,11 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY1ODMxOSw1MzcxMTY1NzcsMTk1OD
-k0NjcyMCwtMjEyNzUwMDIzMiwxNjc5MTUxNDAsLTE5ODIyNTQw
-MzUsNzc0OTMyNzUsOTE3Nzk4OTk1LC0xMTQxNjI1MTQ3LDE5OD
-k3NDYzNDgsLTEwNDk4NDczOTgsLTEyODk2OTkxMjQsNjMwNjY0
-MTc5LDE1NDE5NDUwNzAsOTAwNzAwMzMzLC0zMjQ1NDU1MTEsMT
-Q0NDA4NzkyOSwtMTM0MDM3NjE2MywyMDQ4MTMzNDg3LC05Nzgy
-NDE3M119
+eyJoaXN0b3J5IjpbMTg1MDY0NTM4MiwtMTE5NjU4MzE5LDUzNz
+ExNjU3NywxOTU4OTQ2NzIwLC0yMTI3NTAwMjMyLDE2NzkxNTE0
+MCwtMTk4MjI1NDAzNSw3NzQ5MzI3NSw5MTc3OTg5OTUsLTExND
+E2MjUxNDcsMTk4OTc0NjM0OCwtMTA0OTg0NzM5OCwtMTI4OTY5
+OTEyNCw2MzA2NjQxNzksMTU0MTk0NTA3MCw5MDA3MDAzMzMsLT
+MyNDU0NTUxMSwxNDQ0MDg3OTI5LC0xMzQwMzc2MTYzLDIwNDgx
+MzM0ODddfQ==
 -->
