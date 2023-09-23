@@ -140,11 +140,11 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
  - **Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto. 
 
 ## Scrum team meeting
- Karen se encargará de realizar reuniones de 15 minutos  para monitorear el
+ Karen se encargará de realizar reuniones con el equipo de 15 minutos  para monitorear el trabajo realizado, 
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjcyNDc4NSwtMjEyNzUwMDIzMiwxNj
+eyJoaXN0b3J5IjpbMTgyMTkyNjM5OSwtMjEyNzUwMDIzMiwxNj
 c5MTUxNDAsLTE5ODIyNTQwMzUsNzc0OTMyNzUsOTE3Nzk4OTk1
 LC0xMTQxNjI1MTQ3LDE5ODk3NDYzNDgsLTEwNDk4NDczOTgsLT
 EyODk2OTkxMjQsNjMwNjY0MTc5LDE1NDE5NDUwNzAsOTAwNzAw
