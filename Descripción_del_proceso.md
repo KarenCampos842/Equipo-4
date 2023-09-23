@@ -140,18 +140,18 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
  - **Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto. 
 
 ## Scrum team meeting
- Karen se encargará de realizar reuniones con el equipo vía Teams o de forma presencial de no más de 15 minutos  para monitorear el trabajo realizado. Las reuniones se realizarán todos ls días
+ Karen se encargará de realizar reuniones con el equipo vía Teams o de forma presencial de no más de 15 minutos  para monitorear el trabajo realizado. Las reuniones tendrán lugar todos los días, exceptuando fines de semana hasta la entrega 
  ## Scrum team meeting
  ## Sprint Review
  Se realizará una reunión al finalizar el sprint
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyMjMxOTQsNTM3MTE2NTc3LDE5NTg5ND
-Y3MjAsLTIxMjc1MDAyMzIsMTY3OTE1MTQwLC0xOTgyMjU0MDM1
-LDc3NDkzMjc1LDkxNzc5ODk5NSwtMTE0MTYyNTE0NywxOTg5Nz
-Q2MzQ4LC0xMDQ5ODQ3Mzk4LC0xMjg5Njk5MTI0LDYzMDY2NDE3
-OSwxNTQxOTQ1MDcwLDkwMDcwMDMzMywtMzI0NTQ1NTExLDE0ND
-QwODc5MjksLTEzNDAzNzYxNjMsMjA0ODEzMzQ4NywtOTc4MjQx
-NzNdfQ==
+eyJoaXN0b3J5IjpbMTcxNjQ4MzY5OCw1MzcxMTY1NzcsMTk1OD
+k0NjcyMCwtMjEyNzUwMDIzMiwxNjc5MTUxNDAsLTE5ODIyNTQw
+MzUsNzc0OTMyNzUsOTE3Nzk4OTk1LC0xMTQxNjI1MTQ3LDE5OD
+k3NDYzNDgsLTEwNDk4NDczOTgsLTEyODk2OTkxMjQsNjMwNjY0
+MTc5LDE1NDE5NDUwNzAsOTAwNzAwMzMzLC0zMjQ1NDU1MTEsMT
+Q0NDA4NzkyOSwtMTM0MDM3NjE2MywyMDQ4MTMzNDg3LC05Nzgy
+NDE3M119
 -->
