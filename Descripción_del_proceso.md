@@ -7,7 +7,7 @@
 
  Durante una reunión de equipo discutimos las ideas  de proyecto de cada integrante para finalmente escoger la de nuestro compañero Hansony (**Workflash**).
  ### Herramientas utilizadas
- WhatsApp, Teams, GitHub, GitKraken, Stack
+ WhatsApp, Teams, GitHub, GitKraken, StackEdit.
   ### Metodología utilizada: SCRUM[^1].
   ## Roles
   ### Scrum Team (equipo de trabajo)
@@ -148,7 +148,7 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzYzMTU5MDYsODM2NzQyOTI5LC0xMT
+eyJoaXN0b3J5IjpbLTExNzE1MzE3OTAsODM2NzQyOTI5LC0xMT
 k2NTgzMTksNTM3MTE2NTc3LDE5NTg5NDY3MjAsLTIxMjc1MDAy
 MzIsMTY3OTE1MTQwLC0xOTgyMjU0MDM1LDc3NDkzMjc1LDkxNz
 c5ODk5NSwtMTE0MTYyNTE0NywxOTg5NzQ2MzQ4LC0xMDQ5ODQ3
