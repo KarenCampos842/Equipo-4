@@ -143,11 +143,11 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
  Karen se encargará de realizar reuniones con el equipo vía Teams o de forma presencial de no más de 15 minutos  para monitorear el trabajo realizado. Las reuniones tendrán lugar todos los días, exceptuando fines de semana hasta la entrega de la presentación del primer avance.
  ## Backlog refinement
  ## Sprint review
- Se realizará una reunión al finalizar el prim
+ Se realizará una reunión al finalizar el primer sprint para revisar todo el trabajo.
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4NzUzNTg2LC0xMTk2NTgzMTksNTM3MT
+eyJoaXN0b3J5IjpbODM2NzQyOTI5LC0xMTk2NTgzMTksNTM3MT
 E2NTc3LDE5NTg5NDY3MjAsLTIxMjc1MDAyMzIsMTY3OTE1MTQw
 LC0xOTgyMjU0MDM1LDc3NDkzMjc1LDkxNzc5ODk5NSwtMTE0MT
 YyNTE0NywxOTg5NzQ2MzQ4LC0xMDQ5ODQ3Mzk4LC0xMjg5Njk5
