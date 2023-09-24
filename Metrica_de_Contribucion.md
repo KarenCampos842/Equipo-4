@@ -18,11 +18,12 @@
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
       <td>3/21=14.29%</td>
-      <td> Alto: 2/5= 40%<br>Mediano: 0/8= 0%<br>Bajo: 2/8= 25%</td>    
+      <td> Alto: 2/5= 40%<br>Mediano: 0/8= 0%<br>Bajo: 1/8= 12.5%</td>    
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
-       <td>4/21=19%</td>  
+       <td>4/21=19%</td>
+       <td> Alto: 2/5= 40%<br>Mediano: 2/8= 25%<br>Bajo: 2/8= 25%</td>  
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
@@ -141,6 +142,6 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTAxNTQxOCwtMTM3MjQ0MDM1NiwzMD
-UxMTQyMTldfQ==
+eyJoaXN0b3J5IjpbODAwOTA1OTgsLTEzNzI0NDAzNTYsMzA1MT
+E0MjE5XX0=
 -->
