@@ -51,43 +51,43 @@
    </tr> 
    <tr>  
       <td>Competencias genéricas</td>  
-       <td>x</td>  
+       <td>Mediano</td>  
    </tr> 
     <tr>  
       <td>Competencias específicas</td>  
-       <td>x</td>  
+       <td>Mediano</td>  
    </tr> 
    <tr>  
       <td>Diálogo Karen</td>  
-       <td>x</td>  
+       <td>Bajo</td>  
    </tr> 
     <tr>  
       <td>Diálogo Hansony</td>  
-       <td>x</td>  
+       <td>Bajo</td>  
    </tr> 
     <tr>  
       <td>Diálogo Carlos</td>  
-       <td>x</td>  
+       <td>Bajo</td>  
    </tr> 
     <tr>  
       <td>Diálogo Moisés</td>  
-       <td>x</td>  
+       <td>Bajo</td>  
    </tr> 
     <tr>  
       <td>Diálogo Brandon</td>  
-       <td>x</td>  
+       <td>Bajo</td>  
    </tr> 
      <tr>  
       <td>Revisar redacción (Producto)</td>  
-       <td>x</td>  
+       <td>Bajo</td>  
    </tr> 
     <tr>  
       <td>Revisar redacción (Requisitos)</td>  
-       <td>x</td>  
+       <td>Bajo</td>  
    </tr> 
     <tr>  
       <td>Edición del video</td>  
-       <td>x</td>  
+       <td>Alto</td>  
    </tr> 
     <tr>  
       <td><strong>Total de actividades</strong></td>  
@@ -95,5 +95,5 @@
    </tr> 
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDExMTM5MzQsMzA1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbODk5Mjk2NDU2LDMwNTExNDIxOV19
 -->
