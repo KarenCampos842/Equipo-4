@@ -1,7 +1,7 @@
 ﻿<center><h1>PRODUCTO</h1></center>
 
 ## Descripción del producto:
-Workflash es una aplicación móvil que ofrece un medio por el cualoficiales re las personas dedicadas a los la búsqueda de trabajos o servicios o ayudar a buscar trabajo a los que tienen un oficio o aprendieron un oficio esta pensado hacia los mexicanos para así los que tienen oficios aprendido poder aplicarlo y ganar dinero ya que ellos viven día al día
+Workflash es una aplicación móvil que ofrece que ofrece un medio por el cual personas ded re las personas dedicadas a los la búsqueda de trabajos o servicios o ayudar a buscar trabajo a los que tienen un oficio o aprendieron un oficio esta pensado hacia los mexicanos para así los que tienen oficios aprendido poder aplicarlo y ganar dinero ya que ellos viven día al día
 
 ## Usuarios/clientes:
 esta app es para esos usuarios que aprendieron un oficio o saben hacer algún oficio ya que mucho de ellos viven día a día con los trabajos que le sale estipulamos que el rango de edad será entre 30-50 años, planeamos lanzar la beta en Mérida puesto que es la capital de Yucatán y hay mas gente que necesita el servicio
@@ -11,5 +11,5 @@ Los clientes que planeamos que sean usuarios son todos aquellos que necesiten un
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc0NTUxODYsMjAzMDIzMjQwNV19
+eyJoaXN0b3J5IjpbMTY0MTI4Mzg4OCwyMDMwMjMyNDA1XX0=
 -->
