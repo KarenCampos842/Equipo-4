@@ -3,7 +3,8 @@
 ## Requisitos funcionales        
 
  - El usuario iniciará sesión con un número telefónico, un correo y una contraseña
- - El trabajador tendrá que val
+ - El trabajador tendrá que validar sus datos con alguna identificación oficial
+ - 
 
  
 
@@ -14,5 +15,5 @@
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTg0MjIxNV19
+eyJoaXN0b3J5IjpbLTE3Nzc1ODk2NF19
 -->
