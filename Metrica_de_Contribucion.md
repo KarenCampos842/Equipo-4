@@ -2,7 +2,7 @@
 <table align=center>  
    <tr>  
       <th bgcolor="#D18888">Nombre</th>  
-      <th bgcolor="#D18888">Porcentaje de contribución (totalde</th> 
+      <th bgcolor="#D18888">Porcentaje de contribución</th> 
       <th bgcolor="#D18888">Porcentaje de contribución de acuerdo el nivel</th>  
    </tr> 
     <tr>  
@@ -11,7 +11,7 @@
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
-       <td>Apoyar en la edición del video (realizar actividades a solicitud de Karen).</td>  
+       <td>2/21=9.52%</td>  
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
@@ -138,6 +138,6 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjgwNjkwMywtMTM3MjQ0MDM1NiwzMD
+eyJoaXN0b3J5IjpbLTc1NjYzOTQ3MiwtMTM3MjQ0MDM1NiwzMD
 UxMTQyMTldfQ==
 -->
