@@ -5,7 +5,8 @@
  - El usuario iniciará sesión con un número telefónico, un correo y una contraseña
  - El trabajador tendrá que validar sus datos con alguna identificación oficial para registrarse
  - El sistema tendrá un chat previo a adquirir algún servicio para cotizaciones
- - Tendrá un ranking de los mejores calificados
+ - Tendrá un ranking de los trabajadores mejor calificados
+ - Se podrá filtrar a los trabajadores por ubicación, calificaciones y por servicios
 
  
 
@@ -16,5 +17,5 @@
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTU3MTIyNywtMTc3NzU4OTY0XX0=
+eyJoaXN0b3J5IjpbLTU0NzQ4ODkzOSwtMTc3NzU4OTY0XX0=
 -->
