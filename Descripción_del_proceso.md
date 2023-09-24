@@ -104,12 +104,12 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
-       <td>Realizar el diálogo para la sección de Proceso y traducir todos los diálogos al inglés. Posteriormente grabar los audios y
+       <td>Realizar el diálogo para la sección de Proceso (1 min máx.) y traducir todos los diálogos al inglés. Posteriormente grabar los audios y proporcionarlos a Asaf para la edición del video. 
      </td>  
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
-       <td>Apoyar en la edición del video (realizar actividades a solicitud de Karen).</td>  
+       <td>Editar un video de máximo 5 minutos presentando una síntesis de las secciones Producto, Requisitos y Proceso.</td>  
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
@@ -151,7 +151,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODA0NzIzNywyNjIxMDMwOTIsMTk4ND
+eyJoaXN0b3J5IjpbMTg4OTgzNTU0OCwyNjIxMDMwOTIsMTk4ND
 k3Nzg4NSwxNDMzODMyMjksODM2NzQyOTI5LC0xMTk2NTgzMTks
 NTM3MTE2NTc3LDE5NTg5NDY3MjAsLTIxMjc1MDAyMzIsMTY3OT
 E1MTQwLC0xOTgyMjU0MDM1LDc3NDkzMjc1LDkxNzc5ODk5NSwt
