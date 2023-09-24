@@ -1,8 +1,9 @@
 ﻿<center><h1>Métrica de Contribución</h1></center>
 <table align=center>  
    <tr>  
-      <th bgcolor="#D18888" >Nombre</th>  
-      <th bgcolor="#D18888" >Porcentaje de contribución</th>  
+      <th bgcolor="#D18888">Nombre</th>  
+      <th bgcolor="#D18888">Porcentaje de contribución</th> 
+      <th bgcolor="#D18888">A</th>  
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
@@ -138,6 +139,6 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODEyNTQzOCwtMTM3MjQ0MDM1NiwzMD
-UxMTQyMTldfQ==
+eyJoaXN0b3J5IjpbLTE2MjA1Nzk1MjEsLTEzNzI0NDAzNTYsMz
+A1MTE0MjE5XX0=
 -->
