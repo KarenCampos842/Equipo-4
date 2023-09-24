@@ -96,7 +96,7 @@
        <td>Mediano</td>  
    </tr> 
    <tr>  
-      <td>Traducción de diálogos</td>  
+      <td>Traducción de diálogos (Karen)</td>  
        <td>Mediano</td>  
    </tr> 
     <tr>  
@@ -145,6 +145,7 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTUzNjk4NCw3MjE2NTc5ODEsLTYzMT
-M5NDM1OSwtMTM3MjQ0MDM1NiwzMDUxMTQyMTldfQ==
+eyJoaXN0b3J5IjpbODE2MjA0MzA4LC03MTU1MzY5ODQsNzIxNj
+U3OTgxLC02MzEzOTQzNTksLTEzNzI0NDAzNTYsMzA1MTE0MjE5
+XX0=
 -->
