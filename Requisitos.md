@@ -10,6 +10,7 @@
  - Contará con una agenda con recordatorios y alarmas para los trabajadores para organizarse sin afectar a los usuarios.
  - Al finalizar cada servicio el sistema le permitirá al usuario calificar y/o comentar el desempeño del trabajador.
  - 
+ - 
 
  
 
@@ -20,6 +21,6 @@
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQwMTc1NTEsMTk1NjQzNTg0MSwtMT
-c3NzU4OTY0XX0=
+eyJoaXN0b3J5IjpbMTU0Njg0NTM1OCwxOTU2NDM1ODQxLC0xNz
+c3NTg5NjRdfQ==
 -->
