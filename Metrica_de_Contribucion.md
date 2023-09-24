@@ -93,7 +93,15 @@
       <td><strong>Total de actividades</strong></td>  
        <td>21</td>  
    </tr> 
+   <tr>  
+      <td><strong>Total de actividades de nivel alto</strong></td>  
+       <td>5</td>  
+   </tr> 
+   <tr>  
+      <td><strong>Total de actividades de nivel mediano</strong></td>  
+       <td>8</td>  
+   </tr> 
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5Mjk2NDU2LDMwNTExNDIxOV19
+eyJoaXN0b3J5IjpbLTE5MDI0NTkwMjQsMzA1MTE0MjE5XX0=
 -->
