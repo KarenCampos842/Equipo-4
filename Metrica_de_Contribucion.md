@@ -58,12 +58,22 @@
        <td>x</td>  
    </tr> 
    <tr>  
-      <td>Competencias específicas</td>  
+      <td>Diálogo Karen</td>  
        <td>x</td>  
    </tr> 
-   
-   
- </table>
+    <tr>  
+      <td>Diálogo Hansony</td>  
+       <td>x</td>  
+   </tr> 
+    <tr>  
+      <td>Diálogo Carlos</td>  
+       <td>x</td>  
+   </tr> 
+    <tr>  
+      <td>Diálogo Carlos</td>  
+       <td>x</td>  
+   </tr> 
+  </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExMjUzNDQxLDMwNTExNDIxOV19
+eyJoaXN0b3J5IjpbNzE0OTk4OTg3LDMwNTExNDIxOV19
 -->
