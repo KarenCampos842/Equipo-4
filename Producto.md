@@ -5,7 +5,7 @@ Workflash es una aplicación móvil que ofrece a los meridanos una alternativa f
 
 ## Usuarios/clientes:
 Esta aplicación está dirigida para todas aquellas personas que buscan a una persona capacitada para un trabajo de construcción, instalación, mantenimiento, reparación, etc., en su casa. Su rango de edad puede variar, sin embargo estimamos que a partir de los 18 años las personas son potenciales a usar esta aplicación, puesto que por más que haya genet con contactos de personas para esos trabajos, personas foraneas y tambien jovenes, muy probablemnete no tengan tantos contactos de personas con oficios y opten por usar nuestra plataforma.   Del resto, en teoria, se puede decir que por cada casa hay un potencial usuario para la aplicacion, aunque en la práctica sabemos que el volumen de personas dispuestas a usarla no es equivalente, y el nievl socieconomico no es limitante, puesto que todos pueden contratar el servicio que le sea mas accesible.
-
+E
 para esos usuarios que aprendieron un oficio o saben hacer algún oficio ya que mucho de ellos viven día a día con los trabajos que le sale estipulamos que el rango de edad será entre 30-50 años, planeamos lanzar la beta en Mérida puesto que es la capital de Yucatán y hay mas gente que necesita el servicio
 
 
@@ -13,6 +13,6 @@ para esos usuarios que aprendieron un oficio o saben hacer algún oficio ya que 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDMxODY0NDYsMTA5MzIwMTg4MywxNT
-k3MzE3NTUxLDIwMzAyMzI0MDVdfQ==
+eyJoaXN0b3J5IjpbLTIwNjQyMDE3ODksLTE3NDMxODY0NDYsMT
+A5MzIwMTg4MywxNTk3MzE3NTUxLDIwMzAyMzI0MDVdfQ==
 -->
