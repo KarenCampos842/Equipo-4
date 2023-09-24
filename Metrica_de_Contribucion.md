@@ -23,7 +23,7 @@
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
-        <td>Diálogo en español para el video  (1 min máx.). Síntesis de las actividades Descripción del producto y Usuarios/Clientes.</td>  
+        <td>3/21=14.29%</td>  
    </tr> 
     <tr>  
       <td>Suárez Balam Brandon Emmanuel</td> 
@@ -138,6 +138,6 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTczODM1OSwtMTM3MjQ0MDM1NiwzMD
+eyJoaXN0b3J5IjpbMTE3OTQzNjEzMywtMTM3MjQ0MDM1NiwzMD
 UxMTQyMTldfQ==
 -->
