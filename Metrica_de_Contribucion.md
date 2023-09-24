@@ -27,7 +27,7 @@
    </tr> 
     <tr>  
       <td>Suárez Balam Brandon Emmanuel</td> 
-      <td>Diálogo en español para el video  (1 min máx.). Síntesis de la actividad Propuesta de valor. </td>   
+      <td>3/21=14.29%</td>   
    </tr> 
  </table>
  <br>
@@ -138,6 +138,6 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTQzNjEzMywtMTM3MjQ0MDM1NiwzMD
+eyJoaXN0b3J5IjpbLTQyMzQzNTI3MiwtMTM3MjQ0MDM1NiwzMD
 UxMTQyMTldfQ==
 -->
