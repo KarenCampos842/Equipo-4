@@ -3,7 +3,7 @@
    <tr>  
       <th bgcolor="#D18888">Nombre</th>  
       <th bgcolor="#D18888">Porcentaje de contribución</th> 
-      <th bgcolor="#D18888">A</th>  
+      <th bgcolor="#D18888">Porcentaje de contribución de acuerdo el nivel</th>  
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
@@ -139,6 +139,6 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA1Nzk1MjEsLTEzNzI0NDAzNTYsMz
-A1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbLTQzNjQ0ODQzNCwtMTM3MjQ0MDM1NiwzMD
+UxMTQyMTldfQ==
 -->
