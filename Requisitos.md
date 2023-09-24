@@ -9,7 +9,7 @@
  - Se podrá filtrar a los trabajadores por ubicación, calificaciones y por servicios.
  - Contará con una agenda con recordatorios y alarmas para los trabajadores para organizarse sin afectar a los usuarios.
  - Al finalizar cada servicio el sistema le permitirá al usuario calificar y/o comentar el desempeño del trabajador.
- - 
+ - El sistema reflejará en los perfiles de cada trabajador detalles como sus servicios realizados, su experiencia, sus calificaciones, su fotografía, sus hor
  - 
 
  
@@ -21,6 +21,6 @@
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Njg0NTM1OCwxOTU2NDM1ODQxLC0xNz
+eyJoaXN0b3J5IjpbLTQxMTg4MzM5MywxOTU2NDM1ODQxLC0xNz
 c3NTg5NjRdfQ==
 -->
