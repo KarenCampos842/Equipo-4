@@ -16,11 +16,13 @@
 
 ## Requisitos no funcionales
 
+ - Solo funcionará en dispositivos móviles con Android 8 y 
+
 ## Priorización
 
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODY3ODc1MSwxOTU2NDM1ODQxLC0xNz
-c3NTg5NjRdfQ==
+eyJoaXN0b3J5IjpbLTU1NDg0ODIwNSwtOTI4Njc4NzUxLDE5NT
+Y0MzU4NDEsLTE3Nzc1ODk2NF19
 -->
