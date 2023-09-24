@@ -26,27 +26,27 @@
        <td>Alto</td>  
    </tr> 
    <tr>  
-      <td>Priorización</td>  
+      <td>Priorización (Carlos)</td>  
        <td>Mediano</td>  
    </tr> 
     <tr>  
-      <td>Artefactos</td>  
+      <td>Artefactos (Carlos)</td>  
        <td>Alto</td>  
    </tr> 
      <tr>  
-      <td>Descripción del proceso</td>  
+      <td>Descripción del proceso (Karen)</td>  
         <td>Alto</td>  
    </tr> 
     <tr>  
-      <td>Gestión del proceso</td> 
+      <td>Gestión del proceso (Karen)</td> 
       <td>Mediano </td>   
    </tr> 
     <tr>  
-      <td>Métrica de contribución individual</td> 
+      <td>Métrica de contribución individual (Karen)</td> 
       <td>Mediano</td>   
    </tr> 
    <tr>  
-      <td>Organización y documentación del repositorio</td>  
+      <td>Organización y documentación del repositorio (Karen)</td>  
        <td>Bajo</td>  
    </tr> 
    <tr>  
@@ -107,5 +107,5 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTU2ODU2MiwzMDUxMTQyMTldfQ==
+eyJoaXN0b3J5IjpbLTEyODI4NDk3NDQsMzA1MTE0MjE5XX0=
 -->
