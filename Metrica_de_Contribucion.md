@@ -77,7 +77,7 @@
    </tr> 
     <tr>  
       <td>Gestión del proceso (Karen)</td> 
-      <td>Mediano</td>   
+      <td>Alto</td>   
    </tr> 
     <tr>  
       <td>Métrica de contribución individual (Karen)</td> 
@@ -133,11 +133,11 @@
    </tr> 
    <tr>  
       <td><strong>Total de actividades de nivel alto</strong></td>  
-       <td>5</td>  
+       <td>6</td>  
    </tr> 
    <tr>  
       <td><strong>Total de actividades de nivel mediano</strong></td>  
-       <td>9</td>  
+       <td>8</td>  
    </tr>
     <tr>  
       <td><strong>Total de actividades de nivel bajo</strong></td>  
@@ -145,6 +145,6 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxNjU3OTgxLC02MzEzOTQzNTksLTEzNz
-I0NDAzNTYsMzA1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbLTcxNTUzNjk4NCw3MjE2NTc5ODEsLTYzMT
+M5NDM1OSwtMTM3MjQ0MDM1NiwzMDUxMTQyMTldfQ==
 -->
