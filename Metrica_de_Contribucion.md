@@ -9,7 +9,7 @@
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
        <td> 6/21= 28.57%</td> 
-       <td> Alto: 2/5= 40%<br>Mediano: 2/8= 25%<br>Bajo: 2/8= 25%</td>  
+       <td> Alto: 2/5= 40%<br>Mediano: 1/= 25%<br>Bajo: 2/8= 25%</td>  
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
@@ -77,11 +77,11 @@
    </tr> 
     <tr>  
       <td>Gestión del proceso (Karen)</td> 
-      <td>Mediano </td>   
+      <td>Mediano</td>   
    </tr> 
     <tr>  
       <td>Métrica de contribución individual (Karen)</td> 
-      <td>Mediano</td>   
+      <td>Bajo</td>   
    </tr> 
    <tr>  
       <td>Organización y documentación del repositorio (Karen)</td>  
@@ -137,14 +137,14 @@
    </tr> 
    <tr>  
       <td><strong>Total de actividades de nivel mediano</strong></td>  
-       <td>8</td>  
+       <td>7</td>  
    </tr>
     <tr>  
       <td><strong>Total de actividades de nivel bajo</strong></td>  
-       <td>8</td>  
+       <td>9</td>  
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzMxNDgxLC02MzEzOTQzNTksLTEzNz
-I0NDAzNTYsMzA1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbLTY4OTI4NzU5MSwtNjMxMzk0MzU5LC0xMz
+cyNDQwMzU2LDMwNTExNDIxOV19
 -->
