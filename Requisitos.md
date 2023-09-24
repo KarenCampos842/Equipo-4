@@ -23,14 +23,13 @@
  - El sistema debe ser intuitivo y amigable para la mayoría de usuarios (Colocar imágenes fáciles de entender y simbología básica).
  - El sistema debe ser confiable y cumplir con los requisitos del usuario (Asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados asi como las identificaciones oficiales del trabajador).
  - Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal (Verificando los servicios continuamente).
- - El sistema debe poder permitir la cantidad de usua
 
 ## Priorización
 
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODc5NjE1MywxODg2MDc1Nzg5LC02Nj
+eyJoaXN0b3J5IjpbLTU2NjY2MTI2MSwxODg2MDc1Nzg5LC02Nj
 E4MTUwNzksLTkyODY3ODc1MSwxOTU2NDM1ODQxLC0xNzc3NTg5
 NjRdfQ==
 -->
