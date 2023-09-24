@@ -105,14 +105,12 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
-
-       <td>Realizar el diálogo para la sección de Proceso (1 min máx.) y traducir todos los diálogos al inglés. Posteriormente grabar los audios y proporcionarlos a Asaf para la edición del video. 
+<td>Realizar el diálogo para la sección de Proceso (1 min máx.) y traducir todos los diálogos al inglés. Posteriormente grabar los audios y proporcionarlos a Asaf para la edición del video. 
      </td>  
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
-
-       <td>Editar un video de máximo 5 minutos presentando una síntesis de las secciones Producto, Requisitos y Proceso.</td>  
+<td>Editar un video de máximo 5 minutos presentando una síntesis de las secciones Producto, Requisitos y Proceso.</td>  
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
@@ -156,5 +154,5 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzAxMTA1Ml19
+eyJoaXN0b3J5IjpbMTk2MjczOTU2MF19
 -->
