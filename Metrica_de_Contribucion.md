@@ -85,7 +85,15 @@
       <td>Revisar redacción (Requisitos)</td>  
        <td>x</td>  
    </tr> 
+    <tr>  
+      <td>Edición del video</td>  
+       <td>x</td>  
+   </tr> 
+    <tr>  
+      <td><strong>Total de actividades</strong></td>  
+       <td>x</td>  
+   </tr> 
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxMjk3Mjc5LDMwNTExNDIxOV19
+eyJoaXN0b3J5IjpbODkyMTI2NDQzLDMwNTExNDIxOV19
 -->
