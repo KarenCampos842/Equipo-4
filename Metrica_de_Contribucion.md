@@ -6,11 +6,11 @@
       <th bgcolor="#D18888" >Nivel</th>  
    </tr> 
     <tr>  
-      <td>Descripción del producto (</td>  
+      <td>Descripción del producto (Moisés)</td>  
        <td>Mediano</td>  
    </tr> 
    <tr>  
-      <td>Usuarios/Clientes</td>  
+      <td>Usuarios/Clientes (Moisés)</td>  
        <td>Mediano</td>  
    </tr> 
    <tr>  
@@ -107,5 +107,5 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc3MDQ4NTMsMzA1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbLTUzOTQ1NzI2MSwzMDUxMTQyMTldfQ==
 -->
