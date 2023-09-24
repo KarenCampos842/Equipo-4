@@ -58,9 +58,9 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
 **Revisor de redacción de "Producto":** *Suárez Balam Brandon Emmanuel.*
 
 **Actividades**
- - **Descripción del producto:** Esta app es una app para ayudar a buscar trabajo a los que tienen un oficio o aprendieron un oficio esta pensado hacia los mexicanos para asi los que tienen oficios aprendido poder aplicarlo y ganar dinero ya que ellos viven dia al dia
- - **Usuarios/Clientes:** esta app es para esos usuarios que aprendieron un oficio o saben hacer algún oficio ya que mucho de ellos viven día a día con los trabajos que le sale estipulamos que el rango de edad será entre 30-50 años, planeamos lanzar la beta en Mérida puesto que es la capital de Yucatán y hay mas gente que necesita el servicio
-Los clientes que planeamos que sean usuarios son todos aquellos que necesiten un trabajo para su hogar el rango de edad puede variar pero pronosticamos que será de 18+, prácticamente por cada casa que hay en Mérida hay un trabajo que alguien puede hacer, aunque estamos consientes que no todos necesitan trabajo pero es bien sabido que casi siempre habrá algún problema que arreglar en la casa que uno no sepa, los noveles socioeconómicos aquí no importan ya que todos pueden contratar al que les sea mas accesible
+  
+ - **Descripción del producto:** Escribir de forma clara y específica el objetivo del producto. Definir alcances y limitaciones. 
+ - **Usuarios/Clientes:** Escribir quienes serán los usuarios primarios, secundarios y potenciales. Describir características relevantes (investigar) de los usuarios de cada tipo (edad,  ubicación geográfica, nivel socioeconómico, etc.) y posibles escenarios en los que utilizarían el producto.
  - **Propuesta de valor:** Describir en qué consiste el producto y cómo se diferencia  de productos similares (investigar un producto similar y comparar con el nuestro).  <br>Preguntas guía: ¿Qué incluye este producto que no hacen otros?, ¿Existe una necesidad identificada?, ¿Por qué se podría considerar de valor la propuesta?
 
   
@@ -105,12 +105,14 @@ Los clientes que planeamos que sean usuarios son todos aquellos que necesiten un
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
-       <td>Editar un video de máximo 5 minutos presentando una síntesis de las secciones Producto, Requisitos y Proceso. El video debe contener audio en inglés (implica traducir de español a inglés los diálogos). Igualmente, realizar el diálogo para la sección Proceso  (1 min máx.).
+
+       <td>Realizar el diálogo para la sección de Proceso (1 min máx.) y traducir todos los diálogos al inglés. Posteriormente grabar los audios y proporcionarlos a Asaf para la edición del video. 
      </td>  
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
-       <td>Apoyar en la edición del video (realizar actividades a solicitud de Karen).</td>  
+
+       <td>Editar un video de máximo 5 minutos presentando una síntesis de las secciones Producto, Requisitos y Proceso.</td>  
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
@@ -151,12 +153,5 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
   
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzk3MDA1MzQsMjYyMTAzMDkyLDE5OD
-Q5Nzc4ODUsMTQzMzgzMjI5LDgzNjc0MjkyOSwtMTE5NjU4MzE5
-LDUzNzExNjU3NywxOTU4OTQ2NzIwLC0yMTI3NTAwMjMyLDE2Nz
-kxNTE0MCwtMTk4MjI1NDAzNSw3NzQ5MzI3NSw5MTc3OTg5OTUs
-LTExNDE2MjUxNDcsMTk4OTc0NjM0OCwtMTA0OTg0NzM5OCwtMT
-I4OTY5OTEyNCw2MzA2NjQxNzksMTU0MTk0NTA3MCw5MDA3MDAz
-MzNdfQ==
+
 -->
