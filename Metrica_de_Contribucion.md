@@ -2,16 +2,15 @@
 
 <table align=center>  
    <tr>  
-      <th bgcolor="#D18888" >Nombres</th>  
-      <th bgcolor="#D18888" >Actividades realizadas</th>  
+      <th bgcolor="#D18888" >Actividades</th>  
+      <th bgcolor="#D18888" >Nivel</th>  
    </tr> 
     <tr>  
-      <td>Campos García Karen Elizabeth</td>  
-       <td>Editar un video de máximo 5 minutos presentando una síntesis de las secciones Producto, Requisitos y Proceso. El video debe contener audio en inglés (implica traducir de español a inglés los diálogos). Igualmente, realizar el diálogo para la sección Proceso  (1 min máx.).
-     </td>  
+      <td>Descripción del producto</td>  
+       <td>x</td>  
    </tr> 
    <tr>  
-      <td>Cárdenas Rojas Kendrick Asaf</td>  
+      <td>Propuesta de valor</td>  
        <td>Apoyar en la edición del video (realizar actividades a solicitud de Karen).</td>  
    </tr> 
     <tr>  
@@ -32,5 +31,5 @@
    </tr> 
  </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbNDA4NjIyMDIsMzA1MTE0MjE5XX0=
 -->
