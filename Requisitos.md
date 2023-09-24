@@ -16,7 +16,7 @@
 
 ## Requisitos no funcionales
 
- - Solo funcionará en dispositivos móviles con Android 8 y IOS 11.
+ - Solo funcionará en dispositivos móviles con Android 8 y IOS 11 (por los requisitos que manejaremos y las funciones del sistema).
  - El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (Validando la identificación oficial proporcionada).
  - El sistema debe ser fácil de mantener y actualizar (Dándole mantenimiento).
  - El sistema debe estar disponible cuando se requiera (Darle mantenimiento solo en horarios de baja demanda).
@@ -30,6 +30,7 @@
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjA3NTc4OSwtNjYxODE1MDc5LC05Mj
-g2Nzg3NTEsMTk1NjQzNTg0MSwtMTc3NzU4OTY0XX0=
+eyJoaXN0b3J5IjpbLTEzMzExNDMxOTQsMTg4NjA3NTc4OSwtNj
+YxODE1MDc5LC05Mjg2Nzg3NTEsMTk1NjQzNTg0MSwtMTc3NzU4
+OTY0XX0=
 -->
