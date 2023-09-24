@@ -70,10 +70,22 @@
        <td>x</td>  
    </tr> 
     <tr>  
-      <td>Diálogo Carlos</td>  
+      <td>Diálogo Moisés</td>  
+       <td>x</td>  
+   </tr> 
+    <tr>  
+      <td>Diálogo Brandon</td>  
+       <td>x</td>  
+   </tr> 
+     <tr>  
+      <td>Revisar redacción (Producto)</td>  
+       <td>x</td>  
+   </tr> 
+    <tr>  
+      <td>Revisar redacción (Requisitos)</td>  
        <td>x</td>  
    </tr> 
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0OTk4OTg3LDMwNTExNDIxOV19
+eyJoaXN0b3J5IjpbNDkxMjk3Mjc5LDMwNTExNDIxOV19
 -->
