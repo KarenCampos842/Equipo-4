@@ -15,11 +15,11 @@
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
-      <td>Diálogo para el video  (1 min máx.). Síntesis de la forma de verificación de los requisitos no funcionales. </td>  
+      <td>3/21=14.29%</td>  
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
-       <td>Diálogo en español para el video (1 min máx.). Síntesis de los requisitos funcionales y requisitos no funcionales tomando en cuanta el orden por prioridad. Síntesis de la actividad Artefactos.</td>  
+       <td>4/21=19%</td>  
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
@@ -138,6 +138,6 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjYzOTQ3MiwtMTM3MjQ0MDM1NiwzMD
+eyJoaXN0b3J5IjpbLTc0OTczODM1OSwtMTM3MjQ0MDM1NiwzMD
 UxMTQyMTldfQ==
 -->
