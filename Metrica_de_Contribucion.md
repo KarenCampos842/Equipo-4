@@ -31,23 +31,23 @@
    </tr> 
     <tr>  
       <td>Artefactos</td>  
-       <td>x</td>  
+       <td>Alto</td>  
    </tr> 
      <tr>  
       <td>Descripción del proceso</td>  
-        <td>x</td>  
+        <td>Alto</td>  
    </tr> 
     <tr>  
       <td>Gestión del proceso</td> 
-      <td>x </td>   
+      <td>Mediano </td>   
    </tr> 
     <tr>  
       <td>Métrica de contribución individual</td> 
-      <td>x </td>   
+      <td>Mediano</td>   
    </tr> 
    <tr>  
       <td>Organización y documentación del repositorio</td>  
-       <td>x</td>  
+       <td>Bajo</td>  
    </tr> 
    <tr>  
       <td>Competencias genéricas</td>  
@@ -95,5 +95,5 @@
    </tr> 
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTIwNDYyMCwzMDUxMTQyMTldfQ==
+eyJoaXN0b3J5IjpbLTE5NDExMTM5MzQsMzA1MTE0MjE5XX0=
 -->
