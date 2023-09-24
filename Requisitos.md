@@ -20,13 +20,14 @@
  - El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (Validando la identificación oficial proporcionada)
  - El sistema debe ser fácil de mantener y actualizar 
  - El sistema debe estar disponible cuando se requiera
- - El sistema debe ser intuitivo y amigable
+ - El sistema debe ser intuitivo y amigable para la mayoría de usuarios
+ - 
 
 ## Priorización
 
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM5MjY5OTUsLTY2MTgxNTA3OSwtOT
-I4Njc4NzUxLDE5NTY0MzU4NDEsLTE3Nzc1ODk2NF19
+eyJoaXN0b3J5IjpbOTAwNzQxMjgxLC02NjE4MTUwNzksLTkyOD
+Y3ODc1MSwxOTU2NDM1ODQxLC0xNzc3NTg5NjRdfQ==
 -->
