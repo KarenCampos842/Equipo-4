@@ -19,17 +19,21 @@
    </tr> 
     <tr>  
       <td>Requisitos no funcionales</td>  
-       <td>Diálogo en español para el video (1 min máx.). Síntesis de los requisitos funcionales y requisitos no funcionales tomando en cuanta el orden por prioridad. Síntesis de la actividad Artefactos.</td>  
+       <td>x</td>  
    </tr> 
      <tr>  
-      <td>Rubén Moisés Loria Pech</td>  
-        <td>Diálogo en español para el video  (1 min máx.). Síntesis de las actividades Descripción del producto y Usuarios/Clientes.</td>  
+      <td>Descripción del proceso</td>  
+        <td>x</td>  
    </tr> 
     <tr>  
-      <td>Suárez Balam Brandon Emmanuel</td> 
-      <td>Diálogo en español para el video  (1 min máx.). Síntesis de la actividad Propuesta de valor. </td>   
+      <td>Gestión del proceso</td> 
+      <td>x </td>   
+   </tr> 
+    <tr>  
+      <td>Gestión</td> 
+      <td>x </td>   
    </tr> 
  </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjQ1Njg1OCwzMDUxMTQyMTldfQ==
+eyJoaXN0b3J5IjpbMzkzNTI2MTI5LDMwNTExNDIxOV19
 -->
