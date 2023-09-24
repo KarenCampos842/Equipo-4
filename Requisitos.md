@@ -11,7 +11,7 @@
  - Al finalizar cada servicio el sistema le permitirá al usuario calificar y/o comentar el desempeño del trabajador.
  - El sistema reflejará en los perfiles de cada trabajador detalles como sus servicios realizados, su experiencia, sus calificaciones, su fotografía, sus horarios disponibles asi como su rango de distancia en el que puede laborar
  - El sistema contará con un sistema de "Karma" en el que si el usuario o el trabajador no asiste, no cumple con lo antes mencionado o si cancela sin previo aviso, se verá reflejado en los perfiles de cada usuario y trabajador y con ello afectar la experiencia con la aplicación.
- - El sistema contará con un
+ - Se contará con un sistema de reporte por estafas, robos o incongruencias en el servicio
 
  
 
@@ -30,7 +30,7 @@
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzYzODY4NCwtNTY2NjYxMjYxLDE4OD
-YwNzU3ODksLTY2MTgxNTA3OSwtOTI4Njc4NzUxLDE5NTY0MzU4
-NDEsLTE3Nzc1ODk2NF19
+eyJoaXN0b3J5IjpbLTEyMjEwODU4MjUsLTU2NjY2MTI2MSwxOD
+g2MDc1Nzg5LC02NjE4MTUwNzksLTkyODY3ODc1MSwxOTU2NDM1
+ODQxLC0xNzc3NTg5NjRdfQ==
 -->
