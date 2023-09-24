@@ -145,13 +145,13 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
  ## Sprint review
  Se realizará una reunión al finalizar el primer sprint para revisar el trabajo que se está entregando. Igualmente, se hablará de los problemas que hubieron, aquello que se hizo bien y lo que se puede mejorar. 
  ## Retrospective
- Reunión con el equipo para 
+ Reunión con el equipo posterior a finalizar la entrega 
   
   
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODMxODE5MiwxOTg0OTc3ODg1LDE0Mz
+eyJoaXN0b3J5IjpbMTk2NzkyOTg5MywxOTg0OTc3ODg1LDE0Mz
 M4MzIyOSw4MzY3NDI5MjksLTExOTY1ODMxOSw1MzcxMTY1Nzcs
 MTk1ODk0NjcyMCwtMjEyNzUwMDIzMiwxNjc5MTUxNDAsLTE5OD
 IyNTQwMzUsNzc0OTMyNzUsOTE3Nzk4OTk1LC0xMTQxNjI1MTQ3
