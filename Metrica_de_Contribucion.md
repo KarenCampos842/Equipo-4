@@ -137,14 +137,14 @@
    </tr> 
    <tr>  
       <td><strong>Total de actividades de nivel mediano</strong></td>  
-       <td>8</td>  
+       <td>9</td>  
    </tr>
     <tr>  
       <td><strong>Total de actividades de nivel bajo</strong></td>  
-       <td>8</td>  
+       <td>7</td>  
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgyNjQ3MzcsLTYzMTM5NDM1OSwtMT
-M3MjQ0MDM1NiwzMDUxMTQyMTldfQ==
+eyJoaXN0b3J5IjpbNzIxNjU3OTgxLC02MzEzOTQzNTksLTEzNz
+I0NDAzNTYsMzA1MTE0MjE5XX0=
 -->
