@@ -18,16 +18,16 @@
 
  - Solo funcionará en dispositivos móviles con Android 8 y IOS 11
  - El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (Validando la identificación oficial proporcionada)
- - El sistema debe ser fácil de mantener y actualizar 
- - El sistema debe estar disponible cuando se requiera
+ - El sistema debe ser fácil de mantener y actualizar (Dándole mantenimiento) 
+ - El sistema debe estar disponible cuando se requiera (
  - El sistema debe ser intuitivo y amigable para la mayoría de usuarios
- - El sistema
+ - El sistema debe ser confiable y cumplir con los requisitos del usuario
 
 ## Priorización
 
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjI0NzI0MCwtNjYxODE1MDc5LC05Mj
-g2Nzg3NTEsMTk1NjQzNTg0MSwtMTc3NzU4OTY0XX0=
+eyJoaXN0b3J5IjpbMTkwMzUwODI3LC02NjE4MTUwNzksLTkyOD
+Y3ODc1MSwxOTU2NDM1ODQxLC0xNzc3NTg5NjRdfQ==
 -->
