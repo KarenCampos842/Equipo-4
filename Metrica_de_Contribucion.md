@@ -9,7 +9,7 @@
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
        <td> 6/21= 28.57%</td> 
-       <td> Alto: 2/5= 40%<br>Mediano: 2/8= 25%<br>Bajo: 2/8= 25%</td>  
+       <td> Alto: 2/6= 33.33%<br>Mediano: 2/8= 25%<br>Bajo: 2/8= 25%</td>  
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
@@ -145,7 +145,7 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2MjA0MzA4LC03MTU1MzY5ODQsNzIxNj
-U3OTgxLC02MzEzOTQzNTksLTEzNzI0NDAzNTYsMzA1MTE0MjE5
-XX0=
+eyJoaXN0b3J5IjpbMTkzNjUxMTU3OSwtNzE1NTM2OTg0LDcyMT
+Y1Nzk4MSwtNjMxMzk0MzU5LC0xMzcyNDQwMzU2LDMwNTExNDIx
+OV19
 -->
