@@ -152,7 +152,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 
--->
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjczOTU2MF19
+eyJoaXN0b3J5IjpbLTE5ODgwMjM4NThdfQ==
 -->
