@@ -13,11 +13,12 @@
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
        <td>2/21=9.56%</td>
-       <td> Alto: 2/5= 40%<br>Mediano: 2/8= 25%<br>Bajo: 2/8= 25%</td>    
+       <td> Alto: 0/5= 0%<br>Mediano: 2/8= 25%<br>Bajo: 0/8= 0%</td>    
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
-      <td>3/21=14.29%</td>  
+      <td>3/21=14.29%</td>
+      <td> Alto: 2/5= 40%<br>Mediano: 0/8= 0%<br>Bajo: 2/8= 25%</td>    
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
@@ -140,6 +141,6 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzYwOTgxNCwtMTM3MjQ0MDM1NiwzMD
+eyJoaXN0b3J5IjpbMTMyMTAxNTQxOCwtMTM3MjQ0MDM1NiwzMD
 UxMTQyMTldfQ==
 -->
