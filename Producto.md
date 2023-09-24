@@ -1,7 +1,7 @@
 ﻿<center><h1>PRODUCTO</h1></center>
 
 ## Descripción del producto:
-Workflash es una aplicación móvil que ofrece a los meridanos una alternativa fácil y altamente confiable en la que puedan encontrar perfiles de personas dedicadas a oficios tales como la  plomería, carpintería, reparación, etc., y contactarlas. Al mismo tiempo, las personas que ofrecen sus servicios pueden promocionarse, indicar su experiencia y crear una buena reputación con la que garanticen contratos e ingresos regulares.
+Workflash es una aplicación móvil que ofrece a los meridanos una alternativa fácil y altamente confiable en la que puedan encontrar perfiles de personas dedicadas trabajos tales como la  plomería, carpintería, reparación, etc., y contactarlas. Al mismo tiempo, las personas que ofrecen sus servicios pueden promocionarse, indicar su experiencia y crear una buena reputación con la que garanticen contratos y al mismo tiempo sus ingr.
 
 ## Usuarios/clientes:
 Esta aplicación está dirigida para todas aquellas personas que buscan a una persona capacitada para un trabajo de construcción, instalación, mantenimiento, reparación, etc., en su casa. Su rango de edad puede variar, sin embargo estimamos que a partir de los 18 años las personas son potenciales a usar esta aplicación, puesto que por más que haya genet con contactos de personas para esos trabajos, personas foraneas y tambien jovenes, muy probablemnete no tengan tantos contactos de personas con oficios y opten por usar nuestra plataforma.   Del resto, en teoria, se puede decir que por cada casa hay un potencial usuario para la aplicacion, aunque en la práctica sabemos que el volumen de personas dispuestas a usarla no es equivalente, y el nievl socieconomico no es limitante, puesto que todos pueden contratar el servicio que le sea mas accesible.
@@ -12,6 +12,7 @@ A demás de los clientes de igual manera el objetivo es impulsar a aquellos que 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTUxODk0MzQsLTE3NDMxODY0NDYsMT
-A5MzIwMTg4MywxNTk3MzE3NTUxLDIwMzAyMzI0MDVdfQ==
+eyJoaXN0b3J5IjpbLTEzODI4MjQwMjgsLTE0NTUxODk0MzQsLT
+E3NDMxODY0NDYsMTA5MzIwMTg4MywxNTk3MzE3NTUxLDIwMzAy
+MzI0MDVdfQ==
 -->
