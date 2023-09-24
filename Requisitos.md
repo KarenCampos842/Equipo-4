@@ -2,7 +2,8 @@
 
 ## Requisitos funcionales        
 
- - El usuario iniciará ses
+ - El usuario iniciará sesión con un número telefónico, un correo y una contraseña
+ - El trabajador tendrá que val
 
  
 
@@ -13,5 +14,5 @@
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODU0MTU5MzZdfQ==
+eyJoaXN0b3J5IjpbMTkyOTg0MjIxNV19
 -->
