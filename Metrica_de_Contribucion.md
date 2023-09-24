@@ -10,6 +10,10 @@
        <td>x</td>  
    </tr> 
    <tr>  
+      <td>Usuarios/Clientes</td>  
+       <td>x</td>  
+   </tr> 
+   <tr>  
       <td>Propuesta de valor</td>  
        <td>x</td>  
    </tr> 
@@ -19,6 +23,14 @@
    </tr> 
     <tr>  
       <td>Requisitos no funcionales</td>  
+       <td>x</td>  
+   </tr> 
+   <tr>  
+      <td>Priorización</td>  
+       <td>x</td>  
+   </tr> 
+    <tr>  
+      <td></td>  
        <td>x</td>  
    </tr> 
      <tr>  
@@ -35,5 +47,5 @@
    </tr> 
  </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzE2OTA4NiwzMDUxMTQyMTldfQ==
+eyJoaXN0b3J5IjpbNDIzMTEzNTEsMzA1MTE0MjE5XX0=
 -->
