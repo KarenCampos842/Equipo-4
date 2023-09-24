@@ -1,4 +1,5 @@
 ﻿<center><h1>Métrica de Contribución</h1></center>
+ 
 <table align=center>  
    <tr>  
       <th bgcolor="#D18888">Nombre</th>  
