@@ -8,14 +8,14 @@ Esta aplicación está dirigida para todas aquellas personas que buscan a una pe
 <br>
 En teoría, se puede decir que por cada casa hay un potencial usuario para la aplicación, aunque en la práctica sabemos que el volumen de personas dispuestas a usarla no es equivalente, y el nivel socioeconómico no es limitante, puesto que todos pueden contratar el servicio que le sea más accesible.
 <br>
-Además de los clientes, el objetivo también es impulsar los que ofrecen sus servicios, que son aquellos usuarios que aprendieron un trao saben hacer algún oficio, puesto que mucho de ellos viven día a día con los trabajos, tipulamos que el rango de edad será entre 30-50 años, planeamos lanzar la beta en Mérida puesto que es la capital de Yucatán y hay mas gente que necesita el servicio
+Además de los clientes, el objetivo también es impulsar los que ofrecen sus servicios, que son aquellos usuarios que aprendieron un trabajo o saben hacer algún trabajo y quieran promocionarse en nuestra plataforma. Estimamos que su rango de edad será entre 30-50 años, planeamos lanzar la beta en Mérida por ser la capital
 
 
 ## Propuesta de valor:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjQxNTI1LDU4OTg0ODU3NCwtMTQ1NT
+eyJoaXN0b3J5IjpbLTk2MTU0MzQ0LDU4OTg0ODU3NCwtMTQ1NT
 E4OTQzNCwtMTc0MzE4NjQ0NiwxMDkzMjAxODgzLDE1OTczMTc1
 NTEsMjAzMDIzMjQwNV19
 -->
