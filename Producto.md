@@ -12,11 +12,11 @@ Además de los clientes, también priorizamos el impulso de los usuarios que ofr
 
 
 ## Propuesta de valor:
-Workfast es una alternativa a todas las demás aplicaciones que se anuncian como intermediarias entre los clientes y las personas que ofrecen sus servicios, especialmente oficios, porque en nuestra plataforma tenemos como principal meta que los 
+Workfast ofrece a los usuarios es una alternativa a todas las demás aplicaciones que se anuncian como intermediarias entre los clientes y las personas que ofrecen sus servicios, especialmente oficios, porque en nuestra plataforma 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1NjAzMDc3LDU4OTg0ODU3NCwtMTQ1NT
-E4OTQzNCwtMTc0MzE4NjQ0NiwxMDkzMjAxODgzLDE1OTczMTc1
-NTEsMjAzMDIzMjQwNV19
+eyJoaXN0b3J5IjpbLTExMjcyMTQ3MjYsNTg5ODQ4NTc0LC0xND
+U1MTg5NDM0LC0xNzQzMTg2NDQ2LDEwOTMyMDE4ODMsMTU5NzMx
+NzU1MSwyMDMwMjMyNDA1XX0=
 -->
