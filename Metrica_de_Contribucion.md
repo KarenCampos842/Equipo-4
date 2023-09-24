@@ -2,13 +2,12 @@
 <table align=center>  
    <tr>  
       <th bgcolor="#D18888">Nombre</th>  
-      <th bgcolor="#D18888">Porcentaje de contribución</th> 
+      <th bgcolor="#D18888">Porcentaje de contribución (totalde</th> 
       <th bgcolor="#D18888">Porcentaje de contribución de acuerdo el nivel</th>  
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
-       <td>Editar un video de máximo 5 minutos presentando una síntesis de las secciones Producto, Requisitos y Proceso. El video debe contener audio en inglés (implica traducir de español a inglés los diálogos). Igualmente, realizar el diálogo para la sección Proceso  (1 min máx.).
-     </td>  
+       <td> 6/21= 28.57%</td>  
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
@@ -139,6 +138,6 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjQ0ODQzNCwtMTM3MjQ0MDM1NiwzMD
+eyJoaXN0b3J5IjpbMTUyNjgwNjkwMywtMTM3MjQ0MDM1NiwzMD
 UxMTQyMTldfQ==
 -->
