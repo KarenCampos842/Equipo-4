@@ -6,7 +6,7 @@
       <th bgcolor="#D18888" >Nivel</th>  
    </tr> 
     <tr>  
-      <td>Descripción del producto</td>  
+      <td>Descripción del producto (</td>  
        <td>Mediano</td>  
    </tr> 
    <tr>  
@@ -100,8 +100,12 @@
    <tr>  
       <td><strong>Total de actividades de nivel mediano</strong></td>  
        <td>8</td>  
-   </tr> 
+   </tr>
+    <tr>  
+      <td><strong>Total de actividades de nivel bajo</strong></td>  
+       <td>8</td>  
+   </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI0NTkwMjQsMzA1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbLTE5MTc3MDQ4NTMsMzA1MTE0MjE5XX0=
 -->
