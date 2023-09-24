@@ -14,15 +14,15 @@
        <td>Mediano</td>  
    </tr> 
    <tr>  
-      <td>Propuesta de valor</td>  
+      <td>Propuesta de valor (Brandon)</td>  
        <td>Mediano</td>  
    </tr> 
     <tr>  
-      <td>Requisitos funcionales</td>  
+      <td>Requisitos funcionales (Hansony)</td>  
       <td>Alto</td>  
    </tr> 
     <tr>  
-      <td>Requisitos no funcionales</td>  
+      <td>Requisitos no funcionales (Hansony)</td>  
        <td>Alto</td>  
    </tr> 
    <tr>  
@@ -107,5 +107,5 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzOTQ1NzI2MSwzMDUxMTQyMTldfQ==
+eyJoaXN0b3J5IjpbMTk1MTU2ODU2MiwzMDUxMTQyMTldfQ==
 -->
