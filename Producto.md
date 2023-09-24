@@ -12,10 +12,11 @@ Además de los clientes, también priorizamos el impulso de los usuarios que ofr
 
 
 ## Propuesta de valor:
+Workfast es una alternativa a todas las demás apliaciones que ofrecen un ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDIwNzA5NSw1ODk4NDg1NzQsLTE0NT
-UxODk0MzQsLTE3NDMxODY0NDYsMTA5MzIwMTg4MywxNTk3MzE3
-NTUxLDIwMzAyMzI0MDVdfQ==
+eyJoaXN0b3J5IjpbNDU4MzI1OTUzLDU4OTg0ODU3NCwtMTQ1NT
+E4OTQzNCwtMTc0MzE4NjQ0NiwxMDkzMjAxODgzLDE1OTczMTc1
+NTEsMjAzMDIzMjQwNV19
 -->
