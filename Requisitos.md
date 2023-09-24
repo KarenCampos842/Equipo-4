@@ -21,13 +21,13 @@
  - El sistema debe ser fácil de mantener y actualizar 
  - El sistema debe estar disponible cuando se requiera
  - El sistema debe ser intuitivo y amigable para la mayoría de usuarios
- - 
+ - El sistema
 
 ## Priorización
 
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwNzQxMjgxLC02NjE4MTUwNzksLTkyOD
-Y3ODc1MSwxOTU2NDM1ODQxLC0xNzc3NTg5NjRdfQ==
+eyJoaXN0b3J5IjpbLTU5MjI0NzI0MCwtNjYxODE1MDc5LC05Mj
+g2Nzg3NTEsMTk1NjQzNTg0MSwtMTc3NzU4OTY0XX0=
 -->
