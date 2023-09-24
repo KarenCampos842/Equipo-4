@@ -50,11 +50,11 @@
        <td>Bajo</td>  
    </tr> 
    <tr>  
-      <td>Competencias genéricas</td>  
+      <td>Competencias genéricas (Asaf)</td>  
        <td>Mediano</td>  
    </tr> 
     <tr>  
-      <td>Competencias específicas</td>  
+      <td>Competencias específicas (Asaf)</td>  
        <td>Mediano</td>  
    </tr> 
    <tr>  
@@ -78,7 +78,7 @@
        <td>Bajo</td>  
    </tr> 
      <tr>  
-      <td>Revisar redacción (Producto)</td>  
+      <td>Revisar redacción de la sección Producto (</td>  
        <td>Bajo</td>  
    </tr> 
     <tr>  
@@ -107,5 +107,5 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI4NDk3NDQsMzA1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbMTU1ODA3OTcsMzA1MTE0MjE5XX0=
 -->
