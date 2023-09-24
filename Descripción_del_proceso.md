@@ -46,7 +46,7 @@
 
 
 ## Sprint planning (first sprint)
-### División del trabajo (basado en la rúbrica)
+### División del trabajo (basado en la lista de cotejo)
 NOTA: Se encontrarán archivos para cada sección divididos por actividad en la branch de Primera-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Primera-Entrega. Así mismo, marcar con ayuda del board de Proyecto_FIS el estado de la actividad (In Progress o Done). 
 ### *Sección  "Producto"*
 
@@ -148,11 +148,11 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE1MzE3OTAsODM2NzQyOTI5LC0xMT
-k2NTgzMTksNTM3MTE2NTc3LDE5NTg5NDY3MjAsLTIxMjc1MDAy
-MzIsMTY3OTE1MTQwLC0xOTgyMjU0MDM1LDc3NDkzMjc1LDkxNz
-c5ODk5NSwtMTE0MTYyNTE0NywxOTg5NzQ2MzQ4LC0xMDQ5ODQ3
-Mzk4LC0xMjg5Njk5MTI0LDYzMDY2NDE3OSwxNTQxOTQ1MDcwLD
-kwMDcwMDMzMywtMzI0NTQ1NTExLDE0NDQwODc5MjksLTEzNDAz
-NzYxNjNdfQ==
+eyJoaXN0b3J5IjpbMTQzMzgzMjI5LDgzNjc0MjkyOSwtMTE5Nj
+U4MzE5LDUzNzExNjU3NywxOTU4OTQ2NzIwLC0yMTI3NTAwMjMy
+LDE2NzkxNTE0MCwtMTk4MjI1NDAzNSw3NzQ5MzI3NSw5MTc3OT
+g5OTUsLTExNDE2MjUxNDcsMTk4OTc0NjM0OCwtMTA0OTg0NzM5
+OCwtMTI4OTY5OTEyNCw2MzA2NjQxNzksMTU0MTk0NTA3MCw5MD
+A3MDAzMzMsLTMyNDU0NTUxMSwxNDQ0MDg3OTI5LC0xMzQwMzc2
+MTYzXX0=
 -->
