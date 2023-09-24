@@ -78,15 +78,15 @@
        <td>Bajo</td>  
    </tr> 
      <tr>  
-      <td>Revisar redacción de la sección Producto (</td>  
+      <td>Revisar redacción de la sección Producto (Brandon)</td>  
        <td>Bajo</td>  
    </tr> 
     <tr>  
-      <td>Revisar redacción (Requisitos)</td>  
+      <td>Revisar redacción de la sección Requisitos (Carlos)</td>  
        <td>Bajo</td>  
    </tr> 
     <tr>  
-      <td>Edición del video</td>  
+      <td>Edición del video (Karen)</td>  
        <td>Alto</td>  
    </tr> 
     <tr>  
@@ -107,5 +107,5 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODA3OTcsMzA1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbLTEzNzI0NDAzNTYsMzA1MTE0MjE5XX0=
 -->
