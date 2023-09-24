@@ -104,7 +104,7 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
-       <td>Editar un video de máximo 5 minutos presentando una síntesis de las secciones Producto, Requisitos y Proceso. El video debe contener audio en inglés (implica traducir de español a inglés los diálogos). Igualmente, realizar el diálogo para la sección Proceso  (1 min máx.).
+       <td>Realizar el diálogo para la sección de Proceso y traducir todos los diálogos al inglés. Posteriormente grabar los audios y
      </td>  
    </tr> 
    <tr>  
@@ -151,11 +151,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyMTAzMDkyLDE5ODQ5Nzc4ODUsMTQzMz
-gzMjI5LDgzNjc0MjkyOSwtMTE5NjU4MzE5LDUzNzExNjU3Nywx
-OTU4OTQ2NzIwLC0yMTI3NTAwMjMyLDE2NzkxNTE0MCwtMTk4Mj
-I1NDAzNSw3NzQ5MzI3NSw5MTc3OTg5OTUsLTExNDE2MjUxNDcs
-MTk4OTc0NjM0OCwtMTA0OTg0NzM5OCwtMTI4OTY5OTEyNCw2Mz
-A2NjQxNzksMTU0MTk0NTA3MCw5MDA3MDAzMzMsLTMyNDU0NTUx
-MV19
+eyJoaXN0b3J5IjpbLTQ0ODA0NzIzNywyNjIxMDMwOTIsMTk4ND
+k3Nzg4NSwxNDMzODMyMjksODM2NzQyOTI5LC0xMTk2NTgzMTks
+NTM3MTE2NTc3LDE5NTg5NDY3MjAsLTIxMjc1MDAyMzIsMTY3OT
+E1MTQwLC0xOTgyMjU0MDM1LDc3NDkzMjc1LDkxNzc5ODk5NSwt
+MTE0MTYyNTE0NywxOTg5NzQ2MzQ4LC0xMDQ5ODQ3Mzk4LC0xMj
+g5Njk5MTI0LDYzMDY2NDE3OSwxNTQxOTQ1MDcwLDkwMDcwMDMz
+M119
 -->
