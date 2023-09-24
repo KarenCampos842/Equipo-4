@@ -58,6 +58,7 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
 **Revisor de redacción de "Producto":** *Suárez Balam Brandon Emmanuel.*
 
 **Actividades**
+  
  - **Descripción del producto:** Escribir de forma clara y específica el objetivo del producto. Definir alcances y limitaciones. 
  - **Usuarios/Clientes:** Escribir quienes serán los usuarios primarios, secundarios y potenciales. Describir características relevantes (investigar) de los usuarios de cada tipo (edad,  ubicación geográfica, nivel socioeconómico, etc.) y posibles escenarios en los que utilizarían el producto.
  - **Propuesta de valor:** Describir en qué consiste el producto y cómo se diferencia  de productos similares (investigar un producto similar y comparar con el nuestro).  <br>Preguntas guía: ¿Qué incluye este producto que no hacen otros?, ¿Existe una necesidad identificada?, ¿Por qué se podría considerar de valor la propuesta?
@@ -104,11 +105,13 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
+
        <td>Realizar el diálogo para la sección de Proceso (1 min máx.) y traducir todos los diálogos al inglés. Posteriormente grabar los audios y proporcionarlos a Asaf para la edición del video. 
      </td>  
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
+
        <td>Editar un video de máximo 5 minutos presentando una síntesis de las secciones Producto, Requisitos y Proceso.</td>  
    </tr> 
     <tr>  
@@ -150,12 +153,5 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
   
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTgzNTU0OCwyNjIxMDMwOTIsMTk4ND
-k3Nzg4NSwxNDMzODMyMjksODM2NzQyOTI5LC0xMTk2NTgzMTks
-NTM3MTE2NTc3LDE5NTg5NDY3MjAsLTIxMjc1MDAyMzIsMTY3OT
-E1MTQwLC0xOTgyMjU0MDM1LDc3NDkzMjc1LDkxNzc5ODk5NSwt
-MTE0MTYyNTE0NywxOTg5NzQ2MzQ4LC0xMDQ5ODQ3Mzk4LC0xMj
-g5Njk5MTI0LDYzMDY2NDE3OSwxNTQxOTQ1MDcwLDkwMDcwMDMz
-M119
+
 -->
