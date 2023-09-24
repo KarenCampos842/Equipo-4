@@ -22,13 +22,14 @@
  - El sistema debe estar disponible cuando se requiera (Darle mantenimiento solo en horarios de baja demanda).
  - El sistema debe ser intuitivo y amigable para la mayoría de usuarios (Colocar imágenes fáciles de entender y simbología básica).
  - El sistema debe ser confiable y cumplir con los requisitos del usuario (Asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados asi como las identificaciones oficiales del trabajador).
- - Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal.
+ - Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal (Verificando los servicios continuamente).
+ - 
 
 ## Priorización
 
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk2OTM3OTQsLTY2MTgxNTA3OSwtOT
-I4Njc4NzUxLDE5NTY0MzU4NDEsLTE3Nzc1ODk2NF19
+eyJoaXN0b3J5IjpbMTg4NjA3NTc4OSwtNjYxODE1MDc5LC05Mj
+g2Nzg3NTEsMTk1NjQzNTg0MSwtMTc3NzU4OTY0XX0=
 -->
