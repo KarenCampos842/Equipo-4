@@ -14,12 +14,12 @@
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
        <td>2/21=9.56%</td>
-       <td> Alto: 1/6= 16.66%<br>Mediano: 2/8= 25%<br>Bajo: 0/8= 0%</td>    
+       <td> Alto: 1/6= 16.66%<br>Mediano: 2/8= 25%<br>Bajo: 0/7= 0%</td>    
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
       <td>3/21=14.29%</td>
-      <td> Alto: 2/5= 40%<br>Mediano: 0/8= 0%<br>Bajo: 1/8= 12.5%</td>    
+      <td> Alto: 2/6= 33.33%<br>Mediano: 0/8= 0%<br>Bajo: 1/7= 14.29%</td>    
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
@@ -81,7 +81,7 @@
    </tr> 
     <tr>  
       <td>Métrica de contribución individual (Karen)</td> 
-      <td>Mediano</td>   
+      <td>Bajo</td>   
    </tr> 
    <tr>  
       <td>Organización y documentación del repositorio (Karen)</td>  
@@ -145,7 +145,7 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjExODYyMSwtNzE1NTM2OTg0LDcyMT
-Y1Nzk4MSwtNjMxMzk0MzU5LC0xMzcyNDQwMzU2LDMwNTExNDIx
-OV19
+eyJoaXN0b3J5IjpbLTEzMDYwMjc4MjksLTcxNTUzNjk4NCw3Mj
+E2NTc5ODEsLTYzMTM5NDM1OSwtMTM3MjQ0MDM1NiwzMDUxMTQy
+MTldfQ==
 -->
