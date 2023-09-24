@@ -7,7 +7,8 @@
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
-       <td> 6/21= 28.57%</td>  
+       <td> 6/21= 28.57%</td> 
+       <td> Alto: 2/5= 28.57%</td>  
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
@@ -138,6 +139,6 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMwMTQ5MjQsLTEzNzI0NDAzNTYsMz
+eyJoaXN0b3J5IjpbLTE4MzM4MjAzNDUsLTEzNzI0NDAzNTYsMz
 A1MTE0MjE5XX0=
 -->
