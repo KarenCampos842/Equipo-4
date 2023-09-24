@@ -7,15 +7,15 @@
    </tr> 
     <tr>  
       <td>Descripción del producto</td>  
-       <td>Alto</td>  
+       <td>Mediano</td>  
    </tr> 
    <tr>  
       <td>Usuarios/Clientes</td>  
-       <td>x</td>  
+       <td>Mediano</td>  
    </tr> 
    <tr>  
       <td>Propuesta de valor</td>  
-       <td>x</td>  
+       <td>Mediano</td>  
    </tr> 
     <tr>  
       <td>Requisitos funcionales</td>  
@@ -95,5 +95,5 @@
    </tr> 
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3MTQzMjM4LDMwNTExNDIxOV19
+eyJoaXN0b3J5IjpbLTU0OTEzMzQyNSwzMDUxMTQyMTldfQ==
 -->
