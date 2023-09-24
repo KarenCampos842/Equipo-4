@@ -11,14 +11,14 @@
    </tr> 
    <tr>  
       <td>Propuesta de valor</td>  
-       <td>Apoyar en la edición del video (realizar actividades a solicitud de Karen).</td>  
+       <td>x</td>  
    </tr> 
     <tr>  
-      <td>Maldonado Medina Hansony de Jesús</td>  
-      <td>Diálogo para el video  (1 min máx.). Síntesis de la forma de verificación de los requisitos no funcionales. </td>  
+      <td>Requisitos funcionales</td>  
+      <td>x</td>  
    </tr> 
     <tr>  
-      <td>Romero Poot Carlos Emmanuel</td>  
+      <td>Requisitos no funcionales</td>  
        <td>Diálogo en español para el video (1 min máx.). Síntesis de los requisitos funcionales y requisitos no funcionales tomando en cuanta el orden por prioridad. Síntesis de la actividad Artefactos.</td>  
    </tr> 
      <tr>  
@@ -31,5 +31,5 @@
    </tr> 
  </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4NjIyMDIsMzA1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbMTkwNjQ1Njg1OCwzMDUxMTQyMTldfQ==
 -->
