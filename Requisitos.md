@@ -16,18 +16,19 @@
 
 ## Requisitos no funcionales
 
- - Solo funcionará en dispositivos móviles con Android 8 y IOS 11
- - El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (Validando la identificación oficial proporcionada)
- - El sistema debe ser fácil de mantener y actualizar (Dándole mantenimiento) 
- - El sistema debe estar disponible cuando se requiera (Darle mantenimiento solo en horarios de baja demanda)
- - El sistema debe ser intuitivo y amigable para la mayoría de usuarios (Colocar imágenes fáciles de entender y simbología básica)
- - El sistema debe ser confiable y cumplir con los requisitos del usuario (Asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados asi como las identificaciones oficiales del trabajador)
+ - Solo funcionará en dispositivos móviles con Android 8 y IOS 11.
+ - El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (Validando la identificación oficial proporcionada).
+ - El sistema debe ser fácil de mantener y actualizar (Dándole mantenimiento).
+ - El sistema debe estar disponible cuando se requiera (Darle mantenimiento solo en horarios de baja demanda).
+ - El sistema debe ser intuitivo y amigable para la mayoría de usuarios (Colocar imágenes fáciles de entender y simbología básica).
+ - El sistema debe ser confiable y cumplir con los requisitos del usuario (Asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados asi como las identificaciones oficiales del trabajador).
+ - Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal.
 
 ## Priorización
 
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjY3MjA2NTEsLTY2MTgxNTA3OSwtOT
+eyJoaXN0b3J5IjpbLTIwODk2OTM3OTQsLTY2MTgxNTA3OSwtOT
 I4Njc4NzUxLDE5NTY0MzU4NDEsLTE3Nzc1ODk2NF19
 -->
