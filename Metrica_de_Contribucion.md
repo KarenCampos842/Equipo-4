@@ -19,15 +19,15 @@
    </tr> 
     <tr>  
       <td>Requisitos funcionales</td>  
-      <td>x</td>  
+      <td>Alto</td>  
    </tr> 
     <tr>  
       <td>Requisitos no funcionales</td>  
-       <td>x</td>  
+       <td>Alto</td>  
    </tr> 
    <tr>  
       <td>Priorización</td>  
-       <td>x</td>  
+       <td>Mediano</td>  
    </tr> 
     <tr>  
       <td>Artefactos</td>  
@@ -95,5 +95,5 @@
    </tr> 
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTEzMzQyNSwzMDUxMTQyMTldfQ==
+eyJoaXN0b3J5IjpbMTc1MTIwNDYyMCwzMDUxMTQyMTldfQ==
 -->
