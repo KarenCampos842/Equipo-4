@@ -7,7 +7,7 @@
    </tr> 
     <tr>  
       <td>Descripción del producto</td>  
-       <td>x</td>  
+       <td>Alto</td>  
    </tr> 
    <tr>  
       <td>Usuarios/Clientes</td>  
@@ -91,9 +91,9 @@
    </tr> 
     <tr>  
       <td><strong>Total de actividades</strong></td>  
-       <td>x</td>  
+       <td>21</td>  
    </tr> 
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMTI2NDQzLDMwNTExNDIxOV19
+eyJoaXN0b3J5IjpbNjg3MTQzMjM4LDMwNTExNDIxOV19
 -->
