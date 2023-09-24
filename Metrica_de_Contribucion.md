@@ -9,12 +9,12 @@
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
        <td> 6/21= 28.57%</td> 
-       <td> Alto: 2/6= 33.33%<br>Mediano: 2/8= 25%<br>Bajo: 2/8= 25%</td>  
+       <td> Alto: 2/6= 33.33%<br>Mediano: 2/8= 25%<br>Bajo: 1/7= 14.29%</td>  
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
        <td>2/21=9.56%</td>
-       <td> Alto: 0/5= 0%<br>Mediano: 2/8= 25%<br>Bajo: 0/8= 0%</td>    
+       <td> Alto: 1/6= 16.66%<br>Mediano: 2/8= 25%<br>Bajo: 0/8= 0%</td>    
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
@@ -145,7 +145,7 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjUxMTU3OSwtNzE1NTM2OTg0LDcyMT
+eyJoaXN0b3J5IjpbLTUzMjExODYyMSwtNzE1NTM2OTg0LDcyMT
 Y1Nzk4MSwtNjMxMzk0MzU5LC0xMzcyNDQwMzU2LDMwNTExNDIx
 OV19
 -->
