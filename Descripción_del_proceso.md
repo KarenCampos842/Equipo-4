@@ -59,8 +59,8 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
 
 **Actividades**
  - **Descripción del producto:** Esta app es una app para ayudar a buscar trabajo a los que tienen un oficio o aprendieron un oficio esta pensado hacia los mexicanos para asi los que tienen oficios aprendido poder aplicarlo y ganar dinero ya que ellos viven dia al dia
- - **Usuarios/Clientes:** esta app es para esos usuarios que aprendieron un oficio o saben hacer algun oficio ya que mucho de ellos viven dia a dia con los trabajos que le sale estipulamos que el rango de edad sera entre 30-50 años, planeamos lanzar la beta en merida puesto que es la capital de Yucatan y hay mas gente que necesita el servicio
-Los clientes que planeamos que sean usuarios son todos aquellos que necesiten un trabajo para su hogar practicamente por cada casa que hay en merida hay un trabajo que alguien puede hacer, aunque estamos consientes que no todos necesitan trabajo pero es bien sabido que casi siempre habra algun problema que arreglar en la casa que uno on
+ - **Usuarios/Clientes:** esta app es para esos usuarios que aprendieron un oficio o saben hacer algún oficio ya que mucho de ellos viven día a día con los trabajos que le sale estipulamos que el rango de edad será entre 30-50 años, planeamos lanzar la beta en Mérida puesto que es la capital de Yucatán y hay mas gente que necesita el servicio
+Los clientes que planeamos que sean usuarios son todos aquellos que necesiten un trabajo para su hogar el rango de edad puede variar prácticamente por cada casa que hay en Mérida hay un trabajo que alguien puede hacer, aunque estamos consientes que no todos necesitan trabajo pero es bien sabido que casi siempre habrá algún problema que arreglar en la casa que uno no sepa
  - **Propuesta de valor:** Describir en qué consiste el producto y cómo se diferencia  de productos similares (investigar un producto similar y comparar con el nuestro).  <br>Preguntas guía: ¿Qué incluye este producto que no hacen otros?, ¿Existe una necesidad identificada?, ¿Por qué se podría considerar de valor la propuesta?
 
   
@@ -152,11 +152,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODI4MDM0NywyNjIxMDMwOTIsMTk4ND
-k3Nzg4NSwxNDMzODMyMjksODM2NzQyOTI5LC0xMTk2NTgzMTks
-NTM3MTE2NTc3LDE5NTg5NDY3MjAsLTIxMjc1MDAyMzIsMTY3OT
-E1MTQwLC0xOTgyMjU0MDM1LDc3NDkzMjc1LDkxNzc5ODk5NSwt
-MTE0MTYyNTE0NywxOTg5NzQ2MzQ4LC0xMDQ5ODQ3Mzk4LC0xMj
-g5Njk5MTI0LDYzMDY2NDE3OSwxNTQxOTQ1MDcwLDkwMDcwMDMz
-M119
+eyJoaXN0b3J5IjpbLTExMTgyMzg3MjUsMjYyMTAzMDkyLDE5OD
+Q5Nzc4ODUsMTQzMzgzMjI5LDgzNjc0MjkyOSwtMTE5NjU4MzE5
+LDUzNzExNjU3NywxOTU4OTQ2NzIwLC0yMTI3NTAwMjMyLDE2Nz
+kxNTE0MCwtMTk4MjI1NDAzNSw3NzQ5MzI3NSw5MTc3OTg5OTUs
+LTExNDE2MjUxNDcsMTk4OTc0NjM0OCwtMTA0OTg0NzM5OCwtMT
+I4OTY5OTEyNCw2MzA2NjQxNzksMTU0MTk0NTA3MCw5MDA3MDAz
+MzNdfQ==
 -->
