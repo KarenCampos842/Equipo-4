@@ -9,7 +9,7 @@
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
        <td> 6/21= 28.57%</td> 
-       <td> Alto: 2/6= 33.33%<br>Mediano: 2/8= 25%<br>Bajo: 1/7= 14.29%</td>  
+       <td> Alto: 2/6= 33.33%<br>Mediano: 2/7= 28.57%<br>Bajo: 1/8= 12.5%</td>  
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
@@ -137,15 +137,15 @@
    </tr> 
    <tr>  
       <td><strong>Total de actividades de nivel mediano</strong></td>  
-       <td>8</td>  
+       <td>7</td>  
    </tr>
     <tr>  
       <td><strong>Total de actividades de nivel bajo</strong></td>  
-       <td>7</td>  
+       <td>8</td>  
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDYwMjc4MjksLTcxNTUzNjk4NCw3Mj
-E2NTc5ODEsLTYzMTM5NDM1OSwtMTM3MjQ0MDM1NiwzMDUxMTQy
-MTldfQ==
+eyJoaXN0b3J5IjpbLTgyNDk4NDAxNCwtNzE1NTM2OTg0LDcyMT
+Y1Nzk4MSwtNjMxMzk0MzU5LC0xMzcyNDQwMzU2LDMwNTExNDIx
+OV19
 -->
