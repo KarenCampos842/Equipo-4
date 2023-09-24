@@ -1,6 +1,10 @@
 ﻿<center><h1>REQUISITOS</h1></center>
 
-## Requisitos funcionales
+## Requisitos funcionales        
+
+ - El usuario iniciará ses
+
+ 
 
 ## Requisitos no funcionales
 
@@ -9,5 +13,5 @@
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjA5Njk2M119
+eyJoaXN0b3J5IjpbLTE2ODU0MTU5MzZdfQ==
 -->
