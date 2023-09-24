@@ -49,11 +49,17 @@
       <td>Organización y documentación del repositorio</td>  
        <td>x</td>  
    </tr> 
-   tr>  
-      <td>Competenci</td>  
+   <tr>  
+      <td>Competencias genéricas</td>  
        <td>x</td>  
    </tr> 
+    <tr>  
+      <td>Competencias específicas</td>  
+       <td>x</td>  
+   </tr> 
+   
+   
  </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTY3NDc4NDQsMzA1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbMTI4NDYyNDM1NCwzMDUxMTQyMTldfQ==
 -->
