@@ -30,10 +30,10 @@
       <td>x </td>   
    </tr> 
     <tr>  
-      <td>Gestión</td> 
+      <td>Métrica de contribución individual</td> 
       <td>x </td>   
    </tr> 
  </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzNTI2MTI5LDMwNTExNDIxOV19
+eyJoaXN0b3J5IjpbLTkxNzE2OTA4NiwzMDUxMTQyMTldfQ==
 -->
