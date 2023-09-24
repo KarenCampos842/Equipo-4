@@ -1,5 +1,6 @@
 ﻿<center><h1>REQUISITOS</h1></center>
 
+
 ## Requisitos funcionales        
 
  - El usuario iniciará sesión con un número telefónico, un correo y una contraseña.
@@ -14,7 +15,6 @@
  - Se contará con un sistema de reporte por estafas, robos o incongruencias en el servicio
 
  
-
 ## Requisitos no funcionales
 
  - Solo funcionará en dispositivos móviles con Android 8 y IOS 11 (por los requisitos que manejaremos y las funciones del sistema).
@@ -28,9 +28,3 @@
 ## Priorización
 
 ## Artefactos
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjEwODU4MjUsLTU2NjY2MTI2MSwxOD
-g2MDc1Nzg5LC02NjE4MTUwNzksLTkyODY3ODc1MSwxOTU2NDM1
-ODQxLC0xNzc3NTg5NjRdfQ==
--->
