@@ -1,7 +1,7 @@
 ﻿<center><h1>PRODUCTO</h1></center>
 
 ## Descripción del producto:
-Workflash es una aplicación móvil que sirve como intermediaria en la búsqueda de servicios de oficios tales como plomería, carpintería,  carpintería, etc, el cual las  personas que se dedican a un oficio puedan anunciarse y conseguir clientes 
+Workflash es una aplicación móvil que sirve como medio para que las personas dedicadas a oficios puedan anunciarse y conseguir clientes y al 
 
 ## Usuarios/clientes:
 esta app es para esos usuarios que aprendieron un oficio o saben hacer algún oficio ya que mucho de ellos viven día a día con los trabajos que le sale estipulamos que el rango de edad será entre 30-50 años, planeamos lanzar la beta en Mérida puesto que es la capital de Yucatán y hay mas gente que necesita el servicio
@@ -11,5 +11,5 @@ Los clientes que planeamos que sean usuarios son todos aquellos que necesiten un
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDQyNDU3MCwyMDMwMjMyNDA1XX0=
+eyJoaXN0b3J5IjpbMTIwNjc4MDExNiwyMDMwMjMyNDA1XX0=
 -->
