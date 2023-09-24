@@ -17,6 +17,7 @@
 ## Requisitos no funcionales
 
  - Solo funcionará en dispositivos móviles con Android 8 y IOS 11
+ - El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (Validando la identificación oficial proporcionada)
  - 
 
 ## Priorización
@@ -24,6 +25,6 @@
 ## Artefactos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTgxNTA3OSwtOTI4Njc4NzUxLDE5NT
-Y0MzU4NDEsLTE3Nzc1ODk2NF19
+eyJoaXN0b3J5IjpbLTE5NTg0MjM3NTMsLTY2MTgxNTA3OSwtOT
+I4Njc4NzUxLDE5NTY0MzU4NDEsLTE3Nzc1ODk2NF19
 -->
