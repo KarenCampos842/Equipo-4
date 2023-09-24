@@ -59,7 +59,7 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
 
 **Actividades**
  - **Descripción del producto:** Esta app es una app para ayudar a buscar trabajo a los que tienen un oficio o aprendieron un oficio esta pensado hacia los mexicanos para asi los que tienen oficios aprendido poder aplicarlo y ganar dinero ya que ellos viven dia al dia
- - **Usuarios/Clientes:** esta app es para esos usuarios que aprendieron un oficio
+ - **Usuarios/Clientes:** esta app es para esos usuarios que aprendieron un oficio o saben hacer algun oficio ya que mucho de ellos viven dia a dia con los trabajos que le sale estipulamos que el
  - **Propuesta de valor:** Describir en qué consiste el producto y cómo se diferencia  de productos similares (investigar un producto similar y comparar con el nuestro).  <br>Preguntas guía: ¿Qué incluye este producto que no hacen otros?, ¿Existe una necesidad identificada?, ¿Por qué se podría considerar de valor la propuesta?
 
   
@@ -151,7 +151,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 [^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjU3NjY3MCwyNjIxMDMwOTIsMTk4ND
+eyJoaXN0b3J5IjpbLTQwMzI4MzAyNiwyNjIxMDMwOTIsMTk4ND
 k3Nzg4NSwxNDMzODMyMjksODM2NzQyOTI5LC0xMTk2NTgzMTks
 NTM3MTE2NTc3LDE5NTg5NDY3MjAsLTIxMjc1MDAyMzIsMTY3OT
 E1MTQwLC0xOTgyMjU0MDM1LDc3NDkzMjc1LDkxNzc5ODk5NSwt
