@@ -195,10 +195,7 @@
    </tr> 
     <tr>  
       <td><strong>Total de actividades</strong></td>  
-       <td>21</td>
-        <td></td>
-         <td></td> 
-          <td></td>           
+       <td colspan=4><center>21</td>
    </tr> 
    <tr>  
       <td><strong>Total de actividades de nivel alto</strong></td>  
@@ -223,8 +220,9 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODUyMTYyNSw1MTAzNTc1NDYsLTUxNT
-k5NjExNywxNzcwMTM3MTA1LDE4MTQ3MTQ3NjksOTAyOTYyMjkz
-LC0xNzczNzIyNzcyLC03MTU1MzY5ODQsNzIxNjU3OTgxLC02Mz
-EzOTQzNTksLTEzNzI0NDAzNTYsMzA1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbLTY4NDY4NzY0NCwtMTY4NTIxNjI1LDUxMD
+M1NzU0NiwtNTE1OTk2MTE3LDE3NzAxMzcxMDUsMTgxNDcxNDc2
+OSw5MDI5NjIyOTMsLTE3NzM3MjI3NzIsLTcxNTUzNjk4NCw3Mj
+E2NTc5ODEsLTYzMTM5NDM1OSwtMTM3MjQ0MDM1NiwzMDUxMTQy
+MTldfQ==
 -->
