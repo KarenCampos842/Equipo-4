@@ -10,7 +10,7 @@ Esta aplicación está dirigida para todas aquellas personas que buscan a alguie
 
 En la teoría, se podría decir que por cada casa de Yucatán hay un potencial usuario para la plataforma, sin embargo, en la práctica sabemos que el volumen de personas dispuestas a usarla no es equivalente, y el nivel socioeconómico no es limitante, puesto que todos pueden contratar el servicio que le sea más accesible.
 
-Además de los clientes, también priorizamos el impulso de los usuarios que ofrecen sus servicios, que son aquellos que han aprendido un oficio o sepan hacer algún trabajo y quieran anunciarse para obtener más posibilidades de conseguir contratos y mejores ingresos con la ayuda de nuestra plataforma. Estimamos que su rango de edad estará entre 30-50 años y planeamos lanzar la versión beta en Yucatán para poder garantizar la calidad del servicio a medida que crezca el número de usuarios. Aunque en el futuro planeamos expandirnos a un nivel nacional.
+Además de los clientes, también priorizamos el impulso de los usuarios que ofrecen sus servicios, que son aquellos que han aprendido un oficio o saben hacer algún trabajo y quieran anunciarse para obtener más posibilidades de conseguir contratos y mejores ingresos con la ayuda de nuestra plataforma. Estimamos que su rango de edad estará entre 30-50 años y planeamos lanzar la versión beta en Yucatán para poder garantizar la calidad del servicio a medida que crezca el número de usuarios. Aunque en el futuro planeamos expandirnos a un nivel nacional.
 
 
 ## Propuesta de valor:
@@ -19,9 +19,9 @@ Workfast ofrece a los usuarios que se registren como clientes la posibilidad de 
 Esta aplicación es una alternativa a todas las demás plataformas que ofrecen funciones similares porque la gran mayoría de ellas no tienen una manera óptima de asegurar la seguridad de los acuerdos, mientras que Workfast, tiene como objetivo garantizar la mejor experiencia para los usuarios mediante la validación de los proveedores de servicios por medio de su documentación oficial. Además, tanto los proveedores de servicios, como los clientes pueden hacer uso de un sistema de reportes en caso de que lo necesiten y solo se considera como un contrato activo aquellos que hayan sido emitidos por un cliente y aceptados por el trabajador, si uno de ellos falla, podrán ser reportados.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjg3MjQ3NzIsMTYxNjAzOTY2NCw5Mz
-MzMzI0OTMsMjEzNDE2MDI0LC0xODU3MjM5NzcsLTEwODAzOTY3
-MjUsMzM1NDQ0NDksMTM5NDcyMjU5OCw1MTEwNDc0NzQsNTg5OD
-Q4NTc0LC0xNDU1MTg5NDM0LC0xNzQzMTg2NDQ2LDEwOTMyMDE4
-ODMsMTU5NzMxNzU1MSwyMDMwMjMyNDA1XX0=
+eyJoaXN0b3J5IjpbODczODM5MTgyLDE2MTYwMzk2NjQsOTMzMz
+MyNDkzLDIxMzQxNjAyNCwtMTg1NzIzOTc3LC0xMDgwMzk2NzI1
+LDMzNTQ0NDQ5LDEzOTQ3MjI1OTgsNTExMDQ3NDc0LDU4OTg0OD
+U3NCwtMTQ1NTE4OTQzNCwtMTc0MzE4NjQ0NiwxMDkzMjAxODgz
+LDE1OTczMTc1NTEsMjAzMDIzMjQwNV19
 -->
