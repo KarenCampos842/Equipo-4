@@ -50,31 +50,36 @@
       <td>Descripción del producto (Moisés)</td>  
        <td>Mediano</td> 
        <td>22/09/2023</td>
-       <td>25/09/2023</td>  
+       <td>25/09/2023</td>
+        <td>A tiempo</td>    
    </tr> 
    <tr>  
       <td>Usuarios/Clientes (Moisés)</td>  
        <td>Mediano</td>
         <td>22/09/2023</td>
-       <td>25/09/2023</td>    
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
    <tr>  
       <td>Propuesta de valor (Brandon)</td>  
        <td>Mediano</td>
          <td>22/09/2023</td>
-       <td>25/09/2023</td>   
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
     <tr>  
       <td>Requisitos funcionales (Hansony)</td>  
       <td>Alto</td>
         <td>22/09/2023</td>
-       <td>25/09/2023</td>   
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
     <tr>  
       <td>Requisitos no funcionales (Hansony)</td>  
        <td>Alto</td>
          <td>22/09/2023</td>
-       <td>25/09/2023</td>   
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
    <tr>  
       <td>Priorización (Carlos)</td>  
@@ -198,7 +203,7 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTYxNzc0Nyw1MTAzNTc1NDYsLTUxNT
+eyJoaXN0b3J5IjpbMTkzNjQ0NzcxOSw1MTAzNTc1NDYsLTUxNT
 k5NjExNywxNzcwMTM3MTA1LDE4MTQ3MTQ3NjksOTAyOTYyMjkz
 LC0xNzczNzIyNzcyLC03MTU1MzY5ODQsNzIxNjU3OTgxLC02Mz
 EzOTQzNTksLTEzNzI0NDAzNTYsMzA1MTE0MjE5XX0=
