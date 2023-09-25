@@ -95,19 +95,27 @@
    </tr> 
     <tr>  
       <td>Gestión del proceso (Karen)</td> 
-      <td>Alto</td>   
+      <td>Alto</td>
+        <td>22/09/2023</td>
+       <td>30/09/2023</td>    
    </tr> 
     <tr>  
       <td>Métrica de contribución individual (Karen)</td> 
-      <td>Bajo</td>   
+      <td>Bajo</td>
+        <td>22/09/2023</td>
+       <td>25/09/2023</td> 
    </tr> 
    <tr>  
       <td>Organización y documentación del repositorio (Karen)</td>  
-       <td>Bajo</td>  
+       <td>Bajo</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>   
    </tr> 
    <tr>  
       <td>Competencias genéricas (Asaf)</td>  
-       <td>Mediano</td>  
+       <td>Mediano</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>   
    </tr> 
     <tr>  
       <td>Competencias específicas (Asaf)</td>  
@@ -163,8 +171,8 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTU1NTQ2OCwtNTE1OTk2MTE3LDE3Nz
-AxMzcxMDUsMTgxNDcxNDc2OSw5MDI5NjIyOTMsLTE3NzM3MjI3
-NzIsLTcxNTUzNjk4NCw3MjE2NTc5ODEsLTYzMTM5NDM1OSwtMT
-M3MjQ0MDM1NiwzMDUxMTQyMTldfQ==
+eyJoaXN0b3J5IjpbLTE4ODU2MTA1MTYsLTUxNTk5NjExNywxNz
+cwMTM3MTA1LDE4MTQ3MTQ3NjksOTAyOTYyMjkzLC0xNzczNzIy
+NzcyLC03MTU1MzY5ODQsNzIxNjU3OTgxLC02MzEzOTQzNTksLT
+EzNzI0NDAzNTYsMzA1MTE0MjE5XX0=
 -->
