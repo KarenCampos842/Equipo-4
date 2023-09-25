@@ -42,7 +42,8 @@
    <tr>  
       <th bgcolor="#D18888" >Actividades</th>  
       <th bgcolor="#D18888" >Nivel</th>  
-          <th bgcolor="#D18888" >Fecha</th>  
+          <th bgcolor="#D18888" >Fecha de asignación</th>  
+           <th bgcolor="#D18888" >Fecha máxima de entrega</th>  
    </tr> 
     <tr>  
       <td>Descripción del producto (Moisés)</td>  
@@ -147,7 +148,7 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTc2MDgyNSwxODE0NzE0NzY5LDkwMj
+eyJoaXN0b3J5IjpbMTc3MDEzNzEwNSwxODE0NzE0NzY5LDkwMj
 k2MjI5MywtMTc3MzcyMjc3MiwtNzE1NTM2OTg0LDcyMTY1Nzk4
 MSwtNjMxMzk0MzU5LC0xMzcyNDQwMzU2LDMwNTExNDIxOV19
 -->
