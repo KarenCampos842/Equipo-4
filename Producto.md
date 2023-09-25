@@ -2,8 +2,7 @@
 
 ## Descripción del producto:
 
-Workflash consiste en una aplicación móvil que ofrece a los habitante de Yucatán una 
-Workflash es una aplicación móvil que ofrece a los habitante de Yucatán una alternativa fácil y confiable en la que puedan encontrar perfiles de personas dedicadas a trabajos tales como la carpintería, plomería, reparación, mantenimiento, etc., ponerse en contacto con ellas y contratarlas. Al mismo tiempo, los trabajadores pueden promocionarse, resaltar su experiencia y crear una buena reputación con la que garanticen más contratos e ingresos más altos, lo que representa una oportunidad de beneficio para ambas partes.
+Workflash consiste en una aplicación móvil que ofrece a los habitante de Yucatán un medio accesible y confiable con el que puedan encontrar perfiles de personas dedicadas a trabajos como la carpintería, la plomería, la reparación, el mantenimiento, etc., ponerse en contacto con ellas y contratarlas. Al mismo tiempo, los trabajadores pueden promocionarse, resaltar su experiencia y crear una buena reputación con la que garanticen más contratos e ingresos más altos, lo que representa una oportunidad de beneficio para ambas partes.
 
 ## Usuarios/clientes:
 Esta aplicación está dirigida para todas aquellas personas que buscan a una persona capacitada para un trabajo de plomería, reparación, etc., en su casa. Su rango de edad puede variar; sin embargo, estimamos que a partir de los 18 años las personas son potenciales usuarios de esta aplicación. Puesto que, aunque haya gente con contactos de personas con esos oficios, foráneos y también jóvenes, muy probablemente no tengan esos contactos y opten por usar nuestra plataforma.
@@ -19,8 +18,8 @@ Workfast ofrece a los usuarios que se registren como clientes la posibilidad de 
 Esta aplicación es una alternativa a todas las demás plataformas que ofrecen funciones similares porque la gran mayoría de ellas no tienen una manera óptima de asegurar la seguridad de los acuerdos, mientras que Workfast, tiene como objetivo garantizar la mejor experiencia para los usuarios mediante la validación de los proveedores de servicios por medio de su documentación oficial. Además, tanto los proveedores de servicios, como los clientes pueden hacer uso de un sistema de reportes en caso de que lo necesiten y solo se considera como un contrato activo aquellos que hayan sido emitidos por un cliente y aceptados por el trabajador, si uno de ellos falla, podrán ser reportados.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzQ4NjQ5MSwtMTA4MDM5NjcyNSwzMz
-U0NDQ0OSwxMzk0NzIyNTk4LDUxMTA0NzQ3NCw1ODk4NDg1NzQs
-LTE0NTUxODk0MzQsLTE3NDMxODY0NDYsMTA5MzIwMTg4MywxNT
-k3MzE3NTUxLDIwMzAyMzI0MDVdfQ==
+eyJoaXN0b3J5IjpbLTEyODc0NzY4ODksLTEwODAzOTY3MjUsMz
+M1NDQ0NDksMTM5NDcyMjU5OCw1MTEwNDc0NzQsNTg5ODQ4NTc0
+LC0xNDU1MTg5NDM0LC0xNzQzMTg2NDQ2LDEwOTMyMDE4ODMsMT
+U5NzMxNzU1MSwyMDMwMjMyNDA1XX0=
 -->
