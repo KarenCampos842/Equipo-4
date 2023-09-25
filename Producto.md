@@ -2,6 +2,7 @@
 
 ## Descripción del producto:
 
+
 Workflash es una aplicación que ofrece a los yucatecos una alternativa fácil y confiable con la que pueden encontrar perfiles de personas dedicadas a trabajos y oficios tales como la carpintería, la plomería, la reparación, el mantenimiento, etc., ponerse en contacto con ellas y contratarlas. Al mismo tiempo, los trabajadores pueden promocionarse, resaltar su experiencia y crear una buena reputación para conseguir más contratos y también mejores ingresos.
 La plataforma representa una oportunidad de beneficio para ambas partes.
 
@@ -17,11 +18,3 @@ Además de los clientes, también priorizamos el impulso de los usuarios que ofr
 Workfast consiste en una aplicación para el celular que ofrece dos tipos de perfiles de usuarios, aquellos que se registren como clientes tienen la posibilidad de filtrar mediante la búsqueda a aquellos perfiles de trabajadores que más se ajusten a sus necesidades por disponibilidad, precio y cercanía, todo esto ordenado por la puntuación del servicio. El cliente dispone de múltiples métodos de contacto, puede puntuar y comentar el trabajo de la persona que contrató para que otros clientes tengan en consideración para futuros contratos. Por parte de los trabajadores, estos pueden incluir su información, fotografía y experiencia en la descripción de su perfil, pueden especificar los trabajos que realizan y los que no, además son totalmente libres de aceptar o rechazar contratos.
 
 Esta aplicación es una alternativa a todas las demás plataformas que ofrecen funciones similares porque la gran mayoría de ellas no tienen una manera óptima de asegurar la seguridad de los acuerdos, mientras que Workfast, tiene como objetivo garantizar la mejor experiencia para los usuarios mediante la validación de los proveedores de servicios por medio de su documentación oficial. Además, tanto los proveedores de servicios, como los clientes pueden hacer uso de un sistema de reportes en caso de que lo necesiten y solo se considera como un contrato activo aquellos que hayan sido emitidos por un cliente y aceptados por el trabajador, si uno de ellos falla, podrán ser reportados.
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzA0NDA2MCwxODgxNDIyMjY1LDE2MT
-YwMzk2NjQsOTMzMzMyNDkzLDIxMzQxNjAyNCwtMTg1NzIzOTc3
-LC0xMDgwMzk2NzI1LDMzNTQ0NDQ5LDEzOTQ3MjI1OTgsNTExMD
-Q3NDc0LDU4OTg0ODU3NCwtMTQ1NTE4OTQzNCwtMTc0MzE4NjQ0
-NiwxMDkzMjAxODgzLDE1OTczMTc1NTEsMjAzMDIzMjQwNV19
--->
