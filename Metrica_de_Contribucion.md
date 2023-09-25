@@ -173,24 +173,32 @@
    </tr> 
     <tr>  
       <td><strong>Total de actividades</strong></td>  
-       <td>21</td>  
+       <td>21</td>
+        <td></td>
+          <td></td>      
    </tr> 
    <tr>  
       <td><strong>Total de actividades de nivel alto</strong></td>  
-       <td>6</td>  
+       <td>6</td> 
+        <td></td>
+          <td></td>      
    </tr> 
    <tr>  
       <td><strong>Total de actividades de nivel mediano</strong></td>  
-       <td>7</td>  
+       <td>7</td>
+        <td></td>
+          <td></td>      
    </tr>
     <tr>  
       <td><strong>Total de actividades de nivel bajo</strong></td>  
-       <td>8</td>  
+       <td>8</td>
+        <td></td>
+          <td></td>      
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzIwMzA4NTAsLTUxNTk5NjExNywxNz
-cwMTM3MTA1LDE4MTQ3MTQ3NjksOTAyOTYyMjkzLC0xNzczNzIy
-NzcyLC03MTU1MzY5ODQsNzIxNjU3OTgxLC02MzEzOTQzNTksLT
-EzNzI0NDAzNTYsMzA1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbNTEwMzU3NTQ2LC01MTU5OTYxMTcsMTc3MD
+EzNzEwNSwxODE0NzE0NzY5LDkwMjk2MjI5MywtMTc3MzcyMjc3
+MiwtNzE1NTM2OTg0LDcyMTY1Nzk4MSwtNjMxMzk0MzU5LC0xMz
+cyNDQwMzU2LDMwNTExNDIxOV19
 -->
