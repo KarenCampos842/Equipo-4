@@ -190,36 +190,41 @@
       <td>Edición del video (Asaf)</td>  
        <td>Alto</td>
          <td>22/09/2023</td>
-       <td>30/09/2023</td>   
+       <td>30/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
     <tr>  
       <td><strong>Total de actividades</strong></td>  
        <td>21</td>
         <td></td>
-          <td></td>      
+         <td></td> 
+          <td></td>           
    </tr> 
    <tr>  
       <td><strong>Total de actividades de nivel alto</strong></td>  
        <td>6</td> 
         <td></td>
-          <td></td>      
+         <td></td>
+          <td></td>            
    </tr> 
    <tr>  
       <td><strong>Total de actividades de nivel mediano</strong></td>  
        <td>7</td>
         <td></td>
-          <td></td>      
+          <td></td>
+           <td></td>            
    </tr>
     <tr>  
       <td><strong>Total de actividades de nivel bajo</strong></td>  
        <td>8</td>
         <td></td>
-          <td></td>      
+         <td></td> 
+          <td></td>           
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzk2NTY0NDEsNTEwMzU3NTQ2LC01MT
-U5OTYxMTcsMTc3MDEzNzEwNSwxODE0NzE0NzY5LDkwMjk2MjI5
-MywtMTc3MzcyMjc3MiwtNzE1NTM2OTg0LDcyMTY1Nzk4MSwtNj
-MxMzk0MzU5LC0xMzcyNDQwMzU2LDMwNTExNDIxOV19
+eyJoaXN0b3J5IjpbLTE2ODUyMTYyNSw1MTAzNTc1NDYsLTUxNT
+k5NjExNywxNzcwMTM3MTA1LDE4MTQ3MTQ3NjksOTAyOTYyMjkz
+LC0xNzczNzIyNzcyLC03MTU1MzY5ODQsNzIxNjU3OTgxLC02Mz
+EzOTQzNTksLTEzNzI0NDAzNTYsMzA1MTE0MjE5XX0=
 -->
