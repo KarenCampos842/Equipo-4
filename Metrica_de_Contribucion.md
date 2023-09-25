@@ -48,7 +48,8 @@
     <tr>  
       <td>Descripción del producto (Moisés)</td>  
        <td>Mediano</td> 
-          <td>Fecha de</td> 
+       <td>22/09/2023</td>
+       <td>25/09/2023</td>  
    </tr> 
    <tr>  
       <td>Usuarios/Clientes (Moisés)</td>  
@@ -148,7 +149,8 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDEzNzEwNSwxODE0NzE0NzY5LDkwMj
-k2MjI5MywtMTc3MzcyMjc3MiwtNzE1NTM2OTg0LDcyMTY1Nzk4
-MSwtNjMxMzk0MzU5LC0xMzcyNDQwMzU2LDMwNTExNDIxOV19
+eyJoaXN0b3J5IjpbLTUxNTk5NjExNywxNzcwMTM3MTA1LDE4MT
+Q3MTQ3NjksOTAyOTYyMjkzLC0xNzczNzIyNzcyLC03MTU1MzY5
+ODQsNzIxNjU3OTgxLC02MzEzOTQzNTksLTEzNzI0NDAzNTYsMz
+A1MTE0MjE5XX0=
 -->
