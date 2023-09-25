@@ -59,27 +59,39 @@
    </tr> 
    <tr>  
       <td>Propuesta de valor (Brandon)</td>  
-       <td>Mediano</td>  
+       <td>Mediano</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>   
    </tr> 
     <tr>  
       <td>Requisitos funcionales (Hansony)</td>  
-      <td>Alto</td>  
+      <td>Alto</td>
+        <td>22/09/2023</td>
+       <td>25/09/2023</td>   
    </tr> 
     <tr>  
       <td>Requisitos no funcionales (Hansony)</td>  
-       <td>Alto</td>  
+       <td>Alto</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>   
    </tr> 
    <tr>  
       <td>Priorización (Carlos)</td>  
-       <td>Mediano</td>  
+       <td>Mediano</td> 
+         <td>22/09/2023</td>
+       <td>25/09/2023</td> 
    </tr> 
     <tr>  
       <td>Artefactos (Carlos)</td>  
-       <td>Alto</td>  
+       <td>Alto</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>   
    </tr> 
      <tr>  
       <td>Descripción del proceso (Karen)</td>  
-        <td>Alto</td>  
+        <td>Alto</td> 
+          <td>22/09/2023</td>
+       <td>25/09/2023</td>  
    </tr> 
     <tr>  
       <td>Gestión del proceso (Karen)</td> 
@@ -151,8 +163,8 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3MzM3MTg2LC01MTU5OTYxMTcsMTc3MD
-EzNzEwNSwxODE0NzE0NzY5LDkwMjk2MjI5MywtMTc3MzcyMjc3
-MiwtNzE1NTM2OTg0LDcyMTY1Nzk4MSwtNjMxMzk0MzU5LC0xMz
-cyNDQwMzU2LDMwNTExNDIxOV19
+eyJoaXN0b3J5IjpbMTQ4NTU1NTQ2OCwtNTE1OTk2MTE3LDE3Nz
+AxMzcxMDUsMTgxNDcxNDc2OSw5MDI5NjIyOTMsLTE3NzM3MjI3
+NzIsLTcxNTUzNjk4NCw3MjE2NTc5ODEsLTYzMTM5NDM1OSwtMT
+M3MjQ0MDM1NiwzMDUxMTQyMTldfQ==
 -->
