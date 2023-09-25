@@ -85,91 +85,106 @@
       <td>Priorización (Carlos)</td>  
        <td>Mediano</td> 
          <td>22/09/2023</td>
-       <td>25/09/2023</td> 
+       <td>25/09/2023</td>
+         <td>A tiempo</td>     
    </tr> 
     <tr>  
       <td>Artefactos (Carlos)</td>  
        <td>Alto</td>
          <td>22/09/2023</td>
-       <td>25/09/2023</td>   
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
      <tr>  
       <td>Descripción del proceso (Karen)</td>  
         <td>Alto</td> 
           <td>22/09/2023</td>
-       <td>25/09/2023</td>  
+       <td>25/09/2023</td>
+         <td>A tiempo</td>      
    </tr> 
     <tr>  
       <td>Gestión del proceso (Karen)</td> 
       <td>Alto</td>
         <td>22/09/2023</td>
-       <td>30/09/2023</td>    
+       <td>30/09/2023</td>
+         <td>A tiempo</td>        
    </tr> 
     <tr>  
       <td>Métrica de contribución individual (Karen)</td> 
       <td>Bajo</td>
         <td>22/09/2023</td>
-       <td>25/09/2023</td> 
+       <td>25/09/2023</td>
+         <td>A tiempo</td>     
    </tr> 
    <tr>  
       <td>Organización y documentación del repositorio (Karen)</td>  
        <td>Bajo</td>
          <td>22/09/2023</td>
-       <td>25/09/2023</td>   
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
    <tr>  
       <td>Competencias genéricas (Asaf)</td>  
        <td>Mediano</td>
          <td>22/09/2023</td>
-       <td>25/09/2023</td>   
+       <td>25/09/2023</td> 
+         <td>A tiempo</td>      
    </tr> 
     <tr>  
       <td>Competencias específicas (Asaf)</td>  
        <td>Mediano</td>
          <td>22/09/2023</td>
-       <td>25/09/2023</td>   
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
    <tr>  
       <td>Traducción de diálogos (Karen)</td>  
        <td>Mediano</td>
          <td>22/09/2023</td>
-       <td>26/09/2023</td>   
+       <td>26/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
     <tr>  
       <td>Diálogo Hansony</td>  
        <td>Bajo</td> 
          <td>22/09/2023</td>
-       <td>25/09/2023</td>  
+       <td>25/09/2023</td>
+         <td>A tiempo</td>      
    </tr> 
     <tr>  
       <td>Diálogo Carlos</td>  
        <td>Bajo</td>
          <td>22/09/2023</td>
-       <td>25/09/2023</td>  
+       <td>25/09/2023</td>
+         <td>A tiempo</td>      
    </tr> 
     <tr>  
       <td>Diálogo Moisés</td>  
        <td>Bajo</td>
          <td>22/09/2023</td>
-       <td>25/09/2023</td>   
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
     <tr>  
       <td>Diálogo Brandon</td>  
        <td>Bajo</td>
          <td>22/09/2023</td>
-       <td>25/09/2023</td>   
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
      <tr>  
       <td>Revisar redacción de la sección Producto (Brandon)</td>  
        <td>Bajo</td> 
          <td>22/09/2023</td>
-       <td>25/09/2023</td>  
+       <td>25/09/2023</td>
+         <td>A tiempo</td>      
    </tr> 
     <tr>  
       <td>Revisar redacción de la sección Requisitos (Carlos)</td>  
        <td>Bajo</td>
          <td>22/09/2023</td>
-       <td>25/09/2023</td>   
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
     <tr>  
       <td>Edición del video (Asaf)</td>  
@@ -203,8 +218,8 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjQ0NzcxOSw1MTAzNTc1NDYsLTUxNT
-k5NjExNywxNzcwMTM3MTA1LDE4MTQ3MTQ3NjksOTAyOTYyMjkz
-LC0xNzczNzIyNzcyLC03MTU1MzY5ODQsNzIxNjU3OTgxLC02Mz
-EzOTQzNTksLTEzNzI0NDAzNTYsMzA1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbLTIxMzk2NTY0NDEsNTEwMzU3NTQ2LC01MT
+U5OTYxMTcsMTc3MDEzNzEwNSwxODE0NzE0NzY5LDkwMjk2MjI5
+MywtMTc3MzcyMjc3MiwtNzE1NTM2OTg0LDcyMTY1Nzk4MSwtNj
+MxMzk0MzU5LC0xMzcyNDQwMzU2LDMwNTExNDIxOV19
 -->
