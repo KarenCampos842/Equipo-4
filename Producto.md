@@ -14,11 +14,11 @@ Además de los clientes, también priorizamos el impulso de los usuarios que ofr
 ## Propuesta de valor:
 Workfast ofrece a los usuarios que se registren como clientes la posibilidad de filtrar mediante la busqueda a aquellos perfiles de trabajadores  que más se ajusten a sus necesidades por disponibilidad, precio y cercanía, todo esto ordenado por la puntuación del servició. El cliente dsipone de múltiples métodos de contacto, puede puntuar y comentar el trabajo de la persona que contrató para que otros clientes tengan en consideración en futuros contratos. De parte de los trabajadores, estos pueden inncluir su información, fotografía y experiencia en la descripción de su perfil, pueden especificar los trabajos que hace y los que no, además de que son totalmente libres de aceptar o no un contrato.
 
-Esta aplicación es una alternativa a todas las demás aplicaciones similares porque 
+Esta aplicación es una alternativa a todas las demás aplicaciones que ofrecen funciones similares porque Muchas de ellas no tienen una forma de garantizar 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2NDEyMzAyLDU4OTg0ODU3NCwtMTQ1NT
-E4OTQzNCwtMTc0MzE4NjQ0NiwxMDkzMjAxODgzLDE1OTczMTc1
-NTEsMjAzMDIzMjQwNV19
+eyJoaXN0b3J5IjpbLTE2MDExNTk5MjMsNTg5ODQ4NTc0LC0xND
+U1MTg5NDM0LC0xNzQzMTg2NDQ2LDEwOTMyMDE4ODMsMTU5NzMx
+NzU1MSwyMDMwMjMyNDA1XX0=
 -->
