@@ -12,12 +12,12 @@ Además de los clientes, también priorizamos el impulso de los usuarios que ofr
 
 
 ## Propuesta de valor:
-Workfast ofrece a los usuarios que se registren como clientes la posibilidad de filtrar mediante la búsqueda a aquellos perfiles de trabajadores que más se ajusten a sus necesidades por disponibilidad, precio y cercanía, todo esto ordenado por la puntuación del servicio. El cliente dispone de múltiples métodos de contacto, puede puntuar y comentar el trabajo de la persona que contrató para que otros clientes tengan en consideración para futuros contratos. Por parte de los trabajadores, estos pueden incluir su información, fotografía y experiencia en la descripción de su perfil, pueden especificar los trabajos que hacen y los que no, además de que son totalmente libres de aceptar o rechazar contratos.
+Workfast ofrece a los usuarios que se registren como clientes la posibilidad de filtrar mediante la búsqueda a aquellos perfiles de trabajadores que más se ajusten a sus necesidades por disponibilidad, precio y cercanía, todo esto ordenado por la puntuación del servicio. El cliente dispone de múltiples métodos de contacto, puede puntuar y comentar el trabajo de la persona que contrató para que otros clientes tengan en consideración para futuros contratos. Por parte de los trabajadores, estos pueden incluir su información, fotografía y experiencia en la descripción de su perfil, pueden especificar los trabajos que realizan y los que no, además son totalmente libres de aceptar o rechazar contratos.
 
-Esta aplicación es una alternativa a todas las demás plataformas que ofrecen funciones similares porque la gran mayoría de ellas no tienen una manera óptima de asegurar la seguridad de los acuerdos, mientras que en Workfast, tenemos como objetivo garantizar la mejor experiencia a los usuarios mediante la validación de los proveedores de servicios por medio de su documentación oficial. Además, tanto los proveedores de servicios, como los clientes pueden hacer uso de un sistema de reportes en caso de que lo necesiten y solo se considera como un contrato activo aquellos que hayan sido emitidos por un cliente y aceptados por el trabajador, si uno de ellos falla, podran ser reportados.
+Esta aplicación es una alternativa a todas las demás plataformas que ofrecen funciones similares porque la gran mayoría de ellas no tienen una manera óptima de asegurar la seguridad de los acuerdos, mientras que en Workfast, tenemos como objetivo garantizar la mejor experiencia a los usuarios mediante la validación de los proveedores de servicios por medio de su documentación oficial. Además, tanto los proveedores de servicios, como los clientes pueden hacer uso de un sistema de reportes en caso de que lo necesiten y solo se considera como un contrato activo aquellos que hayan sido emitidos por un cliente y aceptados por el trabajador, si uno de ellos falla, podrán ser reportados.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDYwMjg1MSw1ODk4NDg1NzQsLTE0NT
-UxODk0MzQsLTE3NDMxODY0NDYsMTA5MzIwMTg4MywxNTk3MzE3
-NTUxLDIwMzAyMzI0MDVdfQ==
+eyJoaXN0b3J5IjpbLTIxMzA4MTUzMzAsNTg5ODQ4NTc0LC0xND
+U1MTg5NDM0LC0xNzQzMTg2NDQ2LDEwOTMyMDE4ODMsMTU5NzMx
+NzU1MSwyMDMwMjMyNDA1XX0=
 -->
