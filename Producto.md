@@ -14,10 +14,10 @@ Además de los clientes, también priorizamos el impulso de los usuarios que ofr
 ## Propuesta de valor:
 Workfast ofrece a los usuarios que se registren como clientes la posibilidad de filtrar mediante la busqueda a aquellos perfiles de trabajadores  que más se ajusten a sus necesidades por disponibilidad, precio y cercanía, todo esto ordenado por la puntuación del servició. El cliente dsipone de múltiples métodos de contacto, puede puntuar y comentar el trabajo de la persona que contrató para que otros clientes tengan en consideración en futuros contratos. De parte de los trabajadores, estos pueden inncluir su información, fotografía y experiencia en la descripción de su perfil, pueden especificar los trabajos que hace y los que no, además de que son totalmente libres de aceptar o no un contrato.
 
-Esta aplicación es una alternativa a todas las demás aplicaciones que ofrecen funciones similares porque Muchas de ellas no tienen una forma de garantizar un servicio de calidda para cleintes y trabajadores, mientraes que en Workfast, tenemos como objetivo garantizar una buena esperiencia a los usuarios mediante la validacion de los proveedores de servicios por medio de su documentación oficial además tanto ellos como los clientes pueden hacer uso de un servicio de reportes en caso de que lo necesiten y solo se considera como un contrato activo aquellos que hayan sido emitidos por un cliente y aceptados por el trabajador, si uno de el
+Esta aplicación es una alternativa a todas las demás aplicaciones que ofrecen funciones similares porque Muchas de ellas no tienen una forma de garantizar un servicio de calidda para cleintes y trabajadores, mientraes que en Workfast, tenemos como objetivo garantizar una buena esperiencia a los usuarios mediante la validacion de los proveedores de servicios por medio de su documentación oficial además tanto ellos como los clientes pueden hacer uso de un servicio de reportes en caso de que lo necesiten y solo se considera como un contrato activo aquellos que hayan sido emitidos por un cliente y aceptados por el trabajador, si uno de ellos falla, podran ser reportados.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTQ2NjI5Niw1ODk4NDg1NzQsLTE0NT
+eyJoaXN0b3J5IjpbLTk1NTA2NTA4Nyw1ODk4NDg1NzQsLTE0NT
 UxODk0MzQsLTE3NDMxODY0NDYsMTA5MzIwMTg4MywxNTk3MzE3
 NTUxLDIwMzAyMzI0MDVdfQ==
 -->
