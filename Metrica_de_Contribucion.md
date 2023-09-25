@@ -43,7 +43,8 @@
       <th bgcolor="#D18888" >Actividades</th>  
       <th bgcolor="#D18888" >Nivel</th>  
           <th bgcolor="#D18888" >Fecha de asignación</th>  
-           <th bgcolor="#D18888" >Fecha máxima de entrega</th>  
+           <th bgcolor="#D18888" >Fecha máxima de entrega</th>
+                <th bgcolor="#D18888" >Estado de entrega</th>    
    </tr> 
     <tr>  
       <td>Descripción del producto (Moisés)</td>  
@@ -197,8 +198,8 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwMzU3NTQ2LC01MTU5OTYxMTcsMTc3MD
-EzNzEwNSwxODE0NzE0NzY5LDkwMjk2MjI5MywtMTc3MzcyMjc3
-MiwtNzE1NTM2OTg0LDcyMTY1Nzk4MSwtNjMxMzk0MzU5LC0xMz
-cyNDQwMzU2LDMwNTExNDIxOV19
+eyJoaXN0b3J5IjpbLTYzMTYxNzc0Nyw1MTAzNTc1NDYsLTUxNT
+k5NjExNywxNzcwMTM3MTA1LDE4MTQ3MTQ3NjksOTAyOTYyMjkz
+LC0xNzczNzIyNzcyLC03MTU1MzY5ODQsNzIxNjU3OTgxLC02Mz
+EzOTQzNTksLTEzNzI0NDAzNTYsMzA1MTE0MjE5XX0=
 -->
