@@ -53,7 +53,9 @@
    </tr> 
    <tr>  
       <td>Usuarios/Clientes (Moisés)</td>  
-       <td>Mediano</td>  
+       <td>Mediano</td>
+        <td>22/09/2023</td>
+       <td>25/09/2023</td>    
    </tr> 
    <tr>  
       <td>Propuesta de valor (Brandon)</td>  
@@ -149,8 +151,8 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTk5NjExNywxNzcwMTM3MTA1LDE4MT
-Q3MTQ3NjksOTAyOTYyMjkzLC0xNzczNzIyNzcyLC03MTU1MzY5
-ODQsNzIxNjU3OTgxLC02MzEzOTQzNTksLTEzNzI0NDAzNTYsMz
-A1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbOTI3MzM3MTg2LC01MTU5OTYxMTcsMTc3MD
+EzNzEwNSwxODE0NzE0NzY5LDkwMjk2MjI5MywtMTc3MzcyMjc3
+MiwtNzE1NTM2OTg0LDcyMTY1Nzk4MSwtNjMxMzk0MzU5LC0xMz
+cyNDQwMzU2LDMwNTExNDIxOV19
 -->
