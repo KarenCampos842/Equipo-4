@@ -1,7 +1,7 @@
 ﻿<center><h1>PRODUCTO</h1></center>
 
 ## Descripción del producto:
-Workflash consiste en una aplicación móvil que ofrece a los yucatecos una alternativa fácil y altamente confiable en la que puedan encontrar perfiles de personas dedicadas a trabajos tales como la carpintería, plomería, reparación, mantenimiento, etc., y ponerse en contacto con ellas. Al mismo tiempo, los trabajadores pueden promocionarse, resaltar su experiencia y crear una buena reputación con la que garanticen contratos e ingresos más altos, lo que representa una oportunidad de beneficio para ambas partes.
+Workflash consiste en una aplicación móvil que ofrece a los yucatecos una alternativa fácil y altamente confiable en la que puedan encontrar perfiles de personas dedicadas a trabajos tales como la carpintería, plomería, reparación, mantenimiento, etc., y ponerse en contacto con ellas. Al mismo tiempo, los trabajadores pueden promocionarse, resaltar su experiencia y crear una buena reputación con la que garanticen contratos e ingresos más altos, esta plataforma qu representa una oportunidad de beneficio para ambas partes.
 
 ## Usuarios/clientes:
 Esta aplicación está dirigida para todas aquellas personas que buscan a una persona capacitada para un trabajo de plomería, reparación, etc., en su casa. Su rango de edad puede variar; sin embargo, estimamos que a partir de los 18 años las personas son potenciales usuarios de esta aplicación. Puesto que, aunque haya gente con contactos de personas con esos oficios, foráneos y también jóvenes, muy probablemente no tengan esos contactos y opten por usar nuestra plataforma.
@@ -17,7 +17,8 @@ Workfast ofrece a los usuarios que se registren como clientes la posibilidad de 
 Esta aplicación es una alternativa a todas las demás plataformas que ofrecen funciones similares porque la gran mayoría de ellas no tienen una manera óptima de asegurar la seguridad de los acuerdos, mientras que Workfast, tiene como objetivo garantizar la mejor experiencia para los usuarios mediante la validación de los proveedores de servicios por medio de su documentación oficial. Además, tanto los proveedores de servicios, como los clientes pueden hacer uso de un sistema de reportes en caso de que lo necesiten y solo se considera como un contrato activo aquellos que hayan sido emitidos por un cliente y aceptados por el trabajador, si uno de ellos falla, podrán ser reportados.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDcyMjU5OCw1MTEwNDc0NzQsNTg5OD
-Q4NTc0LC0xNDU1MTg5NDM0LC0xNzQzMTg2NDQ2LDEwOTMyMDE4
-ODMsMTU5NzMxNzU1MSwyMDMwMjMyNDA1XX0=
+eyJoaXN0b3J5IjpbMTA5MDczMjkxOCwxMzk0NzIyNTk4LDUxMT
+A0NzQ3NCw1ODk4NDg1NzQsLTE0NTUxODk0MzQsLTE3NDMxODY0
+NDYsMTA5MzIwMTg4MywxNTk3MzE3NTUxLDIwMzAyMzI0MDVdfQ
+==
 -->
