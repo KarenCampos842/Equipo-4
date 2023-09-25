@@ -14,14 +14,15 @@ Además de los clientes, también priorizamos el impulso de los usuarios que ofr
 
 
 ## Propuesta de valor:
-Workfast ofrece a los usuarios que se registren como clientes la posibilidad de filtrar mediante la búsqueda a aquellos perfiles de trabajadores que más se ajusten a sus necesidades por disponibilidad, precio y cercanía, todo esto ordenado por la puntuación del servicio. El cliente dispone de múltiples métodos de contacto, puede puntuar y comentar el trabajo de la persona que contrató para que otros clientes tengan en consideración para futuros contratos. Por parte de los trabajadores, estos pueden incluir su información, fotografía y experiencia en la descripción de su perfil, pueden especificar los trabajos que realizan y los que no, además son totalmente libres de aceptar o rechazar contratos.
+Workfast consiste en una aplicación para el celular que ofrece dos tipos de perfiles de usuarios, aquellos que se registren como clientes la posibilidad de filtrar mediante la búsqueda a aquellos perfiles de trabajadores que más se ajusten a sus necesidades por disponibilidad, precio y cercanía, todo esto ordenado por la puntuación del servicio. El cliente dispone de múltiples métodos de contacto, puede puntuar y comentar el trabajo de la persona que contrató para que otros clientes tengan en consideración para futuros contratos. Por parte de los trabajadores, estos pueden incluir su información, fotografía y experiencia en la descripción de su perfil, pueden especificar los trabajos que realizan y los que no, además son totalmente libres de aceptar o rechazar contratos.
 
 Esta aplicación es una alternativa a todas las demás plataformas que ofrecen funciones similares porque la gran mayoría de ellas no tienen una manera óptima de asegurar la seguridad de los acuerdos, mientras que Workfast, tiene como objetivo garantizar la mejor experiencia para los usuarios mediante la validación de los proveedores de servicios por medio de su documentación oficial. Además, tanto los proveedores de servicios, como los clientes pueden hacer uso de un sistema de reportes en caso de que lo necesiten y solo se considera como un contrato activo aquellos que hayan sido emitidos por un cliente y aceptados por el trabajador, si uno de ellos falla, podrán ser reportados.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTQyMjI2NSwxNjE2MDM5NjY0LDkzMz
-MzMjQ5MywyMTM0MTYwMjQsLTE4NTcyMzk3NywtMTA4MDM5Njcy
-NSwzMzU0NDQ0OSwxMzk0NzIyNTk4LDUxMTA0NzQ3NCw1ODk4ND
-g1NzQsLTE0NTUxODk0MzQsLTE3NDMxODY0NDYsMTA5MzIwMTg4
-MywxNTk3MzE3NTUxLDIwMzAyMzI0MDVdfQ==
+eyJoaXN0b3J5IjpbLTE4OTk4MjkxNTksMTg4MTQyMjI2NSwxNj
+E2MDM5NjY0LDkzMzMzMjQ5MywyMTM0MTYwMjQsLTE4NTcyMzk3
+NywtMTA4MDM5NjcyNSwzMzU0NDQ0OSwxMzk0NzIyNTk4LDUxMT
+A0NzQ3NCw1ODk4NDg1NzQsLTE0NTUxODk0MzQsLTE3NDMxODY0
+NDYsMTA5MzIwMTg4MywxNTk3MzE3NTUxLDIwMzAyMzI0MDVdfQ
+==
 -->
