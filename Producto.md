@@ -2,7 +2,7 @@
 
 ## Descripción del producto:
 
-Workflash es una aplicación que ofrece a los yucatecos una alternativa fácil y confiable con la que pueden encontrar perfiles de personas dedicadas a oficios tales como la carpintería, la plomería, la reparación, entre otros trabajos, ponerse en contacto con ellas y contratarlas. Al mismo tiempo, los trabajadores pueden promocionarse, resaltar su experiencia y crear una buena reputación con la que garanticen más contratos y también mejores ingresos.
+Workflash es una aplicación que ofrece a los yucatecos una alternativa fácil y confiable con la que pueden encontrar perfiles de personas dedicadas a trabajos y oficios tales como la carpintería, la plomería, la reparación, el mantenimiento, etc., ponerse en contacto con ellas y contratarlas. Al mismo tiempo, los trabajadores pueden promocionarse, resaltar su experiencia y crear una buena reputación con la que garanticen más contratos y también mejores ingresos.
 La plataforma representa una oportunidad de beneficio para ambas partes.
 
 ## Usuarios/clientes:
@@ -19,9 +19,9 @@ Workfast ofrece a los usuarios que se registren como clientes la posibilidad de 
 Esta aplicación es una alternativa a todas las demás plataformas que ofrecen funciones similares porque la gran mayoría de ellas no tienen una manera óptima de asegurar la seguridad de los acuerdos, mientras que Workfast, tiene como objetivo garantizar la mejor experiencia para los usuarios mediante la validación de los proveedores de servicios por medio de su documentación oficial. Además, tanto los proveedores de servicios, como los clientes pueden hacer uso de un sistema de reportes en caso de que lo necesiten y solo se considera como un contrato activo aquellos que hayan sido emitidos por un cliente y aceptados por el trabajador, si uno de ellos falla, podrán ser reportados.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjEwNTUxODksOTMzMzMyNDkzLDIxMz
-QxNjAyNCwtMTg1NzIzOTc3LC0xMDgwMzk2NzI1LDMzNTQ0NDQ5
-LDEzOTQ3MjI1OTgsNTExMDQ3NDc0LDU4OTg0ODU3NCwtMTQ1NT
-E4OTQzNCwtMTc0MzE4NjQ0NiwxMDkzMjAxODgzLDE1OTczMTc1
-NTEsMjAzMDIzMjQwNV19
+eyJoaXN0b3J5IjpbMTIzNjgyNTk0OCw5MzMzMzI0OTMsMjEzND
+E2MDI0LC0xODU3MjM5NzcsLTEwODAzOTY3MjUsMzM1NDQ0NDks
+MTM5NDcyMjU5OCw1MTEwNDc0NzQsNTg5ODQ4NTc0LC0xNDU1MT
+g5NDM0LC0xNzQzMTg2NDQ2LDEwOTMyMDE4ODMsMTU5NzMxNzU1
+MSwyMDMwMjMyNDA1XX0=
 -->
