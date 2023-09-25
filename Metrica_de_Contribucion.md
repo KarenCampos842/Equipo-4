@@ -161,11 +161,15 @@
    </tr> 
     <tr>  
       <td>Revisar redacción de la sección Requisitos (Carlos)</td>  
-       <td>Bajo</td>  
+       <td>Bajo</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>   
    </tr> 
     <tr>  
       <td>Edición del video (Asaf)</td>  
-       <td>Alto</td>  
+       <td>Alto</td>
+         <td>22/09/2023</td>
+       <td>30/09/2023</td>   
    </tr> 
     <tr>  
       <td><strong>Total de actividades</strong></td>  
@@ -185,7 +189,7 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU2MDAyNjAsLTUxNTk5NjExNywxNz
+eyJoaXN0b3J5IjpbLTExNzIwMzA4NTAsLTUxNTk5NjExNywxNz
 cwMTM3MTA1LDE4MTQ3MTQ3NjksOTAyOTYyMjkzLC0xNzczNzIy
 NzcyLC03MTU1MzY5ODQsNzIxNjU3OTgxLC02MzEzOTQzNTksLT
 EzNzI0NDAzNTYsMzA1MTE0MjE5XX0=
