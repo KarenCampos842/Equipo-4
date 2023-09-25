@@ -1,20 +1,19 @@
-﻿<center><h1>REQUISITOS</h1></center>
+<center><h1>REQUISITOS</h1></center>
 
 
 ## Requisitos funcionales        
 
- - El usuario iniciará sesión con un número telefónico, un correo y una contraseña.
- - El trabajador tendrá que validar sus datos con alguna identificación oficial para poder registrarse.
- - El sistema contará con un chat para que el usuario pueda adquirir cotizaciones del servicio y asi decidir si lo acepta o no.
- - Tendrá un ranking de los trabajadores mejor calificados.
- - Se podrá filtrar a los trabajadores por ubicación, calificaciones y por el servicio que se requiera.
- - Contará con una agenda con recordatorios y alarmas para los trabajadores para organizarse sin afectar a los usuarios.
- - Al finalizar cada servicio el sistema le permitirá al usuario calificar y/o comentar el desempeño del trabajador.
- - El sistema reflejará en los perfiles de cada trabajador detalles como sus servicios realizados, su experiencia, sus calificaciones, su fotografía, sus horarios disponibles asi como su rango de distancia en el que puede laborar
- - El sistema contará con un sistema de "Karma" en el que si el usuario o el trabajador no asiste, no cumple con lo antes mencionado o si cancela sin previo aviso, se verá reflejado en los perfiles de cada usuario y trabajador y con ello afectar la experiencia con la aplicación.
- - Se contará con un sistema de reporte por estafas, robos o incongruencias en el servicio
+- El sistema permitirá el registro usuario con un correo electrónico, Un número telefónico, una contraseña y una identificación oficial 
+- El sistema Permitirá elegir a usuario si se quiere registrar como empleador o trabajador. 
+- El sistema contará con un chat para que el empleador pueda adquirir cotizaciones del servicio y así decidir si lo acepta o no. 
+- Tendrá un ranking de los trabajadores mejor calificados. 
+- Se podrá filtrar a los trabajadores por ubicación, calificaciones y por el servicio que se requiera. 
+- Contará con una agenda con recordatorios y alarmas para los trabajadores para organizarse sin afectar a los usuarios. 
+- Al finalizar cada servicio el sistema le permitirá al empleador calificar y/o comentar el desempeño del trabajador. 
+- El sistema reflejará en los perfiles de cada trabajador detalles como sus servicios realizados, su experiencia, sus calificaciones, su fotografía, sus horarios disponibles, así como su rango de distancia en el que puede laborar.
+- El sistema contará con un sistema de "Karma" en el que, si el empleador o el trabajador no asiste, no cumple con lo antes mencionado o si cancela sin previo aviso, se verá reflejado en los perfiles de cada empleador y trabajador y con ello afectar la experiencia con la aplicación. 
+- Se contará con un sistema de reporte por estafas, robos o incongruencias en el servicio.
 
- 
 ## Requisitos no funcionales
 
  - Solo funcionará en dispositivos móviles con Android 8 y IOS 11 (por los requisitos que manejaremos y las funciones del sistema).
