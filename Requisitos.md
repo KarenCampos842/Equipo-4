@@ -3,8 +3,8 @@
 
 ## Requisitos funcionales        
 
-- El sistema permitirá el registro usuario con un correo electrónico, Un número telefónico, una contraseña y una identificación oficial 
-- El sistema Permitirá elegir a usuario si se quiere registrar como empleador o trabajador. 
+- El sistema permitirá el registro del usuario con un correo electrónico, Un número telefónico, una contraseña y una identificación oficial. 
+- El sistema Permitirá elegir al usuario si se quiere registrar como empleador o trabajador. 
 - El sistema contará con un chat para que el empleador pueda adquirir cotizaciones del servicio y así decidir si lo acepta o no. 
 - Tendrá un ranking de los trabajadores mejor calificados. 
 - Se podrá filtrar a los trabajadores por ubicación, calificaciones y por el servicio que se requiera. 
