@@ -42,10 +42,12 @@
    <tr>  
       <th bgcolor="#D18888" >Actividades</th>  
       <th bgcolor="#D18888" >Nivel</th>  
+          <th bgcolor="#D18888" >Fecha</th>  
    </tr> 
     <tr>  
       <td>Descripción del producto (Moisés)</td>  
-       <td>Mediano</td>  
+       <td>Mediano</td> 
+          <td>Fecha de</td> 
    </tr> 
    <tr>  
       <td>Usuarios/Clientes (Moisés)</td>  
@@ -145,7 +147,7 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDcxNDc2OSw5MDI5NjIyOTMsLTE3Nz
-M3MjI3NzIsLTcxNTUzNjk4NCw3MjE2NTc5ODEsLTYzMTM5NDM1
-OSwtMTM3MjQ0MDM1NiwzMDUxMTQyMTldfQ==
+eyJoaXN0b3J5IjpbMTYyNTc2MDgyNSwxODE0NzE0NzY5LDkwMj
+k2MjI5MywtMTc3MzcyMjc3MiwtNzE1NTM2OTg0LDcyMTY1Nzk4
+MSwtNjMxMzk0MzU5LC0xMzcyNDQwMzU2LDMwNTExNDIxOV19
 -->
