@@ -19,7 +19,7 @@ Workfast consiste en una aplicación móvil que sirve de intermediaria entre cli
 
 Esta aplicación es una alternativa a todas las demás plataformas que ofrecen funciones similares porque la gran mayoría de ellas no tienen una manera óptima de asegurar la seguridad de los acuerdos tal como URGY Multiservicios, uno de nuestros principales competidores, mientras que Workfast, tiene como objetivo garantizar la mejor experiencia para los usuarios mediante la validación de los proveedores de servicios por medio de su documentación oficial. Además, tanto los proveedores de servicios, como los clientes pueden hacer uso de un sistema de reportes en caso de que lo necesiten y solo se considera como un contrato activo aquellos que hayan sido emitidos por un cliente y aceptados por el trabajador, si uno de ellos falla, podrán ser reportados.
 
-Nuestra plataforma garantiza la seguridad tanto de los usuarios como de los trabajadores y mantienen un estándar de calidad en los servicios que hacen que la aplicación sea una mejor opción ante la competencia que que no están al tanto de las quejas de sus usuarios.
+Nuestra plataforma garantiza la seguridad tanto de los usuarios como de los trabajadores y mantienen un estándar de calidad en los servicios que hacen que la aplicación sea una mejor opción ante la competencia que entre muchas cosas, no están al tanto de las quejas de sus usuarios.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0ODgxMTAzXX0=
+eyJoaXN0b3J5IjpbLTU3MjQwMjY1Nl19
 -->
