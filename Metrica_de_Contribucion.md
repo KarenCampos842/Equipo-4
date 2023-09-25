@@ -119,31 +119,45 @@
    </tr> 
     <tr>  
       <td>Competencias específicas (Asaf)</td>  
-       <td>Mediano</td>  
+       <td>Mediano</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>   
    </tr> 
    <tr>  
       <td>Traducción de diálogos (Karen)</td>  
-       <td>Mediano</td>  
+       <td>Mediano</td>
+         <td>22/09/2023</td>
+       <td>26/09/2023</td>   
    </tr> 
     <tr>  
       <td>Diálogo Hansony</td>  
-       <td>Bajo</td>  
+       <td>Bajo</td> 
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>  
    </tr> 
     <tr>  
       <td>Diálogo Carlos</td>  
-       <td>Bajo</td>  
+       <td>Bajo</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>  
    </tr> 
     <tr>  
       <td>Diálogo Moisés</td>  
-       <td>Bajo</td>  
+       <td>Bajo</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>   
    </tr> 
     <tr>  
       <td>Diálogo Brandon</td>  
-       <td>Bajo</td>  
+       <td>Bajo</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>   
    </tr> 
      <tr>  
       <td>Revisar redacción de la sección Producto (Brandon)</td>  
-       <td>Bajo</td>  
+       <td>Bajo</td> 
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>  
    </tr> 
     <tr>  
       <td>Revisar redacción de la sección Requisitos (Carlos)</td>  
@@ -171,7 +185,7 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU2MTA1MTYsLTUxNTk5NjExNywxNz
+eyJoaXN0b3J5IjpbLTEyNDU2MDAyNjAsLTUxNTk5NjExNywxNz
 cwMTM3MTA1LDE4MTQ3MTQ3NjksOTAyOTYyMjkzLC0xNzczNzIy
 NzcyLC03MTU1MzY5ODQsNzIxNjU3OTgxLC02MzEzOTQzNTksLT
 EzNzI0NDAzNTYsMzA1MTE0MjE5XX0=
