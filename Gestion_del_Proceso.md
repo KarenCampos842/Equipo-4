@@ -6,7 +6,7 @@
 **Viernes 22 de septiembre de 2023**<br>Karen envió vía WhatsApp una propuesta para dividir el trabajo a realizar para la primera entrega, la cual fue aceptada por el resto del equipo. <br> Se acordó terminar con las actividades propuestas por Karen el lunes 2 de septiembre. Éstas actividades serían descritas por Karen en un archivo titulado Descripción_del_proceso  ubicado en la rama de Primera-Entrega en el repositorio del equipo.
 <br>
 **Lunes 25 de septiembre de 2023**<br>Durante la reunión se revisó el avance del trabajo. Los acuerdos tomados fueron los siguientes: 
-
+Finalizar los diálogos para el videose realizar la traducción de los diálogos al inglés para fecha máxima de lu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDUyNzY3NCwtMTYyOTU1MDMwXX0=
+eyJoaXN0b3J5IjpbLTk5ODQzNjk1NywtMTYyOTU1MDMwXX0=
 -->
