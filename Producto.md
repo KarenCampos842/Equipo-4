@@ -2,11 +2,11 @@
 
 ## Descripción del producto:
 
-Workflash es una aplicación que ofrece a los yucatecos una alternativa fácil y confiable con la que pueden encontrar perfiles de personas dedicadas a trabajos tales como la carpintería, la plomería, la reparación, etc., ponerse en contacto con ellas y contratarlas. Al mismo tiempo, los trabajadores pueden promocionarse, resaltar su experiencia y crear una buena reputación con la que garanticen más contratos y también mejores ingresos.
+Workflash es una aplicación que ofrece a los yucatecos una alternativa fácil y confiable con la que pueden encontrar perfiles de personas dedicadas a oficios tales como la carpintería, la plomería, la reparación, entre otros trabajos, ponerse en contacto con ellas y contratarlas. Al mismo tiempo, los trabajadores pueden promocionarse, resaltar su experiencia y crear una buena reputación con la que garanticen más contratos y también mejores ingresos.
 La plataforma representa una oportunidad de beneficio para ambas partes.
 
 ## Usuarios/clientes:
-Esta aplicación está dirigida para todas aquellas personas que buscan a alguie capacitada para un trabajo de plomería, reparación, etc., en su casa. Su rango de edad puede variar; sin embargo, estimamos que a partir de los 18 años las personas son potenciales usuarios de esta aplicación. Puesto que, aunque haya gente con contactos de personas con esos oficios, foráneos y también jóvenes, muy probablemente no tengan esos contactos y opten por usar nuestra plataforma.
+Esta aplicación está dirigida para todas aquellas personas que buscan a alguien  capacitado para un trabajo de instalación, mantenimiento, reparación, plomería, carpintería, etc., en su casa. Su rango de edad puede variar; sin embargo, estimamos que a partir de los 18 años las personas son potenciales usuarios de esta aplicación. Puesto que, aunque haya gente con contactos de personas con esos oficios, foráneos y también jóvenes, muy probablemente no tengan esos contactos y opten por usar nuestra plataforma.
 
 En la teoría, se podría decir que por cada casa de Yucatán hay un potencial usuario para la plataforma, sin embargo, en la práctica sabemos que el volumen de personas dispuestas a usarla no es equivalente, y el nivel socioeconómico no es limitante, puesto que todos pueden contratar el servicio que le sea más accesible.
 
@@ -19,9 +19,9 @@ Workfast ofrece a los usuarios que se registren como clientes la posibilidad de 
 Esta aplicación es una alternativa a todas las demás plataformas que ofrecen funciones similares porque la gran mayoría de ellas no tienen una manera óptima de asegurar la seguridad de los acuerdos, mientras que Workfast, tiene como objetivo garantizar la mejor experiencia para los usuarios mediante la validación de los proveedores de servicios por medio de su documentación oficial. Además, tanto los proveedores de servicios, como los clientes pueden hacer uso de un sistema de reportes en caso de que lo necesiten y solo se considera como un contrato activo aquellos que hayan sido emitidos por un cliente y aceptados por el trabajador, si uno de ellos falla, podrán ser reportados.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTM0OTA2Nyw5MzMzMzI0OTMsMjEzND
-E2MDI0LC0xODU3MjM5NzcsLTEwODAzOTY3MjUsMzM1NDQ0NDks
-MTM5NDcyMjU5OCw1MTEwNDc0NzQsNTg5ODQ4NTc0LC0xNDU1MT
-g5NDM0LC0xNzQzMTg2NDQ2LDEwOTMyMDE4ODMsMTU5NzMxNzU1
-MSwyMDMwMjMyNDA1XX0=
+eyJoaXN0b3J5IjpbLTIxMjEwNTUxODksOTMzMzMyNDkzLDIxMz
+QxNjAyNCwtMTg1NzIzOTc3LC0xMDgwMzk2NzI1LDMzNTQ0NDQ5
+LDEzOTQ3MjI1OTgsNTExMDQ3NDc0LDU4OTg0ODU3NCwtMTQ1NT
+E4OTQzNCwtMTc0MzE4NjQ0NiwxMDkzMjAxODgzLDE1OTczMTc1
+NTEsMjAzMDIzMjQwNV19
 -->
