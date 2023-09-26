@@ -26,6 +26,26 @@
 
 ## Priorización
 <center><h1>Historias de usuarios</h1></center>
+//
+<table>
+  <tr>
+    <td >Nombre:  selección de rol </td>
+    <tr>
+    <td >Prioridad: Alta </td>
+  </tr>
+  </tr>
+  <tr>
+    <td > Descripción: <br>
+   Como herrero desde hace 1 año quiero poder
+     <br> brindar mis servicios como trabajador
+     <br>para poder tener más clientes y aumentar
+     <br>mi experiencia </td>
+  </tr>
+   <tr>
+    <td ">Validación: <br>
+- dar de alta su trabajo en su perfil </td>
+  </tr>
+</table>
 
 ![Mapa de dependencia](https://github.com/KarenCampos842/Equipo-4/assets/143464988/67b5eb22-929e-4acb-a404-ca18d35ccd49)
 
