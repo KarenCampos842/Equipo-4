@@ -8,11 +8,11 @@
 **Lunes 25 de septiembre de 2023 (Scrum team meeting)**<br>Durante la reunión se revisó el avance del trabajo. Los acuerdos tomados fueron los siguientes: 
 Finalizar los diálogos para el video lunes 25 de septiembre, realizar la traducción de los diálogos al inglés y grabar los audios para fecha máxima de 26 de septiembre e iniciar la edición del video miércoles 27 con fecha límite de 30 de septiembre. 
 <br>
-**Lunes 25 de septiembre de 2023 (Scrum team meeting)**<br>Durante la reunión se revisó el avance del trabajo. Los acuerdos tomados fueron los siguientes: 
-Finalizar los diálogos para el video lunes 25 de septiembre, realizar la traducción de los diálogos al inglés y grabar los audios para fecha máxima de 26 de septiembre e iniciar la edición del video miércoles 27 con fecha límite de 30 de septiembre. 
+**Martes 26 de septiembre de 2023 (Scrum team meeting)**<br>Durante la reunión se revisó el avance del trabajo. Los acuerdos tomados fueron los siguientes: 
+Finalizar los diálogos para el video martes de septiembre, realizar la traducción de los diálogos al inglés y grabar los audios para fecha máxima de 26 de septiembre e iniciar la edición del video miércoles 27 con fecha límite de 30 de septiembre. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTIxNjA2LDYwNzA1NjY2LC0xNjI5NT
-UwMzBdfQ==
+eyJoaXN0b3J5IjpbLTEyNDgzMDkwNzAsNjA3MDU2NjYsLTE2Mj
+k1NTAzMF19
 -->
