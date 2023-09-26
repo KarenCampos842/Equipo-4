@@ -25,5 +25,7 @@
  - Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal (Verificando los servicios continuamente).
 
 ## Priorización
+<Historias de usuarios
+![Mapa de dependencia](https://github.com/KarenCampos842/Equipo-4/assets/143464988/67b5eb22-929e-4acb-a404-ca18d35ccd49)
 
 ## Artefactos
