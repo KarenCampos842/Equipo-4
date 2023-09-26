@@ -149,28 +149,28 @@
        <td>Bajo</td> 
          <td>22/09/2023</td>
        <td>25/09/2023</td>
-         <td>A tiempo</td>      
+         <td>26/09/2023</td>      
    </tr> 
     <tr>  
       <td>Diálogo Carlos</td>  
        <td>Bajo</td>
          <td>22/09/2023</td>
        <td>25/09/2023</td>
-         <td>A tiempo</td>      
+         <td>26/09/2023</td>      
    </tr> 
     <tr>  
       <td>Diálogo Moisés</td>  
        <td>Bajo</td>
          <td>22/09/2023</td>
        <td>25/09/2023</td>
-         <td>A tiempo</td>       
+         <td>26/09/2023</td>       
    </tr> 
     <tr>  
       <td>Diálogo Brandon</td>  
        <td>Bajo</td>
          <td>22/09/2023</td>
        <td>25/09/2023</td>
-         <td>A tiempo</td>       
+         <td>26/09/2023</td>       
    </tr> 
      <tr>  
       <td>Revisar redacción de la sección Producto (Brandon)</td>  
@@ -211,10 +211,10 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA4MzAzNTEsLTI1NzE1NzcxMywtMT
-U2NDA3NzA2NCwtMjU5MDQ3ODY5LC0xNjg1MjE2MjUsNTEwMzU3
-NTQ2LC01MTU5OTYxMTcsMTc3MDEzNzEwNSwxODE0NzE0NzY5LD
-kwMjk2MjI5MywtMTc3MzcyMjc3MiwtNzE1NTM2OTg0LDcyMTY1
-Nzk4MSwtNjMxMzk0MzU5LC0xMzcyNDQwMzU2LDMwNTExNDIxOV
-19
+eyJoaXN0b3J5IjpbLTE2NzQ3OTE0OTksLTEyNjA4MzAzNTEsLT
+I1NzE1NzcxMywtMTU2NDA3NzA2NCwtMjU5MDQ3ODY5LC0xNjg1
+MjE2MjUsNTEwMzU3NTQ2LC01MTU5OTYxMTcsMTc3MDEzNzEwNS
+wxODE0NzE0NzY5LDkwMjk2MjI5MywtMTc3MzcyMjc3MiwtNzE1
+NTM2OTg0LDcyMTY1Nzk4MSwtNjMxMzk0MzU5LC0xMzcyNDQwMz
+U2LDMwNTExNDIxOV19
 -->
