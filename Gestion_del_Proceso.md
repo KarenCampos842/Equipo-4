@@ -15,18 +15,20 @@ Producto final:
 **Lunes 25 de septiembre de 2023 (Scrum team meeting)**<br>Durante la reunión se revisó el avance del trabajo. Los acuerdos tomados fueron los siguientes: 
 Finalizar los diálogos para el video lunes 25 de septiembre, realizar la traducción de los diálogos al inglés y grabar los audios para fecha máxima de 26 de septiembre e iniciar la edición del video miércoles 27 con fecha límite de 30 de septiembre. 
 Producto final: 
- - Audios para la edición del video. 
  - [Dialogos.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Dialogos.md "Dialogos.md")
+ -  Audios para la edición del video. 
+ - [Presentacion_del_avance.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Presentacion_del_avance.md "Presentacion_del_avance.md")
 
 <br>
 **Martes 26 de septiembre de 2023 (Scrum team meeting)**<br>Durante la reunión se revisó el avance del trabajo. Los acuerdos tomados fueron los siguientes: 
 Finalizar los diálogos para el video martes 26 de septiembre (hubo un retraso), realizar la traducción de los diálogos al inglés y grabar los audios para fecha máxima de 26 de septiembre e iniciar la edición del video miércoles 27 con fecha límite de 30 de septiembre. De igual forma, se acordó con Carlos terminar su parte asignada (Priorización, Artefactos, y revisión de redacción del apartado de requisitos) para el martes 26 de septiembre (hubo un retraso).
- - Audios para la edición del video. 
- - [Dialogos.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Dialogos.md "Dialogos.md")
+
+
+[Requisitos.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md "Requisitos.md")
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODAxOTEyMCw2NDk4NDQ5MDEsNjA3MD
+eyJoaXN0b3J5IjpbLTk1NDYzNzQ0Niw2NDk4NDQ5MDEsNjA3MD
 U2NjYsLTE2Mjk1NTAzMF19
 -->
