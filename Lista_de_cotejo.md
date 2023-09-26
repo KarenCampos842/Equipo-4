@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1>Lista de cotejo</h1>
 <table align="center">  
