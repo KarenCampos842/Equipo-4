@@ -1,4 +1,4 @@
-<h1>﻿<center>Métrica de Contribución</center></h1>
+<h1>﻿Métrica de Contribución</h1>
  
 <table align=center>  
    <tr>  
@@ -211,9 +211,9 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNzY3MTkzLC0yNTkwNDc4NjksLTE2OD
-UyMTYyNSw1MTAzNTc1NDYsLTUxNTk5NjExNywxNzcwMTM3MTA1
-LDE4MTQ3MTQ3NjksOTAyOTYyMjkzLC0xNzczNzIyNzcyLC03MT
-U1MzY5ODQsNzIxNjU3OTgxLC02MzEzOTQzNTksLTEzNzI0NDAz
-NTYsMzA1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbLTE1NjQwNzcwNjQsLTI1OTA0Nzg2OSwtMT
+Y4NTIxNjI1LDUxMDM1NzU0NiwtNTE1OTk2MTE3LDE3NzAxMzcx
+MDUsMTgxNDcxNDc2OSw5MDI5NjIyOTMsLTE3NzM3MjI3NzIsLT
+cxNTUzNjk4NCw3MjE2NTc5ODEsLTYzMTM5NDM1OSwtMTM3MjQ0
+MDM1NiwzMDUxMTQyMTldfQ==
 -->
