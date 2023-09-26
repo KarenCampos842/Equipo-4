@@ -14,11 +14,12 @@ Al realizar un proyecto en equipo se busca aprender como trabajaría un equipo p
 
 Se busca que el estudiante aprenda el proceso de creación del proyecto y sus pasos específicos, sus problemas más comunes y sus complicaciones frecuentes" </p> 
 <h2 id="competencias-específicas">Competencias específicas</h2>
-<p>Desarrollar la capacidad de comunicación del estudiante
+<p> 
+"Desarrollar la capacidad de comunicación del estudiante
 
 Desarrollar la capacidad de comunicación como equipo
 
 Desarrollar la coordinación del equipo
 
-Conocer a los compañeros de equipo </p>
+Conocer a los compañeros de equipo" </p>
 
