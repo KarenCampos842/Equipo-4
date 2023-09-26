@@ -11,6 +11,9 @@ Producto final:
  - [Metrica_de_Contribucion.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Metrica_de_Contribucion.md "Metrica_de_Contribucion.md")
  - [Producto.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Producto.md "Producto.md")
  - [Requisitos.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md "Requisitos.md")
+ - [Gestion_del_Proceso.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Gestion_del_Proceso.md "Gestion_del_Proceso.md")
+ -  [Dialogos.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Dialogos.md "Dialogos.md")
+ - [Presentacion_del_avance.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Presentacion_del_avance.md "Presentacion_del_avance.md")
 <br>
 **Lunes 25 de septiembre de 2023 (Scrum team meeting)**<br>Durante la reunión se revisó el avance del trabajo. Los acuerdos tomados fueron los siguientes: 
 Finalizar los diálogos para el video lunes 25 de septiembre, realizar la traducción de los diálogos al inglés y grabar los audios para fecha máxima de 26 de septiembre e iniciar la edición del video miércoles 27 con fecha límite de 30 de septiembre. 
@@ -30,6 +33,6 @@ Finalizar los diálogos para el video martes 26 de septiembre (hubo un retraso),
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjQzMzkzMCw2NDk4NDQ5MDEsNjA3MD
+eyJoaXN0b3J5IjpbLTE1ODkwMzk2Niw2NDk4NDQ5MDEsNjA3MD
 U2NjYsLTE2Mjk1NTAzMF19
 -->
