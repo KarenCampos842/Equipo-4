@@ -11,6 +11,8 @@ Workflash is an app designed for those working people willing to offer their ser
 En lo que respecta a usuarios y clientes, tendríamos a personas de 18 años en adelante residiendo en Yucatán; planeamos lanzar la beta en Mérida puesto que es la capital de Yucatán y hay mas gente que necesita el servicio. El rango de edad de aquellos que ofrecerían o contratarían el servicio, tenemos previsto que sería en su mayoría personas de entre 30 a 50 años. 
 Toda persona mayor de edad que necesite u ofrezca un servicio como plomería, albañilería, entre otros, serían nuestros usuarios y/o clientes. Padres de familia, universitarios viviendo solos, adultos mayores, adultos con horarios demandantes en su trabajo, etc. 
 <br>
+***Traducción***<br>
+<br>
 **Propuesta de Valor**
 <br>
 Workflash es una plataforma altamente **confiable y segura** en donde puedes encontrar el perfil de persona que buscas para un trabajo en tu hogar. Dependiendo del tipo de cuenta con la que se registre, ya sea como **cliente o proveedor de servicios**, el usuario dispondrá de múltiples funciones que le permitirán, del lado del cliente, filtrar por **disponibilidad precio y cercanía**, contactar al trabajador y calificar su servicio. En el caso de los trabajadores, estos pueden incluir en sus perfiles su **fotografía, información relevante, experiencia y los trabajos que realizan cuáles no**, además de contar con toda la libertad para elegir la oferta que más le convenga. Todo anterior, permite a ambas partes la posibilidad de verificar con transparencia y en todo momento el estado de su acuerdo.
@@ -29,5 +31,5 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5NTQ0NTMxXX0=
+eyJoaXN0b3J5IjpbLTkzMjMxMTIyMSw3Nzk1NDQ1MzFdfQ==
 -->
