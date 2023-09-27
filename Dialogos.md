@@ -1,11 +1,12 @@
 <h1>Diálogos</h1>
 
 **Descripción de Producto**
-Es una app que sirve tanto para dar trabajo como para ofrecer un servicio, Workflash es una app diseñada para esos que tienen o aprendieron una profesion y t
+Es una app que sirve tanto para dar trabajo como para ofrecer un servicio, Workflash es una app diseñada para esos que tienen o aprendieron una profesión y  no la ejercen o no saben como este es una app donde les facilitara sus servicios
 
 
 <br>
 **Usuarios/Clientes**
+
 <br>
 **Propuesta de Valor**
 <br>
@@ -25,5 +26,5 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjY4ODczNjRdfQ==
+eyJoaXN0b3J5IjpbMTI2Njg0MzcxM119
 -->
