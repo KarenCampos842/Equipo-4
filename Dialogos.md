@@ -12,6 +12,8 @@ En lo que respecta a usuarios y clientes, tendríamos a personas de 18 años en 
 Toda persona mayor de edad que necesite u ofrezca un servicio como plomería, albañilería, entre otros, serían nuestros usuarios y/o clientes. Padres de familia, universitarios viviendo solos, adultos mayores, adultos con horarios demandantes en su trabajo, etc. 
 <br>
 ***Traducción***<br>
+In terms of users and clients, our target audience would be people 18 years of age and older residing in Yucatan; we plan to release the beta in Merida since it is the capital of Yucatan and there are more people who need the service. The age range of those who would offer or contract the service, it is expected to be mostly people between 30 to 50 years old. 
+Any person of legal age who needs or offers a service such as plumbing, masonry, among others, would be our users and/or clients. Parents, college students living on their own, the elderly, adults with demanding work schedules, are some expamples. 
 <br>
 **Propuesta de Valor**
 <br>
@@ -31,5 +33,6 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjMxMTIyMSw3Nzk1NDQ1MzFdfQ==
+eyJoaXN0b3J5IjpbNjE5OTMyMTIxLC05MzIzMTEyMjEsNzc5NT
+Q0NTMxXX0=
 -->
