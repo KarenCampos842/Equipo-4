@@ -7,7 +7,7 @@ Workflash es una aplicación que ofrece a los yucatecos una alternativa fácil y
 La plataforma representa una oportunidad de beneficio para ambas partes.
 
 ## Usuarios/clientes:
-Esta aplicación está dirigida para todas aquellas personas que buscan a alguien capacitado para un trabajo u oficio en su casa. Su rango de edad puede variar; sin embargo, estimamos que a partir de los 18 años las personas son potenciales usuarios de esta aplicación, especialmente aquellos que no tienen mucho tiempo para atender los trabajos del hogar. También contemplamos a los jóvenes, puesto que, aunque haya gente con contactos para esos trabajos; los foráneos y mucha gente joven, muy probablemente no tengan esos contactos y opten por usar nuestra plataforma. El nivel socioeconómico no es limitante, puesto que todos pueden contratar el servicio que le sea más accesible.
+Esta aplicación está dirigida para todas aquellas personas que buscan a alguien capacitado para un trabajo u oficio en su casa. Su rango de edad puede variar; sin embargo, estimamos que a partir de los 18 años las personas son potenciales usuarios de esta aplicación, especialmente aquellos que no tienen mucho tiempo para atender los trabajos del hogar. También contemplamos a los jóvenes, puesto que, aunque haya gente con contactos para esos trabajos, los foráneos y mucha gente joven, muy probablemente no tengan esos contactos y opten por usar nuestra plataforma. El nivel socioeconómico no es limitante, puesto que todos pueden contratar el servicio que le sea más accesible.
 
 Además de los clientes, también priorizamos el impulso de los usuarios que ofrecen sus servicios, que son aquellos que han aprendido un oficio o saben como hacer algún trabajo y además  quieran anunciarse para obtener más posibilidades de conseguir contratos y mejores ingresos con la ayuda de nuestra plataforma. Estimamos que su rango de edad estará entre 30-50 años y planeamos lanzar la versión beta en Yucatán para poder garantizar la calidad del servicio a medida que crezca el número de usuarios. Aunque en el futuro planeamos expandirnos a un nivel nacional.
 
@@ -17,8 +17,8 @@ Workfast consiste en una aplicación móvil que sirve de intermediaria entre cli
 
 Esta aplicación es una alternativa a todas las demás plataformas que ofrecen funciones similares porque la gran mayoría de ellas no tienen una manera óptima de asegurar la seguridad de los acuerdos, tal como ayFix, uno de nuestros principales competidores, mientras que Workfast, tiene como objetivo garantizar la mejor experiencia para los usuarios mediante la validación de los proveedores de servicios por medio de su documentación oficial. Además, tanto los proveedores de servicios, como los clientes pueden hacer uso de un sistema de reportes en caso de que lo necesiten y solo se considera como un contrato activo aquellos que hayan sido emitidos por un cliente y aceptados por el trabajador, si uno de ellos falla, podrán ser reportados.
 
-Nuestra plataforma garantiza la seguridad tanto de los usuarios como de los trabajadores y mantienen un estándar de calidad en los servicios que hacen que la aplicación sea una mejor opción ante la competencia que, entre muchas cosas, no están al tanto de las quejas de sus usuarios.
+Nuestra plataforma garantiza la seguridad tanto de los usuarios como de los trabajadores y mantienen un estándar de calidad en los servicios que hacen que la aplicación sea una mejor opción ante la competencia que, entre muchas cosas, no están al tanto de las quejas de sus usuarios. Lo que se puede notar en las reseñas disponibles en la tiend
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExOTcwMTU2LC0xOTQ5ODkzNTE4LC01Nz
-I0MDI2NTZdfQ==
+eyJoaXN0b3J5IjpbLTExNzA2MDg3MTUsLTE5NDk4OTM1MTgsLT
+U3MjQwMjY1Nl19
 -->
