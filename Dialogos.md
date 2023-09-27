@@ -6,7 +6,7 @@ Workflash es una app diseñada para aquellas personas trabajadoras que buscan of
 <br>
 **Usuarios/Clientes**
 <br>
-En lo que respecta a usuarios y clientes, tendríamos a personas de 18 años en adelante residiendo en Yucatán. El rango de edad de aquellos que ofrecerían o contratarían el servicio, tenemos previsto que sería en su mayoría personas de entre 30 a 50 años. 
+En lo que respecta a usuarios y clientes, tendríamos a personas de 18 años en adelante residiendo en Yucatán; planeamos lanzar la beta en Mérida puesto que es la capital de Yucatán y hay mas gente que necesita el servicio. El rango de edad de aquellos que ofrecerían o contratarían el servicio, tenemos previsto que sería en su mayoría personas de entre 30 a 50 años. 
 Toda persona mayor de edad que necesite u ofrezca un servicio como plomería, albañilería, entre otros, serían nuestros usuarios y/o clientes. Padres de familia, universitarios viviendo solos, adultos mayores, adultos con horarios demandantes en su trabajo, etc. 
 <br>
 **Propuesta de Valor**
