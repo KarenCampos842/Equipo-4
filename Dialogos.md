@@ -26,3 +26,6 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg0MjA5MjEzNF19
+-->
