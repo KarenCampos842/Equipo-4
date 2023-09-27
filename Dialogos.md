@@ -2,9 +2,9 @@
 
 **Descripción de Producto**
 <br>
-Workflash es una app diseñada para aquellas personas trabajadoras que buscan ofrecer sus servicios; mecánicos, carpinteros, electricistas, plomeros. Es un espacio dónde se puede ofrecer y contratar algún servicio.<br>
+Workflash es una app diseñada para aquellas personas trabajadoras que buscan ofrecer sus servicios; mecánicos, carpinteros, electricistas, plomeros. <br>Es un espacio dónde se puede ofrecer y contratar algún servicio.<br>
 ***Traducción***<br>
-Workflash is an app designed for those working people whom wants to offer them services, 
+Workflash is an app designed for those working people willing to offer their services; mechanics, carpenters, electricians, plumbers. <br>It is a space where you can offer and hire services.
 <br>
 **Usuarios/Clientes**
 <br>
@@ -29,5 +29,5 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTQ4NDgzOV19
+eyJoaXN0b3J5IjpbNzc5NTQ0NTMxXX0=
 -->
