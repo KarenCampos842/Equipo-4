@@ -1,6 +1,9 @@
 <h1>Diálogos</h1>
 
 **Descripción de Producto**
+Es una app que sirve ta
+
+
 <br>
 **Usuarios/Clientes**
 <br>
@@ -21,3 +24,6 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODIwNTA3MTM4XX0=
+-->
