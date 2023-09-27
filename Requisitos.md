@@ -1,4 +1,4 @@
-<center><h1>REQUISITOS</h1></center>
+<h1>REQUISITOS</h1>
 
 
 ## Requisitos funcionales        
@@ -156,7 +156,6 @@ Como Trabajador quiero poder tener una agenda para recordar los trabajos que ten
 -El trabajador inserta la información de la agenda </td>
 </table>
 
-
 ## Artefactos
 
 ### DIgrama de casos de uso
@@ -165,3 +164,4 @@ Como Trabajador quiero poder tener una agenda para recordar los trabajos que ten
 <br>
 ### Mapa conceptual de dependencias 
 ![Mapa de dependencia](https://github.com/KarenCampos842/Equipo-4/assets/143464988/67b5eb22-929e-4acb-a404-ca18d35ccd49)
+
