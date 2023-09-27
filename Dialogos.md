@@ -20,6 +20,9 @@ Any person of legal age who needs or offers a service such as plumbing, masonry,
 Workflash es una plataforma altamente **confiable y segura** en donde puedes encontrar el perfil de persona que buscas para un trabajo en tu hogar. Dependiendo del tipo de cuenta con la que se registre, ya sea como **cliente o proveedor de servicios**, el usuario dispondrá de múltiples funciones que le permitirán, del lado del cliente, filtrar por **disponibilidad precio y cercanía**, contactar al trabajador y calificar su servicio. En el caso de los trabajadores, estos pueden incluir en sus perfiles su **fotografía, información relevante, experiencia y los trabajos que realizan cuáles no**, además de contar con toda la libertad para elegir la oferta que más le convenga. Todo anterior, permite a ambas partes la posibilidad de verificar con transparencia y en todo momento el estado de su acuerdo.
 A diferencia de otras aplicaciones que ofrecen funcionalidades similares, **Workflash brinda una experiencia de alta calidad, al disponer de múltiples métodos de seguridad**, como la validación de los usuarios mediante su documentación oficial, el reporte de cuentas y la confirmación de los acuerdos por ambas partes, de esta manera garantizamos que los usuarios puedan animarse a utilizar nuestra plataforma con confianza.
 <br>
+***Traducción***<br>
+
+<br>
 **Requisitos funcionales y no funcionales**<br>
 **Forma de verificación de requisitos no funcionales**<br> 
 Nosotros verificaremos los requisitos no funcionales planteados de diferentes maneras: Primero, estamos conscientes de la capacidad económica de la mayoría de la gente de nuestra ciudad como para obtener un dispositivo móvil, por lo que regulamos nuestros requisitos para que sea posible ser utilizado por la mayoría de los usuarios, segundo, verificaremos las identificaciones oficiales proporcionadas por los trabajadores para asi asegurar que sean reales, también le daremos mantenimiento más seguido al sistema en horarios de baja demanda para no afectar la experiencia de nuestros usuarios. Igual tendremos pruebas del sistema con personas de todas las edades, para comprobar que tan intuitivo es el sistema para la gente en general, utilizaremos imágenes y simbología básicas. Por último, tendremos un control en los servicios ofrecidos en nuestro sistema, consultando seguido el total de servicios y el tipo de este, con el motivo de que se nulifique el ofrecimiento de algún tipo de servicio ilegal en nuestro sistema.
@@ -33,6 +36,6 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5OTMyMTIxLC05MzIzMTEyMjEsNzc5NT
-Q0NTMxXX0=
+eyJoaXN0b3J5IjpbLTcyOTUyMDU0MSw2MTk5MzIxMjEsLTkzMj
+MxMTIyMSw3Nzk1NDQ1MzFdfQ==
 -->
