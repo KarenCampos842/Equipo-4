@@ -1,10 +1,14 @@
 <h1>Diálogos</h1>
 
-**Descripción de Producto**<br>
-**Usuarios/Clientes**<br>
-**Propuesta de Valor**<br>
+**Descripción de Producto**
+<br>
+**Usuarios/Clientes**
+<br>
+**Propuesta de Valor**
+<br>
 Workflash es una plataforma altamente **confiable y segura** en donde puedes encontrar el perfil de persona que buscas para un trabajo en tu hogar. Dependiendo del tipo de cuenta con la que se registre, ya sea como **cliente o proveedor de servicios**, el usuario dispondrá de múltiples funciones que le permitirán, del lado del cliente, filtrar por **disponibilidad precio y cercanía**, contactar al trabajador y calificar su servicio. En el caso de los trabajadores, estos pueden incluir en sus perfiles su **fotografía, información relevante, experiencia y los trabajos que realizan cuáles no**, además de contar con toda la libertad para elegir la oferta que más le convenga. Todo anterior, permite a ambas partes la posibilidad de verificar con transparencia y en todo momento el estado de su acuerdo.
 A diferencia de otras aplicaciones que ofrecen funcionalidades similares, **Workflash brinda una experiencia de alta calidad, al disponer de múltiples métodos de seguridad**, como la validación de los usuarios mediante su documentación oficial, el reporte de cuentas y la confirmación de los acuerdos por ambas partes, de esta manera garantizamos que los usuarios puedan animarse a utilizar nuestra plataforma con confianza.
+<br>
 **Requisitos funcionales y no funcionales**<br>
 **Forma de verificación de requisitos no funcionales**<br>
 **Artefactos**<br>
