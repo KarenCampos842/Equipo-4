@@ -52,13 +52,13 @@
 
 ## Artefactos
 
-### DIgrama de casos de uso
+### Digrama de casos de uso
 ![Casos de uso drawio](https://github.com/KarenCampos842/Equipo-4/assets/143464988/5344943e-7757-4bb1-a903-852bd88eb950)
 
 <br>
 <br>
-### Mapa conceptual de dependencias 
 
+### Mapa de dependencias 
 ![Mapa de dependencia](https://github.com/KarenCampos842/Equipo-4/assets/143464988/fd8a1ea0-d3c4-47a0-ba91-c184ca08e467)
 
 
