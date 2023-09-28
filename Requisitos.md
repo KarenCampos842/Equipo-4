@@ -10,29 +10,27 @@
 
 4. Eleccionde trabajos: El sistema reconocerá la contratación del servicio Cuando el Trabajador lo acepte (El trabajador puede no aceptar el trabajo). 
 
-5. Pago con Tarjeta: El sistema dejara ingresar una tarjeta de débito o crédito y se cobrara de ahí el monto de cada servicio después de ser contratado 
+5. Chat: El sistema contará con un chat para que el empleador pueda adquirir cotizaciones del servicio y así decidir si lo acepta o no. 
 
-6. Chat: El sistema contará con un chat para que el empleador pueda adquirir cotizaciones del servicio y así decidir si lo acepta o no. 
+6. Calificaciones: Al finalizar cada servicio el sistema le permitirá al empleador calificar y/o comentar el desempeño del trabajador. 
 
-7. Calificaciones: Al finalizar cada servicio el sistema le permitirá al empleador calificar y/o comentar el desempeño del trabajador. 
+7. Ranking:Tendrá un ranking de los trabajadores mejor calificados. 
 
-8. Ranking:Tendrá un ranking de los trabajadores mejor calificados. 
+8. Reportes: Se contará con un sistema de reporte por estafas, robos o incongruencias en el servicio.
 
-9. Reportes: Se contará con un sistema de reporte por estafas, robos o incongruencias en el servicio.
+9. Penalizacion: El sistema contará con un sistema de "Karma" en el que, si el empleador o el trabajador no asiste, no cumple con lo antes mencionado o si cancela sin previo aviso, se verá reflejado en los perfiles de cada empleador y trabajador y con ello afectar la experiencia con la aplicación. 
 
-10. Penalizacion: El sistema contará con un sistema de "Karma" en el que, si el empleador o el trabajador no asiste, no cumple con lo antes mencionado o si cancela sin previo aviso, se verá reflejado en los perfiles de cada empleador y trabajador y con ello afectar la experiencia con la aplicación. 
-
-11. Agenda: Contará con una agenda con recordatorios y alarmas para los trabajadores para organizarse sin afectar a los usuarios. 
+10. Agenda: Contará con una agenda con recordatorios y alarmas para los trabajadores para organizarse sin afectar a los usuarios. 
 
 ## Requisitos no funcionales
 
-12. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 (por los requisitos que manejaremos y las funciones del sistema).
+11. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 (por los requisitos que manejaremos y las funciones del sistema).
  
-13.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (Validando la identificación oficial proporcionada).
+12.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (Validando la identificación oficial proporcionada).
  
-14.  El sistema debe ser fácil de mantener y actualizar (Dándole mantenimiento).
+13.  El sistema debe ser fácil de mantener y actualizar (Dándole mantenimiento).
  
-15.  El sistema debe estar disponible cuando se requiera (Darle mantenimiento solo en horarios de baja demanda).
+14.  El sistema debe estar disponible cuando se requiera (Darle mantenimiento solo en horarios de baja demanda).
 
 16.  El sistema debe ser intuitivo y amigable para la mayoría de usuarios (Colocar imágenes fáciles de entender y simbología básica).
 
@@ -45,21 +43,24 @@
 
 | Must Have| Should Have | Could Have |Wont Have|
 |---------|---------|---------|---------|
-|1|3|6|11|
-|2|5|7||
-|4|9|8||
-|||10||
+|1|3|6|10|
+|2|8|7||
+|4|9|||
+|5||||
 
 
 
 ## Artefactos
 
 ### DIgrama de casos de uso
-![Casos de uso SF drawio](https://github.com/KarenCampos842/Equipo-4/assets/143464988/44b8ef75-3f81-433d-842f-5d51830bfb17)
+![Casos de uso drawio](https://github.com/KarenCampos842/Equipo-4/assets/143464988/5344943e-7757-4bb1-a903-852bd88eb950)
+
 <br>
 <br>
 ### Mapa conceptual de dependencias 
-![Mapa de dependencia](https://github.com/KarenCampos842/Equipo-4/assets/143464988/67b5eb22-929e-4acb-a404-ca18d35ccd49)
+
+![Mapa de dependencia](https://github.com/KarenCampos842/Equipo-4/assets/143464988/fd8a1ea0-d3c4-47a0-ba91-c184ca08e467)
+
 
 ### Historias de usuarios
 
@@ -89,6 +90,18 @@
 <td >Validación: <br>
 -el trabajador puede modificar sus horarios en cualquier momento. 
 <br>-las calificaciones son estadísticas inmodificables por el usuario. </td>
+
+</table>
+<table>
+<td >Nombre:  Chat </td>
+<tr>
+<td >Prioridad: Alta </td>
+ <tr>
+<td >Descripción: <br>
+Como usuario quiero poder ponerme de acuerdo con la otra parte(trabajador o usuarios) antes de contratar un servicio para poder cotizar y llegar a un acuerdo de pago y horarios.</td>
+ <tr>
+<td >Validación: <br>
+-Llegar aun mutuo acuerdo. </td>
 </table>
 
 <table>
@@ -118,18 +131,6 @@
 </table>
 
 <table>
-<td >Nombre:  Pago con tarjeta </td>
-<tr>
-<td >Prioridad: Media </td>
- <tr>
-<td >Descripción: <br>
- Como cliente de WorkFash quiero poder pagar con tarjeta para no tener que ir a sacar dinero del banco y para no cometer errores a la hora de pagar. </td>
- <tr>
-<td >Validación: <br>
--Dar de alta una cuenta de banco.  </td>
-</table>
-
-<table>
 <td >Nombre: Calificaciones </td>
 <tr>
 <td >Prioridad: Media </td>
@@ -141,17 +142,6 @@
 -al finalizar un servicio ingresa su calificación. </td>
 </table>
 
-<table>
-<td >Nombre:  Chat </td>
-<tr>
-<td >Prioridad: Baja </td>
- <tr>
-<td >Descripción: <br>
- Como Usuario quiero poder comunicarme rápido con el Cliente/Trabajador para poder organizar bien el trabajo.</td>
- <tr>
-<td >Validación: <br>
--Solo se puede chatear cuando el servicio está contratado. </td>
-</table>
 
 <table>
 <td >Nombre: Ranking de trabajadores</td>
