@@ -184,7 +184,7 @@
        <td>Bajo</td>
          <td>22/09/2023</td>
        <td>25/09/2023</td>
-         <td>26/09/2023</td>       
+         <td>27/09/2023</td>       
    </tr> 
     <tr>  
       <td>Edición del video (Asaf)</td>  
@@ -211,11 +211,11 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjY0NzE3LC0xODAwMzQ1MDk5LC0xMz
-g0MjU2ODQ0LC0xMjYwODMwMzUxLC0yNTcxNTc3MTMsLTE1NjQw
-NzcwNjQsLTI1OTA0Nzg2OSwtMTY4NTIxNjI1LDUxMDM1NzU0Ni
-wtNTE1OTk2MTE3LDE3NzAxMzcxMDUsMTgxNDcxNDc2OSw5MDI5
-NjIyOTMsLTE3NzM3MjI3NzIsLTcxNTUzNjk4NCw3MjE2NTc5OD
-EsLTYzMTM5NDM1OSwtMTM3MjQ0MDM1NiwzMDUxMTQyMTldfQ==
-
+eyJoaXN0b3J5IjpbLTg4NjM0MzkxOCwtOTQ2NjQ3MTcsLTE4MD
+AzNDUwOTksLTEzODQyNTY4NDQsLTEyNjA4MzAzNTEsLTI1NzE1
+NzcxMywtMTU2NDA3NzA2NCwtMjU5MDQ3ODY5LC0xNjg1MjE2Mj
+UsNTEwMzU3NTQ2LC01MTU5OTYxMTcsMTc3MDEzNzEwNSwxODE0
+NzE0NzY5LDkwMjk2MjI5MywtMTc3MzcyMjc3MiwtNzE1NTM2OT
+g0LDcyMTY1Nzk4MSwtNjMxMzk0MzU5LC0xMzcyNDQwMzU2LDMw
+NTExNDIxOV19
 -->
