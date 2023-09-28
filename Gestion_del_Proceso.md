@@ -33,6 +33,6 @@ Finalizar los diálogos para el video martes 27 de septiembre (hubo un retraso),
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI3NzE2ODQsNjQ5ODQ0OTAxLDYwNz
-A1NjY2LC0xNjI5NTUwMzBdfQ==
+eyJoaXN0b3J5IjpbNDE2NTEzMTc4LC0xNDYyNzcxNjg0LDY0OT
+g0NDkwMSw2MDcwNTY2NiwtMTYyOTU1MDMwXX0=
 -->
