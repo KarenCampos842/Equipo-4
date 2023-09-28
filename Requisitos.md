@@ -43,7 +43,7 @@
 ## Priorización
 ###  Tabla MosCow[^1]
 
-| Must Have| Should Have | Could Have |Wont Have|
+| Must Have| Should Have | Could Have |Won't Have|
 |---------|---------|---------|---------|
 |1|3|6|11|
 |2|5|7||
