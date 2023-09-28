@@ -176,7 +176,7 @@
       <td>Revisar redacción de la sección Producto (Brandon)</td>  
        <td>Bajo</td> 
          <td>22/09/2023</td>
-       <td>25/09/2023</td>
+       <td>26/09/2023</td>
          <td>A tiempo</td>      
    </tr> 
     <tr>  
@@ -211,10 +211,10 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQyNTY4NDQsLTEyNjA4MzAzNTEsLT
-I1NzE1NzcxMywtMTU2NDA3NzA2NCwtMjU5MDQ3ODY5LC0xNjg1
-MjE2MjUsNTEwMzU3NTQ2LC01MTU5OTYxMTcsMTc3MDEzNzEwNS
-wxODE0NzE0NzY5LDkwMjk2MjI5MywtMTc3MzcyMjc3MiwtNzE1
-NTM2OTg0LDcyMTY1Nzk4MSwtNjMxMzk0MzU5LC0xMzcyNDQwMz
-U2LDMwNTExNDIxOV19
+eyJoaXN0b3J5IjpbLTE4MDAzNDUwOTksLTEzODQyNTY4NDQsLT
+EyNjA4MzAzNTEsLTI1NzE1NzcxMywtMTU2NDA3NzA2NCwtMjU5
+MDQ3ODY5LC0xNjg1MjE2MjUsNTEwMzU3NTQ2LC01MTU5OTYxMT
+csMTc3MDEzNzEwNSwxODE0NzE0NzY5LDkwMjk2MjI5MywtMTc3
+MzcyMjc3MiwtNzE1NTM2OTg0LDcyMTY1Nzk4MSwtNjMxMzk0Mz
+U5LC0xMzcyNDQwMzU2LDMwNTExNDIxOV19
 -->
