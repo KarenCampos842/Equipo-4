@@ -142,7 +142,7 @@
        <td>Mediano</td>
          <td>22/09/2023</td>
        <td>26/09/2023</td>
-         <td>A tiempo</td>       
+         <td>28/09/2023</td>       
    </tr> 
     <tr>  
       <td>Diálogo Hansony</td>  
@@ -156,7 +156,7 @@
        <td>Bajo</td>
          <td>22/09/2023</td>
        <td>25/09/2023</td>
-         <td>27/09/2023</td>      
+         <td>28/09/2023</td>      
    </tr> 
     <tr>  
       <td>Diálogo Moisés</td>  
@@ -211,10 +211,11 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDAzNDUwOTksLTEzODQyNTY4NDQsLT
-EyNjA4MzAzNTEsLTI1NzE1NzcxMywtMTU2NDA3NzA2NCwtMjU5
-MDQ3ODY5LC0xNjg1MjE2MjUsNTEwMzU3NTQ2LC01MTU5OTYxMT
-csMTc3MDEzNzEwNSwxODE0NzE0NzY5LDkwMjk2MjI5MywtMTc3
-MzcyMjc3MiwtNzE1NTM2OTg0LDcyMTY1Nzk4MSwtNjMxMzk0Mz
-U5LC0xMzcyNDQwMzU2LDMwNTExNDIxOV19
+eyJoaXN0b3J5IjpbMTI1MDU1MzI2OSwtMTgwMDM0NTA5OSwtMT
+M4NDI1Njg0NCwtMTI2MDgzMDM1MSwtMjU3MTU3NzEzLC0xNTY0
+MDc3MDY0LC0yNTkwNDc4NjksLTE2ODUyMTYyNSw1MTAzNTc1ND
+YsLTUxNTk5NjExNywxNzcwMTM3MTA1LDE4MTQ3MTQ3NjksOTAy
+OTYyMjkzLC0xNzczNzIyNzcyLC03MTU1MzY5ODQsNzIxNjU3OT
+gxLC02MzEzOTQzNTksLTEzNzI0NDAzNTYsMzA1MTE0MjE5XX0=
+
 -->
