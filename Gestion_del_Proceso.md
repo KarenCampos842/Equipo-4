@@ -33,7 +33,7 @@ Finalizar los diálogos para el video miércoles 27 de septiembre (hubo un retra
 <br>
 
 **Miércoles 27 de septiembre de 2023 (Scrum team meeting)**<br>Durante la reunión se revisó el avance del trabajo. Los acuerdos tomados fueron los siguientes: 
-Finalizar los diálogos para el video miércoles 28 de septiembre (al momento de la reunión quedaban pendientes los diálogos de Carlos y Moisés), realizar la traducción de los diálogos al inglés y grabar los audios para fecha máxima de 28 de septiembre e iniciar la edición del video jueves 28 con fecha límite de 30 de septiembre. De igual forma, se acordó con Carlos terminar su parte asignada (Priorización, Artefactos, y revisión de redacción del apartado de requisitos) para el miércoles 27 de septiembre (hubo un retraso).<br>Producto final: <br>
+Finalizar los diálogos para el video jueves 28 de septiembre (al momento de la reunión quedaban pendientes los diálogos de Carlos y Moisés), realizar la traducción de los diálogos al inglés y grabar los audios para fecha máxima de 28 de septiembre e iniciar la edición del video jueves 28 con fecha límite de 30 de septiembre. De igual forma, se acordó con Carlos terminar su parte asignada (Priorización, Artefactos, y revisión de redacción del apartado de requisitos) para el miércoles 27 de septiembre (hubo un retraso).<br>Producto final: <br>
 
  - [Requisitos.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md "Requisitos.md")
  - [Dialogos.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Dialogos.md "Dialogos.md")
