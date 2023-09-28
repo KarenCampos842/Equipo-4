@@ -2,13 +2,13 @@
 
 
 ## Requisitos funcionales        
-1. Registro: El sistema permitirá el registro de usuario (cliente o trabajador) con un correo electrónico, un número telefónico, una contraseña y una identificación oficial.
+1. Registro: El sistema permitirá el registro de usuario (cliente o trabajador) con un correo electrónico, un número telefónico, una contraseña y una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar).
 
-2. Perfiles: El sistema creará perfiles para los trabajadores y clientes. En el perfil de cada trabajador se podrán reflejar detalles como sus servicios realizados, su experiencia, sus calificaciones, su fotografía, sus horarios disponibles (son modificables), así como su rango de distancia en el que puede laborar.
+2. Perfiles: El sistema creará perfiles para los trabajadores y clientes. En el perfil de cada trabajador se podrán reflejar detalles como los servicios que ofrece, su experiencia, sus calificaciones, su fotografía, sus horarios disponibles (son modificables), así como su rango de distancia en el que puede laborar.
 
 3. Filtro de trabajadores: Se podrá filtrar a los trabajadores por ubicación, calificaciones y por el servicio que se requiera. 
 
-4. Elección de trabajos: El sistema reconocerá la contratación del servicio cuando el trabajador lo acepte (El trabajador puede no aceptar el trabajo). 
+4. Elección de trabajos: El sistema reconocerá la contratación del servicio cuando el trabajador lo acepte (el trabajador puede no aceptar el trabajo). 
 
 5. Chat: El sistema contará con un chat para que el empleador pueda adquirir cotizaciones del servicio y así decidir si lo acepta o no. 
 
@@ -18,7 +18,7 @@
 
 8. Reportes: Se contará con un sistema de reporte por estafas, robos o incongruencias en el servicio.
 
-9. Penalizacion: El sistema contará con un sistema de "Karma" en el que, si el empleador o el trabajador no asiste, no cumple con lo antes mencionado o si cancela sin previo aviso, se verá reflejado en los perfiles de cada empleador y trabajador y con ello afectar la experiencia con la aplicación. 
+9. Penalizacion: El sistema contará con un sistema de "Karma" en el que, si el empleador o el trabajador incumple con lo acordado o cancela sin previo aviso, se sumará un punto a su "karma", el cual se verá reflejado en los perfiles de cada empleador y trabajador.
 
 10. Agenda: Contará con una agenda con recordatorios y alarmas para los trabajadores para organizarse sin afectar a los usuarios. 
 
