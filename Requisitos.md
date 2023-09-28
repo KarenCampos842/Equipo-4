@@ -68,21 +68,6 @@
 
 <table>
 <tr>
-<td >Nombre:  Registro </td>
-<tr>
-<td >Prioridad: Alta </td>
- <tr>
-<td >Descripción: 
-Como herrero desde hace 1 año quiero poder 
-brindar mis servicios como trabajador para 
- poder tener más clientes y aumentar mi experiencia. </td>
- <tr>
-<td >Validación: <br>
-- dar de alta su trabajo en su perfil.  </td>
-</table>
-
-<table>
-<tr>
 <td >Nombre: Perfiles </td>
 <tr>
 <td >Prioridad: Alta </td>
