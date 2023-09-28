@@ -73,8 +73,8 @@
  Como Trabajador de WorkFlash quiero poder tener un perfil donde se refleje mi trabajo y mis horarios para  poder tener más clientes.  </td>
  <tr>
 <td >Validación: <br>
--el trabajador puede modificar sus horariosen cualquier momento.<br>
--las calificaciones son estadísticas inmodificables. </td>
+-El trabajador puede modificar sus horariosen cualquier momento.<br>
+-Las calificaciones son estadísticas inmodificables. </td>
 </table>
 
 <table>
@@ -87,8 +87,8 @@
  Como Trabajador dentro de WorkFlash quiero poder rechazar por si alguno no se ajusta a mis horarios. </td>
  <tr>
 <td >Validación: <br>
--el trabajador puede modificar sus horarios en cualquier momento. 
-<br>-las calificaciones son estadísticas inmodificables por el usuario. </td>
+-El trabajador puede modificar sus horarios en cualquier momento. 
+<br>-Las calificaciones son estadísticas inmodificables por el usuario. </td>
 </table>
 
 <table>
@@ -138,7 +138,7 @@
  Como cliente de WorkFash quiero poder compartir mi opinión del servicio con otros clientes para recomendarlo si hizo un buen trabajo. </td>
  <tr>
 <td >Validación: <br>
--al finalizar un servicio ingresa su calificación. </td>
+-Al finalizar un servicio ingresa su calificación. </td>
 </table>
 
 <table>
