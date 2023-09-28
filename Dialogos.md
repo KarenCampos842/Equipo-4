@@ -18,7 +18,30 @@ A diferencia de otras aplicaciones que ofrecen funcionalidades similares, **Work
 **Forma de verificación de requisitos no funcionales**<br> 
 Nosotros verificaremos los requisitos no funcionales planteados de diferentes maneras: Primero, estamos conscientes de la capacidad económica de la mayoría de la gente de nuestra ciudad como para obtener un dispositivo móvil, por lo que regulamos nuestros requisitos para que sea posible ser utilizado por la mayoría de los usuarios, segundo, verificaremos las identificaciones oficiales proporcionadas por los trabajadores para asi asegurar que sean reales, también le daremos mantenimiento más seguido al sistema en horarios de baja demanda para no afectar la experiencia de nuestros usuarios. Igual tendremos pruebas del sistema con personas de todas las edades, para comprobar que tan intuitivo es el sistema para la gente en general, utilizaremos imágenes y simbología básicas. Por último, tendremos un control en los servicios ofrecidos en nuestro sistema, consultando seguido el total de servicios y el tipo de este, con el motivo de que se nulifique el ofrecimiento de algún tipo de servicio ilegal en nuestro sistema.
 
-**Artefactos**<br>
+**Priorizacion y Artefactos**<br>
+
+Para la priorizaciónse usó una tabla MosCow donde se tomaron en cuenta los diagramas antes realizados y se dividió la prioridad en 4 partes:
+- Must Have
+  * Registro: El sistema permitirá el registro de usuario (cliente o trabajador) con un correo electrónico, un número telefónico, una contraseña y una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar).
+  * Perfiles: El sistema creará perfiles para los trabajadores y clientes. En el perfil de cada trabajador se podrán reflejar detalles como los servicios que ofrece, su experiencia, sus calificaciones, su fotografía, sus horarios disponibles (son modificables), así como su rango de distancia en el que puede laborar.
+  * Filtro de trabajadores: Se podrá filtrar a los trabajadores por ubicación, calificaciones y por el servicio que se requiera.
+  * Elección de trabajos: El sistema reconocerá la contratación del servicio cuando el trabajador lo acepte (el trabajador puede no aceptar el trabajo).
+- Should Have
+  * Chat: este será el medio para llegar a un mutuo acuerdo.
+  * Reportes.
+  * Penalización.
+- Could Have
+  * Calificaciones.
+  * Ranking.
+- Won't Have
+  * Agenda.
+
+
+Los artefactos utilizados para la formación  y priorización de requisitos son:
+- Diagrama de casos de usos donde se representan los procesos del sistema.
+- Mapa de dependencias donde se establecen las relaciones entre los procesos.
+- Historias de usuarios donde se expresa el valor que los requerimientos le aportan al usuario.
+  
 **Proceso**<br>
 Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fases Sprint planning (división del trabajo),  scrum meeting (reuniones diarias de 15 minutos para monitorear el trabajo), sprint review (revisión del trabajo a entregar marcando el final del primer sprint) y retrospective (reunión posterior a la entrega para analizar lo que se hizo bien y mal en cuanto a proceso y relaciones entre el equipo de trabajo).<br> Las herramientas que se utilizaron fueron WhatsApp, Teams, GitHub, GitKraken y StackEdit.<br>Dentro de la branch de Primera-Entrega en GitHub se crearon archivos para cada sección en la que se dividió el trabajo. Cada miembro del equipo creó su propia rama y trabajó su parte sobre el archivo correspondiente. Una vez que estaba lista la actividad se realizaba un pull request para hacer merge con la rama de Primera-Entrega. Así mismo, se marcaba con ayuda del board de Proyecto_FIS el estado de la actividad (In Progress o Done).<br>
 ***Traducción*** 
