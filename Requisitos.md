@@ -8,7 +8,7 @@
 
 3. Filtro de trabajadores: Se podrá filtrar a los trabajadores por ubicación, calificaciones y por el servicio que se requiera. 
 
-4. Elecció nde trabajos: El sistema reconocerá la contratación del servicio cuando el trabajador lo acepte (El trabajador puede no aceptar el trabajo). 
+4. Elección de trabajos: El sistema reconocerá la contratación del servicio cuando el trabajador lo acepte (El trabajador puede no aceptar el trabajo). 
 
 5. Pago con Tarjeta: El sistema permitirá ingresar un número de tarjeta de débito o crédito como método de pago. De ese número de tarjeta se conrará el monto de cada servicio después de ser contratado.
 
