@@ -2,13 +2,13 @@
 
 
 ## Requisitos funcionales        
-1. Registro: El sistema permitirá el registro usuario con un correo electrónico, Un número telefónico, una contraseña, una identificación oficial y en usuario se podrá registrar como cliente o trabajador 
+1. Registro: El sistema permitirá el registro de usuario (cliente o trabajador) con un correo electrónico, un número telefónico, una contraseña y una identificación oficial.
 
-2. Perfiles: El sistema creará perfiles para los trabajadores y Clientes, en el perfil de cada trabajador se podrán reflejar detalles como sus servicios realizados, su experiencia, sus calificaciones, su fotografía, sus horarios disponibles, así como su rango de distancia en el que puede laborar, sus horarios disponibles son modificables. 
+2. Perfiles: El sistema creará perfiles para los trabajadores y clientes. En el perfil de cada trabajador se podrán reflejar detalles como sus servicios realizados, su experiencia, sus calificaciones, su fotografía, sus horarios disponibles (son modificables), así como su rango de distancia en el que puede laborar.
 
 3. Filtro de trabajadores: Se podrá filtrar a los trabajadores por ubicación, calificaciones y por el servicio que se requiera. 
 
-4. Eleccionde trabajos: El sistema reconocerá la contratación del servicio Cuando el Trabajador lo acepte (El trabajador puede no aceptar el trabajo). 
+4. Elección de trabajos: El sistema reconocerá la contratación del servicio cuando el trabajador lo acepte (El trabajador puede no aceptar el trabajo). 
 
 5. Chat: El sistema contará con un chat para que el empleador pueda adquirir cotizaciones del servicio y así decidir si lo acepta o no. 
 
@@ -25,28 +25,28 @@
 ## Requisitos no funcionales
 
 11. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 (por los requisitos que manejaremos y las funciones del sistema).
- 
-12.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (Validando la identificación oficial proporcionada).
- 
-13.  El sistema debe ser fácil de mantener y actualizar (Dándole mantenimiento).
- 
-14.  El sistema debe estar disponible cuando se requiera (Darle mantenimiento solo en horarios de baja demanda).
 
-16.  El sistema debe ser intuitivo y amigable para la mayoría de usuarios (Colocar imágenes fáciles de entender y simbología básica).
+12.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (validando la identificación oficial proporcionada).
+ 
+13.  El sistema debe ser fácil de mantener y actualizar (dándole mantenimiento).
+ 
+14.  El sistema debe estar disponible cuando se requiera (darle mantenimiento solo en horarios de baja demanda).
 
-17.  El sistema debe ser confiable y cumplir con los requisitos del usuario (Asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados asi como las identificaciones oficiales del trabajador).
+15.  El sistema debe ser intuitivo y amigable para la mayoría de usuarios (colocar imágenes fáciles de entender y simbología básica).
 
-18.  Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal (Verificando los servicios continuamente).
+16.  El sistema debe ser confiable y cumplir con los requisitos del usuario (asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados asi como las identificaciones oficiales del trabajador).
+
+17.  Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal (verificando los servicios continuamente).
 
 ## Priorización
-###  Tabla MosCow
+###  Tabla MosCow[^1]
 
-| Must Have| Should Have | Could Have |Wont Have|
+| Must Have| Should Have | Could Have |Won't Have|
 |---------|---------|---------|---------|
-|1|3|6|10|
+|1|5|6|10|
 |2|8|7||
-|4|9|||
-|5||||
+|3|9|||
+|4||||
 
 
 
@@ -62,7 +62,7 @@
 ![Mapa de dependencia](https://github.com/KarenCampos842/Equipo-4/assets/143464988/fd8a1ea0-d3c4-47a0-ba91-c184ca08e467)
 
 
-### Historias de usuarios
+### Historias de usuarios[^2]
 
 <table>
 <tr>
@@ -74,8 +74,8 @@
  Como Trabajador de WorkFlash quiero poder tener un perfil donde se refleje mi trabajo y mis horarios para  poder tener más clientes.  </td>
  <tr>
 <td >Validación: <br>
--el trabajador puede modificar sus horariosen cualquier momento.<br>
--las calificaciones son estadísticas inmodificables. </td>
+-El trabajador puede modificar sus horariosen cualquier momento.<br>
+-Las calificaciones son estadísticas inmodificables. </td>
 </table>
 
 <table>
@@ -88,8 +88,10 @@
  Como Trabajador dentro de WorkFlash quiero poder rechazar por si alguno no se ajusta a mis horarios. </td>
  <tr>
 <td >Validación: <br>
--el trabajador puede modificar sus horarios en cualquier momento. 
-<br>-las calificaciones son estadísticas inmodificables por el usuario. </td>
+-El trabajador puede modificar sus horarios en cualquier momento. 
+<br>-Las calificaciones son estadísticas inmodificables por el usuario. </td>
+</table>
+
 
 </table>
 <table>
@@ -139,7 +141,7 @@ Como usuario quiero poder ponerme de acuerdo con la otra parte(trabajador o usua
  Como cliente de WorkFash quiero poder compartir mi opinión del servicio con otros clientes para recomendarlo si hizo un buen trabajo. </td>
  <tr>
 <td >Validación: <br>
--al finalizar un servicio ingresa su calificación. </td>
+-Al finalizar un servicio ingresa su calificación. </td>
 </table>
 
 
@@ -168,7 +170,9 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 </table>
 
 
-https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf 
+  
+[^1]:Simões, C. (14 de julio de 2020). MoSCoW. ¿Qué es y cómo priorizar en el desarrollo de tu aplicación? *ITDO*. https://www.itdo.com/blog/moscow-que-es-y-como-priorizar-en-el-desarrollo-de-tu-aplicacion/
 
-https://www.itdo.com/blog/moscow-que-es-y-como-priorizar-en-el-desarrollo-de-tu-aplicacion/
+[^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
+
 
