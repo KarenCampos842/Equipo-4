@@ -42,7 +42,6 @@ Como método de priorización para los requerimientos funcionales se utilizó la
     -   Agenda.
 
 Los artefactos utilizados para la formación y priorización de requisitos son:
-
 -   Diagrama de casos de usos donde se representan los procesos del sistema.
 -   Mapa de dependencias donde se establecen las relaciones entre los procesos.
 -   Historias de usuarios donde se expresa el valor que los requerimientos le aportan al usuario.
@@ -59,7 +58,7 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDgyOTA0MywtMjAyMzA4MDY5NywtNj
-U3NTY0NTgsLTE2NzY2Mzk5MTgsLTcyOTUyMDU0MSw2MTk5MzIx
-MjEsLTkzMjMxMTIyMSw3Nzk1NDQ1MzFdfQ==
+eyJoaXN0b3J5IjpbMzUwNjU1MDUsLTIwMjMwODA2OTcsLTY1Nz
+U2NDU4LC0xNjc2NjM5OTE4LC03Mjk1MjA1NDEsNjE5OTMyMTIx
+LC05MzIzMTEyMjEsNzc5NTQ0NTMxXX0=
 -->
