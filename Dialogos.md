@@ -25,8 +25,7 @@ Workflash is a highly **reliable and secure** platform where you can find the pr
 Unlike other applications that offer similar functionalities, **Workflash provides a high quality experience, by having multiple security methods**, such as validation of users through their official documentation, account reporting and confirmation of agreements by both parties, thus ensuring that users can be encouraged to use our platform with confidence.
 <br>
 **Requisitos funcionales, priorización y artefactos**<br>
-Para la priorizaciónse usó una tabla MosCow donde se tomaron en cuenta los diagramas antes realizados y se dividió la prioridad en 4 partes:
-
+Como método de priorización para los requerimientos funcionales se utilizó la metodología MoSCoW. 
 -   Must Have
     -   Registro: El sistema permitirá el registro de usuario (cliente o trabajador) con un correo electrónico, un número telefónico, una contraseña y una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar).
     -   Perfiles: El sistema creará perfiles para los trabajadores y clientes. En el perfil de cada trabajador se podrán reflejar detalles como los servicios que ofrece, su experiencia, sus calificaciones, su fotografía, sus horarios disponibles (son modificables), así como su rango de distancia en el que puede laborar.
@@ -60,7 +59,7 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjMwODA2OTcsLTY1NzU2NDU4LC0xNj
-c2NjM5OTE4LC03Mjk1MjA1NDEsNjE5OTMyMTIxLC05MzIzMTEy
-MjEsNzc5NTQ0NTMxXX0=
+eyJoaXN0b3J5IjpbMTUyMDgyOTA0MywtMjAyMzA4MDY5NywtNj
+U3NTY0NTgsLTE2NzY2Mzk5MTgsLTcyOTUyMDU0MSw2MTk5MzIx
+MjEsLTkzMjMxMTIyMSw3Nzk1NDQ1MzFdfQ==
 -->
