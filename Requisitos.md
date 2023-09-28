@@ -2,17 +2,17 @@
 
 
 ## Requisitos funcionales        
-1. Registro: El sistema permitirá el registro usuario con un correo electrónico, Un número telefónico, una contraseña, una identificación oficial y en usuario se podrá registrar como cliente o trabajador 
+1. Registro: El sistema permitirá el registro de usuario (cliente o trabajador) con un correo electrónico, un número telefónico, una contraseña y una identificación oficial.
 
-2. Perfiles: El sistema creará perfiles para los trabajadores y Clientes, en el perfil de cada trabajador se podrán reflejar detalles como sus servicios realizados, su experiencia, sus calificaciones, su fotografía, sus horarios disponibles, así como su rango de distancia en el que puede laborar, sus horarios disponibles son modificables. 
+2. Perfiles: El sistema creará perfiles para los trabajadores y clientes. En el perfil de cada trabajador se podrán reflejar detalles como sus servicios realizados, su experiencia, sus calificaciones, su fotografía, sus horarios disponibles (son modificables), así como su rango de distancia en el que puede laborar.
 
 3. Filtro de trabajadores: Se podrá filtrar a los trabajadores por ubicación, calificaciones y por el servicio que se requiera. 
 
-4. Eleccionde trabajos: El sistema reconocerá la contratación del servicio Cuando el Trabajador lo acepte (El trabajador puede no aceptar el trabajo). 
+4. Elecció nde trabajos: El sistema reconocerá la contratación del servicio cuando el trabajador lo acepte (El trabajador puede no aceptar el trabajo). 
 
-5. Pago con Tarjeta: El sistema dejara ingresar una tarjeta de débito o crédito y se cobrara de ahí el monto de cada servicio después de ser contratado 
+5. Pago con Tarjeta: El sistema permitirá ingresar un número de tarjeta de débito o crédito como método de pago. De ese número de tarjeta se conrará el monto de cada servicio después de ser contratado.
 
-6. Chat: El sistema contará con un chat para que el empleador pueda adquirir cotizaciones del servicio y así decidir si lo acepta o no. 
+6. Chat: El sistema contará con un chat para que el empleador pueda adquirir cotizaciones del servicio con el prestador de servicios y así decidir si lo acepta o no. 
 
 7. Calificaciones: Al finalizar cada servicio el sistema le permitirá al empleador calificar y/o comentar el desempeño del trabajador. 
 
@@ -20,7 +20,7 @@
 
 9. Reportes: Se contará con un sistema de reporte por estafas, robos o incongruencias en el servicio.
 
-10. Penalizacion: El sistema contará con un sistema de "Karma" en el que, si el empleador o el trabajador no asiste, no cumple con lo antes mencionado o si cancela sin previo aviso, se verá reflejado en los perfiles de cada empleador y trabajador y con ello afectar la experiencia con la aplicación. 
+10. Penalizacion: El sistema contará con un sistema de "Karma" en el que, si el empleador o el trabajador, incumple con lo acordado o cancela sin previo aviso, se verá reflejado en los perfiles de cada empleador y trabajador y con ello, afectar la experiencia con la aplicación. 
 
 11. Agenda: Contará con una agenda con recordatorios y alarmas para los trabajadores para organizarse sin afectar a los usuarios. 
 
@@ -28,20 +28,20 @@
 
 12. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 (por los requisitos que manejaremos y las funciones del sistema).
  
-13.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (Validando la identificación oficial proporcionada).
+13.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (validando la identificación oficial proporcionada).
  
-14.  El sistema debe ser fácil de mantener y actualizar (Dándole mantenimiento).
+14.  El sistema debe ser fácil de mantener y actualizar (dándole mantenimiento).
  
-15.  El sistema debe estar disponible cuando se requiera (Darle mantenimiento solo en horarios de baja demanda).
+15.  El sistema debe estar disponible cuando se requiera (darle mantenimiento solo en horarios de baja demanda).
 
-16.  El sistema debe ser intuitivo y amigable para la mayoría de usuarios (Colocar imágenes fáciles de entender y simbología básica).
+16.  El sistema debe ser intuitivo y amigable para la mayoría de usuarios (colocar imágenes fáciles de entender y simbología básica).
 
-17.  El sistema debe ser confiable y cumplir con los requisitos del usuario (Asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados asi como las identificaciones oficiales del trabajador).
+17.  El sistema debe ser confiable y cumplir con los requisitos del usuario (asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados asi como las identificaciones oficiales del trabajador).
 
-18.  Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal (Verificando los servicios continuamente).
+18.  Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal (verificando los servicios continuamente).
 
 ## Priorización
-###  Tabla MosCow
+###  Tabla MosCow[^1]
 
 | Must Have| Should Have | Could Have |Wont Have|
 |---------|---------|---------|---------|
@@ -61,7 +61,7 @@
 ### Mapa conceptual de dependencias 
 ![Mapa de dependencia](https://github.com/KarenCampos842/Equipo-4/assets/143464988/67b5eb22-929e-4acb-a404-ca18d35ccd49)
 
-### Historias de usuarios
+### Historias de usuarios[^2]
 
 <table>
 <tr>
@@ -178,7 +178,9 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 </table>
 
 
-https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf 
+  
+[^1]:Simões, C. (14 de julio de 2020). MoSCoW. ¿Qué es y cómo priorizar en el desarrollo de tu aplicación? *ITDO*. https://www.itdo.com/blog/moscow-que-es-y-como-priorizar-en-el-desarrollo-de-tu-aplicacion/
 
-https://www.itdo.com/blog/moscow-que-es-y-como-priorizar-en-el-desarrollo-de-tu-aplicacion/
+[^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
+
 
