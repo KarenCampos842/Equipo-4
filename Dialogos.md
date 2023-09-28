@@ -21,7 +21,8 @@ Workflash es una plataforma altamente **confiable y segura** en donde puedes enc
 A diferencia de otras aplicaciones que ofrecen funcionalidades similares, **Workflash brinda una experiencia de alta calidad, al disponer de múltiples métodos de seguridad**, como la validación de los usuarios mediante su documentación oficial, el reporte de cuentas y la confirmación de los acuerdos por ambas partes, de esta manera garantizamos que los usuarios puedan animarse a utilizar nuestra plataforma con confianza.
 <br>
 ***Traducción***<br>
-
+Workflash is a highly **reliable and secure** platform where you can find the profile of the person you are looking for a job in your home. Depending on the type of account with which you register, either as a **client or service provider**, the user will have multiple functions that will allow them, on the client side, to filter by **availability, price and proximity**, contact the worker and rate their service. In the case of workers, they can include in their profiles their **photography, relevant information, experience and the jobs they do**, in addition to having all the freedom to choose the offer that best suits them. All of the above allows both parties to verify the status of their agreement with transparency at any time.
+Unlike other applications that offer similar functionalities, **Workflash provides a high quality experience, by having multiple security methods**, such as validation of users through their official documentation, account reporting and confirmation of agreements by both parties, thus ensuring that users can be encouraged to use our platform with confidence.
 <br>
 **Requisitos funcionales y no funcionales**<br>
 **Forma de verificación de requisitos no funcionales**<br> 
@@ -36,6 +37,6 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTUyMDU0MSw2MTk5MzIxMjEsLTkzMj
-MxMTIyMSw3Nzk1NDQ1MzFdfQ==
+eyJoaXN0b3J5IjpbLTE2NzY2Mzk5MTgsLTcyOTUyMDU0MSw2MT
+k5MzIxMjEsLTkzMjMxMTIyMSw3Nzk1NDQ1MzFdfQ==
 -->
