@@ -24,7 +24,29 @@ A diferencia de otras aplicaciones que ofrecen funcionalidades similares, **Work
 Workflash is a highly **reliable and secure** platform where you can find the profile of the person you are looking for a job in your home. Depending on the type of account with which you register, either as a **client or service provider**, the user will have multiple functions that will allow them, on the client side, to filter by **availability, price and proximity**, contact the worker and rate their service. In the case of workers, they can include in their profiles their **photography, relevant information, experience and the jobs they do**, in addition to having all the freedom to choose the offer that best suits them. All of the above allows both parties to verify the status of their agreement with transparency at any time.
 Unlike other applications that offer similar functionalities, **Workflash provides a high quality experience, by having multiple security methods**, such as validation of users through their official documentation, account reporting and confirmation of agreements by both parties, thus ensuring that users can be encouraged to use our platform with confidence.
 <br>
-**Requisitos funcionales y no funcionales**<br>
+**Requisitos funcionales, priorización y artefactos**<br>
+Para la priorizaciónse usó una tabla MosCow donde se tomaron en cuenta los diagramas antes realizados y se dividió la prioridad en 4 partes:
+
+-   Must Have
+    -   Registro: El sistema permitirá el registro de usuario (cliente o trabajador) con un correo electrónico, un número telefónico, una contraseña y una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar).
+    -   Perfiles: El sistema creará perfiles para los trabajadores y clientes. En el perfil de cada trabajador se podrán reflejar detalles como los servicios que ofrece, su experiencia, sus calificaciones, su fotografía, sus horarios disponibles (son modificables), así como su rango de distancia en el que puede laborar.
+    -   Filtro de trabajadores: Se podrá filtrar a los trabajadores por ubicación, calificaciones y por el servicio que se requiera.
+    -   Elección de trabajos: El sistema reconocerá la contratación del servicio cuando el trabajador lo acepte (el trabajador puede no aceptar el trabajo).
+-   Should Have
+    -   Chat: este será el medio para llegar a un mutuo acuerdo.
+    -   Reportes.
+    -   Penalización.
+-   Could Have
+    -   Calificaciones.
+    -   Ranking.
+-   Won't Have
+    -   Agenda.
+
+Los artefactos utilizados para la formación y priorización de requisitos son:
+
+-   Diagrama de casos de usos donde se representan los procesos del sistema.
+-   Mapa de dependencias donde se establecen las relaciones entre los procesos.
+-   Historias de usuarios donde se expresa el valor que los requerimientos le aportan al usuario.
 <br> 
 **Forma de verificación de requisitos no funcionales**<br> 
 Nosotros verificaremos los requisitos no funcionales planteados de diferentes maneras: Primero, estamos conscientes de la capacidad económica de la mayoría de la gente de nuestra ciudad como para obtener un dispositivo móvil, por lo que regulamos nuestros requisitos para que sea posible ser utilizado por la mayoría de los usuarios, segundo, verificaremos las identificaciones oficiales proporcionadas por los trabajadores para así asegurar que sean reales, también le daremos mantenimiento más seguido al sistema en horarios de baja demanda para no afectar la experiencia de nuestros usuarios. Igual tendremos pruebas del sistema con personas de todas las edades, para comprobar que tan intuitivo es el sistema para la gente en general, utilizaremos imágenes y simbología básicas. Por último, tendremos un control en los servicios ofrecidos en nuestro sistema, consultando seguido el total de servicios y el tipo de este, con el motivo de que se nulifique el ofrecimiento de algún tipo de servicio ilegal en nuestro sistema.
@@ -38,7 +60,7 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc0MDMyMzIsLTY1NzU2NDU4LC0xNj
+eyJoaXN0b3J5IjpbLTIwMjMwODA2OTcsLTY1NzU2NDU4LC0xNj
 c2NjM5OTE4LC03Mjk1MjA1NDEsNjE5OTMyMTIxLC05MzIzMTEy
 MjEsNzc5NTQ0NTMxXX0=
 -->
