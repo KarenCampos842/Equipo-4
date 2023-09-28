@@ -1,4 +1,4 @@
-﻿<center><h1>Métrica de Contribución</h1></center>
+<h1>﻿Métrica de contribución individual</h1>
  
 <table align=center>  
    <tr>  
@@ -42,110 +42,179 @@
    <tr>  
       <th bgcolor="#D18888" >Actividades</th>  
       <th bgcolor="#D18888" >Nivel</th>  
+          <th bgcolor="#D18888" >Fecha de asignación</th>  
+           <th bgcolor="#D18888" >Fecha máxima de entrega</th>
+                <th bgcolor="#D18888" >Estado de entrega</th>    
    </tr> 
     <tr>  
       <td>Descripción del producto (Moisés)</td>  
-       <td>Mediano</td>  
+       <td>Mediano</td> 
+       <td>22/09/2023</td>
+       <td>25/09/2023</td>
+        <td>A tiempo</td>    
    </tr> 
    <tr>  
       <td>Usuarios/Clientes (Moisés)</td>  
-       <td>Mediano</td>  
+       <td>Mediano</td>
+        <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
    <tr>  
       <td>Propuesta de valor (Brandon)</td>  
-       <td>Mediano</td>  
+       <td>Mediano</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
     <tr>  
       <td>Requisitos funcionales (Hansony)</td>  
-      <td>Alto</td>  
+      <td>Alto</td>
+        <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
     <tr>  
       <td>Requisitos no funcionales (Hansony)</td>  
-       <td>Alto</td>  
+       <td>Alto</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
    <tr>  
       <td>Priorización (Carlos)</td>  
-       <td>Mediano</td>  
+       <td>Mediano</td> 
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>26/09/2023</td>     
    </tr> 
     <tr>  
       <td>Artefactos (Carlos)</td>  
-       <td>Alto</td>  
+       <td>Alto</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>26/09/2023</td>       
    </tr> 
      <tr>  
       <td>Descripción del proceso (Karen)</td>  
-        <td>Alto</td>  
+        <td>Alto</td> 
+          <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>A tiempo</td>      
    </tr> 
     <tr>  
       <td>Gestión del proceso (Karen)</td> 
-      <td>Alto</td>   
+      <td>Alto</td>
+        <td>22/09/2023</td>
+       <td>30/09/2023</td>
+         <td>A tiempo</td>        
    </tr> 
     <tr>  
       <td>Métrica de contribución individual (Karen)</td> 
-      <td>Bajo</td>   
+      <td>Bajo</td>
+        <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>A tiempo</td>     
    </tr> 
    <tr>  
       <td>Organización y documentación del repositorio (Karen)</td>  
-       <td>Bajo</td>  
+       <td>Bajo</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
    <tr>  
       <td>Competencias genéricas (Asaf)</td>  
-       <td>Mediano</td>  
+       <td>Mediano</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td> 
+         <td>A tiempo</td>      
    </tr> 
     <tr>  
       <td>Competencias específicas (Asaf)</td>  
-       <td>Mediano</td>  
+       <td>Mediano</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
    <tr>  
       <td>Traducción de diálogos (Karen)</td>  
-       <td>Mediano</td>  
+       <td>Mediano</td>
+         <td>22/09/2023</td>
+       <td>26/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
     <tr>  
       <td>Diálogo Hansony</td>  
-       <td>Bajo</td>  
+       <td>Bajo</td> 
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>26/09/2023</td>      
    </tr> 
     <tr>  
       <td>Diálogo Carlos</td>  
-       <td>Bajo</td>  
+       <td>Bajo</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>27/09/2023</td>      
    </tr> 
     <tr>  
       <td>Diálogo Moisés</td>  
-       <td>Bajo</td>  
+       <td>Bajo</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>27/09/2023</td>       
    </tr> 
     <tr>  
       <td>Diálogo Brandon</td>  
-       <td>Bajo</td>  
+       <td>Bajo</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>26/09/2023</td>       
    </tr> 
      <tr>  
       <td>Revisar redacción de la sección Producto (Brandon)</td>  
-       <td>Bajo</td>  
+       <td>Bajo</td> 
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>A tiempo</td>      
    </tr> 
     <tr>  
       <td>Revisar redacción de la sección Requisitos (Carlos)</td>  
-       <td>Bajo</td>  
+       <td>Bajo</td>
+         <td>22/09/2023</td>
+       <td>25/09/2023</td>
+         <td>26/09/2023</td>       
    </tr> 
     <tr>  
       <td>Edición del video (Asaf)</td>  
-       <td>Alto</td>  
+       <td>Alto</td>
+         <td>22/09/2023</td>
+       <td>30/09/2023</td>
+         <td>A tiempo</td>       
    </tr> 
     <tr>  
-      <td><strong>Total de actividades</strong></td>  
-       <td>21</td>  
+      <td colspan=3><strong>Total de actividades</strong></td>  
+       <td colspan=2>21</td>
    </tr> 
    <tr>  
-      <td><strong>Total de actividades de nivel alto</strong></td>  
-       <td>6</td>  
+      <td colspan=3><strong>Total de actividades de nivel alto</strong></td>  
+       <td colspan=2>6</td>
    </tr> 
    <tr>  
-      <td><strong>Total de actividades de nivel mediano</strong></td>  
-       <td>7</td>  
+      <td colspan=3><strong>Total de actividades de nivel mediano</strong></td>  
+       <td colspan=2>7</td>
    </tr>
     <tr>  
-      <td><strong>Total de actividades de nivel bajo</strong></td>  
-       <td>8</td>  
+      <td colspan=3><strong>Total de actividades de nivel bajo</strong></td>  
+       <td colspan=2>8</td>
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDcxNDc2OSw5MDI5NjIyOTMsLTE3Nz
-M3MjI3NzIsLTcxNTUzNjk4NCw3MjE2NTc5ODEsLTYzMTM5NDM1
-OSwtMTM3MjQ0MDM1NiwzMDUxMTQyMTldfQ==
+eyJoaXN0b3J5IjpbLTEzODQyNTY4NDQsLTEyNjA4MzAzNTEsLT
+I1NzE1NzcxMywtMTU2NDA3NzA2NCwtMjU5MDQ3ODY5LC0xNjg1
+MjE2MjUsNTEwMzU3NTQ2LC01MTU5OTYxMTcsMTc3MDEzNzEwNS
+wxODE0NzE0NzY5LDkwMjk2MjI5MywtMTc3MzcyMjc3MiwtNzE1
+NTM2OTg0LDcyMTY1Nzk4MSwtNjMxMzk0MzU5LC0xMzcyNDQwMz
+U2LDMwNTExNDIxOV19
 -->

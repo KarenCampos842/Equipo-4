@@ -1,4 +1,4 @@
-<center><h1>REQUISITOS</h1></center>
+<h1>REQUISITOS</h1>
 
 
 ## Requisitos funcionales        
@@ -49,9 +49,6 @@
 |2|5|7||
 |4|9|8||
 |||10||
-
-
-
 
 
 
@@ -184,3 +181,4 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf 
 
 https://www.itdo.com/blog/moscow-que-es-y-como-priorizar-en-el-desarrollo-de-tu-aplicacion/
+
