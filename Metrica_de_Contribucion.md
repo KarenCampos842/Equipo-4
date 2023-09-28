@@ -86,14 +86,14 @@
        <td>Mediano</td> 
          <td>22/09/2023</td>
        <td>25/09/2023</td>
-         <td>26/09/2023</td>     
+         <td>27/09/2023</td>     
    </tr> 
     <tr>  
       <td>Artefactos (Carlos)</td>  
        <td>Alto</td>
          <td>22/09/2023</td>
        <td>25/09/2023</td>
-         <td>26/09/2023</td>       
+         <td>27/09/2023</td>       
    </tr> 
      <tr>  
       <td>Descripción del proceso (Karen)</td>  
@@ -211,11 +211,11 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDU1MzI2OSwtMTgwMDM0NTA5OSwtMT
-M4NDI1Njg0NCwtMTI2MDgzMDM1MSwtMjU3MTU3NzEzLC0xNTY0
-MDc3MDY0LC0yNTkwNDc4NjksLTE2ODUyMTYyNSw1MTAzNTc1ND
-YsLTUxNTk5NjExNywxNzcwMTM3MTA1LDE4MTQ3MTQ3NjksOTAy
-OTYyMjkzLC0xNzczNzIyNzcyLC03MTU1MzY5ODQsNzIxNjU3OT
-gxLC02MzEzOTQzNTksLTEzNzI0NDAzNTYsMzA1MTE0MjE5XX0=
+eyJoaXN0b3J5IjpbLTk0NjY0NzE3LC0xODAwMzQ1MDk5LC0xMz
+g0MjU2ODQ0LC0xMjYwODMwMzUxLC0yNTcxNTc3MTMsLTE1NjQw
+NzcwNjQsLTI1OTA0Nzg2OSwtMTY4NTIxNjI1LDUxMDM1NzU0Ni
+wtNTE1OTk2MTE3LDE3NzAxMzcxMDUsMTgxNDcxNDc2OSw5MDI5
+NjIyOTMsLTE3NzM3MjI3NzIsLTcxNTUzNjk4NCw3MjE2NTc5OD
+EsLTYzMTM5NDM1OSwtMTM3MjQ0MDM1NiwzMDUxMTQyMTldfQ==
 
 -->
