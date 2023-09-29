@@ -40,7 +40,24 @@ Como método de priorización para los requerimientos funcionales se utilizó la
     -   Ranking.
 -   Won't Have
     -   Agenda.
-
+    - <br>
+***Traducción***<br>
+The MoSCoW methodology was used as a prioritization method for functional requirements. 
+- Must Have
+    - Registration: The system will allow user registration (customer or worker) with an e-mail address, a telephone number, a password and an official photo ID (voting card or military service card).
+    - Profiles: The system will create profiles for workers and clients. Each worker's profile will show details such as the services they offer, their experience, their qualifications, their photography, their available schedules (these are modifiable), as well as the distance range in which they can work.
+    - Worker filtering: Workers can be filtered by location, qualifications and by the service required.
+    - Choice of jobs: The system will recognize the hiring of the service when the worker accepts it (the worker may decline the job).
+- Should Have
+    - Chat: this will be the means to reach a mutual agreement.
+    - Reports.
+    - Penalty.
+- Could Have
+    - Ratings.
+    - Ranking.
+- Won't Have
+    - Agenda.
+<br>
 Los artefactos utilizados para la formación y priorización de requisitos son:
 -   Diagrama de casos de usos donde se representan los procesos del sistema.
 -   Mapa de dependencias donde se establecen las relaciones entre los procesos.
@@ -58,7 +75,7 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwNjU1MDUsLTIwMjMwODA2OTcsLTY1Nz
-U2NDU4LC0xNjc2NjM5OTE4LC03Mjk1MjA1NDEsNjE5OTMyMTIx
-LC05MzIzMTEyMjEsNzc5NTQ0NTMxXX0=
+eyJoaXN0b3J5IjpbLTI2MzY0NDEyMCwzNTA2NTUwNSwtMjAyMz
+A4MDY5NywtNjU3NTY0NTgsLTE2NzY2Mzk5MTgsLTcyOTUyMDU0
+MSw2MTk5MzIxMjEsLTkzMjMxMTIyMSw3Nzk1NDQ1MzFdfQ==
 -->
