@@ -24,7 +24,7 @@ A diferencia de otras aplicaciones que ofrecen funcionalidades similares, **Work
 Workflash is a highly **reliable and secure** platform where you can find the profile of the person you are looking for a job in your home. Depending on the type of account with which you register, either as a **client or service provider**, the user will have multiple functions that will allow them, on the client side, to filter by **availability, price and proximity**, contact the worker and rate their service. In the case of workers, they can include in their profiles their **photography, relevant information, experience and the jobs they do**, in addition to having all the freedom to choose the offer that best suits them. All of the above allows both parties to verify the status of their agreement with transparency at any time.
 Unlike other applications that offer similar functionalities, **Workflash provides a high quality experience, by having multiple security methods**, such as validation of users through their official documentation, account reporting and confirmation of agreements by both parties, thus ensuring that users can be encouraged to use our platform with confidence.
 <br>
-**Requisitos funcionales, priorización y artefactos**<br>
+**Requisitos funcionales y priorización **<br>
 Como método de priorización para los requerimientos funcionales se utilizó la metodología MoSCoW. 
 -   Must Have
     -   Registro: El sistema permitirá el registro de usuario (cliente o trabajador) con un correo electrónico, un número telefónico, una contraseña y una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar).
@@ -58,15 +58,16 @@ The MoSCoW methodology was used as a prioritization method for functional requir
 - Won't Have
     - Agenda.
 <br>
+
+**Forma de verificación de requisitos no funcionales**<br> 
+Nosotros verificaremos los requisitos no funcionales planteados de diferentes maneras: Primero, estamos conscientes de la capacidad económica de la mayoría de la gente de nuestra ciudad como para obtener un dispositivo móvil, por lo que regulamos nuestros requisitos para que sea posible ser utilizado por la mayoría de los usuarios. Segundo, verificaremos las identidades de los usuarios al solicitar una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar).  Por otra parte,  se dará mantenimiento  al sistema en horarios de baja demanda para no afectar la experiencia de nuestros usuarios. Igualmente, tendremos pruebas del sistema con personas de distintos rangos de edad para comprobar que tan intuitivo es el sistema para la gente en general. Además, utilizaremos imágenes y simbología básicas. Por último, tendremos un control en los servicios ofrecidos en nuestro sistema, consultando seguido el total de servicios y el tipo, con el motivo de que se nulifique el ofrecimiento de algún tipo de servicio ilegal en nuestro sistema.
+
+**Artefactos**<br>
 Los artefactos utilizados para la formación y priorización de requisitos son:
 -   Diagrama de casos de usos donde se representan los procesos del sistema.
 -   Mapa de dependencias donde se establecen las relaciones entre los procesos.
 -   Historias de usuarios donde se expresa el valor que los requerimientos le aportan al usuario.
 <br> 
-**Forma de verificación de requisitos no funcionales**<br> 
-Nosotros verificaremos los requisitos no funcionales planteados de diferentes maneras: Primero, estamos conscientes de la capacidad económica de la mayoría de la gente de nuestra ciudad como para obtener un dispositivo móvil, por lo que regulamos nuestros requisitos para que sea posible ser utilizado por la mayoría de los usuarios. Segundo, verificaremos las identidades de los usuarios al solicitar una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar).  Por otra parte,  se dará mantenimiento  al sistema en horarios de baja demanda para no afectar la experiencia de nuestros usuarios. Igualmente, tendremos pruebas del sistema con personas de distintos rangos de edad para comprobar que tan intuitivo es el sistema para la gente en general. AdemUtilizaremos imágenes y simbología básicas. Por último, tendremos un control en los servicios ofrecidos en nuestro sistema, consultando seguido el total de servicios y el tipo de este, con el motivo de que se nulifique el ofrecimiento de algún tipo de servicio ilegal en nuestro sistema.
-
-**Artefactos**<br>
 **Proceso**<br>
 Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fases Sprint planning (división del trabajo),  scrum meeting (reuniones diarias de 15 minutos para monitorear el trabajo), sprint review (revisión del trabajo a entregar marcando el final del primer sprint) y retrospective (reunión posterior a la entrega para analizar lo que se hizo bien y mal en cuanto a proceso y relaciones entre el equipo de trabajo).<br> Las herramientas que se utilizaron fueron WhatsApp, Teams, GitHub, GitKraken y StackEdit.<br>Dentro de la branch de Primera-Entrega en GitHub se crearon archivos para cada sección en la que se dividió el trabajo. Cada miembro del equipo creó su propia rama y trabajó su parte sobre el archivo correspondiente. Una vez que estaba lista la actividad se realizaba un pull request para hacer merge con la rama de Primera-Entrega. Así mismo, se marcaba con ayuda del board de Proyecto_FIS el estado de la actividad (In Progress o Done).<br>
 ***Traducción*** 
@@ -75,7 +76,7 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyMDU2NjcsMzUwNjU1MDUsLTIwMjMwOD
-A2OTcsLTY1NzU2NDU4LC0xNjc2NjM5OTE4LC03Mjk1MjA1NDEs
-NjE5OTMyMTIxLC05MzIzMTEyMjEsNzc5NTQ0NTMxXX0=
+eyJoaXN0b3J5IjpbLTE2Mzk5NTQwNDUsMzUwNjU1MDUsLTIwMj
+MwODA2OTcsLTY1NzU2NDU4LC0xNjc2NjM5OTE4LC03Mjk1MjA1
+NDEsNjE5OTMyMTIxLC05MzIzMTEyMjEsNzc5NTQ0NTMxXX0=
 -->
