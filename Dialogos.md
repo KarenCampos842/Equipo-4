@@ -71,21 +71,25 @@ Los artefactos utilizados para la formación y priorización de requisitos son:
 -   Mapa de dependencias donde se establecen las relaciones entre los procesos.
 -   Historias de usuarios donde se expresa el valor que los requerimientos le aportan al usuario.
 <br> 
+
 ***Traducción***<br>
 The artifacts used for the formation and prioritization of requirements are:
 - Use case diagram where the system processes are represented.
 - Map of dependencies where the relationships between processes are established.
 - User stories where the value that the requirements bring to the user is expressed.<br>
+- 
 **Proceso**<br>
 Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fases Sprint planning (división del trabajo),  scrum meeting (reuniones diarias de 15 minutos para monitorear el trabajo), sprint review (revisión del trabajo a entregar marcando el final del primer sprint) y retrospective (reunión posterior a la entrega para analizar lo que se hizo bien y mal en cuanto a proceso y relaciones entre el equipo de trabajo).<br> Las herramientas que se utilizaron fueron WhatsApp, Teams, GitHub, GitKraken y StackEdit.<br>Dentro de la branch de Primera-Entrega en GitHub se crearon archivos para cada sección en la que se dividió el trabajo. Cada miembro del equipo creó su propia rama y trabajó su parte sobre el archivo correspondiente. Una vez que estaba lista la actividad se realizaba un pull request para hacer merge con la rama de Primera-Entrega. Así mismo, se marcaba con ayuda del board de Proyecto_FIS el estado de la actividad (In Progress o Done).<br>
+
 ***Traducción*** 
+
 <br>For our process we use the agile methodology SCRUM as a guide. Having as phases Sprint planning **(division of work)**, scrum meeting **(daily meetings of 15 minutes to monitor the work)**, sprint review (**review of the work to be delivered marking the end of the first sprint)** and retrospective **(post-delivery meeting to analyze what was done right and wrong in terms of process and relationships among the team)**. <br>The tools used were WhatsApp, Teams, GitHub, GitKraken and StackEdit.<br>Within the First-Delivery branch on GitHub, files were created for each section the work was divided into. Each team member created their own branch and worked their part on the corresponding file. Once the activity was ready, a pull request was made to merge with the First-Delivery branch. Also, the status of the activity (In Progress or Done) was marked with the help of the Project_FIS board.
 
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTc1ODEzMCw4NzgwMDMxNzIsLTE2Mz
-k5NTQwNDUsMzUwNjU1MDUsLTIwMjMwODA2OTcsLTY1NzU2NDU4
-LC0xNjc2NjM5OTE4LC03Mjk1MjA1NDEsNjE5OTMyMTIxLC05Mz
-IzMTEyMjEsNzc5NTQ0NTMxXX0=
+eyJoaXN0b3J5IjpbLTE4ODY0NjY5NjcsODc4MDAzMTcyLC0xNj
+M5OTU0MDQ1LDM1MDY1NTA1LC0yMDIzMDgwNjk3LC02NTc1NjQ1
+OCwtMTY3NjYzOTkxOCwtNzI5NTIwNTQxLDYxOTkzMjEyMSwtOT
+MyMzExMjIxLDc3OTU0NDUzMV19
 -->
