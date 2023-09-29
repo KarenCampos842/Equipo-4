@@ -86,14 +86,14 @@
        <td>Mediano</td> 
          <td>22/09/2023</td>
        <td>25/09/2023</td>
-         <td>26/09/2023</td>     
+         <td>27/09/2023</td>     
    </tr> 
     <tr>  
       <td>Artefactos (Carlos)</td>  
        <td>Alto</td>
          <td>22/09/2023</td>
        <td>25/09/2023</td>
-         <td>26/09/2023</td>       
+         <td>27/09/2023</td>       
    </tr> 
      <tr>  
       <td>Descripción del proceso (Karen)</td>  
@@ -142,7 +142,7 @@
        <td>Mediano</td>
          <td>22/09/2023</td>
        <td>26/09/2023</td>
-         <td>A tiempo</td>       
+         <td>28/09/2023</td>       
    </tr> 
     <tr>  
       <td>Diálogo Hansony</td>  
@@ -156,7 +156,7 @@
        <td>Bajo</td>
          <td>22/09/2023</td>
        <td>25/09/2023</td>
-         <td>27/09/2023</td>      
+         <td>28/09/2023</td>      
    </tr> 
     <tr>  
       <td>Diálogo Moisés</td>  
@@ -176,7 +176,7 @@
       <td>Revisar redacción de la sección Producto (Brandon)</td>  
        <td>Bajo</td> 
          <td>22/09/2023</td>
-       <td>25/09/2023</td>
+       <td>26/09/2023</td>
          <td>A tiempo</td>      
    </tr> 
     <tr>  
@@ -184,7 +184,7 @@
        <td>Bajo</td>
          <td>22/09/2023</td>
        <td>25/09/2023</td>
-         <td>26/09/2023</td>       
+         <td>27/09/2023</td>       
    </tr> 
     <tr>  
       <td>Edición del video (Asaf)</td>  
@@ -211,10 +211,11 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQyNTY4NDQsLTEyNjA4MzAzNTEsLT
-I1NzE1NzcxMywtMTU2NDA3NzA2NCwtMjU5MDQ3ODY5LC0xNjg1
-MjE2MjUsNTEwMzU3NTQ2LC01MTU5OTYxMTcsMTc3MDEzNzEwNS
-wxODE0NzE0NzY5LDkwMjk2MjI5MywtMTc3MzcyMjc3MiwtNzE1
-NTM2OTg0LDcyMTY1Nzk4MSwtNjMxMzk0MzU5LC0xMzcyNDQwMz
-U2LDMwNTExNDIxOV19
+eyJoaXN0b3J5IjpbLTg4NjM0MzkxOCwtOTQ2NjQ3MTcsLTE4MD
+AzNDUwOTksLTEzODQyNTY4NDQsLTEyNjA4MzAzNTEsLTI1NzE1
+NzcxMywtMTU2NDA3NzA2NCwtMjU5MDQ3ODY5LC0xNjg1MjE2Mj
+UsNTEwMzU3NTQ2LC01MTU5OTYxMTcsMTc3MDEzNzEwNSwxODE0
+NzE0NzY5LDkwMjk2MjI5MywtMTc3MzcyMjc3MiwtNzE1NTM2OT
+g0LDcyMTY1Nzk4MSwtNjMxMzk0MzU5LC0xMzcyNDQwMzU2LDMw
+NTExNDIxOV19
 -->
