@@ -64,7 +64,7 @@ Los artefactos utilizados para la formación y priorización de requisitos son:
 -   Historias de usuarios donde se expresa el valor que los requerimientos le aportan al usuario.
 <br> 
 **Forma de verificación de requisitos no funcionales**<br> 
-Nosotros verificaremos los requisitos no funcionales planteados de diferentes maneras: Primero, estamos conscientes de la capacidad económica de la mayoría de la gente de nuestra ciudad como para obtener un dispositivo móvil, por lo que regulamos nuestros requisitos para que sea posible ser utilizado por la mayoría de los usuarios, segundo, verificaremos las identificaciones oficiales proporcionadas por los trabajadores para así asegurar que sean reales, también le daremos mantenimiento más seguido al sistema en horarios de baja demanda para no afectar la experiencia de nuestros usuarios. Igual tendremos pruebas del sistema con personas de todas las edades, para comprobar que tan intuitivo es el sistema para la gente en general, utilizaremos imágenes y simbología básicas. Por último, tendremos un control en los servicios ofrecidos en nuestro sistema, consultando seguido el total de servicios y el tipo de este, con el motivo de que se nulifique el ofrecimiento de algún tipo de servicio ilegal en nuestro sistema.
+Nosotros verificaremos los requisitos no funcionales planteados de diferentes maneras: Primero, estamos conscientes de la capacidad económica de la mayoría de la gente de nuestra ciudad como para obtener un dispositivo móvil, por lo que regulamos nuestros requisitos para que sea posible ser utilizado por la mayoría de los usuarios. Segundo, verificaremos las identidades de los usuarios al solicitar una identificación oficial con fotografía, también le daremos mantenimiento más seguido al sistema en horarios de baja demanda para no afectar la experiencia de nuestros usuarios. Igual tendremos pruebas del sistema con personas de todas las edades, para comprobar que tan intuitivo es el sistema para la gente en general, utilizaremos imágenes y simbología básicas. Por último, tendremos un control en los servicios ofrecidos en nuestro sistema, consultando seguido el total de servicios y el tipo de este, con el motivo de que se nulifique el ofrecimiento de algún tipo de servicio ilegal en nuestro sistema.
 
 **Artefactos**<br>
 **Proceso**<br>
@@ -75,7 +75,7 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzY0NDEyMCwzNTA2NTUwNSwtMjAyMz
+eyJoaXN0b3J5IjpbLTEyNTYzOTgwNywzNTA2NTUwNSwtMjAyMz
 A4MDY5NywtNjU3NTY0NTgsLTE2NzY2Mzk5MTgsLTcyOTUyMDU0
 MSw2MTk5MzIxMjEsLTkzMjMxMTIyMSw3Nzk1NDQ1MzFdfQ==
 -->
