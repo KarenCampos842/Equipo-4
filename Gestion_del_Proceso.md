@@ -41,7 +41,7 @@ Finalizar los diálogos para el video jueves 28 de septiembre (al momento de la 
    
 <br>
 
-**Jueves 28 de septiembre de 2023 (Scrum team meeting)**<br>Durante la reunión se revisó el avance del trabajo. Con los diálogos y audios terminados se acordó dar inició a la edición del video (a cargo de Asaf) con fecha límite del 30 de septiembre.  
+**Jueves 28 de septiembre de 2023 (Scrum team meeting)**<br>Durante la reunión se revisó el avance del trabajo. Con los diálogos y audios terminados se acordó dar inicio a la edición del video (a cargo de Asaf) con fecha límite del 30 de septiembre.  
 <br>Producto final: <br>
 [Presentacion_del_avance.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance).
 
