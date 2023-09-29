@@ -60,7 +60,10 @@ The MoSCoW methodology was used as a prioritization method for functional requir
 <br>
 
 **Forma de verificación de requisitos no funcionales**<br> 
-Nosotros verificaremos los requisitos no funcionales planteados de diferentes maneras: Primero, estamos conscientes de la capacidad económica de la mayoría de la gente de nuestra ciudad como para obtener un dispositivo móvil, por lo que regulamos nuestros requisitos para que sea posible ser utilizado por la mayoría de los usuarios. Segundo, verificaremos las identidades de los usuarios al solicitar una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar).  Por otra parte,  se dará mantenimiento  al sistema en horarios de baja demanda para no afectar la experiencia de nuestros usuarios. Igualmente, tendremos pruebas del sistema con personas de distintos rangos de edad para comprobar que tan intuitivo es el sistema para la gente en general. Además, utilizaremos imágenes y simbología básicas. Por último, tendremos un control en los servicios ofrecidos en nuestro sistema, consultando seguido el total de servicios y el tipo, con el motivo de que se nulifique el ofrecimiento de algún tipo de servicio ilegal en nuestro sistema.
+Nosotros verificaremos los requisitos no funcionales planteados de diferentes maneras: Primero, estamos conscientes de la capacidad económica de la mayoría de la gente de nuestra ciudad como para obtener un dispositivo móvil, por lo que regulamos nuestros requisitos para que sea posible ser utilizado por la mayoría de los usuarios. Segundo, verificaremos las identidades de los usuarios al solicitar una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar).  Por otra parte,  se dará mantenimiento  al sistema en horarios de baja demanda para no afectar la experiencia de nuestros usuarios. Igualmente, tendremos pruebas del sistema con personas de distintos rangos de edad para comprobar que tan intuitivo es el sistema para la gente en general. Además, utilizaremos imágenes y simbología básicas. Por último, tendremos un control en los servicios ofrecidos en nuestro sistema, consultando seguido el total de servicios y el tipo, con el motivo de que se nulifique el ofrecimiento de algún tipo de servicio ilegal en nuestro sistema.<br>
+***Traducción***<br>
+We will verify non-functional requirements in different ways: First, we are aware of the economic capacity of most people in our city to obtain a mobile device, so we regulate our requirements so that it is possible to be used by most users. Second, we will verify users' identities by requesting an official photo ID (voting card or military service card).  On the other hand, the system will be maintained during off-peak hours so as not to affect our users' experience. We will also test the system with people from different age ranges to test how intuitive the system is for people in general. In addition, we will use some basic images and symbology. Finally, we will control the services offered in our system, consulting often the total of services and the type, in order to nullify the offering of any type of illegal service in our system.
+<br>
 
 **Artefactos**<br>
 Los artefactos utilizados para la formación y priorización de requisitos son:
@@ -76,7 +79,8 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk5NTQwNDUsMzUwNjU1MDUsLTIwMj
-MwODA2OTcsLTY1NzU2NDU4LC0xNjc2NjM5OTE4LC03Mjk1MjA1
-NDEsNjE5OTMyMTIxLC05MzIzMTEyMjEsNzc5NTQ0NTMxXX0=
+eyJoaXN0b3J5IjpbODc4MDAzMTcyLC0xNjM5OTU0MDQ1LDM1MD
+Y1NTA1LC0yMDIzMDgwNjk3LC02NTc1NjQ1OCwtMTY3NjYzOTkx
+OCwtNzI5NTIwNTQxLDYxOTkzMjEyMSwtOTMyMzExMjIxLDc3OT
+U0NDUzMV19
 -->
