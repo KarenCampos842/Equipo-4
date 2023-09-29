@@ -1,26 +1,32 @@
 <h1>Diálogos</h1>
 
 **Descripción de Producto**
-<br>Workflash es una app diseñada para aquellas personas trabajadoras que buscan ofrecer sus servicios; mecánicos, carpinteros, electricistas, plomeros. <br>Es un espacio dónde se puede ofrecer y contratar algún servicio.<br>
+<br>Workflash es una app diseñada para aquellas personas trabajadoras que buscan ofrecer sus servicios; mecánicos, carpinteros, electricistas, plomeros. <br>Es un espacio dónde se puede ofrecer y contratar algún servicio.
+<br>
 ***Traducción***
 <br>Workflash is an app designed for those working people willing to offer their services; mechanics, carpenters, electricians, plumbers. <br>It is a space where you can offer and hire services.
 <br>
+
 **Usuarios/Clientes**
 <br>En lo que respecta a usuarios y clientes, tendríamos a personas de 18 años en adelante residiendo en Yucatán; planeamos lanzar la beta en Mérida puesto que es la capital de Yucatán y hay mas gente que necesita el servicio. El rango de edad de aquellos que ofrecerían o contratarían el servicio, tenemos previsto que sería en su mayoría personas de entre 30 a 50 años. 
 Toda persona mayor de edad que necesite u ofrezca un servicio como plomería, albañilería, entre otros, serían nuestros usuarios y/o clientes. Padres de familia, universitarios viviendo solos, adultos mayores, adultos con horarios demandantes en su trabajo, etc. 
 <br>
+
 ***Traducción***
 <br>In terms of users and clients, our target audience would be people 18 years of age and older residing in Yucatan; we plan to release the beta in Merida since it is the capital of Yucatan and there are more people who need the service. The age range of those who would offer or contract the service, it is expected to be mostly people between 30 to 50 years old. 
 Any person of legal age who needs or offers a service such as plumbing, masonry, among others, would be our users and/or clients. Parents, college students living on their own, the elderly, adults with demanding work schedules, are some expamples. 
 <br>
+
 **Propuesta de Valor**
 <br>Workflash es una plataforma altamente **confiable y segura** en donde puedes encontrar el perfil de persona que buscas para un trabajo en tu hogar. Dependiendo del tipo de cuenta con la que se registre, ya sea como **cliente o proveedor de servicios**, el usuario dispondrá de múltiples funciones que le permitirán, del lado del cliente, filtrar por **disponibilidad precio y cercanía**, contactar al trabajador y calificar su servicio. En el caso de los trabajadores, estos pueden incluir en sus perfiles su **fotografía, información relevante, experiencia y los trabajos que realizan cuáles no**, además de contar con toda la libertad para elegir la oferta que más le convenga. Todo anterior, permite a ambas partes la posibilidad de verificar con transparencia y en todo momento el estado de su acuerdo.
 A diferencia de otras aplicaciones que ofrecen funcionalidades similares, **Workflash brinda una experiencia de alta calidad, al disponer de múltiples métodos de seguridad**, como la validación de los usuarios mediante su documentación oficial, el reporte de cuentas y la confirmación de los acuerdos por ambas partes, de esta manera garantizamos que los usuarios puedan animarse a utilizar nuestra plataforma con confianza.
 <br>
+
 ***Traducción***
 <br>Workflash is a highly **reliable and secure** platform where you can find the profile of the person you are looking for a job in your home. Depending on the type of account with which you register, either as a **client or service provider**, the user will have multiple functions that will allow them, on the client side, to filter by **availability, price and proximity**, contact the worker and rate their service. In the case of workers, they can include in their profiles their **photography, relevant information, experience and the jobs they do**, in addition to having all the freedom to choose the offer that best suits them. All of the above allows both parties to verify the status of their agreement with transparency at any time.
 Unlike other applications that offer similar functionalities, **Workflash provides a high quality experience, by having multiple security methods**, such as validation of users through their official documentation, account reporting and confirmation of agreements by both parties, thus ensuring that users can be encouraged to use our platform with confidence.
 <br>
+
 **Requisitos funcionales y priorización **<br>
 Como método de priorización para los requerimientos funcionales se utilizó la metodología MoSCoW. 
 -   Must Have
@@ -84,8 +90,8 @@ Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fa
 <br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg4MjE2OTEsODc4MDAzMTcyLC0xNj
-M5OTU0MDQ1LDM1MDY1NTA1LC0yMDIzMDgwNjk3LC02NTc1NjQ1
-OCwtMTY3NjYzOTkxOCwtNzI5NTIwNTQxLDYxOTkzMjEyMSwtOT
-MyMzExMjIxLDc3OTU0NDUzMV19
+eyJoaXN0b3J5IjpbMTc3MDM5Mjk2NSw4NzgwMDMxNzIsLTE2Mz
+k5NTQwNDUsMzUwNjU1MDUsLTIwMjMwODA2OTcsLTY1NzU2NDU4
+LC0xNjc2NjM5OTE4LC03Mjk1MjA1NDEsNjE5OTMyMTIxLC05Mz
+IzMTEyMjEsNzc5NTQ0NTMxXX0=
 -->
