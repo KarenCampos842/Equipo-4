@@ -1,5 +1,13 @@
 <h1>Diálogos</h1>
 
+**Proceso** <br>
+Para nuestro utilizamos la metodología ágil SCRUM como guía. Teniendo como fases Sprint planning (división del trabajo),  scrum meeting (reuniones diarias de 15 minutos para monitorear el trabajo), sprint review (revisión del trabajo a entregar marcando el final del primer sprint) y retrospective (reunión posterior a la entrega para analizar lo que se hizo bien y mal en cuanto a proceso y relaciones entre el equipo de trabajo).<br> Las herramientas que se utilizaron fueron WhatsApp, Teams, GitHub, GitKraken y StackEdit.<br>Dentro de la branch de Primera-Entrega en GitHub se crearon archivos para cada sección en la que se dividió el trabajo. Cada miembro del equipo creó su propia rama y trabajó su parte sobre el archivo correspondiente. Una vez que estaba lista la actividad se realizaba un pull request para hacer merge con la rama de Primera-Entrega. Así mismo, se marcaba con ayuda del board de Proyecto_FIS el estado de la actividad (In Progress o Done).<br>
+
+***Traducción*** 
+<br>For our process we use the agile methodology SCRUM as a guide. Having as phases Sprint planning **(division of work)**, scrum meeting **(daily meetings of 15 minutes to monitor the work)**, sprint review (**review of the work to be delivered marking the end of the first sprint)** and retrospective **(post-delivery meeting to analyze what was done right and wrong in terms of process and relationships among the team)**. <br>The tools used were WhatsApp, Teams, GitHub, GitKraken and StackEdit.<br>Within the First-Delivery branch on GitHub, files were created for each section the work was divided into. Each team member created their own branch and worked their part on the corresponding file. Once the activity was ready, a pull request was made to merge with the First-Delivery branch. Also, the status of the activity (In Progress or Done) was marked with the help of the Project_FIS board.
+
+<br>***NOTA:*** El texto que va entre paréntesis y resaltado en negritas debe mostrarse en el video.
+
 **Descripción de Producto**
 <br>Workflash es una app diseñada para aquellas personas trabajadoras que buscan ofrecer sus servicios; mecánicos, carpinteros, electricistas, plomeros. <br>Es un espacio dónde se puede ofrecer y contratar algún servicio.
 <br>
@@ -28,7 +36,7 @@ A diferencia de otras aplicaciones que ofrecen funcionalidades similares, **Work
 Unlike other applications that offer similar functionalities, **Workflash provides a high quality experience, by having multiple security methods**, such as validation of users through their official documentation, account reporting and confirmation of agreements by both parties, thus ensuring that users can be encouraged to use our platform with confidence.
 <br>
 
-**Requisitos funcionales y priorización **<br>
+**Requisitos funcionales y priorización** <br>
 Como método de priorización para los requerimientos funcionales se utilizó la metodología MoSCoW. 
 -   Must Have
     -   Registro: El sistema permitirá el registro de usuario (cliente o trabajador) con un correo electrónico, un número telefónico, una contraseña y una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar).
