@@ -58,6 +58,8 @@ De igual forma, se habló con Asaf sobre la edición del video. Asaf comentó ha
 <br>Producto final: <br>
 [Presentacion_del_avance.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance).
 
+<br>
+
 **Sábado 30 de septiembre de 2023 (Sprint reviw)**<br>Durante la reunión se revisó cada uno de los elementos del trabajo, incluyendo el video. Los archivos revisados fueron los siguientes:
 <br>
  - [Competencias.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Competencias.md "Competencias.md")
@@ -67,4 +69,4 @@ De igual forma, se habló con Asaf sobre la edición del video. Asaf comentó ha
  - [Requisitos.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md "Requisitos.md")
  - [Dialogos.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Dialogos.md "Dialogos.md")
  - [Presentacion_del_avance.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance).
- - [Gestion_del_Proceso.md](https://github.com/KarenCampos842/Equipo-4/edit/Primera-Entrega/Gestion_del_Proceso.md).
+ - [Gestion_del_Proceso.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Gestion_del_Proceso.md).
