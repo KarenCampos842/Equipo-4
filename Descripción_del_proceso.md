@@ -150,11 +150,11 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
 Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo aquello que se hizo bien con relación al uso de la metodología SCRUM, el proceso, uso de herramientas, así como, todo aquello que se puede mejorar en cuanto a proceso, herramientas, relación entre compañeros, etc. 
   
   
-[^1]: ILIMIT. (s.f).Metodología SCRUM: qué es y cómo implementarlo. ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
+[^1]: ILIMIT. (s.f).*Metodología SCRUM: qué es y cómo implementarlo.* ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODYzMjkzODYsLTE5ODgwMjM4NThdfQ
-==
+eyJoaXN0b3J5IjpbLTIwMzIyMjUyMDgsLTE0ODYzMjkzODYsLT
+E5ODgwMjM4NThdfQ==
 -->
