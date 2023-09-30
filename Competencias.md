@@ -14,3 +14,5 @@ Desarrollar la capacidad de comunicación como equipo.
 Desarrollar la coordinación del equipo.
 
 Conocer a los compañeros de equipo. </p>
+
+UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
