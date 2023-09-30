@@ -55,12 +55,12 @@ Finalizar los diálogos para el video jueves 28 de septiembre (al momento de la 
  - [Dialogos.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Dialogos.md "Dialogos.md")
 <br>
 De igual forma, se habló con Asaf sobre la edición del video. Asaf comentó haber tenido un inconveniente, ya que, perdió una parte considerable del video que había editado, no obstante, lo solucionó y se compremetió a tener el video listo la tarde del sábado 30 de septiembre. 
-<br>Producto final: <br>
+<br>Producto final:
+<br>
 [Presentacion_del_avance.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance).
 
 <br>
-
-**Sábado 30 de septiembre de 2023 (Sprint reviw)**<br>Durante la reunión se revisó cada uno de los elementos del trabajo, incluyendo el video. Los archivos revisados fueron los siguientes:
+**Sábado 30 de septiembre de 2023 (Sprint review)**<br>Durante la reunión se revisó cada uno de los elementos del trabajo, incluyendo el video. Los archivos revisados fueron los siguientes:
 <br>
  - [Competencias.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Competencias.md "Competencias.md")
  - [Descripción_del_proceso.md](https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Descripci%C3%B3n_del_proceso.md "Descripción_del_proceso.md")
