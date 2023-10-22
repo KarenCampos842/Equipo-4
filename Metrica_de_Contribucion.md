@@ -47,53 +47,59 @@
                 <th bgcolor="#D18888" >Estado de entrega</th>    
    </tr> 
     <tr>  
-      <td>Descripción del producto (Moisés)</td>  
-       <td>Mediano</td> 
-       <td>22/09/2023</td>
-       <td>25/09/2023</td>
+      <td>Borrador de ventanas correspondientes al registro de usuarios  (Karen)</td>  
+       <td>Bajo</td> 
+       <td>19/10/2023</td>
+       <td>20/10/2023</td>
         <td>A tiempo</td>    
    </tr> 
    <tr>  
-      <td>Usuarios/Clientes (Moisés)</td>  
-       <td>Mediano</td>
-        <td>22/09/2023</td>
-       <td>25/09/2023</td>
+      <td>Diseño de ventanas "inicio de sesión" y "seleccionar perfil" 
+ (Karen)</td>  
+       <td>Bajo</td>
+        <td>21/10/2023</td>
+       <td>23/10/2023</td>
          <td>A tiempo</td>       
    </tr> 
    <tr>  
-      <td>Propuesta de valor (Brandon)</td>  
-       <td>Mediano</td>
-         <td>22/09/2023</td>
-       <td>25/09/2023</td>
-         <td>A tiempo</td>       
-   </tr> 
-    <tr>  
-      <td>Requisitos funcionales (Hansony)</td>  
-      <td>Alto</td>
-        <td>22/09/2023</td>
-       <td>25/09/2023</td>
-         <td>A tiempo</td>       
-   </tr> 
-    <tr>  
-      <td>Requisitos no funcionales (Hansony)</td>  
-       <td>Alto</td>
-         <td>22/09/2023</td>
-       <td>25/09/2023</td>
+      <td>Diseño de ventanas "crea tu cuenta" y "subir identificaciones". 
+(Hansony)</td>  
+        <td>Bajo</td>
+        <td>21/10/2023</td>
+       <td>23/10/2023</td>
          <td>A tiempo</td>       
    </tr> 
    <tr>  
-      <td>Priorización (Carlos)</td>  
-       <td>Mediano</td> 
-         <td>22/09/2023</td>
-       <td>25/09/2023</td>
-         <td>27/09/2023</td>     
+      <td>Diseño de ventanas "permiso de ubicación" y "registro trabajador". 
+(Brandon)</td>  
+        <td>Bajo</td>
+        <td>21/10/2023</td>
+       <td>23/10/2023</td>
+         <td>A tiempo</td>       
    </tr> 
-    <tr>  
-      <td>Artefactos (Carlos)</td>  
-       <td>Alto</td>
-         <td>22/09/2023</td>
-       <td>25/09/2023</td>
-         <td>27/09/2023</td>       
+ <tr> 
+  <td>Diseño de ventana "términos y condiciones". 
+ (Carlos)</td>  
+       <td>Bajo</td>
+        <td>21/10/2023</td>
+       <td>23/10/2023</td>
+         <td>A tiempo</td>    
+   </tr> 
+    <tr> 
+  <td>Diseño de ventana "Membresía". 
+ (Moisés)</td>  
+       <td>Bajo</td>
+        <td>21/10/2023</td>
+       <td>23/10/2023</td>
+         <td>A tiempo</td>    
+   </tr> 
+   <tr> 
+  <td>Diseño de ventana "Envío de contraseña a correo". 
+ (Asaf)</td>  
+       <td>Bajo</td>
+        <td>21/10/2023</td>
+       <td>23/10/2023</td>
+         <td>A tiempo</td>    
    </tr> 
      <tr>  
       <td>Descripción del proceso (Karen)</td>  
@@ -123,76 +129,6 @@
        <td>25/09/2023</td>
          <td>A tiempo</td>       
    </tr> 
-   <tr>  
-      <td>Competencias genéricas (Asaf)</td>  
-       <td>Mediano</td>
-         <td>22/09/2023</td>
-       <td>25/09/2023</td> 
-         <td>A tiempo</td>      
-   </tr> 
-    <tr>  
-      <td>Competencias específicas (Asaf)</td>  
-       <td>Mediano</td>
-         <td>22/09/2023</td>
-       <td>25/09/2023</td>
-         <td>A tiempo</td>       
-   </tr> 
-   <tr>  
-      <td>Traducción de diálogos (Karen)</td>  
-       <td>Mediano</td>
-         <td>22/09/2023</td>
-       <td>26/09/2023</td>
-         <td>28/09/2023</td>       
-   </tr> 
-    <tr>  
-      <td>Diálogo Hansony</td>  
-       <td>Bajo</td> 
-         <td>22/09/2023</td>
-       <td>25/09/2023</td>
-         <td>26/09/2023</td>      
-   </tr> 
-    <tr>  
-      <td>Diálogo Carlos</td>  
-       <td>Bajo</td>
-         <td>22/09/2023</td>
-       <td>25/09/2023</td>
-         <td>28/09/2023</td>      
-   </tr> 
-    <tr>  
-      <td>Diálogo Moisés</td>  
-       <td>Bajo</td>
-         <td>22/09/2023</td>
-       <td>25/09/2023</td>
-         <td>27/09/2023</td>       
-   </tr> 
-    <tr>  
-      <td>Diálogo Brandon</td>  
-       <td>Bajo</td>
-         <td>22/09/2023</td>
-       <td>25/09/2023</td>
-         <td>26/09/2023</td>       
-   </tr> 
-     <tr>  
-      <td>Revisar redacción de la sección Producto (Brandon)</td>  
-       <td>Bajo</td> 
-         <td>22/09/2023</td>
-       <td>26/09/2023</td>
-         <td>A tiempo</td>      
-   </tr> 
-    <tr>  
-      <td>Revisar redacción de la sección Requisitos (Carlos)</td>  
-       <td>Bajo</td>
-         <td>22/09/2023</td>
-       <td>25/09/2023</td>
-         <td>27/09/2023</td>       
-   </tr> 
-    <tr>  
-      <td>Edición del video (Asaf)</td>  
-       <td>Alto</td>
-         <td>22/09/2023</td>
-       <td>30/09/2023</td>
-         <td>A tiempo</td>       
-   </tr> 
     <tr>  
       <td colspan=3><strong>Total de actividades</strong></td>  
        <td colspan=2>21</td>
@@ -211,11 +147,5 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjM0MzkxOCwtOTQ2NjQ3MTcsLTE4MD
-AzNDUwOTksLTEzODQyNTY4NDQsLTEyNjA4MzAzNTEsLTI1NzE1
-NzcxMywtMTU2NDA3NzA2NCwtMjU5MDQ3ODY5LC0xNjg1MjE2Mj
-UsNTEwMzU3NTQ2LC01MTU5OTYxMTcsMTc3MDEzNzEwNSwxODE0
-NzE0NzY5LDkwMjk2MjI5MywtMTc3MzcyMjc3MiwtNzE1NTM2OT
-g0LDcyMTY1Nzk4MSwtNjMxMzk0MzU5LC0xMzcyNDQwMzU2LDMw
-NTExNDIxOV19
+eyJoaXN0b3J5IjpbLTcxMzkzMzkzM119
 -->
