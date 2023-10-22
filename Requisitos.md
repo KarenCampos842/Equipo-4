@@ -10,7 +10,7 @@
 
 4. **Cobro de membresía:**  Cumplido el mes de prueba gratis en la aplicación, el sistema cobrará mensualmente de la tarjeta proporcionada por el trabajador $75 correspondientes a la membresía hasta la cancelación de la cuenta.
 
-5. **Creación de contraseña:** El sistema creará una contraseña para el usuario (cliente o trabajador) que será enviada al correo electrónico proporcionado.
+5. **Creación de contraseña y usuario:** El sistema creará una contraseña y usuario para el cliente o trabajador que será enviada al correo electrónico proporcionado.
 
 6. **Comentarios:** El sistema permitirá al cliente comentar sobre la calidad del servicio en el perfil del trabajador.
 
@@ -193,5 +193,5 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDcyNjA2ODddfQ==
+eyJoaXN0b3J5IjpbMTAxMjMyNTAxOF19
 -->
