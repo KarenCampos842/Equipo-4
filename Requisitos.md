@@ -2,41 +2,59 @@
 
 
 ## Requisitos funcionales        
-1. Registro: El sistema permitirá el registro de usuario (cliente o trabajador) con un correo electrónico, un número telefónico, una contraseña y una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar).
+1. Perfiles: El sistema permitirá al usuario seleccionar un perfil (cliente o trabajador), con el cuál iniciará su registro a la aplicación.
 
-2. Perfiles: El sistema creará perfiles para los trabajadores y clientes. En el perfil de cada trabajador se podrán reflejar detalles como los servicios que ofrece, su experiencia, sus calificaciones, su fotografía, sus horarios disponibles (son modificables), así como su rango de distancia en el que puede laborar.
+2. Registro del cliente: Si el usuario ha seleccionado el perfil de cliente, solicitará al usuario nombre, una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar), una fotografía actual (de los hombros para arriba), un número telefónico, un correo electrónico, una solicitud de acceso a su ubicación y aceptación de términos y condiciones.
 
-3. Filtro de trabajadores: Se podrá filtrar a los trabajadores por ubicación, calificaciones y por el servicio que se requiera. 
+3. Registro del trabajador: Si el usuario ha seleccionado el perfil de trabajador, el sistema mostrará un aviso en pantalla informándole del cobro mensual de una membresía por $75, teniendo un primer mes de prueba gratis con su registro en la aplicación. El sistema solicitará al usuario nombre, una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar), una fotografía actual (de los hombros para arriba), un número telefónico, un correo electrónico, dirección de su sitio de trabajo, su oficio (por ejemplo: “mecánico”), los trabajos que realiza (por ejemplo: frenos ABS, alineación y balanceo), un número de tarjeta de crédito, fecha de plástico, CVV, y aceptación a de términos y condiciones.
 
-4. Elección de trabajos: El sistema reconocerá la contratación del servicio cuando el trabajador lo acepte (el trabajador puede no aceptar el trabajo). 
+4. Cobro de membresía:  Cumplido el mes de prueba gratis en la aplicación, el sistema cobrará mensualmente de la tarjeta proporcionada por el trabajador $75 correspondientes a la membresía hasta la cancelación de la cuenta.
 
-5. Chat: El sistema contará con un chat para que el empleador pueda adquirir cotizaciones del servicio y así decidir si lo acepta o no. 
+5. Creación de contraseña: El sistema creará una contraseña para el usuario (cliente o trabajador) que será enviada al correo electrónico proporcionado.
 
-6. Calificaciones: Al finalizar cada servicio el sistema le permitirá al empleador calificar y/o comentar el desempeño del trabajador. 
+6. Comentarios: El sistema permitirá al cliente comentar sobre la calidad del servicio en el perfil del trabajador.
 
-7. Ranking:Tendrá un ranking de los trabajadores mejor calificados. 
+7. Calificaciones: Basado en una escala de cinco estrellas, el sistema permitirá al usuario (cliente o trabajador) calificar la calidad de su experiencia (una estrella es la calificación más baja, cinco estrellas la máxima). Su calificación será el promedio de todas las calificaciones recibidas.
 
-8. Reportes: Se contará con un sistema de reporte por estafas, robos o incongruencias en el servicio.
+8. Creación del perfil de cliente: El sistema creará el perfil del cliente, el cual contendrá: fotografía del usuario, nombre y calificación.
 
-9. Penalizacion: El sistema contará con un sistema de "Karma" en el que, si el empleador o el trabajador incumple con lo acordado o cancela sin previo aviso, se sumará un punto a su "karma", el cual se verá reflejado en los perfiles de cada empleador y trabajador.
+9. Creación del perfil de trabajador: El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, nombre, oficio, un listado de los trabajos que realiza, dirección de su sitio de trabajo, calificaciones y comentarios de clientes.
 
-10. Agenda: Contará con una agenda con recordatorios y alarmas para los trabajadores para organizarse sin afectar a los usuarios. 
+10. Búsqueda: El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio, por ejemplo: “mecánico”.
+
+11. Filtro: El sistema filtrará los perfiles de los trabajadores con base a la búsqueda del cliente. Mostrará en pantalla al cliente un listado de trabajadores según su oficio, calificación (de mayor a menor promedio) y ubicación (de mayor a menor proximidad).
+
+12. Elección del trabajador: El cliente podrá seleccionar el trabajador que prefiera de la lista desplegada, visualizar su perfil, elegir activar el chat con el trabajador y contratar su servicio.
+
+13. Chat: El sistema contará con una opción de chat, el cual será activado por el cliente, por el medio del cual, trabajador y cliente podrán acordar precios, trabajos específicos, agendar citas y subir imágenes.
+
+14. Contratación del servicio: El sistema mostrará al cliente una opción para contratar el servicio. Cuando el cliente elija esta opción, se hará llegar una notificación al trabajador preguntando si desea o no aceptar el trabajo. La notificación irá acompañada con una opción para visualizar el perfil y la ubicación del cliente. El sistema reconocerá la contratación del servicio cuando el trabajador lo acepte.
+
+15. Calificación del cliente: Una vez que se ha contratado el servicio, el sistema mostrará al trabajador una opción para calificar al cliente.
+
+16. Finalización del servicio: Una vez que se ha contratado el servicio, el sistema mostrará al cliente una opción para indicar cuando el trabajo se haya realizado. Al seleccionarla, se mostrará una ventana que le permitirá al cliente calificar al trabajador, publicar un comentario y reportar al trabajador en caso de no haberse presentado.
+
+17. Reportes: Cuando el cliente levante un reporte, el sistema notificará al trabajador. Si el trabajador acumula 5 reportes, su cuenta será cancelada.
+
+18. Cancelación del servicio: Una vez contratado el servicio, el sistema mostrará al cliente y trabajador una opción para cancelarlo. Si el usuario selecciona la opción, el sistema solicitará la razón de la cancelación. Si el usuario realiza 3 cancelaciones consecutivas, su cuenta será cancelada.
+
+19. Cancelación de la cuenta por parte del usuario: El sistema permitirá al usuario la cancelación de su cuenta en cualquier momento.
 
 ## Requisitos no funcionales
 
-11. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 (por los requisitos que manejaremos y las funciones del sistema).
+20. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 (por los requisitos que manejaremos y las funciones del sistema).
 
-12.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (validando la identificación oficial proporcionada).
+21.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (validando la identificación oficial proporcionada).
  
-13.  El sistema debe ser fácil de mantener y actualizar (dándole mantenimiento).
+22.  El sistema debe ser fácil de mantener y actualizar (dándole mantenimiento).
  
-14.  El sistema debe estar disponible cuando se requiera (darle mantenimiento solo en horarios de baja demanda).
+23.  El sistema debe estar disponible cuando se requiera (darle mantenimiento solo en horarios de baja demanda).
 
-15.  El sistema debe ser intuitivo y amigable para la mayoría de usuarios (colocar imágenes fáciles de entender y simbología básica).
+24.  El sistema debe ser intuitivo y amigable para la mayoría de usuarios (colocar imágenes fáciles de entender y simbología básica).
 
-16.  El sistema debe ser confiable y cumplir con los requisitos del usuario (asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados asi como las identificaciones oficiales del trabajador).
+25.  El sistema debe ser confiable y cumplir con los requisitos del usuario (asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados asi como las identificaciones oficiales del trabajador).
 
-17.  Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal (verificando los servicios continuamente).
+26.  Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal (verificando los servicios continuamente).
 
 ## Priorización
 ###  Tabla MosCow[^1]
@@ -176,3 +194,6 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTYyOTc2NzQzXX0=
+-->
