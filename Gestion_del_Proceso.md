@@ -5,6 +5,7 @@
 
 **Jueves 18 de septiembre de 2023 (Sprint planning)**<br> Durante la reunión se discutió sobre la monetización con el proyecto. Finalmente, se optó por cobrar una membresía al trabajador.
 Como resultado de la reunión, se decidió cambiar los requerimientos funcionales, y se asignaron tareas para el segundo sprint.
+
 <br>**Producto final:** 
 
  - Actualización de requerimientos (Karen): Requisitos.md
@@ -15,5 +16,5 @@ Como resultado de la reunión, se decidió cambiar los requerimientos funcionale
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwNzU2NzYyXX0=
+eyJoaXN0b3J5IjpbLTE0MjkxNzc2MjBdfQ==
 -->
