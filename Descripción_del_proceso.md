@@ -7,7 +7,7 @@
 
  Durante una reunión de equipo discutimos las ideas  de proyecto de cada integrante para finalmente escoger la de nuestro compañero Hansony (**Workflash**).
  ### Herramientas utilizadas
- WhatsApp, Teams, GitHub, GitKraken, StackEdit.
+ WhatsApp, Teams, GitHub, GitKraken, StackEdit, Figma.
   ### Metodología utilizada: SCRUM[^1].
   ## Roles
   ### Scrum Team (equipo de trabajo)
@@ -155,6 +155,5 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIyMjUyMDgsLTE0ODYzMjkzODYsLT
-E5ODgwMjM4NThdfQ==
+eyJoaXN0b3J5IjpbMTE2NDQ0NjY5Nl19
 -->
