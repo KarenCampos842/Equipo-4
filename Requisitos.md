@@ -1,7 +1,7 @@
 <h1>REQUISITOS</h1>
 
 
-## Requisitos funcionales        
+## Requisitos funcionales
 1. **Perfiles:** El sistema permitirá al usuario seleccionar un perfil (cliente o trabajador), con el cuál iniciará su registro a la aplicación.
 
 2. **Registro del cliente:** Si el usuario ha seleccionado el perfil de cliente, solicitará al usuario nombre, una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar), una fotografía actual (de los hombros para arriba), un número telefónico, un correo electrónico, una solicitud de acceso a su ubicación y aceptación de términos y condiciones.
@@ -10,7 +10,7 @@
 
 4. **Cobro de membresía:**  Cumplido el mes de prueba gratis en la aplicación, el sistema cobrará mensualmente de la tarjeta proporcionada por el trabajador $75 correspondientes a la membresía hasta la cancelación de la cuenta.
 
-5. **Creación de contraseña y usuario:** El sistema creará una contraseña y usuario para el cliente o trabajador que será enviada al correo electrónico proporcionado.
+5. **Creación de contraseña y usuario:** El sistema creará una contraseña y usuario para el cliente o trabajador que será enviada al correo electrónico proporcionado. Con estos datos podrá inciar su seción en la aplicación. 
 
 6. **Comentarios:** El sistema permitirá al cliente comentar sobre la calidad del servicio en el perfil del trabajador.
 
