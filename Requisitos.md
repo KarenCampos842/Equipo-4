@@ -10,7 +10,7 @@
 
 4. **Cobro de membresía:**  Cumplido el mes de prueba gratis en la aplicación, el sistema cobrará mensualmente de la tarjeta proporcionada por el trabajador $75 correspondientes a la membresía hasta la cancelación de la cuenta.
 
-5. **Creación de contraseña y usuario:** El sistema creará una contraseña y usuario para el cliente o trabajador que será enviada al correo electrónico proporcionado. Con estos datos podrá iniciar su sesión en la aplicación. 
+5. **Creación de contraseña y usuario:** El sistema creará una contraseña y usuario para el cliente o trabajador que será enviada al correo electrónico proporcionado. 
 
 6. **Comentarios:** El sistema permitirá al cliente comentar sobre la calidad del servicio en el perfil del trabajador.
 
@@ -19,26 +19,28 @@
 8. **Creación del perfil de cliente:** El sistema creará el perfil del cliente, el cual contendrá: fotografía del usuario, nombre y calificación.
 
 9. **Creación del perfil de trabajador:** El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, nombre, oficio, un listado de los trabajos que realiza, dirección de su local (opcional), zona de trabajo, calificaciones y comentarios de clientes.
+ 
+11. Inicio de sesión:  El usuario podrá iniciar sesión proporcionando su nombre de usuario y contraseña asignados. Al entrar, el sistema solicitará su ubicación. 
 
-10. **Búsqueda:** El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio, por ejemplo: “mecánico”.
+12. **Búsqueda:** El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio, por ejemplo: “mecánico”.
 
-11. **Filtro:** El sistema filtrará los perfiles de los trabajadores con base a la búsqueda del cliente. Mostrará en pantalla al cliente un listado de trabajadores según su oficio, y ubicación (de mayor a menor proximidad).
+13. **Filtro:** El sistema filtrará los perfiles de los trabajadores con base a la búsqueda del cliente. Mostrará en pantalla al cliente un listado de trabajadores según su oficio, y ubicación (de mayor a menor proximidad).
 
-12. **Elección del trabajador:** El cliente podrá seleccionar el trabajador que prefiera de la lista desplegada, visualizar su perfil, elegir activar el chat con el trabajador y contratar su servicio.
+14. **Elección del trabajador:** El cliente podrá seleccionar el trabajador que prefiera de la lista desplegada, visualizar su perfil, elegir activar el chat con el trabajador y contratar su servicio.
 
-13. **Chat:** El sistema contará con una opción de chat, el cual será activado por el cliente, por el medio del cual, trabajador y cliente podrán acordar precios, trabajos específicos, agendar citas y subir imágenes.
+15. **Chat:** El sistema contará con una opción de chat, el cual será activado por el cliente, por el medio del cual, trabajador y cliente podrán acordar precios, trabajos específicos, agendar citas y subir imágenes.
 
-14. **Contratación del servicio:** El sistema mostrará al cliente una opción para contratar el servicio. Cuando el cliente elija esta opción, se hará llegar una notificación al trabajador preguntando si desea o no aceptar el trabajo. La notificación irá acompañada con una opción para visualizar el perfil y la ubicación del cliente. El sistema reconocerá la contratación del servicio cuando el trabajador lo acepte.
+16. **Contratación del servicio:** El sistema mostrará al cliente una opción para contratar el servicio. Cuando el cliente elija esta opción, se hará llegar una notificación al trabajador preguntando si desea o no aceptar el trabajo. La notificación irá acompañada con una opción para visualizar el perfil y la ubicación del cliente. El sistema reconocerá la contratación del servicio cuando el trabajador lo acepte.
 
-15. **Calificación del cliente:** Una vez que se ha contratado el servicio, el sistema mostrará al trabajador una opción para calificar al cliente.
+17. **Calificación del cliente:** Una vez que se ha contratado el servicio, el sistema mostrará al trabajador una opción para calificar al cliente.
 
-16. **Finalización del servicio:** Una vez que se ha contratado el servicio, el sistema mostrará al cliente una opción para indicar cuando el trabajo se haya realizado. Al seleccionarla, se mostrará una ventana que le permitirá al cliente calificar al trabajador, publicar un comentario y reportar al trabajador en caso de no haberse presentado.
+18. **Finalización del servicio:** Una vez que se ha contratado el servicio, el sistema mostrará al cliente una opción para indicar cuando el trabajo se haya realizado. Al seleccionarla, se mostrará una ventana que le permitirá al cliente calificar al trabajador, publicar un comentario y reportar al trabajador en caso de no haberse presentado.
 
-17. **Reportes:** Cuando el cliente levante un reporte, el sistema notificará al trabajador. Si el trabajador acumula 5 reportes, su cuenta será cancelada.
+19. **Reportes:** Cuando el cliente levante un reporte, el sistema notificará al trabajador. Si el trabajador acumula 5 reportes, su cuenta será cancelada.
 
-18. **Cancelación del servicio:** Una vez contratado el servicio, el sistema mostrará al cliente y trabajador una opción para cancelarlo. Si el usuario selecciona la opción, el sistema solicitará la razón de la cancelación. Si el usuario realiza 3 cancelaciones consecutivas, su cuenta será cancelada.
+20. **Cancelación del servicio:** Una vez contratado el servicio, el sistema mostrará al cliente y trabajador una opción para cancelarlo. Si el usuario selecciona la opción, el sistema solicitará la razón de la cancelación. Si el usuario realiza 3 cancelaciones consecutivas, su cuenta será cancelada.
 
-19. **Cancelación de la cuenta por parte del usuario:** El sistema permitirá al usuario la cancelación de su cuenta en cualquier momento.
+21. **Cancelación de la cuenta por parte del usuario:** El sistema permitirá al usuario la cancelación de su cuenta en cualquier momento.
 
 ## Requisitos no funcionales
 
@@ -195,7 +197,7 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjMyNjY3Myw5OTY1MTMwOTEsLTU4MD
+eyJoaXN0b3J5IjpbLTM1OTMwMDQzMyw5OTY1MTMwOTEsLTU4MD
 Q1MTQ3OSw1MDgyMjU2NTAsNjk1NzgzNTM0LC02ODAzMTk3NjYs
 MTAxMjMyNTAxOF19
 -->
