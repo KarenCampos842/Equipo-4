@@ -34,7 +34,7 @@
 
 17. **Calificación del cliente:** Una vez que se ha contratado el servicio, el sistema mostrará al trabajador una opción para calificar al cliente.
 
-18. **Finalización del servicio:** Una vez que se ha contratado el servicio, el sistema mostrará al cliente una opción para indicar cuando el trabajo se haya realizado. Al seleccionarla, se mostrará una ventana que le permitirá al cliente calificar al trabajador, publicar un comentario y reportar al trabajador en caso de no haberse presentado.
+18. **Finalización del servicio:** Una vez que se ha contratado el servicio, el sistema mostrará al cliente una opción para indicar cuando el trabajo se haya realizado. Al seleccionarla, se mostrará una ventana que le permitirá al cliente calificar al trabajador, publicar un comentario (opcional) y reportar al trabajador en caso de no haberse presentado.
 
 19. **Reportes:** Cuando el cliente levante un reporte, el sistema notificará al trabajador. Si el trabajador acumula 5 reportes, su cuenta será cancelada.
 
@@ -197,7 +197,7 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTU2MzkxMiwtMzU5MzAwNDMzLDk5Nj
+eyJoaXN0b3J5IjpbMTY5OTE2MTM5OCwtMzU5MzAwNDMzLDk5Nj
 UxMzA5MSwtNTgwNDUxNDc5LDUwODIyNTY1MCw2OTU3ODM1MzQs
 LTY4MDMxOTc2NiwxMDEyMzI1MDE4XX0=
 -->
