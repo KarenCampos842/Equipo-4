@@ -40,7 +40,7 @@
 
 20. **Cancelación del servicio:** Una vez contratado el servicio, el sistema mostrará al cliente y trabajador una opción para cancelarlo. Si el usuario selecciona la opción, el sistema solicitará la razón de la cancelación. Si el usuario realiza 3 cancelaciones consecutivas, su cuenta será cancelada.
 
-21. **Cancelación de la cuenta por parte del :** El sistema permitirá al usuario la cancelación de su cuenta en cualquier momento.
+21. **Cancelación de la cuenta por parte del trabajador:** El sistema permitirá al usuario la cancelación de su cuenta en cualquier momento.
 
 ## Requisitos no funcionales
 
@@ -197,7 +197,7 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDkxNzM5OCwtMzU5MzAwNDMzLDk5Nj
+eyJoaXN0b3J5IjpbLTk5MjA0MTU2NCwtMzU5MzAwNDMzLDk5Nj
 UxMzA5MSwtNTgwNDUxNDc5LDUwODIyNTY1MCw2OTU3ODM1MzQs
 LTY4MDMxOTc2NiwxMDEyMzI1MDE4XX0=
 -->
