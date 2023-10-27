@@ -4,7 +4,7 @@
 ## Requisitos funcionales
 1. **Perfiles:** El sistema permitirá al usuario seleccionar un perfil (cliente o trabajador), con el cuál iniciará su registro a la aplicación.
 
-2. **Registro del cliente:** Si el usuario ha seleccionado el perfil de cliente, solicitará al usuario nombre, una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar), una fotografía actual (de los hombros para arriba), un número telefónico, un correo electrónico, una solicitud de acceso a su ubicación y aceptación de términos y condiciones.
+2. **Registro del cliente:** Si el usuario ha seleccionado el perfil de cliente, solicitará al usuario nombre, una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar), una fotografía actual (de los hombros para arriba), un número telefónico, un correo electrónico y aceptación de términos y condiciones.
 
 3. **Registro del trabajador:** Si el usuario ha seleccionado el perfil de trabajador, el sistema mostrará un aviso en pantalla informándole del cobro mensual de una membresía por $75, teniendo un primer mes de prueba gratis con su registro en la aplicación. El sistema solicitará al usuario nombre(s) y apellido(s), una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar), una fotografía actual (imagen), un número telefónico, un correo electrónico, zona de trabajo (seleccionar municipio de una lista presentada por el sistema), su oficio (seleccionar de una lista presentada por el sistema), descripción breve (255 caracteres) de los trabajos que realiza (por ejemplo: frenos ABS, alineación y balanceo), un número de tarjeta de crédito, fecha (mes, año) de vencimiento de la tarjeta (seleccionar de una lista presentada por el sistema), CVV, y aceptación a de términos y condiciones.
 
@@ -197,9 +197,9 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjMxMzM4NCwtNjA1ODg2NDUwLC0xOD
-A5NDgwMTE3LDIwODM4MzU4NzgsMTU5OTEzNDI5NCwtOTkyMDQx
-NTY0LC0zNTkzMDA0MzMsOTk2NTEzMDkxLC01ODA0NTE0NzksNT
-A4MjI1NjUwLDY5NTc4MzUzNCwtNjgwMzE5NzY2LDEwMTIzMjUw
-MThdfQ==
+eyJoaXN0b3J5IjpbNDI2NTcwMjUzLDE2OTIzMTMzODQsLTYwNT
+g4NjQ1MCwtMTgwOTQ4MDExNywyMDgzODM1ODc4LDE1OTkxMzQy
+OTQsLTk5MjA0MTU2NCwtMzU5MzAwNDMzLDk5NjUxMzA5MSwtNT
+gwNDUxNDc5LDUwODIyNTY1MCw2OTU3ODM1MzQsLTY4MDMxOTc2
+NiwxMDEyMzI1MDE4XX0=
 -->
