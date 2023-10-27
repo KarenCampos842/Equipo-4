@@ -10,7 +10,7 @@
 
 4. **Cobro de membresía:**  Cumplido el mes de prueba gratis en la aplicación, el sistema cobrará mensualmente de la tarjeta proporcionada por el trabajador $75 correspondientes a la membresía hasta la cancelación de la cuenta.
 
-5. **Creación de contraseña y usuario:** El sistema creará una contraseña y usuario para el cliente o trabajador que será enviada al correo electrónico proporcionado. 
+5. **Creación de contraseña:** El sistema creará una contraseña y para el cliente o trabajador que será enviada al correo electrónico proporcionado. 
 
 6. **Comentarios:** El sistema permitirá al cliente comentar sobre la calidad del servicio en el perfil del trabajador.
 
@@ -20,7 +20,7 @@
 
 9. **Creación del perfil de trabajador:** El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, nombre, oficio, descripción de los trabajos que realiza, dirección de su local (opcional), zona de trabajo, calificaciones y comentarios de clientes.
  
-11. **Inicio de sesión:**  El usuario podrá iniciar sesión proporcionando su nombre de usuario y contraseña asignados. Al entrar, el sistema solicitará su ubicación (en caso del cliente). 
+11. **Inicio de sesión:**  El usuario podrá iniciar sesión proporcionando el correo con el que se registró la y la contraseña asignada. Al entrar, el sistema solicitará su ubicación (en caso del cliente). 
 
 12. **Búsqueda:** El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio, por ejemplo: “mecánico”.
 
@@ -197,9 +197,9 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTY3MDEyMywxNjkyMzEzMzg0LC02MD
-U4ODY0NTAsLTE4MDk0ODAxMTcsMjA4MzgzNTg3OCwxNTk5MTM0
-Mjk0LC05OTIwNDE1NjQsLTM1OTMwMDQzMyw5OTY1MTMwOTEsLT
-U4MDQ1MTQ3OSw1MDgyMjU2NTAsNjk1NzgzNTM0LC02ODAzMTk3
-NjYsMTAxMjMyNTAxOF19
+eyJoaXN0b3J5IjpbMTUzMDkzNjQ5OSwtMjY5NjcwMTIzLDE2OT
+IzMTMzODQsLTYwNTg4NjQ1MCwtMTgwOTQ4MDExNywyMDgzODM1
+ODc4LDE1OTkxMzQyOTQsLTk5MjA0MTU2NCwtMzU5MzAwNDMzLD
+k5NjUxMzA5MSwtNTgwNDUxNDc5LDUwODIyNTY1MCw2OTU3ODM1
+MzQsLTY4MDMxOTc2NiwxMDEyMzI1MDE4XX0=
 -->
