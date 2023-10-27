@@ -18,7 +18,7 @@
 
 8. **Creación del perfil de cliente:** El sistema creará el perfil del cliente, el cual contendrá: fotografía del usuario, nombre y calificación.
 
-9. **Creación del perfil de trabajador:** El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, nombre, oficio, un listado de los trabajos que realiza, dirección de su sitio de trabajo, calificaciones y comentarios de clientes.
+9. **Creación del perfil de trabajador:** El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, nombre, oficio, un listado de los trabajos que realiza, dirección de su local (opcional), zona de trabajo, calificaciones y comentarios de clientes.
 
 10. **Búsqueda:** El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio, por ejemplo: “mecánico”.
 
@@ -195,6 +195,6 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4MjI1NjUwLDY5NTc4MzUzNCwtNjgwMz
-E5NzY2LDEwMTIzMjUwMThdfQ==
+eyJoaXN0b3J5IjpbLTU4MDQ1MTQ3OSw1MDgyMjU2NTAsNjk1Nz
+gzNTM0LC02ODAzMTk3NjYsMTAxMjMyNTAxOF19
 -->
