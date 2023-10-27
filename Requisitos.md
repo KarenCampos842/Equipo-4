@@ -24,7 +24,7 @@
 
 12. **Búsqueda:** El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio, por ejemplo: “mecánico”.
 
-13. **Filtro:** El sistema filtrará los perfiles de los trabajadores con base a la búsqueda del cliente. Mostrará en pantalla al cliente un listado de trabajadores según su oficio, y ubicación (de mayor a menor proximidad).
+13. **Filtro:** El sistema filtrará los perfiles de los trabajadores con base a la búsqueda del cliente. Mostrará en pantalla al cliente un listado de trabajadores según su oficio, calificación(de mayor a menor promedio) y ubicación (municipio más cercano).
 
 14. **Elección del trabajador:** El cliente podrá seleccionar el trabajador que prefiera de la lista desplegada, visualizar su perfil, elegir activar el chat con el trabajador y contratar su servicio.
 
@@ -197,7 +197,7 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjczNjQyNSwtOTkyMDQxNTY0LC0zNT
+eyJoaXN0b3J5IjpbMTU5OTEzNDI5NCwtOTkyMDQxNTY0LC0zNT
 kzMDA0MzMsOTk2NTEzMDkxLC01ODA0NTE0NzksNTA4MjI1NjUw
 LDY5NTc4MzUzNCwtNjgwMzE5NzY2LDEwMTIzMjUwMThdfQ==
 -->
