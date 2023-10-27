@@ -6,7 +6,7 @@
 
 2. **Registro del cliente:** Si el usuario ha seleccionado el perfil de cliente, solicitará al usuario nombre, una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar), una fotografía actual (de los hombros para arriba), un número telefónico, un correo electrónico, una solicitud de acceso a su ubicación y aceptación de términos y condiciones.
 
-3. **Registro del trabajador:** Si el usuario ha seleccionado el perfil de trabajador, el sistema mostrará un aviso en pantalla informándole del cobro mensual de una membresía por $75, teniendo un primer mes de prueba gratis con su registro en la aplicación. El sistema solicitará al usuario nombre, una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar), una fotografía actual (de los hombros para arriba), un número telefónico, un correo electrónico, dirección de trabajo (en caso de tener un local), zona de trabajo (seleccionar municipio(s) de una lista presentada por el sistema), su oficio (por ejemplo: “mecánico”), los trabajos que realiza (por ejemplo: frenos ABS, alineación y balanceo), un número de tarjeta de crédito, fecha de plástico, CVV, y aceptación a de términos y condiciones.
+3. **Registro del trabajador:** Si el usuario ha seleccionado el perfil de trabajador, el sistema mostrará un aviso en pantalla informándole del cobro mensual de una membresía por $75, teniendo un primer mes de prueba gratis con su registro en la aplicación. El sistema solicitará al usuario nombre, una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar), una fotografía actual (de los hombros para arriba), un número telefónico, un correo electrónico, dirección de trabajo (en caso de tener un local), zona de trabajo (seleccionar municipio de una lista presentada por el sistema), su oficio (por ejemplo: “mecánico”), los trabajos que realiza (por ejemplo: frenos ABS, alineación y balanceo), un número de tarjeta de crédito, fecha de plástico, CVV, y aceptación a de términos y condiciones.
 
 4. **Cobro de membresía:**  Cumplido el mes de prueba gratis en la aplicación, el sistema cobrará mensualmente de la tarjeta proporcionada por el trabajador $75 correspondientes a la membresía hasta la cancelación de la cuenta.
 
@@ -20,7 +20,7 @@
 
 9. **Creación del perfil de trabajador:** El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, nombre, oficio, un listado de los trabajos que realiza, dirección de su local (opcional), zona de trabajo, calificaciones y comentarios de clientes.
  
-11. Inicio de sesión:  El usuario podrá iniciar sesión proporcionando su nombre de usuario y contraseña asignados. Al entrar, el sistema solicitará su ubicación. 
+11. **Inicio de sesión:**  El usuario podrá iniciar sesión proporcionando su nombre de usuario y contraseña asignados. Al entrar, el sistema solicitará su ubicación (en caso del cliente). 
 
 12. **Búsqueda:** El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio, por ejemplo: “mecánico”.
 
@@ -197,7 +197,7 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0MDg2ODIxLC0zNTkzMDA0MzMsOTk2NT
-EzMDkxLC01ODA0NTE0NzksNTA4MjI1NjUwLDY5NTc4MzUzNCwt
-NjgwMzE5NzY2LDEwMTIzMjUwMThdfQ==
+eyJoaXN0b3J5IjpbLTQ0NTU2MzkxMiwtMzU5MzAwNDMzLDk5Nj
+UxMzA5MSwtNTgwNDUxNDc5LDUwODIyNTY1MCw2OTU3ODM1MzQs
+LTY4MDMxOTc2NiwxMDEyMzI1MDE4XX0=
 -->
