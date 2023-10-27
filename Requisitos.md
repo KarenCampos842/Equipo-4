@@ -6,7 +6,7 @@
 
 2. **Registro del cliente:** Si el usuario ha seleccionado el perfil de cliente, solicitará al usuario nombre, una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar), una fotografía actual (de los hombros para arriba), un número telefónico, un correo electrónico, una solicitud de acceso a su ubicación y aceptación de términos y condiciones.
 
-3. **Registro del trabajador:** Si el usuario ha seleccionado el perfil de trabajador, el sistema mostrará un aviso en pantalla informándole del cobro mensual de una membresía por $75, teniendo un primer mes de prueba gratis con su registro en la aplicación. El sistema solicitará al usuario nombre, una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar), una fotografía actual (de los hombros para arriba), un número telefónico, un correo electrónico, dirección de trabajo ( en caso de tener un local), zona de trabajo (seleccionar municipio(s) de una lista presentada por el sistema), su oficio (por ejemplo: “mecánico”), los trabajos que realiza (por ejemplo: frenos ABS, alineación y balanceo), un número de tarjeta de crédito, fecha de plástico, CVV, y aceptación a de términos y condiciones.
+3. **Registro del trabajador:** Si el usuario ha seleccionado el perfil de trabajador, el sistema mostrará un aviso en pantalla informándole del cobro mensual de una membresía por $75, teniendo un primer mes de prueba gratis con su registro en la aplicación. El sistema solicitará al usuario nombre, una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar), una fotografía actual (de los hombros para arriba), un número telefónico, un correo electrónico, dirección de trabajo (en caso de tener un local), zona de trabajo (seleccionar municipio(s) de una lista presentada por el sistema), su oficio (por ejemplo: “mecánico”), los trabajos que realiza (por ejemplo: frenos ABS, alineación y balanceo), un número de tarjeta de crédito, fecha de plástico, CVV, y aceptación a de términos y condiciones.
 
 4. **Cobro de membresía:**  Cumplido el mes de prueba gratis en la aplicación, el sistema cobrará mensualmente de la tarjeta proporcionada por el trabajador $75 correspondientes a la membresía hasta la cancelación de la cuenta.
 
@@ -197,7 +197,7 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTMwMDQzMyw5OTY1MTMwOTEsLTU4MD
-Q1MTQ3OSw1MDgyMjU2NTAsNjk1NzgzNTM0LC02ODAzMTk3NjYs
-MTAxMjMyNTAxOF19
+eyJoaXN0b3J5IjpbMzI0MDg2ODIxLC0zNTkzMDA0MzMsOTk2NT
+EzMDkxLC01ODA0NTE0NzksNTA4MjI1NjUwLDY5NTc4MzUzNCwt
+NjgwMzE5NzY2LDEwMTIzMjUwMThdfQ==
 -->
