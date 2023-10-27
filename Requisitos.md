@@ -55,7 +55,8 @@
 25.  El sistema debe ser confiable y cumplir con los requisitos del usuario (asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados asi como las identificaciones oficiales del trabajador).
 
 26.  Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal (verificando los servicios continuamente).
-27. **Recuperación de contraseña**:  El  sistema enviará una nueva contraseña al usuario podrá recuperar su contraseña al proporcionar un correo
+
+27. Recuperación de contraseña:  El usuario podrá recuperar su contraseña. El sistema solicitará al usuario un correo al que enviará la contraseña. 
 
 ## Priorización
 ###  Tabla MosCow[^1]
@@ -194,6 +195,6 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1OTUzMzY2LDY5NTc4MzUzNCwtNjgwMz
+eyJoaXN0b3J5IjpbMzg3MTA4MTU3LDY5NTc4MzUzNCwtNjgwMz
 E5NzY2LDEwMTIzMjUwMThdfQ==
 -->
