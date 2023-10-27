@@ -63,7 +63,7 @@
 
 | Must Have| Should Have | Could Have |Won't Have|
 |---------|---------|---------|---------|
-|1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 14, 18, 19|6, 7, 13, 15, 16, 17|||
+|1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 14, 18, 19|6, 7, 13, 15, 16, 17,27|||
 
 
 
@@ -195,6 +195,6 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3MTA4MTU3LDY5NTc4MzUzNCwtNjgwMz
+eyJoaXN0b3J5IjpbNTA4MjI1NjUwLDY5NTc4MzUzNCwtNjgwMz
 E5NzY2LDEwMTIzMjUwMThdfQ==
 -->
