@@ -202,7 +202,7 @@ Utilizar la siguiente plantilla:
  - **Competencias genéricas:** Argumentar de qué forma se promueven las competencias genéricas a través de actividades específicas del desarrollo del producto.
  - **Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto.
 
-***NOTA:***  Leer el Plan de Estudios de la Licenciatura en Ingeniería de Software para realizar las actividades. 
+***NOTA:***  Leer el Plan de Estudios de la Licenciatura en Ingeniería de Software[^4] para realizar las actividades. 
 
 ## Scrum team meeting
  Karen se encargará de realizar reuniones con el equipo vía Teams o de forma presencial de no más de 15 minutos  para monitorear el trabajo realizado. Las reuniones tendrán lugar todos los días, exceptuando fines de semana hasta la entrega de la presentación del primer avance.
@@ -219,13 +219,12 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 [^2]: Scrum Manager®.(2022).*Historias de Usuario*. https://www.scrummanager.com/files/scrum_manager_historias_usuario.pdf
 [^3]: Marco de Desarrollo de la Junta de Andalucía.(s.f).*Guía para la redacción de casos de uso*. Junta de Andalucía. https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416
-
-
+[^4]: UADY. (2016). _Plan de Estudios de la Licenciatura en Ingeniería de Software._  https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA1MDcxMTgsMTM4OTM5MjM1NiwtND
-E5ODc4NzExLDEyODg1MDMzODAsMTcxMDM5ODM5NCwxMTE2NTgw
-MDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMS
-wtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbMTU2NzcwMjU2OSwxMzg5MzkyMzU2LC00MT
+k4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMTY1ODAw
+OTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC
+0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
 -->
