@@ -44,9 +44,12 @@
 <p><strong>Campos García Karen Elizabeth.</strong><br>Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término tomando en consideración la metodología SCRUM.  Ayuda con cuestiones de organización y adicionalmente de asignación de tareas. Así mismo, será la encargada de aceptar los "pull request".</p>
 
 
-## Sprint planning (second sprint)
+## Sprint planning (second sprint) 
+### Duración del sprint: 2 semanas
+NOTA: Se encontrarán archivos para cada sección divididos por actividad en la branch de Segunda-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
 ### División del trabajo (basado en la lista de cotejo)
-NOTA: Se encontrarán archivos para cada sección divididos por actividad en la branch de Primera-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Primera-Entrega. 
+NOTA: Se encontrarán archivos para cada sección divididos por actividad en la branch de Segunda-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
+
 
 ### *Sección  "Producto"*
 
@@ -154,5 +157,5 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE4MDI5MiwxMTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbMTM0MTk3MjM1MSwxMTY0NDQ2Njk2XX0=
 -->
