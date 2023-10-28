@@ -137,7 +137,7 @@ Utilizar la siguiente plantilla:
        <td colspan="2">El sistema deberá comportarse como se describe en el siguiente caso de uso cuando ...</td> 
    </tr> 
      <tr>  
-      <td rowspan="3"><b>Excepción</b></td>
+      <td rowspan="4"><b>Excepciones</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -146,7 +146,7 @@ Utilizar la siguiente plantilla:
    <td>x</td> 
   </tr>     
   <tr>  
-  <td>2</td> 
+  <td>E.1</td> 
    <td>x</td> 
   </tr>          
  </table>           
@@ -228,7 +228,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5ODUxNzgyLDE3MTAzOTgzOTQsMTExNj
-U4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5
-MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbLTE0NjI1ODA5MjksMTcxMDM5ODM5NCwxMT
+E2NTgwMDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLTQ4Mjgw
+NjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
 -->
