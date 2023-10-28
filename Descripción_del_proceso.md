@@ -62,13 +62,13 @@
   
  - **Evolución del producto:** Resumen de los cambios completados del producto entre la primera y segunda entrega. Mencionar de manera sintetizada los cambios más significativos en los requerimientos y artefactos.
   
-  ***NOTA:*** Para realizar las actividades descritas con anterioridad revisar el documento <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md">Requisitos.md</a>  localizado en la rama de **Primera-Entrega** del repositorio del equipo.
+  ***NOTA:*** Para realizar la actividad descrita con anterioridad revisar el documento <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md">Requisitos.md</a>  localizado en la rama de **Primera-Entrega** del repositorio del equipo.
 
 ### *Sección "Requisitos"*
 
 **Responsables del apartado Evolución de requisitos"**
 
- 1. *Campos García Karen Elizabeth:* Evolución de requisitos-Requerimientos funcionales.
+ 1. *Campos García Karen Elizabeth:* Requerimientos funcionales.
  2. *Maldonado Medina Hansony de Jesús:* Evolución funcionales y Requisitos no funcionales.
  
 **Revisor de redacción de "Requisitos":** *Romero Poot Carlos Emmanuel.*
@@ -152,7 +152,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0MDQwNDMyLC02Mjc2ODM3ODcsLTE1Mj
-cyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2
-Njk2XX0=
+eyJoaXN0b3J5IjpbLTEzNzYxNDUwNDYsLTYyNzY4Mzc4NywtMT
+UyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0
+NDY2OTZdfQ==
 -->
