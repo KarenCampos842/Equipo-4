@@ -48,7 +48,7 @@
 ### Duración del sprint: 10 días
 
 ***NOTA:*** Se encontrarán archivos para cada sección en la que el trabajo está dividido (se dividió acorde a la lista de cotejo) en la branch de Segunda-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
-
+De igual forma deberán marcar como closed sus issues asignados
 
 **Corrector de redacción:** *Suárez Balam Brandon Emmanuel.*
 
@@ -247,8 +247,8 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDE4Nzc0NSwxMjg4NTAzMzgwLDE3MT
-AzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3Mjgz
-NzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl
-19
+eyJoaXN0b3J5IjpbNTE4NDU2NDkwLDEyODg1MDMzODAsMTcxMD
+M5ODM5NCwxMTE2NTgwMDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3
+OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX
+0=
 -->
