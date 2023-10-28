@@ -109,7 +109,7 @@ Utilizar la siguiente plantilla:
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
-       <td>poder recuperar mi contraseña</td> 
+       <td colspan="2">El sistema deberá comportarse</td> 
    </tr> 
      <tr>  
       <td><b>Para</b></td>  
@@ -204,7 +204,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjAxNzg5LDE3MTAzOTgzOTQsMTExNj
-U4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5
-MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbLTY5Mjg1NjExMywxNzEwMzk4Mzk0LDExMT
+Y1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2
+OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
 -->
