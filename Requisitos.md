@@ -383,7 +383,7 @@
 <table align=center>  
    <tr>  
       <th>Historia de usuario #10</th>  
-      <th>Contratación del servicio</th> 
+      <th>Aceptación del trabajo</th> 
    </tr> 
     <tr>  
       <td><b>Como</b></td>  
@@ -597,11 +597,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzYwNzgyMzQsNzQ1Mjk5NjAwLC01MT
-UzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyODksMTI2NDU2MzAy
-LC0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02NzA4MjQwNjEsND
-Q5Mzk1MzM2LC0xNDQ1MzI5OTE0LC03NTU0MDMwNjksLTIwODI5
-NzU2NTAsLTI3OTU1NzY0NCwtMTI1Mjg2Njg5NiwxNTMwOTM2ND
-k5LC0yNjk2NzAxMjMsMTY5MjMxMzM4NCwtNjA1ODg2NDUwLC0x
-ODA5NDgwMTE3XX0=
+eyJoaXN0b3J5IjpbLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNz
+Q1Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgy
+ODksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC
+02NzA4MjQwNjEsNDQ5Mzk1MzM2LC0xNDQ1MzI5OTE0LC03NTU0
+MDMwNjksLTIwODI5NzU2NTAsLTI3OTU1NzY0NCwtMTI1Mjg2Nj
+g5NiwxNTMwOTM2NDk5LC0yNjk2NzAxMjMsMTY5MjMxMzM4NCwt
+NjA1ODg2NDUwXX0=
 -->
