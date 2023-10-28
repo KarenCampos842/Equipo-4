@@ -5,7 +5,6 @@
 </div>
 <div>
 
- Durante una reunión de equipo discutimos las ideas  de proyecto de cada integrante para finalmente escoger la de nuestro compañero Hansony (**Workflash**).
  ### Herramientas utilizadas
  WhatsApp, Teams, GitHub, GitKraken, StackEdit, Figma.
   ### Metodología utilizada: SCRUM[^1].
@@ -45,7 +44,7 @@
 <p><strong>Campos García Karen Elizabeth.</strong><br>Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término tomando en consideración la metodología SCRUM.  Ayuda con cuestiones de organización y adicionalmente de asignación de tareas. Así mismo, será la encargada de aceptar los "pull request".</p>
 
 
-## Sprint planning (first sprint)
+## Sprint planning (second sprint)
 ### División del trabajo (basado en la lista de cotejo)
 NOTA: Se encontrarán archivos para cada sección divididos por actividad en la branch de Primera-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Primera-Entrega. 
 
@@ -53,7 +52,7 @@ NOTA: Se encontrarán archivos para cada sección divididos por actividad en la 
 
 **Responsables**
 
- 1. *Rubén Moisés Loria Pech:* Descripción del producto y Usuarios/Clientes. 
+ 1. *Bran:* Descripción del producto y Usuarios/Clientes. 
  2. *Suárez Balam Brandon Emmanuel:* Propuesta de valor. 
  
 **Revisor de redacción de "Producto":** *Suárez Balam Brandon Emmanuel.*
@@ -155,5 +154,5 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbLTE4MjE4MDI5MiwxMTY0NDQ2Njk2XX0=
 -->
