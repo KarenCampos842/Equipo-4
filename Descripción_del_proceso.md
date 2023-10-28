@@ -83,11 +83,10 @@
  2. *Maldonado Medina Hansony de Jesús:* Casos de uso basados en las historias de usuario número 1, 2, 8 y 15.
  3. *Romero Poot Carlos Emmanuel:* Casos de uso basados en las historias de usuario número 11, 12 , 13 y 14.
   4. *Rubén Moisés Loria Pech:* Casos de uso basados en las historias de usuario número 6, 7, 9  y 10.
-  5. *Rubén Moisés Loria Pech:* Casos de uso basados en las historias de usuario número 6, 7, 9  y 10.
-
-
+  5. *Suárez Balam Brandon Emmanuel* Casos de uso basados en las historias de usuario número 6, 7, 9  y 10.
+  
 **Actividades**
- - **Requerimientos funcionales:** Modificar los requerimientos para una mayor claridad.
+ - **Historias de usuario:**  
  - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad.
  - **Priorización:** Priorizar los  requerimientos funcionales utilizando la metodología de *"MoSCoW".* 
 
@@ -165,7 +164,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzc2OTU1MywxMTE2NTgwMDk2LC02Mj
+eyJoaXN0b3J5IjpbLTU1NjMyODk0NSwxMTE2NTgwMDk2LC02Mj
 c2ODM3ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEz
 OTYwMSwxMTY0NDQ2Njk2XX0=
 -->
