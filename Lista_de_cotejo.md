@@ -1,7 +1,7 @@
 
 <h1>Lista de cotejo</h1>
 <table align="center">  
- <body><tr>
+  <tr>
   <th></th>
   <th>Indicador</th>
   <th>Descripción</th>
@@ -118,5 +118,5 @@ Opcional: Utilizan métodos ágiles. Se distingue de forma clara que utilizan un
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTI2MTc2NSwxMTgwMzUwMzhdfQ==
+eyJoaXN0b3J5IjpbLTE4OTY5MzUzNTEsMTE4MDM1MDM4XX0=
 -->
