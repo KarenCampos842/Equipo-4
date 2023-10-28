@@ -179,9 +179,9 @@ Utilizar la siguiente plantilla:
  - Escribir una bitácora de las reuniones de equipo mencionando brevemente acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
  - Realizar una tabla **(a forma de sprint backlog)** que contenga las actividades a realizar durante el sprint, responsables, el estado de la tarea (finalizada, en proceso), fecha de inicio, fechas límite de entrega y fecha de entrega. 
  - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, mediano, alto).  
- - **Organización y Documentación del Repositorio:** Crear archivos en formato StackEdit en la branch de "*Segunda-Entrega*" del repositorio del equipo (Equipo-4)  para cada sección (Producto, Requisitos, Diseño, Presentación del avance y Competencias). En el caso de la sección Proceso, crear un archivo individual para la actividad de Descripción del proceso, Gestión del proceso y Métrica de contribución. 
+ - **Organización y Documentación del Repositorio:** Crear archivos en formato StackEdit en la branch de "*Segunda-Entrega*" del repositorio del equipo (Equipo-4)  para cada sección (Producto, Requisitos, Diseño, Presentación del avance, Diálogos y Competencias). En el caso de la sección Proceso, crear un archivo individual para la actividad de Descripción del proceso, Gestión del proceso y Métrica de contribución. Igualmente, subirá la 
  
- **Archivo del trabajo/Resultado:**  Producto.md, Requisitos.md, Diseño.md, 
+ **Archivo del trabajo/Resultado:**  Producto.md, Requisitos.md, Diseño.md, Presentacion_del_avance.md,  Dialogos.md, Competencias.md, 
  
 ### *Sección "Presentación del avance"*
 **Responsables**
@@ -224,8 +224,8 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4MTM3MTUxLDE1Njc3MDI1NjksMTM4OT
-M5MjM1NiwtNDE5ODc4NzExLDEyODg1MDMzODAsMTcxMDM5ODM5
-NCwxMTE2NTgwMDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLT
-Q4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbMTc2MzYzMzcxNywxNTY3NzAyNTY5LDEzOD
+kzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgz
+OTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC
+00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
 -->
