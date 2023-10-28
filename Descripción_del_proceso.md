@@ -219,13 +219,13 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 [^1]: ILIMIT. (s.f).*Metodología SCRUM: qué es y cómo implementarlo.* ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 [^2]: Scrum Manager®.(2022).*Historias de Usuario*. https://www.scrummanager.com/files/scrum_manager_historias_usuario.pdf
-[^3]: Scrum Manager®.(2022).*Historias de Usuario*. https://www.scrummanager.com/files/scrum_manager_historias_usuario.pdf
+[^3]: Marco de Desarrollo de la Junta de Andalucía.(s.f).*Guía para la redacción de casos de uso*. Junta de Andalucía. https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDA4ODUzMiwxMjg4NTAzMzgwLDE3MT
+eyJoaXN0b3J5IjpbLTM1MTc3NDc3OSwxMjg4NTAzMzgwLDE3MT
 AzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3Mjgz
 NzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl
 19
