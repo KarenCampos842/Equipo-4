@@ -60,8 +60,8 @@
 **Actividades**
   
  - **Evolución del producto:** Resumen de los cambios completados del producto entre la primera y segunda entrega. Mencionar de manera sintetizada los cambios más significativos en los requerimientos y artefactos.
- - 
-   **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md">Producto.md</a>  
+  
+  **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md">Producto.md</a>  
  
   ***NOTA:*** Para realizar la actividad descrita con anterioridad revisar el documento <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md">Requisitos.md</a>  localizado en la rama de **Primera-Entrega** del repositorio del equipo.
 
@@ -78,6 +78,19 @@
  - **Priorización:** Priorizar los  requerimientos funcionales utilizando la metodología de *"MoSCoW".* 
 
  **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a>  
+
+**Responsables del apartado "Evolución de requisitos"**
+
+ 1. *Campos García Karen Elizabeth:* Requerimientos funcionales.
+ 2. *Maldonado Medina Hansony de Jesús:* Requerimientos no funcionales y priorización.
+
+**Actividades**
+ - **Requerimientos funcionales:** Modificar los requerimientos para una mayor claridad.
+ - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad.
+ - **Priorización:** Priorizar los  requerimientos funcionales utilizando la metodología de *"MoSCoW".* 
+
+ **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a>  
+ 
  
 ### *Sección "Proceso"*
 
@@ -150,7 +163,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDM4NTExLDExMTY1ODAwOTYsLTYyNz
+eyJoaXN0b3J5IjpbNTcxNDU3NjE1LDExMTY1ODAwOTYsLTYyNz
 Y4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5
 NjAxLDExNjQ0NDY2OTZdfQ==
 -->
