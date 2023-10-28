@@ -161,14 +161,14 @@ Utilizar la siguiente plantilla:
  -   **Correspondencia con los Requisitos:** Verificar que los prototipos construidos corresponden a los requisitos establecidos. Verificar que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces.
  -    **Validación de Interfaces** Validar del diseño propuesto con el cliente. Recolectar los comentarios y realizar los cambios correspondientes. 
  
-### *Sección "Proceso"*
+### *Sección "Proceso (mejorado)"*
 
 **Responsables**
 
- 1. *Campos García Karen Elizabeth:* Sección Proceso.
+ 1. *Campos García Karen Elizabeth:* Sección Proceso (mejorado).
 
 **Actividades**
- - **Descripción del proceso:** Describir de forma clara y concreta el proceso de desarrollo para el producto, así como la organización del equipo (roles/responsabilidades definidas). Adicionalmente, elegir una metodología ágil y ayudar a su cumplimiento. 
+ - **Descripción del proceso:** Describir de forma clara y concreta el proceso de desarrollo para el producto, así como la organización del equipo (tamaño del sprint, planeación, actividades, responsables, roles, resultados).
  - **Gestión del proceso**: Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"Descripción_del_proceso"* (ubicado en la branch "*Primera-Entrega*") a las personas correspondientes.  Así mismo, marcar con ayuda del board de Proyecto_FIS el estado de la actividad (In Progress o Done). <br>De igual forma, deberá realizar las actividades descritas en *"Scrum team meeting"* y  escribir una bitácora de las reuniones de equipo mencionando los acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
  - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, mediano, alto).  
  - **Organización y Documentación del Repositorio:** Crear archivos en formato StackEdit en la branch de "*Primera-Entrega*" del repositorio del equipo (Equipo-4)  para cada sección (Producto, Requisitos, Presentación del avance y Competencias). En el caso de la sección Proceso, crear un archivo individual para la actividad de Descripción del proceso, Gestión del proceso y Métrica de contribución. 
@@ -236,7 +236,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDI1NDEwNywxMjg4NTAzMzgwLDE3MT
+eyJoaXN0b3J5IjpbMTMzMzE4ODE2NywxMjg4NTAzMzgwLDE3MT
 AzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3Mjgz
 NzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl
 19
