@@ -9,15 +9,15 @@
    <th>Rúbrica. Nivlel (0-3)</th>
  </tr>
  <tr>
-  <th rowspan="3">Producto</th>
+  <th>Producto</th>
   <td>Evolución del Producto</td>
   <td>Resumen de los cambios completados del producto entre la primera y segunda entrega. Mencionar de manera sintetizada los cambios más significativos y que se cuenta con evidencia.</td>
   <td>
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Producto.md#descripci%C3%B3n-del-producto">Descripción del producto</a></td>
  <tr>
   <th rowspan="4">Requisitos</th>
-  <td>Requistos Funcionales</td>
-  <td>RF: Se cuenta con un conjunto de Requisitos Funcionales (RF) claro, completo y consistente. Se cuenta descripciones y/o definiciones de los requisitos. Opcional:* Historias de Usuario utilizando la plantilla: Como (usuario), quiero (algún objetivo) para que (motivo)</td>
+  <td>Evolución de Requisitos</td>
+  <td>Se cuenta con un conjunto mejor definido y organizado de requerimientos (Funcionales y No Funcionales) con respecto a la entrega anterior. Hay una mayor claridad de las necesidades del usuario y de los procesos del cliente. La prioridad de los requerimientos corresponde a los objetivos principales del producto.</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos-funcionales">Requistos Funcionales</a></td>
   <td></td>
  </tr>
@@ -129,5 +129,5 @@ Opcional: Utilizan métodos ágiles. Se distingue de forma clara que utilizan un
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzcwMzMwMzgsMTE4MDM1MDM4XX0=
+eyJoaXN0b3J5IjpbNDYwOTg4MjQwLDExODAzNTAzOF19
 -->
