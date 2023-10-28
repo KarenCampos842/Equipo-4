@@ -20,7 +20,7 @@
 
 9. **Creación del perfil de trabajador:** El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, nombre(s) y apellido(s), oficio, descripción de los trabajos que realiza, zona de trabajo, calificaciones, comentarios de clientes, número telefónico, correo, número de tarjeta, CVV y fecha de vencimiento de la tarjeta (los últimos cuatro elementos serán únicamente visibles para el trabajador). 
  
-10. **Inicio de sesión:**  El usuario podrá iniciar sesión proporcionando el correo con el que se registró la y la contraseña asignada. Al entrar, el sistema solicitará su ubicación (en caso del cliente). 
+10. **Inicio de sesión:**  El usuario podrá iniciar sesión proporcionando el correo con el que se registró la y la contraseña asignada. Al entrar, el sistema solicitará su ubicación. 
 
 11. **Búsqueda:** El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio, por ejemplo: “mecánico”.
 
@@ -201,11 +201,11 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5Mzk1MzM2LC0xNDQ1MzI5OTE0LC03NT
-U0MDMwNjksLTIwODI5NzU2NTAsLTI3OTU1NzY0NCwtMTI1Mjg2
-Njg5NiwxNTMwOTM2NDk5LC0yNjk2NzAxMjMsMTY5MjMxMzM4NC
-wtNjA1ODg2NDUwLC0xODA5NDgwMTE3LDIwODM4MzU4NzgsMTU5
-OTEzNDI5NCwtOTkyMDQxNTY0LC0zNTkzMDA0MzMsOTk2NTEzMD
-kxLC01ODA0NTE0NzksNTA4MjI1NjUwLDY5NTc4MzUzNCwtNjgw
-MzE5NzY2XX0=
+eyJoaXN0b3J5IjpbLTY3MDgyNDA2MSw0NDkzOTUzMzYsLTE0ND
+UzMjk5MTQsLTc1NTQwMzA2OSwtMjA4Mjk3NTY1MCwtMjc5NTU3
+NjQ0LC0xMjUyODY2ODk2LDE1MzA5MzY0OTksLTI2OTY3MDEyMy
+wxNjkyMzEzMzg0LC02MDU4ODY0NTAsLTE4MDk0ODAxMTcsMjA4
+MzgzNTg3OCwxNTk5MTM0Mjk0LC05OTIwNDE1NjQsLTM1OTMwMD
+QzMyw5OTY1MTMwOTEsLTU4MDQ1MTQ3OSw1MDgyMjU2NTAsNjk1
+NzgzNTM0XX0=
 -->
