@@ -178,7 +178,7 @@ Utilizar la siguiente plantilla:
  1. Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"Descripción_del_proceso"* (ubicado en la branch "*Segunda-Entrega*") a las personas correspondientes.   
  2. Orquestar las reuniones: *"Scrum team meeting"* y  "Sprint review". 
  3. Escribir una bitácora de las reuniones de equipo mencionando brevemente acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
- 4. Realizar una tabla que contenga las actividades a realizar durante el sprint **(a formasprint backlog)**, responsables, el estado de la tarea (finalizada, en proceso), fecha de inicio, fechas límite de entrega y fecha de entrega. 
+ 4. Realizar una tabla **(a forma de sprint backlog)** que contenga las actividades a realizar durante el sprint, responsables, el estado de la tarea (finalizada, en proceso), fecha de inicio, fechas límite de entrega y fecha de entrega. 
  - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, mediano, alto).  
  - **Organización y Documentación del Repositorio:** Crear archivos en formato StackEdit en la branch de "*Segunda-Entrega*" del repositorio del equipo (Equipo-4)  para cada sección (Producto, Requisitos, Presentación del avance y Competencias). En el caso de la sección Proceso, crear un archivo individual para la actividad de Descripción del proceso, Gestión del proceso y Métrica de contribución. 
  
@@ -248,7 +248,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDU5MTUyMywtNDE5ODc4NzExLDEyOD
+eyJoaXN0b3J5IjpbMTM4OTM5MjM1NiwtNDE5ODc4NzExLDEyOD
 g1MDMzODAsMTcxMDM5ODM5NCwxMTE2NTgwMDk2LC02Mjc2ODM3
 ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOTYwMS
 wxMTY0NDQ2Njk2XX0=
