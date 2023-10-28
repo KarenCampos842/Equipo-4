@@ -86,7 +86,7 @@
   5. *Suárez Balam Brandon Emmanuel* Casos de uso basados en las historias de usuario número 6, 7, 9  y 10.
   
 **Actividades**
- - **Historias de usuario:**  
+ - **Historias de usuario:**  Realizar las historias de usuario con criterios de aceptación utilizando la guía de SCRUM. .
  - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad.
  - **Priorización:** Priorizar los  requerimientos funcionales utilizando la metodología de *"MoSCoW".* 
 
@@ -164,7 +164,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjMyODk0NSwxMTE2NTgwMDk2LC02Mj
+eyJoaXN0b3J5IjpbLTM2NDM2MDQ2MSwxMTE2NTgwMDk2LC02Mj
 c2ODM3ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEz
 OTYwMSwxMTY0NDQ2Njk2XX0=
 -->
