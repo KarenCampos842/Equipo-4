@@ -132,14 +132,10 @@ Utilizar la siguiente plantilla:
       <td><b>Postcondición</b></td>  
        <td colspan="2">x</td> 
    </tr> 
-    <tr>  
-      <td><b>Descripción</b></td>  
-       <td colspan="2">El sistema deberá comportarse como se describe en el siguiente caso de uso cuando ...</td> 
-   </tr> 
      <tr>  
       <td rowspan="4"><b>Excepciones</b></td>
        <td><b>Paso</b></td> 
-        <td><b>Acción</b></td> 
+        <td><b>Acción</b></td>  
     </tr> 
   <tr>  
   <td>1</td> 
@@ -228,7 +224,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI1ODA5MjksMTcxMDM5ODM5NCwxMT
-E2NTgwMDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLTQ4Mjgw
-NjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMT
+Y1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2
+OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
 -->
