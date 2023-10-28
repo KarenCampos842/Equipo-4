@@ -194,7 +194,7 @@ Producto.md, Requisitos.md, Diseño.md, <a href="https://github.com/KarenCampos8
  - **Diálogos:** Realizar los diálogos para el video en inglés y español. Tomar en cuenta lo solicitado en Edición del video. 
  - **Audios:** Grabar los audios de los diálogos. 
   
- **Archivo del trabajo/Resultado:**  
+ **Archivo del trabajo/Resultado:**  Dialogos.md, 
 
  ### *Sección "Competencias"*
 
@@ -207,7 +207,8 @@ Producto.md, Requisitos.md, Diseño.md, <a href="https://github.com/KarenCampos8
  - **Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto.
 
 ***NOTA:***  Leer el Plan de Estudios de la Licenciatura en Ingeniería de Software[^4] para realizar las actividades. 
-
+ **Archivo del trabajo/Resultado:** Competencias.md
+ 
 ## Scrum team meeting
  Karen se encargará de realizar reuniones con el equipo vía Teams o de forma presencial de no más de 15 minutos  para monitorear el trabajo realizado. Las reuniones tendrán lugar todos los días, exceptuando fines de semana hasta la entrega de la presentación del primer avance.
  
@@ -227,7 +228,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODMyNjg4NSwxNTY3NzAyNTY5LDEzOD
+eyJoaXN0b3J5IjpbLTM4NzcxODY4NCwxNTY3NzAyNTY5LDEzOD
 kzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgz
 OTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC
 00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
