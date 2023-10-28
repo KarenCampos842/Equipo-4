@@ -76,124 +76,520 @@
 
 ## Artefactos
 
-### Digrama de casos de uso
-![Casos de uso drawio](https://github.com/KarenCampos842/Equipo-4/assets/143464988/5344943e-7757-4bb1-a903-852bd88eb950)
-
-<br>
-<br>
-
-### Mapa de dependencias 
-![Mapa de dependencia](https://github.com/KarenCampos842/Equipo-4/assets/143464988/fd8a1ea0-d3c4-47a0-ba91-c184ca08e467)
-
-
 ### Historias de usuarios[^2]
 
-<table>
-<tr>
-<td >Nombre: Perfiles </td>
-<tr>
-<td >Prioridad: Alta </td>
- <tr>
-<td >Descripción: <br>
- Como Trabajador de WorkFlash quiero poder tener un perfil donde se refleje mi trabajo y mis horarios para  poder tener más clientes.  </td>
- <tr>
-<td >Validación: <br>
--El trabajador puede modificar sus horariosen cualquier momento.<br>
--Las calificaciones son estadísticas inmodificables. </td>
-</table>
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #1</th>  
+      <th>Registro de trabajador</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td> usuario </td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td> poder registrarme en WorkFlash como trabajador</td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td> promocionar mi trabajo y conseguir más clientes.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+            <li>Comprobar que se ha seleccionado el perfil ""trabajador".</li>
+                <li>Comprobar que existen mínimo un nombre y un apellido.</li>
+                 <li>Comprobar que existen 10 dígitos para el número telefónico. </li>
+                 <li>Comprobar que existe texto antes y después de @ para el correo.</li>
+                  <li>Comprobar que existe un elemento (imagen o PDF) como identificación oficial con fotografía.</li>
+                  <li>Comprobar que existe un elemento (imagen) en el apartado de fotografía actual.</li>
+                 <li>Comprobar que se ha seleccionado un municipio (zona de trabajo) de la lista proporcionada.</li>
+                 <li>Comprobar que se ha seleccionado un oficio de la lista proporcionada.</li>
+                <li>Comprobar la longitud de la descripción de los trabajos que realiza el trabajador (máximo 255 caracteres) </li>
+                <li>Comprobar la longitud del número de tarjeta de crédito (de 13 a 18 dígitos).</li>
+                <li>Comprobar la longitud del CVV (de 3 a 4 dígitos).</li>
+                <li>Comprobar que se ha seleccionado una fecha de vencimiento (mes, año) de la tarjeta de crédito.</li>
+                <li>Comprobar la aceptación de términos y condiciones.</li>
+                <li>Comprobar el envío de contraseña al correo proporcionado.</li>
+           </ul>
+     </td> 
+   </tr>
+ </table>      
+ 
+<br>
 
-<table>
-<tr>
-<td >Nombre: Elección trabajos </td>
-<tr>
-<td >Prioridad: Alta </td>
- <tr>
-<td >Descripción: <br>
- Como Trabajador dentro de WorkFlash quiero poder rechazar por si alguno no se ajusta a mis horarios. </td>
- <tr>
-<td >Validación: <br>
--El trabajador puede modificar sus horarios en cualquier momento. 
-<br>-Las calificaciones son estadísticas inmodificables por el usuario. </td>
-</table>
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #2</th>  
+      <th>Registro de cliente</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>usuario</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td> poder registrarme en WorkFlash como cliente</td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td> encontrar trabajadores de forma rápida.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+           <li>Comprobar que se ha seleccionado el perfil "cliente".</li>
+           <li>Comprobar que existen mínimo un nombre y un apellido.</li>
+                 <li>Comprobar que existe texto antes y después de @ para el correo.</li>
+                  <li>Comprobar que existe un elemento (imagen o PDF) como identificación oficial con fotografía.</li>
+                  <li>Comprobar que existe un elemento (imagen) en el apartado de fotografía actual.</li>
+                <li>Comprobar la aceptación de términos y condiciones.</li>
+           <li>Comprobar el envío de contraseña al correo proporcionado.</li>
+           </ul>
+     </td> 
+   </tr>
+ </table>      
+ 
+<br>
 
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #3</th>  
+      <th>Autenticación</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td> usuario de WorkFlash</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td> poder autenticarme en la aplicación</td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td> acceder a los beneficios de WorkFlash.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+                <li>Comprobar que el correo y contraseña introducidos existan en la base de datos.</li>
+                  <li>Comprobar que la contraseña corresponda al correo introducido.</li>
+                <li>Comprobar que el usuario ha aceptado compartir su ubicación con WorkFlash.</li>
+           </ul>
+     </td> 
+   </tr>
+ </table>      
+ 
+<br>
 
-</table>
-<table>
-<td >Nombre:  Chat </td>
-<tr>
-<td >Prioridad: Alta </td>
- <tr>
-<td >Descripción: <br>
-Como usuario quiero poder ponerme de acuerdo con la otra parte(trabajador o usuarios) antes de contratar un servicio para poder cotizar y llegar a un acuerdo de pago y horarios.</td>
- <tr>
-<td >Validación: <br>
--Llegar aun mutuo acuerdo. </td>
-</table>
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #4</th>  
+      <th>Perfil de trabajador</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>trabajador</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td> visualizar y modificar mi perfil</td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td> verificar mi información o actualizar datos.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+                <li>Comprobar que el trabajador pueda visualizar y editar nombre(s) y apellido(s).</li>
+         <li>Comprobar que el trabajador pueda visualizar su correo, pero no editarlo.</li>
+          <li>Comprobar que el trabajador pueda visualizar su fotografía y reemplazarla.</li>         
+          <li>Comprobar que el trabajador pueda visualizar y editar su número telefónico. </li>
+           <li>Comprobar  que el trabajador pueda visualizar y editar su zona de trabajo</li>
+            <li>Comprobar que el trabajador pueda visualizar su oficio, pero no editarlo.</li>
+            <li>Comprobar que el trabajador pueda visualizar y editar la descripción de los trabajos que realiza</li>
+           <li>Comprobar que el trabajador pueda visualizar y editar el número de tarjeta de crédito.</li>
+            <li>Comprobar que el trabajador pueda visualizar y editar el CVV.</li>
+            <li>Comprobar que el trabajador pueda visualizar y editar la fecha de vencimiento (mes, año) de la tarjeta de crédito.</li>
+           <li>Comprobar que el trabajador pueda visualizar su calificación, pero no editarla.</li>
+         <li>Comprobar que el trabajador pueda visualizar los comentarios de sus clientes, pero no editarlos.</li>    
+         <li>Comprobar que los cambios realizados en el perfil se vean reflejados en la base de datos (sean reemplazados y guardados). </li>                   
+     </td> 
+   </tr>
+   </table>      
+    
+<br>
 
-<table>
-<tr>
-<td >Nombre: Reporte por estafa y penalización</td>
-<tr>
-<td >Prioridad: Alta </td>
- <tr>
-<td >Descripción: <br>
- Como Usuario quiero poder reportar algún incidente con un cliente/trabajador para que esto no ocurra en mayor medida y se sancione al responsable.</td>
- <tr>
-<td >Validación: <br>
--La sanción solo será puesta si se comprueba el incidente.  </td>
-</table>
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #5</th>  
+      <th>Perfil de cliente</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>cliente</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td> visualizar y modificar mi perfil</td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td> verificar mi información o actualizar datos.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+                <li>Comprobar que el cliente pueda visualizar  y editar nombre(s) y apellido(s).</li>
+         <li>Comprobar que el cliente pueda visualizar su correo, pero no editarlo.</li>
+          <li>Comprobar que el cliente pueda visualizar y reemplazar su fotografía.</li>          
+           <li>Comprobar que el cliente pueda visualizar su calificación, pero no editarla.</li>
+       <li>Comprobar que los cambios realizados en el perfil se vean reflejados en la base de datos (sean reemplazados y guardados). </li>
+     </td> 
+   </tr>
+    </table>      
+    
+<br>
 
-<table>
-<tr>
-<td >Nombre:  Filtro de trabajadores </td>
-<tr>
-<td >Prioridad: Media </td>
- <tr>
-<td >Descripción: <br>
-  Cliente de WorkFlash quiero poder filtrar a los trabajadores por sus calificaciones anteriores y cercanía, para Tener la seguridad de contar con un buen servicio y una atención rápida. </td>
- <tr>
-<td >Validación: <br>
--El cliente tiene que tener activada su ubicación </td>
-</table>
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #6</th>  
+      <th>Barra de búsqueda y filtro</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>cliente</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td>poder buscar a trabajadores de un oficio en específico y visualizar aquellos cercanos a mí </td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td>identificar todas las opciones disponibles.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+                <li>Comprobar que el cliente pueda visualizar una lista de oficios al seleccionar la barra de búsqueda.</li>
+                <li>Comprobar que el cliente pueda seleccionar un oficio de la lista desplegada.</li>
+               <li>Comprobar que el cliente pueda visualizar una lista de trabajadores del oficio que seleccionó cercanos a su ubicación (municipios cercanos).</li>          
+           <li>Comprobar que el cliente pueda visualizar los nombre(s) y apellido(s), municipio (zona de trabajo) y calificación de cada trabajador en la lista.</li>
+     </td> 
+   </tr>
+   </table>      
+    
+<br>
 
-<table>
-<td >Nombre: Calificaciones </td>
-<tr>
-<td >Prioridad: Media </td>
- <tr>
-<td >Descripción: <br>
- Como cliente de WorkFash quiero poder compartir mi opinión del servicio con otros clientes para recomendarlo si hizo un buen trabajo. </td>
- <tr>
-<td >Validación: <br>
--Al finalizar un servicio ingresa su calificación. </td>
-</table>
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #7</th>  
+      <th>Elección del trabajador</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>cliente</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td>poder visualizar los perfiles de los trabajadores  </td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td>identificar la opción que más se ajuste a mis necesidades.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+                <li>Comprobar que el cliente pueda visualizar el perfil del trabajador al seleccionar uno de la lista desplegada (resultado de la búsqueda y filtro de trabajadores).</li>
+                <li>Comprobar que el cliente pueda visualizar del perfil del trabajador: nombre(s) y apellido(s), fotografía, oficio, descripción de los trabajos que realiza, zona de trabajo, calificación, comentarios de clientes y  número telefónico. 
+                </li>
+               <li>Comprobar que el cliente no pueda visualizar del perfil del trabajador: correo, número de tarjeta, CVV y fecha de vencimiento de la tarjeta. </li>          
+            </tr>
+    </table>      
+             
+<br>
 
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #8</th>  
+      <th>Chat</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>cliente</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td>poder conversar con el trabajador que elija</td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td>hacer cotizaciones, llegar a acuerdos, agendar citas. </td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+                <li>Comprobar que cuando el cliente seleccione la opción de chat, la función se habilite. </li>
+                <li>Comprobar que el receptor reciba los mensajes del emisor.
+                </li>
+               <li>Comprobar que el chat permita compartir imágenes. </li>          
+            </tr>
+ </table>      
+ 
+<br>
 
-<table>
-<td >Nombre: Ranking de trabajadores</td>
-<tr>
-<td >Prioridad: Baja </td>
- <tr>
-<td >Descripción: <br>
-Como Trabajador quiero poder destacar dentro de la aplicación de otros trabajadores con una competencia sana para poder demostrar mis habilidades y atraer más clientes.</td>
- <tr>
-<td >Validación: <br>
--Serás tomado en cuenta en el ranking mientras completes trabajos sin inconvenientes.   </td>
-</table>
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #9</th>  
+      <th>Contratación del servicio</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>cliente</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td>poder contratar al trabajador de mi elección</td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td>que me pueda realizar algún servicio. </td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+                <li>Comprobar que el cliente ha seleccionado la opción de "contratar servicio" </li>
+                <li>Comprobar que el trabajador ha recibido una notificación de un nuevo trabajo.
+                </li>
+               <li>Comprobar que el trabajador ha aceptado el trabajo. </li> 
+         <li>Comprobar que el cliente ha sido notificado sobre el estado de la contratación del servicio (exitosa o rechazada). </li>           
+            </tr>
+         </table>      
+             
+  <br>
+            
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #10</th>  
+      <th>Contratación del servicio</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>trabajador</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td>poder elegir aceptar o rechazar un trabajo</td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td>proteger mis intereses.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+                <li>Comprobar que el trabajador ha recibido una notificación de un nuevo trabajo.
+                </li>
+               <li>Comprobar que el trabajador puede visualizar nombre(s) y apellido(s), ubicación y calificación del cliente. </li> 
+         <li>Comprobar que el trabajador ha seleccionado aceptar o rechazar el trabajo. </li>
+         <li>Comprobar que el cliente ha sido notificado sobre el estado de la contratación del servicio (exitosa o rechazada). </li>             
+            </tr>
+             </table>      
+             
+  <br>
+           
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #11</th>  
+      <th>Calificación del cliente</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>trabajador</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td>poder calificar a mi cliente</td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td>evaluar su formalidad y buen trato.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+                <li>Comprobar que el espacio para calificar al cliente ha aparecido después de la contratación exitosa del servicio.
+                </li>
+         <li>Comprobar que el trabajador ha seleccionado una determinada cantidad de estrellas (mínimo una, máximo cinco) para calificar al cliente. </li>
+         <li>Comprobar que la asignación de estrellas ha sido registrada en la base de datos y promediada con las calificaciones preexistentes. </li>             
+            </tr>
+        </table> 
+                  
+<br>
 
-<table>
-<td >Nombre: Agenda </td>
-<tr>
-<td >Prioridad: Baja </td>
- <tr>
-<td >Descripción: <br>
-Como trabajador quiero poder tener una agenda para recordar los trabajos que tengo pendiente y no olvidar ninguno.</td>
- <tr>
-<td >Validación: <br>
--El trabajador inserta la información de la agenda. </td>
-</table>
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #12</th>  
+      <th>Finalización del contrato</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>cliente</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td>poder indicar que el servicio que contraté se concluyó satisfactoriamente</td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td>terminar el proceso de contratación y evaluar al trabajador.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+                <li>Comprobar que la opción para finalizar el contrato ha aparecido después de la contratación exitosa del servicio.
+                </li>
+                <li>Comprobar que el cliente ha seleccionado la opción de finalizar contrato. </li>
+        <li>Comprobar que los espacios para calificar, comentar y reportar se han habilitado al seleccionar la opción de finalizar contrato.</li>
+         <li>Comprobar que el cliente ha seleccionado una determinada cantidad de estrellas (mínimo una, máximo cinco) para calificar al cliente. </li>
+     <li>Comprobar que la asignación de estrellas ha sido registrada en la base de datos y promediada con las calificaciones preexistentes. </li>      
+         <li>Comprobar que el comentario y reporte se han guardado en la base de datos (de ser el caso). </li> 
+       <li>Comprobar que el trabajador ha sido notificado sobre el reporte (de ser el caso) </li>                 
+            </tr>
+ </table>      
 
+<br>
 
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #13</th>  
+      <th>Reportes</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>administrador del sistema</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td>saber el número de reportes que tiene un trabajador </td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td>determinar su permanencia en la aplicación. </td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+                <li>Comprobar que el sistema lleve la cuenta de los reportes levantados contra cada trabajador.
+                </li>
+                <li>Comprobar que el sistema cancele la cuenta de un trabajador cuando el número de reportes sea igual a cinco.</li>
+         <li>Comprobar que el perfil del trabajador ha sido eliminado de la base de datos. </li>             
+            </tr>
+ </table>     
+   
+<br>
+
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #14</th>  
+      <th>Cancelación de la cuenta (trabajador)</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>trabajador</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td>poder cancelar mi cuenta en el momento en que lo desee</td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td>dejar de utilizar el servicio que brinda WorkFlash</td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+                <li>Comprobar que el sistema tenga una opción para cancelar la cuenta.
+                </li>
+                <li>Comprobar que el trabajador seleccione la opción de cancelar cuenta.</li>
+         <li>Comprobar que el sistema pare de cobrar la membresía.</li>
+    <li>Comprobar que el perfil del trabajador ha sido eliminado de la base de datos al seleccionar  la opción de cancelar cuenta.</li>                    
+            </tr>
+ </table>   
+      
+ <br>    
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #15</th>  
+      <th>Cobro de membresía</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>administrador de la aplicación</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td>saber cuando se cumple el periodo de un mes de prueba gratis </td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td>comenzar el cobro mensual por el servicio.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+                <li>Comprobar que el sistema detecte correctamente el mes de prueba gratis.
+                </li>
+                 <li>Comprobar que el sistema realice el cobro automático de la membresía de $75 finalizado el mes de prueba gratis hasta que el trabajador cancele su cuenta.
+                </li>
+ </table>
+ <br>    
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #16</th>  
+      <th>Recuperación de contraseña</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>usuario de WorkFlash</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td>poder recuperar mi contraseña</td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td>volver a acceder a los beneficios de WorkFlash.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+                <li>Comprobar que el usuario seleccione la opción de recuperar contraseña.
+                </li>
+        <li>Comprobar que el sistema solicite un correo para recuperación de contraseña.
+                </li>
+                 <li>Comprobar que existe texto antes y después de @ para el correo.</li>
+                 <li>Comprobar que se ha enviado la contraseña al correo proporcionado.</li>
+ </table>      
   
 [^1]:Simões, C. (14 de julio de 2020). MoSCoW. ¿Qué es y cómo priorizar en el desarrollo de tu aplicación? *ITDO*. https://www.itdo.com/blog/moscow-que-es-y-como-priorizar-en-el-desarrollo-de-tu-aplicacion/
 
@@ -201,11 +597,11 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1Mjk5NjAwLC01MTUzMzI1MzYsLTY4Nj
-M3MTk2Niw4MzgzODgyODksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0
-LC0xOTkxOTY2MDU2LC02NzA4MjQwNjEsNDQ5Mzk1MzM2LC0xND
-Q1MzI5OTE0LC03NTU0MDMwNjksLTIwODI5NzU2NTAsLTI3OTU1
-NzY0NCwtMTI1Mjg2Njg5NiwxNTMwOTM2NDk5LC0yNjk2NzAxMj
-MsMTY5MjMxMzM4NCwtNjA1ODg2NDUwLC0xODA5NDgwMTE3LDIw
-ODM4MzU4NzhdfQ==
+eyJoaXN0b3J5IjpbLTEzNzYwNzgyMzQsNzQ1Mjk5NjAwLC01MT
+UzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyODksMTI2NDU2MzAy
+LC0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02NzA4MjQwNjEsND
+Q5Mzk1MzM2LC0xNDQ1MzI5OTE0LC03NTU0MDMwNjksLTIwODI5
+NzU2NTAsLTI3OTU1NzY0NCwtMTI1Mjg2Njg5NiwxNTMwOTM2ND
+k5LC0yNjk2NzAxMjMsMTY5MjMxMzM4NCwtNjA1ODg2NDUwLC0x
+ODA5NDgwMTE3XX0=
 -->
