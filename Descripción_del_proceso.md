@@ -188,7 +188,7 @@ Utilizar la siguiente plantilla:
  - *Cárdenas Rojas Kendrick Asaf:* Diálogos, audios y material para el video. 
 
  **Actividades**
- - **Edición del video:** Realizar un video presentando los avances realizados durante el sprint. Incluir el resumen del archivo Producto.md, 
+ - **Edición del video:** Realizar un video presentando  el desarrollo del proyecto, presenlos avances realizados durante el sprint. Incluir el resumen del archivo Producto.md, enseñar Diseño.md
 
  
  ### *Sección "Competencias"*
@@ -221,8 +221,8 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjg4NzA3NjYsMTM4OTM5MjM1NiwtND
-E5ODc4NzExLDEyODg1MDMzODAsMTcxMDM5ODM5NCwxMTE2NTgw
-MDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMS
-wtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbLTU4NzkxNTIwLDEzODkzOTIzNTYsLTQxOT
+g3ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgzOTQsMTExNjU4MDA5
+NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5MjEsLT
+E3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
 -->
