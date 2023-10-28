@@ -44,7 +44,7 @@
 
 21. . **Recuperación de contraseña:**  El usuario podrá recuperar su contraseña. El sistema solicitará al usuario un correo al que enviará la contraseña. 
 
-22. **Modificación de perfil:** Como cliente, el usuario podrá modificar el nombre y correo asociado a su cuenta. Como trabajador, el usuario podrá modificar el nombre, correo asociado a su cuenta, número de tarjeta, CVV y fecha de vencimiento de la tarjeta.
+22. **Modificación de perfil:** Como cliente, el usuario podrá modificar nombre(s) y apellidos. Como trabajador, el usuario podrá modificar el nombre, correo asociado a su cuenta, número de tarjeta, CVV y fecha de vencimiento de la tarjeta.
 
 ## Requisitos no funcionales
 
@@ -201,10 +201,10 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODI5NzU2NTAsLTI3OTU1NzY0NCwtMT
-I1Mjg2Njg5NiwxNTMwOTM2NDk5LC0yNjk2NzAxMjMsMTY5MjMx
-MzM4NCwtNjA1ODg2NDUwLC0xODA5NDgwMTE3LDIwODM4MzU4Nz
-gsMTU5OTEzNDI5NCwtOTkyMDQxNTY0LC0zNTkzMDA0MzMsOTk2
-NTEzMDkxLC01ODA0NTE0NzksNTA4MjI1NjUwLDY5NTc4MzUzNC
-wtNjgwMzE5NzY2LDEwMTIzMjUwMThdfQ==
+eyJoaXN0b3J5IjpbMjcxNzU2NTkyLC0yMDgyOTc1NjUwLC0yNz
+k1NTc2NDQsLTEyNTI4NjY4OTYsMTUzMDkzNjQ5OSwtMjY5Njcw
+MTIzLDE2OTIzMTMzODQsLTYwNTg4NjQ1MCwtMTgwOTQ4MDExNy
+wyMDgzODM1ODc4LDE1OTkxMzQyOTQsLTk5MjA0MTU2NCwtMzU5
+MzAwNDMzLDk5NjUxMzA5MSwtNTgwNDUxNDc5LDUwODIyNTY1MC
+w2OTU3ODM1MzQsLTY4MDMxOTc2NiwxMDEyMzI1MDE4XX0=
 -->
