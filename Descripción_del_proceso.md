@@ -50,13 +50,13 @@
 ### Sprint Backlog (resultado de sprint planning meeting)
 ***NOTA:*** Se encontrarán archivos para cada sección en la que el trabajo está dividido (se dividió acorde a la lista de cotejo) en la branch de Segunda-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
 
+**Corrector de redacción:** *Suárez Balam Brandon Emmanuel.*
+
 ### *Sección  "Producto"*
 
 **Responsables**
 
  1. *Cárdenas Rojas Kendrick Asaf:* Evolución del producto.
-
-
 
 **Actividades**
   
@@ -66,12 +66,10 @@
 
 ### *Sección "Requisitos"*
 
-**Responsables del apartado Evolución de requisitos"**
+**Responsables del apartado "Evolución de requisitos"**
 
  1. *Campos García Karen Elizabeth:* Requerimientos funcionales.
  2. *Maldonado Medina Hansony de Jesús:* Requerimientos no funcionales y priorización.
-
-**Corrector de redacción de "Requisitos":** *Romero Poot Carlos Emmanuel.*
 
 **Actividades**
  - **Requisitos funcionales:** Escribir los requisitos funcionales de forma clara, completa y consistente. 
@@ -152,7 +150,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzYzODE1MTUsLTYyNzY4Mzc4NywtMT
-UyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0
-NDY2OTZdfQ==
+eyJoaXN0b3J5IjpbMTU0MzgyMzE4NywtNjI3NjgzNzg3LC0xNT
+I3MjgzNzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0
+NjY5Nl19
 -->
