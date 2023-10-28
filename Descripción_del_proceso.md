@@ -185,38 +185,7 @@ Utilizar la siguiente plantilla:
  
 ### *Sección "Presentación del avance"*
 **Responsables**
-<table align=center>  
-   <tr>  
-      <th bgcolor="#D18888" >Nombres</th>  
-      <th bgcolor="#D18888" >Actividades</th>  
-   </tr> 
-    <tr>  
-      <td>Campos García Karen Elizabeth</td>  
-<td>Realizar el diálogo para la sección de Proceso (1 min máx.) y traducir todos los diálogos al inglés. Posteriormente grabar los audios y proporcionarlos a Asaf para la edición del video. 
-     </td>  
-   </tr> 
-   <tr>  
-      <td>Cárdenas Rojas Kendrick Asaf</td>  
-<td>Editar un video de máximo 5 minutos presentando una síntesis de las secciones Producto, Requisitos y Proceso.</td>  
-   </tr> 
-    <tr>  
-      <td>Maldonado Medina Hansony de Jesús</td>  
-      <td>Diálogo para el video  (1 min máx.). Síntesis de la forma de verificación de los requisitos no funcionales. </td>  
-   </tr> 
-    <tr>  
-      <td>Romero Poot Carlos Emmanuel</td>  
-       <td>Diálogo en español para el video (1 min máx.). Síntesis de los requisitos funcionales y requisitos no funcionales tomando en cuanta el orden por prioridad. Síntesis de la actividad Artefactos.</td>  
-   </tr> 
-     <tr>  
-      <td>Rubén Moisés Loria Pech</td>  
-        <td>Diálogo en español para el video  (1 min máx.). Síntesis de las actividades Descripción del producto y Usuarios/Clientes.</td>  
-   </tr> 
-    <tr>  
-      <td>Suárez Balam Brandon Emmanuel</td> 
-      <td>Diálogo en español para el video  (1 min máx.). Síntesis de la actividad Propuesta de valor. </td>   
-   </tr> 
- </table>
- <br>
+
  
  ### *Sección "Competencias"*
 
@@ -248,8 +217,8 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTM5MjM1NiwtNDE5ODc4NzExLDEyOD
-g1MDMzODAsMTcxMDM5ODM5NCwxMTE2NTgwMDk2LC02Mjc2ODM3
-ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOTYwMS
-wxMTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbMjgzODQ4NzAxLDEzODkzOTIzNTYsLTQxOT
+g3ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgzOTQsMTExNjU4MDA5
+NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5MjEsLT
+E3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
 -->
