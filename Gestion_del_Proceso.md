@@ -3,8 +3,7 @@
 ### Bitácora
 **Miércoles 18 de septiembre de 2023 (Retrospective)**<br> Durante la reunión se realizó un análisis del desempeño del equipo durante el último sprint. Como resultado hubo un cambio de líder (de Moisés a Karen), debido a problemas de organización. 
 
-**Jueves 26 de septiembre de 2023 (Sprint planning meeting)**<br> Durante la reunión se discutió sobre la monetización con el proyecto. Finalmente, se optó por cobrar una membresía al trabajador.
-Como resultado de la reunión, se decidió cambiar los requerimientos funcionales, y se asignaron tareas para el segundo sprint.
+**Jueves 26 de septiembre de 2023 (Sprint planning meeting)**<br> Durante la reunión se definieron las actividades para el segundo sprint, las cuales quedan detalladas en el archivo Descripci
 
 <br>**Producto final:** 
 
@@ -13,6 +12,6 @@ Como resultado de la reunión, se decidió cambiar los requerimientos funcionale
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDMwOTI0MjQsLTE0MjkxNzc2MjBdfQ
-==
+eyJoaXN0b3J5IjpbLTI1NDEzNDkwNiwtMTYwMzA5MjQyNCwtMT
+QyOTE3NzYyMF19
 -->
