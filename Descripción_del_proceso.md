@@ -201,7 +201,9 @@ Utilizar la siguiente plantilla:
 **Actividades**
  - **Competencias genéricas:** Argumentar de qué forma se promueven las competencias genéricas a través de actividades específicas del desarrollo del producto.
  - **Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto.
-UADY. (2016). _Plan de Estudios de la Licenciatura en Ingeniería de Software._  [https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf](https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf)
+
+***NOTA:***  Leer el Plan de Estudios de la Licenciatura en Ingeniería de Software para realizar las actividades. 
+
 ## Scrum team meeting
  Karen se encargará de realizar reuniones con el equipo vía Teams o de forma presencial de no más de 15 minutos  para monitorear el trabajo realizado. Las reuniones tendrán lugar todos los días, exceptuando fines de semana hasta la entrega de la presentación del primer avance.
  
@@ -222,7 +224,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjYxOTM1MTAsMTM4OTM5MjM1NiwtND
+eyJoaXN0b3J5IjpbLTE3NjA1MDcxMTgsMTM4OTM5MjM1NiwtND
 E5ODc4NzExLDEyODg1MDMzODAsMTcxMDM5ODM5NCwxMTE2NTgw
 MDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMS
 wtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
