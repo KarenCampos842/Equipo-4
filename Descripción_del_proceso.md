@@ -224,10 +224,11 @@ Utilizar la siguiente plantilla:
 ## Scrum team meeting
  Karen se encargará de realizar reuniones con el equipo vía Teams o de forma presencial de no más de 15 minutos  para monitorear el trabajo realizado. Las reuniones tendrán lugar todos los días, exceptuando fines de semana hasta la entrega de la presentación del primer avance.
  
- ## Sprint review
+## Sprint review
  
  Se realizará una reunión al finalizar el primer sprint para revisar el trabajo que se está entregando. Igualmente, se hablará de los problemas que hubieron, aquello que se hizo bien y lo que se puede mejorar. 
- ## Retrospective
+
+## Retrospective
 Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo aquello que se hizo bien con relación al uso de la metodología SCRUM, el proceso, uso de herramientas, así como, todo aquello que se puede mejorar en cuanto a proceso, herramientas, relación entre compañeros, etc. 
   
   
@@ -240,8 +241,8 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Mjk3NzM4OSwxMjg4NTAzMzgwLDE3MT
-AzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3Mjgz
-NzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl
-19
+eyJoaXN0b3J5IjpbMTQ3MzgxMzUxLDEyODg1MDMzODAsMTcxMD
+M5ODM5NCwxMTE2NTgwMDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3
+OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX
+0=
 -->
