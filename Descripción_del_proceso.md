@@ -48,6 +48,8 @@
 ### Duración del sprint: 10 días
 
 ***NOTA:*** Se encontrarán archivos para cada sección en la que el trabajo está dividido (se dividió acorde a la lista de cotejo) en la branch de Segunda-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
+
+Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, marcar el estado de cada una de sus actividades (In process, 
 De igual forma deberán marcar como "closed" sus issues asignados en el repositorio del equipo cuando finalicen una actividad. 
 
 **Corrector de redacción:** *Suárez Balam Brandon Emmanuel.*
@@ -247,7 +249,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDc4NzYwOTksMTI4ODUwMzM4MCwxNz
+eyJoaXN0b3J5IjpbLTEwNTEzNTM4MzQsMTI4ODUwMzM4MCwxNz
 EwMzk4Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4
 Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OT
 ZdfQ==
