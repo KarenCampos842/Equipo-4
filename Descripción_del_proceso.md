@@ -72,7 +72,7 @@
  2. *Maldonado Medina Hansony de Jesús:* Requerimientos no funcionales y priorización.
 
 **Actividades**
- - **Requisitos funcionales:** Escribir los requisitos funcionales de forma clara, completa y consistente. 
+ - **Requerimientos funcionales:** 
  - **Requisitos no funcionales:** Escribir los requisitos no funcionales de forma clara, completa y consistente (escribir solo los que podríamos verificar). Escribir por cada requisito una forma de verificarlo. 
  - **Priorización:** Ordenar los requisitos funcionales y no funcionales utilizando la metodología de *"MoSCoW".* 
  - **Artefactos**:  Elaborar artefactos que especifiquen los requisitos (investigar), escribir excepciones (casos de uso, historias de usuario con criterios de aceptación), y realizar  un diagrama de casos de uso que resuma el conjunto de requisitos (funcionales, no funcionales). 
@@ -150,7 +150,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzgyMzE4NywtNjI3NjgzNzg3LC0xNT
-I3MjgzNzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0
-NjY5Nl19
+eyJoaXN0b3J5IjpbLTEwMDI5OTM3NTcsLTYyNzY4Mzc4NywtMT
+UyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0
+NDY2OTZdfQ==
 -->
