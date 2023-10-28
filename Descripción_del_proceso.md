@@ -121,9 +121,9 @@ Utilizar la siguiente plantilla:
         <td><b>Acción</b></td> 
     </tr> 
   <tr>  
-      <td><b>Secuencia normal</b>
+      <td><b>Secuencia normal</b></td>
        <td> 
-           <ul>
+           <ol>
                 <li>Comprobar que el usuario seleccione la opción de recuperar contraseña.
                 </li>
         <li>Comprobar que el sistema solicite un correo para recuperación de contraseña.
@@ -209,7 +209,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjUxNDMzOSwxNzEwMzk4Mzk0LDExMT
+eyJoaXN0b3J5IjpbMTU1MDgwNTIxMCwxNzEwMzk4Mzk0LDExMT
 Y1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2
 OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
 -->
