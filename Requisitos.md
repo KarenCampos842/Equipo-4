@@ -16,9 +16,9 @@
 
 7. **Calificaciones:** Basado en una escala de cinco estrellas, el sistema permitirá al usuario (cliente o trabajador) calificar la calidad de su experiencia (una estrella es la calificación más baja, cinco estrellas la máxima). Su calificación será el promedio de todas las calificaciones recibidas.
 
-8. **Creación del perfil de cliente:** El sistema creará el perfil del cliente, el cual contendrá: fotografía del usuario, un nombre y un apellido, calificación, correo y número telefónico. 
+8. **Creación del perfil de cliente:** El sistema creará el perfil del cliente, el cual contendrá: fotografía del usuario, un nombre y un apellido, calificación, correo y número telefónico  (los últimos seis elementos serán únicamente visibles para el trabajador). 
 
-9. **Creación del perfil de trabajador:** El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, un nombre y un apellido, oficio, descripción de los trabajos que realiza, zona de trabajo, calificaciones, comentarios de clientes, correo, número telefónico, 
+9. **Creación del perfil de trabajador:** El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, un nombre y un apellido, oficio, descripción de los trabajos que realiza, zona de trabajo, calificaciones, comentarios de clientes, correo, número telefónico, número de tarjeta, CVV y fecha de vencimiento de la tarjeta (los últimos seis elementos serán únicamente visibles para el trabajador). 
  
 10. **Inicio de sesión:**  El usuario podrá iniciar sesión proporcionando el correo con el que se registró la y la contraseña asignada. Al entrar, el sistema solicitará su ubicación (en caso del cliente). 
 
@@ -201,10 +201,10 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc3NDQyMTcsLTEyNTI4NjY4OTYsMT
-UzMDkzNjQ5OSwtMjY5NjcwMTIzLDE2OTIzMTMzODQsLTYwNTg4
-NjQ1MCwtMTgwOTQ4MDExNywyMDgzODM1ODc4LDE1OTkxMzQyOT
-QsLTk5MjA0MTU2NCwtMzU5MzAwNDMzLDk5NjUxMzA5MSwtNTgw
-NDUxNDc5LDUwODIyNTY1MCw2OTU3ODM1MzQsLTY4MDMxOTc2Ni
-wxMDEyMzI1MDE4XX0=
+eyJoaXN0b3J5IjpbMTAxMzc0NDIzOCwtMTI1Mjg2Njg5NiwxNT
+MwOTM2NDk5LC0yNjk2NzAxMjMsMTY5MjMxMzM4NCwtNjA1ODg2
+NDUwLC0xODA5NDgwMTE3LDIwODM4MzU4NzgsMTU5OTEzNDI5NC
+wtOTkyMDQxNTY0LC0zNTkzMDA0MzMsOTk2NTEzMDkxLC01ODA0
+NTE0NzksNTA4MjI1NjUwLDY5NTc4MzUzNCwtNjgwMzE5NzY2LD
+EwMTIzMjUwMThdfQ==
 -->
