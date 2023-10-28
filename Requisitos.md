@@ -60,7 +60,7 @@
 
 27. Recuperación de contraseña:  El usuario podrá recuperar su contraseña. El sistema solicitará al usuario un correo al que enviará la contraseña. 
 
-28. Modificación de perfil: Como cliente, el usuario podrá modificar el nombre y correo a
+28. Modificación de perfil: Como cliente, el usuario podrá modificar el nombre y correo asociado a su cuenta. Como trabajador, el usuario podrá 
 
 ## Priorización
 ###  Tabla MosCow[^1]
@@ -199,10 +199,10 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTUzNzczMzYsMTUzMDkzNjQ5OSwtMj
-Y5NjcwMTIzLDE2OTIzMTMzODQsLTYwNTg4NjQ1MCwtMTgwOTQ4
-MDExNywyMDgzODM1ODc4LDE1OTkxMzQyOTQsLTk5MjA0MTU2NC
-wtMzU5MzAwNDMzLDk5NjUxMzA5MSwtNTgwNDUxNDc5LDUwODIy
-NTY1MCw2OTU3ODM1MzQsLTY4MDMxOTc2NiwxMDEyMzI1MDE4XX
-0=
+eyJoaXN0b3J5IjpbMTM4MDM5NzkyNCwxNTMwOTM2NDk5LC0yNj
+k2NzAxMjMsMTY5MjMxMzM4NCwtNjA1ODg2NDUwLC0xODA5NDgw
+MTE3LDIwODM4MzU4NzgsMTU5OTEzNDI5NCwtOTkyMDQxNTY0LC
+0zNTkzMDA0MzMsOTk2NTEzMDkxLC01ODA0NTE0NzksNTA4MjI1
+NjUwLDY5NTc4MzUzNCwtNjgwMzE5NzY2LDEwMTIzMjUwMThdfQ
+==
 -->
