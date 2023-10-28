@@ -46,7 +46,7 @@
 
 22. **Modificación de perfil:** Como cliente, el usuario podrá modificar nombre(s) y apellido(s) y su fotografía. Como trabajador, el usuario podrá modificar nombre(s) y apellido(s), su fotografía, zona de trabajo, número de tarjeta, CVV y fecha de vencimiento de la tarjeta.
 
-## Requisitos no funcionales
+## Requerimientos no funcionales
 
 23. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 (por los requisitos que manejaremos y las funciones del sistema).
 
@@ -597,7 +597,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg0ODY1NDUsLTEyNzA0NTcyNjcsLT
+eyJoaXN0b3J5IjpbLTE2OTg1NTcxNjcsLTEyNzA0NTcyNjcsLT
 EzNzYwNzgyMzQsNzQ1Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3
 MTk2Niw4MzgzODgyODksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC
 0xOTkxOTY2MDU2LC02NzA4MjQwNjEsNDQ5Mzk1MzM2LC0xNDQ1
