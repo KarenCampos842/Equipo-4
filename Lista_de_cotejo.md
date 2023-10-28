@@ -36,8 +36,8 @@
   <td></td>
  </tr>
  <tr>
-  <td>Gestión del Proceso</td>
-  <td>Se incluyen las actividades/tareas/herramientas de monitoreo y/o seguimiento. Se cuentan con bitácoras de las reuniones donde se pueden observar los acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. </td>
+  <td>Correspondencia con los Requisitos</td>
+  <td>Se verifica que los prototipos construidos corresponden a los requisitos establecidos. De igual forma se verifica que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces.</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Gestion_del_Proceso.md">Gestión del Proceso</a></td>
   <td></td>
  </tr>
@@ -143,5 +143,5 @@ Opcional: Utilizan métodos ágiles. Se distingue de forma clara que utilizan un
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY3MTY0MTQsMTE4MDM1MDM4XX0=
+eyJoaXN0b3J5IjpbMTQyMzE0MjkxOSwxMTgwMzUwMzhdfQ==
 -->
