@@ -169,23 +169,27 @@ Utilizar la siguiente plantilla:
 
 **Responsables**
 
- 1. *Campos García Karen Elizabeth:* Sección Proceso.
+ - *Campos García Karen Elizabeth:* Sección Proceso.
 **Actividades**
  - **Descripción del proceso:** Describir de forma clara en un documento el tamaño del sprint, planeación, actividades, responsables, roles y resultados.
  - **Gestión del proceso**: 
  
- 1. Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"Descripción_del_proceso"* (ubicado en la branch "*Segunda-Entrega*") a las personas correspondientes.   
- 2. Orquestar las reuniones: *"Scrum team meeting"* y  "Sprint review". 
- 3. Escribir una bitácora de las reuniones de equipo mencionando brevemente acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
- 4. Realizar una tabla **(a forma de sprint backlog)** que contenga las actividades a realizar durante el sprint, responsables, el estado de la tarea (finalizada, en proceso), fecha de inicio, fechas límite de entrega y fecha de entrega. 
+ - Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"Descripción_del_proceso"* (ubicado en la branch "*Segunda-Entrega*") a las personas correspondientes.   
+ - Orquestar las reuniones: *"Scrum team meeting"* y  "Sprint review". 
+ - Escribir una bitácora de las reuniones de equipo mencionando brevemente acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
+ - Realizar una tabla **(a forma de sprint backlog)** que contenga las actividades a realizar durante el sprint, responsables, el estado de la tarea (finalizada, en proceso), fecha de inicio, fechas límite de entrega y fecha de entrega. 
  - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, mediano, alto).  
  - **Organización y Documentación del Repositorio:** Crear archivos en formato StackEdit en la branch de "*Segunda-Entrega*" del repositorio del equipo (Equipo-4)  para cada sección (Producto, Requisitos, Diseño, Presentación del avance y Competencias). En el caso de la sección Proceso, crear un archivo individual para la actividad de Descripción del proceso, Gestión del proceso y Métrica de contribución. 
  
  
 ### *Sección "Presentación del avance"*
 **Responsables**
-1. *Rubén Moisés Loria Pech:* Edición del video. 
-2. *Cárdenas Rojas Kendrick Asaf:* Diálogos, audios, 
+ - *Rubén Moisés Loria Pech:* Edición del video. 
+ - *Cárdenas Rojas Kendrick Asaf:* Diálogos, audios y material para el video. 
+
+ **Actividades**
+ - **Edición del video:** Realizar un video presentando los avances en 
+
  
  ### *Sección "Competencias"*
 
@@ -217,7 +221,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MzcwMzc1OCwxMzg5MzkyMzU2LC00MT
+eyJoaXN0b3J5IjpbLTU4Njg5NTE2OSwxMzg5MzkyMzU2LC00MT
 k4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMTY1ODAw
 OTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC
 0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
