@@ -86,7 +86,7 @@
   5. *Suárez Balam Brandon Emmanuel* Casos de uso basados en las historias de usuario número 3, 4, 5  y 16.
   
 **Actividades**
- - **Historias de usuario:**  Realizar las historias de usuario con criterios de aceptación utilizando la guía de SCRUM[^1]. 
+ - **Historias de usuario:**  Realizar las historias de usuario con criterios de aceptación utilizando la guía de SCRUM[^2]. 
  - **Casos de uso (historias de usuario número 1, 2, 8 y 15):** Elaborar los casos de uso derivados de las historias de usuario.
  -  **Casos de uso (historias de usuario número 11, 12 , 13 y 14):** Elaborar los casos de uso derivados de las historias de usuario.
  -    **Casos de uso (historias de usuario número 6, 7, 9  y 10):** Elaborar los casos de uso derivados de las historias de usuario.
@@ -221,13 +221,12 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
   
 [^1]: ILIMIT. (s.f).*Metodología SCRUM: qué es y cómo implementarlo.* ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
-[^2]: ILIMIT. (s.f).*Metodología SCRUM: qué es y cómo implementarlo.* ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
-
+[^2]: Scrum Manager®.(s.f).*Historias de Usuario*. https://www.scrummanager.com/files/scrum_manager_historias_usuario.pdf
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzI4NjkwOTgsMTI4ODUwMzM4MCwxNz
+eyJoaXN0b3J5IjpbLTE3OTg1NjgzODUsMTI4ODUwMzM4MCwxNz
 EwMzk4Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4
 Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OT
 ZdfQ==
