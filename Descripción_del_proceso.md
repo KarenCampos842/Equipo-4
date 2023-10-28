@@ -104,9 +104,8 @@ Utilizar la siguiente plantilla:
       <th colspan="2">Nombre del caso de uso (CU)</th>  
    </tr> 
     <tr>  
-      <td><b>Versió</b></td>  
-       <td></td> 
-       <td>usuario de WorkFlash</td> 
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0(29/10/2023)</td> 
    </tr> 
     <tr>  
       <td><b>Quiero</b></td>  
@@ -205,7 +204,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDA3MDc1MCwxNzEwMzk4Mzk0LDExMT
-Y1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2
-OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
+eyJoaXN0b3J5IjpbNDkzMzc4NzExLDE3MTAzOTgzOTQsMTExNj
+U4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5
+MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
 -->
