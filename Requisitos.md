@@ -48,19 +48,19 @@
 
 ## Requisitos no funcionales
 
-20. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 (por los requisitos que manejaremos y las funciones del sistema).
+23. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 (por los requisitos que manejaremos y las funciones del sistema).
 
-21.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (validando la identificación oficial proporcionada).
+24.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (validando la identificación oficial proporcionada).
  
-22.  El sistema debe ser fácil de mantener y actualizar (dándole mantenimiento).
+25.  El sistema debe ser fácil de mantener y actualizar (dándole mantenimiento).
  
-23.  El sistema debe estar disponible cuando se requiera (darle mantenimiento solo en horarios de baja demanda).
+26.  El sistema debe estar disponible cuando se requiera (darle mantenimiento solo en horarios de baja demanda).
 
-24.  El sistema debe ser intuitivo y amigable para la mayoría de usuarios (colocar imágenes fáciles de entender y simbología básica).
+27.  El sistema debe ser intuitivo y amigable para la mayoría de usuarios (colocar imágenes fáciles de entender y simbología básica).
 
-25.  El sistema debe ser confiable y cumplir con los requisitos del usuario (asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados asi como las identificaciones oficiales del trabajador).
+28.  El sistema debe ser confiable y cumplir con los requisitos del usuario (asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados así como las identificaciones oficiales del trabajador).
 
-26.  Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal (verificando los servicios continuamente).
+29.  Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal (verificando los servicios continuamente).
 
 
 
@@ -201,9 +201,10 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwNzE1MjU1LDE1MzA5MzY0OTksLTI2OT
-Y3MDEyMywxNjkyMzEzMzg0LC02MDU4ODY0NTAsLTE4MDk0ODAx
-MTcsMjA4MzgzNTg3OCwxNTk5MTM0Mjk0LC05OTIwNDE1NjQsLT
-M1OTMwMDQzMyw5OTY1MTMwOTEsLTU4MDQ1MTQ3OSw1MDgyMjU2
-NTAsNjk1NzgzNTM0LC02ODAzMTk3NjYsMTAxMjMyNTAxOF19
+eyJoaXN0b3J5IjpbMTkwMjcwMDQ2NCwxNTMwOTM2NDk5LC0yNj
+k2NzAxMjMsMTY5MjMxMzM4NCwtNjA1ODg2NDUwLC0xODA5NDgw
+MTE3LDIwODM4MzU4NzgsMTU5OTEzNDI5NCwtOTkyMDQxNTY0LC
+0zNTkzMDA0MzMsOTk2NTEzMDkxLC01ODA0NTE0NzksNTA4MjI1
+NjUwLDY5NTc4MzUzNCwtNjgwMzE5NzY2LDEwMTIzMjUwMThdfQ
+==
 -->
