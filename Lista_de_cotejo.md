@@ -1,7 +1,7 @@
 
 <h1>Lista de cotejo</h1>
 <table align="center">  
- <tbody><tr>
+ <body><tr>
   <th></th>
   <th>Indicador</th>
   <th>Descripción</th>
@@ -22,23 +22,12 @@
   <td></td>
  </tr>
  <tr>
-  <td>Requisitos No Funcionales</td>
+  <td>Refinamiento de Artefactos</td>
   <td>RNF: Se cuenta con un conjunto de Requisitos No Funcionales (RNF) claro, completo, consistente. Existe una forma clara de verificar el requisito. Se identifica la categoría de RNF.</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos-no-funcionales">Requistos No Funcionales</a></td>
   <td></td>
  </tr>
-  <tr>
-  <td>Priorización</td>
-  <td>Método de prioridad: Se encuentran priorizados los Requisitos/Historias de Usuario. Se realizó un análisis sobre la factibilidad e importancia de los requerimientos. Se utilizó un método para evaluar la prioridad.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#priorizaci%C3%B3n">Priorización</a></td>
-  <td></td>
- </tr>
-   <tr>
-  <td>Artefactos</td>
-  <td>Se incluyen como evidencia artefactos que especifican los Requisitos, incluye excepciones a considerar (*casos de uso, historias de usuario con criterios de aceptación). Se presenta un diagrama que resume el conjunto de requisitos (ej. Diagrama de Casos de Uso).</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#artefactos">Artefactos</a></td>
-  <td></td>
- </tr>
+
   <tr>
   <th rowspan="4">Proceso</th>
   <td>Descripción del Proceso</td>
@@ -129,5 +118,5 @@ Opcional: Utilizan métodos ágiles. Se distingue de forma clara que utilizan un
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwOTg4MjQwLDExODAzNTAzOF19
+eyJoaXN0b3J5IjpbMTc4NTI2MTc2NSwxMTgwMzUwMzhdfQ==
 -->
