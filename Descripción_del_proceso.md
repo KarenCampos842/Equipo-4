@@ -55,7 +55,7 @@
 **Responsables**
 
  1. *Cárdenas Rojas Kendrick Asaf:* Evolución del producto.
- 2. *Suárez Balam Brandon Emmanuel:* Propuesta de valor. 
+ 2. *Suárez Balam Brandon Emmanuel:* Revisión de ortografía de la Evolución del producto
  
 **Revisor de redacción de "Producto":** *Suárez Balam Brandon Emmanuel.*
 
@@ -156,6 +156,6 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyMzE3MDEzLC0xNTI3MjgzNzkyLC00OD
-I4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbLTEyNDM1MTc3OTgsLTE1MjcyODM3OTIsLT
+Q4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
 -->
