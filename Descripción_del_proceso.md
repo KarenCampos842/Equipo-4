@@ -101,11 +101,11 @@ Utilizar la siguiente plantilla:
 <table align=center>  
    <tr>
      <th>CU-01</th>  
-      <th>Nombre del caso de uso (CU</th>  
-      <th>Recuperación de contraseña</th> 
+      <th colspan="2">Nombre del caso de uso (CU)</th>  
    </tr> 
     <tr>  
-      <td><b>Como</b></td>  
+      <td><b>Versió</b></td>  
+       <td></td> 
        <td>usuario de WorkFlash</td> 
    </tr> 
     <tr>  
@@ -205,7 +205,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDA3ODQyMCwxNzEwMzk4Mzk0LDExMT
+eyJoaXN0b3J5IjpbMTA1NDA3MDc1MCwxNzEwMzk4Mzk0LDExMT
 Y1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2
 OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
 -->
