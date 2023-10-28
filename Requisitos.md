@@ -34,7 +34,7 @@
 
 16. **Calificación del cliente:** Una vez que se ha contratado el servicio, el sistema mostrará al trabajador un apartado para calificar al cliente.
 
-17. **Finalización del servicio:** Una vez que se ha contratado el servicio, el sistema mostrará al cliente una opción para indicar cuando el trabajo se haya realizado. Al seleccionarla, se mostrará una ventana que le permitirá al cliente calificar al trabajador y publicar un comentario (opcional). Además se mostrará una opción adicional para levantar un reporte.
+17. **Finalización del contrato:** Una vez que se ha contratado el servicio, el sistema mostrará al cliente una opción para indicar cuando el trabajo se haya realizado. Al seleccionarla, se mostrará una ventana que le permitirá al cliente calificar al trabajador y publicar un comentario (opcional). Además se mostrará una opción adicional para levantar un reporte.
 
 18. **Reportes:** Cuando el cliente levante un reporte, el sistema notificará al trabajador. Si el trabajador acumula 5 reportes, su cuenta será cancelada.
 
@@ -201,11 +201,11 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjM3MTk2Niw4MzgzODgyODksMTI2ND
-U2MzAyLC0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02NzA4MjQw
-NjEsNDQ5Mzk1MzM2LC0xNDQ1MzI5OTE0LC03NTU0MDMwNjksLT
-IwODI5NzU2NTAsLTI3OTU1NzY0NCwtMTI1Mjg2Njg5NiwxNTMw
-OTM2NDk5LC0yNjk2NzAxMjMsMTY5MjMxMzM4NCwtNjA1ODg2ND
-UwLC0xODA5NDgwMTE3LDIwODM4MzU4NzgsMTU5OTEzNDI5NCwt
-OTkyMDQxNTY0XX0=
+eyJoaXN0b3J5IjpbLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzOD
+M4ODI4OSwxMjY0NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYw
+NTYsLTY3MDgyNDA2MSw0NDkzOTUzMzYsLTE0NDUzMjk5MTQsLT
+c1NTQwMzA2OSwtMjA4Mjk3NTY1MCwtMjc5NTU3NjQ0LC0xMjUy
+ODY2ODk2LDE1MzA5MzY0OTksLTI2OTY3MDEyMywxNjkyMzEzMz
+g0LC02MDU4ODY0NTAsLTE4MDk0ODAxMTcsMjA4MzgzNTg3OCwx
+NTk5MTM0Mjk0XX0=
 -->
