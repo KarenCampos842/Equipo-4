@@ -105,10 +105,10 @@ Utilizar la siguiente plantilla:
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
-       <td colspan="2">1.0(29/10/2023)</td> 
+       <td colspan="2">1.0 (29/10/2023)</td> 
    </tr> 
     <tr>  
-      <td><b>Quiero</b></td>  
+      <td><b>Descripción</b></td>  
        <td>poder recuperar mi contraseña</td> 
    </tr> 
      <tr>  
@@ -204,7 +204,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzMzc4NzExLDE3MTAzOTgzOTQsMTExNj
+eyJoaXN0b3J5IjpbLTcyNjAxNzg5LDE3MTAzOTgzOTQsMTExNj
 U4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5
 MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
 -->
