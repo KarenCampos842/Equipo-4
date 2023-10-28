@@ -117,8 +117,9 @@ Utilizar la siguiente plantilla:
    </tr> 
      <tr>  
       <td><b>Secuencia normal</b></td>  
-       <td>volver a acceder a los beneficios de WorkFlash.</td> 
-   </tr> 
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
   <tr>  
       <td><b>Criterios de aceptación</b></td>  
        <td> 
@@ -208,7 +209,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA3MzA5NTgsMTcxMDM5ODM5NCwxMT
-E2NTgwMDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLTQ4Mjgw
-NjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbMTk1MTQyNjk5MywxNzEwMzk4Mzk0LDExMT
+Y1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2
+OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
 -->
