@@ -73,11 +73,8 @@
 **Actividades**
  - **Requerimientos funcionales:** Modificar los requerimientos para una mayor claridad.
  - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad.
- - **Priorización:** Ordenar los requisitos funcionales y no funcionales utilizando la metodología de *"MoSCoW".* 
- - **Artefactos**:  Elaborar artefactos que especifiquen los requisitos (investigar), escribir excepciones (casos de uso, historias de usuario con criterios de aceptación), y realizar  un diagrama de casos de uso que resuma el conjunto de requisitos (funcionales, no funcionales). 
-
-  ***NOTA:*** Para realizar las actividades descritas con anterioridad pueden apoyarse en el documento "*propuesta.proyecto.equipo4.pdf*" localizado en el **main** del repositorio del equipo.
-
+ - **Priorización:** Priorizar los  requerimientos funcionales utilizando la metodología de *"MoSCoW".* 
+ 
 ### *Sección "Proceso"*
 
 **Responsables**
@@ -149,7 +146,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzMTI1MDMwLC02Mjc2ODM3ODcsLTE1Mj
-cyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2
-Njk2XX0=
+eyJoaXN0b3J5IjpbMTg5OTc0MDk4OCwtNjI3NjgzNzg3LC0xNT
+I3MjgzNzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0
+NjY5Nl19
 -->
