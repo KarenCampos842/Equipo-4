@@ -46,8 +46,8 @@
 
 ## Sprint planning (second sprint) 
 ### Duración del sprint: 10 días
-NOTA: Se encontrarán archivos para cada sección de la lista de cotejo en la branch de Segunda-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
-### Pila
+
+### Sprint Backlog (resultado de
 NOTA: Se encontrarán archivos para cada sección de la lista de cotejo divididos por actividad en la branch de Segunda-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
 
 
@@ -157,6 +157,6 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzYxODIyOTgsLTQ4MjgwNjkyMSwtMT
+eyJoaXN0b3J5IjpbLTE1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMT
 c0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
 -->
