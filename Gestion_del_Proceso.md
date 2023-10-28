@@ -3,7 +3,8 @@
 ### Bitácora
 **Miércoles 18 de septiembre de 2023 (Retrospective)**<br> Durante la reunión se realizó un análisis del desempeño del equipo durante el último sprint. Como resultado hubo un cambio de líder (de Moisés a Karen), debido a problemas de organización. 
 
-**Jueves 26 de septiembre de 2023 (Sprint planning meeting)**<br> Durante la reunión se definieron las actividades para el segundo sprint, las cuales quedan detalladas en el archivo Descripci
+**Viernes 27 de septiembre de 2023 (Sprint planning meeting)**<br> Durante la reunión se definieron las actividades para el segundo sprint, las cuales quedan detalladas en el archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>
+De igual forma se asignaron roles
 
 <br>**Producto final:** 
 
@@ -12,6 +13,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDEzNDkwNiwtMTYwMzA5MjQyNCwtMT
-QyOTE3NzYyMF19
+eyJoaXN0b3J5IjpbLTE5NDA2ODM3MjAsLTE2MDMwOTI0MjQsLT
+E0MjkxNzc2MjBdfQ==
 -->
