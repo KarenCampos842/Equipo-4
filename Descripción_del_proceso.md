@@ -109,14 +109,14 @@ Utilizar la siguiente plantilla:
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El sistema deberá comportarse como se describe en el siguiente caso de uso cuando ...</td> 
+       <td colspan="2">x</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
        <td colspan="2">El sistema deberá comportarse como se describe en el siguiente caso de uso cuando ...</td> 
    </tr> 
      <tr>  
-      <td><b>Para</b></td>  
+      <td><b>Secuencia normal</b></td>  
        <td>volver a acceder a los beneficios de WorkFlash.</td> 
    </tr> 
   <tr>  
@@ -208,7 +208,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0NDcwMzAyLDE3MTAzOTgzOTQsMTExNj
-U4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5
-MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbLTE3OTA3MzA5NTgsMTcxMDM5ODM5NCwxMT
+E2NTgwMDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLTQ4Mjgw
+NjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
 -->
