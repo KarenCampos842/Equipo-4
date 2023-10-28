@@ -220,7 +220,7 @@ Producto.md, Requisitos.md, Diseño.md, <a href="https://github.com/KarenCampos8
 Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo aquello que se hizo bien con relación al uso de la metodología SCRUM, el proceso, uso de herramientas, así como, todo aquello que se puede mejorar en cuanto a proceso, herramientas, relación entre compañeros, etc. 
   
   
-[^1]: Scrum Manager® (s.f).*Scrum Master*. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
+[^1]: Scrum Manager® (s.f).*Scrum Master*. https://www.scrummanager.com/files/scrum_master.pdf
 
 [^2]: Scrum Manager®.(2022).*Historias de Usuario*. https://www.scrummanager.com/files/scrum_manager_historias_usuario.pdf
 [^3]: Marco de Desarrollo de la Junta de Andalucía.(s.f).*Guía para la redacción de casos de uso*. Junta de Andalucía. https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416
@@ -228,9 +228,8 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc3ODgyOTAsMTU2NzcwMjU2OSwxMz
-g5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4
-Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5Mi
-wtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
-
+eyJoaXN0b3J5IjpbMTU5OTg2ODIwNCwxNTY3NzAyNTY5LDEzOD
+kzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgz
+OTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC
+00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
 -->
