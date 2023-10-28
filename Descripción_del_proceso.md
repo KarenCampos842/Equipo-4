@@ -62,7 +62,8 @@
   
  - **Evolución del producto:** Resumen de los cambios completados del producto entre la primera y segunda entrega. Mencionar de manera sintetizada los cambios más significativos en los requerimientos y artefactos.
   
-  ***NOTA:*** Para realizar las actividades descritas con anterioridad pueden apoyarse en el documento "*propuesta.proyecto.equipo4.pdf*" localizado en el **main** del repositorio del equipo.
+  ***NOTA:*** Para realizar las actividades descritas con anterioridad revisar el documento <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Competencias.md#competencias-espec%C3%ADficas">Competencias Específicas</a> https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md
+   *" localizado en el **main** del repositorio del equipo.
 
 ### *Sección "Requisitos"*
 
@@ -152,6 +153,6 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzgyNTU3MSwtMTUyNzI4Mzc5MiwtND
-gyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
+eyJoaXN0b3J5IjpbMTYyNTEyMzkwLC0xNTI3MjgzNzkyLC00OD
+I4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
 -->
