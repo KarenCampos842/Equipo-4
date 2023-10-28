@@ -66,11 +66,10 @@
 
 ### *Sección "Requisitos"*
 
-**Responsables**
+**Responsables del apartado Evolución de requisitos"**
 
  1. *Campos García Karen Elizabeth:* Evolución de requisitos-Requerimientos funcionales.
- 2. *Maldonado Medina Hansony de Jesús:* Requisitos funcionales y Requisitos no funcionales.
- 3. *Romero Poot Carlos Emmanuel:* Priorización y Artefactos.
+ 2. *Maldonado Medina Hansony de Jesús:* Evolución funcionales y Requisitos no funcionales.
  
 **Revisor de redacción de "Requisitos":** *Romero Poot Carlos Emmanuel.*
 
@@ -153,7 +152,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY5ODcxNzAsLTYyNzY4Mzc4NywtMT
+eyJoaXN0b3J5IjpbLTE5MTcyODQzMDcsLTYyNzY4Mzc4NywtMT
 UyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0
 NDY2OTZdfQ==
 -->
