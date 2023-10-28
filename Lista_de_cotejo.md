@@ -9,17 +9,22 @@
    <th>Rúbrica. Nivlel (0-3)</th>
  </tr>
  <tr>
-  <th>Producto</th>
-  <td>Evolución del producto</td>
-  <td>Resumen de los cambios completados del producto entre la primera y segunda entrega. Mencionar de manera sintetizada los cambios más significativos y que se cuenta con evidencia..</td>
+  <th rowspan="3">Producto</th>
+  <td>Evolución del Producto</td>
+  <td>Objetivo: Se identifica de forma clara y específica el objetivo del producto. Se definen alcances y limitaciones.</td>
   <td>
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Producto.md#descripci%C3%B3n-del-producto">Descripción del producto</a></td>
   <td></td>
  </tr>
  <tr>
+  <td>Usuarios/Clientes</td>
+  <td>Usuarios: Se identifica de forma clara los usuarios primarios, secundarios y/o potenciales. Se cuenta con información básica del perfil de los usuarios. Se cuentan con información adicional de los usuarios (perfiles, personas, escenarios)*</td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Producto.md#usuariosclientes">Usuarios/Clientes</a></td>
+  <td></td>
+ </tr>
   <tr>
-  <td><b>Propuesta de Valor</b></td>
-  <td>Evolución de Requisito</td>
+  <td>Propuesta de Valor</td>
+  <td>Es clara la propuesta de valor del producto. Es clara la diferencia del producto con respecto a otras propuestas existentes. ¿Qué incluye este producto que no hacen otros? ¿En una necesidad identificada? ¿Por qué se podrían considerar de valor la propuesta?</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Producto.md#propuesta-de-valor">Propuesta de Valor</a></td>
   <td></td>
  </tr>
@@ -138,5 +143,5 @@ Opcional: Utilizan métodos ágiles. Se distingue de forma clara que utilizan un
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwNDc0MTMxLDExODAzNTAzOF19
+eyJoaXN0b3J5IjpbLTkxMTQwMTc3NywxMTgwMzUwMzhdfQ==
 -->
