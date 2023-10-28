@@ -56,7 +56,7 @@
 
  1. *Cárdenas Rojas Kendrick Asaf:* Evolución del producto.
 
-**Corrector de redacción de "Producto":** *Suárez Balam Brandon Emmanuel.*
+
 
 **Actividades**
   
@@ -69,9 +69,9 @@
 **Responsables del apartado Evolución de requisitos"**
 
  1. *Campos García Karen Elizabeth:* Requerimientos funcionales.
- 2. *Maldonado Medina Hansony de Jesús:* Evolución funcionales y Requisitos no funcionales.
- 
-**Revisor de redacción de "Requisitos":** *Romero Poot Carlos Emmanuel.*
+ 2. *Maldonado Medina Hansony de Jesús:* Requerimientos no funcionales y priorización.
+
+**Corrector de redacción de "Requisitos":** *Romero Poot Carlos Emmanuel.*
 
 **Actividades**
  - **Requisitos funcionales:** Escribir los requisitos funcionales de forma clara, completa y consistente. 
@@ -152,7 +152,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzYxNDUwNDYsLTYyNzY4Mzc4NywtMT
+eyJoaXN0b3J5IjpbLTExMzYzODE1MTUsLTYyNzY4Mzc4NywtMT
 UyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0
 NDY2OTZdfQ==
 -->
