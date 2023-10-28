@@ -60,7 +60,7 @@
 
 **Actividades**
   
- - **Descripción del producto:** Escribir de forma clara y específica el objetivo del producto. Definir alcances y limitaciones. 
+ - **Evolución del producto:** Resumen de los cambios completados del producto entre la primera y segunda entrega. Mencionar de manera sintetizada los cambios más significativos en los requerimientos y artefactos.
   
   ***NOTA:*** Para realizar las actividades descritas con anterioridad pueden apoyarse en el documento "*propuesta.proyecto.equipo4.pdf*" localizado en el **main** del repositorio del equipo.
 
@@ -152,6 +152,6 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQxNTcxMzEsLTE1MjcyODM3OTIsLT
-Q4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbLTY2MzgyNTU3MSwtMTUyNzI4Mzc5MiwtND
+gyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
 -->
