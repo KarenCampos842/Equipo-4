@@ -81,7 +81,7 @@
 
  1. *Campos García Karen Elizabeth:* Historias de usuario.
  2. *Maldonado Medina Hansony de Jesús:* Casos de uso basados en las historias de usuario número 1, 2, 8 y 15.
- 3. *Romero Poot Carlos Emmanuel:* Casos de uso basados en las historias de usuario número 11, 12 , 13 y 14.
+ 3. *Romero Poot Carlos Emmanuel:* Diagrama de Caso de UCasos de uso basados en las historias de usuario número 11, 12 , 13 y 14.
   4. *Rubén Moisés Loria Pech:* Casos de uso basados en las historias de usuario número 6, 7, 9  y 10.
   5. *Suárez Balam Brandon Emmanuel* Casos de uso basados en las historias de usuario número 3, 4, 5  y 16.
   
@@ -225,8 +225,8 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTc3NDc3OSwxMjg4NTAzMzgwLDE3MT
-AzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3Mjgz
-NzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl
-19
+eyJoaXN0b3J5IjpbLTE0ODUyMjE3NzYsMTI4ODUwMzM4MCwxNz
+EwMzk4Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4
+Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OT
+ZdfQ==
 -->
