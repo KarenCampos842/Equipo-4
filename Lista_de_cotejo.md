@@ -81,13 +81,13 @@
  </tr>
  <tr>
   <td>Ritmo de la Presentación</td>
-  <td> El formato de presentación tiene un flujo que permite entender de forma clara el desarrollo del proyecto. </td>
+  <td>El formato de presentación tiene un flujo que permite entender de forma clara el desarrollo del proyecto.</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Presentacion_del_avance.md">Ritmo de la Presentación</a></td>
   <td></td>
  </tr>
   <tr>
   <td>Uso del Lenguaje</td>
-  <td>Se utiliza el lenguaje (ES/EN) de IS de forma correcta, práctica y sintética. El ritmo, tono y pitch es efectivo para mantener la atención.</td>
+  <td>Se utiliza el lenguaje (ES/EN) de IS de forma correcta, práctica y sintética. El ritmo, tono y pitch es efectivo para mantener la atención</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Presentacion_del_avance.md">Uso del Lenguaje</a></td>
   <td></td>
  </tr>
@@ -136,5 +136,5 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDU5MTM0MTMsMTE4MDM1MDM4XX0=
+eyJoaXN0b3J5IjpbNzYyMTc0NTQ5LDExODAzNTAzOF19
 -->
