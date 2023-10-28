@@ -96,7 +96,41 @@
  
 Utilizar como guía este ejemplo de <a href="https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416">caso de uso</a>  
 Utilizar la siguiente plantilla:
-<
+ </table>
+ <br>    
+<table align=center>  
+   <tr>
+     <th wspan="2">Requisitos</th>  
+      <th>Historia de usuario #16</th>  
+      <th>Recuperación de contraseña</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>usuario de WorkFlash</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td>poder recuperar mi contraseña</td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td>volver a acceder a los beneficios de WorkFlash.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+                <li>Comprobar que el usuario seleccione la opción de recuperar contraseña.
+                </li>
+        <li>Comprobar que el sistema solicite un correo para recuperación de contraseña.
+                </li>
+                 <li>Comprobar que existe texto antes y después de @ para el correo.</li>
+                 <li>Comprobar que se ha enviado la contraseña al correo proporcionado.</li>
+ </table>           
+
+
+
+
  **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a>  
  
  
@@ -171,7 +205,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0ODkwMTIyLDE3MTAzOTgzOTQsMTExNj
-U4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5
-MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbMTcxODQ4MDExMiwxNzEwMzk4Mzk0LDExMT
+Y1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2
+OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
 -->
