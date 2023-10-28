@@ -157,7 +157,8 @@ Utilizar la siguiente plantilla:
 
 **Actividades**
 
- - B
+ - **Bosquejos de Interfaces:** Realizar el conjunto inicial de prototipos de baja, media o alta fidelidad utilizando Figma.
+ -  **Bosquejos de Interfaces:** Realizar el conjunto inicial de prototipos de baja, media o alta fidelidad utilizando Figma.
 
 ### *Sección "Proceso"*
 
@@ -234,8 +235,8 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQ3NjIxMzcsMTI4ODUwMzM4MCwxNz
-EwMzk4Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4
-Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OT
-ZdfQ==
+eyJoaXN0b3J5IjpbMTc4NjQ3NzQzNiwxMjg4NTAzMzgwLDE3MT
+AzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3Mjgz
+NzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl
+19
 -->
