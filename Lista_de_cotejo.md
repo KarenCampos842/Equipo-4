@@ -18,8 +18,8 @@
  </tr>
  <tr>
   <tr>
-  <td>Propuesta de Valor</td>
-  <td>Es clara la propuesta de valor del producto. Es clara la diferencia del producto con respecto a otras propuestas existentes. ¿Qué incluye este producto que no hacen otros? ¿En una necesidad identificada? ¿Por qué se podrían considerar de valor la propuesta?</td>
+  <td><b>Propuesta de Valor</b></td>
+  <td>Evolución de Requisito</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Producto.md#propuesta-de-valor">Propuesta de Valor</a></td>
   <td></td>
  </tr>
@@ -138,5 +138,5 @@ Opcional: Utilizan métodos ágiles. Se distingue de forma clara que utilizan un
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjkzMjI1NiwxMTgwMzUwMzhdfQ==
+eyJoaXN0b3J5IjpbMzkwNDc0MTMxLDExODAzNTAzOF19
 -->
