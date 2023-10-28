@@ -1,7 +1,7 @@
 <h1>REQUISITOS</h1>
 
 
-## Requisitos funcionales
+## Requerimientos funcionales
 1. **Perfiles:** El sistema permitirá al usuario seleccionar un perfil (cliente o trabajador), con el cuál iniciará su registro a la aplicación.
 
 2. **Registro del cliente:** Si el usuario ha seleccionado el perfil de cliente, solicitará al usuario nombre(s) y apellido(s), una identificación oficial con fotografía (credencial para votar o cartilla de servicio militar), una fotografía actual (imagen), un correo electrónico y aceptación de términos y condiciones.
@@ -597,11 +597,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNz
-Q1Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgy
-ODksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC
-02NzA4MjQwNjEsNDQ5Mzk1MzM2LC0xNDQ1MzI5OTE0LC03NTU0
-MDMwNjksLTIwODI5NzU2NTAsLTI3OTU1NzY0NCwtMTI1Mjg2Nj
-g5NiwxNTMwOTM2NDk5LC0yNjk2NzAxMjMsMTY5MjMxMzM4NCwt
-NjA1ODg2NDUwXX0=
+eyJoaXN0b3J5IjpbLTEwNDg0ODY1NDUsLTEyNzA0NTcyNjcsLT
+EzNzYwNzgyMzQsNzQ1Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3
+MTk2Niw4MzgzODgyODksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC
+0xOTkxOTY2MDU2LC02NzA4MjQwNjEsNDQ5Mzk1MzM2LC0xNDQ1
+MzI5OTE0LC03NTU0MDMwNjksLTIwODI5NzU2NTAsLTI3OTU1Nz
+Y0NCwtMTI1Mjg2Njg5NiwxNTMwOTM2NDk5LC0yNjk2NzAxMjMs
+MTY5MjMxMzM4NF19
 -->
