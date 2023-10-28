@@ -55,16 +55,12 @@
 **Responsables**
 
  1. *Cárdenas Rojas Kendrick Asaf:* Evolución del producto.
- 2. *Suárez Balam Brandon Emmanuel:* Revisión de ortografía de la Evolución del producto
- 
+
 **Revisor de redacción de "Producto":** *Suárez Balam Brandon Emmanuel.*
 
 **Actividades**
   
  - **Descripción del producto:** Escribir de forma clara y específica el objetivo del producto. Definir alcances y limitaciones. 
- - **Usuarios/Clientes:** Escribir quienes serán los usuarios primarios, secundarios y potenciales. Describir características relevantes (investigar) de los usuarios de cada tipo (edad,  ubicación geográfica, nivel socioeconómico, etc.) y posibles escenarios en los que utilizarían el producto.
- - **Propuesta de valor:** Describir en qué consiste el producto y cómo se diferencia  de productos similares (investigar un producto similar y comparar con el nuestro).  <br>Preguntas guía: ¿Qué incluye este producto que no hacen otros?, ¿Existe una necesidad identificada?, ¿Por qué se podría considerar de valor la propuesta?
-
   
   ***NOTA:*** Para realizar las actividades descritas con anterioridad pueden apoyarse en el documento "*propuesta.proyecto.equipo4.pdf*" localizado en el **main** del repositorio del equipo.
 
@@ -156,6 +152,6 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDM1MTc3OTgsLTE1MjcyODM3OTIsLT
+eyJoaXN0b3J5IjpbLTIwNzQxNTcxMzEsLTE1MjcyODM3OTIsLT
 Q4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
 -->
