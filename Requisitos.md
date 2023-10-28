@@ -16,9 +16,9 @@
 
 7. **Calificaciones:** Basado en una escala de cinco estrellas, el sistema permitirá al usuario (cliente o trabajador) calificar la calidad de su experiencia (una estrella es la calificación más baja, cinco estrellas la máxima). Su calificación será el promedio de todas las calificaciones recibidas.
 
-8. **Creación del perfil de cliente:** El sistema creará el perfil del cliente, el cual contendrá: fotografía del usuario, nombre y calificación.
+8. **Creación del perfil de cliente:** El sistema creará el perfil del cliente, el cual contendrá: fotografía del usuario, un nombre y un apellido y calificación.
 
-9. **Creación del perfil de trabajador:** El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, nombre, oficio, descripción de los trabajos que realiza, dirección de su local (opcional), zona de trabajo, calificaciones y comentarios de clientes.
+9. **Creación del perfil de trabajador:** El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, un nombre y un apellido, oficio, descripción de los trabajos que realiza, zona de trabajo, calificaciones y comentarios de clientes.
  
 10. **Inicio de sesión:**  El usuario podrá iniciar sesión proporcionando el correo con el que se registró la y la contraseña asignada. Al entrar, el sistema solicitará su ubicación (en caso del cliente). 
 
@@ -201,10 +201,10 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI4NjY4OTYsMTUzMDkzNjQ5OSwtMj
-Y5NjcwMTIzLDE2OTIzMTMzODQsLTYwNTg4NjQ1MCwtMTgwOTQ4
-MDExNywyMDgzODM1ODc4LDE1OTkxMzQyOTQsLTk5MjA0MTU2NC
-wtMzU5MzAwNDMzLDk5NjUxMzA5MSwtNTgwNDUxNDc5LDUwODIy
-NTY1MCw2OTU3ODM1MzQsLTY4MDMxOTc2NiwxMDEyMzI1MDE4XX
-0=
+eyJoaXN0b3J5IjpbMTYzNzUxNjUwLC0xMjUyODY2ODk2LDE1Mz
+A5MzY0OTksLTI2OTY3MDEyMywxNjkyMzEzMzg0LC02MDU4ODY0
+NTAsLTE4MDk0ODAxMTcsMjA4MzgzNTg3OCwxNTk5MTM0Mjk0LC
+05OTIwNDE1NjQsLTM1OTMwMDQzMyw5OTY1MTMwOTEsLTU4MDQ1
+MTQ3OSw1MDgyMjU2NTAsNjk1NzgzNTM0LC02ODAzMTk3NjYsMT
+AxMjMyNTAxOF19
 -->
