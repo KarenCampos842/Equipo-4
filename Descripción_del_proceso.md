@@ -94,7 +94,7 @@
  
  ***NOTA:*** Para realizar los casos de uso deben de leer detenidamente las <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#historias-de-usuarios2 ">historias de usuario </a> y los <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requerimientos-funcionales ">requerimientos </a>ubicados en el archivo de Requisitos.md en la rama de Segunda-Entrega.
  
-Utilizar como guía este ejemplo de <a href="https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416">caso de uso</a>[^3]  
+Utilizar como guía este ejemplo de <a href="https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416">caso de uso</a> [^3]  
 Utilizar la siguiente plantilla:
  </table>
  <br>    
@@ -146,9 +146,6 @@ Utilizar la siguiente plantilla:
    <td>x</td> 
   </tr>          
  </table>           
-
-
-
 
  **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a>  
  
@@ -222,11 +219,13 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 [^1]: ILIMIT. (s.f).*Metodología SCRUM: qué es y cómo implementarlo.* ILIMIT. https://www.ilimit.com/blog/metodologia-scrum/#:~:text=La%20metodolog%C3%ADa%20SCRUM%20consiste%20en,de%20esta%20filosof%C3%ADa%20de%20trabajo
 
 [^2]: Scrum Manager®.(2022).*Historias de Usuario*. https://www.scrummanager.com/files/scrum_manager_historias_usuario.pdf
+[^3]: Scrum Manager®.(2022).*Historias de Usuario*. https://www.scrummanager.com/files/scrum_manager_historias_usuario.pdf
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODM5MDY1MywxMjg4NTAzMzgwLDE3MT
+eyJoaXN0b3J5IjpbLTI2NDA4ODUzMiwxMjg4NTAzMzgwLDE3MT
 AzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3Mjgz
 NzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl
 19
