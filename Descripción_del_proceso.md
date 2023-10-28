@@ -181,6 +181,7 @@ Utilizar la siguiente plantilla:
  - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, mediano, alto).  
  - **Organización y Documentación del Repositorio:** Crear archivos en formato StackEdit en la branch de "*Segunda-Entrega*" del repositorio del equipo (Equipo-4)  para cada sección (Producto, Requisitos, Diseño, Presentación del avance y Competencias). En el caso de la sección Proceso, crear un archivo individual para la actividad de Descripción del proceso, Gestión del proceso y Métrica de contribución. 
  
+ **Archivo del trabajo/Resultado:** 
  
 ### *Sección "Presentación del avance"*
 **Responsables**
@@ -223,8 +224,8 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzcwMjU2OSwxMzg5MzkyMzU2LC00MT
-k4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMTY1ODAw
-OTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC
-0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
+eyJoaXN0b3J5IjpbMTYyNTg2MDE0NywxNTY3NzAyNTY5LDEzOD
+kzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgz
+OTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC
+00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
 -->
