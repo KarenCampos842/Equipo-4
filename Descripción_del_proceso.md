@@ -81,6 +81,7 @@
 
  1. *Campos García Karen Elizabeth:* Historias de usuario.
  2. *Maldonado Medina Hansony de Jesús:* Requerimientos no funcionales y priorización.
+ 3. *Romero Poot Carlos Emmanuel:*
 
 **Actividades**
  - **Requerimientos funcionales:** Modificar los requerimientos para una mayor claridad.
@@ -161,7 +162,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM2NDU4NDYsMTExNjU4MDA5NiwtNj
-I3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5MjEsLTE3NDUx
-Mzk2MDEsMTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbMTYxNTUwMzE0MywxMTE2NTgwMDk2LC02Mj
+c2ODM3ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEz
+OTYwMSwxMTY0NDQ2Njk2XX0=
 -->
