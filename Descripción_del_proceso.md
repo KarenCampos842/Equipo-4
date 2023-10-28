@@ -96,7 +96,7 @@
  
 Utilizar como guía este ejemplo de <a href="https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416">caso de uso</a>  
 Utilizar la siguiente plantilla:
-
+<
  **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a>  
  
  
@@ -171,7 +171,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU1NjU3OCwxNzEwMzk4Mzk0LDExMT
-Y1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2
-OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
+eyJoaXN0b3J5IjpbNDc0ODkwMTIyLDE3MTAzOTgzOTQsMTExNj
+U4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5
+MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
 -->
