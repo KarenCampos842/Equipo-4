@@ -188,7 +188,7 @@ Utilizar la siguiente plantilla:
  - *Cárdenas Rojas Kendrick Asaf:* Diálogos, audios y material para el video. 
 
  **Actividades**
- - **Edición del video:** Realizar un video presentando los avances en 
+ - **Edición del video:** Realizar un video presentando los avances realizados durante el sprint. Incluir el resumen 
 
  
  ### *Sección "Competencias"*
@@ -221,7 +221,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Njg5NTE2OSwxMzg5MzkyMzU2LC00MT
+eyJoaXN0b3J5IjpbMTQ4MDM5NzEyOCwxMzg5MzkyMzU2LC00MT
 k4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMTY1ODAw
 OTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC
 0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
