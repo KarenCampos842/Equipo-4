@@ -77,11 +77,9 @@
  - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad.
  - **Priorización:** Priorizar los  requerimientos funcionales utilizando la metodología de *"MoSCoW".* 
 
- **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a>  
+**Responsables del apartado "Refinamiento de artefactos"**
 
-**Responsables del apartado "Evolución de requisitos"**
-
- 1. *Campos García Karen Elizabeth:* Requerimientos funcionales.
+ 1. *Campos García Karen Elizabeth:* Historias de usuario.
  2. *Maldonado Medina Hansony de Jesús:* Requerimientos no funcionales y priorización.
 
 **Actividades**
@@ -163,7 +161,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxNDU3NjE1LDExMTY1ODAwOTYsLTYyNz
-Y4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5
-NjAxLDExNjQ0NDY2OTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MDM2NDU4NDYsMTExNjU4MDA5NiwtNj
+I3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5MjEsLTE3NDUx
+Mzk2MDEsMTE2NDQ0NjY5Nl19
 -->
