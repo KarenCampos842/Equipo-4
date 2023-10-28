@@ -80,7 +80,7 @@
 **Responsables del apartado "Refinamiento de artefactos"**
 
  1. *Campos García Karen Elizabeth:* Historias de usuario.
- 2. *Maldonado Medina Hansony de Jesús:* Requerimientos no funcionales y priorización.
+ 2. *Maldonado Medina Hansony de Jesús:* Casos de uso basados en las historias de usuario número 
  3. *Romero Poot Carlos Emmanuel:*
 
 **Actividades**
@@ -162,7 +162,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTUwMzE0MywxMTE2NTgwMDk2LC02Mj
-c2ODM3ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEz
-OTYwMSwxMTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbOTEzMjU0Nzg4LDExMTY1ODAwOTYsLTYyNz
+Y4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5
+NjAxLDExNjQ0NDY2OTZdfQ==
 -->
