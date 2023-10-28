@@ -56,7 +56,7 @@
 
  1. *Cárdenas Rojas Kendrick Asaf:* Evolución del producto.
 
-**Revisor de redacción de "Producto":** *Suárez Balam Brandon Emmanuel.*
+**Corrector de redacción de "Producto":** *Suárez Balam Brandon Emmanuel.*
 
 **Actividades**
   
@@ -152,7 +152,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTcyODQzMDcsLTYyNzY4Mzc4NywtMT
-UyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0
-NDY2OTZdfQ==
+eyJoaXN0b3J5IjpbNTM0MDQwNDMyLC02Mjc2ODM3ODcsLTE1Mj
+cyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2
+Njk2XX0=
 -->
