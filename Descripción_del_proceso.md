@@ -171,7 +171,7 @@ Utilizar la siguiente plantilla:
 
 **Actividades**
  - **Descripción del proceso:** Describir de forma clara en un documento el tamaño del sprint, planeación, actividades, responsables, roles y resultados.
- - **Gestión del proceso**: Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"Descripción_del_proceso"* (ubicado en la branch "*Segunda-Entrega*") a las personas correspondientes.  Así mismo, marcar con ayuda del board de Proyecto_FIS el estado de la actividad (In Progress o Done). <br>De igual forma, deberá realizar las actividades descritas en *"Scrum team meeting"* y  escribir una bitácora de las reuniones de equipo mencionando los acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
+ - **Gestión del proceso**: Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"Descripción_del_proceso"* (ubicado en la branch "*Segunda-Entrega*") a las personas correspondientes.   <br>De igual forma, realizar las actividades descritas en *"Scrum team meeting"* y  escribir una bitácora de las reuniones de equipo mencionando los acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
  - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, mediano, alto).  
  - **Organización y Documentación del Repositorio:** Crear archivos en formato StackEdit en la branch de "*Primera-Entrega*" del repositorio del equipo (Equipo-4)  para cada sección (Producto, Requisitos, Presentación del avance y Competencias). En el caso de la sección Proceso, crear un archivo individual para la actividad de Descripción del proceso, Gestión del proceso y Métrica de contribución. 
  
@@ -223,7 +223,9 @@ Utilizar la siguiente plantilla:
 
 ## Scrum team meeting
  Karen se encargará de realizar reuniones con el equipo vía Teams o de forma presencial de no más de 15 minutos  para monitorear el trabajo realizado. Las reuniones tendrán lugar todos los días, exceptuando fines de semana hasta la entrega de la presentación del primer avance.
+ 
  ## Sprint review
+ 
  Se realizará una reunión al finalizar el primer sprint para revisar el trabajo que se está entregando. Igualmente, se hablará de los problemas que hubieron, aquello que se hizo bien y lo que se puede mejorar. 
  ## Retrospective
 Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo aquello que se hizo bien con relación al uso de la metodología SCRUM, el proceso, uso de herramientas, así como, todo aquello que se puede mejorar en cuanto a proceso, herramientas, relación entre compañeros, etc. 
@@ -238,8 +240,8 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNTY3MDM0LDEyODg1MDMzODAsMTcxMD
-M5ODM5NCwxMTE2NTgwMDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3
-OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX
-0=
+eyJoaXN0b3J5IjpbMTA2Mjk3NzM4OSwxMjg4NTAzMzgwLDE3MT
+AzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3Mjgz
+NzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl
+19
 -->
