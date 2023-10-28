@@ -92,7 +92,7 @@
  -    **Casos de uso (historias de usuario número 6, 7, 9  y 10):** Elaborar los casos de uso derivados de las historias de usuario.
  -   **Casos de uso (historias de usuario número 3, 4, 5  y 16):** Elaborar los casos de uso derivados de las historias de usuario.
  
- ***NOTA:*** Para realizar los casos de uso deben de leer detenidamente las historias de usuario y los requerimientos ubicados en el archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a> 
+ ***NOTA:*** Para realizar los casos de uso deben de leer detenidamente las historias de usuario y los <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requerimientos-funcionales ">requerimientos </a>ubicados en el archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a> en la rama de Segunda-Entrega.
 
  **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a>  
  
@@ -168,7 +168,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDM5ODM5NCwxMTE2NTgwMDk2LC02Mj
-c2ODM3ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEz
-OTYwMSwxMTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbLTE5NzYwMDIzMTYsMTcxMDM5ODM5NCwxMT
+E2NTgwMDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLTQ4Mjgw
+NjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
 -->
