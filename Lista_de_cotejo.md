@@ -29,7 +29,7 @@
   <td></td>
  </tr>
  <tr>
-  <th rowspan="4">Diseño</th>
+  <th rowspan="3">Diseño</th>
   <td>Bosquejos de Interfaces</td>
   <td>Se cuenta con un conjunto inicial de prototipos de baja, media o alta fidelidad. Se utilizan guías de diseño. Se utiliza alguna herramienta para el diseño.</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Descripci%C3%B3n_del_proceso.md">Descripción del Proceso</a></td>
@@ -42,15 +42,9 @@
   <td></td>
  </tr>
   <tr>
-  <td>Métrica de Contribución Individual</td>
-  <td>El equipo cuenta con una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución.  Se cuenta con un documento que permita el rastreo y verificación con evidencias en el repositorio de las contribuciones individuales. La métrica se basa en la medición de artefactos, actividades o tareas objetivas.</td>
+  <td>Validación de Interfaces</td>
+  <td>Se realiza la validación del diseño propuesto con el cliente. Se recolectan los comentarios y se realiza los cambios correspondientes. Se cuenta con la simulación de una tarea específica que permita una mejor validación de la interfaz.</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Metrica_de_Contribucion.md">Métrica de Contribución Individual</a></td>
-  <td></td>
- </tr>
-   <tr>
-  <td>Organización y Documentación del Repositorio</td>
-  <td>El repositorio tiene una organización clara. Se encuentra documentado (MD) en las secciones relevantes. Cuenta con las evidencias/artefactos correspondientes.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/tree/Primera-Entrega">Organización y Documentación del Repositorio</a></td>
   <td></td>
  </tr>
   <tr>
@@ -143,5 +137,5 @@ Opcional: Utilizan métodos ágiles. Se distingue de forma clara que utilizan un
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzE0MjkxOSwxMTgwMzUwMzhdfQ==
+eyJoaXN0b3J5IjpbLTE0NTM5Mjk4MDcsMTE4MDM1MDM4XX0=
 -->
