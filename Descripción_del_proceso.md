@@ -193,7 +193,9 @@ Producto.md, Requisitos.md, Diseño.md, <a href="https://github.com/KarenCampos8
  - **Edición del video:** Realizar un video de máximo 5 minutos presentando  el desarrollo del proyecto, presentar los avances realizados durante el sprint. Incluir el resumen del archivo Producto.md, enseñar parte de los bosquejos de interfaces (se podrá encontrar un enlace en el archivo Diseño.md).
  - **Diálogos:** Realizar los diálogos para el video en inglés y español. Tomar en cuenta lo solicitado en Edición del video. 
  - **Audios:** Grabar los audios de los diálogos. 
- 
+  
+ **Archivo del trabajo/Resultado:**  
+
  ### *Sección "Competencias"*
 
 **Responsables**
@@ -225,7 +227,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDYyNTk3NSwxNTY3NzAyNTY5LDEzOD
+eyJoaXN0b3J5IjpbLTgxODMyNjg4NSwxNTY3NzAyNTY5LDEzOD
 kzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgz
 OTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC
 00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
