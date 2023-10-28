@@ -48,14 +48,13 @@
 ### Duración del sprint: 10 días
 
 ### Sprint Backlog (resultado de sprint planning meeting)
-***NOTA:*** Se encontrarán archivos para cada sección en la que el trabajo es en la branch de Segunda-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
-
+***NOTA:*** Se encontrarán archivos para cada sección en la que el trabajo está dividido en la branch de Segunda-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
 
 ### *Sección  "Producto"*
 
 **Responsables**
 
- 1. *Bran:* Descripción del producto y Usuarios/Clientes. 
+ 1. *Cárdenas Rojas Kendrick Asaf:* Evolución del producto
  2. *Suárez Balam Brandon Emmanuel:* Propuesta de valor. 
  
 **Revisor de redacción de "Producto":** *Suárez Balam Brandon Emmanuel.*
@@ -157,6 +156,6 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE0NjQ3MTcsLTE1MjcyODM3OTIsLT
-Q4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbLTQ5MzkwMDQsLTE1MjcyODM3OTIsLTQ4Mj
+gwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
 -->
