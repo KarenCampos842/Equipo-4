@@ -16,7 +16,7 @@
 
 7. **Calificaciones:** Basado en una escala de cinco estrellas, el sistema permitirá al usuario (cliente o trabajador) calificar la calidad de su experiencia (una estrella es la calificación más baja, cinco estrellas la máxima). Su calificación será el promedio de todas las calificaciones recibidas.
 
-8. **Creación del perfil de cliente:** El sistema creará el perfil del cliente, el cual contendrá: fotografía del usuario, un nombre y un apellido y calificación.
+8. **Creación del perfil de cliente:** El sistema creará el perfil del cliente, el cual contendrá: fotografía del usuario, un nombre y un apellido, calificación.
 
 9. **Creación del perfil de trabajador:** El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, un nombre y un apellido, oficio, descripción de los trabajos que realiza, zona de trabajo, calificaciones y comentarios de clientes.
  
@@ -201,10 +201,10 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzUxNjUwLC0xMjUyODY2ODk2LDE1Mz
-A5MzY0OTksLTI2OTY3MDEyMywxNjkyMzEzMzg0LC02MDU4ODY0
-NTAsLTE4MDk0ODAxMTcsMjA4MzgzNTg3OCwxNTk5MTM0Mjk0LC
-05OTIwNDE1NjQsLTM1OTMwMDQzMyw5OTY1MTMwOTEsLTU4MDQ1
-MTQ3OSw1MDgyMjU2NTAsNjk1NzgzNTM0LC02ODAzMTk3NjYsMT
-AxMjMyNTAxOF19
+eyJoaXN0b3J5IjpbMTkwNzEyMTI3MywtMTI1Mjg2Njg5NiwxNT
+MwOTM2NDk5LC0yNjk2NzAxMjMsMTY5MjMxMzM4NCwtNjA1ODg2
+NDUwLC0xODA5NDgwMTE3LDIwODM4MzU4NzgsMTU5OTEzNDI5NC
+wtOTkyMDQxNTY0LC0zNTkzMDA0MzMsOTk2NTEzMDkxLC01ODA0
+NTE0NzksNTA4MjI1NjUwLDY5NTc4MzUzNCwtNjgwMzE5NzY2LD
+EwMTIzMjUwMThdfQ==
 -->
