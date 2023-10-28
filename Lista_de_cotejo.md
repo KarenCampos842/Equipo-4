@@ -18,13 +18,13 @@
  <tr>
   <th rowspan="2">Requisitos</th>
   <td>Evolución de Requisitos</td>
-  <td>RF: Se cuenta con un conjunto de Requisitos Funcionales (RF) claro, completo y consistente. Se cuenta descripciones y/o definiciones de los requisitos. Opcional:* Historias de Usuario utilizando la plantilla: Como (usuario), quiero (algún objetivo) para que (motivo)</td>
+  <td>Se cuenta con un conjunto mejor definido y organizado de requerimientos (Funcionales y No Funcionales) con respecto a la entrega anterior. Hay una mayor claridad de las necesidades del usuario y de los procesos del cliente. La prioridad de los requerimientos corresponde a los objetivos principales del producto.</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos-funcionales">Requistos Funcionales</a></td>
   <td></td>
  </tr>
  <tr>
-  <td>Requisitos No Funcionales</td>
-  <td>RNF: Se cuenta con un conjunto de Requisitos No Funcionales (RNF) claro, completo, consistente. Existe una forma clara de verificar el requisito. Se identifica la categoría de RNF.</td>
+  <td>Refinamiento de Artefactos</td>
+  <td>Se cuenta con artefactos que especifican los requerimientos/historias de usuario, incluye excepciones a considerar (casos de uso, historias de usuario con criterios de aceptación). Se presenta un diagrama que resume el conjunto de requerimientos (ej. Diagrama de Casos de Uso). Existen cambios significativos en los artefactos y se cuenta con evidencia.</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos-no-funcionales">Requistos No Funcionales</a></td>
   <td></td>
  </tr>
@@ -130,5 +130,5 @@ Opcional: Utilizan métodos ágiles. Se distingue de forma clara que utilizan un
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzI2MDY5LDExODAzNTAzOF19
+eyJoaXN0b3J5IjpbLTE2ODU2NzcyMzIsMTE4MDM1MDM4XX0=
 -->
