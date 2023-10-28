@@ -184,8 +184,8 @@ Utilizar la siguiente plantilla:
  
 ### *Sección "Presentación del avance"*
 **Responsables**
-1. *Rubén Moisés Loria Pech: Sección *
-2. *Cárdenas Rojas Kendrick Asaf:* Sección Competencias.
+1. *Rubén Moisés Loria Pech:* Edición del video. 
+2. *Cárdenas Rojas Kendrick Asaf:* Diálogos, audios, 
  
  ### *Sección "Competencias"*
 
@@ -217,7 +217,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzExMTc0NSwxMzg5MzkyMzU2LC00MT
+eyJoaXN0b3J5IjpbMTk5MzcwMzc1OCwxMzg5MzkyMzU2LC00MT
 k4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMTY1ODAw
 OTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC
 0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
