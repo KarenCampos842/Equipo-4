@@ -92,7 +92,7 @@
  -    **Casos de uso (historias de usuario número 6, 7, 9  y 10):** Elaborar los casos de uso derivados de las historias de usuario.
  -   **Casos de uso (historias de usuario número 3, 4, 5  y 16):** Elaborar los casos de uso derivados de las historias de usuario.
  
- ***NOTA***
+ ***NOTA:*** Para realizar los casos de uso deben de leer detenidamente las historias de usuario y los requerimientos
 
  **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a>  
  
@@ -168,7 +168,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE0ODc4NDksMTExNjU4MDA5NiwtNj
-I3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5MjEsLTE3NDUx
-Mzk2MDEsMTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbLTUwODk4NDYxMiwxMTE2NTgwMDk2LC02Mj
+c2ODM3ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEz
+OTYwMSwxMTY0NDQ2Njk2XX0=
 -->
