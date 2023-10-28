@@ -100,7 +100,7 @@
  </tr>
  <tr>
   <td>Competencias Específicas</td>
-  <td> Se argumenta de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto. </td>
+  <td>Se argumenta de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto.</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Competencias.md#competencias-espec%C3%ADficas">Competencias Específicas</a></td>
   <td></td>
  </tr>
@@ -136,5 +136,5 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyMTc0NTQ5LDExODAzNTAzOF19
+eyJoaXN0b3J5IjpbLTQzNDQ4OTA0NywxMTgwMzUwMzhdfQ==
 -->
