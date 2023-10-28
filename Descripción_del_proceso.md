@@ -88,7 +88,8 @@
 **Actividades**
  - **Historias de usuario:**  Realizar las historias de usuario con criterios de aceptación utilizando la guía de SCRUM. 
  - **Casos de uso (historias de usuario número 1, 2, 8 y 15):** Elaborar los casos de uso derivados de las historias de usuario.
- -  **Casos de uso (historias de usuario número 11, 12 , 13 y 14.):** Elaborar los casos de uso derivados de las historias de usuario.
+ -  **Casos de uso (historias de usuario número 11, 12 , 13 y 14):** Elaborar los casos de uso derivados de las historias de usuario.
+ -    **Casos de uso (historias de usuario número 6, 7, 9  y 10):** Elaborar los casos de uso derivados de las historias de usuario.
  
 
  **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a>  
@@ -165,7 +166,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ4MDY5MDksMTExNjU4MDA5NiwtNj
-I3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5MjEsLTE3NDUx
-Mzk2MDEsMTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbLTI1NzYyODcwLDExMTY1ODAwOTYsLTYyNz
+Y4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5
+NjAxLDExNjQ0NDY2OTZdfQ==
 -->
