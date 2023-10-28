@@ -194,7 +194,7 @@ Producto.md, Requisitos.md, Diseño.md, <a href="https://github.com/KarenCampos8
  - **Diálogos:** Realizar los diálogos para el video en inglés y español. Tomar en cuenta lo solicitado en Edición del video. 
  - **Audios:** Grabar los audios de los diálogos. 
   
- **Archivo del trabajo/Resultado:**  Dialogos.md, 
+ **Archivo del trabajo/Resultado:**  Dialogos.md, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md</a>  
 
  ### *Sección "Competencias"*
 
@@ -228,7 +228,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzcxODY4NCwxNTY3NzAyNTY5LDEzOD
+eyJoaXN0b3J5IjpbMTAyNjAyMDIzMSwxNTY3NzAyNTY5LDEzOD
 kzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgz
 OTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC
 00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
