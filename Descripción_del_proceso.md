@@ -199,9 +199,9 @@ Utilizar la siguiente plantilla:
  1. *Cárdenas Rojas Kendrick Asaf:* Sección Competencias.
 
 **Actividades**
- - **Competencias genéricas:** Argumentar de qué forma se promueven las competencias genéricas a través de las actividades específicas del desarrollo del producto.
- - **Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto. 
-
+ - **Competencias genéricas:** Argumentar de qué forma se promueven las competencias genéricas a través de actividades específicas del desarrollo del producto.
+ - **Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto.
+UADY. (2016). _Plan de Estudios de la Licenciatura en Ingeniería de Software._  [https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf](https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf)
 ## Scrum team meeting
  Karen se encargará de realizar reuniones con el equipo vía Teams o de forma presencial de no más de 15 minutos  para monitorear el trabajo realizado. Las reuniones tendrán lugar todos los días, exceptuando fines de semana hasta la entrega de la presentación del primer avance.
  
@@ -222,8 +222,8 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2MzYzMDI2LDEzODkzOTIzNTYsLTQxOT
-g3ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgzOTQsMTExNjU4MDA5
-NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5MjEsLT
-E3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbLTExMjYxOTM1MTAsMTM4OTM5MjM1NiwtND
+E5ODc4NzExLDEyODg1MDMzODAsMTcxMDM5ODM5NCwxMTE2NTgw
+MDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMS
+wtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
 -->
