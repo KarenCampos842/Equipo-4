@@ -29,10 +29,9 @@
   <td></td>
  </tr>
  <tr>
-  <th rowspan="4">Proceso</th>
-  <td>Descripción del Proceso</td>
-  <td>Se cuenta con  descripción clara y concreta del proceso de desarrollo para el producto que describe la organización del equipo, roles/responsabilidades definidas. Incluye la forma en como adaptaron actividades/tareas de alguna metodología 
-Opcional: Utilizan métodos ágiles. Se distingue de forma clara que utilizan una metodología ágil?</td>
+  <th rowspan="4">Diseño</th>
+  <td>Bosquejos de Interfaces</td>
+  <td>Se cuenta con un conjunto inicial de prototipos de baja, media o alta fidelidad. Se utilizan guías de diseño. Se utiliza alguna herramienta para el diseño.</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Descripci%C3%B3n_del_proceso.md">Descripción del Proceso</a></td>
   <td></td>
  </tr>
@@ -144,5 +143,5 @@ Opcional: Utilizan métodos ágiles. Se distingue de forma clara que utilizan un
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTEzODkyNSwxMTgwMzUwMzhdfQ==
+eyJoaXN0b3J5IjpbLTE2MzY3MTY0MTQsMTE4MDM1MDM4XX0=
 -->
