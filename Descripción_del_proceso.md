@@ -100,8 +100,8 @@ Utilizar la siguiente plantilla:
  <br>    
 <table align=center>  
    <tr>
-     <th>CU-número de caso de uso</th>  
-      <th>Historia de usuario #16</th>  
+     <th>CU-01</th>  
+      <th>Nombre del caso de uso (CU</th>  
       <th>Recuperación de contraseña</th> 
    </tr> 
     <tr>  
@@ -205,7 +205,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc4OTU5NDksMTcxMDM5ODM5NCwxMT
-E2NTgwMDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLTQ4Mjgw
-NjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbMTY3MDA3ODQyMCwxNzEwMzk4Mzk0LDExMT
+Y1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2
+OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
 -->
