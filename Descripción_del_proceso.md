@@ -86,8 +86,8 @@
   5. *Suárez Balam Brandon Emmanuel* Casos de uso basados en las historias de usuario número 6, 7, 9  y 10.
   
 **Actividades**
- - **Historias de usuario:**  Realizar las historias de usuario con criterios de aceptación utilizando la guía de SCRUM. .
- - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad.
+ - **Historias de usuario:**  Realizar las historias de usuario con criterios de aceptación utilizando la guía de SCRUM. 
+ - **Casos de uso basados en las historias de usuario número 1, 2, 8 y 15.** Modificar los requerimientos para una mayor claridad.
  - **Priorización:** Priorizar los  requerimientos funcionales utilizando la metodología de *"MoSCoW".* 
 
  **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a>  
@@ -164,7 +164,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDM2MDQ2MSwxMTE2NTgwMDk2LC02Mj
-c2ODM3ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEz
-OTYwMSwxMTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbNDcyMTgxNDE4LDExMTY1ODAwOTYsLTYyNz
+Y4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5
+NjAxLDExNjQ0NDY2OTZdfQ==
 -->
