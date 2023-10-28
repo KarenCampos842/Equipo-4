@@ -74,7 +74,7 @@
  - **Requerimientos funcionales:** Modificar los requerimientos para una mayor claridad.
  - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad.
  - **Priorización:** Priorizar los  requerimientos funcionales utilizando la metodología de *"MoSCoW".* 
- 
+ Archivo de trabajo
 ### *Sección "Proceso"*
 
 **Responsables**
@@ -146,7 +146,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTc0MDk4OCwtNjI3NjgzNzg3LC0xNT
+eyJoaXN0b3J5IjpbMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNT
 I3MjgzNzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0
 NjY5Nl19
 -->
