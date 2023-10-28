@@ -92,9 +92,10 @@
  -    **Casos de uso (historias de usuario número 6, 7, 9  y 10):** Elaborar los casos de uso derivados de las historias de usuario.
  -   **Casos de uso (historias de usuario número 3, 4, 5  y 16):** Elaborar los casos de uso derivados de las historias de usuario.
  
- ***NOTA:*** Para realizar los casos de uso deben de leer detenidamente las <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#historias-de-usuarios2 ">historias de usuario </a> y los <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requerimientos-funcionales ">requerimientos </a>ubicados en el archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a> en la rama de Segunda-Entrega.
+ ***NOTA:*** Para realizar los casos de uso deben de leer detenidamente las <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#historias-de-usuarios2 ">historias de usuario </a> y los <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requerimientos-funcionales ">requerimientos </a>ubicados en el archivo de Requisitos.md en la rama de Segunda-Entrega.
  
-Utilizar como guía este ejemplo de <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">caso de uso</a>  
+Utilizar como guía este ejemplo de <a href="https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416">caso de uso</a>  
+
  **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a>  
  
  
@@ -169,7 +170,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTgyMDM4NywxNzEwMzk4Mzk0LDExMT
-Y1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2
-OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
+eyJoaXN0b3J5IjpbLTE0MTYzOTg1MjMsMTcxMDM5ODM5NCwxMT
+E2NTgwMDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLTQ4Mjgw
+NjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
 -->
