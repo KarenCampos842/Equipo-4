@@ -10,7 +10,7 @@
  </tr>
  <tr>
   <th rowspan="3">Producto</th>
-  <td>Descripción de Producto</td>
+  <td>Evolución del producto</td>
   <td>Objetivo: Se identifica de forma clara y específica el objetivo del producto. Se definen alcances y limitaciones.</td>
   <td>
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Producto.md#descripci%C3%B3n-del-producto">Descripción del producto</a></td>
@@ -143,5 +143,5 @@ Opcional: Utilizan métodos ágiles. Se distingue de forma clara que utilizan un
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDM1MDM4XX0=
+eyJoaXN0b3J5IjpbMTM1MDk4NzEsMTE4MDM1MDM4XX0=
 -->
