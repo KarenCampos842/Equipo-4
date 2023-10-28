@@ -32,7 +32,7 @@
 
 15. **Contratación del servicio:** El sistema mostrará al cliente una opción para contratar el servicio. Cuando el cliente elija esta opción, se hará llegar una notificación al trabajador preguntando si desea o no aceptar el trabajo. La notificación irá acompañada con una opción para visualizar el perfil y la ubicación del cliente. El sistema reconocerá la contratación del servicio cuando el trabajador lo acepte.
 
-16. **Calificación del cliente:** Una vez que se ha contratado el servicio, el sistema mostrará al trabajador una opción para calificar al cliente.
+16. **Calificación del cliente:** Una vez que se ha contratado el servicio, el sistema mostrará al trabajador un apartado para calificar al cliente.
 
 17. **Finalización del servicio:** Una vez que se ha contratado el servicio, el sistema mostrará al cliente una opción para indicar cuando el trabajo se haya realizado. Al seleccionarla, se mostrará una ventana que le permitirá al cliente calificar al trabajador, publicar un comentario (opcional) y reportar al trabajador en caso de no haberse presentado.
 
@@ -201,11 +201,11 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOT
-kxOTY2MDU2LC02NzA4MjQwNjEsNDQ5Mzk1MzM2LC0xNDQ1MzI5
-OTE0LC03NTU0MDMwNjksLTIwODI5NzU2NTAsLTI3OTU1NzY0NC
-wtMTI1Mjg2Njg5NiwxNTMwOTM2NDk5LC0yNjk2NzAxMjMsMTY5
-MjMxMzM4NCwtNjA1ODg2NDUwLC0xODA5NDgwMTE3LDIwODM4Mz
-U4NzgsMTU5OTEzNDI5NCwtOTkyMDQxNTY0LC0zNTkzMDA0MzMs
-OTk2NTEzMDkxXX0=
+eyJoaXN0b3J5IjpbODM4Mzg4Mjg5LDEyNjQ1NjMwMiwtMTQ2Mj
+YwOTI4NCwtMTk5MTk2NjA1NiwtNjcwODI0MDYxLDQ0OTM5NTMz
+NiwtMTQ0NTMyOTkxNCwtNzU1NDAzMDY5LC0yMDgyOTc1NjUwLC
+0yNzk1NTc2NDQsLTEyNTI4NjY4OTYsMTUzMDkzNjQ5OSwtMjY5
+NjcwMTIzLDE2OTIzMTMzODQsLTYwNTg4NjQ1MCwtMTgwOTQ4MD
+ExNywyMDgzODM1ODc4LDE1OTkxMzQyOTQsLTk5MjA0MTU2NCwt
+MzU5MzAwNDMzXX0=
 -->
