@@ -185,10 +185,10 @@ Utilizar la siguiente plantilla:
 ### *Sección "Presentación del avance"*
 **Responsables**
  - *Rubén Moisés Loria Pech:* Edición del video. 
- - *Cárdenas Rojas Kendrick Asaf:* Diálogos, audios y material para el video. 
+ - *Cárdenas Rojas Kendrick Asaf:* Diálogos y audios.
 
  **Actividades**
- - **Edición del video:** Realizar un video presentando  el desarrollo del proyecto, presenlos avances realizados durante el sprint. Incluir el resumen del archivo Producto.md, enseñar Diseño.md
+ - **Edición del video:** Realizar un video de máximo 5 minutos presentando  el desarrollo del proyecto, presentar los avances realizados durante el sprint. Incluir el resumen del archivo Producto.md, enseñar parte de los bosquejos de interfaces (se podrá encontrar un enlace en el archivo Diseño.md).
 
  
  ### *Sección "Competencias"*
@@ -221,8 +221,8 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzkxNTIwLDEzODkzOTIzNTYsLTQxOT
-g3ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgzOTQsMTExNjU4MDA5
-NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5MjEsLT
-E3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbLTUwNTQ2ODYwOSwxMzg5MzkyMzU2LC00MT
+k4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMTY1ODAw
+OTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC
+0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
 -->
