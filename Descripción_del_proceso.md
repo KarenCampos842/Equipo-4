@@ -159,7 +159,7 @@ Utilizar la siguiente plantilla:
 
  - **Bosquejos de Interfaces:** Realizar el conjunto inicial de prototipos de baja, media o alta fidelidad utilizando Figma.
  -   **Correspondencia con los Requisitos:** Verificar que los prototipos construidos corresponden a los requisitos establecidos. Verificar que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces.
- -   **Correspondencia con los Requisitos:** Verificar que los prototipos construidos corresponden a los requisitos establecidos. Verificar que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces.
+ -   **Correspondencia con los Requisitos:** Realizar la validación del diseño propuesto con el cliente. Recolectar los comentarios y realizar los cambios correspondientes. Se cuenta con la simulación de una tarea específica que permita una mejor validación de la interfaz.
  - 
 ### *Sección "Proceso"*
 
@@ -236,8 +236,8 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjAzNTMyMSwxMjg4NTAzMzgwLDE3MT
-AzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3Mjgz
-NzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl
-19
+eyJoaXN0b3J5IjpbLTE4OTI4NjAyMzgsMTI4ODUwMzM4MCwxNz
+EwMzk4Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4
+Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OT
+ZdfQ==
 -->
