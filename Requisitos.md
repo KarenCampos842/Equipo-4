@@ -18,7 +18,7 @@
 
 8. **Creación del perfil de cliente:** El sistema creará el perfil del cliente, el cual contendrá: fotografía del usuario, nombre(s) y apellido(s) calificación, correo y número telefónico  (los últimos dos elementos serán únicamente visibles para el cliente). 
 
-9. **Creación del perfil de trabajador:** El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, nombre(s) y apellido(s), oficio, descripción de los trabajos que realiza, zona de trabajo, calificaciones, comentarios de clientes, número telefónico, correo, número de tarjeta, CVV y fecha de vencimiento de la tarjeta (los últimos cuatro elementos serán únicamente visibles para el trabajador). 
+9. **Creación del perfil de trabajador:** El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, nombre(s) y apellido(s), oficio, descripción de los trabajos que realiza, zona de trabajo, calificación, comentarios de clientes, número telefónico, correo, número de tarjeta, CVV y fecha de vencimiento de la tarjeta (los últimos cuatro elementos serán únicamente visibles para el trabajador). 
  
 10. **Inicio de sesión:**  El usuario podrá iniciar sesión proporcionando el correo con el que se registró la y la contraseña asignada. Al entrar, el sistema solicitará su ubicación. 
 
@@ -201,11 +201,11 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI2MDkyODQsLTE5OTE5NjYwNTYsLT
-Y3MDgyNDA2MSw0NDkzOTUzMzYsLTE0NDUzMjk5MTQsLTc1NTQw
-MzA2OSwtMjA4Mjk3NTY1MCwtMjc5NTU3NjQ0LC0xMjUyODY2OD
-k2LDE1MzA5MzY0OTksLTI2OTY3MDEyMywxNjkyMzEzMzg0LC02
-MDU4ODY0NTAsLTE4MDk0ODAxMTcsMjA4MzgzNTg3OCwxNTk5MT
-M0Mjk0LC05OTIwNDE1NjQsLTM1OTMwMDQzMyw5OTY1MTMwOTEs
-LTU4MDQ1MTQ3OV19
+eyJoaXN0b3J5IjpbMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOT
+kxOTY2MDU2LC02NzA4MjQwNjEsNDQ5Mzk1MzM2LC0xNDQ1MzI5
+OTE0LC03NTU0MDMwNjksLTIwODI5NzU2NTAsLTI3OTU1NzY0NC
+wtMTI1Mjg2Njg5NiwxNTMwOTM2NDk5LC0yNjk2NzAxMjMsMTY5
+MjMxMzM4NCwtNjA1ODg2NDUwLC0xODA5NDgwMTE3LDIwODM4Mz
+U4NzgsMTU5OTEzNDI5NCwtOTkyMDQxNTY0LC0zNTkzMDA0MzMs
+OTk2NTEzMDkxXX0=
 -->
