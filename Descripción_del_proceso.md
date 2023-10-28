@@ -116,12 +116,11 @@ Utilizar la siguiente plantilla:
        <td colspan="2">El sistema deberá comportarse como se describe en el siguiente caso de uso cuando ...</td> 
    </tr> 
      <tr>  
-      <td></td>  
+      <td><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
   <tr>  
-      <td><b>Secuencia normal</b></td>
        <td> 
            <ol>
                 <li>Comprobar que el usuario seleccione la opción de recuperar contraseña.
@@ -209,7 +208,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDgwNTIxMCwxNzEwMzk4Mzk0LDExMT
+eyJoaXN0b3J5IjpbMTY4NTEzNzUxNSwxNzEwMzk4Mzk0LDExMT
 Y1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2
 OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
 -->
