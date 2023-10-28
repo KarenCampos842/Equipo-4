@@ -189,8 +189,8 @@ Utilizar la siguiente plantilla:
 
  **Actividades**
  - **Edición del video:** Realizar un video de máximo 5 minutos presentando  el desarrollo del proyecto, presentar los avances realizados durante el sprint. Incluir el resumen del archivo Producto.md, enseñar parte de los bosquejos de interfaces (se podrá encontrar un enlace en el archivo Diseño.md).
- - **Diálogos:** Realizar los diálogos para el video. Tomar en cuenta lo solicitado en Edición del video. 
-
+ - **Diálogos:** Realizar los diálogos para el video en inglés y español. Tomar en cuenta lo solicitado en Edición del video. 
+ - **Audios:** Grabar los audios de los diálogos. 
  
  ### *Sección "Competencias"*
 
@@ -222,8 +222,8 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Mjc5MzMzMiwxMzg5MzkyMzU2LC00MT
-k4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMTY1ODAw
-OTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC
-0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
+eyJoaXN0b3J5IjpbOTg2MzYzMDI2LDEzODkzOTIzNTYsLTQxOT
+g3ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgzOTQsMTExNjU4MDA5
+NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5MjEsLT
+E3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
 -->
