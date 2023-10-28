@@ -179,9 +179,9 @@ Utilizar la siguiente plantilla:
  - Escribir una bitácora de las reuniones de equipo mencionando brevemente acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
  - Realizar una tabla **(a forma de sprint backlog)** que contenga las actividades a realizar durante el sprint, responsables, el estado de la tarea (finalizada, en proceso), fecha de inicio, fechas límite de entrega y fecha de entrega. 
  - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, mediano, alto).  
- - **Organización y Documentación del Repositorio:** Crear archivos en formato StackEdit en la branch de "*Segunda-Entrega*" del repositorio del equipo (Equipo-4)  para cada sección (Producto, Requisitos, Diseño, Presentación del avance, Diálogos y Competencias). En el caso de la sección Proceso, crear un archivo individual para la actividad de Descripción del proceso, Gestión del proceso y Métrica de contribución. Igualmente, subirá la 
+ - **Organización y Documentación del Repositorio:** Crear archivos en formato StackEdit en la branch de "*Segunda-Entrega*" del repositorio del equipo (Equipo-4)  para cada sección (Producto, Requisitos, Diseño, Presentación del avance, Diálogos y Competencias). En el caso de la sección Proceso, crear un archivo individual para la actividad de Descripción del proceso, Gestión del proceso y Métrica de contribución. Igualmente, subirá la Lista de cotejo. 
  
- **Archivo del trabajo/Resultado:**  Producto.md, Requisitos.md, Diseño.md, Presentacion_del_avance.md,  Dialogos.md, Competencias.md, 
+ **Archivo del trabajo/Resultado:**  Producto.md, Requisitos.md, Diseño.md, Presentacion_del_avance.md,  Dialogos.md, Competencias.md, Descripción_del_proceso.md, Gestion_del_Proceso.md, Metrica_de_Contribucion.md, Lista_de_cotejo.md.
  
 ### *Sección "Presentación del avance"*
 **Responsables**
@@ -224,8 +224,9 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzYzMzcxNywxNTY3NzAyNTY5LDEzOD
-kzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgz
-OTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC
-00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbLTIxNDI3Mzg1MjIsMTU2NzcwMjU2OSwxMz
+g5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4
+Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5Mi
+wtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
+
 -->
