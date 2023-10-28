@@ -24,7 +24,7 @@
 
 11. **Búsqueda:** El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio, por ejemplo: “mecánico”.
 
-12. **Filtro:** El sistema filtrará los perfiles de los trabajadores con base a la búsqueda del cliente. Mostrará en pantalla al cliente un listado de trabajadores según su oficio, calificación(de mayor a menor promedio) y ubicación (municipio más cercano).
+12. **Filtro:** El sistema filtrará los perfiles de los trabajadores con base a la búsqueda del cliente. Mostrará en pantalla un listado de trabajadores oficio y ubicación (municipio más cercano).
 
 13. **Elección del trabajador:** El cliente podrá seleccionar el trabajador que prefiera de la lista desplegada, visualizar su perfil, elegir activar el chat con el trabajador y contratar su servicio.
 
@@ -201,11 +201,11 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDgyNDA2MSw0NDkzOTUzMzYsLTE0ND
-UzMjk5MTQsLTc1NTQwMzA2OSwtMjA4Mjk3NTY1MCwtMjc5NTU3
-NjQ0LC0xMjUyODY2ODk2LDE1MzA5MzY0OTksLTI2OTY3MDEyMy
-wxNjkyMzEzMzg0LC02MDU4ODY0NTAsLTE4MDk0ODAxMTcsMjA4
-MzgzNTg3OCwxNTk5MTM0Mjk0LC05OTIwNDE1NjQsLTM1OTMwMD
-QzMyw5OTY1MTMwOTEsLTU4MDQ1MTQ3OSw1MDgyMjU2NTAsNjk1
-NzgzNTM0XX0=
+eyJoaXN0b3J5IjpbMTAyNDMzMDg0MywtNjcwODI0MDYxLDQ0OT
+M5NTMzNiwtMTQ0NTMyOTkxNCwtNzU1NDAzMDY5LC0yMDgyOTc1
+NjUwLC0yNzk1NTc2NDQsLTEyNTI4NjY4OTYsMTUzMDkzNjQ5OS
+wtMjY5NjcwMTIzLDE2OTIzMTMzODQsLTYwNTg4NjQ1MCwtMTgw
+OTQ4MDExNywyMDgzODM1ODc4LDE1OTkxMzQyOTQsLTk5MjA0MT
+U2NCwtMzU5MzAwNDMzLDk5NjUxMzA5MSwtNTgwNDUxNDc5LDUw
+ODIyNTY1MF19
 -->
