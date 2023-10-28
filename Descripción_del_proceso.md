@@ -116,19 +116,18 @@ Utilizar la siguiente plantilla:
        <td colspan="2">El sistema deberá comportarse como se describe en el siguiente caso de uso cuando ...</td> 
    </tr> 
      <tr>  
-      <td><b>Secuencia normal</b></td>
+      <td rowspan="2"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
   <tr>  
-       <td> 
-           <ol>
-                <li>Comprobar que el usuario seleccione la opción de recuperar contraseña.
-                </li>
-        <li>Comprobar que el sistema solicite un correo para recuperación de contraseña.
-                </li>
-                 <li>Comprobar que existe texto antes y después de @ para el correo.</li>
-                 <li>Comprobar que se ha enviado la contraseña al correo proporcionado.</li>
+  <td>1</td> 
+   <td>x</td> 
+  </tr>     
+  <tr>  
+  <td></td> 
+   <td>x</td> 
+  </tr>     
  </table>           
 
 
@@ -208,7 +207,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTEzNzUxNSwxNzEwMzk4Mzk0LDExMT
-Y1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2
-OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
+eyJoaXN0b3J5IjpbLTE0NjU3NDQ5OTMsMTcxMDM5ODM5NCwxMT
+E2NTgwMDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLTQ4Mjgw
+NjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
 -->
