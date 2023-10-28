@@ -45,7 +45,7 @@
 
 
 ## Sprint planning (second sprint) 
-### Duración del sprint: 2 semanas
+### Duración del sprint: 10 días
 NOTA: Se encontrarán archivos para cada sección divididos por actividad en la branch de Segunda-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
 ### División del trabajo (basado en la lista de cotejo)
 NOTA: Se encontrarán archivos para cada sección divididos por actividad en la branch de Segunda-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
@@ -157,5 +157,5 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTk3MjM1MSwxMTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
 -->
