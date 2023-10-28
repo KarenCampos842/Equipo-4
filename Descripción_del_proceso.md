@@ -182,7 +182,7 @@ Utilizar la siguiente plantilla:
  - **Organización y Documentación del Repositorio:** Crear los siguientes archivos en formato StackEdit en la branch de "*Segunda-Entrega*" del repositorio del equipo (Equipo-4): Producto, Requisitos, Diseño, Presentación del avance, Diálogos, Competencias, Descripción del proceso, Gestión del proceso, Métrica de contribución y Lista de cotejo. 
  
  **Archivo del trabajo/Resultado:**  
-Producto.md, Requisitos.md, Diseño.md, Presentacion_del_avance.md,   Dialogos.md, Competencias.md, Descripción_del_proceso.md, Gestion_del_Proceso.md, Metrica_de_Contribucion.md, Lista_de_cotejo.md.
+Producto.md, Requisitos.md, Diseño.md, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  Dialogos.md, Competencias.md, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Descripción_del_proceso.md </a>, Gestion_del_Proceso.md, Metrica_de_Contribucion.md, Lista_de_cotejo.md.
  
 ### *Sección "Presentación del avance"*
 **Responsables**
@@ -225,8 +225,9 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzQxMzY0LDE1Njc3MDI1NjksMTM4OT
-M5MjM1NiwtNDE5ODc4NzExLDEyODg1MDMzODAsMTcxMDM5ODM5
-NCwxMTE2NTgwMDk2LC02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLT
-Q4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbLTE0OTk5MTM1MDIsMTU2NzcwMjU2OSwxMz
+g5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4
+Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5Mi
+wtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
+
 -->
