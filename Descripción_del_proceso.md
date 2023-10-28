@@ -47,7 +47,6 @@
 ## Sprint planning (second sprint) 
 ### Duración del sprint: 10 días
 
-### Sprint Backlog (resultado de sprint planning meeting)
 ***NOTA:*** Se encontrarán archivos para cada sección en la que el trabajo está dividido (se dividió acorde a la lista de cotejo) en la branch de Segunda-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
 
 **Corrector de redacción:** *Suárez Balam Brandon Emmanuel.*
@@ -73,7 +72,7 @@
 
 **Actividades**
  - **Requerimientos funcionales:** Modificar los requerimientos para una mayor claridad.
- - **Requisitos no funcionales:** Escribir los requisitos no funcionales de forma clara, completa y consistente (escribir solo los que podríamos verificar). Escribir por cada requisito una forma de verificarlo. 
+ - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad.
  - **Priorización:** Ordenar los requisitos funcionales y no funcionales utilizando la metodología de *"MoSCoW".* 
  - **Artefactos**:  Elaborar artefactos que especifiquen los requisitos (investigar), escribir excepciones (casos de uso, historias de usuario con criterios de aceptación), y realizar  un diagrama de casos de uso que resuma el conjunto de requisitos (funcionales, no funcionales). 
 
@@ -150,7 +149,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODAxNDEzNywtNjI3NjgzNzg3LC0xNT
-I3MjgzNzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0
-NjY5Nl19
+eyJoaXN0b3J5IjpbNjYzMTI1MDMwLC02Mjc2ODM3ODcsLTE1Mj
+cyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2
+Njk2XX0=
 -->
