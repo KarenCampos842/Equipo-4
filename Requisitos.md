@@ -41,10 +41,10 @@
 19. **Cancelación del servicio:** Una vez contratado el servicio, el sistema mostrará al cliente y trabajador una opción para cancelarlo. Si el usuario selecciona la opción, el sistema solicitará la razón de la cancelación. Si el usuario realiza 3 cancelaciones consecutivas, su cuenta será cancelada.
 
 20. Cancelación de la cuenta por parte del trabajador: El sistema permitirá al usuario la cancelación de su cuenta en cualquier momento.
-21. 
-22. Recuperación de contraseña:  El usuario podrá recuperar su contraseña. El sistema solicitará al usuario un correo al que enviará la contraseña. 
 
-23. Modificación de perfil: Como cliente, el usuario podrá modificar el nombre y correo asociado a su cuenta. Como trabajador, el usuario podrá modificar el nombre, número de tarjeta, CVV, fecha de 
+21. . Recuperación de contraseña:  El usuario podrá recuperar su contraseña. El sistema solicitará al usuario un correo al que enviará la contraseña. 
+
+22. Modificación de perfil: Como cliente, el usuario podrá modificar el nombre y correo asociado a su cuenta. Como trabajador, el usuario podrá modificar el nombre, correo asociado a su cuenta, número de tarjeta, CVV, fecha de vencimiento de la tarjeta
 
 ## Requisitos no funcionales
 
@@ -201,7 +201,7 @@ Como trabajador quiero poder tener una agenda para recordar los trabajos que ten
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA5ODY1OSwxNTMwOTM2NDk5LC0yNj
+eyJoaXN0b3J5IjpbMTg2NzIxNzY1NCwxNTMwOTM2NDk5LC0yNj
 k2NzAxMjMsMTY5MjMxMzM4NCwtNjA1ODg2NDUwLC0xODA5NDgw
 MTE3LDIwODM4MzU4NzgsMTU5OTEzNDI5NCwtOTkyMDQxNTY0LC
 0zNTkzMDA0MzMsOTk2NTEzMDkxLC01ODA0NTE0NzksNTA4MjI1
