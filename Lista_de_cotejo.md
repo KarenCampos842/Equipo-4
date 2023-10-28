@@ -28,16 +28,30 @@
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos-no-funcionales">Requistos No Funcionales</a></td>
   <td></td>
  </tr>
+ <tr>
+  <th rowspan="4">Proceso</th>
+  <td>Descripción del Proceso</td>
+  <td>Se cuenta con  descripción clara y concreta del proceso de desarrollo para el producto que describe la organización del equipo, roles/responsabilidades definidas. Incluye la forma en como adaptaron actividades/tareas de alguna metodología 
+Opcional: Utilizan métodos ágiles. Se distingue de forma clara que utilizan una metodología ágil?</td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Descripci%C3%B3n_del_proceso.md">Descripción del Proceso</a></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>Gestión del Proceso</td>
+  <td>Se incluyen las actividades/tareas/herramientas de monitoreo y/o seguimiento. Se cuentan con bitácoras de las reuniones donde se pueden observar los acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. </td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Gestion_del_Proceso.md">Gestión del Proceso</a></td>
+  <td></td>
+ </tr>
   <tr>
-  <td>Priorización</td>
-  <td>Método de prioridad: Se encuentran priorizados los Requisitos/Historias de Usuario. Se realizó un análisis sobre la factibilidad e importancia de los requerimientos. Se utilizó un método para evaluar la prioridad.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#priorizaci%C3%B3n">Priorización</a></td>
+  <td>Métrica de Contribución Individual</td>
+  <td>El equipo cuenta con una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución.  Se cuenta con un documento que permita el rastreo y verificación con evidencias en el repositorio de las contribuciones individuales. La métrica se basa en la medición de artefactos, actividades o tareas objetivas.</td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Metrica_de_Contribucion.md">Métrica de Contribución Individual</a></td>
   <td></td>
  </tr>
    <tr>
-  <td>Artefactos</td>
-  <td>Se incluyen como evidencia artefactos que especifican los Requisitos, incluye excepciones a considerar (*casos de uso, historias de usuario con criterios de aceptación). Se presenta un diagrama que resume el conjunto de requisitos (ej. Diagrama de Casos de Uso).</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#artefactos">Artefactos</a></td>
+  <td>Organización y Documentación del Repositorio</td>
+  <td>El repositorio tiene una organización clara. Se encuentra documentado (MD) en las secciones relevantes. Cuenta con las evidencias/artefactos correspondientes.</td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/tree/Primera-Entrega">Organización y Documentación del Repositorio</a></td>
   <td></td>
  </tr>
   <tr>
@@ -130,5 +144,5 @@ Opcional: Utilizan métodos ágiles. Se distingue de forma clara que utilizan un
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODU2NzcyMzIsMTE4MDM1MDM4XX0=
+eyJoaXN0b3J5IjpbLTU1OTEzODkyNSwxMTgwMzUwMzhdfQ==
 -->
