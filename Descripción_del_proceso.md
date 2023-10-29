@@ -56,7 +56,7 @@ Marcar como "closed" sus issues asignados cuando finalicen una actividad.
 Actividad: Establecer el orden en que se realizarán los prototipos de cada historia de usuario. Escribir: "Historia de usuario #número: 1 (orden).
 
 **Corrector de redacción:** *Suárez Balam Brandon Emmanuel.*
-Actividad: Corregir la redacción de los casos de uso (si es necesario), de las actividades de la sección "Producto" y "Competencias". 
+Actividad: Corregir la redacción de los casos de uso, de las actividades de la sección "Producto" y "Competencias". 
 
 **Congruencia en los casos de uso:** *Suárez Balam Brandon Emmanuel.*
 Actividad: Revisar que los casos de uso guarden congruencia entre sí, con las historias de usuario y con los requerimientos. 
@@ -241,7 +241,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTg3NjA2MTgsODY1MTQxNjc2LC05Mz
+eyJoaXN0b3J5IjpbLTE5MTc0NTQ4NjYsODY1MTQxNjc2LC05Mz
 UwOTE1ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0
 NzM4LC02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC
 0yMDgxOTY3OTYsMTU2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4
