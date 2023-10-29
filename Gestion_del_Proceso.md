@@ -54,7 +54,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
          <td>En curso</td>        
    </tr> 
     <tr>  
-      <td>Métrica de contribución individual (Karen)</td> 
+      <td>Métrica de contribución individual (Carlos)</td> 
       <td>Bajo</td>
         <td>27/10/2023</td>
        <td>28/10/2023</td>
@@ -180,7 +180,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>En curso</td>     
    </tr>
    <tr>
-    <td>Validación de Interfaces (Karen)</td>  
+    <td>Validación de Interfaces (Carlos)</td>  
         <td>Bajo</td>
         <td>31/10/2023</td>
        <td>2/11/2023</td>
@@ -218,8 +218,8 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2Njk3MDI2LDQxMjUyOTE1MCwxNjE0Nj
-czMDIxLDk5NDczNjcxNCwxMTkxMzg4MTkzLC0zNjIyMzE0Mjgs
-LTc3MDQwODA5NiwtMTU3NzY0NDk4NiwxNjc0NTQ1NTgyLC0xNj
-AzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
+eyJoaXN0b3J5IjpbLTE0MjI3NjQ1MDIsNjI2Njk3MDI2LDQxMj
+UyOTE1MCwxNjE0NjczMDIxLDk5NDczNjcxNCwxMTkxMzg4MTkz
+LC0zNjIyMzE0MjgsLTc3MDQwODA5NiwtMTU3NzY0NDk4NiwxNj
+c0NTQ1NTgyLC0xNjAzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
 -->
