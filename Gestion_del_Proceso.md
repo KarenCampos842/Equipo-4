@@ -73,7 +73,28 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>28/10/2023</td>
        <td>31/10/2023</td>
         <td>En curso</td>    
+   </tr>
+    <tr>  
+      <td>Competencias genéricas (Asaf)</td>  
+       <td>Medio</td>
+         <td>28/10/2023</td>
+       <td>30/10/2023</td>
+         <td>En curso</td>       
    </tr> 
+  <tr>  
+      <td>Competencias específicas (Asaf)</td>  
+       <td>Medio</td>
+         <td>28/10/2023</td>
+       <td>30/10/2023</td>
+         <td>En curso</td>       
+   </tr>
+ <tr>  
+      <td>Product backlog (Hansony)</td>  
+       <td>Medio</td>
+         <td>28/10/2023</td>
+       <td>2/10/2023</td>
+         <td>En curso</td>       
+   </tr>   
    <tr>  
       <td>Congruencia en los casos de uso (Brandon)</td>  
        <td>Alto</td> 
@@ -178,28 +199,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
          <td>2/11/2023</td>
        <td>2/11/2023</td>
          <td>En curso</td>       
-   </tr> 
- <tr>  
-      <td>Competencias genéricas (Asaf)</td>  
-       <td>Medio</td>
-         <td>28/10/2023</td>
-       <td>30/10/2023</td>
-         <td>En curso</td>       
-   </tr> 
-  <tr>  
-      <td>Competencias específicas (Asaf)</td>  
-       <td>Medio</td>
-         <td>28/10/2023</td>
-       <td>30/10/2023</td>
-         <td>En curso</td>       
    </tr>
- <tr>  
-      <td>Product backlog (Hansony)</td>  
-       <td>Medio</td>
-         <td>28/10/2023</td>
-       <td>2/10/2023</td>
-         <td>En curso</td>       
-   </tr>  
     <tr>  
       <td colspan=3><strong>Total de actividades</strong></td>  
        <td colspan=2>25</td>
@@ -218,8 +218,8 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxOTE1ODI0LDQxMjUyOTE1MCwxNjE0Nj
-czMDIxLDk5NDczNjcxNCwxMTkxMzg4MTkzLC0zNjIyMzE0Mjgs
-LTc3MDQwODA5NiwtMTU3NzY0NDk4NiwxNjc0NTQ1NTgyLC0xNj
-AzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
+eyJoaXN0b3J5IjpbMTE5MTYwNzY1Niw0MTI1MjkxNTAsMTYxND
+Y3MzAyMSw5OTQ3MzY3MTQsMTE5MTM4ODE5MywtMzYyMjMxNDI4
+LC03NzA0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0NTU4MiwtMT
+YwMzA5MjQyNCwtMTQyOTE3NzYyMF19
 -->
