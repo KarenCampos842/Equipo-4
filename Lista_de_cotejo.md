@@ -12,14 +12,14 @@
   <td>Evolución del Producto</td>
   <td>Resumen de los cambios completados del producto entre la primera y segunda entrega. Mencionar de manera sintetizada los cambios más significativos y que se cuenta con evidencia.</td>
   <td>
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Evolución del pro</a></td>
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a></td>
   <td></td>
  </tr>
  <tr>
   <th rowspan="2">Requisitos</th>
   <td>Evolución de Requisitos</td>
   <td>Se cuenta con un conjunto mejor definido y organizado de requerimientos (Funcionales y No Funcionales) con respecto a la entrega anterior. Hay una mayor claridad de las necesidades del usuario y de los procesos del cliente. La prioridad de los requerimientos corresponde a los objetivos principales del producto.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos-funcionales">Requistos Funcionales</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requisitos">Requistos.md</a></td>
   <td></td>
  </tr>
  <tr>
@@ -136,6 +136,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyODUzMDQ1LC00MzQ0ODkwNDcsMTE4MD
-M1MDM4XX0=
+eyJoaXN0b3J5IjpbMTEyMDU4MzUyNywtNDM0NDg5MDQ3LDExOD
+AzNTAzOF19
 -->
