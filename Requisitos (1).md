@@ -56,7 +56,7 @@
  
 26.  El sistema debe estar disponible cuando se requiera (darle mantenimiento solo en horarios de baja demanda).
 
-27.  El sistema debe ser intuitivo, gráfico para la mayoría de usuarios (colocar imágenes fáciles de entender y simbología básica).
+27.  El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios (colocar imágenes fáciles de entender y simbología básica).
 
 28.  El sistema debe ser confiable y cumplir con los requisitos del usuario (asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados así como las identificaciones oficiales del trabajador).
 
@@ -604,11 +604,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxMzQ4Mzc1LC0xMTg3OTU5MzksLTgwNj
-U0Njg2OCwxMTA5ODUzOTM5LC0xMDc3Nzg5NDkyLC0xNjk4NTU3
-MTY3LC0xMjcwNDU3MjY3LC0xMzc2MDc4MjM0LDc0NTI5OTYwMC
-wtNTE1MzMyNTM2LC02ODYzNzE5NjYsODM4Mzg4Mjg5LDEyNjQ1
-NjMwMiwtMTQ2MjYwOTI4NCwtMTk5MTk2NjA1NiwtNjcwODI0MD
-YxLDQ0OTM5NTMzNiwtMTQ0NTMyOTkxNCwtNzU1NDAzMDY5LC0y
-MDgyOTc1NjUwXX0=
+eyJoaXN0b3J5IjpbMTU3MjE5OTYzNywtMTE4Nzk1OTM5LC04MD
+Y1NDY4NjgsMTEwOTg1MzkzOSwtMTA3Nzc4OTQ5MiwtMTY5ODU1
+NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNCw3NDUyOTk2MD
+AsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4ODI4OSwxMjY0
+NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYwNTYsLTY3MDgyND
+A2MSw0NDkzOTUzMzYsLTE0NDUzMjk5MTQsLTc1NTQwMzA2OSwt
+MjA4Mjk3NTY1MF19
 -->
