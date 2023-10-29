@@ -191,7 +191,7 @@ Utilizar la siguiente plantilla:
  - *Cárdenas Rojas Kendrick Asaf:* Diálogos y audios.
 
  **Actividades**
- - **Edición del video:** Realizar un video de máximo 5 minutos presentando  el desarrollo del proyecto, presentar los avances realizados durante el sprint. Incluir el resumen del archivo Producto.md, enseñar parte de los bosquejos de interfaces (se podrá encontrar un enlace en el archivo Diseño.md).
+ - **Edición del video:** Realizar un video de máximo 5 minutos presentando  el desarrollo del proyecto, presentar los avances realizados durante el sprint. Incluir el resumen del archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md">Producto.md</a>, enseñar parte de los bosquejos de interfaces (se podrá encontrar un enlace en el archivo  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>).
  - **Diálogos:** Realizar los diálogos para el video en inglés y español. Tomar en cuenta lo solicitado en Edición del video. 
  - **Audios:** Grabar los audios de los diálogos. 
   
@@ -230,7 +230,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Mjc1NDg2NCwtMjA4MTk2Nzk2LDE1Nj
+eyJoaXN0b3J5IjpbLTU0MDI0Mjg3MywtMjA4MTk2Nzk2LDE1Nj
 c3MDI1NjksMTM4OTM5MjM1NiwtNDE5ODc4NzExLDEyODg1MDMz
 ODAsMTcxMDM5ODM5NCwxMTE2NTgwMDk2LC02Mjc2ODM3ODcsLT
 E1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0
