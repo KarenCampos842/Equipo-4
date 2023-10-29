@@ -13,8 +13,8 @@ Resultado
  - Actualización de requerimientos (Karen): Requisitos.md
 <br>**Fecha de entrega:** Lunes 23 de octubre de 2023
 
-
+## Sprint Backlog
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgxMjE5ODUsLTE2MDMwOTI0MjQsLT
+eyJoaXN0b3J5IjpbLTE5OTkyMjY5MTQsLTE2MDMwOTI0MjQsLT
 E0MjkxNzc2MjBdfQ==
 -->
