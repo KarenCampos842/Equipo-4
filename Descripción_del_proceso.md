@@ -36,8 +36,8 @@
 <br>
 
 ### Product Owner 
-<p>Es considerado la voz del cliente dentro del proyecto y el encargado de garantizar que el proyecto cumpla con los objetivos marcados. <br>
-<strong>Product Owner: Maldonado Medina Hansony de Jesús </strong><br> En este caso, no tenemos un "cliente" que nos esté solicitando el proyecto, pero para fines de la actividad simularemos que el profesor Luis Basto es el cliente. 
+<p>Es considerado la voz del cliente dentro del proyecto. Es el encargado del desarrollo y administración del product backlog.<br>
+<strong>Product Owner: Maldonado Medina Hansony de Jesús </strong><br> Se encargará de administrar el 
 
 
 ### Scrum master
@@ -234,10 +234,10 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODk4NTc2MywtNjgzMDQ4OTQwLC04OT
-Q3MjQxMTgsLTU0MDI0Mjg3MywtMjA4MTk2Nzk2LDE1Njc3MDI1
-NjksMTM4OTM5MjM1NiwtNDE5ODc4NzExLDEyODg1MDMzODAsMT
-cxMDM5ODM5NCwxMTE2NTgwMDk2LC02Mjc2ODM3ODcsLTE1Mjcy
-ODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Nj
-k2XX0=
+eyJoaXN0b3J5IjpbNTE4NTE5ODcsLTY4MzA0ODk0MCwtODk0Nz
+I0MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5NiwxNTY3NzAyNTY5
+LDEzODkzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLDE3MT
+AzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3Mjgz
+NzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl
+19
 -->
