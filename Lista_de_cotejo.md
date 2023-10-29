@@ -53,7 +53,8 @@
   <th rowspan="4">Proceso (mejorado)</th>
   <td>Descripción del Proceso</td>
   <td>Se cuenta con evidencia explícita de (los) sprints: el tamaño del sprint, planeación, actividades, responsables, roles, resultados.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Descripci%C3%B3n_del_proceso.md">Descripción del Proceso</a></td>
+  <td>Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción del Proceso</a>
+  Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#artefactos">Descripción del Proceso</a></td>
   <td></td>
  </tr>
  <tr>
@@ -138,6 +139,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjQ0ODMxNCwtNDM0NDg5MDQ3LDExOD
+eyJoaXN0b3J5IjpbLTk0MDM4NTE0MiwtNDM0NDg5MDQ3LDExOD
 AzNTAzOF19
 -->
