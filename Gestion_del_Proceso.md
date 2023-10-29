@@ -203,7 +203,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
     <tr>  
       <td colspan=3><strong>Total de actividades</strong></td>  
-       <td colspan=2>21</td>
+       <td colspan=2>25</td>
    </tr> 
    <tr>  
       <td colspan=3><strong>Total de actividades de nivel alto</strong></td>  
@@ -219,8 +219,8 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyNTI5MTUwLDE2MTQ2NzMwMjEsOTk0Nz
-M2NzE0LDExOTEzODgxOTMsLTM2MjIzMTQyOCwtNzcwNDA4MDk2
-LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMwOTI0MjQsLT
-E0MjkxNzc2MjBdfQ==
+eyJoaXN0b3J5IjpbLTE5ODY1MjY0NjIsNDEyNTI5MTUwLDE2MT
+Q2NzMwMjEsOTk0NzM2NzE0LDExOTEzODgxOTMsLTM2MjIzMTQy
+OCwtNzcwNDA4MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLT
+E2MDMwOTI0MjQsLTE0MjkxNzc2MjBdfQ==
 -->
