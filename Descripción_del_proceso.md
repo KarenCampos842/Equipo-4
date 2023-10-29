@@ -56,7 +56,8 @@ Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_
 **Corrector de redacción:** *Suárez Balam Brandon Emmanuel.*
 Actividad: Corregir la redacción de los casos de uso (si es necesario). 
 
-**Conruencia:** *Suárez Balam Brandon Emmanuel.*
+**Congruencia en los casos de uso:** *Suárez Balam Brandon Emmanuel.*
+Actividad: Revisar que los casos de uso guarden congruencia entre sí, con las historias de usuario y con los requerimientos. 
 
 ### *Sección  "Producto"*
 
@@ -238,7 +239,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjExMDcwMSwtMTg1MTg3NDczOCwtNj
+eyJoaXN0b3J5IjpbLTcxMDYzNjc2OSwtMTg1MTg3NDczOCwtNj
 gzMDQ4OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4MTk2
 Nzk2LDE1Njc3MDI1NjksMTM4OTM5MjM1NiwtNDE5ODc4NzExLD
 EyODg1MDMzODAsMTcxMDM5ODM5NCwxMTE2NTgwMDk2LC02Mjc2
