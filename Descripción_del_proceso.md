@@ -37,7 +37,7 @@
 
 ### Product Owner 
 <p>Es considerado la voz del cliente dentro del proyecto y el encargado de garantizar que el proyecto cumpla con los objetivos marcados. <br>
-<strong>Product Owner: Maldonado Medina Hansony de Jesús </strong><br> En este caso, no tenemos un "cliente" que nos esté solicitando el proyecto. No obstante, Hansony como la persona que generó la idea, se encargará de revisar que el proyecto cumpla con los objetivos.  </p>
+<strong>Product Owner: Maldonado Medina Hansony de Jesús </strong><br> En este caso, no tenemos un "cliente" que nos esté solicitando el proyecto, pero para fines de la a. No obstante, Hansony como la persona que generó la idea, se encargará de revisar que el proyecto cumpla con los objetivos.  </p>
 
 
 ### Scrum master
@@ -234,9 +234,10 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzA0ODk0MCwtODk0NzI0MTE4LC01ND
-AyNDI4NzMsLTIwODE5Njc5NiwxNTY3NzAyNTY5LDEzODkzOTIz
-NTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgzOTQsMT
-ExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4
-MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbLTE4NTIxMDM1MTYsLTY4MzA0ODk0MCwtOD
+k0NzI0MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5NiwxNTY3NzAy
+NTY5LDEzODkzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLD
+E3MTAzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3
+MjgzNzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0Nj
+Y5Nl19
 -->
