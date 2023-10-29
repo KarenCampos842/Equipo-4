@@ -68,13 +68,13 @@
   <td>Métrica de Contribución Individual</td>
   <td>El equipo cuenta con una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución. Se cuenta con un documento que permita el rastreo y verificación con evidencias en el repositorio de las contribuciones individuales. La medición es objetiva. ¿Existe cambio con respecto a la entrega anterior? Se realizaron los ajustes.</td>
   <td>Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Metrica_de_Contribucion.md#m%C3%A9trica-de-contribuci%C3%B3n-individual">Métrica de Contribución Individual</a>
-  Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#gesti%C3%B3n-del-proceso">Métrica de Contribución Individual</a></td>
+  Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Metrica_de_Contribucion.md#m%C3%A9trica-de-contribuci%C3%B3n-individual">Métrica de Contribución Individual</a></td>
   <td></td>
  </tr>
    <tr>
   <td>Organización y Documentación del Repositorio</td>
   <td>Se cuenta con un branch para la segunda entrega. El repositorio tiene una organización clara. Se encuentra documentado (MD) en las secciones relevantes. Cuenta con las evidencias/artefactos correspondientes.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/tree/Primera-Entrega">Organización y Documentación del Repositorio</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/tree/Segunda-Entrega">Organización y Documentación del Repositorio</a></td>
   <td></td>
  </tr>
 <tr>
@@ -141,6 +141,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjMzNDQxNiwtNDM0NDg5MDQ3LDExOD
-AzNTAzOF19
+eyJoaXN0b3J5IjpbNzA2NDg1NTE2LC00MzQ0ODkwNDcsMTE4MD
+M1MDM4XX0=
 -->
