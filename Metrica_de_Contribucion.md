@@ -16,7 +16,7 @@
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
        <td>3/21=14.29%</td>
-       <td> Alto: 1/15= 6.67%<br>Medio: 0/= 0%<br>Bajo: 0/8= 0%</td>    
+       <td> Alto: 1/15= 6.67%<br>Medio: 4/6= 0%<br>Bajo: 0/4= 0%</td>    
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
@@ -41,6 +41,6 @@
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxOTIxNzczLDE5MDc2MTE4NDUsLTcxMz
-kzMzkzM119
+eyJoaXN0b3J5IjpbLTEyNjY3NjY2NjksMTkwNzYxMTg0NSwtNz
+EzOTMzOTMzXX0=
 -->
