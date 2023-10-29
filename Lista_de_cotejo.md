@@ -40,13 +40,13 @@
  <tr>
   <td>Correspondencia con los Requisitos</td>
   <td>Se verifica que los prototipos construidos corresponden a los requisitos establecidos. De igual forma se verifica que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Gestion_del_Proceso.md">Gestión del Proceso</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#correspondencia-con-los-requisitos">Correspondencia con los Requisitos</a></td>
   <td></td>
  </tr>
   <tr>
   <td>Validación de Interfaces</td>
   <td>Se realiza la validación del diseño propuesto con el cliente. Se recolectan los comentarios y se realiza los cambios correspondientes. Se cuenta con la simulación de una tarea específica que permita una mejor validación de la interfaz.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Metrica_de_Contribucion.md">Métrica de Contribución Individual</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#validaci%C3%B3n-de-interfaces">Validación de Interfaces</a></td>
   <td></td>
  </tr>
   <tr>
@@ -138,6 +138,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM1ODQyNzYsLTQzNDQ4OTA0NywxMT
-gwMzUwMzhdfQ==
+eyJoaXN0b3J5IjpbMjA1MjQ0ODMxNCwtNDM0NDg5MDQ3LDExOD
+AzNTAzOF19
 -->
