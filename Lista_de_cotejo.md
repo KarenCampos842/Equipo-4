@@ -60,8 +60,8 @@
  <tr>
   <td>Gestión del Proceso</td>
   <td>Se incluyen las actividades/tareas/herramientas de monitoreo y/o seguimiento. Se cuentan con bitácoras de las reuniones donde se pueden observar los acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. Existe evidencia de una mejor coordinación de la gestión y del proceso.</td>
-  <td>Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Gestión del Proceso</a>
-  Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Gestión del Proceso</a></td>
+  <td>Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Gestion_del_Proceso.md#gesti%C3%B3n-del-proceso">Gestión del Proceso</a>
+  Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#gesti%C3%B3n-del-proceso">Gestión del Proceso</a></td>
   <td></td>
  </tr>
   <tr>
@@ -140,6 +140,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDAwMjc0OCwtNDM0NDg5MDQ3LDExOD
-AzNTAzOF19
+eyJoaXN0b3J5IjpbLTIxNTI4NjQwLC00MzQ0ODkwNDcsMTE4MD
+M1MDM4XX0=
 -->
