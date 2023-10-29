@@ -156,8 +156,8 @@ Utilizar la siguiente plantilla:
  ### *Sección "Diseño"*
  **Responsables**
 
- 1. *Campos García Karen Elizabeth:* 
- 2.   *Campos García Karen Elizabeth:* Correspondencia con los Requisitos.
+ 1. *Campos García Karen Elizabeth:* Bosquejos de Interfaces, Validación de Interfaces.
+ 2.   *Maldonado Medina Hansony de Jesús:* Correspondencia con los Requisitos.
 
 
 **Actividades**
@@ -232,7 +232,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc5NzMxODUsLTg5NDcyNDExOCwtNT
+eyJoaXN0b3J5IjpbLTIxMDM5OTg3OTQsLTg5NDcyNDExOCwtNT
 QwMjQyODczLC0yMDgxOTY3OTYsMTU2NzcwMjU2OSwxMzg5Mzky
 MzU2LC00MTk4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LD
 ExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgy
