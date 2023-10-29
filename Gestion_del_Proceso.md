@@ -14,6 +14,8 @@ Fecha límite: 28/10/2023
 
 ## Sprint Backlog
 Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
+
+Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
 <table align=center>  
    <tr>  
       <th>Actividades y responsables</th>  
@@ -123,6 +125,6 @@ Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-E
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwOTE5ODIsLTE1Nzc2NDQ5ODYsMTY3ND
-U0NTU4MiwtMTYwMzA5MjQyNCwtMTQyOTE3NzYyMF19
+eyJoaXN0b3J5IjpbLTc3MDQwODA5NiwtMTU3NzY0NDk4NiwxNj
+c0NTQ1NTgyLC0xNjAzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
 -->
