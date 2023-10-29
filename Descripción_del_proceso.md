@@ -164,7 +164,7 @@ Utilizar la siguiente plantilla:
  -   **Correspondencia con los Requisitos:** Verificar que los prototipos construidos corresponden a los requisitos establecidos. Verificar que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces.
  -    **Validación de Interfaces** Validar del diseño propuesto con el cliente. Recolectar los comentarios y realizar los cambios correspondientes. 
  
-**Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño</a>
+**Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>
 
 ### *Sección "Proceso"*
 
@@ -183,7 +183,7 @@ Utilizar la siguiente plantilla:
  - **Organización y Documentación del Repositorio:** Crear los siguientes archivos en formato StackEdit en la branch de "*Segunda-Entrega*" del repositorio del equipo (Equipo-4): Producto, Requisitos, Diseño, Presentación del avance, Diálogos, Competencias, Descripción del proceso, Gestión del proceso, Métrica de contribución y Lista de cotejo. 
  
  **Archivo del trabajo/Resultado:**  
-Producto.md, Requisitos.md, Diseño.md, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  Dialogos.md, Competencias.md, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Metrica_de_Contribucion.md">Metrica_de_Contribucion.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Lista_de_cotejo.md">Lista_de_cotejo.md</a>.
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md">Producto.md</a>  , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  Dialogos.md, Competencias.md, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Metrica_de_Contribucion.md">Metrica_de_Contribucion.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Lista_de_cotejo.md">Lista_de_cotejo.md</a>.
  
 ### *Sección "Presentación del avance"*
 **Responsables**
@@ -229,7 +229,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDg0MDA5LC0yMDgxOTY3OTYsMTU2Nz
+eyJoaXN0b3J5IjpbMzczMTM2ODg2LC0yMDgxOTY3OTYsMTU2Nz
 cwMjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUwMzM4
 MCwxNzEwMzk4Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMT
 UyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0
