@@ -24,8 +24,8 @@ Fecha límite: 28/10/2023
     <tr>  
       <td>Corrección de redacción</td>  
        <td>Bajo</td> 
-       <td>19/10/2023</td>
-       <td>20/10/2023</td>
+       <td>28/10/2023</td>
+       <td>29/10/2023</td>
         <td>A tiempo</td>    
    </tr> 
    <tr>  
@@ -122,6 +122,6 @@ Fecha límite: 28/10/2023
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzk1OTkxLC0xNTc3NjQ0OTg2LDE2Nz
-Q1NDU1ODIsLTE2MDMwOTI0MjQsLTE0MjkxNzc2MjBdfQ==
+eyJoaXN0b3J5IjpbMjA3ODA4MDg0OCwtMTU3NzY0NDk4NiwxNj
+c0NTQ1NTgyLC0xNjAzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
 -->
