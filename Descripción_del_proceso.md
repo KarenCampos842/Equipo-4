@@ -183,7 +183,7 @@ Utilizar la siguiente plantilla:
 **Responsables**
 
  1.  *Campos García Karen Elizabeth:* Sección Proceso, excepto Métrica de contribución individual.
- 2. 
+ 2. *Rubén Moisés Loria Pech:* Métrica de contribución individual.
 
 **Actividades**
  - **Descripción del proceso:** Describir de forma clara en un documento el tamaño del sprint, planeación, actividades, responsables, roles y resultados.
@@ -193,7 +193,7 @@ Utilizar la siguiente plantilla:
  - Orquestar las reuniones: *"Scrum team meeting"* y  "Sprint review". 
  - Escribir una bitácora de las reuniones de equipo mencionando brevemente acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
  - Realizar una tabla ** (sprint backlog)** que contenga las actividades a realizar durante el sprint, responsables, el estado de la tarea (terminada, en curso), fecha de inicio, fechas límite de entrega y nivel de cada actividad (bajo, medio, alto).
- - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, mediano, alto).  
+ - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, medio, alto).  
  - **Organización y Documentación del Repositorio:** Crear los siguientes archivos en formato StackEdit en la branch de "*Segunda-Entrega*" del repositorio del equipo (Equipo-4): Producto, Requisitos, Diseño, Presentación del avance, Diálogos, Competencias, Descripción del proceso, Gestión del proceso, Métrica de contribución y Lista de cotejo. 
  
  **Archivo del trabajo/Resultado:**  
@@ -244,7 +244,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTIzOTY4OSw4NjUxNDE2NzYsLTkzNT
+eyJoaXN0b3J5IjpbMTQzMTMwMDA2Myw4NjUxNDE2NzYsLTkzNT
 A5MTU4NSwxODk1MTE4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3
 MzgsLTY4MzA0ODk0MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLT
 IwODE5Njc5NiwxNTY3NzAyNTY5LDEzODkzOTIzNTYsLTQxOTg3
