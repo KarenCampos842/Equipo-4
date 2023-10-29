@@ -163,7 +163,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
       <td>Edición del video (Moisés)</td>  
        <td>Alto</td>
          <td>3/11/2023</td>
-       <td>4/11/2023</td>
+       <td>5/11/2023</td>
          <td>En curso</td>       
    </tr> 
  <tr>  
@@ -219,8 +219,8 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDY3MzAyMSw5OTQ3MzY3MTQsMTE5MT
-M4ODE5MywtMzYyMjMxNDI4LC03NzA0MDgwOTYsLTE1Nzc2NDQ5
-ODYsMTY3NDU0NTU4MiwtMTYwMzA5MjQyNCwtMTQyOTE3NzYyMF
-19
+eyJoaXN0b3J5IjpbNDEyNTI5MTUwLDE2MTQ2NzMwMjEsOTk0Nz
+M2NzE0LDExOTEzODgxOTMsLTM2MjIzMTQyOCwtNzcwNDA4MDk2
+LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMwOTI0MjQsLT
+E0MjkxNzc2MjBdfQ==
 -->
