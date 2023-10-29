@@ -61,8 +61,14 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>30/10/2023</td>
         <td>En curso</td>     
    </tr> 
-   
- <tr> 
+   <tr>  
+      <td>Historias de usuario(Karen)</td>  
+        <td>Alto</td>
+        <td>28/10/2023</td>
+       <td>28/10/2023</td>
+        <td>En curso</td>     
+   </tr> 
+   <tr> 
      <tr>  
       <td>Descripción del proceso (Karen)</td>  
         <td>Alto</td> 
@@ -109,7 +115,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzODY1NDc5LC0zNjIyMzE0MjgsLTc3MD
-QwODA5NiwtMTU3NzY0NDk4NiwxNjc0NTQ1NTgyLC0xNjAzMDky
-NDI0LC0xNDI5MTc3NjIwXX0=
+eyJoaXN0b3J5IjpbLTE4OTU0MDUwNjMsLTM2MjIzMTQyOCwtNz
+cwNDA4MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMw
+OTI0MjQsLTE0MjkxNzc2MjBdfQ==
 -->
