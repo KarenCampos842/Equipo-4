@@ -591,15 +591,16 @@
                  <li>Comprobar que se ha enviado la contraseña al correo proporcionado.</li>
  </table>      
  
-  ### Historias de usuario
+  ### Casos de uso
   
+   ### Diagrama de caso de uso
 [^1]:Simões, C. (14 de julio de 2020). MoSCoW. ¿Qué es y cómo priorizar en el desarrollo de tu aplicación? *ITDO*. https://www.itdo.com/blog/moscow-que-es-y-como-priorizar-en-el-desarrollo-de-tu-aplicacion/
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzk3MTAxNjQsLTE2OTg1NTcxNjcsLT
+eyJoaXN0b3J5IjpbLTEwNzc3ODk0OTIsLTE2OTg1NTcxNjcsLT
 EyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1Mjk5NjAwLC01MTUz
 MzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyODksMTI2NDU2MzAyLC
 0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02NzA4MjQwNjEsNDQ5
