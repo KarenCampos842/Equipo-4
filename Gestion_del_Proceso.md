@@ -32,6 +32,13 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>En curso</td>    
    </tr> 
    <tr>  
+      <td>Congruencia en los casos de uso (Brandon)</td>  
+       <td>Alto</td> 
+       <td>30/10/2023</td>
+       <td>1/11/2023</td>
+        <td>En curso</td>    
+   </tr> 
+   <tr>  
       <td>Evolución del producto
  (Asaf)</td>  
        <td>Medio</td>
@@ -205,7 +212,8 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0NzM2NzE0LDExOTEzODgxOTMsLTM2Mj
-IzMTQyOCwtNzcwNDA4MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1
-ODIsLTE2MDMwOTI0MjQsLTE0MjkxNzc2MjBdfQ==
+eyJoaXN0b3J5IjpbMTA3MTQxMTk0Myw5OTQ3MzY3MTQsMTE5MT
+M4ODE5MywtMzYyMjMxNDI4LC03NzA0MDgwOTYsLTE1Nzc2NDQ5
+ODYsMTY3NDU0NTU4MiwtMTYwMzA5MjQyNCwtMTQyOTE3NzYyMF
+19
 -->
