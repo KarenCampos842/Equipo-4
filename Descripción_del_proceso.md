@@ -199,7 +199,7 @@ Utilizar la siguiente plantilla:
  - *Cárdenas Rojas Kendrick Asaf:* Diálogos y audios.
 
  **Actividades**
- - **Edición del video:** Realizar un video de máximo 5 minutos presentando  el desarrollo del proyecto, presentar los avances realizados durante el sprint. Incluir  el **product backlog**, el resumen del archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md">Producto.md</a>, enseñar parte de los bosquejos de interfaces (se podrá encontrar un enlace en el archivo  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>).
+ - **Edición del video:** Realizar un video de máximo 5 minutos presentando  el desarrollo del proyecto, presentar los avances realizados durante el sprint. Incluir  el **product backlog** ubicado en <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#product-backlog">Requisitos.md</a>, el resumen del archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md">Producto.md</a>, enseñar parte de los bosquejos de interfaces (se podrá encontrar un enlace en el archivo  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>).
  - **Diálogos:** Realizar los diálogos para el video en inglés y español. Tomar en cuenta lo solicitado en Edición del video. 
  - **Audios:** Grabar los audios de los diálogos. 
   
@@ -238,11 +238,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE4ODAzMzIsLTkzNTA5MTU4NSwxOD
-k1MTE4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0
-ODk0MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5Ni
-wxNTY3NzAyNTY5LDEzODkzOTIzNTYsLTQxOTg3ODcxMSwxMjg4
-NTAzMzgwLDE3MTAzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNz
-g3LC0xNTI3MjgzNzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEs
-MTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbMTc1MjIyODExMiwtOTM1MDkxNTg1LDE4OT
+UxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4
+OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4MTk2Nzk2LD
+E1Njc3MDI1NjksMTM4OTM5MjM1NiwtNDE5ODc4NzExLDEyODg1
+MDMzODAsMTcxMDM5ODM5NCwxMTE2NTgwMDk2LC02Mjc2ODM3OD
+csLTE1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOTYwMSwx
+MTY0NDQ2Njk2XX0=
 -->
