@@ -81,32 +81,32 @@
   <th rowspan="3">Presentación del Avance</th>
   <td>Formato de la Presentación</td>
   <td>Se utiliza recursos/medios que apoyan la presentación de forma original/profesional (diapositivas balanceadas, audio uniforme, diagramas, gráficas CC, etc.). Se tiene cuidado del audio y de los recursos visuales. Hay consistencia visual. Se incluye la información relevante. Se ajusta al tiempo de presentación. (5 minutos)</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Presentacion_del_avance.md">Formato de la Presentación</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Formato de la Presentación</a></td>
   <td></td>
  </tr>
  <tr>
   <td>Ritmo de la Presentación</td>
   <td>El formato de presentación tiene un flujo que permite entender de forma clara el desarrollo del proyecto.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Presentacion_del_avance.md">Ritmo de la Presentación</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Ritmo de la Presentación</a></td>
   <td></td>
  </tr>
   <tr>
   <td>Uso del Lenguaje</td>
   <td>Se utiliza el lenguaje (ES/EN) de IS de forma correcta, práctica y sintética. El ritmo, tono y pitch es efectivo para mantener la atención</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Presentacion_del_avance.md">Uso del Lenguaje</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Uso del Lenguaje</a></td>
   <td></td>
  </tr>
  <tr>
   <th rowspan="2">Competencias</th>
   <td>Competencias Genéricas</td>
   <td>Se argumenta de qué forma se promueven las competencias genéricas a través de actividades específicas del desarrollo del producto.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Competencias.md#competencias-gen%C3%A9ricas">Competencias Genéricas</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias-gen%C3%A9ric">Competencias Genéricas</a></td>
   <td></td>
  </tr>
  <tr>
   <td>Competencias Específicas</td>
   <td>Se argumenta de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Competencias.md#competencias-espec%C3%ADficas">Competencias Específicas</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias-espec%C3%ADficas">Competencias Específicas</a></td>
   <td></td>
  </tr>
  <tr>
@@ -141,6 +141,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2NDg1NTE2LC00MzQ0ODkwNDcsMTE4MD
-M1MDM4XX0=
+eyJoaXN0b3J5IjpbLTg2OTM0MDU3MiwtNDM0NDg5MDQ3LDExOD
+AzNTAzOF19
 -->
