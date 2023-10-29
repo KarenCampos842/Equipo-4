@@ -64,7 +64,9 @@
 
 30. El sistema deberá manejar correcta y extensamente los idiomas del Español e Inglés.
 
-31. 
+31. Se debe de contar en todo momento un respaldo ante desastres en la nube para el sistema en desarrollo.
+
+32. Cada 2 semanas se deberán de generar reportes 
 
 
 
@@ -608,7 +610,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzE1NTY1MSwtMTE4Nzk1OTM5LC04MD
+eyJoaXN0b3J5IjpbLTQwNzQyNDkzMywtMTE4Nzk1OTM5LC04MD
 Y1NDY4NjgsMTEwOTg1MzkzOSwtMTA3Nzc4OTQ5MiwtMTY5ODU1
 NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNCw3NDUyOTk2MD
 AsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4ODI4OSwxMjY0
