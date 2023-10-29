@@ -52,7 +52,7 @@
 
 24.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (solicitando una identificación oficial con fotografía y tomar una fotografía actual para tenerla de foto de perfil y validándolas verificando que sean la misma persona).
  
-25.  Los datos modificados en los perfiles de los trabajadores, en la base de datos deben ser actualizados para todos los usuarios que ingresen a los perfiles en menos de 10 segundos de haber actualizados .
+25.  Los datos modificados en los perfiles de los trabajadores, en la base de datos deben ser actualizados para todos los usuarios que ingresen a los perfiles en menos de 10 segundos de haber sido actualizados.
  
 26.  El sistema debe estar disponible cuando se requiera (darle mantenimiento solo en horarios de baja demanda).
 
@@ -604,11 +604,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0MzYzMjgyLC04MDY1NDY4NjgsMTEwOT
-g1MzkzOSwtMTA3Nzc4OTQ5MiwtMTY5ODU1NzE2NywtMTI3MDQ1
-NzI2NywtMTM3NjA3ODIzNCw3NDUyOTk2MDAsLTUxNTMzMjUzNi
-wtNjg2MzcxOTY2LDgzODM4ODI4OSwxMjY0NTYzMDIsLTE0NjI2
-MDkyODQsLTE5OTE5NjYwNTYsLTY3MDgyNDA2MSw0NDkzOTUzMz
-YsLTE0NDUzMjk5MTQsLTc1NTQwMzA2OSwtMjA4Mjk3NTY1MCwt
-Mjc5NTU3NjQ0XX0=
+eyJoaXN0b3J5IjpbLTExODc5NTkzOSwtODA2NTQ2ODY4LDExMD
+k4NTM5MzksLTEwNzc3ODk0OTIsLTE2OTg1NTcxNjcsLTEyNzA0
+NTcyNjcsLTEzNzYwNzgyMzQsNzQ1Mjk5NjAwLC01MTUzMzI1Mz
+YsLTY4NjM3MTk2Niw4MzgzODgyODksMTI2NDU2MzAyLC0xNDYy
+NjA5Mjg0LC0xOTkxOTY2MDU2LC02NzA4MjQwNjEsNDQ5Mzk1Mz
+M2LC0xNDQ1MzI5OTE0LC03NTU0MDMwNjksLTIwODI5NzU2NTAs
+LTI3OTU1NzY0NF19
 -->
