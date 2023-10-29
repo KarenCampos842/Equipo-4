@@ -48,9 +48,8 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>Terminada</td>     
    </tr> 
    <tr>  
-      <td>Diseño de ventanas "permiso de ubicación" y "registro trabajador". 
-(Brandon)</td>  
-        <td>Bajo</td>
+      <td>Requerimientos no funcionales (Hansony)</td>  
+        <td></td>
         <td>21/10/2023</td>
        <td>23/10/2023</td>
          <td>A tiempo</td>       
@@ -125,7 +124,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjIzMTQyOCwtNzcwNDA4MDk2LC0xNT
-c3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMwOTI0MjQsLTE0Mjkx
-Nzc2MjBdfQ==
+eyJoaXN0b3J5IjpbLTUwNDI0MzY1MSwtMzYyMjMxNDI4LC03Nz
+A0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0NTU4MiwtMTYwMzA5
+MjQyNCwtMTQyOTE3NzYyMF19
 -->
