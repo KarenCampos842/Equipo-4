@@ -42,7 +42,7 @@
 **Actividad:** Establecer el orden en que se realizarán los prototipos de cada historia de usuario. 
 
 ### Scrum master
-<p><strong>Campos García Karen Elizabeth.</strong><br>Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término tomando en consideración la metodología SCRUM.  Ayuda con cuestiones de organización y adicionalmente de asignación de tareas. Así mismo, será la encargada de aceptar los "pull request" y orquestar las reuniones ".</p>
+<p><strong>Campos García Karen Elizabeth.</strong><br>Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término tomando en consideración la metodología SCRUM.  Ayuda con cuestiones de organización y adicionalmente de asignación de tareas. Así mismo, será la encargada de aceptar los "pull request" y orquestar las reuniones "Scrum team meeting",  "Retrospective", "</p>
 
 
 ## Sprint planning (second sprint) 
@@ -239,10 +239,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xOD
-UxODc0NzM4LC02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQy
-ODczLC0yMDgxOTY3OTYsMTU2NzcwMjU2OSwxMzg5MzkyMzU2LC
-00MTk4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMTY1
-ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2OT
-IxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NjM2NTc2NDMsMTg5NTExODU1NiwtNz
+EwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5NDAsLTg5NDcy
+NDExOCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMTU2NzcwMjU2OS
+wxMzg5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUwMzM4MCwxNzEw
+Mzk4Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mz
+c5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZd
+fQ==
 -->
