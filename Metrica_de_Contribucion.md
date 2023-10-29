@@ -10,7 +10,7 @@
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
-       <td> 8/25= 32%</td> 
+       <td> 7/25= 32%</td> 
        <td> Alto: 5/15= 33.33%<br>Medio: 0/6= 0%<br>Bajo: 3/4= 75%</td>  
    </tr> 
    <tr>  
@@ -25,8 +25,8 @@
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
-       <td>5/25=20%</td>
-      <td> Alto: 2/15= 13.33%<br>Medio: 2/6= 33.33%<br>Bajo: 1/4= 25%</td> 
+       <td>2/25=20%</td>
+      <td> Alto: 2/15= 13.33%<br>Medio: 0/6= 0%<br>Bajo: 1/4= 25%</td> 
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
@@ -41,6 +41,6 @@
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODA1NjA5NSwxOTA3NjExODQ1LC03MT
+eyJoaXN0b3J5IjpbMTEwODMzNDc1MSwxOTA3NjExODQ1LC03MT
 M5MzM5MzNdfQ==
 -->
