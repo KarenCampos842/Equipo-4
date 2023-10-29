@@ -40,12 +40,12 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>En curso</td>   
    </tr> 
    <tr>  
-      <td>Diseño de ventanas "crea tu cuenta" y "subir identificaciones". 
-(Hansony)</td>  
-        <td>Bajo</td>
-        <td>21/10/2023</td>
-       <td>23/10/2023</td>
-         <td>A tiempo</td>       
+      <td>Requerimientos funcionales
+(Karen)</td>  
+        <td>Medio</td>
+        <td>28/10/2023</td>
+       <td>30/10/2023</td>
+        <td>En curso</td>     
    </tr> 
    <tr>  
       <td>Diseño de ventanas "permiso de ubicación" y "registro trabajador". 
@@ -125,7 +125,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzkyNDIxMSwtNzcwNDA4MDk2LC0xNT
-c3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMwOTI0MjQsLTE0Mjkx
-Nzc2MjBdfQ==
+eyJoaXN0b3J5IjpbLTE5NTgzODA0MTEsLTc3MDQwODA5NiwtMT
+U3NzY0NDk4NiwxNjc0NTQ1NTgyLC0xNjAzMDkyNDI0LC0xNDI5
+MTc3NjIwXX0=
 -->
