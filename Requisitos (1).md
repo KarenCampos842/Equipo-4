@@ -50,9 +50,9 @@
 
 23. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 en adelante (por los requisitos que manejaremos y las funciones del sistema).
 
-24.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (solicitando una identificación oficial con fotografía y tomar una fotografía actual para tenerla de foto de perfil y validándolas  proporcionada).
+24.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (solicitando una identificación oficial con fotografía y tomar una fotografía actual para tenerla de foto de perfil y validándolas verificando que sean la misma persona).
  
-25.  El sistema debe ser fácil de mantener y actualizar (dándole mantenimiento).
+25.  Los datos modificados en los perfiles de los trabajadores, en la base de datos deben ser actualizados  .
  
 26.  El sistema debe estar disponible cuando se requiera (darle mantenimiento solo en horarios de baja demanda).
 
@@ -604,7 +604,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjYzNzYwLDExMDk4NTM5MzksLTEwNz
+eyJoaXN0b3J5IjpbMTUwMzk2MTgxLDExMDk4NTM5MzksLTEwNz
 c3ODk0OTIsLTE2OTg1NTcxNjcsLTEyNzA0NTcyNjcsLTEzNzYw
 NzgyMzQsNzQ1Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3MTk2Ni
 w4MzgzODgyODksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOTkx
