@@ -156,7 +156,9 @@ Utilizar la siguiente plantilla:
  ### *Sección "Diseño"*
  **Responsables**
 
- - *Campos García Karen Elizabeth:* Sección Diseño.
+ 1. *Campos García Karen Elizabeth:* 
+ 2.   *Campos García Karen Elizabeth:* Correspondencia con los Requisitos.
+
 
 **Actividades**
 
@@ -230,9 +232,9 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMD
-gxOTY3OTYsMTU2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3
-MTEsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMTY1ODAwOTYsLT
-YyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1
-MTM5NjAxLDExNjQ0NDY2OTZdfQ==
+eyJoaXN0b3J5IjpbLTE0NTc5NzMxODUsLTg5NDcyNDExOCwtNT
+QwMjQyODczLC0yMDgxOTY3OTYsMTU2NzcwMjU2OSwxMzg5Mzky
+MzU2LC00MTk4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LD
+ExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgy
+ODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0NDY2OTZdfQ==
 -->
