@@ -193,7 +193,14 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
          <td>28/10/2023</td>
        <td>30/10/2023</td>
          <td>En curso</td>       
-   </tr> 
+   </tr>
+ <tr>  
+      <td>Product backlogs (Asaf)</td>  
+       <td>Medio</td>
+         <td>28/10/2023</td>
+       <td>30/10/2023</td>
+         <td>En curso</td>       
+   </tr>  
     <tr>  
       <td colspan=3><strong>Total de actividades</strong></td>  
        <td colspan=2>21</td>
@@ -212,7 +219,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTQxMTk0Myw5OTQ3MzY3MTQsMTE5MT
+eyJoaXN0b3J5IjpbLTEyNDgwMjE5Niw5OTQ3MzY3MTQsMTE5MT
 M4ODE5MywtMzYyMjMxNDI4LC03NzA0MDgwOTYsLTE1Nzc2NDQ5
 ODYsMTY3NDU0NTU4MiwtMTYwMzA5MjQyNCwtMTQyOTE3NzYyMF
 19
