@@ -195,7 +195,7 @@ Utilizar la siguiente plantilla:
  - **Diálogos:** Realizar los diálogos para el video en inglés y español. Tomar en cuenta lo solicitado en Edición del video. 
  - **Audios:** Grabar los audios de los diálogos. 
   
- **Archivo del trabajo/Resultado:**  Dialogos.md, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md</a>  
+ **Archivo del trabajo/Resultado:**  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>
 
  ### *Sección "Competencias"*
 
@@ -208,7 +208,8 @@ Utilizar la siguiente plantilla:
  - **Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto.
 
 ***NOTA:***  Leer el Plan de Estudios de la Licenciatura en Ingeniería de Software[^4] para realizar las actividades. 
- **Archivo del trabajo/Resultado:** Competencias.md
+
+ **Archivo del trabajo/Resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>
  
 ## Scrum team meeting
  Karen se encargará de realizar reuniones con el equipo vía Teams o de forma presencial de no más de 15 minutos  para monitorear el trabajo realizado. Las reuniones tendrán lugar todos los días, exceptuando fines de semana hasta la entrega de la presentación del primer avance.
@@ -229,7 +230,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDY0MzY4MywtMjA4MTk2Nzk2LDE1Nj
+eyJoaXN0b3J5IjpbMTU3Mjc1NDg2NCwtMjA4MTk2Nzk2LDE1Nj
 c3MDI1NjksMTM4OTM5MjM1NiwtNDE5ODc4NzExLDEyODg1MDMz
 ODAsMTcxMDM5ODM5NCwxMTE2NTgwMDk2LC02Mjc2ODM3ODcsLT
 E1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0
