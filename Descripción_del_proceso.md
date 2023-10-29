@@ -164,7 +164,7 @@ Utilizar la siguiente plantilla:
  -   **Correspondencia con los Requisitos:** Verificar que los prototipos construidos corresponden a los requisitos establecidos. Verificar que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces.
  -    **Validación de Interfaces** Validar del diseño propuesto con el cliente. Recolectar los comentarios y realizar los cambios correspondientes. 
  
-**Archivo del trabajo/resultado:** Diseño.md
+**Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño</a>
 
 ### *Sección "Proceso"*
 
@@ -229,8 +229,9 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE5Njc5NiwxNTY3NzAyNTY5LDEzOD
-kzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgz
-OTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC
-00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbLTIyMDg0MDA5LC0yMDgxOTY3OTYsMTU2Nz
+cwMjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUwMzM4
+MCwxNzEwMzk4Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMT
+UyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDExNjQ0
+NDY2OTZdfQ==
 -->
