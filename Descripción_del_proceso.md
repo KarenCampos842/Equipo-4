@@ -37,7 +37,7 @@
 
 ### Product Owner 
 <p>Es considerado la voz del cliente dentro del proyecto. Es el encargado del desarrollo y administración del product backlog.<br>
-<strong>Product Owner: Maldonado Medina Hansony de Jesús </strong><br> Se encargará de decidir en última instancia cómo será el producto final y el orden en el que se construirán los prototi
+<strong>Product Owner: Maldonado Medina Hansony de Jesús </strong><br> Se encargará de decidir en última instancia cómo será el producto final y el orden en el que se construirán los prototipos.
 
 
 ### Scrum master
@@ -234,10 +234,10 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTEzMTY2MCwtNjgzMDQ4OTQwLC04OT
-Q3MjQxMTgsLTU0MDI0Mjg3MywtMjA4MTk2Nzk2LDE1Njc3MDI1
-NjksMTM4OTM5MjM1NiwtNDE5ODc4NzExLDEyODg1MDMzODAsMT
-cxMDM5ODM5NCwxMTE2NTgwMDk2LC02Mjc2ODM3ODcsLTE1Mjcy
-ODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOTYwMSwxMTY0NDQ2Nj
-k2XX0=
+eyJoaXN0b3J5IjpbLTE4NTE4NzQ3MzgsLTY4MzA0ODk0MCwtOD
+k0NzI0MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5NiwxNTY3NzAy
+NTY5LDEzODkzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLD
+E3MTAzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3
+MjgzNzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEsMTE2NDQ0Nj
+Y5Nl19
 -->
