@@ -19,14 +19,15 @@
   <th rowspan="2">Requisitos</th>
   <td>Evolución de Requisitos</td>
   <td>Se cuenta con un conjunto mejor definido y organizado de requerimientos (Funcionales y No Funcionales) con respecto a la entrega anterior. Hay una mayor claridad de las necesidades del usuario y de los procesos del cliente. La prioridad de los requerimientos corresponde a los objetivos principales del producto.</td>
-  <td> S entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requisitos">Requistos.md</a>
+  <td> Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos">Requistos.md</a>
   Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requisitos">Requistos.md</a></td>
   <td></td>
  </tr>
  <tr>
   <td>Refinamiento de Artefactos</td>
   <td>Se cuenta con artefactos que especifican los requerimientos/historias de usuario, incluye excepciones a considerar (casos de uso, historias de usuario con criterios de aceptación). Se presenta un diagrama que resume el conjunto de requerimientos (ej. Diagrama de Casos de Uso). Existen cambios significativos en los artefactos y se cuenta con evidencia.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos-no-funcionales">Requistos No Funcionales</a></td>
+  <td>Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos">Requistos.md</a>
+  Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requisitos">Requistos.md</a></td>
   <td></td>
  </tr>
  <tr>
@@ -137,6 +138,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDEyNzAzLC00MzQ0ODkwNDcsMTE4MD
+eyJoaXN0b3J5IjpbNDA2MDYyMTc5LC00MzQ0ODkwNDcsMTE4MD
 M1MDM4XX0=
 -->
