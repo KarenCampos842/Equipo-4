@@ -1,6 +1,6 @@
-<h1>﻿Métrica de contribución individual</h1>
+# ﻿Métrica de contribución individual
 
- Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
+ Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#sprint-backlog">Gestión_del_proceso.md</a> para ver especificaciones de las actividades.
  
 <table align=center>  
    <tr>  
@@ -41,5 +41,5 @@
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjU0NzEyMCwtNzEzOTMzOTMzXX0=
+eyJoaXN0b3J5IjpbLTUxODAwMzk5MSwtNzEzOTMzOTMzXX0=
 -->
