@@ -183,7 +183,7 @@ Utilizar la siguiente plantilla:
  - **Descripción del proceso:** Describir de forma clara en un documento el tamaño del sprint, planeación, actividades, responsables, roles y resultados.
  - **Gestión del proceso**: 
  
- - Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"Descripción_del_proceso"* (ubicado en la branch "*Segunda-Entrega*") a las personas correspondientes.   
+ - Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"Descripción_del_proceso"* (ubicado en la branch "*Segunda-Entrega*") a las personas correspondientes. Revisar el estado de cada una de sus actividades (In Progress, Done). 
  - Orquestar las reuniones: *"Scrum team meeting"* y  "Sprint review". 
  - Escribir una bitácora de las reuniones de equipo mencionando brevemente acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
  - Realizar una tabla ** (sprint backlog)** que contenga las actividades a realizar durante el sprint, responsables, el estado de la tarea (terminada, en curso), fecha de inicio, fechas límite de entrega y nivel de cada actividad (bajo, medio, alto).
@@ -238,11 +238,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzYyNzUwLC05MzUwOTE1ODUsMTg5NT
-ExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5
-NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMT
-U2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUw
-MzM4MCwxNzEwMzk4Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4Ny
-wtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDEx
-NjQ0NDY2OTZdfQ==
+eyJoaXN0b3J5IjpbLTEzMDQzNjA0NDMsLTkzNTA5MTU4NSwxOD
+k1MTE4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0
+ODk0MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5Ni
+wxNTY3NzAyNTY5LDEzODkzOTIzNTYsLTQxOTg3ODcxMSwxMjg4
+NTAzMzgwLDE3MTAzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNz
+g3LC0xNTI3MjgzNzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEs
+MTE2NDQ0NjY5Nl19
 -->
