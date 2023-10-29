@@ -141,16 +141,23 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
     <tr>  
       <td>Métrica de contribución individual (Karen)</td> 
       <td>Bajo</td>
-        <td>27/09/2023</td>
-       <td>28/09/2023</td>
+        <td>27/10/2023</td>
+       <td>28/10/2023</td>
          <td>Terminada</td>     
    </tr> 
    <tr>  
       <td>Organización y documentación del repositorio (Karen)</td>  
        <td>Bajo</td>
-         <td>22/09/2023</td>
-       <td>25/09/2023</td>
-         <td>A tiempo</td>       
+         <td>27/10/2023</td>
+       <td>28/10/2023</td>
+         <td>Terminada</td>       
+   </tr> 
+   <tr>  
+      <td>Edición del video (Moisés)</td>  
+       <td>Alto</td>
+         <td>3/11/2023</td>
+       <td>4/11/2023</td>
+         <td>Terminada</td>       
    </tr> 
     <tr>  
       <td colspan=3><strong>Total de actividades</strong></td>  
@@ -170,7 +177,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkwNzkzNTEsMTE5MTM4ODE5MywtMz
-YyMjMxNDI4LC03NzA0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0
-NTU4MiwtMTYwMzA5MjQyNCwtMTQyOTE3NzYyMF19
+eyJoaXN0b3J5IjpbMTc0MjcwMjY0MSwxMTkxMzg4MTkzLC0zNj
+IyMzE0MjgsLTc3MDQwODA5NiwtMTU3NzY0NDk4NiwxNjc0NTQ1
+NTgyLC0xNjAzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
 -->
