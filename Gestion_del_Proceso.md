@@ -96,13 +96,6 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
          <td>En curso</td>       
    </tr>   
    <tr>  
-      <td>Congruencia en los casos de uso (Brandon)</td>  
-       <td>Alto</td> 
-       <td>30/10/2023</td>
-       <td>1/11/2023</td>
-        <td>En curso</td>    
-   </tr> 
-   <tr>  
       <td>Evolución del producto
  (Asaf)</td>  
        <td>Medio</td>
@@ -158,17 +151,31 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>31/10/2023</td>
         <td>En curso</td>     
    </tr>
-   <tr>
-    <td>Bosquejos de Interfaces (Karen)</td>  
-        <td>Alto</td>
-        <td>31/10/2023</td>
-       <td>2/11/2023</td>
-        <td>En curso</td>     
-   </tr>
+    <tr>  
+      <td>Congruencia en los casos de uso (Brandon)</td>  
+       <td>Alto</td> 
+       <td>30/10/2023</td>
+       <td>1/11/2023</td>
+        <td>En curso</td>    
+   </tr> 
    <tr>
     <td>Correspondencia con los Requisitos (Hansony)</td>  
         <td>Medio</td>
         <td>30/10/2023</td>
+       <td>2/11/2023</td>
+        <td>En curso</td>     
+   </tr>
+   <tr>  
+      <td>Diálogos (Asaf)</td>  
+       <td>Alto</td>
+         <td>30/10/2023</td>
+       <td>2/11/2023</td>
+         <td>En curso</td>       
+   </tr> 
+   <tr>
+    <td>Bosquejos de Interfaces (Karen)</td>  
+        <td>Alto</td>
+        <td>31/10/2023</td>
        <td>2/11/2023</td>
         <td>En curso</td>     
    </tr>
@@ -178,26 +185,19 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>31/10/2023</td>
        <td>2/11/2023</td>
         <td>En curso</td>     
-   </tr>                                                                                        
+   </tr>  
+   <tr>  
+      <td>Audios (Asaf)</td>  
+       <td>Medio</td>
+         <td>2/11/2023</td>
+       <td>2/11/2023</td>
+         <td>En curso</td>       
+   </tr>                                                                                      
    <tr>  
       <td>Edición del video (Moisés)</td>  
        <td>Alto</td>
          <td>3/11/2023</td>
        <td>5/11/2023</td>
-         <td>En curso</td>       
-   </tr> 
- <tr>  
-      <td>Diálogos (Asaf)</td>  
-       <td>Alto</td>
-         <td>30/10/2023</td>
-       <td>2/11/2023</td>
-         <td>En curso</td>       
-   </tr> 
- <tr>  
-      <td>Audios (Asaf)</td>  
-       <td>Medio</td>
-         <td>2/11/2023</td>
-       <td>2/11/2023</td>
          <td>En curso</td>       
    </tr>
     <tr>  
@@ -218,7 +218,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTYwNzY1Niw0MTI1MjkxNTAsMTYxND
+eyJoaXN0b3J5IjpbMTU5MTMzNzQ4MCw0MTI1MjkxNTAsMTYxND
 Y3MzAyMSw5OTQ3MzY3MTQsMTE5MTM4ODE5MywtMzYyMjMxNDI4
 LC03NzA0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0NTU4MiwtMT
 YwMzA5MjQyNCwtMTQyOTE3NzYyMF19
