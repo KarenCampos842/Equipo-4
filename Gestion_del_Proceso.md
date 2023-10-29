@@ -173,6 +173,13 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>2/11/2023</td>
          <td>En curso</td>       
    </tr> 
+ <tr>  
+      <td>Competencias genéricas (Asaf)</td>  
+       <td>Medio</td>
+         <td>2/11/2023</td>
+       <td>2/11/2023</td>
+         <td>En curso</td>       
+   </tr> 
     <tr>  
       <td colspan=3><strong>Total de actividades</strong></td>  
        <td colspan=2>21</td>
@@ -191,7 +198,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE0ODUxNDgsMTE5MTM4ODE5MywtMz
+eyJoaXN0b3J5IjpbLTExODI0NzY3MjEsMTE5MTM4ODE5MywtMz
 YyMjMxNDI4LC03NzA0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0
 NTU4MiwtMTYwMzA5MjQyNCwtMTQyOTE3NzYyMF19
 -->
