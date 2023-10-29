@@ -26,8 +26,8 @@
  <tr>
   <td>Refinamiento de Artefactos</td>
   <td>Se cuenta con artefactos que especifican los requerimientos/historias de usuario, incluye excepciones a considerar (casos de uso, historias de usuario con criterios de aceptación). Se presenta un diagrama que resume el conjunto de requerimientos (ej. Diagrama de Casos de Uso). Existen cambios significativos en los artefactos y se cuenta con evidencia.</td>
-  <td>Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos">Requistos.md</a>
-  Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requisitos">Requistos.md</a></td>
+  <td>Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#artefactos">Artefactos</a>
+  Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#artefactos">Artefactos</a></td>
   <td></td>
  </tr>
  <tr>
@@ -138,6 +138,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2MDYyMTc5LC00MzQ0ODkwNDcsMTE4MD
-M1MDM4XX0=
+eyJoaXN0b3J5IjpbLTU2NjU5NzI3MywtNDM0NDg5MDQ3LDExOD
+AzNTAzOF19
 -->
