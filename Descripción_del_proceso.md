@@ -199,7 +199,7 @@ Utilizar la siguiente plantilla:
  - *Cárdenas Rojas Kendrick Asaf:* Diálogos y audios.
 
  **Actividades**
- - **Edición del video:** Realizar un video de máximo 5 minutos presentando  el desarrollo del proyecto, presentar los avances realizados durante el sprint. Incluir  el product baclog, el resumen del archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md">Producto.md</a>, enseñar parte de los bosquejos de interfaces (se podrá encontrar un enlace en el archivo  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>).
+ - **Edición del video:** Realizar un video de máximo 5 minutos presentando  el desarrollo del proyecto, presentar los avances realizados durante el sprint. Incluir  el product backlog, el resumen del archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md">Producto.md</a>, enseñar parte de los bosquejos de interfaces (se podrá encontrar un enlace en el archivo  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>).
  - **Diálogos:** Realizar los diálogos para el video en inglés y español. Tomar en cuenta lo solicitado en Edición del video. 
  - **Audios:** Grabar los audios de los diálogos. 
   
@@ -238,11 +238,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk3NjkyMTMsLTkzNTA5MTU4NSwxOD
-k1MTE4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0
-ODk0MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5Ni
-wxNTY3NzAyNTY5LDEzODkzOTIzNTYsLTQxOTg3ODcxMSwxMjg4
-NTAzMzgwLDE3MTAzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNz
-g3LC0xNTI3MjgzNzkyLC00ODI4MDY5MjEsLTE3NDUxMzk2MDEs
-MTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbOTkyMTI5NzgwLC05MzUwOTE1ODUsMTg5NT
+ExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5
+NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMT
+U2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUw
+MzM4MCwxNzEwMzk4Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4Ny
+wtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDEx
+NjQ0NDY2OTZdfQ==
 -->
