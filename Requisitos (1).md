@@ -68,7 +68,7 @@
 
 32. Cada 2 semanas se deberán de producir reportes gerenciales en los que se mostrará el esfuerzo invertido en cada uno de los componentes del nuevo sistema.
 
-33. El sistema no mostrará datos personales entre usuarios que no este
+33. El sistema no mostrará datos personales entre usuarios y trabajadores que no estén incluidos en los perfiles públicos y con previa autorización de ellos.
 
 
 
@@ -614,11 +614,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2OTI2Njg4LC0xMTg3OTU5MzksLTgwNj
-U0Njg2OCwxMTA5ODUzOTM5LC0xMDc3Nzg5NDkyLC0xNjk4NTU3
-MTY3LC0xMjcwNDU3MjY3LC0xMzc2MDc4MjM0LDc0NTI5OTYwMC
-wtNTE1MzMyNTM2LC02ODYzNzE5NjYsODM4Mzg4Mjg5LDEyNjQ1
-NjMwMiwtMTQ2MjYwOTI4NCwtMTk5MTk2NjA1NiwtNjcwODI0MD
-YxLDQ0OTM5NTMzNiwtMTQ0NTMyOTkxNCwtNzU1NDAzMDY5LC0y
-MDgyOTc1NjUwXX0=
+eyJoaXN0b3J5IjpbLTQxMjY3MDcyMCwtMTE4Nzk1OTM5LC04MD
+Y1NDY4NjgsMTEwOTg1MzkzOSwtMTA3Nzc4OTQ5MiwtMTY5ODU1
+NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNCw3NDUyOTk2MD
+AsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4ODI4OSwxMjY0
+NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYwNTYsLTY3MDgyND
+A2MSw0NDkzOTUzMzYsLTE0NDUzMjk5MTQsLTc1NTQwMzA2OSwt
+MjA4Mjk3NTY1MF19
 -->
