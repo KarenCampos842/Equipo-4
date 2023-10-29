@@ -50,8 +50,7 @@
 **(27/10/2023) - (5/11/2023)**
 
 ***NOTA:*** Se encontrarán archivos para cada sección en la que el trabajo está dividido (se dividió acorde a la lista de cotejo) en la branch de Segunda-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
-
-Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, marcar el estado de cada una de sus actividades (In Progress, Done). Marcar como "closed" sus issues asignados cuando finalicen una actividad. 
+Marcar como "closed" sus issues asignados cuando finalicen una actividad. 
 
 **Corrector de redacción:** *Suárez Balam Brandon Emmanuel.*
 Actividad: Corregir la redacción de los casos de uso (si es necesario). 
@@ -239,11 +238,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTEyMTU4NiwtOTM1MDkxNTg1LDE4OT
-UxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4
-OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4MTk2Nzk2LD
-E1Njc3MDI1NjksMTM4OTM5MjM1NiwtNDE5ODc4NzExLDEyODg1
-MDMzODAsMTcxMDM5ODM5NCwxMTE2NTgwMDk2LC02Mjc2ODM3OD
-csLTE1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOTYwMSwx
-MTY0NDQ2Njk2XX0=
+eyJoaXN0b3J5IjpbLTg1NzYyNzUwLC05MzUwOTE1ODUsMTg5NT
+ExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5
+NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMT
+U2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUw
+MzM4MCwxNzEwMzk4Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4Ny
+wtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC0xNzQ1MTM5NjAxLDEx
+NjQ0NDY2OTZdfQ==
 -->
