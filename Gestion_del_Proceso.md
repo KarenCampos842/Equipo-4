@@ -54,7 +54,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
          <td>En curso</td>        
    </tr> 
     <tr>  
-      <td>Métrica de contribución individual (Carlos)</td> 
+      <td>Métrica de contribución individual (Moisés)</td> 
       <td>Bajo</td>
         <td>27/10/2023</td>
        <td>28/10/2023</td>
@@ -218,8 +218,9 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI3NjQ1MDIsNjI2Njk3MDI2LDQxMj
-UyOTE1MCwxNjE0NjczMDIxLDk5NDczNjcxNCwxMTkxMzg4MTkz
-LC0zNjIyMzE0MjgsLTc3MDQwODA5NiwtMTU3NzY0NDk4NiwxNj
-c0NTQ1NTgyLC0xNjAzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
+eyJoaXN0b3J5IjpbLTk3MTg1NDIyNCwtMTQyMjc2NDUwMiw2Mj
+Y2OTcwMjYsNDEyNTI5MTUwLDE2MTQ2NzMwMjEsOTk0NzM2NzE0
+LDExOTEzODgxOTMsLTM2MjIzMTQyOCwtNzcwNDA4MDk2LC0xNT
+c3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMwOTI0MjQsLTE0Mjkx
+Nzc2MjBdfQ==
 -->
