@@ -174,8 +174,8 @@ Utilizar la siguiente plantilla:
  -   **Correspondencia con los Requisitos:** 
  Verificar que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces.
  Verificar que los prototipos construidos corresponden a los requisitos establecidos. Cada ventana hecha en Figma estará numerada; colocar el número de ventana y el número de requerimiento que le pertenece.
- Ejemplo: Ventana  
- -    **Validación de Interfaces** Validar del diseño propuesto con el cliente. Recolectar los comentarios e informar a Karen para realizar los cambios correspondientes. 
+ Ejemplo: Ventana #1_ Inicio de sesión: Requerimientos 1,2,3. 
+ -    **Validación de Interfaces** Validar del diseño propuesto con el cliente (anotar los comentarios que realice el profesor durante la reunión del martes respecto al diseño). Recolectar los comentarios e informar a Karen para realizar los cambios correspondientes. 
  
 **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>
 
@@ -245,11 +245,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTg5ODcxOSw4NjUxNDE2NzYsLTkzNT
-A5MTU4NSwxODk1MTE4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3
-MzgsLTY4MzA0ODk0MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLT
-IwODE5Njc5NiwxNTY3NzAyNTY5LDEzODkzOTIzNTYsLTQxOTg3
-ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgzOTQsMTExNjU4MDA5Ni
-wtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5MjEsLTE3
-NDUxMzk2MDFdfQ==
+eyJoaXN0b3J5IjpbOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MD
+kxNTg1LDE4OTUxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDcz
+OCwtNjgzMDQ4OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMj
+A4MTk2Nzk2LDE1Njc3MDI1NjksMTM4OTM5MjM1NiwtNDE5ODc4
+NzExLDEyODg1MDMzODAsMTcxMDM5ODM5NCwxMTE2NTgwMDk2LC
+02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0
+NTEzOTYwMV19
 -->
