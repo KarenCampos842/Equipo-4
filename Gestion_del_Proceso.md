@@ -13,13 +13,13 @@ Fecha límite: 28/10/2023
 
 
 ## Sprint Backlog
-I
+Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
 <table align=center>  
    <tr>  
-      <th>Actividades (responsables)</th>  
+      <th>Actividades y responsables</th>  
       <th>Nivel</th>  
           <th>Fecha de asignación</th>  
-           <th>Fecha máxima de entrega</th>
+           <th>Fecha máxima de finalización</th>
                 <th>Estado de entrega</th>    
    </tr> 
     <tr>  
@@ -123,6 +123,6 @@ I
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDUyNjAxMiwtMTU3NzY0NDk4NiwxNj
-c0NTQ1NTgyLC0xNjAzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
+eyJoaXN0b3J5IjpbMzYwOTE5ODIsLTE1Nzc2NDQ5ODYsMTY3ND
+U0NTU4MiwtMTYwMzA5MjQyNCwtMTQyOTE3NzYyMF19
 -->
