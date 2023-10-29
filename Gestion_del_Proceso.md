@@ -29,15 +29,15 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>Bajo</td> 
        <td>28/10/2023</td>
        <td>3/10/2023</td>
-        <td>En proceso</td>    
+        <td>En curso</td>    
    </tr> 
    <tr>  
-      <td>Diseño de ventanas "inicio de sesión" y "seleccionar perfil" 
- (Karen)</td>  
-       <td>Bajo</td>
-        <td>21/10/2023</td>
-       <td>23/10/2023</td>
-         <td>A tiempo</td>       
+      <td>Evolución del producto
+ (Asaf)</td>  
+       <td>Medio</td>
+        <td>28/10/2023</td>
+       <td>3/10/2023</td>
+        <td>En curso</td>   
    </tr> 
    <tr>  
       <td>Diseño de ventanas "crea tu cuenta" y "subir identificaciones". 
@@ -125,6 +125,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDQwODA5NiwtMTU3NzY0NDk4NiwxNj
-c0NTQ1NTgyLC0xNjAzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
+eyJoaXN0b3J5IjpbNjkzMzQzOTA5LC03NzA0MDgwOTYsLTE1Nz
+c2NDQ5ODYsMTY3NDU0NTU4MiwtMTYwMzA5MjQyNCwtMTQyOTE3
+NzYyMF19
 -->
