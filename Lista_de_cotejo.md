@@ -34,7 +34,7 @@
   <th rowspan="3">Diseño</th>
   <td>Bosquejos de Interfaces</td>
   <td>Se cuenta con un conjunto inicial de prototipos de baja, media o alta fidelidad. Se utilizan guías de diseño. Se utiliza alguna herramienta para el diseño.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Descripci%C3%B3n_del_proceso.md">Descripción del Proceso</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#bosquejos-de-interfaces">Bosquejos de Interfaces</a></td>
   <td></td>
  </tr>
  <tr>
@@ -138,6 +138,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjU5NzI3MywtNDM0NDg5MDQ3LDExOD
-AzNTAzOF19
+eyJoaXN0b3J5IjpbLTE4NjM1ODQyNzYsLTQzNDQ4OTA0NywxMT
+gwMzUwMzhdfQ==
 -->
