@@ -28,7 +28,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
       <td>Corrección de redacción (Brandon)</td>  
        <td>Bajo</td> 
        <td>28/10/2023</td>
-       <td>3/10/2023</td>
+       <td>30/10/2023</td>
         <td>En curso</td>    
    </tr> 
    <tr>  
@@ -36,7 +36,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
  (Asaf)</td>  
        <td>Medio</td>
         <td>28/10/2023</td>
-       <td>3/10/2023</td>
+       <td>30/10/2023</td>
         <td>En curso</td>   
    </tr> 
    <tr>  
@@ -125,7 +125,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzMzQzOTA5LC03NzA0MDgwOTYsLTE1Nz
-c2NDQ5ODYsMTY3NDU0NTU4MiwtMTYwMzA5MjQyNCwtMTQyOTE3
-NzYyMF19
+eyJoaXN0b3J5IjpbMjAyMzkyNDIxMSwtNzcwNDA4MDk2LC0xNT
+c3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMwOTI0MjQsLTE0Mjkx
+Nzc2MjBdfQ==
 -->
