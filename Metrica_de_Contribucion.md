@@ -10,7 +10,7 @@
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
-       <td> 5/21= 23.80%</td> 
+       <td> 8/25= 23.80%</td> 
        <td> Alto: 2/6= 33.33%<br>Mediano: 1/7= 14.29%<br>Bajo: 2/8= 25%</td>  
    </tr> 
    <tr>  
@@ -41,5 +41,5 @@
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODAwMzk5MSwtNzEzOTMzOTMzXX0=
+eyJoaXN0b3J5IjpbMTA5ODU5MTkxMiwtNzEzOTMzOTMzXX0=
 -->
