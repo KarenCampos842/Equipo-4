@@ -48,9 +48,9 @@
 
 ## Requerimientos no funcionales
 
-23. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 (por los requisitos que manejaremos y las funciones del sistema).
+23. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 en adelante (por los requisitos que manejaremos y las funciones del sistema).
 
-24.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (validando la identificación oficial proporcionada).
+24.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (solicitando una identificación oficial con fotografía y tomar una fotografía actual para tenerla de foto de perfil y validándolas  proporcionada).
  
 25.  El sistema debe ser fácil de mantener y actualizar (dándole mantenimiento).
  
@@ -604,11 +604,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTg1MzkzOSwtMTA3Nzc4OTQ5MiwtMT
-Y5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNCw3NDUy
-OTk2MDAsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4ODI4OS
-wxMjY0NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYwNTYsLTY3
-MDgyNDA2MSw0NDkzOTUzMzYsLTE0NDUzMjk5MTQsLTc1NTQwMz
-A2OSwtMjA4Mjk3NTY1MCwtMjc5NTU3NjQ0LC0xMjUyODY2ODk2
-LDE1MzA5MzY0OTldfQ==
+eyJoaXN0b3J5IjpbMTY0MjYzNzYwLDExMDk4NTM5MzksLTEwNz
+c3ODk0OTIsLTE2OTg1NTcxNjcsLTEyNzA0NTcyNjcsLTEzNzYw
+NzgyMzQsNzQ1Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3MTk2Ni
+w4MzgzODgyODksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOTkx
+OTY2MDU2LC02NzA4MjQwNjEsNDQ5Mzk1MzM2LC0xNDQ1MzI5OT
+E0LC03NTU0MDMwNjksLTIwODI5NzU2NTAsLTI3OTU1NzY0NCwt
+MTI1Mjg2Njg5Nl19
 -->
