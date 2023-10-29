@@ -173,7 +173,7 @@ Utilizar la siguiente plantilla:
  - **Bosquejos de Interfaces:** Realizar el conjunto inicial de prototipos de baja, media o alta fidelidad utilizando Figma.
  -   **Correspondencia con los Requisitos:** 
  Verificar que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces.
- Verificar que los prototipos construidos corresponden a los requisitos establecidos. 
+ Verificar que los prototipos construidos corresponden a los requisitos establecidos (cada ventana e. 
  -    **Validación de Interfaces** Validar del diseño propuesto con el cliente. Recolectar los comentarios e informar a Karen para realizar los cambios correspondientes. 
  
 **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>
@@ -244,11 +244,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTMwMDA2Myw4NjUxNDE2NzYsLTkzNT
-A5MTU4NSwxODk1MTE4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3
-MzgsLTY4MzA0ODk0MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLT
-IwODE5Njc5NiwxNTY3NzAyNTY5LDEzODkzOTIzNTYsLTQxOTg3
-ODcxMSwxMjg4NTAzMzgwLDE3MTAzOTgzOTQsMTExNjU4MDA5Ni
-wtNjI3NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5MjEsLTE3
-NDUxMzk2MDFdfQ==
+eyJoaXN0b3J5IjpbLTE3NzU3Njg2NjYsODY1MTQxNjc2LC05Mz
+UwOTE1ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0
+NzM4LC02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC
+0yMDgxOTY3OTYsMTU2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4
+Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMTY1ODAwOT
+YsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgyODA2OTIxLC0x
+NzQ1MTM5NjAxXX0=
 -->
