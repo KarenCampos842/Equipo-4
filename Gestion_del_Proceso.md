@@ -159,6 +159,13 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>4/11/2023</td>
          <td>Terminada</td>       
    </tr> 
+ <tr>  
+      <td>Diálogos (Asaf)</td>  
+       <td>Alto</td>
+         <td>30/11/2023</td>
+       <td>4/11/2023</td>
+         <td>Terminada</td>       
+   </tr> 
     <tr>  
       <td colspan=3><strong>Total de actividades</strong></td>  
        <td colspan=2>21</td>
@@ -177,7 +184,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjcwMjY0MSwxMTkxMzg4MTkzLC0zNj
+eyJoaXN0b3J5IjpbLTM5MzUzNDI4NSwxMTkxMzg4MTkzLC0zNj
 IyMzE0MjgsLTc3MDQwODA5NiwtMTU3NzY0NDk4NiwxNjc0NTQ1
 NTgyLC0xNjAzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
 -->
