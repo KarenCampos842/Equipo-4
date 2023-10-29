@@ -49,10 +49,10 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr> 
    <tr>  
       <td>Requerimientos no funcionales (Hansony)</td>  
-        <td></td>
-        <td>21/10/2023</td>
-       <td>23/10/2023</td>
-         <td>A tiempo</td>       
+        <td>Alto</td>
+        <td>28/10/2023</td>
+       <td>30/10/2023</td>
+        <td>En curso</td>     
    </tr> 
  <tr> 
   <td>Diseño de ventana "términos y condiciones". 
@@ -124,7 +124,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDI0MzY1MSwtMzYyMjMxNDI4LC03Nz
-A0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0NTU4MiwtMTYwMzA5
-MjQyNCwtMTQyOTE3NzYyMF19
+eyJoaXN0b3J5IjpbLTEwNzE3Mjc4NjQsLTM2MjIzMTQyOCwtNz
+cwNDA4MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMw
+OTI0MjQsLTE0MjkxNzc2MjBdfQ==
 -->
