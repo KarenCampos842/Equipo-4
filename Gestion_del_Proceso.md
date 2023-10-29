@@ -24,6 +24,21 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
            <th>Fecha máxima de finalización</th>
                 <th>Estado de entrega</th>    
    </tr> 
+   <tr>  
+      <td>Requerimientos funcionales
+(Karen)</td>  
+        <td>Alto</td>
+        <td>27/10/2023</td>
+       <td>28/10/2023</td>
+        <td>Terminada</td>     
+   </tr>
+ <tr>  
+      <td>Historias de usuario(Karen)</td>  
+        <td>Alto</td>
+        <td>27/10/2023</td>
+       <td>28/10/2023</td>
+        <td>Terminada</td>     
+   </tr>  
     <tr>  
       <td>Corrección de redacción (Brandon)</td>  
        <td>Medio</td> 
@@ -47,14 +62,6 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>En curso</td>   
    </tr> 
    <tr>  
-      <td>Requerimientos funcionales
-(Karen)</td>  
-        <td>Alto</td>
-        <td>27/10/2023</td>
-       <td>28/10/2023</td>
-        <td>Terminada</td>     
-   </tr> 
-   <tr>  
       <td>Requerimientos no funcionales (Hansony)</td>  
         <td>Alto</td>
         <td>28/10/2023</td>
@@ -67,13 +74,6 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>28/10/2023</td>
        <td>30/10/2023</td>
         <td>En curso</td>     
-   </tr> 
-   <tr>  
-      <td>Historias de usuario(Karen)</td>  
-        <td>Alto</td>
-        <td>27/10/2023</td>
-       <td>28/10/2023</td>
-        <td>Terminada</td>     
    </tr> 
     <tr>  
       <td>Casos de uso: historias de usuario número 1, 2, 8 y 15 (Hansony)</td>  
@@ -207,19 +207,19 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr> 
    <tr>  
       <td colspan=3><strong>Total de actividades de nivel alto</strong></td>  
-       <td colspan=2>6</td>
+       <td colspan=2>14</td>
    </tr> 
    <tr>  
-      <td colspan=3><strong>Total de actividades de nivel mediano</strong></td>  
+      <td colspan=3><strong>Total de actividades de nivel medio</strong></td>  
        <td colspan=2>7</td>
    </tr>
     <tr>  
       <td colspan=3><strong>Total de actividades de nivel bajo</strong></td>  
-       <td colspan=2>8</td>
+       <td colspan=2>4</td>
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY1MjY0NjIsNDEyNTI5MTUwLDE2MT
+eyJoaXN0b3J5IjpbLTE5NzI3MzIxMDQsNDEyNTI5MTUwLDE2MT
 Q2NzMwMjEsOTk0NzM2NzE0LDExOTEzODgxOTMsLTM2MjIzMTQy
 OCwtNzcwNDA4MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLT
 E2MDMwOTI0MjQsLTE0MjkxNzc2MjBdfQ==
