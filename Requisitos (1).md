@@ -58,9 +58,9 @@
 
 27.  El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios (colocar imágenes fáciles de entender y simbología básica).
 
-28.  El sistema debe ser confiable y cumplir con los requisitos del usuario (asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados así como las identificaciones oficiales del trabajador).
+28.  El sistema no deberá de ocupar más de 500 MB de almacenamiento interno de cada usuario.
 
-29.  Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal (verificando los servicios continuamente).
+29.  Los servicios ofrecidos por los trabajadores deben estar ser legales (verificando los servicios continuamente).
 
 
 
@@ -604,11 +604,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjE5OTYzNywtMTE4Nzk1OTM5LC04MD
-Y1NDY4NjgsMTEwOTg1MzkzOSwtMTA3Nzc4OTQ5MiwtMTY5ODU1
-NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNCw3NDUyOTk2MD
-AsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4ODI4OSwxMjY0
-NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYwNTYsLTY3MDgyND
-A2MSw0NDkzOTUzMzYsLTE0NDUzMjk5MTQsLTc1NTQwMzA2OSwt
-MjA4Mjk3NTY1MF19
+eyJoaXN0b3J5IjpbLTIxMDUxNDU0NzIsLTExODc5NTkzOSwtOD
+A2NTQ2ODY4LDExMDk4NTM5MzksLTEwNzc3ODk0OTIsLTE2OTg1
+NTcxNjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1Mjk5Nj
+AwLC01MTUzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyODksMTI2
+NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02NzA4Mj
+QwNjEsNDQ5Mzk1MzM2LC0xNDQ1MzI5OTE0LC03NTU0MDMwNjks
+LTIwODI5NzU2NTBdfQ==
 -->
