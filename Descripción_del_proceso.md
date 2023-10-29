@@ -54,6 +54,9 @@
 Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, marcar el estado de cada una de sus actividades (In Progress, Done). Marcar como "closed" sus issues asignados cuando finalicen una actividad. 
 
 **Corrector de redacción:** *Suárez Balam Brandon Emmanuel.*
+Actividad: Corregir la redacción de los casos de uso (si es necesario). 
+
+**Conruencia:** *Suárez Balam Brandon Emmanuel.*
 
 ### *Sección  "Producto"*
 
@@ -235,10 +238,10 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQwNDA1MTQsLTE4NTE4NzQ3MzgsLT
-Y4MzA0ODk0MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLTIwODE5
-Njc5NiwxNTY3NzAyNTY5LDEzODkzOTIzNTYsLTQxOTg3ODcxMS
-wxMjg4NTAzMzgwLDE3MTAzOTgzOTQsMTExNjU4MDA5NiwtNjI3
-NjgzNzg3LC0xNTI3MjgzNzkyLC00ODI4MDY5MjEsLTE3NDUxMz
-k2MDEsMTE2NDQ0NjY5Nl19
+eyJoaXN0b3J5IjpbMTkyNjExMDcwMSwtMTg1MTg3NDczOCwtNj
+gzMDQ4OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4MTk2
+Nzk2LDE1Njc3MDI1NjksMTM4OTM5MjM1NiwtNDE5ODc4NzExLD
+EyODg1MDMzODAsMTcxMDM5ODM5NCwxMTE2NTgwMDk2LC02Mjc2
+ODM3ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0NTEzOT
+YwMSwxMTY0NDQ2Njk2XX0=
 -->
