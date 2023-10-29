@@ -3,8 +3,8 @@
 ## Competencias genéricas
 
 
-## Competencias específicas</h1>
+## Competencias específicas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTIyNjY2NTldfQ==
+eyJoaXN0b3J5IjpbLTYyNjU5Njk0MywtMTExMjI2NjY1OV19
 -->
