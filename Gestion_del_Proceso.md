@@ -128,15 +128,15 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
       <td>Descripción del proceso (Karen)</td>  
         <td>Alto</td>
         <td>27/10/2023</td>
-       <td>28/11/2023</td>
-        <td>En curso</td>     
+       <td>28/10/2023</td>
+        <td>Terminada</td>     
    </tr> 
     <tr>  
       <td>Gestión del proceso (Karen)</td> 
       <td>Alto</td>
-        <td>22/09/2023</td>
-       <td>30/09/2023</td>
-         <td>A tiempo</td>        
+        <td>27/10/2023</td>
+       <td>5/11/2023</td>
+         <td>En curso</td>        
    </tr> 
     <tr>  
       <td>Métrica de contribución individual (Karen)</td> 
@@ -170,7 +170,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzEyNzY5NjQsLTM2MjIzMTQyOCwtNz
-cwNDA4MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMw
-OTI0MjQsLTE0MjkxNzc2MjBdfQ==
+eyJoaXN0b3J5IjpbMTE5MTM4ODE5MywtMzYyMjMxNDI4LC03Nz
+A0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0NTU4MiwtMTYwMzA5
+MjQyNCwtMTQyOTE3NzYyMF19
 -->
