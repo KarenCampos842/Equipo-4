@@ -1,9 +1,11 @@
 <h1>﻿Métrica de contribución individual</h1>
+
+ Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
  
 <table align=center>  
    <tr>  
-      <th bgcolor="#D18888">Nombre</th>  
-      <th bgcolor="#D18888">Porcentaje de contribución</th> 
+      <th>Nombre</th>  
+      <th>Porcentaje de contribución</th> 
       <th bgcolor="#D18888">Porcentaje de contribución de acuerdo el nivel</th>  
    </tr> 
     <tr>  
@@ -147,5 +149,5 @@
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzkzMzkzM119
+eyJoaXN0b3J5IjpbMTIyNzM2NDMxOSwtNzEzOTMzOTMzXX0=
 -->
