@@ -38,7 +38,35 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>27/10/2023</td>
        <td>28/10/2023</td>
         <td>Terminada</td>     
-   </tr>  
+   </tr>
+  <tr>  
+      <td>Descripción del proceso (Karen)</td>  
+        <td>Alto</td>
+        <td>27/10/2023</td>
+       <td>28/10/2023</td>
+        <td>Terminada</td>     
+   </tr> 
+    <tr>  
+      <td>Gestión del proceso (Karen)</td> 
+      <td>Alto</td>
+        <td>27/10/2023</td>
+       <td>5/11/2023</td>
+         <td>En curso</td>        
+   </tr> 
+    <tr>  
+      <td>Métrica de contribución individual (Karen)</td> 
+      <td>Bajo</td>
+        <td>27/10/2023</td>
+       <td>28/10/2023</td>
+         <td>Terminada</td>     
+   </tr> 
+   <tr>  
+      <td>Organización y documentación del repositorio (Karen)</td>  
+       <td>Bajo</td>
+         <td>27/10/2023</td>
+       <td>28/10/2023</td>
+         <td>Terminada</td>       
+   </tr>   
     <tr>  
       <td>Corrección de redacción (Brandon)</td>  
        <td>Medio</td> 
@@ -130,35 +158,6 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>2/11/2023</td>
         <td>En curso</td>     
    </tr>                                                                                        
-   <tr> 
-     <tr>  
-      <td>Descripción del proceso (Karen)</td>  
-        <td>Alto</td>
-        <td>27/10/2023</td>
-       <td>28/10/2023</td>
-        <td>Terminada</td>     
-   </tr> 
-    <tr>  
-      <td>Gestión del proceso (Karen)</td> 
-      <td>Alto</td>
-        <td>27/10/2023</td>
-       <td>5/11/2023</td>
-         <td>En curso</td>        
-   </tr> 
-    <tr>  
-      <td>Métrica de contribución individual (Karen)</td> 
-      <td>Bajo</td>
-        <td>27/10/2023</td>
-       <td>28/10/2023</td>
-         <td>Terminada</td>     
-   </tr> 
-   <tr>  
-      <td>Organización y documentación del repositorio (Karen)</td>  
-       <td>Bajo</td>
-         <td>27/10/2023</td>
-       <td>28/10/2023</td>
-         <td>Terminada</td>       
-   </tr> 
    <tr>  
       <td>Edición del video (Moisés)</td>  
        <td>Alto</td>
@@ -219,8 +218,8 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzI3MzIxMDQsNDEyNTI5MTUwLDE2MT
-Q2NzMwMjEsOTk0NzM2NzE0LDExOTEzODgxOTMsLTM2MjIzMTQy
-OCwtNzcwNDA4MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLT
-E2MDMwOTI0MjQsLTE0MjkxNzc2MjBdfQ==
+eyJoaXN0b3J5IjpbMjgxOTE1ODI0LDQxMjUyOTE1MCwxNjE0Nj
+czMDIxLDk5NDczNjcxNCwxMTkxMzg4MTkzLC0zNjIyMzE0Mjgs
+LTc3MDQwODA5NiwtMTU3NzY0NDk4NiwxNjc0NTQ1NTgyLC0xNj
+AzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
 -->
