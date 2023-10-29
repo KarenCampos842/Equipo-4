@@ -62,7 +62,9 @@
 
 29.  Los servicios ofrecidos por los trabajadores deben estar ser legales (verificando los servicios ofrecidos continuamente).
 
-30. El sistema deberá manejar correctamente los idiomas de Español e Inglés
+30. El sistema deberá manejar correcta y extensamente los idiomas del Español e Inglés.
+
+31. 
 
 
 
@@ -606,11 +608,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyNjI3NTIsLTExODc5NTkzOSwtODA2NT
-Q2ODY4LDExMDk4NTM5MzksLTEwNzc3ODk0OTIsLTE2OTg1NTcx
-NjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1Mjk5NjAwLC
-01MTUzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyODksMTI2NDU2
-MzAyLC0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02NzA4MjQwNj
-EsNDQ5Mzk1MzM2LC0xNDQ1MzI5OTE0LC03NTU0MDMwNjksLTIw
-ODI5NzU2NTBdfQ==
+eyJoaXN0b3J5IjpbLTMzNzE1NTY1MSwtMTE4Nzk1OTM5LC04MD
+Y1NDY4NjgsMTEwOTg1MzkzOSwtMTA3Nzc4OTQ5MiwtMTY5ODU1
+NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNCw3NDUyOTk2MD
+AsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4ODI4OSwxMjY0
+NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYwNTYsLTY3MDgyND
+A2MSw0NDkzOTUzMzYsLTE0NDUzMjk5MTQsLTc1NTQwMzA2OSwt
+MjA4Mjk3NTY1MF19
 -->
