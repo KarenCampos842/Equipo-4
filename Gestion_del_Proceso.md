@@ -15,14 +15,14 @@ Fecha límite: 28/10/2023
 ## Sprint Backlog
 <table align=center>  
    <tr>  
-      <th>Actividades</th>  
+      <th>Actividades (responsables)</th>  
       <th>Nivel</th>  
           <th>Fecha de asignación</th>  
            <th>Fecha máxima de entrega</th>
                 <th bgcolor="#D18888" >Estado de entrega</th>    
    </tr> 
     <tr>  
-      <td>Borrador de ventanas correspondientes al registro de usuarios  (Karen)</td>  
+      <td>Corrección de redacción</td>  
        <td>Bajo</td> 
        <td>19/10/2023</td>
        <td>20/10/2023</td>
@@ -122,6 +122,6 @@ Fecha límite: 28/10/2023
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc2NDQ5ODYsMTY3NDU0NTU4MiwtMT
-YwMzA5MjQyNCwtMTQyOTE3NzYyMF19
+eyJoaXN0b3J5IjpbLTgyMzk1OTkxLC0xNTc3NjQ0OTg2LDE2Nz
+Q1NDU1ODIsLTE2MDMwOTI0MjQsLTE0MjkxNzc2MjBdfQ==
 -->
