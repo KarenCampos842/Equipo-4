@@ -103,10 +103,10 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>En curso</td>     
    </tr>
    <tr>
-    <td>Diagrama de Caso de Uso (Carlos)</td>  
+    <td>Bosquejos de Interfaces</td>  
         <td>Alto</td>
-        <td>28/10/2023</td>
-       <td>31/10/2023</td>
+        <td>31/10/2023</td>
+       <td>2/11/2023</td>
         <td>En curso</td>     
    </tr>                               
    <tr> 
@@ -156,7 +156,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTI0Njc1MiwtMzYyMjMxNDI4LC03Nz
-A0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0NTU4MiwtMTYwMzA5
-MjQyNCwtMTQyOTE3NzYyMF19
+eyJoaXN0b3J5IjpbLTE5MjEyMjkxNzMsLTM2MjIzMTQyOCwtNz
+cwNDA4MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMw
+OTI0MjQsLTE0MjkxNzc2MjBdfQ==
 -->
