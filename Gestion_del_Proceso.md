@@ -117,12 +117,19 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>En curso</td>     
    </tr>
    <tr>
-    <td>Validación de Interfaces (Hansony)</td>  
-        <td>Media</td>
-        <td>30/10/2023</td>
+    <td>Validación de Interfaces (Karen)</td>  
+        <td>Baja</td>
+        <td>31/10/2023</td>
        <td>2/11/2023</td>
         <td>En curso</td>     
-   </tr>                                                                            
+   </tr> 
+   <tr>
+    <td>Validación de Interfaces (Karen)</td>  
+        <td>Baja</td>
+        <td>31/10/2023</td>
+       <td>2/11/2023</td>
+        <td>En curso</td>     
+   </tr>                                                                                                       
    <tr> 
      <tr>  
       <td>Descripción del proceso (Karen)</td>  
@@ -170,7 +177,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzYwMjQ3LC0zNjIyMzE0MjgsLTc3MD
+eyJoaXN0b3J5IjpbOTM0NDYzNzM0LC0zNjIyMzE0MjgsLTc3MD
 QwODA5NiwtMTU3NzY0NDk4NiwxNjc0NTQ1NTgyLC0xNjAzMDky
 NDI0LC0xNDI5MTc3NjIwXX0=
 -->
