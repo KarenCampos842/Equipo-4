@@ -182,7 +182,9 @@ Utilizar la siguiente plantilla:
 
 **Responsables**
 
- - *Campos García Karen Elizabeth:* Sección Proceso.
+ 1.  *Campos García Karen Elizabeth:* Sección Proceso, excepto Métrica de contribución individual.
+ 2. 
+
 **Actividades**
  - **Descripción del proceso:** Describir de forma clara en un documento el tamaño del sprint, planeación, actividades, responsables, roles y resultados.
  - **Gestión del proceso**: 
@@ -242,7 +244,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDAwNTE5MSw4NjUxNDE2NzYsLTkzNT
+eyJoaXN0b3J5IjpbLTg4MTIzOTY4OSw4NjUxNDE2NzYsLTkzNT
 A5MTU4NSwxODk1MTE4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3
 MzgsLTY4MzA0ODk0MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLT
 IwODE5Njc5NiwxNTY3NzAyNTY5LDEzODkzOTIzNTYsLTQxOTg3
