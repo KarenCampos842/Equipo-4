@@ -99,9 +99,16 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
     <td>Diagrama de Caso de Uso (Carlos)</td>  
         <td>Alto</td>
         <td>28/10/2023</td>
-       <td>30/10/2023</td>
+       <td>31/10/2023</td>
         <td>En curso</td>     
-   </tr>                
+   </tr>
+   <tr>
+    <td>Diagrama de Caso de Uso (Carlos)</td>  
+        <td>Alto</td>
+        <td>28/10/2023</td>
+       <td>31/10/2023</td>
+        <td>En curso</td>     
+   </tr>                               
    <tr> 
      <tr>  
       <td>Descripción del proceso (Karen)</td>  
@@ -149,7 +156,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4NjQwMTI2LC0zNjIyMzE0MjgsLTc3MD
-QwODA5NiwtMTU3NzY0NDk4NiwxNjc0NTQ1NTgyLC0xNjAzMDky
-NDI0LC0xNDI5MTc3NjIwXX0=
+eyJoaXN0b3J5IjpbLTQ0OTI0Njc1MiwtMzYyMjMxNDI4LC03Nz
+A0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0NTU4MiwtMTYwMzA5
+MjQyNCwtMTQyOTE3NzYyMF19
 -->
