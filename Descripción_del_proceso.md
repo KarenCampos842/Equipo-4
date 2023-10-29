@@ -39,7 +39,7 @@
 <p>Es considerado la voz del cliente dentro del proyecto. Es el encargado del desarrollo y administración del product backlog.<br>
 <strong>Product Owner: Maldonado Medina Hansony de Jesús </strong><br> Se encargará de decidir en última instancia cómo será el producto final y el orden en el que se construirán los prototipos.
 
-**Actividad:** Ordenar las historias de usuario según se realizarán
+**Actividad:** Establecer el orden en que se realizarán los prototipos de cada historia de usuario. 
 
 ### Scrum master
 <p><strong>Campos García Karen Elizabeth.</strong><br>Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término tomando en consideración la metodología SCRUM.  Ayuda con cuestiones de organización y adicionalmente de asignación de tareas. Así mismo, será la encargada de aceptar los "pull request".</p>
@@ -235,7 +235,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQyODI1ODMsLTE4NTE4NzQ3MzgsLT
+eyJoaXN0b3J5IjpbLTEzMDQwNDA1MTQsLTE4NTE4NzQ3MzgsLT
 Y4MzA0ODk0MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLTIwODE5
 Njc5NiwxNTY3NzAyNTY5LDEzODkzOTIzNTYsLTQxOTg3ODcxMS
 wxMjg4NTAzMzgwLDE3MTAzOTgzOTQsMTExNjU4MDA5NiwtNjI3
