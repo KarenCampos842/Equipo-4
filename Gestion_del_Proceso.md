@@ -198,7 +198,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
       <td>Product backlog (Hansony)</td>  
        <td>Medio</td>
          <td>28/10/2023</td>
-       <td>1/10/2023</td>
+       <td>2/10/2023</td>
          <td>En curso</td>       
    </tr>  
     <tr>  
@@ -219,7 +219,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODU0OTQ3MCw5OTQ3MzY3MTQsMTE5MT
+eyJoaXN0b3J5IjpbMTYxNDY3MzAyMSw5OTQ3MzY3MTQsMTE5MT
 M4ODE5MywtMzYyMjMxNDI4LC03NzA0MDgwOTYsLTE1Nzc2NDQ5
 ODYsMTY3NDU0NTU4MiwtMTYwMzA5MjQyNCwtMTQyOTE3NzYyMF
 19
