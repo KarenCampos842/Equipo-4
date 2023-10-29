@@ -590,6 +590,8 @@
                  <li>Comprobar que existe texto antes y después de @ para el correo.</li>
                  <li>Comprobar que se ha enviado la contraseña al correo proporcionado.</li>
  </table>      
+ 
+  ### Historias de usuario
   
 [^1]:Simões, C. (14 de julio de 2020). MoSCoW. ¿Qué es y cómo priorizar en el desarrollo de tu aplicación? *ITDO*. https://www.itdo.com/blog/moscow-que-es-y-como-priorizar-en-el-desarrollo-de-tu-aplicacion/
 
@@ -597,11 +599,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzEwMjkxNiwtMTY5ODU1NzE2NywtMT
-I3MDQ1NzI2NywtMTM3NjA3ODIzNCw3NDUyOTk2MDAsLTUxNTMz
-MjUzNiwtNjg2MzcxOTY2LDgzODM4ODI4OSwxMjY0NTYzMDIsLT
-E0NjI2MDkyODQsLTE5OTE5NjYwNTYsLTY3MDgyNDA2MSw0NDkz
-OTUzMzYsLTE0NDUzMjk5MTQsLTc1NTQwMzA2OSwtMjA4Mjk3NT
-Y1MCwtMjc5NTU3NjQ0LC0xMjUyODY2ODk2LDE1MzA5MzY0OTks
-LTI2OTY3MDEyM119
+eyJoaXN0b3J5IjpbLTE4Nzk3MTAxNjQsLTE2OTg1NTcxNjcsLT
+EyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1Mjk5NjAwLC01MTUz
+MzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyODksMTI2NDU2MzAyLC
+0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02NzA4MjQwNjEsNDQ5
+Mzk1MzM2LC0xNDQ1MzI5OTE0LC03NTU0MDMwNjksLTIwODI5Nz
+U2NTAsLTI3OTU1NzY0NCwtMTI1Mjg2Njg5NiwxNTMwOTM2NDk5
+LC0yNjk2NzAxMjNdfQ==
 -->
