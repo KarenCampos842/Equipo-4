@@ -332,9 +332,13 @@
             <td><ul>
             <li>entrar a la app</li>
 			<li>poner en el buscador el trabajo que requieres</li>
-			<li>filt</li>
+			<li>filtrar por las diferentes opciones de busqueda o recomendacion</li>
+			<li>elegir uno</li>
 
 </ul></td>
+
+
+
     </table>      
              
 <br>
@@ -623,6 +627,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTMyODc0OCwtNzUzOTM0Mzg2LC0xMj
-AwOTE0MDU4XX0=
+eyJoaXN0b3J5IjpbLTE5NDA5ODYxNTMsLTc1MzkzNDM4NiwtMT
+IwMDkxNDA1OF19
 -->
