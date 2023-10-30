@@ -234,11 +234,11 @@
    </tr> 
     <tr>  
       <td><b>Quiero</b></td>  
-       <td> oder registrarme en WorkFlash como cliente</td> 
+       <td> Poder registrarme en WorkFlash como cliente</td> 
    </tr> 
      <tr>  
       <td><b>Para</b></td>  
-       <td> encontrar trabajadores de forma rápida.</td> 
+       <td> Encontrar trabajadores de forma rápida.</td> 
    </tr> 
   <tr>  
       <td><b>Criterios de aceptación</b></td>  
@@ -269,11 +269,11 @@
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El trabajador deberá de contar con una tarjeta de débito o crédito con fondos para comprobar que se pueda cobrar en los próximos meses, y también no haberse registrado antes</td> 
+       <td colspan="2">El usuario deberá de contar con un correo electrónico y también no haberse registrado antes</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
-       <td colspan="2">El sistema deberá registrar a todo trabajador con éxito, siendo rápido y eficiente.</td> 
+       <td colspan="2">El sistema deberá registrar a todo usuario con éxito, siendo rápido y eficiente.</td> 
    </tr> 
      <tr>  
       <td rowspan="9"><b>Secuencia normal</b></td>
@@ -827,11 +827,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDI2NTQxMTgsLTQwNjc5NjcyMywtMj
-A1NjA5MjA5LDUxMzcxNzM3NCw2MjE5Njg1OTcsLTE1MDk3ODMx
-OSwtMTA3Nzc4OTQ5MiwtMTY5ODU1NzE2NywtMTI3MDQ1NzI2Ny
-wtMTM3NjA3ODIzNCw3NDUyOTk2MDAsLTUxNTMzMjUzNiwtNjg2
-MzcxOTY2LDgzODM4ODI4OSwxMjY0NTYzMDIsLTE0NjI2MDkyOD
-QsLTE5OTE5NjYwNTYsLTY3MDgyNDA2MSw0NDkzOTUzMzYsLTE0
-NDUzMjk5MTRdfQ==
+eyJoaXN0b3J5IjpbMTQ3NTIwNTQxNCwtNDA2Nzk2NzIzLC0yMD
+U2MDkyMDksNTEzNzE3Mzc0LDYyMTk2ODU5NywtMTUwOTc4MzE5
+LC0xMDc3Nzg5NDkyLC0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC
+0xMzc2MDc4MjM0LDc0NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYz
+NzE5NjYsODM4Mzg4Mjg5LDEyNjQ1NjMwMiwtMTQ2MjYwOTI4NC
+wtMTk5MTk2NjA1NiwtNjcwODI0MDYxLDQ0OTM5NTMzNiwtMTQ0
+NTMyOTkxNF19
 -->
