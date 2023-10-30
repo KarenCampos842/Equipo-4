@@ -165,8 +165,8 @@
   </tr>
   </tr> 
   <tr>  
-  <td>1</td> 
-   <td>El trabajador debe seleccionar el icono de registrarse para comenzar su registro</td> 
+  <td>3</td> 
+   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: </td> 
    </tr> 
   
   
@@ -705,7 +705,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzM0Nzg0Miw1MTM3MTczNzQsNjIxOT
+eyJoaXN0b3J5IjpbLTQzMzc4MTA3OSw1MTM3MTczNzQsNjIxOT
 Y4NTk3LC0xNTA5NzgzMTksLTEwNzc3ODk0OTIsLTE2OTg1NTcx
 NjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1Mjk5NjAwLC
 01MTUzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyODksMTI2NDU2
