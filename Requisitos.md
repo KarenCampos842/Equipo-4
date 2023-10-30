@@ -304,10 +304,16 @@
            <ul>
                 <li>abrir la app.</li>
                 <li>buscar el trabajo que requiera</li>
-                      
      </td> 
    </tr>
-
+ <tr>  
+      <td><b>expciones</b></td>  
+       <td> 
+           <ul>
+                <li>si el usuario escribe mal e</li>
+                <li>buscar el trabajo que requiera</li>
+     </td> 
+   </tr>
 
 
    </table>      
@@ -650,6 +656,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwODYzMjIxLC01MDk3NTM0NDYsLTc1Mz
-kzNDM4NiwtMTIwMDkxNDA1OF19
+eyJoaXN0b3J5IjpbLTIwODI4MDMxMTQsLTUwOTc1MzQ0NiwtNz
+UzOTM0Mzg2LC0xMjAwOTE0MDU4XX0=
 -->
