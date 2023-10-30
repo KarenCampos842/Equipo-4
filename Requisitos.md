@@ -157,7 +157,7 @@
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>x</td> 
+   <td>El trabajador instala y abre la aplicación</td> 
   </tr>     
   <tr>  
   <td>2</td> 
@@ -697,11 +697,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxNTY2MjY0LDYyMTk2ODU5NywtMTUwOT
-c4MzE5LC0xMDc3Nzg5NDkyLC0xNjk4NTU3MTY3LC0xMjcwNDU3
-MjY3LC0xMzc2MDc4MjM0LDc0NTI5OTYwMCwtNTE1MzMyNTM2LC
-02ODYzNzE5NjYsODM4Mzg4Mjg5LDEyNjQ1NjMwMiwtMTQ2MjYw
-OTI4NCwtMTk5MTk2NjA1NiwtNjcwODI0MDYxLDQ0OTM5NTMzNi
-wtMTQ0NTMyOTkxNCwtNzU1NDAzMDY5LC0yMDgyOTc1NjUwLC0y
-Nzk1NTc2NDRdfQ==
+eyJoaXN0b3J5IjpbLTYzMzU2NzA2OCw2MjE5Njg1OTcsLTE1MD
+k3ODMxOSwtMTA3Nzc4OTQ5MiwtMTY5ODU1NzE2NywtMTI3MDQ1
+NzI2NywtMTM3NjA3ODIzNCw3NDUyOTk2MDAsLTUxNTMzMjUzNi
+wtNjg2MzcxOTY2LDgzODM4ODI4OSwxMjY0NTYzMDIsLTE0NjI2
+MDkyODQsLTE5OTE5NjYwNTYsLTY3MDgyNDA2MSw0NDkzOTUzMz
+YsLTE0NDUzMjk5MTQsLTc1NTQwMzA2OSwtMjA4Mjk3NTY1MCwt
+Mjc5NTU3NjQ0XX0=
 -->
