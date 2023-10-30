@@ -144,7 +144,7 @@
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El trabajador deberá de contar con una tarjeta de débito o crédito con fondosy no haberse registrado antes</td> 
+       <td colspan="2">El trabajador deberá de contar con una tarjeta de débito o crédito con fondos para comprobar que se pueda cobrar en los próximos meses, y también no haberse registrado antes</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
@@ -186,12 +186,12 @@
     </tr> 
   <tr>  
   <td>7</td> 
-   <td> Tendrá que registrar una tarjeta de crédito o débito en la siguiente ventana para obtener el primer mes gratis y se le cobre periódicamente los 75 pesos mensuales de la membresía, tendrá que llenar los datos de la tarjeta como el número, su fecha de caducidad y el cvv. Una vez listo le dará en "continuar"</td> 
+   <td> Tendrá que registrar una tarjeta de crédito o débito en la siguiente ventana para obtener el primer mes gratis y se le cobre periódicamente los 75 pesos mensuales de la membresía, tendrá que llenar los datos de la tarjeta como el número, su fecha de caducidad y el cvv. Una vez comprobado que la tarjeta cuenta con los fondos suficientes, se le devolverá el dinero y el usuario le dará en "continuar"</td> 
    </tr> 
     </tr> 
   <tr>  
   <td>8</td> 
-   <td> Posteriormente se le llevará a una ventana en la que deberá elegir una opción de identificación oficial como: Cartilla milita o INE. Subir una foto o un archivo de la seleccionada o poder tomar una foto al momento de la identificación </td> 
+   <td>Le aparecerán los términos y condicione</td> 
    </tr> 
 
   
@@ -731,7 +731,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4Mjg4MzQ3LC0yMDU2MDkyMDksNTEzNz
+eyJoaXN0b3J5IjpbNDAyMDc3MjU3LC0yMDU2MDkyMDksNTEzNz
 E3Mzc0LDYyMTk2ODU5NywtMTUwOTc4MzE5LC0xMDc3Nzg5NDky
 LC0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC0xMzc2MDc4MjM0LD
 c0NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYzNzE5NjYsODM4Mzg4
