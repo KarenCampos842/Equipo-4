@@ -340,7 +340,7 @@
        <td> 
            <ul>
                 <li>si el cliente ya contrato a uno no puede contratar a otro</li>
-                <li>
+                <li>si el cli
                 </li>
                <li>Comprobar que el cliente no pueda visualizar del perfil del trabajador: correo, número de tarjeta, CVV y fecha de vencimiento de la tarjeta. </li>          
             </tr>
@@ -632,6 +632,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTc1MzQ0NiwtNzUzOTM0Mzg2LC0xMj
-AwOTE0MDU4XX0=
+eyJoaXN0b3J5IjpbMTc3OTY2NjYyNywtNTA5NzUzNDQ2LC03NT
+M5MzQzODYsLTEyMDA5MTQwNThdfQ==
 -->
