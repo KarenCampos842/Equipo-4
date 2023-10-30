@@ -456,6 +456,13 @@
                <li>si no llega la notificacion reportarlo en soporte </li> 
          <li>si el trabajor  acepto por equivocación poner un boton de cancelar de 5 minutos después de ese tiempo desaparecerá el boton </li>           
             </tr>
+                       <tr>  
+      <td><b>Comentario</b></td>  
+       <td> 
+           <ul>
+                <li>si elegio mal o cometió error poner botón de cancelación y a la causa </li>
+         
+            </tr>
          </table>      
              
   <br>
@@ -683,6 +690,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjI4NTMxMCwtNTA5NzUzNDQ2LC03NT
-M5MzQzODYsLTEyMDA5MTQwNThdfQ==
+eyJoaXN0b3J5IjpbLTE4ODU5NTI3MjEsLTUwOTc1MzQ0NiwtNz
+UzOTM0Mzg2LC0xMjAwOTE0MDU4XX0=
 -->
