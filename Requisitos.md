@@ -269,7 +269,7 @@
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El usuario deberá de contar con un correo electrónico y también no haberse registrado antes</td> 
+       <td colspan="2">El usuario deberá de contar con un correo electrónico, una contraseña y también no haberse registrado antes</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
@@ -282,11 +282,11 @@
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El trabajador debe seleccionar el icono de registrarse para comenzar su registro</td> 
+   <td>El usuario debe seleccionar el icono de registrarse para comenzar su registro</td> 
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>Debe seleccionar en el icono de trabajador</td> 
+   <td>Debe seleccionar en el icono de cliente</td> 
   </tr>
   </tr> 
   <tr>  
@@ -827,7 +827,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTIwNTQxNCwtNDA2Nzk2NzIzLC0yMD
+eyJoaXN0b3J5IjpbMTMyMTk3MDIxOSwtNDA2Nzk2NzIzLC0yMD
 U2MDkyMDksNTEzNzE3Mzc0LDYyMTk2ODU5NywtMTUwOTc4MzE5
 LC0xMDc3Nzg5NDkyLC0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC
 0xMzc2MDc4MjM0LDc0NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYz
