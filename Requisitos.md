@@ -212,8 +212,9 @@
   
    <td>
 
- - Si el la identificación oficial y la fotografia no coinciden no podrá proceder el registro
- - 
+ - Si la identificación oficial y la fotografia no coinciden no podrá proceder el registro.
+ - Si la tarjeta no contiene fondos suficientes, tendrá que ingresar otra o meterle fondos a la tarjeta.
+ - Si el correo o el número de teléfono ya est
 
        
  </table>                 
@@ -733,11 +734,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzIwMzcsLTQwNjc5NjcyMywtMjA1Nj
-A5MjA5LDUxMzcxNzM3NCw2MjE5Njg1OTcsLTE1MDk3ODMxOSwt
-MTA3Nzc4OTQ5MiwtMTY5ODU1NzE2NywtMTI3MDQ1NzI2NywtMT
-M3NjA3ODIzNCw3NDUyOTk2MDAsLTUxNTMzMjUzNiwtNjg2Mzcx
-OTY2LDgzODM4ODI4OSwxMjY0NTYzMDIsLTE0NjI2MDkyODQsLT
-E5OTE5NjYwNTYsLTY3MDgyNDA2MSw0NDkzOTUzMzYsLTE0NDUz
-Mjk5MTRdfQ==
+eyJoaXN0b3J5IjpbLTg4MjU3NjgyOCwtNDA2Nzk2NzIzLC0yMD
+U2MDkyMDksNTEzNzE3Mzc0LDYyMTk2ODU5NywtMTUwOTc4MzE5
+LC0xMDc3Nzg5NDkyLC0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC
+0xMzc2MDc4MjM0LDc0NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYz
+NzE5NjYsODM4Mzg4Mjg5LDEyNjQ1NjMwMiwtMTQ2MjYwOTI4NC
+wtMTk5MTk2NjA1NiwtNjcwODI0MDYxLDQ0OTM5NTMzNiwtMTQ0
+NTMyOTkxNF19
 -->
