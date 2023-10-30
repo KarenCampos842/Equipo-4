@@ -303,7 +303,7 @@
        <td> 
            <ul>
                 <li>abrir la app.</li>
-                <li>buscar el trabajo que requiera</li>
+                <li>buscar la profesion que requiera</li>
      </td> 
    </tr>
  <tr>  
@@ -319,7 +319,7 @@
       <td><b>Comentario</b></td>  
        <td> 
            <ul>
-                <li></li>
+                <li>el numero maximo de caracteres sera de 150 </li>
      </td> 
    </tr>
 
@@ -663,6 +663,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3OTA4NDc2LC01MDk3NTM0NDYsLTc1Mz
-kzNDM4NiwtMTIwMDkxNDA1OF19
+eyJoaXN0b3J5IjpbLTU3NTM1MzE1MiwtNTA5NzUzNDQ2LC03NT
+M5MzQzODYsLTEyMDA5MTQwNThdfQ==
 -->
