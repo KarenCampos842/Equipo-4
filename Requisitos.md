@@ -144,7 +144,7 @@
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El trabajador deberá de contar con una tarjeta de débito o crédito</td> 
+       <td colspan="2">El trabajador deberá de contar con una tarjeta de débito o crédito y no haberse registrado antes</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
@@ -157,7 +157,7 @@
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El trabajador instala y abre la aplicación</td> 
+   <td>El trabajador debe seleccionar el icono de registrarse para comenzar su registro</td> 
   </tr>     
   <tr>  
   <td>2</td> 
@@ -697,7 +697,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzU2NzA2OCw2MjE5Njg1OTcsLTE1MD
+eyJoaXN0b3J5IjpbMTM0NjkxODY3Nyw2MjE5Njg1OTcsLTE1MD
 k3ODMxOSwtMTA3Nzc4OTQ5MiwtMTY5ODU1NzE2NywtMTI3MDQ1
 NzI2NywtMTM3NjA3ODIzNCw3NDUyOTk2MDAsLTUxNTMzMjUzNi
 wtNjg2MzcxOTY2LDgzODM4ODI4OSwxMjY0NTYzMDIsLTE0NjI2
