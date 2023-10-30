@@ -211,9 +211,11 @@
         <td><b>Acción</b></td>  
     </tr> 
   <tr>  
+  
   <td>1</td> 
    <td>x</td> 
   </tr>     
+ 
   <tr>  
   <td>E.1</td> 
    <td>x</td> 
@@ -735,11 +737,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzczOTc5NywtNDA2Nzk2NzIzLC0yMD
-U2MDkyMDksNTEzNzE3Mzc0LDYyMTk2ODU5NywtMTUwOTc4MzE5
-LC0xMDc3Nzg5NDkyLC0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC
-0xMzc2MDc4MjM0LDc0NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYz
-NzE5NjYsODM4Mzg4Mjg5LDEyNjQ1NjMwMiwtMTQ2MjYwOTI4NC
-wtMTk5MTk2NjA1NiwtNjcwODI0MDYxLDQ0OTM5NTMzNiwtMTQ0
-NTMyOTkxNF19
+eyJoaXN0b3J5IjpbODExODM3MzY5LC00MDY3OTY3MjMsLTIwNT
+YwOTIwOSw1MTM3MTczNzQsNjIxOTY4NTk3LC0xNTA5NzgzMTks
+LTEwNzc3ODk0OTIsLTE2OTg1NTcxNjcsLTEyNzA0NTcyNjcsLT
+EzNzYwNzgyMzQsNzQ1Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3
+MTk2Niw4MzgzODgyODksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC
+0xOTkxOTY2MDU2LC02NzA4MjQwNjEsNDQ5Mzk1MzM2LC0xNDQ1
+MzI5OTE0XX0=
 -->
