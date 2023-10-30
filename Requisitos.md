@@ -864,8 +864,8 @@
   
    <td>
 
- - Si la tarjeta no llega a tener los fondos suficientes entonces el pa
- - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
+ - Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación
+ - Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.
  - Si no acepta los términos y condiciones no podrá avanzar
 
        
@@ -942,7 +942,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4MjMzMjk4LC0xNzA4NTc5NDI1LDEzMj
+eyJoaXN0b3J5IjpbMTMwODkyNzA4LC0xNzA4NTc5NDI1LDEzMj
 E5NzAyMTksLTQwNjc5NjcyMywtMjA1NjA5MjA5LDUxMzcxNzM3
 NCw2MjE5Njg1OTcsLTE1MDk3ODMxOSwtMTA3Nzc4OTQ5MiwtMT
 Y5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNCw3NDUy
