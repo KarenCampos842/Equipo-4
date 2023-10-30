@@ -60,7 +60,7 @@
 
 28.  El sistema no deberá de ocupar más de 500 MB de almacenamiento interno de cada usuario.
 
-29.  Los servicios ofrecidos por los trabajadores deben ser legales (estar dentro de los servicios permitidos por las leyes y lo podremos verificando los servicios ofrecidos continuamente).
+29.  Los servicios ofrecidos por los trabajadores deben ser legales (estar dentro de los servicios permitidos por las leyes y lo podremos resolver verificando los servicios ofrecidos continuamente).
 
 30. El sistema deberá manejar correcta y extensamente los idiomas del Español e Inglés.
 
@@ -79,7 +79,7 @@
 
 | Must Have| Should Have | Could Have |Won't Have|
 |---------|---------|---------|---------|
-|1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 21, 22, 24, 25, 27|6, 7, 16, 17, 20, 28|23||
+|1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 21, 22, 24, 25, 27, 29|6, 7, 16, 17, 20, 28, 30|23||
 
 
 
@@ -614,11 +614,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODQ4NzExMiwtNDEyNjcwNzIwLC0xMT
-g3OTU5MzksLTgwNjU0Njg2OCwxMTA5ODUzOTM5LC0xMDc3Nzg5
-NDkyLC0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC0xMzc2MDc4Mj
-M0LDc0NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYzNzE5NjYsODM4
-Mzg4Mjg5LDEyNjQ1NjMwMiwtMTQ2MjYwOTI4NCwtMTk5MTk2Nj
-A1NiwtNjcwODI0MDYxLDQ0OTM5NTMzNiwtMTQ0NTMyOTkxNCwt
-NzU1NDAzMDY5XX0=
+eyJoaXN0b3J5IjpbNzU2NTExMTQyLC00MTI2NzA3MjAsLTExOD
+c5NTkzOSwtODA2NTQ2ODY4LDExMDk4NTM5MzksLTEwNzc3ODk0
+OTIsLTE2OTg1NTcxNjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMz
+QsNzQ1Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3MTk2Niw4Mzgz
+ODgyODksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOTkxOTY2MD
+U2LC02NzA4MjQwNjEsNDQ5Mzk1MzM2LC0xNDQ1MzI5OTE0LC03
+NTU0MDMwNjldfQ==
 -->
