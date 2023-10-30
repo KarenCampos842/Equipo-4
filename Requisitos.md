@@ -131,7 +131,56 @@
    </tr>
  </table>      
 
-
+</table>
+ <br>    
+<table align=center>  
+   <tr>
+     <th>CU-01</th>  
+      <th colspan="2">Nombre del caso de uso (CU)</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (29/10/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">x</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema deberá comportarse como se describe en el siguiente caso de uso cuando ...</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="3"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>x</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>x</td> 
+  </tr>
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">x</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td>  
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>x</td> 
+  </tr>     
+  <tr>  
+  <td>E.1</td> 
+   <td>x</td> 
+  </tr>          
+ </table>           
  
 <br>
 
@@ -648,7 +697,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzQ4ODE1LDYyMTk2ODU5NywtMTUwOT
+eyJoaXN0b3J5IjpbODk1ODEzNjAzLDYyMTk2ODU5NywtMTUwOT
 c4MzE5LC0xMDc3Nzg5NDkyLC0xNjk4NTU3MTY3LC0xMjcwNDU3
 MjY3LC0xMzc2MDc4MjM0LDc0NTI5OTYwMCwtNTE1MzMyNTM2LC
 02ODYzNzE5NjYsODM4Mzg4Mjg5LDEyNjQ1NjMwMiwtMTQ2MjYw
