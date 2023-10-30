@@ -347,10 +347,9 @@
       <td><b>comentarios</b></td>  
        <td> 
            <ul>
-                <li>el campo de visiualizacion del trabajor depend</li>
-                <li>el cliente a la hora de checar el perfil de trabajo solo pueda checar su oficio, nombre y algunas de sus obras que ha echo
-                </li>
-                </tr>
+                <li>el campo de visiualizacion del trabajor dependera de el, que tanto deseara a conocerce y sus trabajos o datos</li>
+               
+  </tr>
    </table>      
              
 <br>
@@ -639,6 +638,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1Nzg0NTk1LC01MDk3NTM0NDYsLTc1Mz
-kzNDM4NiwtMTIwMDkxNDA1OF19
+eyJoaXN0b3J5IjpbLTMxNTgyNTY1MywtNTA5NzUzNDQ2LC03NT
+M5MzQzODYsLTEyMDA5MTQwNThdfQ==
 -->
