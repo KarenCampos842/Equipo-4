@@ -328,7 +328,8 @@
                 </li>
                <li>Comprobar que el cliente no pueda visualizar del perfil del trabajador: correo, número de tarjeta, CVV y fecha de vencimiento de la tarjeta. </li>          
             </tr>
-            <td><b></b></td>
+            <td><b>Pasos</b></td>
+            <td></td>
     </table>      
              
 <br>
@@ -617,5 +618,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzkzNDM4NiwtMTIwMDkxNDA1OF19
+eyJoaXN0b3J5IjpbMTMxMzIzNTYzNSwtNzUzOTM0Mzg2LC0xMj
+AwOTE0MDU4XX0=
 -->
