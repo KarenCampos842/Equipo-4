@@ -440,11 +440,11 @@
       <td><b>Pasos</b></td>  
        <td> 
            <ul>
-                <li>Cuand </li>
-                <li>Comprobar que el trabajador ha recibido una notificación de un nuevo trabajo.
+                <li>Cuando encuentre al trabajador de mi agardo selecionarlo </li>
+                <li>ponerle confirmar
                 </li>
-               <li>Comprobar que el trabajador ha aceptado el trabajo. </li> 
-         <li>Comprobar que el cliente ha sido notificado sobre el estado de la contratación del servicio (exitosa o rechazada). </li>           
+               <li>esperar que el trabajor acepte el trabajo </li> 
+         <li>esperar la notificacion de su llegada </li>           
             </tr>
          </table>      
              
@@ -673,6 +673,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTY5OTgzMiwtNTA5NzUzNDQ2LC03NT
+eyJoaXN0b3J5IjpbMTQxNTg3NDk5NiwtNTA5NzUzNDQ2LC03NT
 M5MzQzODYsLTEyMDA5MTQwNThdfQ==
 -->
