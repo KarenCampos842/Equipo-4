@@ -460,8 +460,7 @@
       <td><b>Comentario</b></td>  
        <td> 
            <ul>
-                <li>si elegio mal o cometió error poner botón de cancelación y a la causa </li>
-         
+                <li>el boton de cancelacion como las notificacion no debe tardar mas de 5 minutos en que aparezca y desaparezca </li>
             </tr>
          </table>      
              
@@ -690,6 +689,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU5NTI3MjEsLTUwOTc1MzQ0NiwtNz
-UzOTM0Mzg2LC0xMjAwOTE0MDU4XX0=
+eyJoaXN0b3J5IjpbNDUyNzMxMDA4LC01MDk3NTM0NDYsLTc1Mz
+kzNDM4NiwtMTIwMDkxNDA1OF19
 -->
