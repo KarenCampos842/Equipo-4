@@ -296,28 +296,9 @@
    </tr> 
   <tr>  
   <td>4</td> 
-   <td> Posteriormente se le llevará a una ventana en la que deberá elegir una opción de identificación oficial como: Cartilla milita o INE. Subir una foto o un archivo de la seleccionada o poder tomar una foto al momento de la identificación </td> 
+   <td> Posteriormente se le mostrarán los términos y condiciones que debe aceptar y dar en continuar para seguir concluir con su registro</td> 
    </tr> 
-    </tr> 
-  <tr>  
-  <td>5</td> 
-   <td> Deberá tomarse una foto en el momento que será usada para su foto de perfil del trabajador, una vez ya tomada le dará en el botón "continuar"</td> 
-   </tr> 
-    </tr> 
-  <tr>  
-  <td>6</td> 
-   <td> Se le llevará a otra ventana en la que completará su registro llenando los datos que aparecerán en su perfil como: Los municipios o colonias en los que le gustaría trabajar más, asi como su profesión y de los servicios o habilidades que puede ofrecer, una vez concluido le dará en "continuar" </td> 
-   </tr> 
-    </tr> 
-  <tr>  
-  <td>7</td> 
-   <td> Tendrá que registrar una tarjeta de crédito o débito en la siguiente ventana para obtener el primer mes gratis y se le cobre periódicamente los 75 pesos mensuales de la membresía, tendrá que llenar los datos de la tarjeta como el número, su fecha de caducidad y el cvv. Una vez comprobado que la tarjeta cuenta con los fondos suficientes, se le devolverá el dinero y el usuario le dará en "continuar"</td> 
-   </tr> 
-    </tr> 
-  <tr>  
-  <td>8</td> 
-   <td>Le aparecerán los términos y condiciones que el trabajador deberá leer y aceptar para poder concluir su registro</td> 
-   </tr> 
+  
     
 
   
@@ -827,11 +808,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTE5OTkxNywxMzIxOTcwMjE5LC00MD
-Y3OTY3MjMsLTIwNTYwOTIwOSw1MTM3MTczNzQsNjIxOTY4NTk3
-LC0xNTA5NzgzMTksLTEwNzc3ODk0OTIsLTE2OTg1NTcxNjcsLT
-EyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1Mjk5NjAwLC01MTUz
-MzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyODksMTI2NDU2MzAyLC
-0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02NzA4MjQwNjEsNDQ5
-Mzk1MzM2XX0=
+eyJoaXN0b3J5IjpbLTE3MzQyNTYyOTYsMTMyMTk3MDIxOSwtND
+A2Nzk2NzIzLC0yMDU2MDkyMDksNTEzNzE3Mzc0LDYyMTk2ODU5
+NywtMTUwOTc4MzE5LC0xMDc3Nzg5NDkyLC0xNjk4NTU3MTY3LC
+0xMjcwNDU3MjY3LC0xMzc2MDc4MjM0LDc0NTI5OTYwMCwtNTE1
+MzMyNTM2LC02ODYzNzE5NjYsODM4Mzg4Mjg5LDEyNjQ1NjMwMi
+wtMTQ2MjYwOTI4NCwtMTk5MTk2NjA1NiwtNjcwODI0MDYxLDQ0
+OTM5NTMzNl19
 -->
