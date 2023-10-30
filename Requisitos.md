@@ -144,14 +144,14 @@
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El trabajador deberá de contar con una tarjeta de débito o crédito y no haberse registrado antes</td> 
+       <td colspan="2">El trabajador deberá de contar con una tarjeta de débito o crédito con fondosy no haberse registrado antes</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
        <td colspan="2">El sistema deberá registrar a todo trabajador con éxito, siendo rápido y eficiente.</td> 
    </tr> 
      <tr>  
-      <td rowspan="8"><b>Secuencia normal</b></td>
+      <td rowspan="10"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -186,7 +186,12 @@
     </tr> 
   <tr>  
   <td>7</td> 
-   <td> Tendrá que registrar una tarjeta de crédito o débito en la siguiente ventana para obtener el primer mes gratis y se le cobre periodicamente los 75 pesos mensuales de la membresía, tendrá que llenar los datos de la tarjeta como el número, su fecha de caducidad y el cvv</td> 
+   <td> Tendrá que registrar una tarjeta de crédito o débito en la siguiente ventana para obtener el primer mes gratis y se le cobre periódicamente los 75 pesos mensuales de la membresía, tendrá que llenar los datos de la tarjeta como el número, su fecha de caducidad y el cvv. Una vez listo le dará en "continuar"</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>8</td> 
+   <td> Posteriormente se le llevará a una ventana en la que deberá elegir una opción de identificación oficial como: Cartilla milita o INE. Subir una foto o un archivo de la seleccionada o poder tomar una foto al momento de la identificación </td> 
    </tr> 
 
   
@@ -726,11 +731,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTIxMDMzNywtMjA1NjA5MjA5LDUxMz
-cxNzM3NCw2MjE5Njg1OTcsLTE1MDk3ODMxOSwtMTA3Nzc4OTQ5
-MiwtMTY5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNC
-w3NDUyOTk2MDAsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4
-ODI4OSwxMjY0NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYwNT
-YsLTY3MDgyNDA2MSw0NDkzOTUzMzYsLTE0NDUzMjk5MTQsLTc1
-NTQwMzA2OV19
+eyJoaXN0b3J5IjpbMjE4Mjg4MzQ3LC0yMDU2MDkyMDksNTEzNz
+E3Mzc0LDYyMTk2ODU5NywtMTUwOTc4MzE5LC0xMDc3Nzg5NDky
+LC0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC0xMzc2MDc4MjM0LD
+c0NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYzNzE5NjYsODM4Mzg4
+Mjg5LDEyNjQ1NjMwMiwtMTQ2MjYwOTI4NCwtMTk5MTk2NjA1Ni
+wtNjcwODI0MDYxLDQ0OTM5NTMzNiwtMTQ0NTMyOTkxNCwtNzU1
+NDAzMDY5XX0=
 -->
