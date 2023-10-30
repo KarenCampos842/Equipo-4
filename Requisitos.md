@@ -335,7 +335,15 @@
 			<li>filtrar por las diferentes opciones de busqueda o recomendacion</li>
 			<li>elegir uno</li>
 </ul></td>
-<>
+  <tr>  
+      <td><b>expeciones</b></td>  
+       <td> 
+           <ul>
+                <li>si el cliente ya contrato a uno no puede contratar a otro</li>
+                <li>
+                </li>
+               <li>Comprobar que el cliente no pueda visualizar del perfil del trabajador: correo, número de tarjeta, CVV y fecha de vencimiento de la tarjeta. </li>          
+            </tr>
    </table>      
              
 <br>
@@ -624,6 +632,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDI4Njg0NSwtNzUzOTM0Mzg2LC0xMj
+eyJoaXN0b3J5IjpbLTUwOTc1MzQ0NiwtNzUzOTM0Mzg2LC0xMj
 AwOTE0MDU4XX0=
 -->
