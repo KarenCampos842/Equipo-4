@@ -848,20 +848,11 @@
   <tr>  
   <td>3</td> 
    <td>Una vez autorizado el pago, le llegará un correo electrónico al trabajador de su pago exitoso, asi como la fecha de su próximo pago.</td> 
-   </tr> 
-   </tr> 
-  <tr>  
-  <td>4</td> 
-   <td> Posteriormente se le mostrarán los términos y condiciones que debe aceptar y dar en continuar para seguir concluir con su registro</td> 
-   </tr> 
-    </tr> 
-  <tr>  
-  <td>5</td> 
-   <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.</td> 
+
   
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">Para poder ser registro válido deberá proporcionar un correo electrónico y un número de celular existentes y no haber sido registrados con anterioridad.
+       <td colspan="2">Se dará como "Pago exitoso" solo si se llega a cubrir la cuota total de la membresía
        </tr> 
        </td> 
        
@@ -873,7 +864,7 @@
   
    <td>
 
- - Si el correo o el número de teléfono ya están registrados en el sistema o si no son válidos no se podrá proceder con el registro.
+ - Si la tarjeta no llega a tener los fondos suficientes entonces el pa
  - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
  - Si no acepta los términos y condiciones no podrá avanzar
 
@@ -951,11 +942,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzUxNTgyNiwtMTcwODU3OTQyNSwxMz
-IxOTcwMjE5LC00MDY3OTY3MjMsLTIwNTYwOTIwOSw1MTM3MTcz
-NzQsNjIxOTY4NTk3LC0xNTA5NzgzMTksLTEwNzc3ODk0OTIsLT
-E2OTg1NTcxNjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1
-Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyOD
-ksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02
-NzA4MjQwNjFdfQ==
+eyJoaXN0b3J5IjpbNjQ4MjMzMjk4LC0xNzA4NTc5NDI1LDEzMj
+E5NzAyMTksLTQwNjc5NjcyMywtMjA1NjA5MjA5LDUxMzcxNzM3
+NCw2MjE5Njg1OTcsLTE1MDk3ODMxOSwtMTA3Nzc4OTQ5MiwtMT
+Y5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNCw3NDUy
+OTk2MDAsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4ODI4OS
+wxMjY0NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYwNTYsLTY3
+MDgyNDA2MV19
 -->
