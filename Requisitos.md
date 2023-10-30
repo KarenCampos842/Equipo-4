@@ -523,7 +523,81 @@
                <li>Comprobar que el chat permita compartir imágenes. </li>          
             </tr>
  </table>      
- 
+
+</table>
+ <br>    
+<table align=center>  
+   <tr>
+     <th>CU-08</th>  
+      <th colspan="2">Regist</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (29/10/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El usuario deberá de contar con un correo electrónico, una contraseña y también no haberse registrado antes</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema deberá registrar a todo usuario con éxito, siendo rápido y eficiente.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="9"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El usuario debe seleccionar el icono de registrarse para comenzar su registro</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>Debe seleccionar en el icono de cliente</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: Su nombre completo, un correo electrónico y un número de teléfono. Una vez llenado los datos correctos, le da en el botón de "Continuar"</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td> Posteriormente se le mostrarán los términos y condiciones que debe aceptar y dar en continuar para seguir concluir con su registro</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.</td> 
+   
+    
+
+  
+  
+  
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">Para poder ser registro válido deberá proporcionar un correo electrónico y un número de celular existentes y no haber sido registrados con anterioridad.
+       </tr> 
+       </td> 
+       
+   </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+   
+  <tr>  
+  
+   <td>
+
+ - Si el correo o el número de teléfono ya están registrados en el sistema o si no son válidos no se podrá proceder con el registro.
+ - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
+ - Si no acepta los términos y condiciones no podrá avanzar
+
+       
+ </table> 
+
+
  
 <br>
 
@@ -811,11 +885,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTIzNjkzMDUsLTE3MDg1Nzk0MjUsMT
-MyMTk3MDIxOSwtNDA2Nzk2NzIzLC0yMDU2MDkyMDksNTEzNzE3
-Mzc0LDYyMTk2ODU5NywtMTUwOTc4MzE5LC0xMDc3Nzg5NDkyLC
-0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC0xMzc2MDc4MjM0LDc0
-NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYzNzE5NjYsODM4Mzg4Mj
-g5LDEyNjQ1NjMwMiwtMTQ2MjYwOTI4NCwtMTk5MTk2NjA1Niwt
-NjcwODI0MDYxXX0=
+eyJoaXN0b3J5IjpbOTE0ODk5OCwtMTcwODU3OTQyNSwxMzIxOT
+cwMjE5LC00MDY3OTY3MjMsLTIwNTYwOTIwOSw1MTM3MTczNzQs
+NjIxOTY4NTk3LC0xNTA5NzgzMTksLTEwNzc3ODk0OTIsLTE2OT
+g1NTcxNjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1Mjk5
+NjAwLC01MTUzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyODksMT
+I2NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02NzA4
+MjQwNjFdfQ==
 -->
