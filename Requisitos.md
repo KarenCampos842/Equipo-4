@@ -208,11 +208,12 @@
    </tr> 
      <tr>  
       <td rowspan="4"><b>Excepciones</b></td>
-       <td><b>Paso</b></td> 
+       <td><b>Paso</b> 1</td> 
         <td><b>Acción</b></td>  
     </tr> 
-  <tr>  
-  <td>1</td> 
+  <tr> 
+  
+  <td> 1</td> 
    <td>x</td> 
   </tr>     
   <tr>  
@@ -736,11 +737,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjc5NjcyMywtMjA1NjA5MjA5LDUxMz
-cxNzM3NCw2MjE5Njg1OTcsLTE1MDk3ODMxOSwtMTA3Nzc4OTQ5
-MiwtMTY5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNC
-w3NDUyOTk2MDAsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4
-ODI4OSwxMjY0NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYwNT
-YsLTY3MDgyNDA2MSw0NDkzOTUzMzYsLTE0NDUzMjk5MTQsLTc1
-NTQwMzA2OV19
+eyJoaXN0b3J5IjpbLTE3MDU1OTQxMDgsLTQwNjc5NjcyMywtMj
+A1NjA5MjA5LDUxMzcxNzM3NCw2MjE5Njg1OTcsLTE1MDk3ODMx
+OSwtMTA3Nzc4OTQ5MiwtMTY5ODU1NzE2NywtMTI3MDQ1NzI2Ny
+wtMTM3NjA3ODIzNCw3NDUyOTk2MDAsLTUxNTMzMjUzNiwtNjg2
+MzcxOTY2LDgzODM4ODI4OSwxMjY0NTYzMDIsLTE0NjI2MDkyOD
+QsLTE5OTE5NjYwNTYsLTY3MDgyNDA2MSw0NDkzOTUzMzYsLTE0
+NDUzMjk5MTRdfQ==
 -->
