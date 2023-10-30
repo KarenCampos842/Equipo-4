@@ -163,9 +163,7 @@
   <td>2</td> 
    <td>Debe seleccionar en el icono de trabajador</td> 
   </tr>
-  <tr>  
-  <td>2</td> 
-   <td>Debe seleccionar en el icono de trabajador</td> 
+  
   
   
   <tr>  
@@ -702,11 +700,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY2ODI1MjksNjIxOTY4NTk3LC0xNT
-A5NzgzMTksLTEwNzc3ODk0OTIsLTE2OTg1NTcxNjcsLTEyNzA0
-NTcyNjcsLTEzNzYwNzgyMzQsNzQ1Mjk5NjAwLC01MTUzMzI1Mz
-YsLTY4NjM3MTk2Niw4MzgzODgyODksMTI2NDU2MzAyLC0xNDYy
-NjA5Mjg0LC0xOTkxOTY2MDU2LC02NzA4MjQwNjEsNDQ5Mzk1Mz
-M2LC0xNDQ1MzI5OTE0LC03NTU0MDMwNjksLTIwODI5NzU2NTAs
-LTI3OTU1NzY0NF19
+eyJoaXN0b3J5IjpbOTYyMTIxOTc0LDYyMTk2ODU5NywtMTUwOT
+c4MzE5LC0xMDc3Nzg5NDkyLC0xNjk4NTU3MTY3LC0xMjcwNDU3
+MjY3LC0xMzc2MDc4MjM0LDc0NTI5OTYwMCwtNTE1MzMyNTM2LC
+02ODYzNzE5NjYsODM4Mzg4Mjg5LDEyNjQ1NjMwMiwtMTQ2MjYw
+OTI4NCwtMTk5MTk2NjA1NiwtNjcwODI0MDYxLDQ0OTM5NTMzNi
+wtMTQ0NTMyOTkxNCwtNzU1NDAzMDY5LC0yMDgyOTc1NjUwLC0y
+Nzk1NTc2NDRdfQ==
 -->
