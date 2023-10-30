@@ -79,7 +79,7 @@
 
 | Must Have| Should Have | Could Have |Won't Have|
 |---------|---------|---------|---------|
-|1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19|6, 7, 16, 17,27|||
+|1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19|6, 7, 16, 17, 20, 27|||
 
 
 
@@ -614,7 +614,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc0MTIxMjQsLTQxMjY3MDcyMCwtMT
+eyJoaXN0b3J5IjpbLTE5MDEwNTg3MjAsLTQxMjY3MDcyMCwtMT
 E4Nzk1OTM5LC04MDY1NDY4NjgsMTEwOTg1MzkzOSwtMTA3Nzc4
 OTQ5MiwtMTY5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3OD
 IzNCw3NDUyOTk2MDAsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgz
