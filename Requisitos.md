@@ -207,19 +207,15 @@
    </tr> 
      <tr>  
       <td rowspan="4"><b>Excepciones</b></td>
-       <td><b>Paso</b></td> 
-        <td><b>Acción</b></td>  
-    </tr> 
+   
   <tr>  
   
-  <td>1</td> 
-   <td>x</td> 
-  </tr>     
- 
-  <tr>  
-  <td>E.1</td> 
-   <td>x</td> 
-  </tr>          
+   <td>
+
+ - Si el la identificación oficial y la fotografia no coinciden no podrá proceder el registro
+ - 
+
+       
  </table>                 
  
 <br>
@@ -737,11 +733,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExODM3MzY5LC00MDY3OTY3MjMsLTIwNT
-YwOTIwOSw1MTM3MTczNzQsNjIxOTY4NTk3LC0xNTA5NzgzMTks
-LTEwNzc3ODk0OTIsLTE2OTg1NTcxNjcsLTEyNzA0NTcyNjcsLT
-EzNzYwNzgyMzQsNzQ1Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3
-MTk2Niw4MzgzODgyODksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC
-0xOTkxOTY2MDU2LC02NzA4MjQwNjEsNDQ5Mzk1MzM2LC0xNDQ1
-MzI5OTE0XX0=
+eyJoaXN0b3J5IjpbMTczNzIwMzcsLTQwNjc5NjcyMywtMjA1Nj
+A5MjA5LDUxMzcxNzM3NCw2MjE5Njg1OTcsLTE1MDk3ODMxOSwt
+MTA3Nzc4OTQ5MiwtMTY5ODU1NzE2NywtMTI3MDQ1NzI2NywtMT
+M3NjA3ODIzNCw3NDUyOTk2MDAsLTUxNTMzMjUzNiwtNjg2Mzcx
+OTY2LDgzODM4ODI4OSwxMjY0NTYzMDIsLTE0NjI2MDkyODQsLT
+E5OTE5NjYwNTYsLTY3MDgyNDA2MSw0NDkzOTUzMzYsLTE0NDUz
+Mjk5MTRdfQ==
 -->
