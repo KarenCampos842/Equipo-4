@@ -310,7 +310,7 @@
   
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real
+       <td colspan="2">Para poder ser registro válido deberá proporcionar un correo electrónico y un número de celular existentes y no haber sido registrados con anterioridad.
        </tr> 
        </td> 
        
@@ -322,8 +322,6 @@
   
    <td>
 
- - Si la identificación oficial y la fotografia no coinciden no podrá proceder el registro.
- - Si la tarjeta no contiene fondos suficientes, tendrá que ingresar otra o meterle fondos a la tarjeta.
  - Si el correo o el número de teléfono ya están registrados en el sistema no se podrá proceder.
  - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
  - Si no acepta los términos y condiciones no podrá avanzar
@@ -812,7 +810,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjM4ODIwMSwxMzIxOTcwMjE5LC00MD
+eyJoaXN0b3J5IjpbLTM1OTU1MDY1NSwxMzIxOTcwMjE5LC00MD
 Y3OTY3MjMsLTIwNTYwOTIwOSw1MTM3MTczNzQsNjIxOTY4NTk3
 LC0xNTA5NzgzMTksLTEwNzc3ODk0OTIsLTE2OTg1NTcxNjcsLT
 EyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1Mjk5NjAwLC01MTUz
