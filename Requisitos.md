@@ -356,7 +356,7 @@
             <td><b>Pasos</b></td>
             <td><ul>
             <li>entrar a la app</li>
-			<li>poner en el buscador el trabajo que requieres</li>
+			<li>poner en el buscador el oficio que requieres</li>
 			<li>filtrar por las diferentes opciones de busqueda o recomendacion</li>
 			<li>elegir uno</li>
 </ul></td>
@@ -431,6 +431,16 @@
        <td> 
            <ul>
                 <li>Comprobar que el cliente ha seleccionado la opción de "contratar servicio" </li>
+                <li>Comprobar que el trabajador ha recibido una notificación de un nuevo trabajo.
+                </li>
+               <li>Comprobar que el trabajador ha aceptado el trabajo. </li> 
+         <li>Comprobar que el cliente ha sido notificado sobre el estado de la contratación del servicio (exitosa o rechazada). </li>           
+            </tr>
+             <tr>  
+      <td><b>Pasos</b></td>  
+       <td> 
+           <ul>
+                <li>Cuand </li>
                 <li>Comprobar que el trabajador ha recibido una notificación de un nuevo trabajo.
                 </li>
                <li>Comprobar que el trabajador ha aceptado el trabajo. </li> 
@@ -663,6 +673,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTM1MzE1MiwtNTA5NzUzNDQ2LC03NT
+eyJoaXN0b3J5IjpbMTI5NTY5OTgzMiwtNTA5NzUzNDQ2LC03NT
 M5MzQzODYsLTEyMDA5MTQwNThdfQ==
 -->
