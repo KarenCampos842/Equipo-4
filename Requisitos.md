@@ -163,10 +163,12 @@
   <td>2</td> 
    <td>Debe seleccionar en el icono de trabajador</td> 
   </tr>
+  </tr>     
   <tr>  
-  <td>2</td> 
+  <td>3</td> 
    <td>Debe seleccionar en el icono de trabajador</td> 
   </tr>
+  
   <tr>  
       <td><b>Postcondición</b></td>  
        <td colspan="2">x</td> 
@@ -701,7 +703,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTg1MDYwNCw2MjE5Njg1OTcsLTE1MD
+eyJoaXN0b3J5IjpbLTgxNTI5MDAxNCw2MjE5Njg1OTcsLTE1MD
 k3ODMxOSwtMTA3Nzc4OTQ5MiwtMTY5ODU1NzE2NywtMTI3MDQ1
 NzI2NywtMTM3NjA3ODIzNCw3NDUyOTk2MDAsLTUxNTMzMjUzNi
 wtNjg2MzcxOTY2LDgzODM4ODI4OSwxMjY0NTYzMDIsLTE0NjI2
