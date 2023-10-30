@@ -336,9 +336,6 @@
 			<li>elegir uno</li>
 
 </ul></td>
-<tr></tr>
-<td><b>excepciones</b></td>
-<td> </td>
 
 
    </table>      
@@ -629,6 +626,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwNjEwNDk3LC03NTM5MzQzODYsLTEyMD
-A5MTQwNThdfQ==
+eyJoaXN0b3J5IjpbLTEyNTM4NTUzMzMsLTc1MzkzNDM4NiwtMT
+IwMDkxNDA1OF19
 -->
