@@ -298,6 +298,18 @@
            <li>Comprobar que el cliente pueda visualizar los nombre(s) y apellido(s), municipio (zona de trabajo) y calificación de cada trabajador en la lista.</li>
      </td> 
    </tr>
+ <tr>  
+      <td><b>Pasos</b></td>  
+       <td> 
+           <ul>
+                <li>abrir la app.</li>
+                <li>buscar el trabajo que requiera</li>
+                      
+     </td> 
+   </tr>
+
+
+
    </table>      
     
 <br>
@@ -638,6 +650,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTgyNTY1MywtNTA5NzUzNDQ2LC03NT
-M5MzQzODYsLTEyMDA5MTQwNThdfQ==
+eyJoaXN0b3J5IjpbODEwODYzMjIxLC01MDk3NTM0NDYsLTc1Mz
+kzNDM4NiwtMTIwMDkxNDA1OF19
 -->
