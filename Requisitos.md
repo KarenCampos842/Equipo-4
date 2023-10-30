@@ -181,7 +181,7 @@
     </tr> 
   <tr>  
   <td>6</td> 
-   <td> PSe  </td> 
+   <td> Se le llevará a otra ventana en la que completará su registro llenando los datos que aparecerán en su perfil como: Los municipios o colonias en los que le gustaría trabajar más, asi como su profesión y </td> 
    </tr> 
 
   
@@ -721,7 +721,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjE4MjgzMCwtMjA1NjA5MjA5LDUxMz
+eyJoaXN0b3J5IjpbMTQxNDI5NzE1OSwtMjA1NjA5MjA5LDUxMz
 cxNzM3NCw2MjE5Njg1OTcsLTE1MDk3ODMxOSwtMTA3Nzc4OTQ5
 MiwtMTY5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNC
 w3NDUyOTk2MDAsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4
