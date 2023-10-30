@@ -214,7 +214,9 @@
 
  - Si la identificación oficial y la fotografia no coinciden no podrá proceder el registro.
  - Si la tarjeta no contiene fondos suficientes, tendrá que ingresar otra o meterle fondos a la tarjeta.
- - Si el correo o el número de teléfono ya est
+ - Si el correo o el número de teléfono ya están registrados en el sistema no se podrá proceder.
+ - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
+ - Si no acepta los términos y condiciones no podrá avanzar
 
        
  </table>                 
@@ -734,7 +736,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjU3NjgyOCwtNDA2Nzk2NzIzLC0yMD
+eyJoaXN0b3J5IjpbLTc4NzA3MzA5NiwtNDA2Nzk2NzIzLC0yMD
 U2MDkyMDksNTEzNzE3Mzc0LDYyMTk2ODU5NywtMTUwOTc4MzE5
 LC0xMDc3Nzg5NDkyLC0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC
 0xMzc2MDc4MjM0LDc0NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYz
