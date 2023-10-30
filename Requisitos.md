@@ -151,7 +151,7 @@
        <td colspan="2">El sistema deberá registrar a todo trabajador con éxito, siendo rápido y eficiente.</td> 
    </tr> 
      <tr>  
-      <td rowspan="4"><b>Secuencia normal</b></td>
+      <td rowspan="8"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -705,11 +705,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzNzE3Mzc0LDYyMTk2ODU5NywtMTUwOT
-c4MzE5LC0xMDc3Nzg5NDkyLC0xNjk4NTU3MTY3LC0xMjcwNDU3
-MjY3LC0xMzc2MDc4MjM0LDc0NTI5OTYwMCwtNTE1MzMyNTM2LC
-02ODYzNzE5NjYsODM4Mzg4Mjg5LDEyNjQ1NjMwMiwtMTQ2MjYw
-OTI4NCwtMTk5MTk2NjA1NiwtNjcwODI0MDYxLDQ0OTM5NTMzNi
-wtMTQ0NTMyOTkxNCwtNzU1NDAzMDY5LC0yMDgyOTc1NjUwLC0y
-Nzk1NTc2NDRdfQ==
+eyJoaXN0b3J5IjpbMTY4NzM0Nzg0Miw1MTM3MTczNzQsNjIxOT
+Y4NTk3LC0xNTA5NzgzMTksLTEwNzc3ODk0OTIsLTE2OTg1NTcx
+NjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1Mjk5NjAwLC
+01MTUzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyODksMTI2NDU2
+MzAyLC0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02NzA4MjQwNj
+EsNDQ5Mzk1MzM2LC0xNDQ1MzI5OTE0LC03NTU0MDMwNjksLTIw
+ODI5NzU2NTBdfQ==
 -->
