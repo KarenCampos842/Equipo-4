@@ -171,8 +171,14 @@
    </tr> 
   <tr>  
   <td>4</td> 
-   <td> Posteriormente se le llevará a una ventana en la que deberá elegir una opción de identificación oficial como: Cartilla milita o INE. Subir una foto o un archivo de la seleccionada o poder tomar una foto al momento de </td> 
+   <td> Posteriormente se le llevará a una ventana en la que deberá elegir una opción de identificación oficial como: Cartilla milita o INE. Subir una foto o un archivo de la seleccionada o poder tomar una foto al momento de la identificación </td> 
    </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td> Posteriormente se le llevará a una ventana en la que deberá elegir una opción de identificación oficial como: Cartilla milita o INE. Subir una foto o un archivo de la seleccionada o poder tomar una foto al momento de la identificación </td> 
+   </tr> 
+
   
   
   
@@ -710,7 +716,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTkwNTg5NSw1MTM3MTczNzQsNjIxOT
+eyJoaXN0b3J5IjpbLTIwNTYwOTIwOSw1MTM3MTczNzQsNjIxOT
 Y4NTk3LC0xNTA5NzgzMTksLTEwNzc3ODk0OTIsLTE2OTg1NTcx
 NjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1Mjk5NjAwLC
 01MTUzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyODksMTI2NDU2
