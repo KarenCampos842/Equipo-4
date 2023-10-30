@@ -203,6 +203,8 @@
        <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real
        </tr> 
        </td> 
+       
+       
    </tr> 
      <tr>  
       <td rowspan="4"><b>Excepciones</b></td>
@@ -734,7 +736,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODU1ODUxNSwtMjA1NjA5MjA5LDUxMz
+eyJoaXN0b3J5IjpbLTQwNjc5NjcyMywtMjA1NjA5MjA5LDUxMz
 cxNzM3NCw2MjE5Njg1OTcsLTE1MDk3ODMxOSwtMTA3Nzc4OTQ5
 MiwtMTY5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNC
 w3NDUyOTk2MDAsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4
