@@ -451,9 +451,9 @@
        <td> 
            <ul>
                 <li>si elegio mal o cometió error poner botón de cancelación y a la causa </li>
-                <li>
+                <li>si el trabajador acepto el trabajo arojar un pop pap de la notificacion en cuanto tiempo llegara
                 </li>
-               <li>esperar que el trabajor acepte el trabajo </li> 
+               <li> </li> 
          <li>esperar la notificacion de su llegada </li>           
             </tr>
          </table>      
@@ -683,6 +683,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQxNjkwMTAsLTUwOTc1MzQ0NiwtNz
+eyJoaXN0b3J5IjpbLTExNDU4OTA3NzcsLTUwOTc1MzQ0NiwtNz
 UzOTM0Mzg2LC0xMjAwOTE0MDU4XX0=
 -->
