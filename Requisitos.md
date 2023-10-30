@@ -866,7 +866,7 @@
 
  - Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación
  - Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.
- - Si no acepta los términos y condiciones no podrá avanzar
+
 
        
  </table> 
@@ -942,11 +942,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODkyNzA4LC0xNzA4NTc5NDI1LDEzMj
-E5NzAyMTksLTQwNjc5NjcyMywtMjA1NjA5MjA5LDUxMzcxNzM3
-NCw2MjE5Njg1OTcsLTE1MDk3ODMxOSwtMTA3Nzc4OTQ5MiwtMT
-Y5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNCw3NDUy
-OTk2MDAsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4ODI4OS
-wxMjY0NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYwNTYsLTY3
-MDgyNDA2MV19
+eyJoaXN0b3J5IjpbLTExMDE2NjM4MzgsLTE3MDg1Nzk0MjUsMT
+MyMTk3MDIxOSwtNDA2Nzk2NzIzLC0yMDU2MDkyMDksNTEzNzE3
+Mzc0LDYyMTk2ODU5NywtMTUwOTc4MzE5LC0xMDc3Nzg5NDkyLC
+0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC0xMzc2MDc4MjM0LDc0
+NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYzNzE5NjYsODM4Mzg4Mj
+g5LDEyNjQ1NjMwMiwtMTQ2MjYwOTI4NCwtMTk5MTk2NjA1Niwt
+NjcwODI0MDYxXX0=
 -->
