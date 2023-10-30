@@ -230,11 +230,11 @@
    </tr> 
     <tr>  
       <td><b>Como</b></td>  
-       <td>usuario</td> 
+       <td>Usuario</td> 
    </tr> 
     <tr>  
       <td><b>Quiero</b></td>  
-       <td> poder registrarme en WorkFlash como cliente</td> 
+       <td> oder registrarme en WorkFlash como cliente</td> 
    </tr> 
      <tr>  
       <td><b>Para</b></td>  
@@ -255,6 +255,97 @@
      </td> 
    </tr>
  </table>      
+
+</table>
+ <br>    
+<table align=center>  
+   <tr>
+     <th>CU-02</th>  
+      <th colspan="2">Registro del usuario</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (29/10/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El trabajador deberá de contar con una tarjeta de débito o crédito con fondos para comprobar que se pueda cobrar en los próximos meses, y también no haberse registrado antes</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema deberá registrar a todo trabajador con éxito, siendo rápido y eficiente.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="9"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El trabajador debe seleccionar el icono de registrarse para comenzar su registro</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>Debe seleccionar en el icono de trabajador</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: Su nombre completo, un correo electrónico y un número de teléfono. Una vez llenado los datos correctos, le da en el botón de "Continuar"</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td> Posteriormente se le llevará a una ventana en la que deberá elegir una opción de identificación oficial como: Cartilla milita o INE. Subir una foto o un archivo de la seleccionada o poder tomar una foto al momento de la identificación </td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td> Deberá tomarse una foto en el momento que será usada para su foto de perfil del trabajador, una vez ya tomada le dará en el botón "continuar"</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>6</td> 
+   <td> Se le llevará a otra ventana en la que completará su registro llenando los datos que aparecerán en su perfil como: Los municipios o colonias en los que le gustaría trabajar más, asi como su profesión y de los servicios o habilidades que puede ofrecer, una vez concluido le dará en "continuar" </td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>7</td> 
+   <td> Tendrá que registrar una tarjeta de crédito o débito en la siguiente ventana para obtener el primer mes gratis y se le cobre periódicamente los 75 pesos mensuales de la membresía, tendrá que llenar los datos de la tarjeta como el número, su fecha de caducidad y el cvv. Una vez comprobado que la tarjeta cuenta con los fondos suficientes, se le devolverá el dinero y el usuario le dará en "continuar"</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>8</td> 
+   <td>Le aparecerán los términos y condiciones que el trabajador deberá leer y aceptar para poder concluir su registro</td> 
+   </tr> 
+    
+
+  
+  
+  
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real
+       </tr> 
+       </td> 
+       
+   </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+   
+  <tr>  
+  
+   <td>
+
+ - Si la identificación oficial y la fotografia no coinciden no podrá proceder el registro.
+ - Si la tarjeta no contiene fondos suficientes, tendrá que ingresar otra o meterle fondos a la tarjeta.
+ - Si el correo o el número de teléfono ya están registrados en el sistema no se podrá proceder.
+ - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
+ - Si no acepta los términos y condiciones no podrá avanzar
+
+       
+ </table> 
+
  
 <br>
 
@@ -736,11 +827,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzA3MzA5NiwtNDA2Nzk2NzIzLC0yMD
-U2MDkyMDksNTEzNzE3Mzc0LDYyMTk2ODU5NywtMTUwOTc4MzE5
-LC0xMDc3Nzg5NDkyLC0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC
-0xMzc2MDc4MjM0LDc0NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYz
-NzE5NjYsODM4Mzg4Mjg5LDEyNjQ1NjMwMiwtMTQ2MjYwOTI4NC
-wtMTk5MTk2NjA1NiwtNjcwODI0MDYxLDQ0OTM5NTMzNiwtMTQ0
-NTMyOTkxNF19
+eyJoaXN0b3J5IjpbLTEwNDI2NTQxMTgsLTQwNjc5NjcyMywtMj
+A1NjA5MjA5LDUxMzcxNzM3NCw2MjE5Njg1OTcsLTE1MDk3ODMx
+OSwtMTA3Nzc4OTQ5MiwtMTY5ODU1NzE2NywtMTI3MDQ1NzI2Ny
+wtMTM3NjA3ODIzNCw3NDUyOTk2MDAsLTUxNTMzMjUzNiwtNjg2
+MzcxOTY2LDgzODM4ODI4OSwxMjY0NTYzMDIsLTE0NjI2MDkyOD
+QsLTE5OTE5NjYwNTYsLTY3MDgyNDA2MSw0NDkzOTUzMzYsLTE0
+NDUzMjk5MTRdfQ==
 -->
