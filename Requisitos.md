@@ -166,7 +166,12 @@
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: Su nombre completo, un correo electrónico y un número de teléfono</td> 
+   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: Su nombre completo, un correo electrónico y un número de teléfono. Una vez llenado los datos correctos, le da en el botón de "Continuar"</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td> Posteriormente se le l</td> 
    </tr> 
   
   
@@ -705,7 +710,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjAwOTI1MjUsNTEzNzE3Mzc0LDYyMT
+eyJoaXN0b3J5IjpbLTEyMzczMjkwNjEsNTEzNzE3Mzc0LDYyMT
 k2ODU5NywtMTUwOTc4MzE5LC0xMDc3Nzg5NDkyLC0xNjk4NTU3
 MTY3LC0xMjcwNDU3MjY3LC0xMzc2MDc4MjM0LDc0NTI5OTYwMC
 wtNTE1MzMyNTM2LC02ODYzNzE5NjYsODM4Mzg4Mjg5LDEyNjQ1
