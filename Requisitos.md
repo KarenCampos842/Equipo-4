@@ -451,10 +451,10 @@
        <td> 
            <ul>
                 <li>si elegio mal o cometió error poner botón de cancelación y a la causa </li>
-                <li>si el trabajador acepto el trabajo arojar un pop pap de la notificacion en cuanto tiempo llegara
+                <li>si el trabajador acepto el trabajo arrojar un pop pap de la notificacion en cuanto tiempo llegara
                 </li>
                <li>si no llega la notificacion reportarlo en soporte </li> 
-         <li>si el trabajor no acepto por equivocacion poner un boton de  </li>           
+         <li>si el trabajor  acepto por equivocación poner un boton de cancelar de 5 minutos después de ese tiempo desaparecerá el boton </li>           
             </tr>
          </table>      
              
@@ -683,6 +683,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU5OTY2ODMsLTUwOTc1MzQ0NiwtNz
-UzOTM0Mzg2LC0xMjAwOTE0MDU4XX0=
+eyJoaXN0b3J5IjpbMTgwNjI4NTMxMCwtNTA5NzUzNDQ2LC03NT
+M5MzQzODYsLTEyMDA5MTQwNThdfQ==
 -->
