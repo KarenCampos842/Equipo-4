@@ -838,11 +838,11 @@
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El </td> 
+   <td>El trabajador al registrarse deberá tener en todo momento una tarjeta de débito o crédito enlazada a su cuenta</td> 
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>Debe seleccionar en el icono de cliente</td> 
+   <td>Se guardará la fecha de registro y se cobrarán $75 MXN cada mdía de los meses siguientes</td> 
   </tr>
   </tr> 
   <tr>  
@@ -951,11 +951,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTczOTc1NywtMTcwODU3OTQyNSwxMz
-IxOTcwMjE5LC00MDY3OTY3MjMsLTIwNTYwOTIwOSw1MTM3MTcz
-NzQsNjIxOTY4NTk3LC0xNTA5NzgzMTksLTEwNzc3ODk0OTIsLT
-E2OTg1NTcxNjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1
-Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyOD
-ksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02
-NzA4MjQwNjFdfQ==
+eyJoaXN0b3J5IjpbLTE3NTY4MjM1NTcsLTE3MDg1Nzk0MjUsMT
+MyMTk3MDIxOSwtNDA2Nzk2NzIzLC0yMDU2MDkyMDksNTEzNzE3
+Mzc0LDYyMTk2ODU5NywtMTUwOTc4MzE5LC0xMDc3Nzg5NDkyLC
+0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC0xMzc2MDc4MjM0LDc0
+NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYzNzE5NjYsODM4Mzg4Mj
+g5LDEyNjQ1NjMwMiwtMTQ2MjYwOTI4NCwtMTk5MTk2NjA1Niwt
+NjcwODI0MDYxXX0=
 -->
