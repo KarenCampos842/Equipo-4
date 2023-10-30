@@ -816,8 +816,8 @@
  <br>    
 <table align=center>  
    <tr>
-     <th>CU-02</th>  
-      <th colspan="2">Registro del usuario</th>  
+     <th>CU-15</th>  
+      <th colspan="2">Cobro de membresía</th>  
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
@@ -825,7 +825,7 @@
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El usuario deberá de contar con un correo electrónico, una contraseña y también no haberse registrado antes</td> 
+       <td colspan="2">El trabajador deberá de tener al menos 75$ MXN</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
@@ -858,8 +858,6 @@
   <tr>  
   <td>5</td> 
    <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.</td> 
-   
- 
   
   <tr>  
       <td><b>Postcondición</b></td>  
@@ -953,7 +951,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTIyNjQ2MSwtMTcwODU3OTQyNSwxMz
+eyJoaXN0b3J5IjpbLTQzNjg1ODM5MywtMTcwODU3OTQyNSwxMz
 IxOTcwMjE5LC00MDY3OTY3MjMsLTIwNTYwOTIwOSw1MTM3MTcz
 NzQsNjIxOTY4NTk3LC0xNTA5NzgzMTksLTEwNzc3ODk0OTIsLT
 E2OTg1NTcxNjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1
