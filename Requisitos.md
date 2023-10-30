@@ -136,7 +136,7 @@
 <table align=center>  
    <tr>
      <th>CU-01</th>  
-      <th colspan="2">Nombre del caso de uso (CU)</th>  
+      <th colspan="2">Registro del trabajador</th>  
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
@@ -148,7 +148,7 @@
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
-       <td colspan="2">El sistema deberá comportarse como se describe en el siguiente caso de uso cuando ...</td> 
+       <td colspan="2">El sistema deberá re ...</td> 
    </tr> 
      <tr>  
       <td rowspan="3"><b>Secuencia normal</b></td>
@@ -697,11 +697,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1ODEzNjAzLDYyMTk2ODU5NywtMTUwOT
-c4MzE5LC0xMDc3Nzg5NDkyLC0xNjk4NTU3MTY3LC0xMjcwNDU3
-MjY3LC0xMzc2MDc4MjM0LDc0NTI5OTYwMCwtNTE1MzMyNTM2LC
-02ODYzNzE5NjYsODM4Mzg4Mjg5LDEyNjQ1NjMwMiwtMTQ2MjYw
-OTI4NCwtMTk5MTk2NjA1NiwtNjcwODI0MDYxLDQ0OTM5NTMzNi
-wtMTQ0NTMyOTkxNCwtNzU1NDAzMDY5LC0yMDgyOTc1NjUwLC0y
-Nzk1NTc2NDRdfQ==
+eyJoaXN0b3J5IjpbOTE0OTQ5NTYsNjIxOTY4NTk3LC0xNTA5Nz
+gzMTksLTEwNzc3ODk0OTIsLTE2OTg1NTcxNjcsLTEyNzA0NTcy
+NjcsLTEzNzYwNzgyMzQsNzQ1Mjk5NjAwLC01MTUzMzI1MzYsLT
+Y4NjM3MTk2Niw4MzgzODgyODksMTI2NDU2MzAyLC0xNDYyNjA5
+Mjg0LC0xOTkxOTY2MDU2LC02NzA4MjQwNjEsNDQ5Mzk1MzM2LC
+0xNDQ1MzI5OTE0LC03NTU0MDMwNjksLTIwODI5NzU2NTAsLTI3
+OTU1NzY0NF19
 -->
