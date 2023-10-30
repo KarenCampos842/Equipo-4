@@ -191,8 +191,9 @@
     </tr> 
   <tr>  
   <td>8</td> 
-   <td>Le aparecerán los términos y condicione</td> 
+   <td>Le aparecerán los términos y condiciones que el trabajador deberá leer y aceptar para poder concluir su registro</td> 
    </tr> 
+    
 
   
   
@@ -731,11 +732,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyMDc3MjU3LC0yMDU2MDkyMDksNTEzNz
-E3Mzc0LDYyMTk2ODU5NywtMTUwOTc4MzE5LC0xMDc3Nzg5NDky
-LC0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC0xMzc2MDc4MjM0LD
-c0NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYzNzE5NjYsODM4Mzg4
-Mjg5LDEyNjQ1NjMwMiwtMTQ2MjYwOTI4NCwtMTk5MTk2NjA1Ni
-wtNjcwODI0MDYxLDQ0OTM5NTMzNiwtMTQ0NTMyOTkxNCwtNzU1
-NDAzMDY5XX0=
+eyJoaXN0b3J5IjpbLTUyMzMyOTUxNiwtMjA1NjA5MjA5LDUxMz
+cxNzM3NCw2MjE5Njg1OTcsLTE1MDk3ODMxOSwtMTA3Nzc4OTQ5
+MiwtMTY5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNC
+w3NDUyOTk2MDAsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4
+ODI4OSwxMjY0NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYwNT
+YsLTY3MDgyNDA2MSw0NDkzOTUzMzYsLTE0NDUzMjk5MTQsLTc1
+NTQwMzA2OV19
 -->
