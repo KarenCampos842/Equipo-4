@@ -130,6 +130,96 @@
      </td> 
    </tr>
  </table>      
+
+</table>
+ <br>    
+<table align=center>  
+   <tr>
+     <th>CU-01</th>  
+      <th colspan="2">Registro del trabajador</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (29/10/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El trabajador deberá de contar con una tarjeta de débito o crédito con fondos para comprobar que se pueda cobrar en los próximos meses, y también no haberse registrado antes</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema deberá registrar a todo trabajador con éxito, siendo rápido y eficiente.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="15"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El trabajador debe seleccionar el icono de registrarse para comenzar su registro</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>Debe seleccionar en el icono de trabajador</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: Su nombre completo, un correo electrónico y un número de teléfono. Una vez llenado los datos correctos, le da en el botón de "Continuar"</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td> Posteriormente se le llevará a una ventana en la que deberá elegir una opción de identificación oficial como: Cartilla milita o INE. Subir una foto o un archivo de la seleccionada o poder tomar una foto al momento de la identificación </td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td> Deberá tomarse una foto en el momento que será usada para su foto de perfil del trabajador, una vez ya tomada le dará en el botón "continuar"</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>6</td> 
+   <td> Se le llevará a otra ventana en la que completará su registro llenando los datos que aparecerán en su perfil como: Los municipios o colonias en los que le gustaría trabajar más, asi como su profesión y de los servicios o habilidades que puede ofrecer, una vez concluido le dará en "continuar" </td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>7</td> 
+   <td> Tendrá que registrar una tarjeta de crédito o débito en la siguiente ventana para obtener el primer mes gratis y se le cobre periódicamente los 75 pesos mensuales de la membresía, tendrá que llenar los datos de la tarjeta como el número, su fecha de caducidad y el cvv. Una vez comprobado que la tarjeta cuenta con los fondos suficientes, se le devolverá el dinero y el usuario le dará en "continuar"</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>8</td> 
+   <td>Le aparecerán los términos y condiciones que el trabajador deberá leer y aceptar para poder concluir su registro, posteriormente le saldrá una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionados.</td> 
+   </tr> 
+    
+
+  
+  
+  
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real
+       </tr> 
+       </td> 
+       
+   </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+   
+  <tr>  
+  
+   <td>
+
+ - Si la identificación oficial y la fotografia no coinciden no podrá proceder el registro.
+ - Si la tarjeta no contiene fondos suficientes, tendrá que ingresar otra o meterle fondos a la tarjeta.
+ - Si el correo o el número de teléfono ya están registrados en el sistema no se podrá proceder.
+ - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
+ - Si no acepta los términos y condiciones no podrá avanzar
+
+       
+ </table>                 
  
 <br>
 
@@ -140,15 +230,15 @@
    </tr> 
     <tr>  
       <td><b>Como</b></td>  
-       <td>usuario</td> 
+       <td>Usuario</td> 
    </tr> 
     <tr>  
       <td><b>Quiero</b></td>  
-       <td> poder registrarme en WorkFlash como cliente</td> 
+       <td> Poder registrarme en WorkFlash como cliente</td> 
    </tr> 
      <tr>  
       <td><b>Para</b></td>  
-       <td> encontrar trabajadores de forma rápida.</td> 
+       <td> Encontrar trabajadores de forma rápida.</td> 
    </tr> 
   <tr>  
       <td><b>Criterios de aceptación</b></td>  
@@ -165,6 +255,80 @@
      </td> 
    </tr>
  </table>      
+
+</table>
+ <br>    
+<table align=center>  
+   <tr>
+     <th>CU-02</th>  
+      <th colspan="2">Registro del usuario</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (29/10/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El usuario deberá de contar con un correo electrónico, una contraseña y también no haberse registrado antes</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema deberá registrar a todo usuario con éxito, siendo rápido y eficiente.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="9"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El usuario debe seleccionar el icono de registrarse para comenzar su registro</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>Debe seleccionar en el icono de cliente</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: Su nombre completo, un correo electrónico y un número de teléfono. Una vez llenado los datos correctos, le da en el botón de "Continuar"</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td> Posteriormente se le mostrarán los términos y condiciones que debe aceptar y dar en continuar para seguir concluir con su registro</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.</td> 
+   
+    
+
+  
+  
+  
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">Para poder ser registro válido deberá proporcionar un correo electrónico y un número de celular existentes y no haber sido registrados con anterioridad.
+       </tr> 
+       </td> 
+       
+   </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+   
+  <tr>  
+  
+   <td>
+
+ - Si el correo o el número de teléfono ya están registrados en el sistema o si no son válidos no se podrá proceder con el registro.
+ - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
+ - Si no acepta los términos y condiciones no podrá avanzar
+
+       
+ </table> 
+
  
 <br>
 
@@ -359,6 +523,80 @@
                <li>Comprobar que el chat permita compartir imágenes. </li>          
             </tr>
  </table>      
+
+</table>
+ <br>    
+<table align=center>  
+   <tr>
+     <th>CU-08</th>  
+      <th colspan="2">Chat</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (29/10/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El usuario y el trabajador deben estar ya registrados y aprobar por ambos el chat</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema deberá rcontar con un chat entre usuarios y trabajadores para agendar fechas, horarios y costos del servicio.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="9"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El usuario debe realizar buscar el servicio que desea obtener</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>Ver entre la lista de trabajadores, seleccionar el perfil del que mejor le parezca y solicitar abrir el chat con el trabajador</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>Si es el trabajador le llegarán las solicitudes de mensajes de los clientes y el decide si los acepta o no</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td> Una vez haya sido aceptado por ambos, se abrirá un chat en el que se podrá enviar tanto mensajes de texto, como imágenes por parte del trabajador para mostrar algunos de sus trabajos</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td> Una vez hayan acordado todos los términos podrán seleccionar "adquirir el servicio" para asi oficializar el contrato, el chat quedará habilitado por cualquier situación y si no se llega a adquirir el servicio, quedará guardado para futuros servicios o para algún tipo de reporte..</td> 
+   
+    
+
+  
+  
+  
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">Para poder abrir el chat este debe ser aceptado por ambos y para ser cerrado, debe ser cerrado por ambos.
+       </tr> 
+       </td> 
+       
+   </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+   
+  <tr>  
+  
+   <td>
+
+ - Si el trabajador no acepta el chat, no se podrán enviar ni recibir mensajes por parte de ese cliente
+ 
+
+       
+ </table> 
+
+
  
 <br>
 
@@ -574,6 +812,64 @@
                  <li>Comprobar que el sistema realice el cobro automático de la membresía de $75 finalizado el mes de prueba gratis hasta que el trabajador cancele su cuenta.
                 </li>
  </table>
+</table>
+ <br>    
+<table align=center>  
+   <tr>
+     <th>CU-15</th>  
+      <th colspan="2">Cobro de membresía</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (29/10/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El trabajador deberá de tener al menos $75 MXN en su tarjeta de débito o crédito registrada</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema deberá cobrar la membresía de los trabajadores después del mes gratis y después de cada mes hasta su cancelación</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="9"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El trabajador al registrarse deberá tener en todo momento una tarjeta de débito o crédito enlazada a su cuenta</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>Se guardará la fecha de registro y se cobrarán $75 MXN cada mismo día de los meses siguientes.</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>Una vez autorizado el pago, le llegará un correo electrónico al trabajador de su pago exitoso, asi como la fecha de su próximo pago.</td> 
+
+  
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">Se dará como "Pago exitoso" solo si se llega a cubrir la cuota total de la membresía
+       </tr> 
+       </td> 
+       
+   </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+   
+  <tr>  
+  
+   <td>
+
+ - Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación
+ - Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.
+
+
+       
+ </table> 
  <br>    
 <table align=center>  
    <tr>  
@@ -615,6 +911,3 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDA5MTQwNThdfQ==
--->
