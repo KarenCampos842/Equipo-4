@@ -311,7 +311,8 @@
        <td> 
            <ul>
                 <li>si el usuario escribe mal el nombre ponerle un mensaje de que esta profesión no esta</li>
-                <li>si el excede el umero de cararter</li>
+                <li>si el excede el numero de caracter  ponemos un mensaje de que esa profesion no se encuentra</li>
+                 <li>si el usuario pone una profesion que no este  ponerle un mensaje de que esta profesión no esta</li>
      </td> 
    </tr>
 
@@ -656,6 +657,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjA2MTA5OCwtNTA5NzUzNDQ2LC03NT
-M5MzQzODYsLTEyMDA5MTQwNThdfQ==
+eyJoaXN0b3J5IjpbNTc2NjUyNzU3LC01MDk3NTM0NDYsLTc1Mz
+kzNDM4NiwtMTIwMDkxNDA1OF19
 -->
