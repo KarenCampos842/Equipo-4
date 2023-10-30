@@ -322,7 +322,7 @@
   
    <td>
 
- - Si el correo o el número de teléfono ya están registrados en el sistema no se podrá proceder.
+ - Si el correo o el número de teléfono ya están registrados en el sistema o si no son válidos no se podrá proceder con el registro.
  - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
  - Si no acepta los términos y condiciones no podrá avanzar
 
@@ -810,11 +810,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTU1MDY1NSwxMzIxOTcwMjE5LC00MD
-Y3OTY3MjMsLTIwNTYwOTIwOSw1MTM3MTczNzQsNjIxOTY4NTk3
-LC0xNTA5NzgzMTksLTEwNzc3ODk0OTIsLTE2OTg1NTcxNjcsLT
-EyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1Mjk5NjAwLC01MTUz
-MzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyODksMTI2NDU2MzAyLC
-0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02NzA4MjQwNjEsNDQ5
-Mzk1MzM2XX0=
+eyJoaXN0b3J5IjpbLTE3MDg1Nzk0MjUsMTMyMTk3MDIxOSwtND
+A2Nzk2NzIzLC0yMDU2MDkyMDksNTEzNzE3Mzc0LDYyMTk2ODU5
+NywtMTUwOTc4MzE5LC0xMDc3Nzg5NDkyLC0xNjk4NTU3MTY3LC
+0xMjcwNDU3MjY3LC0xMzc2MDc4MjM0LDc0NTI5OTYwMCwtNTE1
+MzMyNTM2LC02ODYzNzE5NjYsODM4Mzg4Mjg5LDEyNjQ1NjMwMi
+wtMTQ2MjYwOTI4NCwtMTk5MTk2NjA1NiwtNjcwODI0MDYxLDQ0
+OTM5NTMzNl19
 -->
