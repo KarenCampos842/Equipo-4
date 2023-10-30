@@ -200,7 +200,9 @@
   
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">Para poder ser registro válido deberán tener </td> 
+       <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real
+       </tr> 
+       </td> 
    </tr> 
      <tr>  
       <td rowspan="4"><b>Excepciones</b></td>
@@ -732,11 +734,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc2NDc1NTMsLTIwNTYwOTIwOSw1MT
-M3MTczNzQsNjIxOTY4NTk3LC0xNTA5NzgzMTksLTEwNzc3ODk0
-OTIsLTE2OTg1NTcxNjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMz
-QsNzQ1Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3MTk2Niw4Mzgz
-ODgyODksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOTkxOTY2MD
-U2LC02NzA4MjQwNjEsNDQ5Mzk1MzM2LC0xNDQ1MzI5OTE0LC03
-NTU0MDMwNjldfQ==
+eyJoaXN0b3J5IjpbLTYyODU1ODUxNSwtMjA1NjA5MjA5LDUxMz
+cxNzM3NCw2MjE5Njg1OTcsLTE1MDk3ODMxOSwtMTA3Nzc4OTQ5
+MiwtMTY5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNC
+w3NDUyOTk2MDAsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4
+ODI4OSwxMjY0NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYwNT
+YsLTY3MDgyNDA2MSw0NDkzOTUzMzYsLTE0NDUzMjk5MTQsLTc1
+NTQwMzA2OV19
 -->
