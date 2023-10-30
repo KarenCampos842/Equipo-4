@@ -56,7 +56,7 @@
  
 26.  El sistema debe estar disponible cuando se requiera (darle mantenimiento solo en horarios de baja demanda).
 
-27.  El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios (colocar imágenes fáciles de entender y simbología básica).
+27.  El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios (colocando imágenes fáciles de entender y simbología básica).
 
 28.  El sistema no deberá de ocupar más de 500 MB de almacenamiento interno de cada usuario.
 
@@ -79,7 +79,7 @@
 
 | Must Have| Should Have | Could Have |Won't Have|
 |---------|---------|---------|---------|
-|1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 21, 22|6, 7, 16, 17, 20, 27|23||
+|1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 21, 22, 24, 25|6, 7, 16, 17, 20|23||
 
 
 
@@ -614,11 +614,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjU4NDU4NCwtNDEyNjcwNzIwLC0xMT
-g3OTU5MzksLTgwNjU0Njg2OCwxMTA5ODUzOTM5LC0xMDc3Nzg5
-NDkyLC0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC0xMzc2MDc4Mj
-M0LDc0NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYzNzE5NjYsODM4
-Mzg4Mjg5LDEyNjQ1NjMwMiwtMTQ2MjYwOTI4NCwtMTk5MTk2Nj
-A1NiwtNjcwODI0MDYxLDQ0OTM5NTMzNiwtMTQ0NTMyOTkxNCwt
-NzU1NDAzMDY5XX0=
+eyJoaXN0b3J5IjpbLTE5Mjc2MTI4MjUsLTQxMjY3MDcyMCwtMT
+E4Nzk1OTM5LC04MDY1NDY4NjgsMTEwOTg1MzkzOSwtMTA3Nzc4
+OTQ5MiwtMTY5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3OD
+IzNCw3NDUyOTk2MDAsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgz
+ODM4ODI4OSwxMjY0NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5Nj
+YwNTYsLTY3MDgyNDA2MSw0NDkzOTUzMzYsLTE0NDUzMjk5MTQs
+LTc1NTQwMzA2OV19
 -->
