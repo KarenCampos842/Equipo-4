@@ -46,21 +46,32 @@
 
 22. **Modificación de perfil:** Como cliente, el usuario podrá modificar nombre(s) y apellido(s) y su fotografía. Como trabajador, el usuario podrá modificar nombre(s) y apellido(s), su fotografía, zona de trabajo, número de tarjeta, CVV y fecha de vencimiento de la tarjeta.
 
+
 ## Requerimientos no funcionales
 
-23. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 (por los requisitos que manejaremos y las funciones del sistema).
+23. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 en adelante (por los requisitos que manejaremos y las funciones del sistema).
 
-24.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (validando la identificación oficial proporcionada).
+24.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (solicitando una identificación oficial con fotografía y tomar una fotografía actual del trabajador para tenerla de foto de perfil y verificando que sean la misma persona).
  
-25.  El sistema debe ser fácil de mantener y actualizar (dándole mantenimiento).
+25.  Los datos modificados en los perfiles de los trabajadores, en la base de datos deben ser actualizados para todos los usuarios que ingresen a los perfiles en menos de 10 segundos de haber sido actualizados.
  
 26.  El sistema debe estar disponible cuando se requiera (darle mantenimiento solo en horarios de baja demanda).
 
-27.  El sistema debe ser intuitivo y amigable para la mayoría de usuarios (colocar imágenes fáciles de entender y simbología básica).
+27.  El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios (colocando imágenes fáciles de entender y simbología básica).
 
-28.  El sistema debe ser confiable y cumplir con los requisitos del usuario (asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados así como las identificaciones oficiales del trabajador).
+28.  El sistema no deberá de ocupar más de 500 MB de almacenamiento interno de cada usuario.
 
-29.  Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal (verificando los servicios continuamente).
+29.  Los servicios ofrecidos por los trabajadores deben ser legales (estar dentro de los servicios permitidos por las leyes y lo podremos resolver verificando los servicios ofrecidos continuamente).
+
+30. El sistema deberá manejar correcta y extensamente los idiomas del Español e Inglés.
+
+31. Se debe de contar en todo momento un respaldo ante desastres en la nube para el sistema en desarrollo.
+
+32. Cada 2 semanas se deberán de producir reportes gerenciales en los que se mostrará el esfuerzo invertido en cada uno de los componentes del nuevo sistema.
+
+33. El sistema no mostrará datos personales entre usuarios y trabajadores que no estén incluidos en los perfiles públicos y con previa autorización de ellos.
+
+
 
 
 
@@ -69,7 +80,7 @@
 
 | Must Have| Should Have | Could Have |Won't Have|
 |---------|---------|---------|---------|
-|1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 14, 18, 19|6, 7, 13, 15, 16, 17,27|||
+|1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 21, 22, 24, 25, 26, 27, 29, 31, 33|6, 7, 16, 17, 20, 28, 30, 32|23||
 
 
 
@@ -604,13 +615,42 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
+﻿<center><h1>REQUISITOS</h1></center>
 
+
+## Requisitos funcionales        
+
+ - El usuario iniciará sesión con un número telefónico, un correo y una contraseña.
+ - El trabajador tendrá que validar sus datos con alguna identificación oficial para poder registrarse.
+ - El sistema contará con un chat para que el usuario pueda adquirir cotizaciones del servicio y asi decidir si lo acepta o no.
+ - Tendrá un ranking de los trabajadores mejor calificados.
+ - Se podrá filtrar a los trabajadores por ubicación, calificaciones y por el servicio que se requiera.
+ - Contará con una agenda con recordatorios y alarmas para los trabajadores para organizarse sin afectar a los usuarios.
+ - Al finalizar cada servicio el sistema le permitirá al usuario calificar y/o comentar el desempeño del trabajador.
+ - El sistema reflejará en los perfiles de cada trabajador detalles como sus servicios realizados, su experiencia, sus calificaciones, su fotografía, sus horarios disponibles asi como su rango de distancia en el que puede laborar
+ - El sistema contará con un sistema de "Karma" en el que si el usuario o el trabajador no asiste, no cumple con lo antes mencionado o si cancela sin previo aviso, se verá reflejado en los perfiles de cada usuario y trabajador y con ello afectar la experiencia con la aplicación.
+ - Se contará con un sistema de reporte por estafas, robos o incongruencias en el servicio
+
+ 
+## Requisitos no funcionales
+
+ - Solo funcionará en dispositivos móviles con Android 8 y IOS 11 (por los requisitos que manejaremos y las funciones del sistema).
+ - El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (Validando la identificación oficial proporcionada).
+ - El sistema debe ser fácil de mantener y actualizar (Dándole mantenimiento).
+ - El sistema debe estar disponible cuando se requiera (Darle mantenimiento solo en horarios de baja demanda).
+ - El sistema debe ser intuitivo y amigable para la mayoría de usuarios (Colocar imágenes fáciles de entender y simbología básica).
+ - El sistema debe ser confiable y cumplir con los requisitos del usuario (Asegurándonos de que los usuarios y trabajadores sean personas reales verificando los datos proporcionados asi como las identificaciones oficiales del trabajador).
+ - Los servicios ofrecidos por los trabajadores deben estar dentro de lo legal (Verificando los servicios continuamente).
+
+## Priorización
+
+## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk3ODMxOSwtMTA3Nzc4OTQ5MiwtMT
-Y5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNCw3NDUy
-OTk2MDAsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4ODI4OS
-wxMjY0NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYwNTYsLTY3
-MDgyNDA2MSw0NDkzOTUzMzYsLTE0NDUzMjk5MTQsLTc1NTQwMz
-A2OSwtMjA4Mjk3NTY1MCwtMjc5NTU3NjQ0LC0xMjUyODY2ODk2
-LDE1MzA5MzY0OTldfQ==
+eyJoaXN0b3J5IjpbNjIxOTY4NTk3LC0xNTA5NzgzMTksLTEwNz
+c3ODk0OTIsLTE2OTg1NTcxNjcsLTEyNzA0NTcyNjcsLTEzNzYw
+NzgyMzQsNzQ1Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3MTk2Ni
+w4MzgzODgyODksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOTkx
+OTY2MDU2LC02NzA4MjQwNjEsNDQ5Mzk1MzM2LC0xNDQ1MzI5OT
+E0LC03NTU0MDMwNjksLTIwODI5NzU2NTAsLTI3OTU1NzY0NCwt
+MTI1Mjg2Njg5Nl19
 -->
