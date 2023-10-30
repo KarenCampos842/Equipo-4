@@ -10,46 +10,46 @@ RF-3. **Registro del trabajador:** Si el usuario ha seleccionado el perfil de tr
 
 RF-4. **Cobro de membresía:**  Cumplido el mes de prueba gratis en la aplicación, el sistema cobrará mensualmente de la tarjeta proporcionada por el trabajador $75 correspondientes a la membresía hasta la cancelación de la cuenta.
 
-5. **Creación de contraseña:** El sistema creará una contraseña y para el cliente o trabajador que será enviada al correo electrónico proporcionado. 
+RF-5. **Creación de contraseña:** El sistema creará una contraseña y para el cliente o trabajador que será enviada al correo electrónico proporcionado. 
 
-6. **Comentarios:** El sistema permitirá al cliente comentar sobre la calidad del servicio en el perfil del trabajador.
+RF-6. **Comentarios:** El sistema permitirá al cliente comentar sobre la calidad del servicio en el perfil del trabajador.
 
-7. **Calificaciones:** Basado en una escala de cinco estrellas, el sistema permitirá al usuario (cliente o trabajador) calificar la calidad de su experiencia (una estrella es la calificación más baja, cinco estrellas la máxima). Su calificación será el promedio de todas las calificaciones recibidas.
+RF-7. **Calificaciones:** Basado en una escala de cinco estrellas, el sistema permitirá al usuario (cliente o trabajador) calificar la calidad de su experiencia (una estrella es la calificación más baja, cinco estrellas la máxima). Su calificación será el promedio de todas las calificaciones recibidas.
 
-8. **Creación del perfil de cliente:** El sistema creará el perfil del cliente, el cual contendrá: fotografía del usuario, nombre(s) y apellido(s) calificación, correo y número telefónico  (los últimos dos elementos serán únicamente visibles para el cliente). 
+RF-8. **Creación del perfil de cliente:** El sistema creará el perfil del cliente, el cual contendrá: fotografía del usuario, nombre(s) y apellido(s) calificación, correo y número telefónico  (los últimos dos elementos serán únicamente visibles para el cliente). 
 
-9. **Creación del perfil de trabajador:** El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, nombre(s) y apellido(s), oficio, descripción de los trabajos que realiza, zona de trabajo, calificación, comentarios de clientes, número telefónico, correo, número de tarjeta, CVV y fecha de vencimiento de la tarjeta (los últimos cuatro elementos serán únicamente visibles para el trabajador). 
+RF-9. **Creación del perfil de trabajador:** El sistema creará el perfil del trabajador, el cual contendrá: fotografía del usuario, nombre(s) y apellido(s), oficio, descripción de los trabajos que realiza, zona de trabajo, calificación, comentarios de clientes, número telefónico, correo, número de tarjeta, CVV y fecha de vencimiento de la tarjeta (los últimos cuatro elementos serán únicamente visibles para el trabajador). 
  
-10. **Inicio de sesión:**  El usuario podrá iniciar sesión proporcionando el correo con el que se registró la y la contraseña asignada. Al entrar, el sistema solicitará su ubicación. 
+RF-10. **Inicio de sesión:**  El usuario podrá iniciar sesión proporcionando el correo con el que se registró la y la contraseña asignada. Al entrar, el sistema solicitará su ubicación. 
 
-11. **Búsqueda:** El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio, por ejemplo: “mecánico”.
+RF-11. **Búsqueda:** El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio, por ejemplo: “mecánico”.
 
-12. **Filtro:** El sistema filtrará los perfiles de los trabajadores con base a la búsqueda del cliente. Mostrará en pantalla un listado de trabajadores, filtrados con base en en el oficio de búsqueda y ubicación (municipio más cercano al cliente). El listado será al azar en cuanto a calificaciones,
+RF-12. **Filtro:** El sistema filtrará los perfiles de los trabajadores con base a la búsqueda del cliente. Mostrará en pantalla un listado de trabajadores, filtrados con base en en el oficio de búsqueda y ubicación (municipio más cercano al cliente). El listado será al azar en cuanto a calificaciones,
 
-13. **Elección del trabajador:** El cliente podrá seleccionar el trabajador que prefiera de la lista desplegada, visualizar su perfil, elegir activar el chat con el trabajador y contratar su servicio.
+RF-13. **Elección del trabajador:** El cliente podrá seleccionar el trabajador que prefiera de la lista desplegada, visualizar su perfil, elegir activar el chat con el trabajador y contratar su servicio.
 
-14. **Chat:** El sistema contará con una opción de chat, el cual será activado por el cliente, por el medio del cual, trabajador y cliente podrán acordar precios, trabajos específicos, agendar citas y subir imágenes.
+RF-14. **Chat:** El sistema contará con una opción de chat, el cual será activado por el cliente, por el medio del cual, trabajador y cliente podrán acordar precios, trabajos específicos, agendar citas y subir imágenes.
 
-15. **Contratación del servicio:** El sistema mostrará al cliente una opción para contratar el servicio. Cuando el cliente elija esta opción, se hará llegar una notificación al trabajador preguntando si desea o no aceptar el trabajo. La notificación irá acompañada con una opción para visualizar el perfil y la ubicación del cliente. El sistema reconocerá la contratación del servicio cuando el trabajador lo acepte.
+RF-15. **Contratación del servicio:** El sistema mostrará al cliente una opción para contratar el servicio. Cuando el cliente elija esta opción, se hará llegar una notificación al trabajador preguntando si desea o no aceptar el trabajo. La notificación irá acompañada con una opción para visualizar el perfil y la ubicación del cliente. El sistema reconocerá la contratación del servicio cuando el trabajador lo acepte.
 
-16. **Calificación del cliente:** Una vez que se ha contratado el servicio, el sistema mostrará al trabajador un apartado para calificar al cliente.
+RF-16. **Calificación del cliente:** Una vez que se ha contratado el servicio, el sistema mostrará al trabajador un apartado para calificar al cliente.
 
-17. **Finalización del contrato:** Una vez que se ha contratado el servicio, el sistema mostrará al cliente una opción para indicar cuando el trabajo se haya realizado. Al seleccionarla, se mostrará una ventana que le permitirá al cliente calificar al trabajador, levantar un reporte y/o publicar un comentario. 
+RF-17. **Finalización del contrato:** Una vez que se ha contratado el servicio, el sistema mostrará al cliente una opción para indicar cuando el trabajo se haya realizado. Al seleccionarla, se mostrará una ventana que le permitirá al cliente calificar al trabajador, levantar un reporte y/o publicar un comentario. 
 
-18. **Reportes:** Cuando el cliente levante un reporte, el sistema notificará al trabajador. Si el trabajador acumula 5 reportes, su cuenta será cancelada.
+RF-18. **Reportes:** Cuando el cliente levante un reporte, el sistema notificará al trabajador. Si el trabajador acumula 5 reportes, su cuenta será cancelada.
 
-19. **Cancelación del servicio:** Una vez contratado el servicio, el sistema mostrará al cliente y trabajador una opción para cancelarlo. Si el usuario selecciona la opción, el sistema solicitará la razón de la cancelación. Si el usuario realiza 3 cancelaciones consecutivas, su cuenta será cancelada.
+RF-19. **Cancelación del servicio:** Una vez contratado el servicio, el sistema mostrará al cliente y trabajador una opción para cancelarlo. Si el usuario selecciona la opción, el sistema solicitará la razón de la cancelación. Si el usuario realiza 3 cancelaciones consecutivas, su cuenta será cancelada.
 
-20. **Cancelación de la cuenta por parte del trabajador:** El sistema permitirá al usuario la cancelación de su cuenta en cualquier momento.
+RF-20. **Cancelación de la cuenta por parte del trabajador:** El sistema permitirá al usuario la cancelación de su cuenta en cualquier momento.
 
-21. . **Recuperación de contraseña:**  El usuario podrá recuperar su contraseña. El sistema solicitará al usuario un correo al que enviará la contraseña. 
+RF-21. . **Recuperación de contraseña:**  El usuario podrá recuperar su contraseña. El sistema solicitará al usuario un correo al que enviará la contraseña. 
 
-22. **Modificación de perfil:** Como cliente, el usuario podrá modificar nombre(s) y apellido(s) y su fotografía. Como trabajador, el usuario podrá modificar nombre(s) y apellido(s), su fotografía, zona de trabajo, número de tarjeta, CVV y fecha de vencimiento de la tarjeta.
+RF-22. **Modificación de perfil:** Como cliente, el usuario podrá modificar nombre(s) y apellido(s) y su fotografía. Como trabajador, el usuario podrá modificar nombre(s) y apellido(s), su fotografía, zona de trabajo, número de tarjeta, CVV y fecha de vencimiento de la tarjeta.
 
 
 ## Requerimientos no funcionales
 
-23. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 en adelante (por los requisitos que manejaremos y las funciones del sistema).
+RNF-23. Solo funcionará en dispositivos móviles con Android 8 y IOS 11 en adelante (por los requisitos que manejaremos y las funciones del sistema).
 
 24.  El sistema debe asegurarse de que los trabajadores no cometan suplantación de identidad o estafa (solicitando una identificación oficial con fotografía y tomar una fotografía actual del trabajador para tenerla de foto de perfil y verificando que sean la misma persona).
  
@@ -912,5 +912,5 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzY1MzMyNCwtNzUyNjEwNjA2XX0=
+eyJoaXN0b3J5IjpbLTE0NTA5ODIxLC03NTI2MTA2MDZdfQ==
 -->
