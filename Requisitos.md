@@ -550,16 +550,16 @@
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El usuario debe seleccionar el icono de registrarse para comenzar su registro</td> 
+   <td>El usuario debe realizar buscar el servicio que desea obtener</td> 
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>Debe seleccionar en el icono de cliente</td> 
+   <td>Ver entre la lista de trabajadores, seleccionar el perfil del que mejor le parezca y solicitar abrir el chat con el trabajador</td> 
   </tr>
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: Su nombre completo, un correo electrónico y un número de teléfono. Una vez llenado los datos correctos, le da en el botón de "Continuar"</td> 
+   <td>Si es el trabajador le llegarán las solicitudes </td> 
    </tr> 
    </tr> 
   <tr>  
@@ -885,11 +885,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODgyODU4MDIsLTE3MDg1Nzk0MjUsMT
-MyMTk3MDIxOSwtNDA2Nzk2NzIzLC0yMDU2MDkyMDksNTEzNzE3
-Mzc0LDYyMTk2ODU5NywtMTUwOTc4MzE5LC0xMDc3Nzg5NDkyLC
-0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC0xMzc2MDc4MjM0LDc0
-NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYzNzE5NjYsODM4Mzg4Mj
-g5LDEyNjQ1NjMwMiwtMTQ2MjYwOTI4NCwtMTk5MTk2NjA1Niwt
-NjcwODI0MDYxXX0=
+eyJoaXN0b3J5IjpbMTY0NDA4NzQ3LC0xNzA4NTc5NDI1LDEzMj
+E5NzAyMTksLTQwNjc5NjcyMywtMjA1NjA5MjA5LDUxMzcxNzM3
+NCw2MjE5Njg1OTcsLTE1MDk3ODMxOSwtMTA3Nzc4OTQ5MiwtMT
+Y5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNCw3NDUy
+OTk2MDAsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4ODI4OS
+wxMjY0NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYwNTYsLTY3
+MDgyNDA2MV19
 -->
