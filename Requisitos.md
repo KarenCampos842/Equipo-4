@@ -842,12 +842,12 @@
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>Se guardará la fecha de registro y se cobrarán $75 MXN cada mdía de los meses siguientes</td> 
+   <td>Se guardará la fecha de registro y se cobrarán $75 MXN cada mismo día de los meses siguientes.</td> 
   </tr>
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: Su nombre completo, un correo electrónico y un número de teléfono. Una vez llenado los datos correctos, le da en el botón de "Continuar"</td> 
+   <td>Una vez autorizado el pago, le llegará un correo electrónico al trabajador de su pago exitoso, asi como la fecha de su próximo pago.</td> 
    </tr> 
    </tr> 
   <tr>  
@@ -951,11 +951,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY4MjM1NTcsLTE3MDg1Nzk0MjUsMT
-MyMTk3MDIxOSwtNDA2Nzk2NzIzLC0yMDU2MDkyMDksNTEzNzE3
-Mzc0LDYyMTk2ODU5NywtMTUwOTc4MzE5LC0xMDc3Nzg5NDkyLC
-0xNjk4NTU3MTY3LC0xMjcwNDU3MjY3LC0xMzc2MDc4MjM0LDc0
-NTI5OTYwMCwtNTE1MzMyNTM2LC02ODYzNzE5NjYsODM4Mzg4Mj
-g5LDEyNjQ1NjMwMiwtMTQ2MjYwOTI4NCwtMTk5MTk2NjA1Niwt
-NjcwODI0MDYxXX0=
+eyJoaXN0b3J5IjpbMTI3MzUxNTgyNiwtMTcwODU3OTQyNSwxMz
+IxOTcwMjE5LC00MDY3OTY3MjMsLTIwNTYwOTIwOSw1MTM3MTcz
+NzQsNjIxOTY4NTk3LC0xNTA5NzgzMTksLTEwNzc3ODk0OTIsLT
+E2OTg1NTcxNjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1
+Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyOD
+ksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02
+NzA4MjQwNjFdfQ==
 -->
