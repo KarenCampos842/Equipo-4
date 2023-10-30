@@ -595,6 +595,14 @@
  
   ### Casos de uso
   
+- 11 y 12 <br> ![11 y 12](https://github.com/KarenCampos842/Equipo-4/assets/143464988/e8479901-75a9-4e25-bb68-852a1b0eca48)
+
+- 13 <br> ![13](https://github.com/KarenCampos842/Equipo-4/assets/143464988/4b2a3535-dd7f-48b6-89c2-c75229df3c45)
+
+- 14 <br> ![14](https://github.com/KarenCampos842/Equipo-4/assets/143464988/853b608f-4c6a-4f42-912e-6a1db2df0442)
+
+
+
    ### Diagrama de caso de uso
 
    ### Sprint backlog
