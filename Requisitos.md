@@ -559,12 +559,12 @@
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>Si es el trabajador le llegarán las solicitudes </td> 
+   <td>Si es el trabajador le llegarán las solicitudes de mensajes de los clientes y el decide si los acepta o no</td> 
    </tr> 
    </tr> 
   <tr>  
   <td>4</td> 
-   <td> Posteriormente se le mostrarán los términos y condiciones que debe aceptar y dar en continuar para seguir concluir con su registro</td> 
+   <td> Una vez haya sido aceptado por ambos, se abrirá un chat en el que se podrá enviar tanto mensajes de texto, como imágenes por parte del trabajador para mostrar algunos de sus trabajos</td> 
    </tr> 
     </tr> 
   <tr>  
@@ -885,11 +885,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDA4NzQ3LC0xNzA4NTc5NDI1LDEzMj
-E5NzAyMTksLTQwNjc5NjcyMywtMjA1NjA5MjA5LDUxMzcxNzM3
-NCw2MjE5Njg1OTcsLTE1MDk3ODMxOSwtMTA3Nzc4OTQ5MiwtMT
-Y5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNCw3NDUy
-OTk2MDAsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4ODI4OS
-wxMjY0NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYwNTYsLTY3
-MDgyNDA2MV19
+eyJoaXN0b3J5IjpbMTE1MzIzMjQwNiwtMTcwODU3OTQyNSwxMz
+IxOTcwMjE5LC00MDY3OTY3MjMsLTIwNTYwOTIwOSw1MTM3MTcz
+NzQsNjIxOTY4NTk3LC0xNTA5NzgzMTksLTEwNzc3ODk0OTIsLT
+E2OTg1NTcxNjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1
+Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyOD
+ksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02
+NzA4MjQwNjFdfQ==
 -->
