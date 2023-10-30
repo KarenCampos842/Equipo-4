@@ -569,7 +569,7 @@
     </tr> 
   <tr>  
   <td>5</td> 
-   <td> Una vez hayan acordado todos los términos podrán seleccionar "adquirir el servicio" para asi oficializar el contrato, el chat quedará habilitado por cualquier situación .</td> 
+   <td> Una vez hayan acordado todos los términos podrán seleccionar "adquirir el servicio" para asi oficializar el contrato, el chat quedará habilitado por cualquier situación y si no se llega a adquirir el servicio, quedará guardado para futuros servicios o para algún tipo de reporte..</td> 
    
     
 
@@ -578,7 +578,7 @@
   
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">Para poder ser registro válido deberá proporcionar un correo electrónico y un número de celular existentes y no haber sido registrados con anterioridad.
+       <td colspan="2">Para poder abrir el chat este debe ser aceptado por ambos y para ser cerrado, debe ser cerrado por ambos.
        </tr> 
        </td> 
        
@@ -885,11 +885,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDA2ODgzNywtMTcwODU3OTQyNSwxMz
-IxOTcwMjE5LC00MDY3OTY3MjMsLTIwNTYwOTIwOSw1MTM3MTcz
-NzQsNjIxOTY4NTk3LC0xNTA5NzgzMTksLTEwNzc3ODk0OTIsLT
-E2OTg1NTcxNjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1
-Mjk5NjAwLC01MTUzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyOD
-ksMTI2NDU2MzAyLC0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02
-NzA4MjQwNjFdfQ==
+eyJoaXN0b3J5IjpbNDM3NTAwNzcyLC0xNzA4NTc5NDI1LDEzMj
+E5NzAyMTksLTQwNjc5NjcyMywtMjA1NjA5MjA5LDUxMzcxNzM3
+NCw2MjE5Njg1OTcsLTE1MDk3ODMxOSwtMTA3Nzc4OTQ5MiwtMT
+Y5ODU1NzE2NywtMTI3MDQ1NzI2NywtMTM3NjA3ODIzNCw3NDUy
+OTk2MDAsLTUxNTMzMjUzNiwtNjg2MzcxOTY2LDgzODM4ODI4OS
+wxMjY0NTYzMDIsLTE0NjI2MDkyODQsLTE5OTE5NjYwNTYsLTY3
+MDgyNDA2MV19
 -->
