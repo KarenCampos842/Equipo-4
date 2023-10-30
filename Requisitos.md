@@ -825,11 +825,11 @@
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El trabajador deberá de tener al menos 75$ MXN</td> 
+       <td colspan="2">El trabajador deberá de tener al menos $75 MXN en su tarjeta de débito o crédito registrada</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
-       <td colspan="2">El sistema deberá registrar a todo usuario con éxito, siendo rápido y eficiente.</td> 
+       <td colspan="2">El sistema deberá cobrar la membresía de los trabajadores después del mes gratis y después de cada mes hasta su cancelación</td> 
    </tr> 
      <tr>  
       <td rowspan="9"><b>Secuencia normal</b></td>
@@ -838,7 +838,7 @@
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El usuario debe seleccionar el icono de registrarse para comenzar su registro</td> 
+   <td>El </td> 
   </tr>     
   <tr>  
   <td>2</td> 
@@ -951,7 +951,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjg1ODM5MywtMTcwODU3OTQyNSwxMz
+eyJoaXN0b3J5IjpbLTgyMTczOTc1NywtMTcwODU3OTQyNSwxMz
 IxOTcwMjE5LC00MDY3OTY3MjMsLTIwNTYwOTIwOSw1MTM3MTcz
 NzQsNjIxOTY4NTk3LC0xNTA5NzgzMTksLTEwNzc3ODk0OTIsLT
 E2OTg1NTcxNjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1
