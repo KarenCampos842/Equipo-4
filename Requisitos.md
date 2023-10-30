@@ -166,7 +166,7 @@
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: </td> 
+   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: Su nombre completo, un correo electrónico y un número de teléfono</td> 
    </tr> 
   
   
@@ -705,11 +705,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 ## Artefactos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzc4MTA3OSw1MTM3MTczNzQsNjIxOT
-Y4NTk3LC0xNTA5NzgzMTksLTEwNzc3ODk0OTIsLTE2OTg1NTcx
-NjcsLTEyNzA0NTcyNjcsLTEzNzYwNzgyMzQsNzQ1Mjk5NjAwLC
-01MTUzMzI1MzYsLTY4NjM3MTk2Niw4MzgzODgyODksMTI2NDU2
-MzAyLC0xNDYyNjA5Mjg0LC0xOTkxOTY2MDU2LC02NzA4MjQwNj
-EsNDQ5Mzk1MzM2LC0xNDQ1MzI5OTE0LC03NTU0MDMwNjksLTIw
-ODI5NzU2NTBdfQ==
+eyJoaXN0b3J5IjpbLTExMjAwOTI1MjUsNTEzNzE3Mzc0LDYyMT
+k2ODU5NywtMTUwOTc4MzE5LC0xMDc3Nzg5NDkyLC0xNjk4NTU3
+MTY3LC0xMjcwNDU3MjY3LC0xMzc2MDc4MjM0LDc0NTI5OTYwMC
+wtNTE1MzMyNTM2LC02ODYzNzE5NjYsODM4Mzg4Mjg5LDEyNjQ1
+NjMwMiwtMTQ2MjYwOTI4NCwtMTk5MTk2NjA1NiwtNjcwODI0MD
+YxLDQ0OTM5NTMzNiwtMTQ0NTMyOTkxNCwtNzU1NDAzMDY5LC0y
+MDgyOTc1NjUwXX0=
 -->
