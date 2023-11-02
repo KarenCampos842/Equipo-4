@@ -911,3 +911,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc1MjYxMDYwNl19
+-->
