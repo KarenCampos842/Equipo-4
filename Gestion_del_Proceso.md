@@ -14,8 +14,10 @@ Fecha límite: 28/10/2023
 **Lunes 29 de octubre de 2023** <br> 
 Durante la reunión Hansony y Moisés manifestaron tener problemas para realizar los casos de uso. Karen acordó ayudarles con los problemas que estaban teniendo. 
 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#artefactos">Requisitos.md</a>, (historias de usuario).
+Productos: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">casos de uso</a>.
 
+Fecha límite: 31/10/2023
 
 ## Sprint Backlog
 Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
@@ -223,9 +225,9 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3OTMwNTczLC0xNzg0NDg0NDEzLC05Nz
-E4NTQyMjQsLTE0MjI3NjQ1MDIsNjI2Njk3MDI2LDQxMjUyOTE1
-MCwxNjE0NjczMDIxLDk5NDczNjcxNCwxMTkxMzg4MTkzLC0zNj
-IyMzE0MjgsLTc3MDQwODA5NiwtMTU3NzY0NDk4NiwxNjc0NTQ1
-NTgyLC0xNjAzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
+eyJoaXN0b3J5IjpbMjA2OTY2MzQyMiwtMTc4NDQ4NDQxMywtOT
+cxODU0MjI0LC0xNDIyNzY0NTAyLDYyNjY5NzAyNiw0MTI1Mjkx
+NTAsMTYxNDY3MzAyMSw5OTQ3MzY3MTQsMTE5MTM4ODE5MywtMz
+YyMjMxNDI4LC03NzA0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0
+NTU4MiwtMTYwMzA5MjQyNCwtMTQyOTE3NzYyMF19
 -->
