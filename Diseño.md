@@ -6,8 +6,8 @@
 ## Correspondencia con los Requisitos 
 ## Validación de Interfaces
 
-Durante la reunión con el profesor Luis Bastos ("cliente"), se 
+Algunos comentarios del "cliente" (Luis Bastos) respecto las interfaces, fueron
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4NTYzNjA5LC0xODMwNjMyMTY0XX0=
+eyJoaXN0b3J5IjpbLTg1ODEzMTA2NiwtMTgzMDYzMjE2NF19
 -->
