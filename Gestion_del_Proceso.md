@@ -29,7 +29,7 @@ Productos:
 Fecha límite: 30/10/2023
 
 **Viernes 3 de noviembre de 2023** <br> 
-Durante la reunión, Asaf manifestó haber tenido problemas para realizar sus actividades. Por causa de fuerza mayor se realizó una reestructuración en las actividades. Asignando a Brandon la actividad de " 
+Durante la reunión, Asaf manifestó haber tenido problemas para realizar sus actividades, entre ellas la "Evolución del producto" . Por causa de fuerza mayor se realizó una reestructuración y se asignó a Brandon actividad de "Evolución del producto".
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">casos de uso</a>.
 
 Productos: 
@@ -243,7 +243,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTMwNTIzMSwtMTc4NDQ4NDQxMywtOT
+eyJoaXN0b3J5IjpbLTcyNjA1NjAyNiwtMTc4NDQ4NDQxMywtOT
 cxODU0MjI0LC0xNDIyNzY0NTAyLDYyNjY5NzAyNiw0MTI1Mjkx
 NTAsMTYxNDY3MzAyMSw5OTQ3MzY3MTQsMTE5MTM4ODE5MywtMz
 YyMjMxNDI4LC03NzA0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0
