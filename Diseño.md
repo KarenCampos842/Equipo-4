@@ -8,9 +8,9 @@
 
 Algunos comentarios del "cliente" (Luis Bastos) respecto las interfaces, fueron los siguientes: 
 Elección de colores: aprobada.
-Distribución de componentes: en general bien, excepto la ventana del log in. La corrección que se hizo fue cam
+Distribución de componentes: en general bien, excepto la ventana del log in. La corrección que se hizo fue cambiar la presentación de la opción para registrarse a la aplicación de botón a enlace. 
+Estándar: Las dimensiones de los componentes, márgenes, espacios no estaban den
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODIxMDc1ODQsLTE4MzA2MzIxNjRdfQ
-==
+eyJoaXN0b3J5IjpbMTAzMzkzNDExNSwtMTgzMDYzMjE2NF19
 -->
