@@ -12,7 +12,7 @@ Productos:
 Fecha límite: 28/10/2023
 
 **Lunes 29 de octubre de 2023** <br> 
-Durante la reunión Hansony y Moisés manifestaron tener problemas para realizar los casos de uso. Karen acordó ayudarles con los problemas que estaban teniendo. 
+Durante la reunión Hansony y Moisés manifestaron tener problemas para realizar los casos de uso (dudas sobre el formato). Karen acordó ayudarles con los problemas que estaban teniendo. 
 
 Productos: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">casos de uso</a>.
@@ -21,12 +21,21 @@ Fecha límite: 30/10/2023
 
 **Martes 30 de octubre de 2023** <br> 
 Durante la reunión Carlos manifestó tener problemas realizando las excepciones de los casos de uso,  Karen acordó ayudarle con los problemas que estaba teniendo. 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">casos de uso</a>.
 
 Productos: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">casos de uso</a>.
 
 Fecha límite: 30/10/2023
 
+**Viernes 3 de noviem de 2023** <br> 
+Durante la reunión Carlos manifestó tener problemas realizando las excepciones de los casos de uso,  Karen acordó ayudarle con los problemas que estaba teniendo. 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">casos de uso</a>.
+
+Productos: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">casos de uso</a>.
+
+Fecha límite: 30/10/2023
 
 ## Sprint Backlog
 Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
@@ -234,9 +243,9 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc1MDY3MjIsLTE3ODQ0ODQ0MTMsLT
-k3MTg1NDIyNCwtMTQyMjc2NDUwMiw2MjY2OTcwMjYsNDEyNTI5
-MTUwLDE2MTQ2NzMwMjEsOTk0NzM2NzE0LDExOTEzODgxOTMsLT
-M2MjIzMTQyOCwtNzcwNDA4MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1
-NDU1ODIsLTE2MDMwOTI0MjQsLTE0MjkxNzc2MjBdfQ==
+eyJoaXN0b3J5IjpbLTU2NjIyNzA2NSwtMTc4NDQ4NDQxMywtOT
+cxODU0MjI0LC0xNDIyNzY0NTAyLDYyNjY5NzAyNiw0MTI1Mjkx
+NTAsMTYxNDY3MzAyMSw5OTQ3MzY3MTQsMTE5MTM4ODE5MywtMz
+YyMjMxNDI4LC03NzA0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0
+NTU4MiwtMTYwMzA5MjQyNCwtMTQyOTE3NzYyMF19
 -->
