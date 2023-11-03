@@ -591,15 +591,139 @@
                 </li>
                  <li>Comprobar que existe texto antes y después de @ para el correo.</li>
                  <li>Comprobar que se ha enviado la contraseña al correo proporcionado.</li>
- </table>      
- 
+
+  </tr>   
+ </table>   
   ### Casos de uso
+
+  <table align=center>  
+   <tr>
+     <th>CU-01</th>  
+      <th colspan="2">Búsqueda y filtro </th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (29/10/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El cliente se ha registrado como cliente. </td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema mostrará al cliente una barra de <br>
+        búsqueda en la que podrá ingresar un oficio y filtrará las <br>
+        opciones con criterios de calificación y ubicació</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="5"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td>
+        <td><b>Acción</b></td> 
+    </tr> 
+
+     
+  <tr>  
+    <td>1</td> 
+     <td>El cliente ingresa el nombre de un oficio </td> 
+  </tr>  
   
+  <tr>  
+  <td>2</td> 
+   <td>El sistema despliega una lista de oficios </td> 
+  </tr>
+  
+ <tr>  
+  <td>3</td> 
+   <td>El cliente selecciona el trabajo que desea contratar</td> 
+  </tr>  
+  
+ <tr>  
+  <td>3</td> 
+   <td>El sistema organiza los resultados de búsqueda y crea una <br> lista de trabajadores con algunos de sus datos</td> 
+  </tr>  
+
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">El usuario es libre de seleccionar con quien quiere trabajar </td> 
+   </tr> 
+     <tr>  
+      <td rowspan="2"><b>Excepciones</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td>  
+    </tr> 
+  <tr>  
+  <td rowspan="3"> </td> 
+   
+  <td > </td>
+ 
+  </tr>   
+ </table>   
+
+
+
+
+ 
+
+  <table align=center>  
+   <tr>
+     <th>CU-01</th>  
+      <th colspan="2">Elección de trabajador </th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (29/10/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El usuario ha realizado una búsqueda  </td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El cliente podrá seleccionar el trabajador que prefiera de la lista desplegada, visualizar su perfil, elegir activar el chat con el trabajador y contratar su servicio. </td> 
+   </tr> 
+     <tr>  
+      <td rowspan="3"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td>
+        <td><b>Acción</b></td> 
+    </tr> 
+
+     
+  <tr>  
+    <td>1</td> 
+     <td>El cliente selecciona un trabajador  </td> 
+  </tr>  
+  
+  <tr>  
+  <td>2</td> 
+   <td>EEl sistema abre el perfil del trabajador y despliegan las opciones de chat y contratar servicio  </td> 
+  </tr>
+
+
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">El trabajador y el usuario se ponen en contacto </td> 
+   </tr> 
+     <tr>  
+      <td rowspan="2"><b>Excepciones</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td>  
+    </tr> 
+  <tr>  
+  <td rowspan="3"> </td> 
+   
+  <td > </td>
+ 
+  </tr>   
+ </table>   
+
+
 - 11 y 12 <br> ![11 y 12](https://github.com/KarenCampos842/Equipo-4/assets/143464988/e8479901-75a9-4e25-bb68-852a1b0eca48)
 
 - 13 <br> ![13](https://github.com/KarenCampos842/Equipo-4/assets/143464988/4b2a3535-dd7f-48b6-89c2-c75229df3c45)
 
 - 14 <br> ![14](https://github.com/KarenCampos842/Equipo-4/assets/143464988/853b608f-4c6a-4f42-912e-6a1db2df0442)
+
+
 
 
 
