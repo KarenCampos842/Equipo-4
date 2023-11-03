@@ -11,6 +11,7 @@ Productos:
 
 Fecha límite: 28/10/2023
 
+**Viernes 27 de septiembre de 2023 (Sprint planning meeting)**<br> 
 
 ## Sprint Backlog
 Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
@@ -218,9 +219,9 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTg1NDIyNCwtMTQyMjc2NDUwMiw2Mj
-Y2OTcwMjYsNDEyNTI5MTUwLDE2MTQ2NzMwMjEsOTk0NzM2NzE0
-LDExOTEzODgxOTMsLTM2MjIzMTQyOCwtNzcwNDA4MDk2LC0xNT
-c3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMwOTI0MjQsLTE0Mjkx
-Nzc2MjBdfQ==
+eyJoaXN0b3J5IjpbLTIwNzc3OTIwODksLTk3MTg1NDIyNCwtMT
+QyMjc2NDUwMiw2MjY2OTcwMjYsNDEyNTI5MTUwLDE2MTQ2NzMw
+MjEsOTk0NzM2NzE0LDExOTEzODgxOTMsLTM2MjIzMTQyOCwtNz
+cwNDA4MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMw
+OTI0MjQsLTE0MjkxNzc2MjBdfQ==
 -->
