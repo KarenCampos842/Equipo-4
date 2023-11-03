@@ -7,7 +7,7 @@
 Karen acordó elaborar dichos elementos, además de escribir las historias de usuario comentadas durante la reunión. 
 
 Productos: 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#artefactos">Requisitos.md</a>, (historias de usuario).
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#artefactos">historias de usuario</a>.
 
 Fecha límite: 28/10/2023
 
@@ -17,7 +17,16 @@ Durante la reunión Hansony y Moisés manifestaron tener problemas para realizar
 Productos: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">casos de uso</a>.
 
-Fecha límite: 31/10/2023
+Fecha límite: 30/10/2023
+
+**Martes 30 de octubre de 2023** <br> 
+Durante la reunión Carlos  tener problemas para realizar los casos de uso. Karen acordó ayudarles con los problemas que estaban teniendo. 
+
+Productos: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">casos de uso</a>.
+
+Fecha límite: 30/10/2023
+
 
 ## Sprint Backlog
 Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
@@ -225,7 +234,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTY2MzQyMiwtMTc4NDQ4NDQxMywtOT
+eyJoaXN0b3J5IjpbLTgyNzEwODI1MywtMTc4NDQ4NDQxMywtOT
 cxODU0MjI0LC0xNDIyNzY0NTAyLDYyNjY5NzAyNiw0MTI1Mjkx
 NTAsMTYxNDY3MzAyMSw5OTQ3MzY3MTQsMTE5MTM4ODE5MywtMz
 YyMjMxNDI4LC03NzA0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0
