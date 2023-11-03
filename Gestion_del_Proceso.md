@@ -33,7 +33,7 @@ Durante la reunión, Asaf manifestó haber tenido problemas para realizar sus ac
 Productos: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">casos de uso</a>.
 
-Fecha límite: 30/10/2023
+Fecha límite: 3/11/2023
 
 ## Sprint Backlog
 Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
@@ -241,7 +241,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTQ1NTg3OCwtMTc4NDQ4NDQxMywtOT
+eyJoaXN0b3J5IjpbMTk3NDc2OTk3NSwtMTc4NDQ4NDQxMywtOT
 cxODU0MjI0LC0xNDIyNzY0NTAyLDYyNjY5NzAyNiw0MTI1Mjkx
 NTAsMTYxNDY3MzAyMSw5OTQ3MzY3MTQsMTE5MTM4ODE5MywtMz
 YyMjMxNDI4LC03NzA0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0
