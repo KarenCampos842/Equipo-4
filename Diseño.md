@@ -6,8 +6,11 @@
 ## Correspondencia con los Requisitos 
 ## Validación de Interfaces
 
-Algunos comentarios del "cliente" (Luis Bastos) respecto las interfaces, fueron
+Algunos comentarios del "cliente" (Luis Bastos) respecto las interfaces, fueron los siguientes: 
+Elección de colores (aprobada)
+Distribución de componentes (en general bien, e
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODEzMTA2NiwtMTgzMDYzMjE2NF19
+eyJoaXN0b3J5IjpbLTE1NzQyMDEzMDAsLTE4MzA2MzIxNjRdfQ
+==
 -->
