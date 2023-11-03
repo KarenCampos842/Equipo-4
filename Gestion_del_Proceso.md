@@ -1,9 +1,9 @@
 ﻿<center><h1>Gestión del Proceso</h1></center>
 
 ## Bitácora
-**Miércoles 18 de septiembre de 2023 (Retrospective)**<br> Durante la reunión se realizó un análisis del desempeño del equipo durante el último sprint. Como resultado hubo un cambio de líder (de Moisés a Karen), debido a problemas de organización. 
+**Miércoles 18 de octubre de 2023 (Retrospective)**<br> Durante la reunión se realizó un análisis del desempeño del equipo durante el último sprint. Como resultado hubo un cambio de líder (de Moisés a Karen), debido a problemas de organización. 
 
-**Viernes 27 de septiembre de 2023 (Sprint planning meeting)**<br> Durante la reunión se habló sobre las historias de usuario y se definieron las actividades para el segundo sprint, las cuales quedan detalladas en el archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> y en el apartado de <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#sprint-backlog">Sprint Backlog</a> del archivo "Gestión_del_Proceso". 
+**Viernes 27 de octubre de 2023 (Sprint planning meeting)**<br> Durante la reunión se habló sobre las historias de usuario y se definieron las actividades para el segundo sprint, las cuales quedan detalladas en el archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> y en el apartado de <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#sprint-backlog">Sprint Backlog</a> del archivo "Gestión_del_Proceso". 
 Karen acordó elaborar dichos elementos, además de escribir las historias de usuario comentadas durante la reunión. 
 
 Productos: 
@@ -11,7 +11,7 @@ Productos:
 
 Fecha límite: 28/10/2023
 
-**Viernes 27 de septiembre de 2023 (Sprint planning meeting)**<br> 
+**Viernes 27 de octubre de 2023 (Sprint planning meeting)**<br> 
 
 ## Sprint Backlog
 Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
@@ -219,9 +219,9 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzc3OTIwODksLTk3MTg1NDIyNCwtMT
-QyMjc2NDUwMiw2MjY2OTcwMjYsNDEyNTI5MTUwLDE2MTQ2NzMw
-MjEsOTk0NzM2NzE0LDExOTEzODgxOTMsLTM2MjIzMTQyOCwtNz
-cwNDA4MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMw
-OTI0MjQsLTE0MjkxNzc2MjBdfQ==
+eyJoaXN0b3J5IjpbLTYzNjc5NDQ3MywtOTcxODU0MjI0LC0xND
+IyNzY0NTAyLDYyNjY5NzAyNiw0MTI1MjkxNTAsMTYxNDY3MzAy
+MSw5OTQ3MzY3MTQsMTE5MTM4ODE5MywtMzYyMjMxNDI4LC03Nz
+A0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0NTU4MiwtMTYwMzA5
+MjQyNCwtMTQyOTE3NzYyMF19
 -->
