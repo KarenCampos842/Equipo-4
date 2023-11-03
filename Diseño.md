@@ -3,8 +3,8 @@
 
 
 ## Bosquejos de Interfaces 
+<a href="https://www.figma.com/file/dKpr0w4UBgbIhd1HJx5kLn/Bosquejos-de-interfaces-(WorkFlash)?type=design&node-id=54702%3A25212&mode=design&t=HFZIp5n8WLzdbYrO-1">Abrir en Figma</a>
 
-<a href="https://www.figma.com/file/dKpr0w4UBgbIhd1HJx5kLn/Bosquejos-de-interfaces-(WorkFlash)?type=design&node-id=54702%3A25212&mode=design&t=HFZIp5n8WLzdbYrO-1">Referencia</a>
 ## Correspondencia con los Requisitos 
 ## Validación de Interfaces
 
@@ -17,6 +17,6 @@ Algunos comentarios del "cliente" (Luis Bastos) respecto las
  - Estándar: Las dimensiones de los componentes, márgenes, espacios no seguían un estándar. Se realizaron las correcciones para ir con el estándar de Google.
 <a href="https://m3.material.io/">Referencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjI2MTcwMCwxNTAxNDgyMTkwLC0xOD
+eyJoaXN0b3J5IjpbMTc0MzQ4MjUzMSwxNTAxNDgyMTkwLC0xOD
 MwNjMyMTY0XX0=
 -->
