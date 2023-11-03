@@ -31,7 +31,8 @@ Fecha límite: 30/10/2023
 Durante la reunión, Asaf manifestó haber tenido problemas para realizar sus actividades, entre ellas la "Evolución del producto" . Por causa de fuerza mayor se realizó una reestructuración y se asignó a Brandon dicha actividad. Por otra parte, Karen acordó reunirse con Moisés para aclarar dudas sobre la elaboración del video. 
 
 Productos: 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">casos de uso</a>.
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Metrica_de_Contribucion.md">Metrica_de_Contribucion.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Lista_de_cotejo.md">Lista_de_cotejo.md</a>.
+ 
 
 Fecha límite: 3/11/2023
 
@@ -241,9 +242,10 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDc2OTk3NSwtMTc4NDQ4NDQxMywtOT
-cxODU0MjI0LC0xNDIyNzY0NTAyLDYyNjY5NzAyNiw0MTI1Mjkx
-NTAsMTYxNDY3MzAyMSw5OTQ3MzY3MTQsMTE5MTM4ODE5MywtMz
-YyMjMxNDI4LC03NzA0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0
-NTU4MiwtMTYwMzA5MjQyNCwtMTQyOTE3NzYyMF19
+eyJoaXN0b3J5IjpbLTg4MzcxODg2LDE5NzQ3Njk5NzUsLTE3OD
+Q0ODQ0MTMsLTk3MTg1NDIyNCwtMTQyMjc2NDUwMiw2MjY2OTcw
+MjYsNDEyNTI5MTUwLDE2MTQ2NzMwMjEsOTk0NzM2NzE0LDExOT
+EzODgxOTMsLTM2MjIzMTQyOCwtNzcwNDA4MDk2LC0xNTc3NjQ0
+OTg2LDE2NzQ1NDU1ODIsLTE2MDMwOTI0MjQsLTE0MjkxNzc2Mj
+BdfQ==
 -->
