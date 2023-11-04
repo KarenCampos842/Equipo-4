@@ -999,7 +999,8 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
      <tr>  
    <td>
 
-- Solo se le permite al usuario enviar el enlace de restablecimiento de co
+- Solo se le permite al usuario enviar el enlace de restablecimiento de contraseña a un correo electrónico, que será aquel con el que intente el inicio de sesión.
+- Si el correo electrónico al que se le intenta enviar el enlace de restablecimiento de contraseña no existe en la base de datos como previamente registrado, se le avisará al usuario q
  
  </table>
  
@@ -1013,7 +1014,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzc2MTEwODgsNzY3NDgwNzksMTUwMz
-IyMzI3LDE4OTk2NTY2NDUsLTM0Njg1OTQ0LC0yODcxNjY3Mzks
-MTg0MjMyNzI5XX0=
+eyJoaXN0b3J5IjpbMTYxMDc3MjE3Nyw3Njc0ODA3OSwxNTAzMj
+IzMjcsMTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwx
+ODQyMzI3MjldfQ==
 -->
