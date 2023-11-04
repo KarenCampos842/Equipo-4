@@ -971,12 +971,12 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>Se le pedirá al usuario ingresar al enlace enviado a su bandeja de e</td> 
+   <td>Se le pedirá al usuario ingresar al enlace enviado a su bandeja de entrada para poder cambiar su contraseña.</td> 
    </tr> 
    </tr> 
   <tr>  
   <td>4</td> 
-   <td> Posteriormente se le llevará a una ventana en la que deberá elegir una opción de identificación oficial como: Cartilla milita o INE. Subir una foto o un archivo de la seleccionada o poder tomar una foto al momento de la identificación </td> 
+   <td>Después de  al enlace enviado a su correo electrónico el usuario será redirigido a una ventana en donde podrá crear una nueva contraseña.</td> 
    </tr> 
     </tr> 
   <tr>  
@@ -1027,7 +1027,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTc4NTE2Nyw3Njc0ODA3OSwxNTAzMj
-IzMjcsMTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwx
-ODQyMzI3MjldfQ==
+eyJoaXN0b3J5IjpbLTE5NjIxODQ5NjUsNzY3NDgwNzksMTUwMz
+IyMzI3LDE4OTk2NTY2NDUsLTM0Njg1OTQ0LC0yODcxNjY3Mzks
+MTg0MjMyNzI5XX0=
 -->
