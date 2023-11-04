@@ -745,13 +745,13 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
     </tr> 
   <tr>  
-  <td>5</td> 
+  <td> 
    <td>El usuario presiona confirmar y regresa a su perfil.</td> 
    </tr> 
     </tr> 
   <tr>  
-  <td>6</td> 
-   <td>El usuario observa su correo electrónico y calificación debajo de la imagen de perfil.</td> 
+  <td>
+   <td>
 </tr> 
   <tr>  
       <td><b>Postcondición</b></td>  
@@ -1125,7 +1125,8 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTUxOTU3MywxNjUxODA0OTI0LC03Nz
-c4NjY5NjUsNzY3NDgwNzksMTUwMzIyMzI3LDE4OTk2NTY2NDUs
-LTM0Njg1OTQ0LC0yODcxNjY3MzksMTg0MjMyNzI5XX0=
+eyJoaXN0b3J5IjpbMTk0NTEyOTE4MiwtNzI1NTE5NTczLDE2NT
+E4MDQ5MjQsLTc3Nzg2Njk2NSw3Njc0ODA3OSwxNTAzMjIzMjcs
+MTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwxODQyMz
+I3MjldfQ==
 -->
