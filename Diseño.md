@@ -11,11 +11,11 @@
 
 **Aplicación desde la vista del cliente:** Requisitos funcionales: 6, 7, 8, 11, 12, 13, 14, 15, 17, 18, 19, 21, 22.
 
-**Aplicación desde la vista del trabajador:** Requisitos funcionales: 4, 7, 9, 14, 15, 16
+**Aplicación desde la vista del trabajador:** Requisitos funcionales: 4, 7, 9, 14, 15, 16, 18, 19, 20, 21, 22.
 ##
 ## Validación de Interfaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTUzOTE1NTMsLTExNDgzMzYxNDksOD
-UwMDc0MjMwLC0xODMwNjMyMTY0XX0=
+eyJoaXN0b3J5IjpbNjI5NDg4NDczLC0xMTQ4MzM2MTQ5LDg1MD
+A3NDIzMCwtMTgzMDYzMjE2NF19
 -->
