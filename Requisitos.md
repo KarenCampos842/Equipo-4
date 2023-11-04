@@ -646,7 +646,9 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
      <tr>  
       <td rowspan="4"><b>Excepciones</b></td>
      <tr>  
-   <td>- Si la identificación oficial y la fotografia no coinciden no podrá proceder el registro.
+   <td>
+
+- Si la identificación oficial y la fotografía no coinciden no podrá proceder el registro.
  - Si la tarjeta no contiene fondos suficientes, tendrá que ingresar otra o meterle fondos a la tarjeta.
  - Si el correo o el número de teléfono ya están registrados en el sistema no se podrá proceder.
  - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
@@ -958,6 +960,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Njk1Mzk0NywtMzQ2ODU5NDQsLTI4Nz
+eyJoaXN0b3J5IjpbMTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4Nz
 E2NjczOSwxODQyMzI3MjldfQ==
 -->
