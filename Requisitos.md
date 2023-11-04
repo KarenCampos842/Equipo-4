@@ -967,7 +967,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td> 1 </td>
-<td>El sistema no cuenta con el oficio buscado. El sistema notifica al usuario que no </td>
+<td>El sistema notifica al usuario que no encuentra el oficio buscado cuando éste no se encuentra en la base de datos. </td>
 </tr>
 </table>
 
@@ -1206,6 +1206,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzQ2MjM4MywtMTY2MzA0MDY2MSwtMj
-EzMzgxMzY1OV19
+eyJoaXN0b3J5IjpbLTE4ODQyOTc3MjYsLTE2NjMwNDA2NjEsLT
+IxMzM4MTM2NTldfQ==
 -->
