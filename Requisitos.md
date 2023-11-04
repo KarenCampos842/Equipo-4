@@ -90,8 +90,8 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 ### Product Backlog
 | Orden| # Historia de usuario | 
 |---------|---------|---------|---------|
-|1|6, 7, 16, 17, 20, 28, 30, 32
-|2|
+|1| 2
+|2| 1
 |4|
 |5|
 |6|
@@ -1220,6 +1220,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDE3ODY1NywtMzYzMjUyMjc3LC0zOD
-kxOTUyNzBdfQ==
+eyJoaXN0b3J5IjpbLTE2MTg0OTY0NjQsLTM2MzI1MjI3NywtMz
+g5MTk1MjcwXX0=
 -->
