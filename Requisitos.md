@@ -966,7 +966,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>Debe seleccionar en el icono de trabajador</td> 
+   <td>El usuario deberá confirmar si su correo electrónico</td> 
   </tr>
   </tr> 
   <tr>  
@@ -1027,7 +1027,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM2MTc3MzEsNzY3NDgwNzksMTUwMz
-IyMzI3LDE4OTk2NTY2NDUsLTM0Njg1OTQ0LC0yODcxNjY3Mzks
-MTg0MjMyNzI5XX0=
+eyJoaXN0b3J5IjpbLTg4Mjk3Nzc5Niw3Njc0ODA3OSwxNTAzMj
+IzMjcsMTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwx
+ODQyMzI3MjldfQ==
 -->
