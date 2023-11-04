@@ -815,6 +815,14 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <td>8</td> 
    <td>El usuario presiona el botón de zona de trabajo, presiona en editar zona de trabajo, ingresa una nueva dirección y le da a confirmar.</td> 
    </tr> 
+  <tr>
+  <td>9</td> 
+   <td>El usuario presiona el botón de zona de trabajo, presiona en editar zona de trabajo, ingresa una nueva dirección y le da a confirmar.</td> 
+   </tr> 
+  <tr>
+<td>10</td> 
+   <td>El usuario presiona el botón de zona de trabajo, presiona en editar zona de trabajo, ingresa una nueva dirección y le da a confirmar.</td> 
+   </tr> 
   <tr>  
       <td><b>Postcondición</b></td>  
        <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real
@@ -826,7 +834,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
      <tr>  
    <td>
 
-- El usuario no podrá editar ni el correo, ni su nombre de usuario, ni su 
+- El usuario no podrá editar ni el correo, ni su nombre de usuario, ni su oficio.
 - El usuario no puede cambiar su imagen de perfil múltiples veces.
  </table>
  
@@ -1187,8 +1195,8 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4NDY0MDU5LC03MjU1MTk1NzMsMTY1MT
-gwNDkyNCwtNzc3ODY2OTY1LDc2NzQ4MDc5LDE1MDMyMjMyNywx
-ODk5NjU2NjQ1LC0zNDY4NTk0NCwtMjg3MTY2NzM5LDE4NDIzMj
-cyOV19
+eyJoaXN0b3J5IjpbLTIwNTE0NTYzODYsLTcyNTUxOTU3MywxNj
+UxODA0OTI0LC03Nzc4NjY5NjUsNzY3NDgwNzksMTUwMzIyMzI3
+LDE4OTk2NTY2NDUsLTM0Njg1OTQ0LC0yODcxNjY3MzksMTg0Mj
+MyNzI5XX0=
 -->
