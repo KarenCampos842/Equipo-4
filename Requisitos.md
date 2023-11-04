@@ -637,26 +637,16 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <td>8</td> 
    <td>Le aparecerán los términos y condiciones que el trabajador deberá leer y aceptar para poder concluir su registro, posteriormente le saldrá una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionados.</td> 
    </tr> 
-    
-
-  
-  
-  
   <tr>  
       <td><b>Postcondición</b></td>  
        <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real
        </tr> 
        </td> 
-       
-   </tr> 
+    </tr> 
      <tr>  
       <td rowspan="4"><b>Excepciones</b></td>
-   
-  <tr>  
-  
-   <td>
-
- - Si la identificación oficial y la fotografia no coinciden no podrá proceder el registro.
+     <tr>  
+   <td>- Si la identificación oficial y la fotografia no coinciden no podrá proceder el registro.
  - Si la tarjeta no contiene fondos suficientes, tendrá que ingresar otra o meterle fondos a la tarjeta.
  - Si el correo o el número de teléfono ya están registrados en el sistema no se podrá proceder.
  - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
@@ -968,6 +958,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzYzODY4NTcsLTM0Njg1OTQ0LC0yOD
-cxNjY3MzksMTg0MjMyNzI5XX0=
+eyJoaXN0b3J5IjpbLTY3Njk1Mzk0NywtMzQ2ODU5NDQsLTI4Nz
+E2NjczOSwxODQyMzI3MjldfQ==
 -->
