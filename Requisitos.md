@@ -836,10 +836,9 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">El usuario no podrá modíficar la información de su perfil consecutivamente por más de 2 veces.
+       <td colspan="2">El usuario no podrá modíficar la información de su perfil consecutivamente por más de 2 veces.  </td> 
        </tr> 
-       </td> 
-    </tr> 
+      </tr> 
      <tr>  
       <td rowspan="4"><b>Excepciones</b></td>
      <tr>  
@@ -1215,8 +1214,8 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzU3MDYxMSw5NjYyODU3NDksNzg4Mj
-E3MTcwLC03MjU1MTk1NzMsMTY1MTgwNDkyNCwtNzc3ODY2OTY1
-LDc2NzQ4MDc5LDE1MDMyMjMyNywxODk5NjU2NjQ1LC0zNDY4NT
-k0NCwtMjg3MTY2NzM5LDE4NDIzMjcyOV19
+eyJoaXN0b3J5IjpbLTMyODA2OTMsOTY2Mjg1NzQ5LDc4ODIxNz
+E3MCwtNzI1NTE5NTczLDE2NTE4MDQ5MjQsLTc3Nzg2Njk2NSw3
+Njc0ODA3OSwxNTAzMjIzMjcsMTg5OTY1NjY0NSwtMzQ2ODU5ND
+QsLTI4NzE2NjczOSwxODQyMzI3MjldfQ==
 -->
