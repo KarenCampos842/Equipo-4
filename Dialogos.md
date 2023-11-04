@@ -31,9 +31,10 @@ Workflash consiste en una aplicación móvil que sirve de intermediaria entre cl
 Esta aplicación es una alternativa a todas las demás plataformas que ofrecen funciones similares porque la gran mayoría de ellas no tienen una manera óptima de asegurar la seguridad de los acuerdos, tal como AyFix, uno de nuestros principales competidores, mientras que Workflash, tiene como objetivo garantizar la mejor experiencia para los usuarios mediante la validación de los proveedores de servicios por medio de su documentación oficial. Además, tanto los proveedores de servicios, como los clientes pueden hacer uso de un sistema de reportes en caso de que lo necesiten y solo se considera como un contrato activo aquellos que hayan sido emitidos por un cliente y aceptados por el trabajador, si uno de ellos falla, podrá ser reportado.
 
 Nuestra plataforma garantiza la seguridad tanto de los usuarios como de los trabajadores y mantiene un estándar de calidad en los servicios que hacen que la aplicación sea una mejor opción ante la competencia que, entre muchas cosas, no están al tanto de las quejas de sus usuarios, lo que se puede notar en las reseñas que tienen en las tiendas de aplicaciones.
-<h1>PRODUCTO</h1>
+<h1>PRODUCTODiálogos</h1>
 
-## Evolución del producto
+## 
+Evolución del producto
 
 Workflash es una aplicación que ofrece a los yucatecos una alternativa fácil y confiable con la que pueden encontrar perfiles de personas dedicadas a trabajos y oficios en general, ponerse en contacto con ellas y contratarlas. Al mismo tiempo, los trabajadores pueden promocionarse, resaltar su experiencia y crear una buena reputación para conseguir más contratos y también mejores ingresos, a cambió de una suscripción mensual de $75.
 
@@ -59,7 +60,13 @@ Esta aplicación es una alternativa a todas las demás plataformas que ofrecen f
 
 Nuestra plataforma garantiza la seguridad tanto de los usuarios como de los trabajadores y mantiene un estándar de calidad en los servicios.
 
-El método de monetización de WorkFlash es por medio de una suscripción, en la que los usuarios registrados como provedores de servicios pagan una cuota mensual de $75 que les dará acceso a todos los beneficios que la aplicación ofrece.
+El método de monetización de WorkFlash es por medio de una suscripción, en la que los usuarios registrados como provedores de servicios pagan una cuota mensual de $75 que les dará acceso a todos los beneficios que la aplicación ofrece..
+
+
+
+
+***Traducción***
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2OTY3NjYxXX0=
+eyJoaXN0b3J5IjpbMTYyMDgyNDQxMSw4MTY5Njc2NjFdfQ==
 -->
