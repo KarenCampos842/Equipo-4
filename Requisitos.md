@@ -824,8 +824,16 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    <td>El usuario presiona el botón de editar número de tarjeta de crédito, presiona en editar número de tarjeta de crédito, ingresa un nuevo número y le da a confirmar.</td> 
    </tr> 
   <tr>  
+  <td>11</td> 
+   <td>El usuario presiona el botón de editar número de tarjeta de crédito, presiona en editar número de tarjeta de crédito, ingresa un nuevo número y le da a confirmar.</td> 
+   </tr> 
+  <tr>  
+  <td>12</td> 
+   <td>El usuario presiona el botón de editar número de tarjeta de crédito, presiona en editar número de tarjeta de crédito, ingresa un nuevo número y le da a confirmar.</td> 
+   </tr> 
+  <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real
+       <td colspan="2">El usuario no podrámodíficar la información de su perfil consecutivamente por más de 2 veces
        </tr> 
        </td> 
     </tr> 
@@ -1195,7 +1203,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTU2ODAyMywtNzI1NTE5NTczLDE2NT
+eyJoaXN0b3J5IjpbMTA4MDc3NTA0NSwtNzI1NTE5NTczLDE2NT
 E4MDQ5MjQsLTc3Nzg2Njk2NSw3Njc0ODA3OSwxNTAzMjIzMjcs
 MTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwxODQyMz
 I3MjldfQ==
