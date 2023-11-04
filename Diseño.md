@@ -4,11 +4,12 @@
 
 ## Bosquejos de Interfaces 
 ## Correspondencia con los Requisitos 
-ajs
 
+Registro desde la vista del t
 ##
 ## Validación de Interfaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwMDc0MjMwLC0xODMwNjMyMTY0XX0=
+eyJoaXN0b3J5IjpbLTI3NzI1Nzc1Nyw4NTAwNzQyMzAsLTE4Mz
+A2MzIxNjRdfQ==
 -->
