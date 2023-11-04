@@ -775,7 +775,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema debe permitir al usuario trabajador visualizar su perfil y realizar ciertas modificar ciertos parámetros del mismo.</td> 
    </tr> 
      <tr>  
-      <td rowspan="15"><b>Secuencia normal</b></td>
+      <td rowspan="16"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -834,24 +834,26 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr>  
       <td><b>Postcondición</b></td>  
        <td colspan="2">El usuario no podrá modíficar la información de su perfil consecutivamente por más de 2 veces.
-       </tr> 
-       </td> 
-    </tr> 
-     <tr>  
-      <td rowspan="4"><b>Excepciones</b></td>
-     <tr>  
-   <td>
+      </td> 
+ </tr>  
+ <tr>  
+  <td rowspan="2"><b>Excepciones</b></td>
+ </tr>  
+ <tr>
+  <td>
 
-- El usuario no podrá editar ni el correo, ni su nombre de usuario, ni su oficio.
+ - El usuario no podrá editar ni el correo, ni su nombre de usuario, ni su oficio.
 - El usuario no puede cambiar su imagen de perfil múltiples veces.
- </table>
+</td> 
+</tr>  
+</table>
  
 
 <br>
 
 <table align=center>  
    <tr>
-     <th>CU-5</th>  
+     <th>CU-05</th>  
       <th colspan="2">Perfil de cliente</th>  
    </tr> 
     <tr>  
@@ -914,8 +916,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 - El usuario no puede cambiar su imagen de perfil múltiples veces.
  </table>
  
-<br>
-
+ <br>
 
 <table  align=center>
 <tr>
@@ -964,8 +965,8 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <td><b>Acción</b></td>
 </tr>
 <tr>
-<td> d </td>
-<td>s</td>
+<td> 1 </td>
+<td>Si el oficio buscado no está dado de alta  en la base de datos, el sistema notifica al usuario que no encuentra el oficio buscado.</td>
 </tr>
 </table>
 
@@ -1033,7 +1034,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
-       <td colspan="2">El sistema deberá rcontar con un chat entre usuarios y trabajadores para agendar fechas, horarios y costos del servicio.</td> 
+       <td colspan="2">El sistema deberá contar con un chat entre usuarios y trabajadores para agendar fechas, horarios y costos del servicio.</td> 
    </tr> 
      <tr>  
       <td rowspan="9"><b>Secuencia normal</b></td>
@@ -1042,29 +1043,29 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El usuario debe realizar buscar el servicio que desea obtener</td> 
+   <td>El usuario debe buscar el servicio que desea obtener</td> 
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>Ver entre la lista de trabajadores, seleccionar el perfil del que mejor le parezca y solicitar abrir el chat con el trabajador</td> 
+   <td>Ver entre la lista de trabajadores y seleccionar el perfil del que mejor le parezca.</td> 
   </tr>
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>Si es el trabajador le llegarán las solicitudes de mensajes de los clientes y el decide si los acepta o no</td> 
+   <td>Hacer clic en la opción para abrir el chat.</td> 
    </tr> 
    </tr> 
   <tr>  
   <td>4</td> 
-   <td> Una vez haya sido aceptado por ambos, se abrirá un chat en el que se podrá enviar tanto mensajes de texto, como imágenes por parte del trabajador para mostrar algunos de sus trabajos</td> 
+   <td>El trabajador recibe una notificación de que tiene un nuevo mensaje.</td> 
    </tr> 
     </tr> 
   <tr>  
   <td>5</td> 
-   <td> Una vez hayan acordado todos los términos podrán seleccionar "adquirir el servicio" para asi oficializar el contrato, el chat quedará habilitado por cualquier situación y si no se llega a adquirir el servicio, quedará guardado para futuros servicios o para algún tipo de reporte..</td> 
+   <td>El trabajador envía un mensaje y el cliente es notificado.</td> 
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">Para poder abrir el chat este debe ser aceptado por ambos y para ser cerrado, debe ser cerrado por ambos.
+       <td colspan="2">Cliente y trabajador se ponen en contacto.
        </tr> 
        </td> 
        </tr> 
@@ -1072,8 +1073,6 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
       <td rowspan="4"><b>Excepciones</b></td>
    <tr>  
    <td>
-
- - Si el trabajador no acepta el chat, no se podrán enviar ni recibir mensajes por parte de ese cliente
 
  <br>
  
@@ -1114,16 +1113,18 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    <td>Una vez autorizado el pago, le llegará un correo electrónico al trabajador de su pago exitoso, asi como la fecha de su próximo pago.</td> 
    <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">Se dará como "Pago exitoso" solo si se llega a cubrir la cuota total de la membresía
+       <td colspan="2"> Se dará como "Pago exitoso" solo si se llega a cubrir la cuota total de la membresía</td> 
        </tr> 
-       </td> 
-        </tr> 
      <tr>  
-      <td rowspan="4"><b>Excepciones</b></td>
+      <td rowspan="2"><b>Excepciones</b></td>
      </tr>  
+ <tr>
+  <td>
 
- - Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación
+- Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación
  - Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.      
+</td> 
+</tr>  
  </table>
 
  <br>
@@ -1179,7 +1180,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr> 
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">El enlace de reestablecimiento de contraseña solo puede ser usado una vez.
+       <td colspan="2">El enlace de restablecimiento de contraseña solo puede ser usado una vez.
        </tr> 
        </td> 
     </tr> 
@@ -1201,10 +1202,3 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^1]:Simões, C. (14 de julio de 2020). MoSCoW. ¿Qué es y cómo priorizar en el desarrollo de tu aplicación? *ITDO*. https://www.itdo.com/blog/moscow-que-es-y-como-priorizar-en-el-desarrollo-de-tu-aplicacion/
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4MjE3MTcwLC03MjU1MTk1NzMsMTY1MT
-gwNDkyNCwtNzc3ODY2OTY1LDc2NzQ4MDc5LDE1MDMyMjMyNywx
-ODk5NjU2NjQ1LC0zNDY4NTk0NCwtMjg3MTY2NzM5LDE4NDIzMj
-cyOV19
--->
