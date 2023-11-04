@@ -736,7 +736,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <br>
 <table  align=center>
 <tr>
-<th>CU-01</th>
+<th>CU-03</th>
 <th  colspan="2">Búsqueda y filtro </th></tr>
 <tr>
 <td><b>Versión</b></td>
@@ -790,7 +790,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 <table  align=center>
 <tr>
-<th>CU-01</th>
+<th>CU-04</th>
 <th  colspan="2">Elección de trabajador </th>
 </tr>
 <tr>
@@ -807,56 +807,33 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td  rowspan="3"><b>Secuencia normal</b></td>
-
 <td><b>Paso</b></td>
-
 <td><b>Acción</b></td>
-
 </tr>
-
 <tr>
-
 <td>1</td>
-
 <td>El cliente selecciona un trabajador </td>
-
 </tr>
-
 <tr>
-
 <td>2</td>
-
 <td>El sistema abre el perfil del trabajador y despliegan las opciones de chat y contratar servicio </td>
-
 </tr>
-
 <tr>
-
 <td><b>Postcondición</b></td>
-
 <td  colspan="2">El trabajador y el usuario se ponen en contacto </td>
-
 </tr>
-
 <tr>
-
 <td  rowspan="2"><b>Excepciones</b></td>
-
 <td><b>Paso</b></td>
-
 <td><b>Acción</b></td>
-
 </tr>
-
 <tr>
-
 <td  rowspan="3">  </td>
-
 <td  >  </td>
-
 </tr>
-
 </table>
+
+<br>
 
 <table align=center>  
    <tr>
@@ -991,6 +968,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ0NTA5MzQsLTM0Njg1OTQ0LC0yOD
+eyJoaXN0b3J5IjpbLTE1NzYzODY4NTcsLTM0Njg1OTQ0LC0yOD
 cxNjY3MzksMTg0MjMyNzI5XX0=
 -->
