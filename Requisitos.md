@@ -222,7 +222,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
       <td><b>Criterios de aceptación</b></td>  
        <td> 
            <ul>
-                <li>Comprobar que el trabajador pueda visualizar y editar nombre(s) y apellido(s).</li>
+                <li>Comprobar que el trabajador pueda visualizar nombre(s) y apellido(s).</li>
          <li>Comprobar que el trabajador pueda visualizar su correo, pero no editarlo.</li>
           <li>Comprobar que el trabajador pueda visualizar su fotografía y reemplazarla.</li>         
           <li>Comprobar que el trabajador pueda visualizar y editar su número telefónico. </li>
@@ -262,7 +262,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
       <td><b>Criterios de aceptación</b></td>  
        <td> 
            <ul>
-                <li>Comprobar que el cliente pueda visualizar  y editar nombre(s) y apellido(s).</li>
+                <li>Comprobar que el cliente pueda visualizar nombre(s) y apellido(s).</li>
          <li>Comprobar que el cliente pueda visualizar su correo, pero no editarlo.</li>
           <li>Comprobar que el cliente pueda visualizar y reemplazar su fotografía.</li>          
            <li>Comprobar que el cliente pueda visualizar su calificación, pero no editarla.</li>
@@ -570,10 +570,10 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
            <ul>
                 <li>Comprobar que el usuario seleccione la opción de recuperar contraseña.
                 </li>
-        <li>Comprobar que el sistema solicite un correo para recuperación de contraseña.
+        <li>Confirmar correo electrónico y asegurase de que exista en la base de datos.
                 </li>
-                 <li>Comprobar que existe texto antes y después de @ para el correo.</li>
-                 <li>Comprobar que se ha enviado la contraseña al correo proporcionado.</li>
+                 <li>Comprobar que el sistema envíe un correo electrónico con el enlace de restablecimiento de contraseña a la dirección registrada del usuario.</li>
+                 <li>Comprobar que se ha enviado el enlace de restablecimiento de contraseña al correo proporcionado.</li>
  </table>      
  
   ### Casos de uso
@@ -699,36 +699,227 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>5</td> 
-   <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.</td> 
-   
-    
-
-  
-  
-  
-  <tr>  
-      <td><b>Postcondición</b></td>  
-       <td colspan="2">Para poder ser registro válido deberá proporcionar un correo electrónico y un número de celular existentes y no haber sido registrados con anterioridad.
-       </tr> 
-       </td> 
-       
-   </tr> 
-     <tr>  
-      <td rowspan="4"><b>Excepciones</b></td>
-   
-  <tr>  
-  
-   <td>
-
- - Si el correo o el número de teléfono ya están registrados en el sistema o si no son válidos no se podrá proceder con el registro.
- - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
- - Si no acepta los términos y condiciones no podrá avanzar  
- </table>  
+   <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.</td>
 
 <br>
+
+<table align=center>  
+   <tr>
+     <th>CU-3</th>  
+      <th colspan="2">Auntentificación</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (30/10/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El usuario deberá de contar con un usuario y contraseña registrados previamente.</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema deberá autentificar rápidamente al usuario en caso de que sus datos sean correctos.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="15"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El usuario debe rellenar el campo de usuario.</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>El usuario debe rellenar el campo de contraseña.</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>El usuario deberá presionar le botón de iniciar sesión para posteriormente ser dirigido al menu principal.</td> 
+   </tr> 
+   </tr> 
+  <tr>
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">No será posible cambiar ni el nombre, ni el correo electrónico.
+       </tr> 
+       </td> 
+    </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+     <tr>  
+   <td>
+
+-  Introducir un usuario inexistence impedirá el inicio de sesión.
+- La contraseña introducida deberá ser correcta para el usuario introducido, en caso de escribirla incorrectamente no se podrá iniciar sesión.
+- Si no se introducen caracteres válidos el sistema no no permitirá realizar el inicio de sesión.
+ </table>
+<br>
+
+<table align=center>  
+   <tr>
+     <th>CU-4</th>  
+      <th colspan="2">Perfil de trabajador</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (04/11/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El usuario deberá disponer de una cuenta de trabajador previamente registrada con la información correspondiente.</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema debe permitir al usuario trabajador visualizar su perfil y realizar ciertas modificar ciertos parámetros del mismo.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="15"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El usuario accede al menu de su perfil a través de un botón en la pantalla principal</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>El usuario observa la información de su perfil y elige modificar su fotografía.</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>El usuario hace click en el icono de su fotografía y elige la opción cambiar imagen de perfil.</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>El usuario puede elige entre sus imágenes de su galería o bien, se toma una.</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td>El usuario presiona confirmar y regresa a su perfil.</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>6</td> 
+   <td>El usuario observa su correo electrónico, oficio, calificación debajo de la imagen de perfil.</td> 
+</tr>
+<td>7</td> 
+   <td>El usuario presiona el botón de número telefónico, presiona en editar el número y le da a confirmar.</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>8</td> 
+   <td>El usuario presiona el botón de zona de trabajo, presiona en editar zona de trabajo, ingresa una nueva dirección y le da a confirmar.</td> 
+   </tr> 
+  <tr>
+  <td>9</td> 
+   <td>El usuario presiona el botón de trabajos, presiona en ingresar más trabajos, ingresa uno o más trabajos y le da a confirmar.</td> 
+   </tr> 
+  <tr>
+<td>10</td> 
+   <td>El usuario presiona el botón de editar número de tarjeta de crédito, presiona en editar número de tarjeta de crédito, ingresa un nuevo número y le da a confirmar.</td> 
+   </tr> 
+  <tr>  
+  <td>11</td> 
+   <td> El usuario puede presiona el botón de editar CVV, cambia los parámetros y le da a confirmar.</td> 
+   </tr> 
+  <tr>  
+  <td>12</td> 
+   <td>El usuario presiona el botón de editar la fecha de vencimiento (mes, año) de la tarjeta de crédito, cambia los valores y le da a confirmar.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">El usuario no podrá modíficar la información de su perfil consecutivamente por más de 2 veces.
+       </tr> 
+       </td> 
+    </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+     <tr>  
+   <td>
+
+- El usuario no podrá editar ni el correo, ni su nombre de usuario, ni su oficio.
+- El usuario no puede cambiar su imagen de perfil múltiples veces.
+ </table>
+ 
+
+<br>
+
+<table align=center>  
+   <tr>
+     <th>CU-5</th>  
+      <th colspan="2">Perfil de cliente</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (03/11/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El usuario deberá disponer de una cuenta de cliente previamente registrada.</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema debe permitir al usuario visualizar su perfil y realizar ciertas modificar ciertos parámetros del mismo.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="15"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El usuario accede al menu de su perfil a través de un botón en la pantalla principal</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>El usuario observa la información de su perfil y elige modificar su fotografía.</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>El usuario hace click en el icono de su fotografía y elige la opción cambiar imagen de perfil.</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>El usuario puede elige entre sus imágenes de su galería o bien, se toma una.</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td>El usuario presiona confirmar y regresa a su perfil.</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>6</td> 
+   <td>El usuario observa su correo electrónico y calificación debajo de la imagen de perfil.</td> 
+</tr> 
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">No será posible cambiar ni el nombre, ni el correo electrónico.
+       </tr> 
+       </td> 
+    </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+     <tr>  
+   <td>
+
+- Solo se le permite al usuario seleccionar una única imagen de su galería.
+- El usuario no puede cambiar su imagen de perfil múltiples veces.
+ </table>
+ 
+<br>
+
+
 <table  align=center>
 <tr>
-<th>CU-03</th>
+<th>CU-06</th>
 <th  colspan="2">Búsqueda y filtro </th></tr>
 <tr>
 <td><b>Versión</b></td>
@@ -780,9 +971,9 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 <br>
 
-<table  align=center>
+<table align=center>
 <tr>
-<th>CU-04</th>
+<th>CU-07</th>
 <th  colspan="2">Elección de trabajador </th>
 </tr>
 <tr>
@@ -936,7 +1127,73 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
  - Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación
  - Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.      
- </table> 
+ </table>
+ <br>
+ <table align=center>  
+   <tr>
+     <th>CU-16</th>  
+      <th colspan="2">Recuperación de contraseña</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (03/11/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El usuario deberá disponer de una cuenta de cliente o trabajador existente, mediante la cual disponga de un correo electrónico previamente registrado.</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema deberá permitir al dueño legítimo de una cuenta de WorkFlash, recuperar su contraseña en caso de olvido.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="15"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El usuario deberá seleccionar el enlace de recuperación de contraseña en el menú de inicio de sesión.</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>El usuario deberá confirmar el envío del enlace de recuperación de contraseña al correo asociado a su cuenta.</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>Se le pedirá al usuario ingresar al enlace enviado a su bandeja de entrada para poder cambiar su contraseña.</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>Después de presionar al enlace enviado a su correo electrónico el usuario será redirigido a una ventana en donde podrá crear una nueva contraseña.</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td>El usuario deberá confirmar su nueva contraseña.</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>6</td> 
+   <td>Se le redirigirá al usuario nuevamente al menú de inicio de sesión.</td> 
+</tr> 
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">El enlace de reestablecimiento de contraseña solo puede ser usado una vez.
+       </tr> 
+       </td> 
+    </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+     <tr>  
+   <td>
+
+- Solo se le permite al usuario enviar el enlace de restablecimiento de contraseña a un correo electrónico, que será aquel con el que intente el inicio de sesión.
+- Si el correo electrónico al que se le intenta enviar el enlace de restablecimiento de contraseña no existe en la base de datos como previamente registrado, se le avisará al usuario que dicho correo electrónico no está registrado.
+- No se podrá aceptar una nueva contraseña idéntica a la anterior.
+ </table>
  
    ### Diagrama de caso de uso
 
@@ -948,6 +1205,8 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzIyMzI3LDE4OTk2NTY2NDUsLTM0Nj
-g1OTQ0LC0yODcxNjY3MzksMTg0MjMyNzI5XX0=
+eyJoaXN0b3J5IjpbNzg4MjE3MTcwLC03MjU1MTk1NzMsMTY1MT
+gwNDkyNCwtNzc3ODY2OTY1LDc2NzQ4MDc5LDE1MDMyMjMyNywx
+ODk5NjU2NjQ1LC0zNDY4NTk0NCwtMjg3MTY2NzM5LDE4NDIzMj
+cyOV19
 -->
