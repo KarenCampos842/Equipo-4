@@ -9,13 +9,13 @@
 
 **Registro desde la vista del cliente:** Requisitos funcionales: 1, 2, 5, 8, 10
 
-**Aplicación desde la vista del cliente:** Requisitos funcionales: 1, 2, 5, 8, 10
+**Aplicación desde la vista del cliente:** Requisitos funcionales: 6, 7, 8, 11, 12, 13,
 
-**Aplicación desde la vista del cliente:** Requisitos funcionales: 1, 2, 5, 8, 10
+**Aplicación desde la vista del trabajador:** Requisitos funcionales: 1, 2, 5, 8, 10
 ##
 ## Validación de Interfaces
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDU0MTc2MiwtMTE0ODMzNjE0OSw4NT
-AwNzQyMzAsLTE4MzA2MzIxNjRdfQ==
+eyJoaXN0b3J5IjpbLTEzNjU2ODI0ODUsLTExNDgzMzYxNDksOD
+UwMDc0MjMwLC0xODMwNjMyMTY0XX0=
 -->
