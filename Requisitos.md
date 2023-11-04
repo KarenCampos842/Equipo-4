@@ -871,30 +871,21 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr>  
   <td>5</td> 
    <td> Una vez hayan acordado todos los términos podrán seleccionar "adquirir el servicio" para asi oficializar el contrato, el chat quedará habilitado por cualquier situación y si no se llega a adquirir el servicio, quedará guardado para futuros servicios o para algún tipo de reporte..</td> 
-   
-    
-
-  
-  
-  
   <tr>  
       <td><b>Postcondición</b></td>  
        <td colspan="2">Para poder abrir el chat este debe ser aceptado por ambos y para ser cerrado, debe ser cerrado por ambos.
        </tr> 
        </td> 
-       
-   </tr> 
+       </tr> 
      <tr>  
       <td rowspan="4"><b>Excepciones</b></td>
-   
-  <tr>  
-  
+   <tr>  
    <td>
 
  - Si el trabajador no acepta el chat, no se podrán enviar ni recibir mensajes por parte de ese cliente
- 
 
-       
+ <br>
+ 
  </table> 
 <table align=center>  
    <tr>
@@ -930,15 +921,12 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr>  
   <td>3</td> 
    <td>Una vez autorizado el pago, le llegará un correo electrónico al trabajador de su pago exitoso, asi como la fecha de su próximo pago.</td> 
-
-  
-  <tr>  
+   <tr>  
       <td><b>Postcondición</b></td>  
        <td colspan="2">Se dará como "Pago exitoso" solo si se llega a cubrir la cuota total de la membresía
        </tr> 
        </td> 
-       
-   </tr> 
+        </tr> 
      <tr>  
       <td rowspan="4"><b>Excepciones</b></td>
    
@@ -960,6 +948,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4Nz
-E2NjczOSwxODQyMzI3MjldfQ==
+eyJoaXN0b3J5IjpbMTUwMzIyMzI3LDE4OTk2NTY2NDUsLTM0Nj
+g1OTQ0LC0yODcxNjY3MzksMTg0MjMyNzI5XX0=
 -->
