@@ -1182,7 +1182,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr> 
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">El enlace de reestablecimiento de contraseña solo puede ser usado una vez.
+       <td colspan="2">El enlace de restablecimiento de contraseña solo puede ser usado una vez.
        </tr> 
        </td> 
     </tr> 
@@ -1205,6 +1205,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjU3NDcsLTE2NjMwNDA2NjEsLTIxMz
-M4MTM2NTldfQ==
+eyJoaXN0b3J5IjpbLTE3NTU1OTA4MjAsMTgwNjU3NDcsLTE2Nj
+MwNDA2NjEsLTIxMzM4MTM2NTldfQ==
 -->
