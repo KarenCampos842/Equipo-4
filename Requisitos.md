@@ -701,76 +701,6 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <td>5</td> 
    <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.</td>
 
-<br>
-
-<table  align=center>
-<tr>
-<th>CU-03</th>
-<th  colspan="2">Autentificación</th>
-</tr>
-<tr>
-<td><b>Versión</b></td>
-<td  colspan="2">1.0 (30/10/2023)</td>
-</tr>
-<tr>
-<td><b>Precondición</b></td>
-<td  colspan="2">El usuario deberá de contar con un usuario y contraseña registrados previamente.</td>
-</tr>
-<tr>
-<td><b>Descripción</b></td>
-<td  colspan="2">El sistema deberá autentificar rápidamente al usuario en caso de que sus datos sean correctos.</td>
-</tr>
-<tr>
-<td  rowspan="3"><b>El usuario debe rellenar el campo de usuario.</b></td>
-<td><b>Paso</b></td>
-<td><b>Acción</b></td>
-</tr>
-<tr>
-<td>1</td>
-<td>El cliente selecciona un trabajador </td>
-</tr>
-<tr>
-<td>2</td>
-<td>El sistema abre el perfil del trabajador y despliegan las opciones de chat y contratar servicio </td>
-</tr>
-<tr>
-<td><b>Postcondición</b></td>
-<td  colspan="2">El trabajador y el usuario se ponen en contacto </td>
-</tr>
-<tr>
-<td  rowspan="2"><b>Excepciones</b></td>
-<td><b>Paso</b></td>
-<td><b>Acción</b></td>
-</tr>
-<tr>
-<td  rowspan="3">  </td>
-<td  >  </td>
-</tr>
-</table>
-   
-    
-
-  
-  
-  
-  <tr>  
-      <td><b>Postcondición</b></td>  
-       <td colspan="2">Para poder ser registro válido deberá proporcionar un correo electrónico y un número de celular existentes y no haber sido registrados con anterioridad.
-       </tr> 
-       </td> 
-       
-   </tr> 
-     <tr>  
-      <td rowspan="4"><b>Excepciones</b></td>
-   
-  <tr>  
-  
-   <td>
-
- - Si el correo o el número de teléfono ya están registrados en el sistema o si no son válidos no se podrá proceder con el registro.
- - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
- - Si no acepta los términos y condiciones no podrá avanzar  
- </table>  
 
 <br>
 <table  align=center>
@@ -825,7 +755,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 </table>
 
-<br>
+
 
 <table  align=center>
 <tr>
@@ -1128,7 +1058,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjkyNDE4OTgsMTY1MTgwNDkyNCwtNz
+eyJoaXN0b3J5IjpbLTIwNTQ4NTQ4OTYsMTY1MTgwNDkyNCwtNz
 c3ODY2OTY1LDc2NzQ4MDc5LDE1MDMyMjMyNywxODk5NjU2NjQ1
 LC0zNDY4NTk0NCwtMjg3MTY2NzM5LDE4NDIzMjcyOV19
 -->
