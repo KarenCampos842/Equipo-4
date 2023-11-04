@@ -755,7 +755,77 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 - La contraseña introducida deberá ser correcta para el usuario introducido, en caso de escribirla incorrectamente no se podrá iniciar sesión.
 - Si no se introducen caracteres válidos el sistema no no permitirá realizar el inicio de sesión.
  </table>
+<br>
+
+<table align=center>  
+   <tr>
+     <th>CU-4</th>  
+      <th colspan="2">Perfil de cliente</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (04/11/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El usuario deberá disponer de una cuenta de cliente previamente registrada.</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema debe permitir al usuario visualizar su perfil y realizar ciertas modificar ciertos parámetros del mismo.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="15"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El usuario accede al menu de su perfil a través de un botón en la pantalla principal</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>El usuario observa la información de su perfil y elige modificar su fotografía.</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>El usuario hace click en el icono de su fotografía y elige la opción cambiar imagen de perfil.</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>El usuario puede elige entre sus imágenes de su galería o bien, se toma una.</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td>El usuario presiona confirmar y regresa a su perfil.</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>6</td> 
+   <td>El usuario observa su correo electrónico y calificación debajo de la imagen de perfil.</td> 
+</tr> 
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">No será posible cambiar ni el nombre, ni el correo electrónico.
+       </tr> 
+       </td> 
+    </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+     <tr>  
+   <td>
+
+- Solo se le permite al usuario seleccionar una única imagen de su galería.
+- El usuario no puede cambiar su imagen de perfil múltiples veces.
+ </table>
  
+<br> 
+
+
+
 <br>
 
 <table  align=center>
@@ -814,7 +884,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 <table  align=center>
 <tr>
-<th>CU-04</th>
+<th>CU-04?</th>
 <th  colspan="2">Elección de trabajador </th>
 </tr>
 <tr>
@@ -1113,8 +1183,8 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzMyODkzMiwtNzI1NTE5NTczLDE2NT
-E4MDQ5MjQsLTc3Nzg2Njk2NSw3Njc0ODA3OSwxNTAzMjIzMjcs
-MTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwxODQyMz
-I3MjldfQ==
+eyJoaXN0b3J5IjpbLTE2MzA4NzA1MzcsLTcyNTUxOTU3MywxNj
+UxODA0OTI0LC03Nzc4NjY5NjUsNzY3NDgwNzksMTUwMzIyMzI3
+LDE4OTk2NTY2NDUsLTM0Njg1OTQ0LC0yODcxNjY3MzksMTg0Mj
+MyNzI5XX0=
 -->
