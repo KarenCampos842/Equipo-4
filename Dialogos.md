@@ -9,7 +9,9 @@ Por otro lado hemos hecho una reestructuración en la forma en la que los usuari
 
 Agregamos un método que les ofrece a los usuarios un método mediante el cual pueden cambiar su contraseña, en caso de olvido.
 
+Además de todo lo anterior, hemos hecho modificaciones en las funciones de la aplicación, evidenciadas en los requisitos, para que los usuarios puedan tener una selección más amplia de parámetros que pueden editar en sus respectivos perfiles. 
+
 ***Traducción***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0ODA2NDIwLDgxNjk2NzY2MV19
+eyJoaXN0b3J5IjpbLTUxODIwNDE3NCw4MTY5Njc2NjFdfQ==
 -->
