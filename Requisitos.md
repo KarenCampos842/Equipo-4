@@ -851,11 +851,11 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>E</td> 
+   <td>El usuario accede al menu de su perfil a través de un botón en la pantalla principal</td> 
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>El usuario deberá confirmar el envío del enlace de recuperación de contraseña al correo asociado a su cuenta.</td> 
+   <td>El usuario observa los </td> 
   </tr>
   </tr> 
   <tr>  
@@ -1082,7 +1082,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDM4MzAyNzgsLTc3Nzg2Njk2NSw3Nj
-c0ODA3OSwxNTAzMjIzMjcsMTg5OTY1NjY0NSwtMzQ2ODU5NDQs
-LTI4NzE2NjczOSwxODQyMzI3MjldfQ==
+eyJoaXN0b3J5IjpbMTU3MDU4MDgyNiwtNzc3ODY2OTY1LDc2Nz
+Q4MDc5LDE1MDMyMjMyNywxODk5NjU2NjQ1LC0zNDY4NTk0NCwt
+Mjg3MTY2NzM5LDE4NDIzMjcyOV19
 -->
