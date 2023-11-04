@@ -976,17 +976,17 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
   <tr>  
   <td>4</td> 
-   <td>Después de  al enlace enviado a su correo electrónico el usuario será redirigido a una ventana en donde podrá crear una nueva contraseña.</td> 
+   <td>Después de presionar al enlace enviado a su correo electrónico el usuario será redirigido a una ventana en donde podrá crear una nueva contraseña.</td> 
    </tr> 
     </tr> 
   <tr>  
   <td>5</td> 
-   <td> Deberá tomarse una foto en el momento que será usada para su foto de perfil del trabajador, una vez ya tomada le dará en el botón "continuar"</td> 
+   <td>El usuario deberá confirmar su nueva contraseña.</td> 
    </tr> 
     </tr> 
   <tr>  
   <td>6</td> 
-   <td> Se le llevará a otra ventana en la que completará su registro llenando los datos que aparecerán en su perfil como: Los municipios o colonias en los que le gustaría trabajar más, asi como su profesión y de los servicios o habilidades que puede ofrecer, una vez concluido le dará en "continuar" </td> 
+   <td>Se le redirigirá al usuario nuevamente al menú de inicio de sesión.</td> 
    </tr> 
     </tr> 
   <tr>  
@@ -1027,7 +1027,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjIxODQ5NjUsNzY3NDgwNzksMTUwMz
+eyJoaXN0b3J5IjpbLTExNjk1MTk1NTIsNzY3NDgwNzksMTUwMz
 IyMzI3LDE4OTk2NTY2NDUsLTM0Njg1OTQ0LC0yODcxNjY3Mzks
 MTg0MjMyNzI5XX0=
 -->
