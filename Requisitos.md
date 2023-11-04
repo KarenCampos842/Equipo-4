@@ -837,7 +837,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
       </td> 
  </tr>  
  <tr>
-      <td rowspan="2"><b>Excepciones</b></td>
+ <td rowspan="2"><b>Excepciones</b></td>
  </tr> 
  <tr>
  <td>
@@ -1205,6 +1205,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTYwOTY5OCwtMTY2MzA0MDY2MSwtMj
-EzMzgxMzY1OV19
+eyJoaXN0b3J5IjpbLTEzODY1NjY2ODYsLTE2NjMwNDA2NjEsLT
+IxMzM4MTM2NTldfQ==
 -->
