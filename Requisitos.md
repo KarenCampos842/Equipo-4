@@ -570,9 +570,9 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
            <ul>
                 <li>Comprobar que el usuario seleccione la opción de recuperar contraseña.
                 </li>
-        <li>Comprobar que el sistema envíe un correo electrónico con el enlace de restablecimiento de contraseña a la dirección registrada del usuario.
+        <li>Confirmar correo electrónico y asegurase de que exista en la base de 
                 </li>
-                 <li>Comprobar que existe texto antes y después de @ para el correo.</li>
+                 <li>Comprobar que el sistema envíe un correo electrónico con el enlace de restablecimiento de contraseña a la dirección registrada del usuario.</li>
                  <li>Comprobar que se ha enviado la contraseña al correo proporcionado.</li>
  </table>      
  
@@ -1205,7 +1205,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTE3MDYyMSwtNzI1NTE5NTczLDE2NT
+eyJoaXN0b3J5IjpbLTM5NTQ5Njk5MywtNzI1NTE5NTczLDE2NT
 E4MDQ5MjQsLTc3Nzg2Njk2NSw3Njc0ODA3OSwxNTAzMjIzMjcs
 MTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwxODQyMz
 I3MjldfQ==
