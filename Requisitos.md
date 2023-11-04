@@ -751,7 +751,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
      <tr>  
    <td>
 
--  Introducir un usuario inexistence impedirá el inicio de sesión.
+-  Introducir un usuario inexistente impedirá el inicio de sesión.
 - La contraseña introducida deberá ser correcta para el usuario introducido, en caso de escribirla incorrectamente no se podrá iniciar sesión.
 - Si no se introducen caracteres válidos el sistema no no permitirá realizar el inicio de sesión.
  </table>
@@ -1200,5 +1200,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM4MTM2NTldfQ==
+eyJoaXN0b3J5IjpbLTE3OTAyMDU2NDIsLTIxMzM4MTM2NTldfQ
+==
 -->
