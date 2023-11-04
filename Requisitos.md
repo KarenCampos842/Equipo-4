@@ -699,13 +699,15 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>5</td> 
-   <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.</td>
+   <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.
+   </td>
+</table>
 
 <br>
 
 <table align=center>  
    <tr>
-     <th>CU-04</th>  
+     <th>CU-03</th>  
       <th colspan="2">Auntentificación</th>      <tr>  
      <td><b>Versión</b></td>  
    /td>     <td colspan="2">1.0 (30/10/2023)</td> 
@@ -1219,8 +1221,8 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODIzODQ5MTEsOTY2Mjg1NzQ5LDc4OD
-IxNzE3MCwtNzI1NTE5NTczLDE2NTE4MDQ5MjQsLTc3Nzg2Njk2
-NSw3Njc0ODA3OSwxNTAzMjIzMjcsMTg5OTY1NjY0NSwtMzQ2OD
-U5NDQsLTI4NzE2NjczOSwxODQyMzI3MjldfQ==
+eyJoaXN0b3J5IjpbLTQzMDc4MjQxOSw5NjYyODU3NDksNzg4Mj
+E3MTcwLC03MjU1MTk1NzMsMTY1MTgwNDkyNCwtNzc3ODY2OTY1
+LDc2NzQ4MDc5LDE1MDMyMjMyNywxODk5NjU2NjQ1LC0zNDY4NT
+k0NCwtMjg3MTY2NzM5LDE4NDIzMjcyOV19
 -->
