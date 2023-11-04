@@ -949,7 +949,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El usuario deberá disponer de una cuenta de cliente o trabajador existente, mediante la cual disponga de un correo electrónico previamente registrado.</td> 
+       <td colspan="2">El usuario deberá disponer de una cuenta de cliente o trabajador existente, mediante la cual disponga de un correo electrónico y número móvil previamente registrado.</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
@@ -966,7 +966,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>El usuario deberá confirmar si su correo electrónico</td> 
+   <td>El usuario deberá confirmar si su correo electrónico es aquel que el sistema</td> 
   </tr>
   </tr> 
   <tr>  
@@ -1027,7 +1027,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Mjk3Nzc5Niw3Njc0ODA3OSwxNTAzMj
-IzMjcsMTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwx
-ODQyMzI3MjldfQ==
+eyJoaXN0b3J5IjpbLTE3NDM0MzI5NzksNzY3NDgwNzksMTUwMz
+IyMzI3LDE4OTk2NTY2NDUsLTM0Njg1OTQ0LC0yODcxNjY3Mzks
+MTg0MjMyNzI5XX0=
 -->
