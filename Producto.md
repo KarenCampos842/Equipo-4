@@ -2,11 +2,9 @@
 
 ## Evolución del producto
 
-Workflash es una aplicación que ofrece a los yucatecos una alternativa fácil y confiable con la que pueden encontrar perfiles de personas dedicadas a trabajos y oficios en general, ponerse en contacto con ellas y contratarlas. Al mismo tiempo, los trabajadores pueden promocionarse, resaltar su experiencia y crear una buena reputación para conseguir más contratos y también mejores ingresos.
+Workflash es una aplicación que ofrece a los yucatecos una alternativa fácil y confiable con la que pueden encontrar perfiles de personas dedicadas a trabajos y oficios en general, ponerse en contacto con ellas y contratarlas. Al mismo tiempo, los trabajadores pueden promocionarse, resaltar su experiencia y crear una buena reputación para conseguir más contratos y también mejores ingresos, unica
 
 La plataforma representa una oportunidad de beneficio para ambas partes.
-
-  
 
 ## Usuarios/clientes
 
@@ -28,5 +26,5 @@ Esta aplicación es una alternativa a todas las demás plataformas que ofrecen f
 
 Nuestra plataforma garantiza la seguridad tanto de los usuarios como de los trabajadores y mantiene un estándar de calidad en los servicios que hacen que la aplicación sea una mejor opción ante la competencia que, entre muchas cosas, no están al tanto de las quejas de sus usuarios, lo que se puede notar en las reseñas que tienen en las tiendas de aplicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODUyNTY2Ml19
+eyJoaXN0b3J5IjpbLTE3Mzk2ODM0ODJdfQ==
 -->
