@@ -987,17 +987,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr>  
   <td>6</td> 
    <td>Se le redirigirá al usuario nuevamente al menú de inicio de sesión.</td> 
-   </tr> 
-    </tr> 
-  <tr>  
-  <td>7</td> 
-   <td> Tendrá que registrar una tarjeta de crédito o débito en la siguiente ventana para obtener el primer mes gratis y se le cobre periódicamente los 75 pesos mensuales de la membresía, tendrá que llenar los datos de la tarjeta como el número, su fecha de caducidad y el cvv. Una vez comprobado que la tarjeta cuenta con los fondos suficientes, se le devolverá el dinero y el usuario le dará en "continuar"</td> 
-   </tr> 
-    </tr> 
-  <tr>  
-  <td>8</td> 
-   <td>Le aparecerán los términos y condiciones que el trabajador deberá leer y aceptar para poder concluir su registro, posteriormente le saldrá una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionados.</td> 
-   </tr> 
+</tr> 
   <tr>  
       <td><b>Postcondición</b></td>  
        <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real
@@ -1027,7 +1017,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk1MTk1NTIsNzY3NDgwNzksMTUwMz
-IyMzI3LDE4OTk2NTY2NDUsLTM0Njg1OTQ0LC0yODcxNjY3Mzks
-MTg0MjMyNzI5XX0=
+eyJoaXN0b3J5IjpbMTg0NDAyNjExMSw3Njc0ODA3OSwxNTAzMj
+IzMjcsMTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwx
+ODQyMzI3MjldfQ==
 -->
