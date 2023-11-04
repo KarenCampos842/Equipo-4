@@ -949,7 +949,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El trabajador deberá de contar con una tarjeta de débito o crédito con fondos para comprobar que se pueda cobrar en los próximos meses, y también no haberse registrado antes</td> 
+       <td colspan="2">El usuario deberá disponer de una cuenta de cliente</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
@@ -1027,7 +1027,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3NDgwNzksMTUwMzIyMzI3LDE4OTk2NT
-Y2NDUsLTM0Njg1OTQ0LC0yODcxNjY3MzksMTg0MjMyNzI5XX0=
-
+eyJoaXN0b3J5IjpbMjU0ODE3MDYyLDc2NzQ4MDc5LDE1MDMyMj
+MyNywxODk5NjU2NjQ1LC0zNDY4NTk0NCwtMjg3MTY2NzM5LDE4
+NDIzMjcyOV19
 -->
