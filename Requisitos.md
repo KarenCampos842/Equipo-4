@@ -1120,14 +1120,12 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
         </tr> 
      <tr>  
       <td rowspan="4"><b>Excepciones</b></td>
-   
-  <tr>  
-  
-   <td>
+     </tr>  
 
  - Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación
  - Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.      
  </table>
+
  <br>
  <table align=center>  
    <tr>
