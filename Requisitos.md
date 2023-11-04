@@ -842,7 +842,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
-       <td colspan="2">El sistema deberá permitir al dueño legítimo de una cuenta de WorkFlash, recuperar su contraseña en caso de olvido.</td> 
+       <td colspan="2">El sistema debe permitir al usuario visualizar su perfil y realizar ciertas modificar ciertos parámetros del mismo.</td> 
    </tr> 
      <tr>  
       <td rowspan="15"><b>Secuencia normal</b></td>
@@ -851,7 +851,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El usuario deberá seleccionar el enlace de recuperación de contraseña en el menú de inicio de sesión.</td> 
+   <td>E</td> 
   </tr>     
   <tr>  
   <td>2</td> 
@@ -1082,7 +1082,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Nzg2Njk2NSw3Njc0ODA3OSwxNTAzMj
-IzMjcsMTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwx
-ODQyMzI3MjldfQ==
+eyJoaXN0b3J5IjpbLTE1NDM4MzAyNzgsLTc3Nzg2Njk2NSw3Nj
+c0ODA3OSwxNTAzMjIzMjcsMTg5OTY1NjY0NSwtMzQ2ODU5NDQs
+LTI4NzE2NjczOSwxODQyMzI3MjldfQ==
 -->
