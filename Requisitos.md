@@ -735,39 +735,21 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 <br>
 <table  align=center>
-
 <tr>
-
 <th>CU-01</th>
-
-<th  colspan="2">Búsqueda y filtro </th>
-
-</tr>
-
+<th  colspan="2">Búsqueda y filtro </th></tr>
 <tr>
-
 <td><b>Versión</b></td>
-
 <td  colspan="2">1.0 (29/10/2023)</td>
-
 </tr>
-
 <tr>
-
 <td><b>Precondición</b></td>
-
 <td  colspan="2">El cliente se ha registrado como cliente. </td>
-
 </tr>
-
 <tr>
-
 <td><b>Descripción</b></td>
-
 <td  colspan="2">El sistema mostrará al cliente una barra de <br>
-
 búsqueda en la que podrá ingresar un oficio y filtrará las <br>
-
 opciones con criterios de calificación y ubicació</td>
 
 </tr>
@@ -836,18 +818,10 @@ opciones con criterios de calificación y ubicació</td>
 
 <td  rowspan="3">  </td>
 
-<td  >  </td>
+<td>  </td>
 
 </tr>
-
 </table>
-
-  
-  
-  
-  
-  
-  
 
 <table  align=center>
 <tr>
@@ -1066,6 +1040,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5MDg3NzgsLTI4NzE2NjczOSwxODQyMz
-I3MjldfQ==
+eyJoaXN0b3J5IjpbLTE0MDQ0Nzk0OTAsLTI4NzE2NjczOSwxOD
+QyMzI3MjldfQ==
 -->
