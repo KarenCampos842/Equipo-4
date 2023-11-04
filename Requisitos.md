@@ -775,7 +775,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema debe permitir al usuario trabajador visualizar su perfil y realizar ciertas modificar ciertos parámetros del mismo.</td> 
    </tr> 
      <tr>  
-      <td rowspan="15"><b>Secuencia normal</b></td>
+      <td rowspan="16"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -840,7 +840,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <td rowspan="2"><b>Excepciones</b></td>
  </tr>  
  <tr>
-  <td rowspan="2">
+  <td>
   - El usuario no podrá editar ni el correo, ni su nombre de usuario, ni su oficio.
 - El usuario no puede cambiar su imagen de perfil múltiples veces.
 </td> 
@@ -1205,6 +1205,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTgzMjcxNSwtMTY2MzA0MDY2MSwtMj
+eyJoaXN0b3J5IjpbMjA1ODg5MDMzMywtMTY2MzA0MDY2MSwtMj
 EzMzgxMzY1OV19
 -->
