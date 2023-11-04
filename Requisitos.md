@@ -1047,17 +1047,17 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>Ver entre la lista de trabajadores, seleccionar el perfil del que mejor le parezca y solicitar abrir el chat con el trabajador</td> 
+   <td>Ver entre la lista de trabajadores y seleccionar el perfil del que mejor le parezca.</td> 
   </tr>
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>El sistema debe notificar al trabajador que tiene un nuevo mensaje</td> 
+   <td>Hacer clic en la opción para abrir el chat.</td> 
    </tr> 
    </tr> 
   <tr>  
   <td>4</td> 
-   <td> Una vez haya sido aceptado por ambos, se abrirá un chat en el que se podrá enviar tanto mensajes de texto, como imágenes por parte del trabajador para mostrar algunos de sus trabajos</td> 
+   <td></td> 
    </tr> 
     </tr> 
   <tr>  
@@ -1205,6 +1205,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDgxNjgyMSwtMTc1NTU5MDgyMCwxOD
+eyJoaXN0b3J5IjpbLTgyNDg2MTQzMiwtMTc1NTU5MDgyMCwxOD
 A2NTc0NywtMTY2MzA0MDY2MSwtMjEzMzgxMzY1OV19
 -->
