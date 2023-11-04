@@ -1030,11 +1030,11 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El usuario y el trabajador deben estar ya registrados</td> 
+       <td colspan="2">El usuario y el trabajador deben estar ya registrados y aprobar por ambos el chat</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
-       <td colspan="2">El sistema deberá contar con un chat entre usuarios y trabajadores para agendar fechas, horarios y costos del servicio.</td> 
+       <td colspan="2">El sistema deberá rcontar con un chat entre usuarios y trabajadores para agendar fechas, horarios y costos del servicio.</td> 
    </tr> 
      <tr>  
       <td rowspan="9"><b>Secuencia normal</b></td>
@@ -1043,14 +1043,21 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El usuario debe buscar el servicio que desea obtener</td> 
+   <td>El usuario debe realizar buscar el servicio que desea obtener</td> 
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>Ver entre la lista de trabajadores, seleccionar el perfil del que mejor le parezca y abrir el chat con el trabajador</td> 
+   <td>Ver entre la lista de trabajadores, seleccionar el perfil del que mejor le parezca y solicitar abrir el chat con el trabajador</td> 
   </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>Si es el trabajador le llegarán las solicitudes de mensajes de los clientes y el decide si los acepta o no</td> 
+   </tr> 
+   </tr> 
+  <tr>  
   <td>4</td> 
-   <td> Una vez que el cliente haya seleccionado la opción de ase abrirá un chat en el que se podrá enviar tanto mensajes de texto, como imágenes por parte del trabajador para mostrar algunos de sus trabajos</td> 
+   <td> Una vez haya sido aceptado por ambos, se abrirá un chat en el que se podrá enviar tanto mensajes de texto, como imágenes por parte del trabajador para mostrar algunos de sus trabajos</td> 
    </tr> 
     </tr> 
   <tr>  
@@ -1141,7 +1148,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema deberá permitir al dueño legítimo de una cuenta de WorkFlash, recuperar su contraseña en caso de olvido.</td> 
    </tr> 
      <tr>  
-      <td rowspan="6"><b>Secuencia normal</b></td>
+      <td rowspan="15"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -1198,6 +1205,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA2OTQwODAsMTgwNjU3NDcsLTE2Nj
+eyJoaXN0b3J5IjpbLTE3NTU1OTA4MjAsMTgwNjU3NDcsLTE2Nj
 MwNDA2NjEsLTIxMzM4MTM2NTldfQ==
 -->
