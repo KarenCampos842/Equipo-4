@@ -817,7 +817,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
   <tr>
   <td>9</td> 
-   <td>El usuario presiona el botón de zona de trabajo, presiona en editar zona de trabajo, ingresa una nueva dirección y le da a confirmar.</td> 
+   <td>El usuario presiona el botón de trabajos, presiona en ingresar más trabajos, ingresa múltipy le da a confirmar.</td> 
    </tr> 
   <tr>
 <td>10</td> 
@@ -1195,8 +1195,8 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE0NTYzODYsLTcyNTUxOTU3MywxNj
-UxODA0OTI0LC03Nzc4NjY5NjUsNzY3NDgwNzksMTUwMzIyMzI3
-LDE4OTk2NTY2NDUsLTM0Njg1OTQ0LC0yODcxNjY3MzksMTg0Mj
-MyNzI5XX0=
+eyJoaXN0b3J5IjpbNTc3MTYxMjIyLC03MjU1MTk1NzMsMTY1MT
+gwNDkyNCwtNzc3ODY2OTY1LDc2NzQ4MDc5LDE1MDMyMjMyNywx
+ODk5NjU2NjQ1LC0zNDY4NTk0NCwtMjg3MTY2NzM5LDE4NDIzMj
+cyOV19
 -->
