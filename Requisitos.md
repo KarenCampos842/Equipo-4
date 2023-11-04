@@ -1114,14 +1114,15 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    <td>Una vez autorizado el pago, le llegará un correo electrónico al trabajador de su pago exitoso, asi como la fecha de su próximo pago.</td> 
    <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">Se dará como "Pago exitoso" solo si se llega a cubrir la cuota total de la membresía</td> 
+       <td colspan="2"> Se dará como "Pago exitoso" solo si se llega a cubrir la cuota total de la membresía</td> 
        </tr> 
      <tr>  
-      <td rowspan="4"><b>Excepciones</b></td>
+      <td rowspan="2"><b>Excepciones</b></td>
      </tr>  
-
+  <td>
 - Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación
  - Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.      
+ 
  </table>
 
  <br>
@@ -1200,6 +1201,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODQxNDMwMCwtMTY2MzA0MDY2MSwtMj
-EzMzgxMzY1OV19
+eyJoaXN0b3J5IjpbLTEwNjgxMTA2MjgsLTE2NjMwNDA2NjEsLT
+IxMzM4MTM2NTldfQ==
 -->
