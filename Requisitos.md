@@ -1119,10 +1119,13 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
      <tr>  
       <td rowspan="2"><b>Excepciones</b></td>
      </tr>  
+ <tr>
   <td>
+
 - Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación
  - Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.      
 </td> 
+</tr>  
  </table>
 
  <br>
@@ -1201,6 +1204,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzQzNzM2NSwtMTY2MzA0MDY2MSwtMj
+eyJoaXN0b3J5IjpbLTQ1MTAyMTg1NCwtMTY2MzA0MDY2MSwtMj
 EzMzgxMzY1OV19
 -->
