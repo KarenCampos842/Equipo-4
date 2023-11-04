@@ -727,16 +727,16 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El usuario accede al menu de su perfil a través de un botón en la pantalla principal</td> 
+   <td>El usuario debe rellenar el campo de usuario.</td> 
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>El usuario observa la información de su perfil y elige modificar su fotografía.</td> 
+   <td>El usuario debe rellenar el campo de contraseña.</td> 
   </tr>
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>El usuario hace click en el icono de su fotografía y elige la opción cambiar imagen de perfil.</td> 
+   <td>El usuario deberá presionar le botón de iniciar sesión para posteriormente ser dirigido al menu principal.</td> 
    </tr> 
    </tr> 
   <tr>  
@@ -1125,7 +1125,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTAyNTMxODksMTY1MTgwNDkyNCwtNz
-c3ODY2OTY1LDc2NzQ4MDc5LDE1MDMyMjMyNywxODk5NjU2NjQ1
-LC0zNDY4NTk0NCwtMjg3MTY2NzM5LDE4NDIzMjcyOV19
+eyJoaXN0b3J5IjpbLTcyNTUxOTU3MywxNjUxODA0OTI0LC03Nz
+c4NjY5NjUsNzY3NDgwNzksMTUwMzIyMzI3LDE4OTk2NTY2NDUs
+LTM0Njg1OTQ0LC0yODcxNjY3MzksMTg0MjMyNzI5XX0=
 -->
