@@ -807,13 +807,17 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <td>6</td> 
    <td>El usuario observa su correo electrónico y calificación debajo de la imagen de perfil.</td> 
 </tr>
-
- <td>7</td> 
-   <td>El usuario accede al botón de número de telefónico y pulsa en editar.</td>
-</tr>
+<td>7</td> 
+   <td>El usuario presiona el botón de número telefónico, </td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>8</td> 
+   <td>Le aparecerán los términos y condiciones que el trabajador deberá leer y aceptar para poder concluir su registro, posteriormente le saldrá una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionados.</td> 
+   </tr> 
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">No será posible cambiar ni el nombre, ni el correo electrónico.
+       <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real
        </tr> 
        </td> 
     </tr> 
@@ -822,7 +826,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
      <tr>  
    <td>
 
-- Solo se le permite al usuario seleccionar una única imagen de su galería.
+- Si la identificación oficial y la fotografía no coinciden no podrá proceder el registro.
 - El usuario no puede cambiar su imagen de perfil múltiples veces.
  </table>
  
@@ -1183,8 +1187,8 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODM0NTAzNSwtNzI1NTE5NTczLDE2NT
-E4MDQ5MjQsLTc3Nzg2Njk2NSw3Njc0ODA3OSwxNTAzMjIzMjcs
-MTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwxODQyMz
-I3MjldfQ==
+eyJoaXN0b3J5IjpbLTEwNDk0OTMxNzYsLTcyNTUxOTU3MywxNj
+UxODA0OTI0LC03Nzc4NjY5NjUsNzY3NDgwNzksMTUwMzIyMzI3
+LDE4OTk2NTY2NDUsLTM0Njg1OTQ0LC0yODcxNjY3MzksMTg0Mj
+MyNzI5XX0=
 -->
