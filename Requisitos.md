@@ -1030,11 +1030,11 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El usuario y el trabajador deben estar ya registrados y aprobar por ambos el chat</td> 
+       <td colspan="2">El usuario y el trabajador deben estar ya registrados</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
-       <td colspan="2">El sistema deberá rcontar con un chat entre usuarios y trabajadores para agendar fechas, horarios y costos del servicio.</td> 
+       <td colspan="2">El sistema deberá contar con un chat entre usuarios y trabajadores para agendar fechas, horarios y costos del servicio.</td> 
    </tr> 
      <tr>  
       <td rowspan="9"><b>Secuencia normal</b></td>
@@ -1205,6 +1205,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5NjQ1NTM4LDE4MDY1NzQ3LC0xNjYzMD
+eyJoaXN0b3J5IjpbLTUzNzYzMjQ0LDE4MDY1NzQ3LC0xNjYzMD
 QwNjYxLC0yMTMzODEzNjU5XX0=
 -->
