@@ -699,7 +699,54 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>5</td> 
-   <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.</td> 
+   <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.</td>
+
+<br>
+
+<table  align=center>
+<tr>
+<th>CU-03</th>
+<th  colspan="2">Elección de trabajador </th>
+</tr>
+<tr>
+<td><b>Versión</b></td>
+<td  colspan="2">1.0 (29/10/2023)</td>
+</tr>
+<tr>
+<td><b>Precondición</b></td>
+<td  colspan="2">El usuario ha realizado una búsqueda </td>
+</tr>
+<tr>
+<td><b>Descripción</b></td>
+<td  colspan="2">El cliente podrá seleccionar el trabajador que prefiera de la lista desplegada, visualizar su perfil, elegir activar el chat con el trabajador y contratar su servicio. </td>
+</tr>
+<tr>
+<td  rowspan="3"><b>Secuencia normal</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td>1</td>
+<td>El cliente selecciona un trabajador </td>
+</tr>
+<tr>
+<td>2</td>
+<td>El sistema abre el perfil del trabajador y despliegan las opciones de chat y contratar servicio </td>
+</tr>
+<tr>
+<td><b>Postcondición</b></td>
+<td  colspan="2">El trabajador y el usuario se ponen en contacto </td>
+</tr>
+<tr>
+<td  rowspan="2"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td  rowspan="3">  </td>
+<td  >  </td>
+</tr>
+</table>
    
     
 
@@ -728,7 +775,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <br>
 <table  align=center>
 <tr>
-<th>CU-03</th>
+<th>CU-03?</th>
 <th  colspan="2">Búsqueda y filtro </th></tr>
 <tr>
 <td><b>Versión</b></td>
@@ -1081,7 +1128,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTgwNDkyNCwtNzc3ODY2OTY1LDc2Nz
-Q4MDc5LDE1MDMyMjMyNywxODk5NjU2NjQ1LC0zNDY4NTk0NCwt
-Mjg3MTY2NzM5LDE4NDIzMjcyOV19
+eyJoaXN0b3J5IjpbMTExNDEzMjA5LDE2NTE4MDQ5MjQsLTc3Nz
+g2Njk2NSw3Njc0ODA3OSwxNTAzMjIzMjcsMTg5OTY1NjY0NSwt
+MzQ2ODU5NDQsLTI4NzE2NjczOSwxODQyMzI3MjldfQ==
 -->
