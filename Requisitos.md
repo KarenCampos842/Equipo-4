@@ -936,7 +936,86 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
  - Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación
  - Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.      
- </table> 
+ </table>
+ 
+ <table align=center>  
+   <tr>
+     <th>CU-01</th>  
+      <th colspan="2">Registro del trabajador</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (29/10/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El trabajador deberá de contar con una tarjeta de débito o crédito con fondos para comprobar que se pueda cobrar en los próximos meses, y también no haberse registrado antes</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema deberá registrar a todo trabajador con éxito, siendo rápido y eficiente.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="15"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El trabajador debe seleccionar el icono de registrarse para comenzar su registro</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>Debe seleccionar en el icono de trabajador</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: Su nombre completo, un correo electrónico y un número de teléfono. Una vez llenado los datos correctos, le da en el botón de "Continuar"</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td> Posteriormente se le llevará a una ventana en la que deberá elegir una opción de identificación oficial como: Cartilla milita o INE. Subir una foto o un archivo de la seleccionada o poder tomar una foto al momento de la identificación </td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td> Deberá tomarse una foto en el momento que será usada para su foto de perfil del trabajador, una vez ya tomada le dará en el botón "continuar"</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>6</td> 
+   <td> Se le llevará a otra ventana en la que completará su registro llenando los datos que aparecerán en su perfil como: Los municipios o colonias en los que le gustaría trabajar más, asi como su profesión y de los servicios o habilidades que puede ofrecer, una vez concluido le dará en "continuar" </td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>7</td> 
+   <td> Tendrá que registrar una tarjeta de crédito o débito en la siguiente ventana para obtener el primer mes gratis y se le cobre periódicamente los 75 pesos mensuales de la membresía, tendrá que llenar los datos de la tarjeta como el número, su fecha de caducidad y el cvv. Una vez comprobado que la tarjeta cuenta con los fondos suficientes, se le devolverá el dinero y el usuario le dará en "continuar"</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>8</td> 
+   <td>Le aparecerán los términos y condiciones que el trabajador deberá leer y aceptar para poder concluir su registro, posteriormente le saldrá una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionados.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real
+       </tr> 
+       </td> 
+    </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+     <tr>  
+   <td>
+
+- Si la identificación oficial y la fotografía no coinciden no podrá proceder el registro.
+ - Si la tarjeta no contiene fondos suficientes, tendrá que ingresar otra o meterle fondos a la tarjeta.
+ - Si el correo o el número de teléfono ya están registrados en el sistema no se podrá proceder.
+ - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
+ - Si no acepta los términos y condiciones no podrá avanzar
+ 
+ </table>
  
    ### Diagrama de caso de uso
 
@@ -948,6 +1027,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzIyMzI3LDE4OTk2NTY2NDUsLTM0Nj
-g1OTQ0LC0yODcxNjY3MzksMTg0MjMyNzI5XX0=
+eyJoaXN0b3J5IjpbLTkwMzE2MzYyLDE1MDMyMjMyNywxODk5Nj
+U2NjQ1LC0zNDY4NTk0NCwtMjg3MTY2NzM5LDE4NDIzMjcyOV19
+
 -->
