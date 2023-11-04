@@ -11,7 +11,7 @@ Agregamos un método que les ofrece a los usuarios un método mediante el cual p
 
 Definimos que en la búsqueda de servicios, los resultados serán mostrados con base en un área cercana al usuario, segmentada por municipios.
 
-Además de todo lo anterior, hemos hecho modificaciones en las funciones de la aplicación, evidenciadas en los requisitos, para que los usuarios puedan tener una selección más amplia de parámetros que pueden editar en sus respectivos perfiles. 
+Además de todo lo anterior, hemos hecho modificaciones en los artefactos agregando historias de usuario con las que no contábamos en la primera entrega y casos de uso más detallados. 
 
 **Interfaz**
 
