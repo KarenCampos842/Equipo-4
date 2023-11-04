@@ -879,7 +879,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr> 
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">El enlace de reestablecimiento de contraseña solo puede ser usado una vez.
+       <td colspan="2">No será posible cambiar ni el nombre, ni el correo electrónico.
        </tr> 
        </td> 
     </tr> 
@@ -888,9 +888,8 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
      <tr>  
    <td>
 
-- Solo se le permite al usuario enviar el enlace de restablecimiento de contraseña a un correo electrónico, que será aquel con el que intente el inicio de sesión.
-- Si el correo electrónico al que se le intenta enviar el enlace de restablecimiento de contraseña no existe en la base de datos como previamente registrado, se le avisará al usuario que dicho correo electrónico no está registrado.
-- No se podrá aceptar una nueva contraseña idéntica a la anterior.
+- Solo se le permite al usuario seleccionar una única imagen de su galería.
+- El usuario puede EL
  </table>
  
 <br>
@@ -1082,7 +1081,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODU2MjY5OCwtNzc3ODY2OTY1LDc2Nz
-Q4MDc5LDE1MDMyMjMyNywxODk5NjU2NjQ1LC0zNDY4NTk0NCwt
-Mjg3MTY2NzM5LDE4NDIzMjcyOV19
+eyJoaXN0b3J5IjpbLTE4OTU2OTE4NjMsLTc3Nzg2Njk2NSw3Nj
+c0ODA3OSwxNTAzMjIzMjcsMTg5OTY1NjY0NSwtMzQ2ODU5NDQs
+LTI4NzE2NjczOSwxODQyMzI3MjldfQ==
 -->
