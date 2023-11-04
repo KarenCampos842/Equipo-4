@@ -5,8 +5,8 @@ WorkFlash es una aplicación en la que contará con 2 tipos de usuarios, los cli
 Al seleccionar el perfil del trabajador de tu preferencia se podrán ver todos los datos proporcionados por el trabajador, como su descripción, su experiencia y algunas reseñas de clientes que hayan adquirido sus servicios previamente. Habrá un icono de "chat" como se muestra en la imagen para poder fijar precios, fechas y horarios del servicio en cuestión; Cabe recordar que es importante que tanto cliente como trabajador hayan aceptado en tener comunicación por medio del chat, asi como el aceptar o no el servicio.
 Hay que recordar que el perfil es tu carta de presentación, por lo que los clientes y los trabajadores pueden personalizarla a su gusto.
 En el caso de los trabajadores tendrán que contar con una tarjeta bancaria en el que mensualmente se cobrará una tarifa de 75 pesos (el cual podrá cambiar con aviso previo). Los datos de la tarjeta estará enlazada al perfil y podrá ser modificada por el trabajador en cualquier momento. En dado caso de que no se cuenten con los fondos suficientes de la membresía al final del mes, se procederá a negar el acceso a la aplicación hasta que se renueve la membresía.
-Por último pero no menos importante, todos sabemos que lo que anima 
+Por último pero no menos importante, todos sabemos que lo que anima a los clientes a adquirir un servicio es por las reseñas y las calificaciones de clientes contando su experiencia adquiriendo dicho servicio, por lo que clientes y trabajadores podrán calificarse y/u opinar sobre su experiencia con dicho servicio ya adquirido y finalizado.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwMjg3NTE1LDE5MzMxNDc0NDBdfQ==
+eyJoaXN0b3J5IjpbMTUwNzc1Njc5MiwxOTMzMTQ3NDQwXX0=
 -->
