@@ -916,8 +916,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 - El usuario no puede cambiar su imagen de perfil múltiples veces.
  </table>
  
-<br>
-
+ <br>
 
 <table  align=center>
 <tr>
@@ -967,7 +966,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td> 1 </td>
-<td>El sistema notifica al usuario que no encuentra el oficio buscado cuando éste no se encuentra en la base de datos. </td>
+<td>Si el oficio buscado no está dado de alta  en la base de datos, el sistema notifica al usuario que no encuentra el oficio buscado.</td>
 </tr>
 </table>
 
@@ -1206,6 +1205,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQyOTc3MjYsLTE2NjMwNDA2NjEsLT
-IxMzM4MTM2NTldfQ==
+eyJoaXN0b3J5IjpbMTgwNjU3NDcsLTE2NjMwNDA2NjEsLTIxMz
+M4MTM2NTldfQ==
 -->
