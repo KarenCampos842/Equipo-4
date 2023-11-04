@@ -710,18 +710,18 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td><b>Versión</b></td>
-<td  colspan="2">1.0 (29/11/2023)</td>
+<td  colspan="2">1.0 (30/10/2023)</td>
 </tr>
 <tr>
 <td><b>Precondición</b></td>
-<td  colspan="2">El usuario ha realizado una búsqueda </td>
+<td  colspan="2">El usuario deberá de contar con un usuario y contraseña registrados previamente.</td>
 </tr>
 <tr>
 <td><b>Descripción</b></td>
-<td  colspan="2">El cliente podrá seleccionar el trabajador que prefiera de la lista desplegada, visualizar su perfil, elegir activar el chat con el trabajador y contratar su servicio. </td>
+<td  colspan="2">El sistema deberá autentificar rápidamente al usuario en caso de que sus datos sean correctos.</td>
 </tr>
 <tr>
-<td  rowspan="3"><b>Secuencia normal</b></td>
+<td  rowspan="3"><b>El usuario debe rellenar el campo de usuario.</b></td>
 <td><b>Paso</b></td>
 <td><b>Acción</b></td>
 </tr>
@@ -1128,7 +1128,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzczNjQzNzksMTY1MTgwNDkyNCwtNz
+eyJoaXN0b3J5IjpbLTEzMjkyNDE4OTgsMTY1MTgwNDkyNCwtNz
 c3ODY2OTY1LDc2NzQ4MDc5LDE1MDMyMjMyNywxODk5NjU2NjQ1
 LC0zNDY4NTk0NCwtMjg3MTY2NzM5LDE4NDIzMjcyOV19
 -->
