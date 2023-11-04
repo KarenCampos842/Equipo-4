@@ -927,7 +927,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 <table  align=center>
 <tr>
-<th>CU-063</th>
+<th>CU-06</th>
 <th  colspan="2">Búsqueda y filtro </th></tr>
 <tr>
 <td><b>Versión</b></td>
@@ -981,7 +981,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 <table  align=center>
 <tr>
-<th>CU-074</th>
+<th>CU-07</th>
 <th  colspan="2">Elección de trabajador </th>
 </tr>
 <tr>
@@ -1213,8 +1213,8 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwMzQ0NjQ3LDk2NjI4NTc0OSw3ODgyMT
-cxNzAsLTcyNTUxOTU3MywxNjUxODA0OTI0LC03Nzc4NjY5NjUs
-NzY3NDgwNzksMTUwMzIyMzI3LDE4OTk2NTY2NDUsLTM0Njg1OT
-Q0LC0yODcxNjY3MzksMTg0MjMyNzI5XX0=
+eyJoaXN0b3J5IjpbLTcxNDQ5NTcxNCw5NjYyODU3NDksNzg4Mj
+E3MTcwLC03MjU1MTk1NzMsMTY1MTgwNDkyNCwtNzc3ODY2OTY1
+LDc2NzQ4MDc5LDE1MDMyMjMyNywxODk5NjU2NjQ1LC0zNDY4NT
+k0NCwtMjg3MTY2NzM5LDE4NDIzMjcyOV19
 -->
