@@ -572,7 +572,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
                 </li>
         <li>Confirmar correo electrónico y asegurase de que exista en la base de datos.
                 </li>
-                 <li>Comprobar que el sxistema envíe un correo electrónico con el enlace de restablecimiento de contraseña a la dirección reistra el orreo.</li>
+                 <li>Comprobar que el sistema envíe un correo electrónico con el enlace de restablecimiento de contraseña a la dirección registrada del usuario.</li>
                  <li>Comprobar que se ha enviado el enlace de restablecimiento de contraseña al correo proporcionado.</li>
  </table>      
  
@@ -699,18 +699,18 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>5</td> 
-   <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.
-   </td>
-</table>
+   <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.</td>
 
 <br>
 
 <table align=center>  
    <tr>
-     <th>CU-03</th>  
-      <th colspan="2">Auntentificación</th>      <tr>  
-     <td><b>Versión</b></td>  
-   /td>     <td colspan="2">1.0 (30/10/2023)</td> 
+     <th>CU-3</th>  
+      <th colspan="2">Auntentificación</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (30/10/2023)</td> 
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
@@ -741,13 +741,13 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
   <tr>
   <tr>  
-      <b></td>  
+      <td><b>Postcondición</b></td>  
        <td colspan="2">No será posible cambiar ni el nombre, ni el correo electrónico.
        </tr> 
        </td> 
     </tr> 
      <tr>  
-      <td rowspan=""><b></b></td>
+      <td rowspan="4"><b>Excepciones</b></td>
      <tr>  
    <td>
 
@@ -759,7 +759,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 <table align=center>  
    <tr>
-     <th>CU-04</th>  
+     <th>CU-4</th>  
       <th colspan="2">Perfil de trabajador</th>  
    </tr> 
     <tr>  
@@ -769,16 +769,14 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    <tr>  
       <td><b>Precondición</b></td>  
        <td colspan="2">El usuario deberá disponer de una cuenta de trabajador previamente registrada con la información correspondiente.</td> 
-   </tr>   
-  <tr>  
-<td colspan="2">Para poder ser registro válido deberá proporcionar un correo electrónico y un número de celular existentes y no haber sido registrados con anterioridad.
-       </tr>  
-      <td><b>Descripción</b> </td>  
-  <td colspan="2">El sistema debe permitir al usuario trabajador visualizar su perfil y realizar ciertas modificar ciertos parámetros del mismo.</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema debe permitir al usuario trabajador visualizar su perfil y realizar ciertas modificar ciertos parámetros del mismo.</td> 
    </tr> 
      <tr>  
-      <td rowspan="154"><b>Secuencia normal</b></td>
-       <td><b>PasoExcepciones</b></td> 
+      <td rowspan="15"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
   <tr>  
@@ -835,9 +833,10 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">El usuario no podrá modíficar la información de su perfil consecutivamente por más de 2 veces.  </td> 
+       <td colspan="2">El usuario no podrá modíficar la información de su perfil consecutivamente por más de 2 veces.
        </tr> 
-      </tr> 
+       </td> 
+    </tr> 
      <tr>  
       <td rowspan="4"><b>Excepciones</b></td>
      <tr>  
@@ -913,15 +912,8 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 - Solo se le permite al usuario seleccionar una única imagen de su galería.
 - El usuario no puede cambiar su imagen de perfil múltiples veces.
-  <tr>  
-  
-   <td>
- - Si el correo o el número de teléfono ya están registrados en el sistema o si no son válidos no se podrá proceder con el registro.
- - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
- - Si no acepta los términos y condiciones no podrá avanzar  
  </table>
-  
-
+ 
 <br>
 
 
@@ -979,7 +971,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 <br>
 
-<table  align=center>
+<table align=center>
 <tr>
 <th>CU-07</th>
 <th  colspan="2">Elección de trabajador </th>
@@ -1128,14 +1120,12 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
         </tr> 
      <tr>  
       <td rowspan="4"><b>Excepciones</b></td>
-   
-  <tr>  
-  
-   <td>
+     </tr>  
 
  - Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación
  - Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.      
  </table>
+
  <br>
  <table align=center>  
    <tr>
@@ -1201,7 +1191,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 - Solo se le permite al usuario enviar el enlace de restablecimiento de contraseña a un correo electrónico, que será aquel con el que intente el inicio de sesión.
 - Si el correo electrónico al que se le intenta enviar el enlace de restablecimiento de contraseña no existe en la base de datos como previamente registrado, se le avisará al usuario que dicho correo electrónico no está registrado.
 - No se podrá aceptar una nueva contraseña idéntica a la anterior.
- </table> 
+ </table>
  
    ### Diagrama de caso de uso
 
@@ -1212,9 +1202,11 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDQ5NTcxNCw5NjYyODU3NDksNzg4Mj
-E3MTcwLC03MjU1MTk1NzMsMTY1MTgwNDkyNCwtNzc3ODY2OTY1
-LDc2NzQ4MDc5LDE1MDMyMjMyNywxODk5NjU2NjQ1LC0zNDY4NT
-k0NCwtMjg3MTY2NzM5LDE4NDIzMjcyOV19
+eyJoaXN0b3J5IjpbLTYzNDY3NTUxMywtNzE0NDk1NzE0LDk2Nj
+I4NTc0OSw3ODgyMTcxNzAsLTcyNTUxOTU3MywxNjUxODA0OTI0
+LC03Nzc4NjY5NjUsNzY3NDgwNzksMTUwMzIyMzI3LDE4OTk2NT
+Y2NDUsLTM0Njg1OTQ0LC0yODcxNjY3MzksMTg0MjMyNzI5XX0=
+
 -->
