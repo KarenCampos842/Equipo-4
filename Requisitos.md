@@ -736,17 +736,17 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>El usuario deberá presionar le botón de iniciar sesión para posteriormente ser dirigido al menu principal.</td> 
-   </tr> 
-   </tr> 
-  <tr>  
-  <td>4</td> 
-   <td>El usuario puede elige entre sus imágenes de su galería o bien, se toma una.</td> 
-   </tr> 
-    </tr> 
-  <tr>  
+   <td>El usuario deberá presionar le botón de iniciar sesión para posteriormente ser dirigido al menu principal. </td> 
+   <> 
+   <> 
+  <>  
+  <>
+   <>
+   <> 
+    <> 
+  <>  
   <td> 
-   <td>El usuario presiona confirmar y regresa a su perfil.</td> 
+   <td>
    </tr> 
     </tr> 
   <tr>  
@@ -1125,7 +1125,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTEyOTE4MiwtNzI1NTE5NTczLDE2NT
+eyJoaXN0b3J5IjpbLTc0MTU2OTExMSwtNzI1NTE5NTczLDE2NT
 E4MDQ5MjQsLTc3Nzg2Njk2NSw3Njc0ODA3OSwxNTAzMjIzMjcs
 MTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwxODQyMz
 I3MjldfQ==
