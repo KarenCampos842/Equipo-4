@@ -949,11 +949,11 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El usuario deberá disponer de una cuenta de cliente o trabajador existente, mediante la cual disponga de un correo electrónico previamente resgistrado.</td> 
+       <td colspan="2">El usuario deberá disponer de una cuenta de cliente o trabajador existente, mediante la cual disponga de un correo electrónico previamente registrado.</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
-       <td colspan="2">El sistema deberá registrar a todo trabajador con éxito, siendo rápido y eficiente.</td> 
+       <td colspan="2">El sistema deberá permitir al dueño legítimo de una cuenta de WorkFlash, poder recuperar su contraseña en caso de olvido.</td> 
    </tr> 
      <tr>  
       <td rowspan="15"><b>Secuencia normal</b></td>
@@ -1027,7 +1027,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTU2MDg5MCw3Njc0ODA3OSwxNTAzMj
+eyJoaXN0b3J5IjpbMTAwOTQyMjkwMyw3Njc0ODA3OSwxNTAzMj
 IzMjcsMTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwx
 ODQyMzI3MjldfQ==
 -->
