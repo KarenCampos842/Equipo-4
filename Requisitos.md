@@ -1062,10 +1062,10 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>5</td> 
-   <td>El trabajador e</td> 
+   <td>El trabajador envía un mensaje y el cliente es notificado.</td> 
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">Para poder abrir el chat este debe ser aceptado por ambos y para ser cerrado, debe ser cerrado por ambos.
+       <td colspan="2">Cliente y trabajador se ponen en contacto.
        </tr> 
        </td> 
        </tr> 
@@ -1073,8 +1073,6 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
       <td rowspan="4"><b>Excepciones</b></td>
    <tr>  
    <td>
-
- - Si el trabajador no acepta el chat, no se podrán enviar ni recibir mensajes por parte de ese cliente
 
  <br>
  
@@ -1205,6 +1203,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDcyMzczNSwtMTc1NTU5MDgyMCwxOD
+eyJoaXN0b3J5IjpbLTM4OTE5NTI3MCwtMTc1NTU5MDgyMCwxOD
 A2NTc0NywtMTY2MzA0MDY2MSwtMjEzMzgxMzY1OV19
 -->
