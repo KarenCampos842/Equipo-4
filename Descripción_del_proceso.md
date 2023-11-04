@@ -227,7 +227,7 @@ Utilizar la siguiente plantilla:
  **Archivo del trabajo/Resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>
  
 ## Scrum team meeting
- Karen se encargará de realizar reuniones con el equipo vía Teams o de forma presencial de no más de 15 minutos  para monitorear el trabajo realizado. Las reuniones tendrán lugar todos los días, exceptuando fines de semana hasta la entrega de la presentación del primer avance.
+ Karen se encargará de realizar reuniones con el equipo vía Teams o de forma presencial de no más de 15 minutos  para monitorear el trabajo realizado. Las reuniones tendrán lugar todos los días, exceptuando fines de semana y días inhábiles hasta el fin del sprint.
  
 ## Sprint review
  
@@ -245,11 +245,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MD
-kxNTg1LDE4OTUxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDcz
-OCwtNjgzMDQ4OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMj
-A4MTk2Nzk2LDE1Njc3MDI1NjksMTM4OTM5MjM1NiwtNDE5ODc4
-NzExLDEyODg1MDMzODAsMTcxMDM5ODM5NCwxMTE2NTgwMDk2LC
-02Mjc2ODM3ODcsLTE1MjcyODM3OTIsLTQ4MjgwNjkyMSwtMTc0
-NTEzOTYwMV19
+eyJoaXN0b3J5IjpbLTExODM5NjEzMCw5MDM2NDY3MzAsODY1MT
+QxNjc2LC05MzUwOTE1ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5
+LC0xODUxODc0NzM4LC02ODMwNDg5NDAsLTg5NDcyNDExOCwtNT
+QwMjQyODczLC0yMDgxOTY3OTYsMTU2NzcwMjU2OSwxMzg5Mzky
+MzU2LC00MTk4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LD
+ExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMTUyNzI4Mzc5MiwtNDgy
+ODA2OTIxXX0=
 -->

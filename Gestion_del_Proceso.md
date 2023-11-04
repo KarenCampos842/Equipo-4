@@ -1,16 +1,40 @@
 ﻿<center><h1>Gestión del Proceso</h1></center>
 
 ## Bitácora
-**Miércoles 18 de septiembre de 2023 (Retrospective)**<br> Durante la reunión se realizó un análisis del desempeño del equipo durante el último sprint. Como resultado hubo un cambio de líder (de Moisés a Karen), debido a problemas de organización. 
+**Miércoles 18 de octubre de 2023 (Retrospective)**<br> Durante la reunión se realizó un análisis del desempeño del equipo durante el último sprint. Como resultado hubo un cambio de líder (de Moisés a Karen), debido a problemas de organización. 
 
-**Viernes 27 de septiembre de 2023 (Sprint planning meeting)**<br> Durante la reunión se habló sobre las historias de usuario y se definieron las actividades para el segundo sprint, las cuales quedan detalladas en el archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> y en el apartado de <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#sprint-backlog">Sprint Backlog</a> del archivo "Gestión_del_Proceso". 
+**Viernes 27 de octubre de 2023 (Sprint planning meeting)**<br> Durante la reunión se habló sobre las historias de usuario y se definieron las actividades para el segundo sprint, las cuales quedan detalladas en el archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> y en el apartado de <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#sprint-backlog">Sprint Backlog</a> del archivo "Gestión_del_Proceso". 
 Karen acordó elaborar dichos elementos, además de escribir las historias de usuario comentadas durante la reunión. 
 
 Productos: 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#artefactos">Requisitos.md</a>, (historias de usuario).
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#artefactos">historias de usuario</a>.
 
 Fecha límite: 28/10/2023
 
+**Lunes 29 de octubre de 2023** <br> 
+Durante la reunión Hansony y Moisés manifestaron tener problemas para realizar los casos de uso (dudas sobre el formato). Karen acordó ayudarles con los problemas que estaban teniendo. 
+
+Productos: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">casos de uso</a>.
+
+Fecha límite: 30/10/2023
+
+**Martes 30 de octubre de 2023** <br> 
+Durante la reunión Carlos manifestó tener problemas realizando las excepciones de los casos de uso,  Karen acordó ayudarle con los problemas que estaba teniendo. 
+
+Productos: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">casos de uso</a>.
+
+Fecha límite: 30/10/2023
+
+**Viernes 3 de noviembre de 2023** <br> 
+Durante la reunión, Asaf manifestó haber tenido problemas para realizar sus actividades, entre ellas la "Evolución del producto" . Por causa de fuerza mayor se realizó una reestructuración y se asignó a Brandon dicha actividad. Por otra parte, Karen acordó reunirse con Moisés para aclarar dudas sobre la elaboración del video. 
+
+Productos: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Metrica_de_Contribucion.md">Metrica_de_Contribucion.md</a>
+ 
+Fecha límite: 3/11/2023
+Fecha límite: 5/11/2023 (Presentación del avance)
 
 ## Sprint Backlog
 Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
@@ -97,7 +121,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>   
    <tr>  
       <td>Evolución del producto
- (Asaf)</td>  
+ <del>(Asaf)</del> (Brandon)</td>  
        <td>Medio</td>
         <td>28/10/2023</td>
        <td>31/10/2023</td>
@@ -218,9 +242,10 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTg1NDIyNCwtMTQyMjc2NDUwMiw2Mj
-Y2OTcwMjYsNDEyNTI5MTUwLDE2MTQ2NzMwMjEsOTk0NzM2NzE0
-LDExOTEzODgxOTMsLTM2MjIzMTQyOCwtNzcwNDA4MDk2LC0xNT
-c3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMwOTI0MjQsLTE0Mjkx
-Nzc2MjBdfQ==
+eyJoaXN0b3J5IjpbMTY4ODgzMzE0OCwxOTc0NzY5OTc1LC0xNz
+g0NDg0NDEzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MDIsNjI2Njk3
+MDI2LDQxMjUyOTE1MCwxNjE0NjczMDIxLDk5NDczNjcxNCwxMT
+kxMzg4MTkzLC0zNjIyMzE0MjgsLTc3MDQwODA5NiwtMTU3NzY0
+NDk4NiwxNjc0NTQ1NTgyLC0xNjAzMDkyNDI0LC0xNDI5MTc3Nj
+IwXX0=
 -->
