@@ -825,6 +825,72 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 </table>
 
+<table align=center>  
+   <tr>
+     <th>CU-16</th>  
+      <th colspan="2">Recuperación de contraseña</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (03/11/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El usuario deberá disponer de una cuenta de cliente o trabajador existente, mediante la cual disponga de un correo electrónico previamente registrado.</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema deberá permitir al dueño legítimo de una cuenta de WorkFlash, recuperar su contraseña en caso de olvido.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="15"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El usuario deberá seleccionar el enlace de recuperación de contraseña en el menú de inicio de sesión.</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>El usuario deberá confirmar el envío del enlace de recuperación de contraseña al correo asociado a su cuenta.</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>Se le pedirá al usuario ingresar al enlace enviado a su bandeja de entrada para poder cambiar su contraseña.</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>Después de presionar al enlace enviado a su correo electrónico el usuario será redirigido a una ventana en donde podrá crear una nueva contraseña.</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td>El usuario deberá confirmar su nueva contraseña.</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>6</td> 
+   <td>Se le redirigirá al usuario nuevamente al menú de inicio de sesión.</td> 
+</tr> 
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">El enlace de reestablecimiento de contraseña solo puede ser usado una vez.
+       </tr> 
+       </td> 
+    </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+     <tr>  
+   <td>
+
+- Solo se le permite al usuario enviar el enlace de restablecimiento de contraseña a un correo electrónico, que será aquel con el que intente el inicio de sesión.
+- Si el correo electrónico al que se le intenta enviar el enlace de restablecimiento de contraseña no existe en la base de datos como previamente registrado, se le avisará al usuario que dicho correo electrónico no está registrado.
+- No se podrá aceptar una nueva contraseña idéntica a la anterior.
+ </table>
+ 
 <br>
 
 <table align=center>  
@@ -1014,7 +1080,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk2MzAyMzYsNzY3NDgwNzksMTUwMz
-IyMzI3LDE4OTk2NTY2NDUsLTM0Njg1OTQ0LC0yODcxNjY3Mzks
-MTg0MjMyNzI5XX0=
+eyJoaXN0b3J5IjpbMTUyOTgwODA2OSw3Njc0ODA3OSwxNTAzMj
+IzMjcsMTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwx
+ODQyMzI3MjldfQ==
 -->
