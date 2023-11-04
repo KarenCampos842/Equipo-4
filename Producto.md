@@ -24,7 +24,9 @@ Workflash consiste en una aplicación móvil que sirve de intermediaria entre cl
 
 Esta aplicación es una alternativa a todas las demás plataformas que ofrecen funciones similares porque la gran mayoría de ellas no tienen una manera óptima de asegurar la seguridad de los acuerdos, tal como AyFix, uno de nuestros principales competidores, mientras que Workflash, tiene como objetivo garantizar la mejor experiencia para los usuarios mediante la validación de los proveedores de servicios por medio de su documentación oficial. Además, tanto los proveedores de servicios, como los clientes pueden hacer uso de un sistema de reportes en caso de que lo necesiten.
 
-Nuestra plataforma garantiza la seguridad tanto de los usuarios como de los trabajadores y mantiene un estándar de calidad en los servicios que hacen que la aplicación sea una mejor opción ante la competencia que, entre muchas cosas, no están al tanto de las quejas de sus usuarios, lo que se puede notar en las reseñas que tienen en las tiendas de aplicaciones.
+Nuestra plataforma garantiza la seguridad tanto de los usuarios como de los trabajadores y mantiene un estándar de calidad en los servicios.
+
+El método de monetización de WorkFlash es por medio de una suscripción, en la que los usuarios registrados como provedores de servicios pagan una cuota mensual de $75 para que los usu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQyNTEzMjldfQ==
+eyJoaXN0b3J5IjpbLTg3MjM5NTMzNF19
 -->
