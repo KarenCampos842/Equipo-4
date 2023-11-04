@@ -771,8 +771,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El usuario deberá disponer de una cuenta de trabajador previamente registrada con la información correspondiente.</td> 
    </tr>   
   <tr>  
-      <td><b>Postcondición</b></td>  
-       <td colspan="2">Para poder ser registro válido deberá proporcionar un correo electrónico y un número de celular existentes y no haber sido registrados con anterioridad.
+<td colspan="2">Para poder ser registro válido deberá proporcionar un correo electrónico y un número de celular existentes y no haber sido registrados con anterioridad.
        </tr>  
       <td><b>Descripción</b> </td>  
   <td colspan="2">El sistema debe permitir al usuario trabajador visualizar su perfil y realizar ciertas modificar ciertos parámetros del mismo.</td> 
@@ -1214,8 +1213,8 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODA2OTMsOTY2Mjg1NzQ5LDc4ODIxNz
-E3MCwtNzI1NTE5NTczLDE2NTE4MDQ5MjQsLTc3Nzg2Njk2NSw3
-Njc0ODA3OSwxNTAzMjIzMjcsMTg5OTY1NjY0NSwtMzQ2ODU5ND
-QsLTI4NzE2NjczOSwxODQyMzI3MjldfQ==
+eyJoaXN0b3J5IjpbNTIwMzQ0NjQ3LDk2NjI4NTc0OSw3ODgyMT
+cxNzAsLTcyNTUxOTU3MywxNjUxODA0OTI0LC03Nzc4NjY5NjUs
+NzY3NDgwNzksMTUwMzIyMzI3LDE4OTk2NTY2NDUsLTM0Njg1OT
+Q0LC0yODcxNjY3MzksMTg0MjMyNzI5XX0=
 -->
