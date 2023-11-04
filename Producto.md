@@ -10,9 +10,9 @@ La plataforma representa una oportunidad de beneficio para ambas partes.
 
 <br>
 
-Esta aplicación está dirigida a aquellas personas que buscan a alguien capacitado para un trabajo u oficio en su casa. Su rango de edad puede variar; sin embargo, estimamos que a partir de los 18 años las personas son potenciales usuarios de esta aplicación, especialmente aquellos que no tienen mucho tiempo para atender los trabajos del hogar. También contemplamos a los jóvenes, debido a que, aunque haya gente con contactos para esos trabajos, los foráneos muy probablemente no tengan esos contactos y opten por usar nuestra plataforma. El nivel socioeconómico no es limitante, puesto que todos pueden contratar el servicio que le sea más accesible, siempre y cuando 
+Esta aplicación está dirigida a aquellas personas que buscan a alguien capacitado para un trabajo u oficio en su casa. Su rango de edad puede variar; sin embargo, estimamos que a partir de los 18 años las personas son potenciales usuarios de esta aplicación, especialmente aquellos que no tienen mucho tiempo para atender los trabajos del hogar. También contemplamos a los jóvenes, debido a que, aunque haya gente con contactos para esos trabajos, los foráneos muy probablemente no tengan esos contactos y opten por usar nuestra plataforma. El nivel socioeconómico no es limitante, puesto que todos pueden contratar el servicio que le sea más accesible, siempre y cuando valoren la calidad del servicio por los comentarios y la experiencia previa del trabajador.
 
-Además de los clientes, también priorizamos el impulso de los usuarios que ofrecen sus servicios, que son aquellos que han aprendido un oficio o saben como hacer algún trabajo y además quieran anunciarse para obtener más posibilidades de conseguir contratos y mejores ingresos con la ayuda de nuestra plataforma. Estimamos que su rango de edad estará entre 30-50 años y planeamos lanzar la versión beta en Yucatán para poder garantizar la calidad del servicio a medida que crezca el número de usuarios. Aunque en el futuro planeamos expandirnos a un nivel nacional.
+Además de los clientes, también priorizamos el impulso de los proveedores de servicios, que son aquellos que han aprendido un oficio o saben como hacer algún trabajo y además quieran anunciarse para obtener más posibilidades de conseguir contratos y mejores ingresos con la ayuda de nuestra plataforma. Estimamos que su rango de edad estará entre 25-50 años y planeamos lanzar la versión beta en un área cercana a Mérida para poder garantizar la calidad del servicio a medida que crezca el número de usuarios. Aunque en el futuro planeamos expandirnos a un nivel estatal.
 
   
 
@@ -26,5 +26,5 @@ Esta aplicación es una alternativa a todas las demás plataformas que ofrecen f
 
 Nuestra plataforma garantiza la seguridad tanto de los usuarios como de los trabajadores y mantiene un estándar de calidad en los servicios que hacen que la aplicación sea una mejor opción ante la competencia que, entre muchas cosas, no están al tanto de las quejas de sus usuarios, lo que se puede notar en las reseñas que tienen en las tiendas de aplicaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTEzNzM4OV19
+eyJoaXN0b3J5IjpbLTY3OTc2MTI4OF19
 -->
