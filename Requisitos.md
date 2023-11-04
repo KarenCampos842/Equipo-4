@@ -776,12 +776,12 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <td  colspan="2">El usuario es libre de seleccionar con quien quiere trabajar </td>
 </tr>
 <tr>
-<td  rowspan="2"><b>Excepciones</b></td>
+<td  rowspan="3"><b>Excepciones</b></td>
 <td><b>Paso</b></td>
 <td><b>Acción</b></td>
 </tr>
 <tr>
-<td  rowspan="2">  </td>
+<td> d </td>
 <td>s</td>
 </tr>
 </table>
@@ -793,33 +793,19 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <th>CU-01</th>
 <th  colspan="2">Elección de trabajador </th>
 </tr>
-
 <tr>
-
 <td><b>Versión</b></td>
-
 <td  colspan="2">1.0 (29/10/2023)</td>
-
 </tr>
-
 <tr>
-
 <td><b>Precondición</b></td>
-
 <td  colspan="2">El usuario ha realizado una búsqueda </td>
-
 </tr>
-
 <tr>
-
 <td><b>Descripción</b></td>
-
 <td  colspan="2">El cliente podrá seleccionar el trabajador que prefiera de la lista desplegada, visualizar su perfil, elegir activar el chat con el trabajador y contratar su servicio. </td>
-
 </tr>
-
 <tr>
-
 <td  rowspan="3"><b>Secuencia normal</b></td>
 
 <td><b>Paso</b></td>
@@ -1005,6 +991,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0Njg1OTQ0LC0yODcxNjY3MzksMTg0Mj
-MyNzI5XX0=
+eyJoaXN0b3J5IjpbLTE4NzQ0NTA5MzQsLTM0Njg1OTQ0LC0yOD
+cxNjY3MzksMTg0MjMyNzI5XX0=
 -->
