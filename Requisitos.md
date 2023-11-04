@@ -855,12 +855,12 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>El usuario observa los </td> 
+   <td>El usuario observa la información de su perfil y elige modificar su fotografía.</td> 
   </tr>
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>Se le pedirá al usuario ingresar al enlace enviado a su bandeja de entrada para poder cambiar su contraseña.</td> 
+   <td>El usuario hace click en el icono de su fotografía y elige la opción cambiar imagen de perfil</td> 
    </tr> 
    </tr> 
   <tr>  
@@ -1082,7 +1082,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDU4MDgyNiwtNzc3ODY2OTY1LDc2Nz
+eyJoaXN0b3J5IjpbMTMyNzc3ODAwNSwtNzc3ODY2OTY1LDc2Nz
 Q4MDc5LDE1MDMyMjMyNywxODk5NjU2NjQ1LC0zNDY4NTk0NCwt
 Mjg3MTY2NzM5LDE4NDIzMjcyOV19
 -->
