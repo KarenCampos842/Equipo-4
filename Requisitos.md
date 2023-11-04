@@ -825,10 +825,12 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 </table>
 
+<br>
+
 <table align=center>  
    <tr>
-     <th>CU-16</th>  
-      <th colspan="2">Recuperación de contraseña</th>  
+     <th>CU-5</th>  
+      <th colspan="2">Perfil de cliente</th>  
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
@@ -836,7 +838,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El usuario deberá disponer de una cuenta de cliente o trabajador existente, mediante la cual disponga de un correo electrónico previamente registrado.</td> 
+       <td colspan="2">El usuario deberá disponer de una cuenta de cliente previamente registrada.</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
@@ -1080,7 +1082,7 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTgwODA2OSw3Njc0ODA3OSwxNTAzMj
+eyJoaXN0b3J5IjpbLTc3Nzg2Njk2NSw3Njc0ODA3OSwxNTAzMj
 IzMjcsMTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwx
 ODQyMzI3MjldfQ==
 -->
