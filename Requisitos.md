@@ -574,22 +574,13 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
                 </li>
                  <li>Comprobar que existe texto antes y después de @ para el correo.</li>
                  <li>Comprobar que se ha enviado la contraseña al correo proporcionado.</li>
-
-  </tr>   
- </table>   
+ </table>      
+ 
   ### Casos de uso
-
-
-  <table align=center>  
-   <tr>
-     <th>CU-0</th>  
-      <th colspan="2">Búsqueda y filtro </th>  
-
   <table align=center>  
    <tr>
      <th>CU-01</th>  
       <th colspan="2">Registro del trabajador</th>  
-
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
@@ -597,69 +588,6 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-
-       <td colspan="2">El cliente se ha registrado como cliente. </td> 
-   </tr> 
-    <tr>  
-      <td><b>Descripción</b></td>  
-       <td colspan="2">El sistema mostrará al cliente una barra de <br>
-        búsqueda en la que podrá ingresar un oficio y filtrará las <br>
-        opciones con criterios de calificación y ubicació</td> 
-   </tr> 
-     <tr>  
-      <td rowspan="5"><b>Secuencia normal</b></td>
-       <td><b>Paso</b></td>
-        <td><b>Acción</b></td> 
-    </tr> 
-
-     
-  <tr>  
-    <td>1</td> 
-     <td>El cliente ingresa el nombre de un oficio </td> 
-  </tr>  
-  
-  <tr>  
-  <td>2</td> 
-   <td>El sistema despliega una lista de oficios </td> 
-  </tr>
-  
- <tr>  
-  <td>3</td> 
-   <td>El cliente selecciona el trabajo que desea contratar</td> 
-  </tr>  
-  
- <tr>  
-  <td>3</td> 
-   <td>El sistema organiza los resultados de búsqueda y crea una <br> lista de trabajadores con algunos de sus datos</td> 
-  </tr>  
-
-  <tr>  
-      <td><b>Postcondición</b></td>  
-       <td colspan="2">El usuario es libre de seleccionar con quien quiere trabajar </td> 
-   </tr> 
-     <tr>  
-      <td rowspan="2"><b>Excepciones</b></td>
-       <td><b>Paso</b></td> 
-        <td><b>Acción</b></td>  
-    </tr> 
-  <tr>  
-  <td rowspan="3"> </td> 
-   
-  <td > </td>
- 
-  </tr>   
- </table>   
-
-
-
-
- 
-
-  <table align=center>  
-   <tr>
-     <th>CU-0</th>  
-      <th colspan="2">Elección de trabajador </th>  
-
        <td colspan="2">El trabajador deberá de contar con una tarjeta de débito o crédito con fondos para comprobar que se pueda cobrar en los próximos meses, y también no haberse registrado antes</td> 
    </tr> 
     <tr>  
@@ -807,39 +735,11 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 <br>
 
-<table align=center>  
-   <tr>  
-      <th>Historia de usuario #8</th>  
-      <th>Chat</th> 
-   </tr> 
-    <tr>  
-      <td><b>Como</b></td>  
-       <td>cliente</td> 
-   </tr> 
-    <tr>  
-      <td><b>Quiero</b></td>  
-       <td>poder conversar con el trabajador que elija</td> 
-   </tr> 
-     <tr>  
-      <td><b>Para</b></td>  
-       <td>hacer cotizaciones, llegar a acuerdos, agendar citas. </td> 
-   </tr> 
-  <tr>  
-      <td><b>Criterios de aceptación</b></td>  
-       <td> 
-           <ul>
-                <li>Comprobar que cuando el cliente seleccione la opción de chat, la función se habilite. </li>
-                <li>Comprobar que el receptor reciba los mensajes del emisor.
-                </li>
-               <li>Comprobar que el chat permita compartir imágenes. </li>          
-            </tr>
- </table>      
- <br>    
+
 <table align=center>  
    <tr>
      <th>CU-08</th>  
       <th colspan="2">Chat</th>  
-
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
@@ -847,51 +747,6 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-
-       <td colspan="2">El usuario ha realizado una búsqueda  </td> 
-   </tr> 
-    <tr>  
-      <td><b>Descripción</b></td>  
-       <td colspan="2">El cliente podrá seleccionar el trabajador que prefiera de la lista desplegada, visualizar su perfil, elegir activar el chat con el trabajador y contratar su servicio. </td> 
-   </tr> 
-     <tr>  
-      <td rowspan="3"><b>Secuencia normal</b></td>
-       <td><b>Paso</b></td>
-        <td><b>Acción</b></td> 
-    </tr> 
-
-     
-  <tr>  
-    <td>1</td> 
-     <td>El cliente selecciona un trabajador  </td> 
-  </tr>  
-  
-  <tr>  
-  <td>2</td> 
-   <td>El sistema abre el perfil del trabajador y despliegan las opciones de chat y contratar servicio  </td> 
-  </tr>
-
-
-  <tr>  
-      <td><b>Postcondición</b></td>  
-       <td colspan="2">El trabajador y el usuario se ponen en contacto </td> 
-   </tr> 
-     <tr>  
-      <td rowspan="2"><b>Excepciones</b></td>
-       <td><b>Paso</b></td> 
-        <td><b>Acción</b></td>  
-    </tr> 
-  <tr>  
-  <td rowspan="3"> </td> 
-   
-  <td > </td>
- 
-  </tr>   
- </table>   
-
-
-
-=======
        <td colspan="2">El usuario y el trabajador deben estar ya registrados y aprobar por ambos el chat</td> 
    </tr> 
     <tr>  
@@ -1001,11 +856,9 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    <td>
 
  - Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación
- - Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.
-
-
-       
+ - Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.      
  </table> 
+ 
    ### Diagrama de caso de uso
 
    ### Sprint backlog
@@ -1015,7 +868,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjMyNzI5XX0=
+eyJoaXN0b3J5IjpbLTI4NzE2NjczOSwxODQyMzI3MjldfQ==
 -->
