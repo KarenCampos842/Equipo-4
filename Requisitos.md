@@ -748,80 +748,45 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td><b>Descripción</b></td>
-<td  colspan="2">El sistema mostrará al cliente una barra de <br>
-búsqueda en la que podrá ingresar un oficio y filtrará las <br>
-opciones con criterios de calificación y ubicació</td>
-
+<td  colspan="2">El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio y filtrará las opciones con criterios de calificación y ubicació</td>
 </tr>
-
 <tr>
-
 <td  rowspan="5"><b>Secuencia normal</b></td>
-
 <td><b>Paso</b></td>
-
 <td><b>Acción</b></td>
-
 </tr>
-
 <tr>
-
 <td>1</td>
-
 <td>El cliente ingresa el nombre de un oficio </td>
-
 </tr>
-
 <tr>
-
 <td>2</td>
-
 <td>El sistema despliega una lista de oficios </td>
-
 </tr>
-
 <tr>
-
 <td>3</td>
-
 <td>El cliente selecciona el trabajo que desea contratar</td>
-
 </tr>
-
 <tr>
-
 <td>4</td>
-
 <td>El sistema organiza los resultados de búsqueda y crea una <br> lista de trabajadores con algunos de sus datos</td>
-
 </tr>
-
 <tr>
-
 <td><b>Postcondición</b></td>
-
 <td  colspan="2">El usuario es libre de seleccionar con quien quiere trabajar </td>
-
 </tr>
-
 <tr>
-
 <td  rowspan="2"><b>Excepciones</b></td>
-
 <td><b>Paso</b></td>
-
 <td><b>Acción</b></td>
-
 </tr>
-
 <tr>
-
 <td  rowspan="3">  </td>
-
 <td>  </td>
-
 </tr>
 </table>
+
+<br>
 
 <table  align=center>
 <tr>
@@ -1040,6 +1005,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ0Nzk0OTAsLTI4NzE2NjczOSwxOD
-QyMzI3MjldfQ==
+eyJoaXN0b3J5IjpbMjEyMDk0MDU5OCwtMjg3MTY2NzM5LDE4ND
+IzMjcyOV19
 -->
