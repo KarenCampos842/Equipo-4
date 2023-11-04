@@ -736,22 +736,22 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>El usuario deberá presionar le botón de iniciar sesión para posteriormente ser dirigido al menu principal. </td> 
-   <> 
-   <> 
-  <>  
-  <>
-   <>
-   <> 
-    <> 
-  <>  
-  <td> 
-   <td>
+   <td>El usuario deberá presionar le botón de iniciar sesión para posteriormente ser dirigido al menu principal.</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>El usuario puede elige entre sus imágenes de su galería o bien, se toma una.</td> 
    </tr> 
     </tr> 
   <tr>  
-  <td>
-   <td>
+  <td>5</td> 
+   <td>El usuario presiona confirmar y regresa a su perfil.</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>6</td> 
+   <td>El usuario observa su correo electrónico y calificación debajo de la imagen de perfil.</td> 
 </tr> 
   <tr>  
       <td><b>Postcondición</b></td>  
@@ -764,8 +764,9 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
      <tr>  
    <td>
 
-- Solo se le permite al usuario seleccionar una única imagen de su galería.
-- El usuario no puede cambiar su imagen de perfil múltiples veces.
+-  Introducir un usuario inexistence impedirá el inicio de sesión.
+- La contraseña introducida deberá ser correcta para el usuario introducido, en caso de escribirla incorrectamente no se podrá iniciar sesión.
+- Si no se introducen caracteres válidos el sistema no no permitirá realizar el inicio de sesión.
  </table>
  
 <br>
@@ -1125,8 +1126,8 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTU2OTExMSwtNzI1NTE5NTczLDE2NT
-E4MDQ5MjQsLTc3Nzg2Njk2NSw3Njc0ODA3OSwxNTAzMjIzMjcs
-MTg5OTY1NjY0NSwtMzQ2ODU5NDQsLTI4NzE2NjczOSwxODQyMz
-I3MjldfQ==
+eyJoaXN0b3J5IjpbOTE4MDg0MTgxLC03MjU1MTk1NzMsMTY1MT
+gwNDkyNCwtNzc3ODY2OTY1LDc2NzQ4MDc5LDE1MDMyMjMyNywx
+ODk5NjU2NjQ1LC0zNDY4NTk0NCwtMjg3MTY2NzM5LDE4NDIzMj
+cyOV19
 -->
