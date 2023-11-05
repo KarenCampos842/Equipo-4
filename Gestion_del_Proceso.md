@@ -180,49 +180,49 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>Alto</td> 
        <td>30/10/2023</td>
        <td>1/11/2023</td>
-        <td>En cursoTerminada</td>    
+        <td>Terminada</td>    
    </tr> 
    <tr>
     <td>Correspondencia con los Requisitos (Hansony)</td>  
         <td>Medio</td>
         <td>30/10/2023</td>
        <td>2/11/2023</td>
-        <td>En curso</td>     
+        <td>Terminada</td>     
    </tr>
    <tr>  
       <td>Diálogos (Asaf)</td>  
        <td>Alto</td>
          <td>30/10/2023</td>
        <td>2/11/2023</td>
-         <td>En curso</td>       
+         <td>Terminada</td>       
    </tr> 
    <tr>
     <td>Bosquejos de Interfaces (Karen)</td>  
         <td>Alto</td>
         <td>31/10/2023</td>
        <td>2/11/2023</td>
-        <td>En curso</td>     
+        <td>Terminada</td>     
    </tr>
    <tr>
     <td>Validación de Interfaces (Carlos)</td>  
         <td>Bajo</td>
         <td>31/10/2023</td>
        <td>2/11/2023</td>
-        <td>En curso</td>     
+        <td>Terminada</td>     
    </tr>  
    <tr>  
       <td>Audios (Asaf)</td>  
        <td>Medio</td>
          <td>2/11/2023</td>
        <td>2/11/2023</td>
-         <td>En curso</td>       
+         <td>Terminada</td>       
    </tr>                                                                                      
    <tr>  
       <td>Edición del video (Moisés)</td>  
        <td>Alto</td>
          <td>3/11/2023</td>
        <td>5/11/2023</td>
-         <td>En curso</td>       
+         <td>Terminada</td>       
    </tr>
     <tr>  
       <td colspan=3><strong>Total de actividades</strong></td>  
@@ -242,10 +242,10 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjYwMTA0OCwxNjg4ODMzMTQ4LDE5Nz
-Q3Njk5NzUsLTE3ODQ0ODQ0MTMsLTk3MTg1NDIyNCwtMTQyMjc2
-NDUwMiw2MjY2OTcwMjYsNDEyNTI5MTUwLDE2MTQ2NzMwMjEsOT
-k0NzM2NzE0LDExOTEzODgxOTMsLTM2MjIzMTQyOCwtNzcwNDA4
-MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMwOTI0Mj
-QsLTE0MjkxNzc2MjBdfQ==
+eyJoaXN0b3J5IjpbLTE1MTQ2NzA0NzUsMTY4ODgzMzE0OCwxOT
+c0NzY5OTc1LC0xNzg0NDg0NDEzLC05NzE4NTQyMjQsLTE0MjI3
+NjQ1MDIsNjI2Njk3MDI2LDQxMjUyOTE1MCwxNjE0NjczMDIxLD
+k5NDczNjcxNCwxMTkxMzg4MTkzLC0zNjIyMzE0MjgsLTc3MDQw
+ODA5NiwtMTU3NzY0NDk4NiwxNjc0NTQ1NTgyLC0xNjAzMDkyND
+I0LC0xNDI5MTc3NjIwXX0=
 -->
