@@ -75,7 +75,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
       <td>Alto</td>
         <td>27/10/2023</td>
        <td>5/11/2023</td>
-         <td>En curso</td>        
+         <td>En cursoTerminada</td>        
    </tr> 
     <tr>  
       <td>Métrica de contribución individual (Moisés)</td> 
@@ -96,28 +96,28 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>Alto</td> 
        <td>28/10/2023</td>
        <td>31/10/2023</td>
-        <td>En curso</td>    
+        <td>En cursoTerminada</td>    
    </tr>
     <tr>  
       <td>Competencias genéricas (Asaf)</td>  
        <td>Medio</td>
          <td>28/10/2023</td>
        <td>30/10/2023</td>
-         <td>En curso</td>       
+         <td>En cursoTerminada</td>       
    </tr> 
   <tr>  
       <td>Competencias específicas (Asaf)</td>  
        <td>Medio</td>
          <td>28/10/2023</td>
        <td>30/10/2023</td>
-         <td>En curso</td>       
+         <td>En cursoTerminada</td>       
    </tr>
  <tr>  
       <td>Product backlog (Hansony)</td>  
        <td>Medio</td>
          <td>28/10/2023</td>
        <td>2/10/2023</td>
-         <td>En curso</td>       
+         <td>En cursoTerminada</td>       
    </tr>   
    <tr>  
       <td>Evolución del producto
@@ -125,62 +125,62 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>Medio</td>
         <td>28/10/2023</td>
        <td>31/10/2023</td>
-        <td>En curso</td>   
+        <td>En cursoTerminada</td>   
    </tr> 
    <tr>  
       <td>Requerimientos no funcionales (Hansony)</td>  
         <td>Alto</td>
         <td>28/10/2023</td>
        <td>30/10/2023</td>
-        <td>En curso</td>     
+        <td>En cursoTerminada</td>     
    </tr> 
    <tr>  
       <td>Priorización (Hansony)</td>  
         <td>Bajo</td>
         <td>28/10/2023</td>
        <td>30/10/2023</td>
-        <td>En curso</td>     
+        <td>En cursoTerminada</td>     
    </tr> 
     <tr>  
       <td>Casos de uso: historias de usuario número 1, 2, 8 y 15 (Hansony)</td>  
         <td>Alto</td>
         <td>28/10/2023</td>
        <td>30/10/2023</td>
-        <td>En curso</td>     
+        <td>En cursoTerminada</td>     
    </tr>
     <td>Casos de uso: historias de usuario número  11, 12 , 13 y 14 (Carlos)</td>  
         <td>Alto</td>
         <td>28/10/2023</td>
        <td>30/10/2023</td>
-        <td>En curso</td>     
+        <td>En cursoTerminada</td>     
    </tr>
    <tr>
     <td>Casos de uso: historias de usuario número  6, 7, 9  y 10 (Moisés)</td>  
         <td>Alto</td>
         <td>28/10/2023</td>
        <td>30/10/2023</td>
-        <td>En curso</td>     
+        <td>En cursoTerminada</td>     
    </tr>
    <tr>
     <td>Casos de uso: historias de usuario número 3, 4, 5  y 16 (Brandon)</td>  
         <td>Alto</td>
         <td>28/10/2023</td>
        <td>30/10/2023</td>
-        <td>En curso</td>     
+        <td>En cursoTerminada</td>     
    </tr>
     <tr>
     <td>Diagrama de Caso de Uso (Carlos)</td>  
         <td>Alto</td>
         <td>28/10/2023</td>
        <td>31/10/2023</td>
-        <td>En curso</td>     
+        <td>En cursoTerminada</td>     
    </tr>
     <tr>  
       <td>Congruencia en los casos de uso (Brandon)</td>  
        <td>Alto</td> 
        <td>30/10/2023</td>
        <td>1/11/2023</td>
-        <td>En curso</td>    
+        <td>En cursoTerminada</td>    
    </tr> 
    <tr>
     <td>Correspondencia con los Requisitos (Hansony)</td>  
@@ -242,10 +242,10 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODgzMzE0OCwxOTc0NzY5OTc1LC0xNz
-g0NDg0NDEzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MDIsNjI2Njk3
-MDI2LDQxMjUyOTE1MCwxNjE0NjczMDIxLDk5NDczNjcxNCwxMT
-kxMzg4MTkzLC0zNjIyMzE0MjgsLTc3MDQwODA5NiwtMTU3NzY0
-NDk4NiwxNjc0NTQ1NTgyLC0xNjAzMDkyNDI0LC0xNDI5MTc3Nj
-IwXX0=
+eyJoaXN0b3J5IjpbLTIzMjYwMTA0OCwxNjg4ODMzMTQ4LDE5Nz
+Q3Njk5NzUsLTE3ODQ0ODQ0MTMsLTk3MTg1NDIyNCwtMTQyMjc2
+NDUwMiw2MjY2OTcwMjYsNDEyNTI5MTUwLDE2MTQ2NzMwMjEsOT
+k0NzM2NzE0LDExOTEzODgxOTMsLTM2MjIzMTQyOCwtNzcwNDA4
+MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMwOTI0Mj
+QsLTE0MjkxNzc2MjBdfQ==
 -->
