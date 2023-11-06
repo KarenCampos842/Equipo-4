@@ -25,7 +25,7 @@
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
-       <td>2/25=20%</td>
+       <td>3/25=12%</td>
       <td> Alto: 2/15= 13.33%<br>Medio: 0/6= 0%<br>Bajo: 1/4= 25%</td> 
    </tr> 
      <tr>  
@@ -41,6 +41,6 @@
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODg2MjM3LDExMDgzMzQ3NTEsMTkwNz
-YxMTg0NSwtNzEzOTMzOTMzXX0=
+eyJoaXN0b3J5IjpbLTMxNDI2NDI0OSwtNjQ4ODYyMzcsMTEwOD
+MzNDc1MSwxOTA3NjExODQ1LC03MTM5MzM5MzNdfQ==
 -->
