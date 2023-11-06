@@ -159,7 +159,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>Alto</td>
         <td>28/10/2023</td>
        <td>30/10/2023</td>
-        <td>Terminada</td>     
+        <td>No terminada</td>     
    </tr>
    <tr>
     <td>Casos de uso: historias de usuario número 3, 4, 5  y 16 (Brandon)</td>  
@@ -242,10 +242,10 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODk0NDA3MCwxNjg4ODMzMTQ4LDE5Nz
-Q3Njk5NzUsLTE3ODQ0ODQ0MTMsLTk3MTg1NDIyNCwtMTQyMjc2
-NDUwMiw2MjY2OTcwMjYsNDEyNTI5MTUwLDE2MTQ2NzMwMjEsOT
-k0NzM2NzE0LDExOTEzODgxOTMsLTM2MjIzMTQyOCwtNzcwNDA4
-MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMwOTI0Mj
-QsLTE0MjkxNzc2MjBdfQ==
+eyJoaXN0b3J5IjpbMzY4NDk3MjAzLDIwMDg5NDQwNzAsMTY4OD
+gzMzE0OCwxOTc0NzY5OTc1LC0xNzg0NDg0NDEzLC05NzE4NTQy
+MjQsLTE0MjI3NjQ1MDIsNjI2Njk3MDI2LDQxMjUyOTE1MCwxNj
+E0NjczMDIxLDk5NDczNjcxNCwxMTkxMzg4MTkzLC0zNjIyMzE0
+MjgsLTc3MDQwODA5NiwtMTU3NzY0NDk4NiwxNjc0NTQ1NTgyLC
+0xNjAzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
 -->
