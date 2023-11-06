@@ -20,7 +20,7 @@
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
-      <td>3/25=20%</td>
+      <td>3/25=12%</td>
       <td> Alto: 2/15= 13.33%<br>Medio: 1/6= 16.66%<br>Bajo: 0/4= 0%</td>    
    </tr> 
     <tr>  
@@ -30,19 +30,19 @@
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
-        <td>3/21=12%</td>
+        <td>3/25=12%</td>
         <td> Alto: 2/15= 13.33%<br>Mediano: 0/6= 0%<br>Bajo: 1/4= 25%</td>    
    </tr> 
     <tr>  
       <td>Suárez Balam Brandon Emmanuel</td> 
-      <td>3/21=12%</td>
+      <td>4/25=12%</td>
        <td> Alto: 3/15= 20%<br>Mediano: 1/6= 16.66%<br>Bajo: 0/4= 0%</td>       
    </tr> 
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg1MzYzMDAsMTM2MTcwMjE4MCwxMD
-U0NzQ0NTcwLDExNjcyMzA4NzcsLTQ5ODA5ODA5NCwtMTk1NDk0
-NjIxMywxMTA4MzM0NzUxLDE5MDc2MTE4NDUsLTcxMzkzMzkzM1
-19
+eyJoaXN0b3J5IjpbLTcyODk5MjcyMCwxMzYxNzAyMTgwLDEwNT
+Q3NDQ1NzAsMTE2NzIzMDg3NywtNDk4MDk4MDk0LC0xOTU0OTQ2
+MjEzLDExMDgzMzQ3NTEsMTkwNzYxMTg0NSwtNzEzOTMzOTMzXX
+0=
 -->
