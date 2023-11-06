@@ -1213,7 +1213,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
  </table>
  
    ### Diagrama de caso de uso
-   
+   ![enter image description here](https://github-production-user-asset-6210df.s3.amazonaws.com/143464988/280605824-a27ef423-58d7-4dd6-83d8-1661b4117367.jpg)
 
    ### Sprint backlog
 https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#sprint-backlog
@@ -1222,5 +1222,5 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDczOTAwN119
+eyJoaXN0b3J5IjpbLTYzMjg3ODQ5NSwtNjEwNzM5MDA3XX0=
 -->
