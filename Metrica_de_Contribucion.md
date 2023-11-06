@@ -16,7 +16,7 @@
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
        <td>3/25=12%</td>
-       <td> Alto: 1/15= 6.67%<br>Medio: 4/6= 66.67%<br>Bajo: 0/4= 0%</td>    
+       <td> Alto: 1/15= 6.67%<br>Medio: 3/6= 66.67%<br>Bajo: 0/4= 0%</td>    
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
@@ -36,12 +36,13 @@
     <tr>  
       <td>Suárez Balam Brandon Emmanuel</td> 
       <td>3/21=12%</td>
-       <td> Alto: 3/15= 20%<br>Mediano: 0/6= 0%<br>Bajo: 0/4= 0%</td>       
+       <td> Alto: 3/15= 20%<br>Mediano: 1/6= 0%<br>Bajo: 0/4= 0%</td>       
    </tr> 
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTcwMjE4MCwxMDU0NzQ0NTcwLDExNj
-cyMzA4NzcsLTQ5ODA5ODA5NCwtMTk1NDk0NjIxMywxMTA4MzM0
-NzUxLDE5MDc2MTE4NDUsLTcxMzkzMzkzM119
+eyJoaXN0b3J5IjpbLTM2MjU0MjQ1OCwxMzYxNzAyMTgwLDEwNT
+Q3NDQ1NzAsMTE2NzIzMDg3NywtNDk4MDk4MDk0LC0xOTU0OTQ2
+MjEzLDExMDgzMzQ3NTEsMTkwNzYxMTg0NSwtNzEzOTMzOTMzXX
+0=
 -->
