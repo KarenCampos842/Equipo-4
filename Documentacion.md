@@ -39,7 +39,7 @@
 
 Valor: *"Valoramos más a los individuos y su interacción que a los procesos y las herramientas."*
 
-A
+Uno de los principales problemas al intentar utilizar una metodología ágil fueron las reuniones diarias durante el sprint. 
 
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
@@ -48,5 +48,5 @@ A
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDk4NDM1NCwtNjM0MjcyNzU0XX0=
+eyJoaXN0b3J5IjpbLTIxMzI3ODU5NTYsLTYzNDI3Mjc1NF19
 -->
