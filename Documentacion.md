@@ -37,7 +37,7 @@
 
 ### Información
 
-Valor: *"Valoramos más a los individuos y su interacción que a los procesos y las herramientas."*
+**Valor:** *"Valoramos más a los individuos y su interacción que a los procesos y las herramientas."*
 
 En metodologías ágiles, especialmente en Scrum, es común el realizar reuniones continuas en las que los individuos pueden interactuar y tratar disantos asuntos de forma rápida como actualizaciones o consultas. 
 
@@ -70,6 +70,7 @@ Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando n
 **Solución:**
 Solo convocar a los que requieran estar en la reunión para continuar trabajando. 
 
+**Valor:** *"Valoramos el software que funciona, por encima de la documentación exhaustiva."*
 
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
@@ -78,7 +79,7 @@ Solo convocar a los que requieran estar en la reunión para continuar trabajando
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMj
-M3MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0
-XX0=
+eyJoaXN0b3J5IjpbLTE0NTk5NjYzNDIsNjQ2OTU5NjEzLDM0Nz
+I5ODg1OSwxNjMxMjM3MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1
+NiwtNjM0MjcyNzU0XX0=
 -->
