@@ -72,7 +72,7 @@ Solo convocar a los que requieran estar en la reunión para continuar trabajando
 
 **Valor:** *"Valoramos el software que funciona, por encima de la documentación exhaustiva."*
 
-Uno de los conflictos con este valor, es que, dado a que, aunque si bien, teníamos una documentación, ésta no era tan detallada, 
+Uno de los conflictos con este valor, es que, dado a que, la documentación que tenemos no es tan detallada como se haría fuera 
 
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
@@ -81,7 +81,8 @@ Uno de los conflictos con este valor, es que, dado a que, aunque si bien, tenía
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIyMTgxMDQsLTE0NTk5NjYzNDIsNj
-Q2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3MTAxLDc2NzA5OTM0
-MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0XX0=
+eyJoaXN0b3J5IjpbLTE2OTMxNTM1OTcsLTEwNjIyMTgxMDQsLT
+E0NTk5NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3
+MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0XX
+0=
 -->
