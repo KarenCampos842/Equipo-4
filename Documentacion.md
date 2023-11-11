@@ -76,8 +76,8 @@ Uno de los conflictos con este valor, es que, dado a que la documentación que t
 Al inicio de cada sprint, durante una reunión se hablaba de lo que cada uno iba a realizar. Si bien se documentaba, no se escribía todo lo que se trataba durante la reunión, simplemente los puntos principales de cada actividad por realizar. Así que, al momento de iniciar con las actividades, si alguien olvidaba algo respecto a su actividad que no formaba parte de la documentación no avanzaba con su parte, o realizaba algo incompleto, de cualquier forma, el proceso de desarrollo se veía perjudicado. 
 
 **Solución:**
+Incentivar a los integrantes a externar sus dudas y a tomar notas personale s 
 
-Insentiv
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
 
@@ -85,7 +85,7 @@ Insentiv
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDk1NzQwMiw3MTIxMDM1OTAsLTkzNT
+eyJoaXN0b3J5IjpbMTkzNzc3MTY0OCw3MTIxMDM1OTAsLTkzNT
 A0OTkwMCwtMTA2MjIxODEwNCwtMTQ1OTk2NjM0Miw2NDY5NTk2
 MTMsMzQ3Mjk4ODU5LDE2MzEyMzcxMDEsNzY3MDk5MzQzLC0yMT
 MyNzg1OTU2LC02MzQyNzI3NTRdfQ==
