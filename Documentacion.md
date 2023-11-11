@@ -45,7 +45,7 @@ En teoría esto debería agilizar el proceso de desarrollo, no obstante, en ocas
 
 Uno de los problemas que tuvimos como equipo al realizar las reuniones (daily scrum), fue la falta de practicidad. En lugar de resumir, se quería solucionar los problemas en ese momento, lo que terminaba por alargar la reunión y por desperdiciar tiempo que pudo ser utilizado para avanzar en el proyecto. 
 
-Otro problema fue el 
+Otro problema fue el lograr que todos estuvieran en las reuniones. 
 
 
 ---
@@ -55,7 +55,7 @@ Otro problema fue el
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzIyOTg4MiwzNDcyOTg4NTksMTYzMT
+eyJoaXN0b3J5IjpbLTE2NzQyMjI3OCwzNDcyOTg4NTksMTYzMT
 IzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1
 NF19
 -->
