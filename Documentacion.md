@@ -67,7 +67,7 @@ Todos excepto un integrante pueden asistir en éstos horarios. Como caso especia
 
 Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando no era realmente necesario. Y se trataban asuntos que para algunos integrantes no eran necesarios para avanzar con sus asignaciones y solo se les hacía desperdiciar tiempo. 
 
-
+Solució
 
 
 ---
@@ -77,7 +77,7 @@ Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando n
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjgwMjI4OTksMzQ3Mjk4ODU5LDE2Mz
-EyMzcxMDEsNzY3MDk5MzQzLC0yMTMyNzg1OTU2LC02MzQyNzI3
-NTRdfQ==
+eyJoaXN0b3J5IjpbMTEwMjUyMTc0OSwzNDcyOTg4NTksMTYzMT
+IzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1
+NF19
 -->
