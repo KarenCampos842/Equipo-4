@@ -45,15 +45,21 @@ En teoría esto debería agilizar el proceso de desarrollo, no obstante, en ocas
 
 Uno de los problemas que tuvimos como equipo al realizar las reuniones (daily scrum), fue la falta de practicidad. En lugar de resumir, se extendía la participación y se quería solucionar los problemas en ese momento, lo que terminaba por alargar la reunión y por desperdiciar tiempo que pudo ser utilizado para avanzar en el proyecto. 
 
-**Solución:** El scrum master debería preguntar directamente a cada integrante lo siguiente: 
+**Solución:** 
+
+El scrum master debería preguntar directamente a cada integrante lo siguiente: 
 -   ¿Qué lograste ayer?
 -   ¿En qué trabajarás hoy?
 -   ¿Hay algo que esté obstaculizando el trabajo que estás realizando?
 
-Si la respuesta a la última pregunta es afirmativa, el scrum master debería preguntar a los miembros del equipo si alguien pudiera ayudar y pedir a ambos integrantes agendar una reunión para tratar el tema. De esta forma, el flujo de la reunión puede continuar y el obstáculo será tratado solo con los involucrados, ahorrando el tiempo de los demás integrantes y per
+Si la respuesta a la última pregunta es afirmativa, el scrum master debería preguntar a los miembros del equipo si alguien pudiera ayudar y pedir a ambos integrantes agendar una reunión para tratar el tema. De esta forma, el flujo de la reunión puede continuar y el obstáculo será tratado solo con los involucrados, ahorrando el tiempo de los demás integrantes y permitiéndoles continuar con el proyecto. 
 
 Otro problema, fue el lograr que todos estuvieran en las reuniones diarias. Al principio, se había propuesto realizarlas en la mañana en horas libres o inmediatamente después de la última clase, sin embargo, se descartó porque el antiguo líder no asistía todos los días a la universidad. 
-En aras de mantener la interacción entre los miembros del equipo, no establecimos un horario fijo para las reuniones y cambiábamos los horarios, siempre después de clase, para que todos pudieran estar, lo cuál no funcionó, porque siempre había alguno que no podía. 
+En aras de mantener la interacción entre los miembros del equipo, no establecimos un horario fijo para las reuniones y cambiábamos los horarios, siempre después de clase, para que todos pudieran estar, lo cuál no funcionó, porque siempre había alguno que no podía asistir. 
+
+**Solución:** 
+Establecer un
+
 
 Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando no era realmente necesario. Y se trataban asuntos que para algunos integrantes no eran necesarios para avanzar con sus asignaciones y solo se les hacía desperdiciar tiempo. 
 
@@ -67,7 +73,7 @@ Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando n
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjk4NDc4MCwzNDcyOTg4NTksMTYzMT
+eyJoaXN0b3J5IjpbMTAzMDAxMjk1NiwzNDcyOTg4NTksMTYzMT
 IzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1
 NF19
 -->
