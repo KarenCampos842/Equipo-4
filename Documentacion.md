@@ -45,10 +45,12 @@ En teoría esto debería agilizar el proceso de desarrollo, no obstante, en ocas
 
 Uno de los problemas que tuvimos como equipo al realizar las reuniones (daily scrum), fue la falta de practicidad. En lugar de resumir, se extendía la participación y se quería solucionar los problemas en ese momento, lo que terminaba por alargar la reunión y por desperdiciar tiempo que pudo ser utilizado para avanzar en el proyecto. 
 
+**Solución:** Que el scrum master preguntdirectamente
+
 Otro problema, fue el lograr que todos estuvieran en las reuniones diarias. Al principio, se había propuesto realizarlas en la mañana en horas libres o inmediatamente después de la última clase, sin embargo, se descartó porque el antiguo líder no asistía todos los días a la universidad. 
 En aras de mantener la interacción entre los miembros del equipo, no establecimos un horario fijo para las reuniones y cambiábamos los horarios, siempre después de clase, para que todos pudieran estar, lo cuál no funcionó, porque siempre había alguno que no podía. 
 
-Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando no era realmente necesario. Y se trataban asuntos que para algunos integrantes no eran necesarios para avanzar con sus asignaciones y solo 
+Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando no era realmente necesario. Y se trataban asuntos que para algunos integrantes no eran necesarios para avanzar con sus asignaciones y solo se les hacía desperdiciar tiempo. 
 
 
 
@@ -60,7 +62,7 @@ Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando n
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzgxNzEwNSwzNDcyOTg4NTksMTYzMT
+eyJoaXN0b3J5IjpbLTU5OTQ1ODA1MCwzNDcyOTg4NTksMTYzMT
 IzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1
 NF19
 -->
