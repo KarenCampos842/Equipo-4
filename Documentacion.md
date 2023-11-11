@@ -58,7 +58,8 @@ Otro problema, fue el lograr que todos estuvieran en las reuniones diarias. Al p
 En aras de mantener la interacción entre los miembros del equipo, no establecimos un horario fijo para las reuniones y cambiábamos los horarios, siempre después de clase, para que todos pudieran estar, lo cuál no funcionó, porque siempre había alguno que no podía asistir. 
 
 **Solución:** 
-Establecer un
+Establecer un horario fijo para las reuniones diarias. 
+Posibles horarios: Después de clases 
 
 
 Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando no era realmente necesario. Y se trataban asuntos que para algunos integrantes no eran necesarios para avanzar con sus asignaciones y solo se les hacía desperdiciar tiempo. 
@@ -73,7 +74,7 @@ Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando n
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDAxMjk1NiwzNDcyOTg4NTksMTYzMT
+eyJoaXN0b3J5IjpbMjAxNjM1MDA5NiwzNDcyOTg4NTksMTYzMT
 IzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1
 NF19
 -->
