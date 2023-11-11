@@ -37,7 +37,8 @@
 
 ### Información
 
-Valor 1: 
+Valor: *"Valoramos más a los individuos y su interacción que a los procesos y las herramientas."*
+
 
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
@@ -46,5 +47,5 @@ Valor 1:
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg4NjY3OTQsLTYzNDI3Mjc1NF19
+eyJoaXN0b3J5IjpbOTcxMTc2MjMxLC02MzQyNzI3NTRdfQ==
 -->
