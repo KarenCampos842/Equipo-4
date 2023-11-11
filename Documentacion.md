@@ -48,7 +48,7 @@ Uno de los problemas que tuvimos como equipo al realizar las reuniones (daily sc
 Otro problema, fue el lograr que todos estuvieran en las reuniones diarias. Al principio, se había propuesto realizarlas en la mañana en horas libres o inmediatamente después de la última clase, sin embargo, se descartó porque el antiguo líder no asistía todos los días a la universidad. 
 En aras de mantener la interacción entre los miembros del equipo, no establecimos un horario fijo para las reuniones y cambiábamos los horarios, siempre después de clase, para que todos pudieran estar, lo cuál no funcionó, porque siempre había alguno que no podía. 
 
-Por otra parte, hubo ocasiones en la que 
+Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando no era realmente necesario. A veces, los tema
 
 
 
@@ -60,7 +60,7 @@ Por otra parte, hubo ocasiones en la que
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDc3MTc0LDM0NzI5ODg1OSwxNjMxMj
-M3MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0
-XX0=
+eyJoaXN0b3J5IjpbLTEwMDgzMjAzOTEsMzQ3Mjk4ODU5LDE2Mz
+EyMzcxMDEsNzY3MDk5MzQzLC0yMTMyNzg1OTU2LC02MzQyNzI3
+NTRdfQ==
 -->
