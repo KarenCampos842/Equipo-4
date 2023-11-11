@@ -39,7 +39,8 @@
 
 Valor: *"Valoramos más a los individuos y su interacción que a los procesos y las herramientas."*
 
-En metodologías ágiles e como Scrum, se realizan reuniones continuas para mantener la interacción entre los individuos, por ejemplo, el daily scrum. 
+En metodologías ágiles, especialmente en Scrum, es común el realizar reuniones continuas en las que los individuos mantie
+
 Al intentar implementar 
 
 ---
@@ -49,6 +50,6 @@ Al intentar implementar
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4NDg3NTMwLDc2NzA5OTM0MywtMjEzMj
+eyJoaXN0b3J5IjpbLTkwMDMzMDcwLDc2NzA5OTM0MywtMjEzMj
 c4NTk1NiwtNjM0MjcyNzU0XX0=
 -->
