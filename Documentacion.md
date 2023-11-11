@@ -78,6 +78,9 @@ Al inicio de cada sprint, durante una reunión se hablaba de lo que cada uno iba
 **Solución:**
 Incentivar al equipo a externar sus dudas, buscar apoyo en otros integrantes y a tomar notas personales, ya sean escritas o grabadas para no olvidar lo acordado.  
 
+**Valor:** *"Valoramos más la colaboración con el cliente que la negociación contractual."*
+
+
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
 
@@ -85,8 +88,8 @@ Incentivar al equipo a externar sus dudas, buscar apoyo en otros integrantes y a
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNTY5MTAwLDcxMjEwMzU5MCwtOTM1MD
-Q5OTAwLC0xMDYyMjE4MTA0LC0xNDU5OTY2MzQyLDY0Njk1OTYx
-MywzNDcyOTg4NTksMTYzMTIzNzEwMSw3NjcwOTkzNDMsLTIxMz
-I3ODU5NTYsLTYzNDI3Mjc1NF19
+eyJoaXN0b3J5IjpbLTkzOTU1ODMwMCw3MTIxMDM1OTAsLTkzNT
+A0OTkwMCwtMTA2MjIxODEwNCwtMTQ1OTk2NjM0Miw2NDY5NTk2
+MTMsMzQ3Mjk4ODU5LDE2MzEyMzcxMDEsNzY3MDk5MzQzLC0yMT
+MyNzg1OTU2LC02MzQyNzI3NTRdfQ==
 -->
