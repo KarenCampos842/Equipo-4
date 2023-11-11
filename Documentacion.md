@@ -11,23 +11,23 @@
 
 > **Tema:** *Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
 
-**Información**
+### Información
 
 ---
 > **Tema:** *Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
 
-**Información**
+### Información
 
 ---
 
 > **Tema:** *Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
 
-**Información**
+### Información
 
 ---
 > **Tema:** *Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias mínimas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras*
 
-**Información**
+### Información
 
 ---
 
@@ -42,9 +42,9 @@ Valor 1:
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
 
-**Información**
+### Información
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzgyNTk1OTcsLTYzNDI3Mjc1NF19
+eyJoaXN0b3J5IjpbLTE2ODg4NjY3OTQsLTYzNDI3Mjc1NF19
 -->
