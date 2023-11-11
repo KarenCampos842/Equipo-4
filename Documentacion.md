@@ -50,7 +50,7 @@ Uno de los problemas que tuvimos como equipo al realizar las reuniones (daily sc
 -   ¿En qué trabajarás hoy?
 -   ¿Hay algo que esté obstaculizando el trabajo que estás realizando?
 
-Si la respuesta a la última pregunta es afirmativa, el scrum master debería preguntar a los miembros del equipo si alguien pudiera ayudarlo
+Si la respuesta a la última pregunta es afirmativa, el scrum master debería preguntar a los miembros del equipo si alguien pudiera ayudar y pedir a ambos integrantes agendar una reunión para tratar el tema. De esta forma, el flujo de l are
 
 Otro problema, fue el lograr que todos estuvieran en las reuniones diarias. Al principio, se había propuesto realizarlas en la mañana en horas libres o inmediatamente después de la última clase, sin embargo, se descartó porque el antiguo líder no asistía todos los días a la universidad. 
 En aras de mantener la interacción entre los miembros del equipo, no establecimos un horario fijo para las reuniones y cambiábamos los horarios, siempre después de clase, para que todos pudieran estar, lo cuál no funcionó, porque siempre había alguno que no podía. 
@@ -67,7 +67,7 @@ Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando n
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTMzODE1OSwzNDcyOTg4NTksMTYzMT
-IzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1
-NF19
+eyJoaXN0b3J5IjpbLTExMjg2NTY1NDUsMzQ3Mjk4ODU5LDE2Mz
+EyMzcxMDEsNzY3MDk5MzQzLC0yMTMyNzg1OTU2LC02MzQyNzI3
+NTRdfQ==
 -->
