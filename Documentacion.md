@@ -73,7 +73,7 @@ Solo convocar a los que requieran estar en la reunión para continuar trabajando
 **Valor:** *"Valoramos el software que funciona, por encima de la documentación exhaustiva."*
 
 Uno de los conflictos con este valor, es que, dado a que, la documentación que tenemos no es tan detallada como se haría fuera de una metodología ágil, en ocasiones, distintos integrantes llegaban a presentar dudas respecto a cómo proceder en sus actividades y no lo externaban hasta tiempo después. 
-Si bien se hablaba de lo que cada uno haría durante el sprint al realizar el
+Al inicio de cada sprint durante una reunión se hablaba de lo que cada uno iba a realizar. 
 
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
@@ -82,8 +82,8 @@ Si bien se hablaba de lo que cada uno haría durante el sprint al realizar el
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzA2NjY5NSwtOTM1MDQ5OTAwLC0xMD
-YyMjE4MTA0LC0xNDU5OTY2MzQyLDY0Njk1OTYxMywzNDcyOTg4
-NTksMTYzMTIzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLT
-YzNDI3Mjc1NF19
+eyJoaXN0b3J5IjpbOTAxNjU2ODE0LC05MzUwNDk5MDAsLTEwNj
+IyMTgxMDQsLTE0NTk5NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1
+OSwxNjMxMjM3MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1NiwtNj
+M0MjcyNzU0XX0=
 -->
