@@ -63,7 +63,8 @@ Posibles horarios:
  - Después de clases (lunes: 11:40, martes: 11:10, miércoles: 9:10, jueves:  11:40). 
  - Durante horas libres (viernes: 9:40).
 
-Éstos fueron los horarios con mejor respuesta por parte de los integrantes del equipo. 
+Todos excepto un integrante puede asistir en éstos horarios. Como caso espe
+
 
 Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando no era realmente necesario. Y se trataban asuntos que para algunos integrantes no eran necesarios para avanzar con sus asignaciones y solo se les hacía desperdiciar tiempo. 
 
@@ -77,7 +78,7 @@ Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando n
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzA1NTMwMCwzNDcyOTg4NTksMTYzMT
-IzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1
-NF19
+eyJoaXN0b3J5IjpbLTEwOTkwMjE3NzMsMzQ3Mjk4ODU5LDE2Mz
+EyMzcxMDEsNzY3MDk5MzQzLC0yMTMyNzg1OTU2LC02MzQyNzI3
+NTRdfQ==
 -->
