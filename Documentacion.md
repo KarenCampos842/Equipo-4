@@ -41,7 +41,7 @@ Valor: *"Valoramos más a los individuos y su interacción que a los procesos y 
 
 En metodologías ágiles, especialmente en Scrum, es común el realizar reuniones continuas en las que los individuos pueden interactuar y tratar disantos asuntos de forma rápida como actualizaciones o consultas. 
 
-El priorizar a los individuos y su interacción  por sobre los procesos y herramientas supone una ventaja si se lleva a cabo de forma adecuada. 
+
 
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
@@ -50,6 +50,6 @@ El priorizar a los individuos y su interacción  por sobre los procesos y herram
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODY4NTQ3Niw3NjcwOTkzNDMsLTIxMz
+eyJoaXN0b3J5IjpbLTcwMTMwMDc1OSw3NjcwOTkzNDMsLTIxMz
 I3ODU5NTYsLTYzNDI3Mjc1NF19
 -->
