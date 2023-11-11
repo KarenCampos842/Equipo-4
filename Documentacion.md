@@ -60,10 +60,10 @@ En aras de mantener la interacción entre los miembros del equipo, no establecim
 **Solución:** 
 Establecer un horario fijo para las reuniones diarias. 
 Posibles horarios: 
-
  - Después de clases (lunes: 11:40, martes: 11:10, miércoles: 9:10, jueves:  11:40). 
- - Durante horas libres (
+ - Durante horas libres (viernes: 9:40).
 
+Éstos fueron los horarios con mejor respuesta por parte de los integrantes del equipo. 
 
 Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando no era realmente necesario. Y se trataban asuntos que para algunos integrantes no eran necesarios para avanzar con sus asignaciones y solo se les hacía desperdiciar tiempo. 
 
@@ -77,7 +77,7 @@ Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando n
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE3NDE0NDEsMzQ3Mjk4ODU5LDE2Mz
-EyMzcxMDEsNzY3MDk5MzQzLC0yMTMyNzg1OTU2LC02MzQyNzI3
-NTRdfQ==
+eyJoaXN0b3J5IjpbMTI5NzA1NTMwMCwzNDcyOTg4NTksMTYzMT
+IzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1
+NF19
 -->
