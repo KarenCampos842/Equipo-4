@@ -40,6 +40,7 @@
 Valor: *"Valoramos más a los individuos y su interacción que a los procesos y las herramientas."*
 
 En metodologías ágiles, especialmente en Scrum, es común el realizar reuniones continuas en las que los individuos pueden interactuar y tratar disantos asuntos de forma rápida como actualizaciones o consultas. 
+En ter
 
 
 
@@ -50,6 +51,6 @@ En metodologías ágiles, especialmente en Scrum, es común el realizar reunione
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTMwMDc1OSw3NjcwOTkzNDMsLTIxMz
+eyJoaXN0b3J5IjpbLTgzNjAzNTc3MSw3NjcwOTkzNDMsLTIxMz
 I3ODU5NTYsLTYzNDI3Mjc1NF19
 -->
