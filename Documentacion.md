@@ -4,7 +4,7 @@
 
 > **Tema:** *Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos. Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.*
 
-**Información**
+### Información
 
 ---
 
@@ -35,7 +35,9 @@
 
 > **Tema:** *Asumiendo que los valores descritos en el acuerdo del "Manifiesto para el desarrollo ágil de software", causan conflicto en el proceso de desarrollo reflexione y describa de manera clara posibles soluciones utilizando como base el proyecto que están desarrollando en equipo.*
 
-**Información**
+### Información
+
+Valor 1: 
 
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
@@ -44,5 +46,5 @@
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDI3Mjc1NF19
+eyJoaXN0b3J5IjpbLTE3MzgyNTk1OTcsLTYzNDI3Mjc1NF19
 -->
