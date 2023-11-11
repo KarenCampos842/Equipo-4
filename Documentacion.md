@@ -41,8 +41,9 @@ Valor: *"Valoramos más a los individuos y su interacción que a los procesos y 
 
 En metodologías ágiles, especialmente en Scrum, es común el realizar reuniones continuas en las que los individuos pueden interactuar y tratar disantos asuntos de forma rápida como actualizaciones o consultas. 
 
-En teoría esto debería agilizar el proceso de desarrollo, no obstante, en ocasiones, puede terminar siendo más un obstáculo que una ayuda, especialmente, cuando recién se intenta implementar una metodología ágil. 
+En teoría esto debería agilizar el proceso de desarrollo, no obstante, en ocasiones puede terminar siendo más un obstáculo que una ayuda, especialmente cuando recién se intenta implementar una metodología ágil. 
 
+Uno de los problemas que tuvimos como equipo al realizar las reuniones, es que, 
 
 
 ---
@@ -52,6 +53,6 @@ En teoría esto debería agilizar el proceso de desarrollo, no obstante, en ocas
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Nzg0MDYyMSw3NjcwOTkzNDMsLTIxMz
-I3ODU5NTYsLTYzNDI3Mjc1NF19
+eyJoaXN0b3J5IjpbLTExNTk1ODM0LDc2NzA5OTM0MywtMjEzMj
+c4NTk1NiwtNjM0MjcyNzU0XX0=
 -->
