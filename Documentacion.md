@@ -67,7 +67,8 @@ Todos excepto un integrante pueden asistir en éstos horarios. Como caso especia
 
 Por otra parte, hubo ocasiones en las que se convocaba a todo el equipo cuando no era realmente necesario. Y se trataban asuntos que para algunos integrantes no eran necesarios para avanzar con sus asignaciones y solo se les hacía desperdiciar tiempo. 
 
-Solució
+**Solución:**
+Solo convocar a los que requieran estar en la reunión para continuar trabajando. 
 
 
 ---
@@ -77,7 +78,7 @@ Solució
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjUyMTc0OSwzNDcyOTg4NTksMTYzMT
-IzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1
-NF19
+eyJoaXN0b3J5IjpbNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMj
+M3MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0
+XX0=
 -->
