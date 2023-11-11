@@ -73,7 +73,7 @@ Solo convocar a los que requieran estar en la reunión para continuar trabajando
 **Valor:** *"Valoramos el software que funciona, por encima de la documentación exhaustiva."*
 
 Uno de los conflictos con este valor, es que, dado a que la documentación que tenemos no es tan detallada como se haría fuera de una metodología ágil, en ocasiones, distintos integrantes llegaban a presentar dudas respecto a cómo proceder en sus actividades y no lo externaban hasta tiempo después. 
-Al inicio de cada sprint, durante una reunión se hablaba de lo que cada uno iba a realizar. Si bien se documentaba, no se escribía todo lo que se trataba durante la reunión, simplemente, los puntos principales de cada actividad por realizar. Así que, al momento de iniciar con las actividades, si alguien no recordaba lo acordado durante la reunión y no formaba parte de la documentación no avanzaba o cometía 
+Al inicio de cada sprint, durante una reunión se hablaba de lo que cada uno iba a realizar. Si bien se documentaba, no se escribía todo lo que se trataba durante la reunión, simplemente, los puntos principales de cada actividad por realizar. Así que, al momento de iniciar con las actividades, si alguien olvidaba algo respecto a su actividad que no formaba parte de la documentación no avanzaba con su parte, o no rea
 
 **Solución:**
 
@@ -84,8 +84,8 @@ Al inicio de cada sprint, durante una reunión se hablaba de lo que cada uno iba
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyMTAzNTkwLC05MzUwNDk5MDAsLTEwNj
-IyMTgxMDQsLTE0NTk5NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1
-OSwxNjMxMjM3MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1NiwtNj
-M0MjcyNzU0XX0=
+eyJoaXN0b3J5IjpbLTIwOTkxNjM4Nyw3MTIxMDM1OTAsLTkzNT
+A0OTkwMCwtMTA2MjIxODEwNCwtMTQ1OTk2NjM0Miw2NDY5NTk2
+MTMsMzQ3Mjk4ODU5LDE2MzEyMzcxMDEsNzY3MDk5MzQzLC0yMT
+MyNzg1OTU2LC02MzQyNzI3NTRdfQ==
 -->
