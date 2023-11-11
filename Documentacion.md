@@ -50,6 +50,7 @@ En aras de mantener la interacción entre los miembros del equipo, no establecim
 
 
 
+
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
 
@@ -57,7 +58,7 @@ En aras de mantener la interacción entre los miembros del equipo, no establecim
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyOTY0MjUyLDM0NzI5ODg1OSwxNjMxMj
-M3MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0
-XX0=
+eyJoaXN0b3J5IjpbLTM2Njg5OTk4NiwzNDcyOTg4NTksMTYzMT
+IzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1
+NF19
 -->
