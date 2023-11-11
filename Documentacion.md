@@ -39,7 +39,8 @@
 
 Valor: *"Valoramos más a los individuos y su interacción que a los procesos y las herramientas."*
 
-En metodologías ágiles como Scrum, se realizan reuniones continuas para mantener 
+En metodologías ágiles como Scrum, se realizan reuniones continuas para mantener la interacción entre los individuos, por ejemplo, el daily scrum. 
+Uno de los principales 
 
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
@@ -48,6 +49,6 @@ En metodologías ágiles como Scrum, se realizan reuniones continuas para manten
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODU3NDc1MCwtMjEzMjc4NTk1NiwtNj
+eyJoaXN0b3J5IjpbLTIxNzI2NzQ2MiwtMjEzMjc4NTk1NiwtNj
 M0MjcyNzU0XX0=
 -->
