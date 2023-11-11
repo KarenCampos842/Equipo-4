@@ -43,9 +43,9 @@ En metodologías ágiles, especialmente en Scrum, es común el realizar reunione
 
 En teoría esto debería agilizar el proceso de desarrollo, no obstante, en ocasiones puede terminar siendo más un obstáculo que una ayuda, especialmente cuando recién se intenta implementar una metodología ágil. 
 
-Uno de los problemas que tuvimos como equipo al realizar las reuniones (daily scrum), fue la falta de practicidad. En lugar de resumir, se quería solucionar los problemas en ese momento, lo que terminaba por alargar la reunión y por desperdiciar tiempo que pudo ser utilizado para avanzar en el proyecto. 
+Uno de los problemas que tuvimos como equipo al realizar las reuniones (daily scrum), fue la falta de practicidad. En lugar de resumir, se extendía la participación y se quería solucionar los problemas en ese momento, lo que terminaba por alargar la reunión y por desperdiciar tiempo que pudo ser utilizado para avanzar en el proyecto. 
 
-Otro problema fue el lograr que todos estuvieran en las reuniones. 
+Otro problema fue el lograr que todos estuvieran en las reuniones.
 
 
 ---
@@ -55,7 +55,7 @@ Otro problema fue el lograr que todos estuvieran en las reuniones.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQyMjI3OCwzNDcyOTg4NTksMTYzMT
-IzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1
-NF19
+eyJoaXN0b3J5IjpbOTQxMDAzMzY4LDM0NzI5ODg1OSwxNjMxMj
+M3MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0
+XX0=
 -->
