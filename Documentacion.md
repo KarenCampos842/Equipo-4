@@ -15,9 +15,12 @@
 
 Ambas herramientas son útiles para la extracción y organización de requerimientos por lo que a primera instancia podrían parecer iguales, aunque no es el caso. 
 
+**Diferencias**
+
 |Historias de usuario  | Casos de uso |
 |--|--|
-|Se suelen elaborar antes de los casos de uso  |  |
+|Se suelen elaborar antes de los casos de uso.  | Se suelen elaborar después de las historias de usuario. |
+|Comunes en las metodologías ágiles.  ||
 
 ---
 > **Tema:** *Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
@@ -110,7 +113,7 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDU2NTkyMCwxNjYxMDAxNjE2LC03Mj
+eyJoaXN0b3J5IjpbLTUxMzgwMDM2MSwxNjYxMDAxNjE2LC03Mj
 g4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgz
 MDAsNzEyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLT
 E0NTk5NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3
