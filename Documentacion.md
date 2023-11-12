@@ -209,13 +209,15 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 ---
 ## Referencias
 
-Lao(26 de septiembre de 2022). Cómo organizar tu stand up meeting o daily Scrum
+Laoyan, S. (26 de septiembre de 2022). *Cómo organizar tu stand up meeting o daily Scrum. asana.* https://asana.com/es/resources/stand-up-meeting
+
+Laoyan, S. (26 de septiembre de 2022). *Cómo organizar tu stand up meeting o daily Scrum. asana.* https://asana.com/es/resources/stand-up-meeting
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3NDY3ODk4LC0xNDkyOTkyOTk5LDQ4NT
-Q2ODkxMiwtMTUyODQ4OTMzOCwyMDE0MDEzNTQzLDE2NjEwMDE2
-MTYsLTcyODg3MzU3OSwtMTU0NTQyNzQ4Myw4Mzg0MzI5MTIsLT
-kzOTU1ODMwMCw3MTIxMDM1OTAsLTkzNTA0OTkwMCwtMTA2MjIx
-ODEwNCwtMTQ1OTk2NjM0Miw2NDY5NTk2MTMsMzQ3Mjk4ODU5LD
-E2MzEyMzcxMDEsNzY3MDk5MzQzLC0yMTMyNzg1OTU2LC02MzQy
-NzI3NTRdfQ==
+eyJoaXN0b3J5IjpbLTE2OTE0MTg4NDMsLTE0OTI5OTI5OTksND
+g1NDY4OTEyLC0xNTI4NDg5MzM4LDIwMTQwMTM1NDMsMTY2MTAw
+MTYxNiwtNzI4ODczNTc5LC0xNTQ1NDI3NDgzLDgzODQzMjkxMi
+wtOTM5NTU4MzAwLDcxMjEwMzU5MCwtOTM1MDQ5OTAwLC0xMDYy
+MjE4MTA0LC0xNDU5OTY2MzQyLDY0Njk1OTYxMywzNDcyOTg4NT
+ksMTYzMTIzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYz
+NDI3Mjc1NF19
 -->
