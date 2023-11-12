@@ -90,6 +90,7 @@ Verificar el trabajo realizado hasta el momento, analizar si independientemente 
 
 **Valor:** *"Valoramos más la respuesta al cambio que el seguimiento de un plan."*
 
+
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
 
@@ -97,9 +98,9 @@ Verificar el trabajo realizado hasta el momento, analizar si independientemente 
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mz
-k1NTgzMDAsNzEyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgx
-MDQsLTE0NTk5NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNj
-MxMjM3MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0Mjcy
-NzU0XX0=
+eyJoaXN0b3J5IjpbLTQ4ODEwMTc2OSwtMTU0NTQyNzQ4Myw4Mz
+g0MzI5MTIsLTkzOTU1ODMwMCw3MTIxMDM1OTAsLTkzNTA0OTkw
+MCwtMTA2MjIxODEwNCwtMTQ1OTk2NjM0Miw2NDY5NTk2MTMsMz
+Q3Mjk4ODU5LDE2MzEyMzcxMDEsNzY3MDk5MzQzLC0yMTMyNzg1
+OTU2LC02MzQyNzI3NTRdfQ==
 -->
