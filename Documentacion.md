@@ -81,7 +81,9 @@ Como líder, incentivar al equipo a externar sus dudas, comunicarse con otros in
 **Valor:** *"Valoramos más la colaboración con el cliente que la negociación contractual."*
 
 Para que exista una colaboración, el cliente debe acompañar al equipo durante el proceso, lo que implica que el cliente este disponible. 
-En nuestro caso, no tenemos un cliente, pero el profesor Luis Bastos es lo más cercano, puesto que es a quién le entregaremos el producto final. 
+En nuestro caso, no tenemos un cliente, pero el profesor Luis Basto es lo más cercano, puesto que es a quién le entregaremos el producto final y quien nos ofrece feedback. 
+
+Un reto que presentamos es pasar 
 
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
@@ -90,8 +92,8 @@ En nuestro caso, no tenemos un cliente, pero el profesor Luis Bastos es lo más 
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc2OTE0MDksLTkzOTU1ODMwMCw3MT
-IxMDM1OTAsLTkzNTA0OTkwMCwtMTA2MjIxODEwNCwtMTQ1OTk2
-NjM0Miw2NDY5NTk2MTMsMzQ3Mjk4ODU5LDE2MzEyMzcxMDEsNz
-Y3MDk5MzQzLC0yMTMyNzg1OTU2LC02MzQyNzI3NTRdfQ==
+eyJoaXN0b3J5IjpbLTg4MTgwNjQ1NCwtOTM5NTU4MzAwLDcxMj
+EwMzU5MCwtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5OTY2
+MzQyLDY0Njk1OTYxMywzNDcyOTg4NTksMTYzMTIzNzEwMSw3Nj
+cwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1NF19
 -->
