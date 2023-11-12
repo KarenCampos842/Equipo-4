@@ -25,7 +25,7 @@ Ambas herramientas son útiles para la extracción y organización de requerimie
 |Enfoque en encontrar la necesidad de una funcionalidad para el usuario (para qué).|Enfoque en describir detalladamente las interacciones software-agente externo para suplir una necesidad.|
 |No contienen lenguaje técnico, son fáciles de leer, y comprensibles para personas fuera del proyecto. |Suelen contener lenguaje técnico y ser más complejas de leer.|
 |Son breves.|Son más largos.|
-|| En general se componen de un identificador único, un título que represente cual es el objetivo, las precondiciones ha satisfacer previo a iniciar, descripción breve del propósito del caso, una lista de pasos que muestren las interacciones entre los agentes externos y el sistema (happy flow), las postcondiciones (estado del sistema después de ejecutarse el caso de uso) y excepciones (unhappy flow). 
+|En general siguen la estructura: | En general se componen de un identificador único, un título que represente cual es el objetivo, las precondiciones ha satisfacer previo a iniciar, descripción breve del propósito del caso, una lista de pasos que muestren las interacciones entre los agentes externos y el sistema (happy flow), las postcondiciones (estado del sistema después de ejecutarse el caso de uso) y excepciones (unhappy flow). 
 
 
 ---
@@ -119,10 +119,10 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0MTQwNjAsNDg1NDY4OTEyLC0xNTI4ND
-g5MzM4LDIwMTQwMTM1NDMsMTY2MTAwMTYxNiwtNzI4ODczNTc5
-LC0xNTQ1NDI3NDgzLDgzODQzMjkxMiwtOTM5NTU4MzAwLDcxMj
-EwMzU5MCwtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5OTY2
-MzQyLDY0Njk1OTYxMywzNDcyOTg4NTksMTYzMTIzNzEwMSw3Nj
-cwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1NF19
+eyJoaXN0b3J5IjpbMTEwNjU1MTczMyw0ODU0Njg5MTIsLTE1Mj
+g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
+NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
+EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
+NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3MTAxLD
+c2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0XX0=
 -->
