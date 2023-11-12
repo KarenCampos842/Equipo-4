@@ -62,9 +62,9 @@ Suelen tener un id, un título que represente el objetivo, una descripción, cri
 
 **Cuándo usarlos**
 
-Historias de usuario:
+Historias de usuario
 
- - Durante la planificación
+ - Durante la planificación: Los requerimientos se 
 
 ---
 
@@ -158,10 +158,10 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzUyNzg1Myw0ODU0Njg5MTIsLTE1Mj
-g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
-NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
-EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
-NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3MTAxLD
-c2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0XX0=
+eyJoaXN0b3J5IjpbLTEyODQyMjk3MjMsNDg1NDY4OTEyLC0xNT
+I4NDg5MzM4LDIwMTQwMTM1NDMsMTY2MTAwMTYxNiwtNzI4ODcz
+NTc5LC0xNTQ1NDI3NDgzLDgzODQzMjkxMiwtOTM5NTU4MzAwLD
+cxMjEwMzU5MCwtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5
+OTY2MzQyLDY0Njk1OTYxMywzNDcyOTg4NTksMTYzMTIzNzEwMS
+w3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1NF19
 -->
