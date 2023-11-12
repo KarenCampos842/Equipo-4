@@ -52,7 +52,7 @@ Ambas herramientas son útiles para la extracción y organización de requerimie
   <li> Quiero <b>objetivo</b></li>
   <li> Para que <b>motivo</b></li>
    </ul>
-   Suelen tener un id, un título que represente el objetivo, una descripción, criterios de aceptación,  
+   Suelen tener un id, un título que represente el objetivo, una descripción y criterios de aceptación, prioridad, estimación y valor.  
   </td> 
    <td>Son más largos.</td> 
   </tr>                 
@@ -160,7 +160,7 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDAyOTU3MCw0ODU0Njg5MTIsLTE1Mj
+eyJoaXN0b3J5IjpbLTE0MjgwODk0MCw0ODU0Njg5MTIsLTE1Mj
 g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
 NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
 EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
