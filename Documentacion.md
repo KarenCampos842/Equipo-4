@@ -65,9 +65,13 @@ Suelen tener un id, un título que represente el objetivo, una descripción, cri
 Historias de usuario
 
  - Durante la planificación: Las historias de usuario se realizan con base en los requerimientos y con ellas se puede dividir el trabajo en cargas pequeñas. 
- - Al realizar el product backlog.
+ - Al elaborar el product backlog.
  - Durante reuniones con el cliente.
  - Cuando los requerimientos no son claros.
+
+**Casos de uso**
+
+ - Previo a realizar el diseño de interfacez y entrar en la fase de implemntación. 
 
 ---
 
@@ -161,7 +165,7 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc3NjY2NjMsNDg1NDY4OTEyLC0xNT
+eyJoaXN0b3J5IjpbLTE4OTgyNDQ4MjYsNDg1NDY4OTEyLC0xNT
 I4NDg5MzM4LDIwMTQwMTM1NDMsMTY2MTAwMTYxNiwtNzI4ODcz
 NTc5LC0xNTQ1NDI3NDgzLDgzODQzMjkxMiwtOTM5NTU4MzAwLD
 cxMjEwMzU5MCwtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5
