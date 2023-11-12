@@ -21,7 +21,7 @@ Ambas herramientas son útiles para la extracción y organización de requerimie
 |--|--|
 |Se suelen elaborar antes de los casos de uso.  | Se suelen elaborar después de las historias de usuario. |
 |Comunes en las metodologías ágiles.  | No se suelen ver en metodologías ágiles.|
-|Propósito: Describir brevemente una característica del software desde la perspectiva, generalmente, del usuario o cliente.| Propósito: Describir lainteracciones entre el sistema  |
+|Propósito: Describir brevemente una característica del software desde la perspectiva, generalmente, del usuario o cliente.| Propósito: Describir la secuencia de interacciones entre el sistema y un agente externo (por ejemplo, el usuario final) funcionalidad específica. |
 |Propósito: Describir brevemente una característica del software desde la perspectiva, generalmente, del usuario o cliente. Enfoque en encontrar la necesidad de dicha funcionalidad (para qué).| No se suelen ver en metodologías ágiles.|
 
 ---
@@ -115,7 +115,7 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjE0MjM5OCwyMDE0MDEzNTQzLDE2Nj
+eyJoaXN0b3J5IjpbMjEyNjUxNTQ3MiwyMDE0MDEzNTQzLDE2Nj
 EwMDE2MTYsLTcyODg3MzU3OSwtMTU0NTQyNzQ4Myw4Mzg0MzI5
 MTIsLTkzOTU1ODMwMCw3MTIxMDM1OTAsLTkzNTA0OTkwMCwtMT
 A2MjIxODEwNCwtMTQ1OTk2NjM0Miw2NDY5NTk2MTMsMzQ3Mjk4
