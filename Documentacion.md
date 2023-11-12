@@ -207,13 +207,15 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 ### Información
 
 ---
-#3
+## Referencias
+
+Lao(26 de septiembre de 2022). Cómo organizar tu stand up meeting o daily Scrum
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTMxMzMzNCwtMTQ5Mjk5Mjk5OSw0OD
-U0Njg5MTIsLTE1Mjg0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAx
-NjE2LC03Mjg4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC
-05Mzk1NTgzMDAsNzEyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIy
-MTgxMDQsLTE0NTk5NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OS
-wxNjMxMjM3MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0
-MjcyNzU0XX0=
+eyJoaXN0b3J5IjpbOTA3NDY3ODk4LC0xNDkyOTkyOTk5LDQ4NT
+Q2ODkxMiwtMTUyODQ4OTMzOCwyMDE0MDEzNTQzLDE2NjEwMDE2
+MTYsLTcyODg3MzU3OSwtMTU0NTQyNzQ4Myw4Mzg0MzI5MTIsLT
+kzOTU1ODMwMCw3MTIxMDM1OTAsLTkzNTA0OTkwMCwtMTA2MjIx
+ODEwNCwtMTQ1OTk2NjM0Miw2NDY5NTk2MTMsMzQ3Mjk4ODU5LD
+E2MzEyMzcxMDEsNzY3MDk5MzQzLC0yMTMyNzg1OTU2LC02MzQy
+NzI3NTRdfQ==
 -->
