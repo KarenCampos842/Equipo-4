@@ -25,9 +25,7 @@ Ambas herramientas son útiles para la extracción y organización de requerimie
 |Enfoque en encontrar la necesidad de una funcionalidad para el usuario (para qué).|Enfoque en describir detalladamente las interacciones software-agente externo para suplir una necesidad.|
 |No contienen lenguaje técnico, son fáciles de leer, y comprensibles para personas fuera del proyecto. |Suelen contener lenguaje técnico y ser más complejas de leer.|
 |Son breves.|Son más largos.|
-|| En general se componen deun identificador único, un título que represente cual es el objetivo, las precondiciones ha satisfacer previo a iniciar, descripción breve del propósito del caso, una lista de pasos  
-
--   Las postcondiciones que describen el estado del sistema luego de ejecutarse el caso de uso
+|| En general se componen de un identificador único, un título que represente cual es el objetivo, las precondiciones ha satisfacer previo a iniciar, descripción breve del propósito del caso, una lista de pasos que muestren las interacciones entre los agentes externos y el sistema, las postcondiciones (estado del sistema después de ejecutarse el caso de uso), 
 -   Una lista de pasos que muestren las iteraciones entre los actores externos y el sistema.
 
 ---
@@ -121,7 +119,7 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY4OTIwMiw0ODU0Njg5MTIsLTE1Mj
+eyJoaXN0b3J5IjpbLTEwNTg3NTk5MCw0ODU0Njg5MTIsLTE1Mj
 g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
 NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
 EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
