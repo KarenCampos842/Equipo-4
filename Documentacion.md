@@ -80,7 +80,7 @@ Como líder, incentivar al equipo a externar sus dudas, comunicarse con otros in
 
 **Valor:** *"Valoramos más la colaboración con el cliente que la negociación contractual."*
 
-Co
+Para que exista una colaboración, el cliente debe de 
 
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
@@ -89,8 +89,8 @@ Co
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU5MDM5MDMsLTkzOTU1ODMwMCw3MT
-IxMDM1OTAsLTkzNTA0OTkwMCwtMTA2MjIxODEwNCwtMTQ1OTk2
-NjM0Miw2NDY5NTk2MTMsMzQ3Mjk4ODU5LDE2MzEyMzcxMDEsNz
-Y3MDk5MzQzLC0yMTMyNzg1OTU2LC02MzQyNzI3NTRdfQ==
+eyJoaXN0b3J5IjpbNjgwNTY5NDQyLC05Mzk1NTgzMDAsNzEyMT
+AzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5NjYz
+NDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3MTAxLDc2Nz
+A5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0XX0=
 -->
