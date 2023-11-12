@@ -42,23 +42,23 @@ Ambas herramientas son útiles para la extracción y organización de requerimie
    <td>Suelen contener lenguaje técnico y ser más complejas de leer.</td> 
   </tr>
    <tr> 
-  <td>No contienen lenguaje técnico, son fáciles de leer, y comprensibles para personas fuera del proyecto. </td> 
-   <td>Suelen contener lenguaje técnico y ser más complejas de leer.</td> 
-  </tr>            
+  <td>Son breves.</td> 
+   <td>Son más largos.</td> 
+  </tr> 
+    <tr> 
+  <td>En general siguen la estructura:
+  <ul>
+  <li> Como Usuario 
+  
+  </td> 
+   <td>Son más largos.</td> 
+  </tr>                 
   </table>
 
 
 
 
 
-|Historias de usuario  | Casos de uso |
-|--|--|
-|Se suelen elaborar antes de los casos de uso.  | Se suelen elaborar después de las historias de usuario. |
-|Comunes en las metodologías ágiles.  | No se suelen ver en metodologías ágiles.|
-|Propósito: Describir brevemente una característica del software desde la perspectiva, generalmente, del usuario o cliente.| Propósito: Describir la secuencia de interacciones entre el sistema y un agente externo (por ejemplo, el usuario final) para una funcionalidad específica. |
-|Enfoque en encontrar la necesidad de una funcionalidad para el usuario (para qué).|Enfoque en describir detalladamente las interacciones software-agente externo para suplir una necesidad.|
-|No contienen lenguaje técnico, son fáciles de leer, y comprensibles para personas fuera del proyecto. |Suelen contener lenguaje técnico y ser más complejas de leer.|
-|Son breves.|Son más largos.|
 |En general siguen la estructura:
 
 <Usuario>**
@@ -157,7 +157,7 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODMwMjc1Niw0ODU0Njg5MTIsLTE1Mj
+eyJoaXN0b3J5IjpbMjAxODQ3NTA5OSw0ODU0Njg5MTIsLTE1Mj
 g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
 NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
 EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
