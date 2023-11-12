@@ -75,7 +75,10 @@ Historias de usuario
  - Como guía al realizar pruebas. 
 
 Son posibles formas de usar éstas herramientas, aunque no es una regla. Habrá equipos que opten únicamente por utilizar historias de usuario, casos de uso o ambos. 
-Generalmente, las historias de usuario al ser más breves, p
+Generalmente, las historias de usuario al ser más breves, permiten iniciar antes el proyecto y refinarlas después. 
+
+**Ejemplo**
+Para nuestro proyecto utilizamos histo
 
 ---
 
@@ -169,10 +172,10 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MDA2NDM0LDQ4NTQ2ODkxMiwtMTUyOD
-Q4OTMzOCwyMDE0MDEzNTQzLDE2NjEwMDE2MTYsLTcyODg3MzU3
-OSwtMTU0NTQyNzQ4Myw4Mzg0MzI5MTIsLTkzOTU1ODMwMCw3MT
-IxMDM1OTAsLTkzNTA0OTkwMCwtMTA2MjIxODEwNCwtMTQ1OTk2
-NjM0Miw2NDY5NTk2MTMsMzQ3Mjk4ODU5LDE2MzEyMzcxMDEsNz
-Y3MDk5MzQzLC0yMTMyNzg1OTU2LC02MzQyNzI3NTRdfQ==
+eyJoaXN0b3J5IjpbLTY2NDQ1MzI2Niw0ODU0Njg5MTIsLTE1Mj
+g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
+NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
+EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
+NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3MTAxLD
+c2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0XX0=
 -->
