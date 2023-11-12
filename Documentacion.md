@@ -86,8 +86,7 @@ En nuestro caso, no tenemos un cliente, pero el profesor Luis Basto es lo más c
 Un reto que presentamos es pasar de un sprint a otro. Mientras no recibamos feedback por parte del cliente, caminamos a ciegas y avanzar se vuelve complicado. 
 
 **Solución:** 
-Verificar el trabajo realizado hasta el momento, analizar si 
-Avanzar 
+Verificar el trabajo realizado hasta el momento, analizar si independientemente del feedback se cambiará algo y hacerlo. Avanzar en aquello que no se vea afectado o gravemente afectado por el feedback del cliente. 
 
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
@@ -96,8 +95,8 @@ Avanzar
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4NDA1NzIsLTkzOTU1ODMwMCw3MTIxMD
-M1OTAsLTkzNTA0OTkwMCwtMTA2MjIxODEwNCwtMTQ1OTk2NjM0
-Miw2NDY5NTk2MTMsMzQ3Mjk4ODU5LDE2MzEyMzcxMDEsNzY3MD
-k5MzQzLC0yMTMyNzg1OTU2LC02MzQyNzI3NTRdfQ==
+eyJoaXN0b3J5IjpbODM4NDMyOTEyLC05Mzk1NTgzMDAsNzEyMT
+AzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5NjYz
+NDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3MTAxLDc2Nz
+A5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0XX0=
 -->
