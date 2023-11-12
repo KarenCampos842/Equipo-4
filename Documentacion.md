@@ -24,7 +24,7 @@ Ambas herramientas son útiles para la extracción y organización de requerimie
 |Propósito: Describir brevemente una característica del software desde la perspectiva, generalmente, del usuario o cliente.| Propósito: Describir la secuencia de interacciones entre el sistema y un agente externo (por ejemplo, el usuario final) para una funcionalidad específica. |
 |Enfoque en encontrar la necesidad de una funcionalidad para el usuario (para qué).|Enfoque en describir detalladamente las interacciones software-agente externo para suplir una necesidad.|
 |No contienen lenguaje técnico, son fáciles de leer, y comprensibles para personas fuera del proyecto. |Suelen contener lenguaje técnico y ser más complejas de leer.|
-|Enfoque en encontrar la necesidad de una funcionalidad para el usuario (para qué).|Enfoque en describir detalladamente las interacciones software-agente externo para suplir una necesidad.|
+|Son breves.|Son más largos.|
 
 
 ---
@@ -118,10 +118,10 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDIyMzQ5Myw0ODU0Njg5MTIsLTE1Mj
-g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
-NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
-EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
-NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3MTAxLD
-c2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0XX0=
+eyJoaXN0b3J5IjpbMTQxOTk4NjgwLDQ4NTQ2ODkxMiwtMTUyOD
+Q4OTMzOCwyMDE0MDEzNTQzLDE2NjEwMDE2MTYsLTcyODg3MzU3
+OSwtMTU0NTQyNzQ4Myw4Mzg0MzI5MTIsLTkzOTU1ODMwMCw3MT
+IxMDM1OTAsLTkzNTA0OTkwMCwtMTA2MjIxODEwNCwtMTQ1OTk2
+NjM0Miw2NDY5NTk2MTMsMzQ3Mjk4ODU5LDE2MzEyMzcxMDEsNz
+Y3MDk5MzQzLC0yMTMyNzg1OTU2LC02MzQyNzI3NTRdfQ==
 -->
