@@ -6,7 +6,9 @@
 
 ### Información
 
-Los requisitos son una parte muy importante en el proceso de desarrollo de software porque son la base de los acuerdos entre los involucrados , pues 
+Los requisitos son una parte muy importante en el proceso de desarrollo de software porque son la base de los acuerdos entre los involucrados.
+
+En un proyecto de desarrollo de software, la parte de la obtención de requisitos se ha convertido en toda una disciplina  que recieb
 
 ---
 
@@ -227,7 +229,7 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDcwMDM3NDEsOTUxNjA5MjkxLDYwMD
+eyJoaXN0b3J5IjpbLTE0MDY3MjIwNTQsOTUxNjA5MjkxLDYwMD
 IzMzYzMywtMTY5MTQxODg0MywtMTQ5Mjk5Mjk5OSw0ODU0Njg5
 MTIsLTE1Mjg0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC
 03Mjg4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1
