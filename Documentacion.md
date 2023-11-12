@@ -6,6 +6,8 @@
 
 ### Información
 
+Entre las múltiples 
+
 ---
 
 
@@ -225,11 +227,11 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMjMzNjMzLC0xNjkxNDE4ODQzLC0xND
-kyOTkyOTk5LDQ4NTQ2ODkxMiwtMTUyODQ4OTMzOCwyMDE0MDEz
-NTQzLDE2NjEwMDE2MTYsLTcyODg3MzU3OSwtMTU0NTQyNzQ4My
-w4Mzg0MzI5MTIsLTkzOTU1ODMwMCw3MTIxMDM1OTAsLTkzNTA0
-OTkwMCwtMTA2MjIxODEwNCwtMTQ1OTk2NjM0Miw2NDY5NTk2MT
-MsMzQ3Mjk4ODU5LDE2MzEyMzcxMDEsNzY3MDk5MzQzLC0yMTMy
-Nzg1OTU2XX0=
+eyJoaXN0b3J5IjpbOTUxNjA5MjkxLDYwMDIzMzYzMywtMTY5MT
+QxODg0MywtMTQ5Mjk5Mjk5OSw0ODU0Njg5MTIsLTE1Mjg0ODkz
+MzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1NzksLT
+E1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNzEyMTAz
+NTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5NjYzND
+IsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3MTAxLDc2NzA5
+OTM0M119
 -->
