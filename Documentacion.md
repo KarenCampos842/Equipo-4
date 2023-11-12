@@ -209,15 +209,27 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 ---
 ## Referencias
 
-Laoyan, S. (26 de septiembre de 2022). *Cómo organizar tu stand up meeting o daily Scrum. asana.* https://asana.com/es/resources/stand-up-meeting
+Arrizabalaga, I. (5 de octubre de 2021). _Problemas de Agile por los que esta metodología sigue fallando (y sus soluciones)._ axiateam. https://www.axiateam.com/problemas-de-agile-por-los-que-esta-metodologia-sigue-fallando-y-sus-soluciones/
 
-Laoyan, S. (26 de septiembre de 2022). *Cómo organizar tu stand up meeting o daily Scrum. asana.* https://asana.com/es/resources/stand-up-meeting
+Arthur Mauricio. (s.f). Casos de uso y Historias de usuario. _Ouracademy._ https://our-academy.org/posts/casos-de-uso-y-historias-de-usuario.
+
+EBF. (11 de septiembre de 2019). _Ventajas y desventajas de las metodologías Agile (ágiles)._ EBF. https://ebf.com.es/blog/ventajas-y-desventajas-de-las-metodologias-agiles-y-su-aplicacion-en-el-tra
+
+Gonzalez, F. (30 de septiembre de 2019). Casos de Uso: La alternativa a historia de usuario. _Somospnt_. https://somospnt.com/blog/104-casos-de-uso-una-alternativa-diferente#:~:text=Mientras%20que%20en%20una%20historia,y%20respuestas%20de%20nuestro%20sistema.
+
+Laoyan, S. (26 de septiembre de 2022). _Cómo organizar tu stand up meeting o daily Scrum_. asana. [https://asana.com/es/resources/stand-up-meeting](https://asana.com/es/resources/stand-up-meeting)
+
+Marco de Desarrollo de la Junta de Andalucía. (s. f). _Guía para la redacción de casos de uso. Junta de Andalucía._ https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416
+
+Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
+
+Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE0MTg4NDMsLTE0OTI5OTI5OTksND
-g1NDY4OTEyLC0xNTI4NDg5MzM4LDIwMTQwMTM1NDMsMTY2MTAw
-MTYxNiwtNzI4ODczNTc5LC0xNTQ1NDI3NDgzLDgzODQzMjkxMi
-wtOTM5NTU4MzAwLDcxMjEwMzU5MCwtOTM1MDQ5OTAwLC0xMDYy
-MjE4MTA0LC0xNDU5OTY2MzQyLDY0Njk1OTYxMywzNDcyOTg4NT
-ksMTYzMTIzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYz
-NDI3Mjc1NF19
+eyJoaXN0b3J5IjpbNjAwMjMzNjMzLC0xNjkxNDE4ODQzLC0xND
+kyOTkyOTk5LDQ4NTQ2ODkxMiwtMTUyODQ4OTMzOCwyMDE0MDEz
+NTQzLDE2NjEwMDE2MTYsLTcyODg3MzU3OSwtMTU0NTQyNzQ4My
+w4Mzg0MzI5MTIsLTkzOTU1ODMwMCw3MTIxMDM1OTAsLTkzNTA0
+OTkwMCwtMTA2MjIxODEwNCwtMTQ1OTk2NjM0Miw2NDY5NTk2MT
+MsMzQ3Mjk4ODU5LDE2MzEyMzcxMDEsNzY3MDk5MzQzLC0yMTMy
+Nzg1OTU2XX0=
 -->
