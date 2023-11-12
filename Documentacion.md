@@ -23,7 +23,7 @@ Ambas herramientas son útiles para la extracción y organización de requerimie
 |Comunes en las metodologías ágiles.  | No se suelen ver en metodologías ágiles.|
 |Propósito: Describir brevemente una característica del software desde la perspectiva, generalmente, del usuario o cliente.| Propósito: Describir la secuencia de interacciones entre el sistema y un agente externo (por ejemplo, el usuario final) para una funcionalidad específica. |
 |Enfoque en encontrar la necesidad de una funcionalidad para el usuario (para qué).|Enfoque en describir detalladamente las interacciones software-agente externo para suplir una necesidad.|
-|Suelen contener lenguaje técnico.|. |
+|No contienen lenguaje técnico, es fácil que personas |Suelen contener lenguaje técnico y ser más complejas de leer.|
 
 ---
 > **Tema:** *Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
@@ -116,10 +116,10 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjg0ODkzMzgsMjAxNDAxMzU0MywxNj
-YxMDAxNjE2LC03Mjg4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMy
-OTEyLC05Mzk1NTgzMDAsNzEyMTAzNTkwLC05MzUwNDk5MDAsLT
-EwNjIyMTgxMDQsLTE0NTk5NjYzNDIsNjQ2OTU5NjEzLDM0NzI5
-ODg1OSwxNjMxMjM3MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1Ni
-wtNjM0MjcyNzU0XX0=
+eyJoaXN0b3J5IjpbLTExODI2MzAwNDAsLTE1Mjg0ODkzMzgsMj
+AxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1NzksLTE1NDU0
+Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNzEyMTAzNTkwLC
+05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5NjYzNDIsNjQ2
+OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3MTAxLDc2NzA5OTM0My
+wtMjEzMjc4NTk1NiwtNjM0MjcyNzU0XX0=
 -->
