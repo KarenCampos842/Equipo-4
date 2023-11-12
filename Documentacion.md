@@ -83,7 +83,9 @@ Como líder, incentivar al equipo a externar sus dudas, comunicarse con otros in
 Para que exista una colaboración, el cliente debe acompañar al equipo durante el proceso, lo que implica que el cliente este disponible. 
 En nuestro caso, no tenemos un cliente, pero el profesor Luis Basto es lo más cercano, puesto que es a quién le entregaremos el producto final y quien nos ofrece feedback durante las reuniones semanales y al final de cada sprint. 
 
-Un reto que presentamos es pasar de un sprint a otro.  feedback por parte del cliente, n
+Un reto que presentamos es pasar de un sprint a otro. Mientras no recibamos feedback por parte del cliente, caminamos a ciegas y avanzar se vuelve complicado. 
+
+
 
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
@@ -92,7 +94,7 @@ Un reto que presentamos es pasar de un sprint a otro.  feedback por parte del cl
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTE3MTcyMCwtOTM5NTU4MzAwLDcxMj
+eyJoaXN0b3J5IjpbLTY0NzMwNjY0NCwtOTM5NTU4MzAwLDcxMj
 EwMzU5MCwtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5OTY2
 MzQyLDY0Njk1OTYxMywzNDcyOTg4NTksMTYzMTIzNzEwMSw3Nj
 cwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1NF19
