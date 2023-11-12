@@ -95,7 +95,7 @@ En nuestro caso, sucedió algo similar con la última entrega.
 Surgió algo inesperado y uno de nuestros compañeros no pudo realizar todas sus actividades. Nos intentamos adaptar a la situación y reasignamos actividades. Lamentablemente, os desviamos mucho del plan y las fechas se extendieron, por lo que no terminamos todo a tiempo. 
 
 **Solución:** 
-Para el si
+Para el siguiente sprint programar las actividades de tal forma que se tengan algunos días de margen que no 
 
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
@@ -104,7 +104,7 @@ Para el si
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3OTMwNTA3LC0xNTQ1NDI3NDgzLDgzOD
+eyJoaXN0b3J5IjpbLTI2NTk2MTMwLC0xNTQ1NDI3NDgzLDgzOD
 QzMjkxMiwtOTM5NTU4MzAwLDcxMjEwMzU5MCwtOTM1MDQ5OTAw
 LC0xMDYyMjE4MTA0LC0xNDU5OTY2MzQyLDY0Njk1OTYxMywzND
 cyOTg4NTksMTYzMTIzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5
