@@ -13,7 +13,8 @@
 
 ### Información
 
-Ambas herramientas son útiles para la extracción y organizaci
+Ambas herramientas son útiles para la extracción y organización de requerimientos por lo que a primera instancia podrían parecer iguales, aunque no es el caso. 
+
 |Historias de usuario  | Casos de uso |
 |--|--|
 |  |  |
@@ -109,10 +110,10 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTE5NTYwMSwxNjYxMDAxNjE2LC03Mj
-g4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgz
-MDAsNzEyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLT
-E0NTk5NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3
-MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0XX
-0=
+eyJoaXN0b3J5IjpbODQxNTMzMzY5LDE2NjEwMDE2MTYsLTcyOD
+g3MzU3OSwtMTU0NTQyNzQ4Myw4Mzg0MzI5MTIsLTkzOTU1ODMw
+MCw3MTIxMDM1OTAsLTkzNTA0OTkwMCwtMTA2MjIxODEwNCwtMT
+Q1OTk2NjM0Miw2NDY5NTk2MTMsMzQ3Mjk4ODU5LDE2MzEyMzcx
+MDEsNzY3MDk5MzQzLC0yMTMyNzg1OTU2LC02MzQyNzI3NTRdfQ
+==
 -->
