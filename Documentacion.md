@@ -6,7 +6,7 @@
 
 ### Información
 
-Entre las múltiples 
+Los requisitos son la base fundamental de los proyectos de ingenieria de software
 
 ---
 
@@ -227,11 +227,11 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxNjA5MjkxLDYwMDIzMzYzMywtMTY5MT
-QxODg0MywtMTQ5Mjk5Mjk5OSw0ODU0Njg5MTIsLTE1Mjg0ODkz
-MzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1NzksLT
-E1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNzEyMTAz
-NTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5NjYzND
-IsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3MTAxLDc2NzA5
-OTM0M119
+eyJoaXN0b3J5IjpbLTE4NTEzMTg4ODEsOTUxNjA5MjkxLDYwMD
+IzMzYzMywtMTY5MTQxODg0MywtMTQ5Mjk5Mjk5OSw0ODU0Njg5
+MTIsLTE1Mjg0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC
+03Mjg4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1
+NTgzMDAsNzEyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMD
+QsLTE0NTk5NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMx
+MjM3MTAxXX0=
 -->
