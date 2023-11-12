@@ -78,7 +78,7 @@ Son posibles formas de usar éstas herramientas, aunque no es una regla. Habrá 
 Generalmente, las historias de usuario al ser más breves, permiten iniciar antes el proyecto y refinarlas después. 
 
 **Ejemplo**
-Para nuestro proyecto elaboramos historias de usuario  para tener una idea general de lo que se buscaba lograr y cómo herramienta para la asignación de actividades. Posterior a las historias de usuario realizamos casos de uso para ver a detalle las interacciones entre el software  y los agentes externos 
+Para nuestro proyecto elaboramos historias de usuario  para tener una idea general de lo que se buscaba lograr y cómo herramienta para la asignación de actividades. Posterior a las historias de usuario realizamos casos de uso para ver a detalle las interacciones entre el software  y los agentes externos y tener más en claro como sería el diseño de las interfaces. 
 
 ---
 
@@ -172,7 +172,7 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjA4MjM5OSw0ODU0Njg5MTIsLTE1Mj
+eyJoaXN0b3J5IjpbMTMxODgwMDIyMiw0ODU0Njg5MTIsLTE1Mj
 g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
 NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
 EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
