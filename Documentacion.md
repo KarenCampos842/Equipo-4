@@ -56,10 +56,11 @@ Suelen tener un id, un título que represente el objetivo, una descripción, cri
    </ul>
   Existen historias de usuario que representan el happy flow y el unhappy flow. 
   </td> 
-   <td>En general se componen de un identificador único, un título que represente cual es el objetivo, las precondiciones ha satisfacer previo a iniciar, descripción breve del propósito del caso, una lista de pasos que muestren las interacciones entre los agentes externos y el sistema (happy flow), las postcondiciones (estado del sistema después de ejecutarse el caso de uso) y excepciones (unhappy flow).</td> 
+   <td>En general se componen de un identificador , un título el objetivo, las precondiciones ha satisfacer previo a iniciar, descripción breve del propósito del caso, una lista de pasos que muestren las interacciones entre los agentes externos y el sistema (happy flow), las postcondiciones (estado del sistema después de ejecutarse el caso de uso) y excepciones (unhappy flow).</td> 
   </tr>                 
   </table>
 
+Cuándo usarlos
 
 ---
 
@@ -153,7 +154,7 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDI0OTQwLDQ4NTQ2ODkxMiwtMTUyOD
+eyJoaXN0b3J5IjpbMzE0NjQ5NDA1LDQ4NTQ2ODkxMiwtMTUyOD
 Q4OTMzOCwyMDE0MDEzNTQzLDE2NjEwMDE2MTYsLTcyODg3MzU3
 OSwtMTU0NTQyNzQ4Myw4Mzg0MzI5MTIsLTkzOTU1ODMwMCw3MT
 IxMDM1OTAsLTkzNTA0OTkwMCwtMTA2MjIxODEwNCwtMTQ1OTk2
