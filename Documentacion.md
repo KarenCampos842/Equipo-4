@@ -22,17 +22,18 @@ Ambas herramientas son útiles para la extracción y organización de requerimie
  <th>Casos de uso</th>  
 </tr>  
 <tr>  
-<td>Soleado</td>  
-<td>Mayormente soleado</td>  
+<td>Se suelen elaborar antes de los casos de uso. </td>  
+<td>Se suelen elaborar después de las historias de usuario.</td>  
 </tr> 
  <tr> 
-  <td>19°C</td> 
-   <td>17°C</td> 
+  <td>Comunes en las metodologías ágiles. </td> 
+   <td>No se suelen ver en metodologías ágiles.</td> 
   </tr>  
   <tr>  
-  <td>E 13 km/h</td>  
-  <td>E 11 km/h</td> 
-  </tr>  
+  <td>Propósito: Describir brevemente una característica del software desde la perspectiva, generalmente, del usuario o cliente.</td>  
+  <td>Propósito: Describir la secuencia de interacciones entre el sistema y un agente externo (por ejemplo, el usuario final) para una funcionalidad específica.</td> 
+  </tr> 
+   
   </table>
 
 
@@ -145,7 +146,7 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTQ1MDc2Miw0ODU0Njg5MTIsLTE1Mj
+eyJoaXN0b3J5IjpbLTE0NTQxMTUzOCw0ODU0Njg5MTIsLTE1Mj
 g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
 NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
 EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
