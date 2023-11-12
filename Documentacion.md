@@ -21,7 +21,7 @@ Ambas herramientas son útiles para la extracción y organización de requerimie
 |--|--|
 |Se suelen elaborar antes de los casos de uso.  | Se suelen elaborar después de las historias de usuario. |
 |Comunes en las metodologías ágiles.  | No se suelen ver en metodologías ágiles.|
-|Propósito: Describir brevemente una característica del software desde| No se suelen ver en metodologías ágiles.|
+|Propósito: Describir brevemente una característica del software desde la perspectiva, generalmente, del usuario o cliente. Enfoque en el para qué | No se suelen ver en metodologías ágiles.|
 
 ---
 > **Tema:** *Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
@@ -114,10 +114,10 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mj
-g4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgz
-MDAsNzEyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLT
-E0NTk5NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3
-MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0XX
-0=
+eyJoaXN0b3J5IjpbOTI5NTA5NTY5LDIwMTQwMTM1NDMsMTY2MT
+AwMTYxNiwtNzI4ODczNTc5LC0xNTQ1NDI3NDgzLDgzODQzMjkx
+MiwtOTM5NTU4MzAwLDcxMjEwMzU5MCwtOTM1MDQ5OTAwLC0xMD
+YyMjE4MTA0LC0xNDU5OTY2MzQyLDY0Njk1OTYxMywzNDcyOTg4
+NTksMTYzMTIzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLT
+YzNDI3Mjc1NF19
 -->
