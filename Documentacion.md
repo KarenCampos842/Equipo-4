@@ -90,8 +90,9 @@ Verificar el trabajo realizado hasta el momento, analizar si independientemente 
 
 **Valor:** *"Valoramos más la respuesta al cambio que el seguimiento de un plan."*
 
-Cuando algo inesperado sucede, la metodología ágil valora la adaptación por sobre el seguimiento de un plan. Desafortunadamente, esto puede causar que el equipo de desarrollo se desvíe demasiado del plan y las fechas se extiendan (es una . 
-En nuestro caso, sucedió con la última entrega. Surgió algo inesperado y uno de nuestros compañeros no pudo realizar todas sus actividades. 
+Cuando algo inesperado sucede, la metodología ágil valora la adaptación por sobre el seguimiento de un plan. Desafortunadamente, esto puede causar que el equipo de desarrollo se desvíe demasiado del plan y las fechas se extiendan (es una posibilidad, no una certeza). 
+En nuestro caso, sucedió con la última entrega.
+Surgió algo inesperado y uno de nuestros compañeros no pudo realizar todas sus actividades. Nos intentamos adaptar a la situación y reasignamos actividades. 
 
 ---
 > **Tema:** *De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil*
@@ -100,9 +101,9 @@ En nuestro caso, sucedió con la última entrega. Surgió algo inesperado y uno 
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTUzNTIyNCwtMTU0NTQyNzQ4Myw4Mz
-g0MzI5MTIsLTkzOTU1ODMwMCw3MTIxMDM1OTAsLTkzNTA0OTkw
-MCwtMTA2MjIxODEwNCwtMTQ1OTk2NjM0Miw2NDY5NTk2MTMsMz
-Q3Mjk4ODU5LDE2MzEyMzcxMDEsNzY3MDk5MzQzLC0yMTMyNzg1
-OTU2LC02MzQyNzI3NTRdfQ==
+eyJoaXN0b3J5IjpbMjI3NjA5NzQ1LC0xNTQ1NDI3NDgzLDgzOD
+QzMjkxMiwtOTM5NTU4MzAwLDcxMjEwMzU5MCwtOTM1MDQ5OTAw
+LC0xMDYyMjE4MTA0LC0xNDU5OTY2MzQyLDY0Njk1OTYxMywzND
+cyOTg4NTksMTYzMTIzNzEwMSw3NjcwOTkzNDMsLTIxMzI3ODU5
+NTYsLTYzNDI3Mjc1NF19
 -->
