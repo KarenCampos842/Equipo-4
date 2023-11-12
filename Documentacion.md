@@ -47,13 +47,14 @@ Ambas herramientas son útiles para la extracción y organización de requerimie
   </tr> 
     <tr> 
   <td>
-Suelen tener un id, un título que represente el objetivo, una descripción, criterios de aceptación, prioridad y estimación.<br>
-Estructura usual de la descripción:
+Suelen tener un id, un título que represente el objetivo, una descripción, criterios de aceptación, prioridad y estimación.
+<br><br>Estructura usual de la descripción:
   <ul>
   <li> Como <b>Usuario</b></li>
   <li> Quiero <b>objetivo</b></li>
   <li> Para que <b>motivo</b></li>
    </ul>
+  Existen las hsitori 
   </td> 
    <td>Son más largos.</td> 
   </tr>                 
@@ -161,7 +162,7 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzQ1ODA2NSw0ODU0Njg5MTIsLTE1Mj
+eyJoaXN0b3J5IjpbMjAzOTk5Mzk0NSw0ODU0Njg5MTIsLTE1Mj
 g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
 NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
 EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
