@@ -16,14 +16,24 @@
 Ambas herramientas son útiles para la extracción y organización de requerimientos por lo que a primera instancia podrían parecer iguales, aunque no es el caso. 
 
 **Diferencias**
-<table class="default"> 
+<table align=center> 
  <tr>  
- <th>Hoy</th>  
- <th>Mañana</th>  
+ <th>Historias de usuario</th>  
+ <th>Casos de uso</th>  
 </tr>  
 <tr>  
 <td>Soleado</td>  
-<td>Mayormente soleado</td>  <td>Parcialmente nublado</td>  </tr>  <tr>  <td>19°C</td>  <td>17°C</td>  <td>12°C</td>  </tr>  <tr>  <td>E 13 km/h</td>  <td>E 11 km/h</td>  <td>S 16 km/h</td>  </tr>  </table>
+<td>Mayormente soleado</td>  
+</tr> 
+ <tr> 
+  <td>19°C</td> 
+   <td>17°C</td> 
+  </tr>  
+  <tr>  
+  <td>E 13 km/h</td>  
+  <td>E 11 km/h</td> 
+  </tr>  
+  </table>
 
 
 
@@ -135,10 +145,10 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzM4NTY4MTYsNDg1NDY4OTEyLC0xNT
-I4NDg5MzM4LDIwMTQwMTM1NDMsMTY2MTAwMTYxNiwtNzI4ODcz
-NTc5LC0xNTQ1NDI3NDgzLDgzODQzMjkxMiwtOTM5NTU4MzAwLD
-cxMjEwMzU5MCwtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5
-OTY2MzQyLDY0Njk1OTYxMywzNDcyOTg4NTksMTYzMTIzNzEwMS
-w3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1NF19
+eyJoaXN0b3J5IjpbMTcyOTQ1MDc2Miw0ODU0Njg5MTIsLTE1Mj
+g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
+NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
+EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
+NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3MTAxLD
+c2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0XX0=
 -->
