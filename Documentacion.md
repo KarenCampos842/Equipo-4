@@ -78,7 +78,7 @@ Son posibles formas de usar éstas herramientas, aunque no es una regla. Habrá 
 Generalmente, las historias de usuario al ser más breves, permiten iniciar antes el proyecto y refinarlas después. 
 
 **Ejemplo**
-Para nuestro proyecto utilizamos histo
+Para nuestro proyecto elaboramos historias de usuario  para tener una idea general de lo que se buscaba lograr y 
 
 ---
 
@@ -172,7 +172,7 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDQ1MzI2Niw0ODU0Njg5MTIsLTE1Mj
+eyJoaXN0b3J5IjpbLTM4NTU0OTY2OSw0ODU0Njg5MTIsLTE1Mj
 g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
 NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
 EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
