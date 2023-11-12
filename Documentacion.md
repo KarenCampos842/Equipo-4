@@ -13,6 +13,7 @@
 
 ### Información
 
+Ambas herramientas son útiles para la extracción y organizaci
 |Historias de usuario  | Casos de uso |
 |--|--|
 |  |  |
@@ -108,9 +109,10 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTAwMTYxNiwtNzI4ODczNTc5LC0xNT
-Q1NDI3NDgzLDgzODQzMjkxMiwtOTM5NTU4MzAwLDcxMjEwMzU5
-MCwtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5OTY2MzQyLD
-Y0Njk1OTYxMywzNDcyOTg4NTksMTYzMTIzNzEwMSw3NjcwOTkz
-NDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1NF19
+eyJoaXN0b3J5IjpbMTYxOTE5NTYwMSwxNjYxMDAxNjE2LC03Mj
+g4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgz
+MDAsNzEyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLT
+E0NTk5NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3
+MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0XX
+0=
 -->
