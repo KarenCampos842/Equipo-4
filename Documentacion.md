@@ -82,6 +82,39 @@ Para nuestro proyecto elaboramos historias de usuario  para tener una idea gener
 
 Ejemplo de historia de usuario: 
 
+<table align=center>  
+   <tr>  
+      <th>Historia de usuario #2</th>  
+      <th>Registro de cliente</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td>Usuario</td> 
+   </tr> 
+    <tr>  
+      <td><b>Quiero</b></td>  
+       <td> Poder registrarme en WorkFlash como cliente</td> 
+   </tr> 
+     <tr>  
+      <td><b>Para</b></td>  
+       <td> Encontrar trabajadores de forma rápida.</td> 
+   </tr> 
+  <tr>  
+      <td><b>Criterios de aceptación</b></td>  
+       <td> 
+           <ul>
+           <li>Comprobar que se ha seleccionado el perfil "cliente".</li>
+           <li>Comprobar que existen mínimo un nombre y un apellido.</li>
+                 <li>Comprobar que existe texto antes y después de @ para el correo.</li>
+                  <li>Comprobar que existe un elemento (imagen o PDF) como identificación oficial con fotografía.</li>
+                  <li>Comprobar que existe un elemento (imagen) en el apartado de fotografía actual.</li>
+                <li>Comprobar la aceptación de términos y condiciones.</li>
+           <li>Comprobar el envío de contraseña al correo proporcionado.</li>
+           </ul>
+     </td> 
+   </tr>
+ </table>      
+
 
 ---
 
@@ -174,11 +207,13 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 ### Información
 
 ---
+#3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI5OTI5OTksNDg1NDY4OTEyLC0xNT
-I4NDg5MzM4LDIwMTQwMTM1NDMsMTY2MTAwMTYxNiwtNzI4ODcz
-NTc5LC0xNTQ1NDI3NDgzLDgzODQzMjkxMiwtOTM5NTU4MzAwLD
-cxMjEwMzU5MCwtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5
-OTY2MzQyLDY0Njk1OTYxMywzNDcyOTg4NTksMTYzMTIzNzEwMS
-w3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1NF19
+eyJoaXN0b3J5IjpbMTAxOTMxMzMzNCwtMTQ5Mjk5Mjk5OSw0OD
+U0Njg5MTIsLTE1Mjg0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAx
+NjE2LC03Mjg4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC
+05Mzk1NTgzMDAsNzEyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIy
+MTgxMDQsLTE0NTk5NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OS
+wxNjMxMjM3MTAxLDc2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0
+MjcyNzU0XX0=
 -->
