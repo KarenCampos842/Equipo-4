@@ -12,6 +12,7 @@
 > **Tema:** *Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
 
 ### Información
+w
 
 ---
 > **Tema:** *Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
@@ -104,7 +105,7 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTA4MTQ3MiwtMTU0NTQyNzQ4Myw4Mz
+eyJoaXN0b3J5IjpbLTcyODg3MzU3OSwtMTU0NTQyNzQ4Myw4Mz
 g0MzI5MTIsLTkzOTU1ODMwMCw3MTIxMDM1OTAsLTkzNTA0OTkw
 MCwtMTA2MjIxODEwNCwtMTQ1OTk2NjM0Miw2NDY5NTk2MTMsMz
 Q3Mjk4ODU5LDE2MzEyMzcxMDEsNzY3MDk5MzQzLC0yMTMyNzg1
