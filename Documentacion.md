@@ -76,7 +76,7 @@ Uno de los conflictos con este valor, es que, dado a que la documentación que t
 Al inicio de cada sprint, durante una reunión se hablaba de lo que cada uno iba a realizar. Si bien se documentaba, no se escribía todo lo que se trataba durante la reunión, simplemente los puntos principales de cada actividad por realizar. Así que, al momento de iniciar con las actividades, si alguien olvidaba algo respecto a su actividad que no formaba parte de la documentación no avanzaba con su parte, o realizaba algo incompleto, de cualquier forma, el proceso de desarrollo se veía perjudicado. 
 
 **Solución:**
-Como líder de equipo, incentivar al equipo a externar sus dudas, buscar apoyo en otros integrantes y a tomar notas personales, ya sean escritas o grabadas para no olvidar lo acordado.  
+Como líder, incentivar al equipo a externar sus dudas, comunicarse con otros integrantes y buscar apoyo. Así mismo, incentivarlos a tomar notas personales, ya sean escritas o grabadas para no olvidar lo acordado.  
 
 **Valor:** *"Valoramos más la colaboración con el cliente que la negociación contractual."*
 
@@ -88,8 +88,8 @@ Como líder de equipo, incentivar al equipo a externar sus dudas, buscar apoyo e
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzM0MTU0OCwtOTM5NTU4MzAwLDcxMj
-EwMzU5MCwtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5OTY2
-MzQyLDY0Njk1OTYxMywzNDcyOTg4NTksMTYzMTIzNzEwMSw3Nj
-cwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1NF19
+eyJoaXN0b3J5IjpbOTgwNDIyNywtOTM5NTU4MzAwLDcxMjEwMz
+U5MCwtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5OTY2MzQy
+LDY0Njk1OTYxMywzNDcyOTg4NTksMTYzMTIzNzEwMSw3NjcwOT
+kzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1NF19
 -->
