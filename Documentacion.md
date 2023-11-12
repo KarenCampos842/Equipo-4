@@ -25,7 +25,12 @@ Ambas herramientas son útiles para la extracción y organización de requerimie
 |Enfoque en encontrar la necesidad de una funcionalidad para el usuario (para qué).|Enfoque en describir detalladamente las interacciones software-agente externo para suplir una necesidad.|
 |No contienen lenguaje técnico, son fáciles de leer, y comprensibles para personas fuera del proyecto. |Suelen contener lenguaje técnico y ser más complejas de leer.|
 |Son breves.|Son más largos.|
-
+|| En general se componen de: un identificador único, un título que represente cual es el objetivo, .
+-   Una breve descripción indicando el propósito del caso.
+-   El detonante o trigger que inicia la secuencia de pasos
+-   Las precondiciones que se  deben satisfacer a la hora del iniciar un caso de uso
+-   Las postcondiciones que describen el estado del sistema luego de ejecutarse el caso de uso
+-   Una lista de pasos que muestren las iteraciones entre los actores externos y el sistema.
 
 ---
 > **Tema:** *Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
@@ -118,10 +123,10 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTk4NjgwLDQ4NTQ2ODkxMiwtMTUyOD
-Q4OTMzOCwyMDE0MDEzNTQzLDE2NjEwMDE2MTYsLTcyODg3MzU3
-OSwtMTU0NTQyNzQ4Myw4Mzg0MzI5MTIsLTkzOTU1ODMwMCw3MT
-IxMDM1OTAsLTkzNTA0OTkwMCwtMTA2MjIxODEwNCwtMTQ1OTk2
-NjM0Miw2NDY5NTk2MTMsMzQ3Mjk4ODU5LDE2MzEyMzcxMDEsNz
-Y3MDk5MzQzLC0yMTMyNzg1OTU2LC02MzQyNzI3NTRdfQ==
+eyJoaXN0b3J5IjpbMTgzNzg2ODg3Niw0ODU0Njg5MTIsLTE1Mj
+g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
+NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
+EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
+NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3MTAxLD
+c2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0XX0=
 -->
