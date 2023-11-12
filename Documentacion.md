@@ -78,7 +78,10 @@ Son posibles formas de usar éstas herramientas, aunque no es una regla. Habrá 
 Generalmente, las historias de usuario al ser más breves, permiten iniciar antes el proyecto y refinarlas después. 
 
 **Ejemplo**
-Para nuestro proyecto elaboramos historias de usuario  para tener una idea general de lo que se buscaba lograr y cómo herramienta para la asignación de actividades. Posterior a las historias de usuario realizamos casos de uso para ver a detalle las interacciones entre el software  y los agentes externos y tener más en claro como sería el diseño de las interfaces. 
+Para nuestro proyecto elaboramos historias de usuario  para tener una idea general de lo que se buscaba lograr y cómo herramienta para la asignación de actividades. Posterior a las historias de usuario, realizamos casos de uso para ver a detalle las interacciones entre el software  y los agentes externos y así avanzar con algo más claro al diseño de interfaces. 
+
+Ejemplo de historia de usuario: 
+
 
 ---
 
@@ -172,10 +175,10 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODgwMDIyMiw0ODU0Njg5MTIsLTE1Mj
-g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
-NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
-EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
-NjYzNDIsNjQ2OTU5NjEzLDM0NzI5ODg1OSwxNjMxMjM3MTAxLD
-c2NzA5OTM0MywtMjEzMjc4NTk1NiwtNjM0MjcyNzU0XX0=
+eyJoaXN0b3J5IjpbLTE0OTI5OTI5OTksNDg1NDY4OTEyLC0xNT
+I4NDg5MzM4LDIwMTQwMTM1NDMsMTY2MTAwMTYxNiwtNzI4ODcz
+NTc5LC0xNTQ1NDI3NDgzLDgzODQzMjkxMiwtOTM5NTU4MzAwLD
+cxMjEwMzU5MCwtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5
+OTY2MzQyLDY0Njk1OTYxMywzNDcyOTg4NTksMTYzMTIzNzEwMS
+w3NjcwOTkzNDMsLTIxMzI3ODU5NTYsLTYzNDI3Mjc1NF19
 -->
