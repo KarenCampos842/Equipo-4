@@ -17,7 +17,7 @@ Modelización: Adoptar un modelo de desarrollo no es una tarea fácil, pues esto
 
 Desarrollo de Software: Es evidente que para poder dimensionar los desafíos y oportunidad es en el proceso de ingeniería de software es necesario tener un amplio conocimiento en tecnologías de la información poder realizar estimaciones basadas en fórmulas matemáticas y el expertiz del propio ingeniero, harán posible tener un mejor control sobre las implicaciones que tiene el proceso de desarrollo del software.
 
-Además de lo antes mencionado, podemos ejemplificar en nuest
+Además de lo antes mencionado, podemos ejemplificar en nuestro equipo de trabajo la primera habilidad que es el análisis, para definir los alcances y limitaciones de nuestro producto de software hemos hecho una amplia tarea de análisis basados en nuestra experiencia y la forma que 
 
 ---
 
@@ -238,11 +238,11 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTY2ODc4MywtNjMyMTk4OCwxOTc3NT
-YyNTk2LC0xNTQwNTMxMzMsOTUxNjA5MjkxLDYwMDIzMzYzMywt
-MTY5MTQxODg0MywtMTQ5Mjk5Mjk5OSw0ODU0Njg5MTIsLTE1Mj
-g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
-NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
-EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
-NjYzNDJdfQ==
+eyJoaXN0b3J5IjpbNzA3ODE5NTQsLTYzMjE5ODgsMTk3NzU2Mj
+U5NiwtMTU0MDUzMTMzLDk1MTYwOTI5MSw2MDAyMzM2MzMsLTE2
+OTE0MTg4NDMsLTE0OTI5OTI5OTksNDg1NDY4OTEyLC0xNTI4ND
+g5MzM4LDIwMTQwMTM1NDMsMTY2MTAwMTYxNiwtNzI4ODczNTc5
+LC0xNTQ1NDI3NDgzLDgzODQzMjkxMiwtOTM5NTU4MzAwLDcxMj
+EwMzU5MCwtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5OTY2
+MzQyXX0=
 -->
