@@ -6,6 +6,19 @@
 
 ### Información
 
+Los requisitos son una parte muy importante en el proceso de desarrollo de software porque son la base de los acuerdos entre los involucrados.
+
+En un proyecto de desarrollo de software, la parte de la obtención de requisitos se ha convertido en toda una disciplina  que recibe el nombre de ingeniería de requerimientos, pues desempeñarse en ella implica de un amplio conocimiento y habilidades técnicas y sociales, pues gran parte de este proceso implica la interacción con muchas partes con conocimientos distintos en el área de las tecnologías de la información. Lo que demanda una capacidad para poder interpretar de la mejor manera la información.
+Podemos destacar tres habilidades en la parte técnica que son indispensables para esta disciplina, las cuales son el análisis, 
+
+Análisis: Antes de cualquier cosa se deben cimentar las bases del proyecto y es aquí donde la capacidad de extraer información, comprenderla y traducirla en  información técnica, son indispensables para el desarrollo del proyecto, pues el analista se enfrentara a diversos perfiles de clientes con necesidades distintas, y a partir de la información que ellos proporcionen se debe de hacer una evaluación de los alcances y restricciones que se implican.
+
+Modelización: Adoptar un modelo de desarrollo no es una tarea fácil, pues esto implica tener un amplio conocimiento en gestión de proyectos ya habilidades distintas, para conseguir los mejores resultados es necesario que se adopten las técnicas y prácticas más adecuadas para el proyecto, pues de esta manera se garantizará la creación de un producto de calidad con un estructura adecuada, para ello es necesario aplicar técnicas como la estimación que requieren de habilidades matemáticas.
+
+Desarrollo de Software: Es evidente que para poder dimensionar los desafíos y oportunidad es en el proceso de ingeniería de software es necesario tener un amplio conocimiento en tecnologías de la información poder realizar estimaciones basadas en fórmulas matemáticas y el expertiz del propio ingeniero, harán posible tener un mejor control sobre las implicaciones que tiene el proceso de desarrollo del software.
+
+Además de lo antes mencionado, podemos ejemplificar en nuestro equipo de trabajo la primera habilidad que es el análisis, para definir los alcances y limitaciones de nuestro producto de software hemos hecho una amplia tarea de análisis basados en nuestra experiencia y la forma en la que traducir funciones prácticas de un software en especificaciones técnicas que luego usamos para la generación de requisitos, a pesar de no haber tenido una amplia formación en este aspecto, haciendo énfasis en el usuario final pudimos extraer esta información.
+
 ---
 
 
@@ -209,6 +222,8 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 ---
 ## Referencias
 
+Chaves, M. A. (2005). _La ingeniería de requerimientos y su importancia en el desarrollo de proyectos de software_. Redalyc.org. https://www.redalyc.org/articulo.oa?id=66612870011
+ 
 Arrizabalaga, I. (5 de octubre de 2021). _Problemas de Agile por los que esta metodología sigue fallando (y sus soluciones)._ axiateam. https://www.axiateam.com/problemas-de-agile-por-los-que-esta-metodologia-sigue-fallando-y-sus-soluciones/
 
 Arthur Mauricio. (s.f). Casos de uso y Historias de usuario. _Ouracademy._ https://our-academy.org/posts/casos-de-uso-y-historias-de-usuario.
@@ -221,15 +236,17 @@ Laoyan, S. (26 de septiembre de 2022). _Cómo organizar tu stand up meeting o da
 
 Marco de Desarrollo de la Junta de Andalucía. (s. f). _Guía para la redacción de casos de uso. Junta de Andalucía._ https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416
 
+Oliveros, A. (2002). _Herramienta para implementar LEL y escenarios (TILS)_. http://sedici.unlp.edu.ar/handle/10915/4057
+
 Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMjMzNjMzLC0xNjkxNDE4ODQzLC0xND
-kyOTkyOTk5LDQ4NTQ2ODkxMiwtMTUyODQ4OTMzOCwyMDE0MDEz
-NTQzLDE2NjEwMDE2MTYsLTcyODg3MzU3OSwtMTU0NTQyNzQ4My
-w4Mzg0MzI5MTIsLTkzOTU1ODMwMCw3MTIxMDM1OTAsLTkzNTA0
-OTkwMCwtMTA2MjIxODEwNCwtMTQ1OTk2NjM0Miw2NDY5NTk2MT
-MsMzQ3Mjk4ODU5LDE2MzEyMzcxMDEsNzY3MDk5MzQzLC0yMTMy
-Nzg1OTU2XX0=
+eyJoaXN0b3J5IjpbMTA2NjkzMjM1OSwtMTA3MjM4NDYxNywtNj
+MyMTk4OCwxOTc3NTYyNTk2LC0xNTQwNTMxMzMsOTUxNjA5Mjkx
+LDYwMDIzMzYzMywtMTY5MTQxODg0MywtMTQ5Mjk5Mjk5OSw0OD
+U0Njg5MTIsLTE1Mjg0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAx
+NjE2LC03Mjg4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC
+05Mzk1NTgzMDAsNzEyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIy
+MTgxMDRdfQ==
 -->
