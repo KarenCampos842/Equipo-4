@@ -13,7 +13,9 @@ Podemos destacar tres habilidades en la parte técnica que son indispensables pa
 
 Análisis: Antes de cualquier cosa se deben cimentar las bases del proyecto y es aquí donde la capacidad de extraer información, comprenderla y traducirla en  información técnica, son indispensables para el desarrollo del proyecto, pues el analista se enfrentara a diversos perfiles de clientes con necesidades distintas, y a partir de la información que ellos proporcionen se debe de hacer una evaluación de los alcances y restricciones que se implican.
 
-Modelización: Adoptar un modelo de desarrollo no es una tarea fácil, pues esto implica tener un amplio conocimiento en gestión de proyectos ya habilidades distintas, para conseguir los mejores resultados es necesario que se adopten las técnicas y prácticas más adecuadas para el proyecto, pues de esta manera se garantizará la creación de un producto de calidad con un estructura adecuada, para ello es necesario aplicar técnicas como 
+Modelización: Adoptar un modelo de desarrollo no es una tarea fácil, pues esto implica tener un amplio conocimiento en gestión de proyectos ya habilidades distintas, para conseguir los mejores resultados es necesario que se adopten las técnicas y prácticas más adecuadas para el proyecto, pues de esta manera se garantizará la creación de un producto de calidad con un estructura adecuada, para ello es necesario aplicar técnicas como la estimación que requieren de habilidades matemáticas.
+
+
 
 ---
 
@@ -234,11 +236,11 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQ0NjE2NDYsMTk3NzU2MjU5NiwtMT
-U0MDUzMTMzLDk1MTYwOTI5MSw2MDAyMzM2MzMsLTE2OTE0MTg4
-NDMsLTE0OTI5OTI5OTksNDg1NDY4OTEyLC0xNTI4NDg5MzM4LD
-IwMTQwMTM1NDMsMTY2MTAwMTYxNiwtNzI4ODczNTc5LC0xNTQ1
-NDI3NDgzLDgzODQzMjkxMiwtOTM5NTU4MzAwLDcxMjEwMzU5MC
-wtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5OTY2MzQyLDY0
-Njk1OTYxM119
+eyJoaXN0b3J5IjpbLTYzMjE5ODgsMTk3NzU2MjU5NiwtMTU0MD
+UzMTMzLDk1MTYwOTI5MSw2MDAyMzM2MzMsLTE2OTE0MTg4NDMs
+LTE0OTI5OTI5OTksNDg1NDY4OTEyLC0xNTI4NDg5MzM4LDIwMT
+QwMTM1NDMsMTY2MTAwMTYxNiwtNzI4ODczNTc5LC0xNTQ1NDI3
+NDgzLDgzODQzMjkxMiwtOTM5NTU4MzAwLDcxMjEwMzU5MCwtOT
+M1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5OTY2MzQyLDY0Njk1
+OTYxM119
 -->
