@@ -17,7 +17,7 @@ Modelización: Adoptar un modelo de desarrollo no es una tarea fácil, pues esto
 
 Desarrollo de Software: Es evidente que para poder dimensionar los desafíos y oportunidad es en el proceso de ingeniería de software es necesario tener un amplio conocimiento en tecnologías de la información poder realizar estimaciones basadas en fórmulas matemáticas y el expertiz del propio ingeniero, harán posible tener un mejor control sobre las implicaciones que tiene el proceso de desarrollo del software.
 
-Además de lo antes mencionado, podemos ejemplificar en nuestro equipo de trabajo la primera habilidad que es el análisis, para definir los alcances y limitaciones de nuestro producto de software hemos hecho una amplia tarea de análisis basados en nuestra experiencia y la forma en la que traducir funciones prácticas de un software en especificaciones técnicas que luego usamos para la generación de requisitos, a pesar de no haber tenido una amplia formación esn este aspecto, haciendo enfásis en el usuario final pudimos e
+Además de lo antes mencionado, podemos ejemplificar en nuestro equipo de trabajo la primera habilidad que es el análisis, para definir los alcances y limitaciones de nuestro producto de software hemos hecho una amplia tarea de análisis basados en nuestra experiencia y la forma en la que traducir funciones prácticas de un software en especificaciones técnicas que luego usamos para la generación de requisitos, a pesar de no haber tenido una amplia formación en este aspecto, haciendo énfasis en el usuario final pudimos extraer esta información.
 
 ---
 
@@ -238,11 +238,11 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTA3NzMyNiwtNjMyMTk4OCwxOTc3NT
-YyNTk2LC0xNTQwNTMxMzMsOTUxNjA5MjkxLDYwMDIzMzYzMywt
-MTY5MTQxODg0MywtMTQ5Mjk5Mjk5OSw0ODU0Njg5MTIsLTE1Mj
-g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
-NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1NTgzMDAsNz
-EyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIyMTgxMDQsLTE0NTk5
-NjYzNDJdfQ==
+eyJoaXN0b3J5IjpbLTEwNzIzODQ2MTcsLTYzMjE5ODgsMTk3Nz
+U2MjU5NiwtMTU0MDUzMTMzLDk1MTYwOTI5MSw2MDAyMzM2MzMs
+LTE2OTE0MTg4NDMsLTE0OTI5OTI5OTksNDg1NDY4OTEyLC0xNT
+I4NDg5MzM4LDIwMTQwMTM1NDMsMTY2MTAwMTYxNiwtNzI4ODcz
+NTc5LC0xNTQ1NDI3NDgzLDgzODQzMjkxMiwtOTM5NTU4MzAwLD
+cxMjEwMzU5MCwtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5
+OTY2MzQyXX0=
 -->
