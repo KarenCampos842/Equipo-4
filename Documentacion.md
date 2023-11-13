@@ -222,7 +222,7 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 ---
 ## Referencias
 
- Arias Chaves, M.,  (2005). La ingeniería de requerimientos y su importancia en el desarrollo de proyectos de software. InterSedes: Revista de las Sedes Regionales, VI(10), 1-13.
+Chaves, M. A. (2005). _La ingeniería de requerimientos y su importancia en el desarrollo de proyectos de software_. Redalyc.org. https://www.redalyc.org/articulo.oa?id=66612870011
  
 Arrizabalaga, I. (5 de octubre de 2021). _Problemas de Agile por los que esta metodología sigue fallando (y sus soluciones)._ axiateam. https://www.axiateam.com/problemas-de-agile-por-los-que-esta-metodologia-sigue-fallando-y-sus-soluciones/
 
@@ -242,11 +242,11 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ1NjY2MjgsLTEwNzIzODQ2MTcsLT
-YzMjE5ODgsMTk3NzU2MjU5NiwtMTU0MDUzMTMzLDk1MTYwOTI5
-MSw2MDAyMzM2MzMsLTE2OTE0MTg4NDMsLTE0OTI5OTI5OTksND
-g1NDY4OTEyLC0xNTI4NDg5MzM4LDIwMTQwMTM1NDMsMTY2MTAw
-MTYxNiwtNzI4ODczNTc5LC0xNTQ1NDI3NDgzLDgzODQzMjkxMi
-wtOTM5NTU4MzAwLDcxMjEwMzU5MCwtOTM1MDQ5OTAwLC0xMDYy
-MjE4MTA0XX0=
+eyJoaXN0b3J5IjpbMTA2NjkzMjM1OSwtMTA3MjM4NDYxNywtNj
+MyMTk4OCwxOTc3NTYyNTk2LC0xNTQwNTMxMzMsOTUxNjA5Mjkx
+LDYwMDIzMzYzMywtMTY5MTQxODg0MywtMTQ5Mjk5Mjk5OSw0OD
+U0Njg5MTIsLTE1Mjg0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAx
+NjE2LC03Mjg4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC
+05Mzk1NTgzMDAsNzEyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIy
+MTgxMDRdfQ==
 -->
