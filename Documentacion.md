@@ -13,7 +13,7 @@ Podemos destacar tres habilidades en la parte técnica que son indispensables pa
 
 Análisis: Antes de cualquier cosa se deben cimentar las bases del proyecto y es aquí donde la capacidad de extraer información, comprenderla y traducirla en  información técnica, son indispensables para el desarrollo del proyecto, pues el analista se enfrentara a diversos perfiles de clientes con necesidades distintas, y a partir de la información que ellos proporcionen se debe de hacer una evaluación de los alcances y restricciones que se implican.
 
-Modelización: Adoptar un modelo d
+Modelización: Adoptar un modelo de desarrollo no es una tarea fácil, pues esto implica tener un amplio conocimiento en gestión de proyectos ya habilidades distintas, para conseguir los mejores resultados es necesario que se adopten las técnicas y prácticas más adecuadas para el poryecto, pues de esta manera se garantizará la cre
 
 ---
 
@@ -234,7 +234,7 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzI5Mzk3LDE5Nzc1NjI1OTYsLTE1ND
+eyJoaXN0b3J5IjpbOTc3OTYxNzI5LDE5Nzc1NjI1OTYsLTE1ND
 A1MzEzMyw5NTE2MDkyOTEsNjAwMjMzNjMzLC0xNjkxNDE4ODQz
 LC0xNDkyOTkyOTk5LDQ4NTQ2ODkxMiwtMTUyODQ4OTMzOCwyMD
 E0MDEzNTQzLDE2NjEwMDE2MTYsLTcyODg3MzU3OSwtMTU0NTQy
