@@ -13,7 +13,7 @@ Podemos destacar tres habilidades en la parte técnica que son indispensables pa
 
 Análisis: Antes de cualquier cosa se deben cimentar las bases del proyecto y es aquí donde la capacidad de extraer información, comprenderla y traducirla en  información técnica, son indispensables para el desarrollo del proyecto, pues el analista se enfrentara a diversos perfiles de clientes con necesidades distintas, y a partir de la información que ellos proporcionen se debe de hacer una evaluación de los alcances y restricciones que se implican.
 
-Modelización: Adoptar un modelo de desarrollo no es una tarea fácil, pues esto implica tener un amplio conocimiento en gestión de proyectos ya habilidades distintas, para conseguir los mejores resultados es necesario que se adopten las técnicas y prácticas más adecuadas para el poryecto, pues de esta manera se garantizará la cre
+Modelización: Adoptar un modelo de desarrollo no es una tarea fácil, pues esto implica tener un amplio conocimiento en gestión de proyectos ya habilidades distintas, para conseguir los mejores resultados es necesario que se adopten las técnicas y prácticas más adecuadas para el proyecto, pues de esta manera se garantizará la creación de un producto de calidad con un estructura adecuada, para ello es necesario aplicar técnicas como 
 
 ---
 
@@ -234,11 +234,11 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3OTYxNzI5LDE5Nzc1NjI1OTYsLTE1ND
-A1MzEzMyw5NTE2MDkyOTEsNjAwMjMzNjMzLC0xNjkxNDE4ODQz
-LC0xNDkyOTkyOTk5LDQ4NTQ2ODkxMiwtMTUyODQ4OTMzOCwyMD
-E0MDEzNTQzLDE2NjEwMDE2MTYsLTcyODg3MzU3OSwtMTU0NTQy
-NzQ4Myw4Mzg0MzI5MTIsLTkzOTU1ODMwMCw3MTIxMDM1OTAsLT
-kzNTA0OTkwMCwtMTA2MjIxODEwNCwtMTQ1OTk2NjM0Miw2NDY5
-NTk2MTNdfQ==
+eyJoaXN0b3J5IjpbLTE2NzQ0NjE2NDYsMTk3NzU2MjU5NiwtMT
+U0MDUzMTMzLDk1MTYwOTI5MSw2MDAyMzM2MzMsLTE2OTE0MTg4
+NDMsLTE0OTI5OTI5OTksNDg1NDY4OTEyLC0xNTI4NDg5MzM4LD
+IwMTQwMTM1NDMsMTY2MTAwMTYxNiwtNzI4ODczNTc5LC0xNTQ1
+NDI3NDgzLDgzODQzMjkxMiwtOTM5NTU4MzAwLDcxMjEwMzU5MC
+wtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5OTY2MzQyLDY0
+Njk1OTYxM119
 -->
