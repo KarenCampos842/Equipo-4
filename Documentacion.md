@@ -15,7 +15,9 @@ Análisis: Antes de cualquier cosa se deben cimentar las bases del proyecto y es
 
 Modelización: Adoptar un modelo de desarrollo no es una tarea fácil, pues esto implica tener un amplio conocimiento en gestión de proyectos ya habilidades distintas, para conseguir los mejores resultados es necesario que se adopten las técnicas y prácticas más adecuadas para el proyecto, pues de esta manera se garantizará la creación de un producto de calidad con un estructura adecuada, para ello es necesario aplicar técnicas como la estimación que requieren de habilidades matemáticas.
 
-Desarrollo de Software: Es evidente que para poder dimensionar los desafíos y oportunidad es en el proceso de ingeniería de software es necesario tener un amplio conociemiento en tecnologias de la información poder 
+Desarrollo de Software: Es evidente que para poder dimensionar los desafíos y oportunidad es en el proceso de ingeniería de software es necesario tener un amplio conocimiento en tecnologías de la información poder realizar estimaciones basadas en fórmulas matemáticas y el expertiz del propio ingeniero, harán posible tener un mejor control sobre las implicaciones que tiene el proceso de desarrollo del software.
+
+Además de lo antes mencionado, podemos ejemplificar en nuest
 
 ---
 
@@ -236,7 +238,7 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjUwNTM1NCwtNjMyMTk4OCwxOTc3NT
+eyJoaXN0b3J5IjpbLTYxNTY2ODc4MywtNjMyMTk4OCwxOTc3NT
 YyNTk2LC0xNTQwNTMxMzMsOTUxNjA5MjkxLDYwMDIzMzYzMywt
 MTY5MTQxODg0MywtMTQ5Mjk5Mjk5OSw0ODU0Njg5MTIsLTE1Mj
 g0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1
