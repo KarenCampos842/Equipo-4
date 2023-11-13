@@ -222,6 +222,8 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 ---
 ## Referencias
 
+ Arias Chaves, M.,  (2005). La ingeniería de requerimientos y su importancia en el desarrollo de proyectos de software. InterSedes: Revista de las Sedes Regionales, VI(10), 1-13.
+ 
 Arrizabalaga, I. (5 de octubre de 2021). _Problemas de Agile por los que esta metodología sigue fallando (y sus soluciones)._ axiateam. https://www.axiateam.com/problemas-de-agile-por-los-que-esta-metodologia-sigue-fallando-y-sus-soluciones/
 
 Arthur Mauricio. (s.f). Casos de uso y Historias de usuario. _Ouracademy._ https://our-academy.org/posts/casos-de-uso-y-historias-de-usuario.
@@ -240,7 +242,7 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTUyNTU4OTUsLTEwNzIzODQ2MTcsLT
+eyJoaXN0b3J5IjpbLTE5MzQ1NjY2MjgsLTEwNzIzODQ2MTcsLT
 YzMjE5ODgsMTk3NzU2MjU5NiwtMTU0MDUzMTMzLDk1MTYwOTI5
 MSw2MDAyMzM2MzMsLTE2OTE0MTg4NDMsLTE0OTI5OTI5OTksND
 g1NDY4OTEyLC0xNTI4NDg5MzM4LDIwMTQwMTM1NDMsMTY2MTAw
