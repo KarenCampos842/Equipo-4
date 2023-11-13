@@ -234,15 +234,17 @@ Laoyan, S. (26 de septiembre de 2022). _Cómo organizar tu stand up meeting o da
 
 Marco de Desarrollo de la Junta de Andalucía. (s. f). _Guía para la redacción de casos de uso. Junta de Andalucía._ https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416
 
+Oliveros, A. (2002). _Herramienta para implementar LEL y escenarios (TILS)_. http://sedici.unlp.edu.ar/handle/10915/4057
+
 Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzIzODQ2MTcsLTYzMjE5ODgsMTk3Nz
-U2MjU5NiwtMTU0MDUzMTMzLDk1MTYwOTI5MSw2MDAyMzM2MzMs
-LTE2OTE0MTg4NDMsLTE0OTI5OTI5OTksNDg1NDY4OTEyLC0xNT
-I4NDg5MzM4LDIwMTQwMTM1NDMsMTY2MTAwMTYxNiwtNzI4ODcz
-NTc5LC0xNTQ1NDI3NDgzLDgzODQzMjkxMiwtOTM5NTU4MzAwLD
-cxMjEwMzU5MCwtOTM1MDQ5OTAwLC0xMDYyMjE4MTA0LC0xNDU5
-OTY2MzQyXX0=
+eyJoaXN0b3J5IjpbLTE0NTUyNTU4OTUsLTEwNzIzODQ2MTcsLT
+YzMjE5ODgsMTk3NzU2MjU5NiwtMTU0MDUzMTMzLDk1MTYwOTI5
+MSw2MDAyMzM2MzMsLTE2OTE0MTg4NDMsLTE0OTI5OTI5OTksND
+g1NDY4OTEyLC0xNTI4NDg5MzM4LDIwMTQwMTM1NDMsMTY2MTAw
+MTYxNiwtNzI4ODczNTc5LC0xNTQ1NDI3NDgzLDgzODQzMjkxMi
+wtOTM5NTU4MzAwLDcxMjEwMzU5MCwtOTM1MDQ5OTAwLC0xMDYy
+MjE4MTA0XX0=
 -->
