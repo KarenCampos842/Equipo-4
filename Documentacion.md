@@ -9,7 +9,7 @@
 Los requisitos son una parte muy importante en el proceso de desarrollo de software porque son la base de los acuerdos entre los involucrados.
 
 En un proyecto de desarrollo de software, la parte de la obtención de requisitos se ha convertido en toda una disciplina  que recibe el nombre de ingeniería de requerimientos, pues desempeñarse en ella implica de un amplio conocimiento y habilidades técnicas y sociales, pues gran parte de este proceso implica la interacción con muchas partes con conocimientos distintos en el área de las tecnologías de la información. Lo que demanda una capacidad para poder interpretar de la mejor manera la información.
-Podemos destacar tres habilidades en la parte técnica que son indispensables para esta disciplina, las cuales son las 
+Podemos destacar tres habilidades en la parte técnica que son indispensables para esta disciplina, las cuales son la comprensión, la 
 
 ---
 
@@ -230,11 +230,11 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA1MzEzMyw5NTE2MDkyOTEsNjAwMj
-MzNjMzLC0xNjkxNDE4ODQzLC0xNDkyOTkyOTk5LDQ4NTQ2ODkx
-MiwtMTUyODQ4OTMzOCwyMDE0MDEzNTQzLDE2NjEwMDE2MTYsLT
-cyODg3MzU3OSwtMTU0NTQyNzQ4Myw4Mzg0MzI5MTIsLTkzOTU1
-ODMwMCw3MTIxMDM1OTAsLTkzNTA0OTkwMCwtMTA2MjIxODEwNC
-wtMTQ1OTk2NjM0Miw2NDY5NTk2MTMsMzQ3Mjk4ODU5LDE2MzEy
-MzcxMDFdfQ==
+eyJoaXN0b3J5IjpbMTk3NzU2MjU5NiwtMTU0MDUzMTMzLDk1MT
+YwOTI5MSw2MDAyMzM2MzMsLTE2OTE0MTg4NDMsLTE0OTI5OTI5
+OTksNDg1NDY4OTEyLC0xNTI4NDg5MzM4LDIwMTQwMTM1NDMsMT
+Y2MTAwMTYxNiwtNzI4ODczNTc5LC0xNTQ1NDI3NDgzLDgzODQz
+MjkxMiwtOTM5NTU4MzAwLDcxMjEwMzU5MCwtOTM1MDQ5OTAwLC
+0xMDYyMjE4MTA0LC0xNDU5OTY2MzQyLDY0Njk1OTYxMywzNDcy
+OTg4NTldfQ==
 -->
