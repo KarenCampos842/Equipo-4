@@ -141,6 +141,22 @@ Ejemplo de historia de usuario:
 
 ### Información
 
+Las pruebas son una de las partes más importantes nos ayudan a reorganizarnos, reconocer errores y reducir los gastos. 
+
+El inicio de las pruebas depende mucho del proyecto y la metodología usada. En las metodologías tradicionales las pruebas se hacen después de la etapa de desarrollo. 
+
+Una buena forma de agregar pruebas es con un plan de pruebas el cual permite identificar las pruebas necesarias. 
+
+No existe una forma específica de hacer un plan de pruebas, pero si varias plantillas y las partes más importantes son: 
+
+-Objetivo, en esta parte se detalla la finalidad del documento dentro del proyecto 
+
+-descripción del proyecto 
+
+-Referencias, se refiere a los elementos que se van a poner a prueba y también los que no se pondrán a prueba incluyendo las razones de su exclusión. 
+
+-estrategias, aquí s 
+
 ---
 > **Tema:** *Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias mínimas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras*
 
