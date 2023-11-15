@@ -31,6 +31,8 @@
    </tr> 
  </table>
 
+<br><br><br>
+
 <table align=center>  
    <tr>  
       <th>Nombre</th>  
@@ -55,7 +57,9 @@ Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de 
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
-       <td>3/25=12%</td>
+       <td>Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas? Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.<br><br>
+Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras
+</td>
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
@@ -71,7 +75,7 @@ Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de 
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzg2MjQ0NzYsODQ1MjM1NDk2LDY2OT
-YxNjg1OCwtMTEwOTYyNDIxNyw2Njk2MTY4NTgsLTY0ODg2MjM3
-LDExMDgzMzQ3NTEsMTkwNzYxMTg0NSwtNzEzOTMzOTMzXX0=
+eyJoaXN0b3J5IjpbMzA2MzU2NjgyLDg0NTIzNTQ5Niw2Njk2MT
+Y4NTgsLTExMDk2MjQyMTcsNjY5NjE2ODU4LC02NDg4NjIzNywx
+MTA4MzM0NzUxLDE5MDc2MTE4NDUsLTcxMzkzMzkzM119
 -->
