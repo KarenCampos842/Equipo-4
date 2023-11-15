@@ -263,7 +263,7 @@ Verificar el trabajo realizado hasta el momento, analizar si independientemente 
 
 Cuando algo inesperado sucede, la metodología ágil valora la adaptación por sobre el seguimiento de un plan. Desafortunadamente, esto puede causar que el equipo de desarrollo se desvíe demasiado del plan y las fechas se extiendan (es una posibilidad, no una certeza). 
 En nuestro caso, sucedió algo similar con la última entrega.
-Surgió algo inesperado y uno de nuestros compañeros no pudo realizar todas sus actividades. Nos intentamos adaptar a la situación y reasignamos actividades. Lamentablemente, os desviamos mucho del plan y las fechas se extendieron, por lo que no terminamos todo a tiempo. 
+Surgió algo inesperado y uno de nuestros compañeros no pudo realizar todas sus actividades. Nos intentamos adaptar a la situación y reasignamos actividades. Lamentablemente, nos desviamos mucho del plan y las fechas se extendieron, por lo que no terminamos todo a tiempo. 
 
 **Solución:** 
 Para el siguiente sprint programar las actividades de tal forma que se tengan algunos días de margen en caso de algún evento que retrase el trabajo. 
@@ -296,11 +296,11 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzQwMzc3OCwtMTA4NzQ1MDQxNCwxMD
-Y2OTMyMzU5LC0xMDcyMzg0NjE3LC02MzIxOTg4LDE5Nzc1NjI1
-OTYsLTE1NDA1MzEzMyw5NTE2MDkyOTEsNjAwMjMzNjMzLC0xNj
-kxNDE4ODQzLC0xNDkyOTkyOTk5LDQ4NTQ2ODkxMiwtMTUyODQ4
-OTMzOCwyMDE0MDEzNTQzLDE2NjEwMDE2MTYsLTcyODg3MzU3OS
-wtMTU0NTQyNzQ4Myw4Mzg0MzI5MTIsLTkzOTU1ODMwMCw3MTIx
-MDM1OTBdfQ==
+eyJoaXN0b3J5IjpbNTY3Mjg3MDc0LC02Mzc0MDM3NzgsLTEwOD
+c0NTA0MTQsMTA2NjkzMjM1OSwtMTA3MjM4NDYxNywtNjMyMTk4
+OCwxOTc3NTYyNTk2LC0xNTQwNTMxMzMsOTUxNjA5MjkxLDYwMD
+IzMzYzMywtMTY5MTQxODg0MywtMTQ5Mjk5Mjk5OSw0ODU0Njg5
+MTIsLTE1Mjg0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC
+03Mjg4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1
+NTgzMDBdfQ==
 -->
