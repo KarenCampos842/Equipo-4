@@ -230,6 +230,34 @@ aunque debido a la falta de documentacion es dificil saber que tan efectivo es y
 
 ### Información
 
+Existen 2 tipos de habilidades esenciales: 
+
+Las “soft skills” que en realidad son subjetivas por que no existe una clasificación para ellas, pero más que nada se refieren a las habilidades de sociales y de comunicación. 
+
+soft skills importantes: 
+
+- Trabajo en equipo 
+
+- Adaptabilidad al cambio 
+
+- pensamiento critico  
+
+- resolución de problemas 
+
+Las “hard skills” se refieren a habilidades técnicas basadas en la formación académica y experiencia profesional. 
+
+ Algunas de las hard skills más importantes para un ingeniero en software  
+
+- gestión de proyectos: garantiza que los proyectos se entreguen a tiempo. 
+
+- conocimiento de arquitectura de software: habilidad de diseñar sistemas escalables y eficientes. 
+
+- Análisis de datos: para mejorar procesos y la toma de decisiones. 
+
+- conocimiento de lenguajes de programación 
+
+También es necesario contar con conocimientos sobre el desarrollo de software seguro como conocer el marco de desarrollo seguro de software (SSDF) o como “The Software Component Verificacion Standard” (SCVS). 
+
 ---
 
 ## Unidad 3
