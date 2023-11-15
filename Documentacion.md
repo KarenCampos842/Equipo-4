@@ -130,6 +130,61 @@ Ejemplo de historia de usuario:
 <br>
 Ejemplo de caso de uso
 
+<br>
+
+<table  align=center>
+<tr>
+<th>CU-06</th>
+<th  colspan="2">Búsqueda y filtro </th></tr>
+<tr>
+<td><b>Versión</b></td>
+<td  colspan="2">1.0 (29/10/2023)</td>
+</tr>
+<tr>
+<td><b>Precondición</b></td>
+<td  colspan="2">El cliente se ha registrado como cliente. </td>
+</tr>
+<tr>
+<td><b>Descripción</b></td>
+<td  colspan="2">El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio y filtrará las opciones con criterios de calificación y ubicació</td>
+</tr>
+<tr>
+<td  rowspan="5"><b>Secuencia normal</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td>1</td>
+<td>El cliente ingresa el nombre de un oficio </td>
+</tr>
+<tr>
+<td>2</td>
+<td>El sistema despliega una lista de oficios </td>
+</tr>
+<tr>
+<td>3</td>
+<td>El cliente selecciona el trabajo que desea contratar</td>
+</tr>
+<tr>
+<td>4</td>
+<td>El sistema organiza los resultados de búsqueda y crea una <br> lista de trabajadores con algunos de sus datos</td>
+</tr>
+<tr>
+<td><b>Postcondición</b></td>
+<td  colspan="2">El usuario es libre de seleccionar con quien quiere trabajar </td>
+</tr>
+<tr>
+<td  rowspan="3"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>Si el oficio buscado no está dado de alta  en la base de datos, el sistema notifica al usuario que no encuentra el oficio buscado.</td>
+</tr>
+</table>
+
+<br>
     
 ---
 
@@ -244,7 +299,7 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkzMTgwMDAsMTA2NjkzMjM1OSwtMT
+eyJoaXN0b3J5IjpbLTEwODc0NTA0MTQsMTA2NjkzMjM1OSwtMT
 A3MjM4NDYxNywtNjMyMTk4OCwxOTc3NTYyNTk2LC0xNTQwNTMx
 MzMsOTUxNjA5MjkxLDYwMDIzMzYzMywtMTY5MTQxODg0MywtMT
 Q5Mjk5Mjk5OSw0ODU0Njg5MTIsLTE1Mjg0ODkzMzgsMjAxNDAx
