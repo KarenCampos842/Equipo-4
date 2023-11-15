@@ -97,36 +97,33 @@ Ejemplo de historia de usuario:
 
 <table align=center>  
    <tr>  
-      <th>Historia de usuario #2</th>  
-      <th>Registro de cliente</th> 
+      <th>Historia de usuario #3</th>  
+      <th>Autenticación</th> 
    </tr> 
     <tr>  
       <td><b>Como</b></td>  
-       <td>Usuario</td> 
+       <td> usuario de WorkFlash</td> 
    </tr> 
     <tr>  
       <td><b>Quiero</b></td>  
-       <td> Poder registrarme en WorkFlash como cliente</td> 
+       <td> poder autenticarme en la aplicación</td> 
    </tr> 
      <tr>  
       <td><b>Para</b></td>  
-       <td> Encontrar trabajadores de forma rápida.</td> 
+       <td> acceder a los beneficios de WorkFlash.</td> 
    </tr> 
   <tr>  
       <td><b>Criterios de aceptación</b></td>  
        <td> 
            <ul>
-           <li>Comprobar que se ha seleccionado el perfil "cliente".</li>
-           <li>Comprobar que existen mínimo un nombre y un apellido.</li>
-                 <li>Comprobar que existe texto antes y después de @ para el correo.</li>
-                  <li>Comprobar que existe un elemento (imagen o PDF) como identificación oficial con fotografía.</li>
-                  <li>Comprobar que existe un elemento (imagen) en el apartado de fotografía actual.</li>
-                <li>Comprobar la aceptación de términos y condiciones.</li>
-           <li>Comprobar el envío de contraseña al correo proporcionado.</li>
+                <li>Comprobar que el correo y contraseña introducidos existan en la base de datos.</li>
+                  <li>Comprobar que la contraseña corresponda al correo introducido.</li>
+                <li>Comprobar que el usuario ha aceptado compartir su ubicación con WorkFlash.</li>
            </ul>
      </td> 
    </tr>
  </table>      
+ 
 <br>
 Ejemplo de caso de uso
 
@@ -299,11 +296,11 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODc0NTA0MTQsMTA2NjkzMjM1OSwtMT
-A3MjM4NDYxNywtNjMyMTk4OCwxOTc3NTYyNTk2LC0xNTQwNTMx
-MzMsOTUxNjA5MjkxLDYwMDIzMzYzMywtMTY5MTQxODg0MywtMT
-Q5Mjk5Mjk5OSw0ODU0Njg5MTIsLTE1Mjg0ODkzMzgsMjAxNDAx
-MzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1NzksLTE1NDU0Mjc0OD
-MsODM4NDMyOTEyLC05Mzk1NTgzMDAsNzEyMTAzNTkwLC05MzUw
-NDk5MDBdfQ==
+eyJoaXN0b3J5IjpbLTYzNzQwMzc3OCwtMTA4NzQ1MDQxNCwxMD
+Y2OTMyMzU5LC0xMDcyMzg0NjE3LC02MzIxOTg4LDE5Nzc1NjI1
+OTYsLTE1NDA1MzEzMyw5NTE2MDkyOTEsNjAwMjMzNjMzLC0xNj
+kxNDE4ODQzLC0xNDkyOTkyOTk5LDQ4NTQ2ODkxMiwtMTUyODQ4
+OTMzOCwyMDE0MDEzNTQzLDE2NjEwMDE2MTYsLTcyODg3MzU3OS
+wtMTU0NTQyNzQ4Myw4Mzg0MzI5MTIsLTkzOTU1ODMwMCw3MTIx
+MDM1OTBdfQ==
 -->
