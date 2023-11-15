@@ -140,132 +140,36 @@ Ejemplo de historia de usuario:
 > **Tema:** *Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
 
 ### Información
-Las pruebas son una de las partes más importantes nos ayudan a reorganizarnos, reconocer errores y reducir los gastos. 
 
 El inicio de las pruebas depende mucho del proyecto y la metodología usada. En las metodologías tradicionales las pruebas se hacen después de la etapa de desarrollo. 
+existen 2 tipos de pruevas las dinamicas y las estaticas.
+las pruebas dinamicas son las que se hacen mientras el codigo esta en ejecucion esta se realiza en una etapa mas avanzada del ciclo de vida  y las estaticas se centran en la prevencion de errores sometiendo a revicion la documentacion y los artefactos.
+Las técnicas estáticas son técnicas que nos ayudan a la prevención de errores desde una etapa temprana del ciclo de vida por medio de las revisiones, reduciendo el tiempo y el coste del proyecto 
 
-Una buena forma de agregar pruebas es con un plan de pruebas el cual permite identificar las pruebas necesarias. 
+Existen varios tipos de revisiones entre ellas: 
+La inspeccion o revisión técnica formal (RTF), esta es una actividad de control de calidad 	basada en examinar documentos de forma visual para detectar defectos. 
 
-Un plan de pruebas se basa en 4 puntos 
+-El primer paso es seleccionar a los participantes, distribuir los roles, agendar la reunión o las reuniones y repartir los documentos a revisar. 
 
-- Planificación de pruebas 
+	Roles: 
 
-- Diseño de pruebas 
+		  - Revisor: el encargado de detectar las anomalías. 
 
-- Construcción y ejecución de pruebas 
+	  	- Escriba: registra por escrito los acontecimientos más importantes de la revisión e incorporar todos los defectos en una lista. 
 
-- Evaluación de pruebas 
+  		- Moderador: este es el responsable de la revisión y se encarga de mediar entre los diferentes puntos de vista. 
 
-No existe una forma específica de hacer un plan de pruebas, pero si varias plantillas y las partes más importantes son: 
+	  	- Autor: la persona responsable de crear el material revisado. 
 
-- Control, aquí se incluyen las fechas de las revisiones anteriores y la versión  
+- El siguiente paso es la lectura del material se realiza de manera individual, cada integrante del equipo analiza el material para comprenderlo y encontrar y anotar posibles defectos. 
 
-- Objetivo, en esta parte se detalla la finalidad del documento dentro del proyecto 
+- Lo siguiente es la reunión, donde el autor hace una introducción del material para después recorrer el material y que cada revisor comente sus observaciones.                                                   Al final de la reunión se deberá decidir si se acepta el material sin modificar o se rechaza y se manda a corrección, cuando se llegue a un acuerdo se firma el registro del escriba para 	indicar la 
+  participación del miembro y confirmar el acuerdo. 
 
-- descripción del proyecto 
+- El registro del escriba se agrega como parte del registro histórico del proyecto y también se agrega un reporte sobre las conclusiones de la reunión.
 
-- estrategias, se definen los tipos de prueba a realizar, requerimientos especiales de las pruebas, el orden en que se probaran y los encargados de hacer las pruebas una forma de hacer esto es con una tabla como esta:
-  <table>
-   
-   <tr>
-       <th> Componentes a probar</th>
-       <th>Componentes a probar </th>
-   </tr>
-   
-    <tr>
-       <th> Objetivos de las pruebas     </th>
-       <th>Que se busca al hacer las pruebas <br>
-           *Ejecución correcta <br>
-           *usabilidad  </th>
-   </tr>
-   
-  <tr>
-       <th> Orden de pruebas  </th>
-       <th>Aquí se establece la prioridad de las pruebas </th>
-   </tr>
-   
-  <tr>
-       <th> Responsables   </th>
-       <th> Personas encargadas de las pruebas  </th>
-   </tr>
-   
-  </table>
-- Entorno de las pruebas, se describe las características del dispositivo en que se ejecutaran las pruebas y otros componentes nesesarios para su funcionamiento como la base de datos 
-
-- casos de pruebas, estos son escenarios para medir la funcionalidad del sistema.
-  
-  <table>
-   
-   <tr>
-       <th> Id de la prueba </th>
-       <th>102 </th>
-   </tr>
-   
-    <tr>
-       <th> Nombre  </th>
-       <th>Se ingresa el nombre  </th>
-   </tr>
-   
-  <tr>
-       <th> Descripción   </th>
-       <th>Se describe lo que se va a probar  </th>
-   </tr>
-   
-  <tr>
-       <th> Pasos  </th>
-       <th>La forma de llegar al resultado </th>
-   </tr>
-     <tr>
-       <th> Resultados esperados  </th>
-       <th>Lo que debería hacer el programa luego de la conclusión de los pasos  </th>
-   </tr>
-   
-  </table>
-  
- - cronograma, se establecen las fechas de la creación y ejecución de las pruebas.
-    
- - criterios de aprobación y rechazo, se crea una tabla con los niveles de errores y se definen las condiciones para aprobar el proyecto.
-
-<table>
-
-<tr>
- <th>Error grabe</th>
-  <th>Caída de programa, incumplimiento en los requisitos principales...etc. </th>
-</tr>
-
-<tr>
- <th>Error medio</th>
-  <th>Incumplimiento en requisitos secundarios </th>
-</tr>
-
-<tr>
- <th>Error bajo</th>
-  <th> defectos de la presentacion</th>
-</tr>
- 
-</table>
-
-- pruebas de sistema, cuando se realizan las pruebas se lleva un seguimiento y se anotan los resultados 
-
-- análisis de los resultados, se analizan los resultados con una tabla 
-
-<table>
-
-<tr>
- <th>Tipo de prueba</th>
-  <th>Caso de prueba</th>
-  <th>resultado</th>
-  <th>Criterio de finalización </th>
-</tr>
-
-<tr>
- <th>integración </th>
-  <th>102</th>
-  <th>esperado </th>
-  <th>aprobado</th>
-</tr>
- 
-</table>
+Esta no es la unica forma de hacer reviciones pero si la mas formal y recomendada en el caso de nuestro equipo usamos otra tecnica de revicion llamada revicion informal en la cual no se documenta el proceso y es  usada en las metodologias agiles, esta se basa en someter a revicion el matarial en una reunion con el autor y los demas integrantes del equipo para encontrar errores y coregirlos de forma rapida.
+aunque debido a la falta de documentacion es dificil saber que tan efectivo es y es mas recomendable hacer reviciones formales.
 
 ---
 > **Tema:** *Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias mínimas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras*
@@ -376,3 +280,6 @@ NjE2LC03Mjg4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC
 05Mzk1NTgzMDAsNzEyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIy
 MTgxMDRdfQ==
 -->
+Jose Manuel Sanchez Peño.(2015)._Pruebas de sofware. Fundamentos y técnicas. https://oa.upm.es/40012/1/PFC_JOSE_MANUEL_SANCHEZ_PENO_3.pdf
+
+Andres Felipe Cano.(2013)_Tecnicas estaticas.<br> https://es.slideshare.net/juanestebanpuertacano/tcnicas-estticas
