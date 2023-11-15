@@ -127,8 +127,10 @@ Ejemplo de historia de usuario:
      </td> 
    </tr>
  </table>      
+<br>
+Ejemplo de caso de uso
 
-
+    
 ---
 
 > **Tema:** *Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
@@ -242,11 +244,11 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjkzMjM1OSwtMTA3MjM4NDYxNywtNj
-MyMTk4OCwxOTc3NTYyNTk2LC0xNTQwNTMxMzMsOTUxNjA5Mjkx
-LDYwMDIzMzYzMywtMTY5MTQxODg0MywtMTQ5Mjk5Mjk5OSw0OD
-U0Njg5MTIsLTE1Mjg0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAx
-NjE2LC03Mjg4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC
-05Mzk1NTgzMDAsNzEyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIy
-MTgxMDRdfQ==
+eyJoaXN0b3J5IjpbLTE5MjkzMTgwMDAsMTA2NjkzMjM1OSwtMT
+A3MjM4NDYxNywtNjMyMTk4OCwxOTc3NTYyNTk2LC0xNTQwNTMx
+MzMsOTUxNjA5MjkxLDYwMDIzMzYzMywtMTY5MTQxODg0MywtMT
+Q5Mjk5Mjk5OSw0ODU0Njg5MTIsLTE1Mjg0ODkzMzgsMjAxNDAx
+MzU0MywxNjYxMDAxNjE2LC03Mjg4NzM1NzksLTE1NDU0Mjc0OD
+MsODM4NDMyOTEyLC05Mzk1NTgzMDAsNzEyMTAzNTkwLC05MzUw
+NDk5MDBdfQ==
 -->
