@@ -38,7 +38,10 @@
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
-       <td> 6/25= 24%</td>    
+       <td> Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.<br>
+       
+
+</td>    
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
@@ -63,7 +66,7 @@
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzc1Njc5MjYsODQ1MjM1NDk2LDY2OT
-YxNjg1OCwtMTEwOTYyNDIxNyw2Njk2MTY4NTgsLTY0ODg2MjM3
-LDExMDgzMzQ3NTEsMTkwNzYxMTg0NSwtNzEzOTMzOTMzXX0=
+eyJoaXN0b3J5IjpbLTQ3MTI3MDYyNiw4NDUyMzU0OTYsNjY5Nj
+E2ODU4LC0xMTA5NjI0MjE3LDY2OTYxNjg1OCwtNjQ4ODYyMzcs
+MTEwODMzNDc1MSwxOTA3NjExODQ1LC03MTM5MzM5MzNdfQ==
 -->
