@@ -195,6 +195,36 @@ Ejemplo de caso de uso
 
 ### Información
 
+El inicio de las pruebas depende mucho del proyecto y la metodología usada. En las metodologías tradicionales las pruebas se hacen después de la etapa de desarrollo. 
+existen 2 tipos de pruevas las dinamicas y las estaticas.
+las pruebas dinamicas son las que se hacen mientras el codigo esta en ejecucion esta se realiza en una etapa mas avanzada del ciclo de vida  y las estaticas se centran en la prevencion de errores sometiendo a revicion la documentacion y los artefactos.
+Las técnicas estáticas son técnicas que nos ayudan a la prevención de errores desde una etapa temprana del ciclo de vida por medio de las revisiones, reduciendo el tiempo y el coste del proyecto 
+
+Existen varios tipos de revisiones entre ellas: 
+La inspeccion o revisión técnica formal (RTF), esta es una actividad de control de calidad 	basada en examinar documentos de forma visual para detectar defectos. 
+
+- El primer paso es seleccionar a los participantes, distribuir los roles, agendar la reunión o las reuniones y repartir los documentos a revisar. 
+
+	Roles: 
+
+	- Revisor: el encargado de detectar las anomalías. 
+
+	- Escriba: registra por escrito los acontecimientos más importantes de la revisión e incorporar todos los defectos en una lista. 
+
+	- Moderador: este es el responsable de la revisión y se encarga de mediar entre los diferentes puntos de vista. 
+
+	- Autor: la persona responsable de crear el material revisado. 
+
+- El siguiente paso es la lectura del material se realiza de manera individual, cada integrante del equipo analiza el material para comprenderlo y encontrar y anotar posibles defectos. 
+
+- Lo siguiente es la reunión, donde el autor hace una introducción del material para después recorrer el material y que cada revisor comente sus observaciones.                                                   Al final de la reunión se deberá decidir si se acepta el material sin modificar o se rechaza y se manda a corrección, cuando se llegue a un acuerdo se firma el registro del escriba para 	indicar la 
+  participación del miembro y confirmar el acuerdo. 
+
+- El registro del escriba se agrega como parte del registro histórico del proyecto y también se agrega un reporte sobre las conclusiones de la reunión.
+
+Esta no es la unica forma de hacer reviciones pero si la mas formal y recomendada en el caso de nuestro equipo usamos otra tecnica de revicion llamada revicion informal en la cual no se documenta el proceso y es  usada en las metodologias agiles, esta se basa en someter a revicion el matarial en una reunion con el autor y los demas integrantes del equipo para encontrar errores y coregirlos de forma rapida.
+aunque debido a la falta de documentacion es dificil saber que tan efectivo es y es mas recomendable hacer reviciones formales.
+
 ---
 > **Tema:** *Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias mínimas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras*
 
@@ -276,11 +306,13 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 ---
 ## Referencias
 
-Chaves, M. A. (2005). _La ingeniería de requerimientos y su importancia en el desarrollo de proyectos de software_. Redalyc.org. https://www.redalyc.org/articulo.oa?id=66612870011
- 
 Arrizabalaga, I. (5 de octubre de 2021). _Problemas de Agile por los que esta metodología sigue fallando (y sus soluciones)._ axiateam. https://www.axiateam.com/problemas-de-agile-por-los-que-esta-metodologia-sigue-fallando-y-sus-soluciones/
 
 Arthur Mauricio. (s.f). Casos de uso y Historias de usuario. _Ouracademy._ https://our-academy.org/posts/casos-de-uso-y-historias-de-usuario.
+
+Cano, A., F.(2013)_Tecnicas estaticas.https://es.slideshare.net/juanestebanpuertacano/tcnicas-estticas
+
+Chaves, M. A. (2005). _La ingeniería de requerimientos y su importancia en el desarrollo de proyectos de software_. Redalyc.org. https://www.redalyc.org/articulo.oa?id=66612870011
 
 EBF. (11 de septiembre de 2019). _Ventajas y desventajas de las metodologías Agile (ágiles)._ EBF. https://ebf.com.es/blog/ventajas-y-desventajas-de-las-metodologias-agiles-y-su-aplicacion-en-el-tra
 
@@ -292,15 +324,9 @@ Marco de Desarrollo de la Junta de Andalucía. (s. f). _Guía para la redacción
 
 Oliveros, A. (2002). _Herramienta para implementar LEL y escenarios (TILS)_. http://sedici.unlp.edu.ar/handle/10915/4057
 
+Sanchez J., M.(2015)._Pruebas de sofware. Fundamentos y técnicas. https://oa.upm.es/40012/1/PFC_JOSE_MANUEL_SANCHEZ_PENO_3.pdf
+
 Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3Mjg3MDc0LC02Mzc0MDM3NzgsLTEwOD
-c0NTA0MTQsMTA2NjkzMjM1OSwtMTA3MjM4NDYxNywtNjMyMTk4
-OCwxOTc3NTYyNTk2LC0xNTQwNTMxMzMsOTUxNjA5MjkxLDYwMD
-IzMzYzMywtMTY5MTQxODg0MywtMTQ5Mjk5Mjk5OSw0ODU0Njg5
-MTIsLTE1Mjg0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAxNjE2LC
-03Mjg4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC05Mzk1
-NTgzMDBdfQ==
--->
+
