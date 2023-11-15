@@ -7,11 +7,11 @@
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
-       <td> 2/7= 24%</td>    
+       <td> 2/7= 28.57%</td>    
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
-       <td>1/7=28.57%</td>
+       <td>1/7=14.29%</td>
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
@@ -19,15 +19,15 @@
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
-       <td>2/7=12%</td>
+       <td>2/7=28.57%</td>
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
-        <td>0.5/7=12%</td>
+        <td>0.5/7=7.14%</td>
    </tr> 
     <tr>  
       <td>Suárez Balam Brandon Emmanuel</td> 
-      <td>1/7=16%</td>
+      <td>1/7=14.29%</td>
    </tr> 
  </table>
 
@@ -75,7 +75,7 @@ Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de 
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDk2NTU4LDg0NTIzNTQ5Niw2Njk2MT
-Y4NTgsLTExMDk2MjQyMTcsNjY5NjE2ODU4LC02NDg4NjIzNywx
-MTA4MzM0NzUxLDE5MDc2MTE4NDUsLTcxMzkzMzkzM119
+eyJoaXN0b3J5IjpbMTA0Njk2MTQzMyw4NDUyMzU0OTYsNjY5Nj
+E2ODU4LC0xMTA5NjI0MjE3LDY2OTYxNjg1OCwtNjQ4ODYyMzcs
+MTEwODMzNDc1MSwxOTA3NjExODQ1LC03MTM5MzM5MzNdfQ==
 -->
