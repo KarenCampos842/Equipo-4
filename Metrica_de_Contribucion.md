@@ -59,16 +59,19 @@ Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de 
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
-        <td>3/25=12%</td>
+        <td>De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil
+</td>
    </tr> 
     <tr>  
       <td>Suárez Balam Brandon Emmanuel</td> 
-      <td>4/25=16%</td>
+       <td>Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos. Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.<br><br>
+Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando
+</td>
    </tr> 
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk0NzIwNTMsODQ1MjM1NDk2LDY2OT
+eyJoaXN0b3J5IjpbLTEwMzg2MjQ0NzYsODQ1MjM1NDk2LDY2OT
 YxNjg1OCwtMTEwOTYyNDIxNyw2Njk2MTY4NTgsLTY0ODg2MjM3
 LDExMDgzMzQ3NTEsMTkwNzYxMTg0NSwtNzEzOTMzOTMzXX0=
 -->
