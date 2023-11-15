@@ -44,11 +44,14 @@
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
-       <td>4/25=16%</td>
+       <td>Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos. Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.<br><br>
+Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando
+</td>
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
-      <td>5/25=20%</td>
+      <td>De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil
+</td>
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
@@ -65,7 +68,7 @@
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5ODA4Njg3LDg0NTIzNTQ5Niw2Njk2MT
-Y4NTgsLTExMDk2MjQyMTcsNjY5NjE2ODU4LC02NDg4NjIzNywx
-MTA4MzM0NzUxLDE5MDc2MTE4NDUsLTcxMzkzMzkzM119
+eyJoaXN0b3J5IjpbLTE3Mzk0NzIwNTMsODQ1MjM1NDk2LDY2OT
+YxNjg1OCwtMTEwOTYyNDIxNyw2Njk2MTY4NTgsLTY0ODg2MjM3
+LDExMDgzMzQ3NTEsMTkwNzYxMTg0NSwtNzEzOTMzOTMzXX0=
 -->
