@@ -149,17 +149,17 @@ Las técnicas estáticas son técnicas que nos ayudan a la prevención de errore
 Existen varios tipos de revisiones entre ellas: 
 La inspeccion o revisión técnica formal (RTF), esta es una actividad de control de calidad 	basada en examinar documentos de forma visual para detectar defectos. 
 
--El primer paso es seleccionar a los participantes, distribuir los roles, agendar la reunión o las reuniones y repartir los documentos a revisar. 
+- El primer paso es seleccionar a los participantes, distribuir los roles, agendar la reunión o las reuniones y repartir los documentos a revisar. 
 
 	Roles: 
 
-		  - Revisor: el encargado de detectar las anomalías. 
+	- Revisor: el encargado de detectar las anomalías. 
 
-	  	- Escriba: registra por escrito los acontecimientos más importantes de la revisión e incorporar todos los defectos en una lista. 
+	- Escriba: registra por escrito los acontecimientos más importantes de la revisión e incorporar todos los defectos en una lista. 
 
-  		- Moderador: este es el responsable de la revisión y se encarga de mediar entre los diferentes puntos de vista. 
+	- Moderador: este es el responsable de la revisión y se encarga de mediar entre los diferentes puntos de vista. 
 
-	  	- Autor: la persona responsable de crear el material revisado. 
+	- Autor: la persona responsable de crear el material revisado. 
 
 - El siguiente paso es la lectura del material se realiza de manera individual, cada integrante del equipo analiza el material para comprenderlo y encontrar y anotar posibles defectos. 
 
