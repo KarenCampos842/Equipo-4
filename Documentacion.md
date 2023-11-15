@@ -140,22 +140,132 @@ Ejemplo de historia de usuario:
 > **Tema:** *Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
 
 ### Información
-
 Las pruebas son una de las partes más importantes nos ayudan a reorganizarnos, reconocer errores y reducir los gastos. 
 
 El inicio de las pruebas depende mucho del proyecto y la metodología usada. En las metodologías tradicionales las pruebas se hacen después de la etapa de desarrollo. 
 
 Una buena forma de agregar pruebas es con un plan de pruebas el cual permite identificar las pruebas necesarias. 
 
+Un plan de pruebas se basa en 4 puntos 
+
+- Planificación de pruebas 
+
+- Diseño de pruebas 
+
+- Construcción y ejecución de pruebas 
+
+- Evaluación de pruebas 
+
 No existe una forma específica de hacer un plan de pruebas, pero si varias plantillas y las partes más importantes son: 
 
--Objetivo, en esta parte se detalla la finalidad del documento dentro del proyecto 
+- Control, aquí se incluyen las fechas de las revisiones anteriores y la versión  
 
--descripción del proyecto 
+- Objetivo, en esta parte se detalla la finalidad del documento dentro del proyecto 
 
--Referencias, se refiere a los elementos que se van a poner a prueba y también los que no se pondrán a prueba incluyendo las razones de su exclusión. 
+- descripción del proyecto 
 
--estrategias, aquí s 
+- estrategias, se definen los tipos de prueba a realizar, requerimientos especiales de las pruebas, el orden en que se probaran y los encargados de hacer las pruebas una forma de hacer esto es con una tabla como esta:
+  <table>
+   
+   <tr>
+       <th> Componentes a probar</th>
+       <th>Componentes a probar </th>
+   </tr>
+   
+    <tr>
+       <th> Objetivos de las pruebas     </th>
+       <th>Que se busca al hacer las pruebas <br>
+           *Ejecución correcta <br>
+           *usabilidad  </th>
+   </tr>
+   
+  <tr>
+       <th> Orden de pruebas  </th>
+       <th>Aquí se establece la prioridad de las pruebas </th>
+   </tr>
+   
+  <tr>
+       <th> Responsables   </th>
+       <th> Personas encargadas de las pruebas  </th>
+   </tr>
+   
+  </table>
+- Entorno de las pruebas, se describe las características del dispositivo en que se ejecutaran las pruebas y otros componentes nesesarios para su funcionamiento como la base de datos 
+
+- casos de pruebas, estos son escenarios para medir la funcionalidad del sistema.
+  
+  <table>
+   
+   <tr>
+       <th> Id de la prueba </th>
+       <th>102 </th>
+   </tr>
+   
+    <tr>
+       <th> Nombre  </th>
+       <th>Se ingresa el nombre  </th>
+   </tr>
+   
+  <tr>
+       <th> Descripción   </th>
+       <th>Se describe lo que se va a probar  </th>
+   </tr>
+   
+  <tr>
+       <th> Pasos  </th>
+       <th>La forma de llegar al resultado </th>
+   </tr>
+     <tr>
+       <th> Resultados esperados  </th>
+       <th>Lo que debería hacer el programa luego de la conclusión de los pasos  </th>
+   </tr>
+   
+  </table>
+  
+ - cronograma, se establecen las fechas de la creación y ejecución de las pruebas.
+    
+ - criterios de aprobación y rechazo, se crea una tabla con los niveles de errores y se definen las condiciones para aprobar el proyecto.
+
+<table>
+
+<tr>
+ <th>Error grabe</th>
+  <th>Caída de programa, incumplimiento en los requisitos principales...etc. </th>
+</tr>
+
+<tr>
+ <th>Error medio</th>
+  <th>Incumplimiento en requisitos secundarios </th>
+</tr>
+
+<tr>
+ <th>Error bajo</th>
+  <th> defectos de la presentacion</th>
+</tr>
+ 
+</table>
+
+- pruebas de sistema, cuando se realizan las pruebas se lleva un seguimiento y se anotan los resultados 
+
+- análisis de los resultados, se analizan los resultados con una tabla 
+
+<table>
+
+<tr>
+ <th>Tipo de prueba</th>
+  <th>Caso de prueba</th>
+  <th>resultado</th>
+  <th>Criterio de finalización </th>
+</tr>
+
+<tr>
+ <th>integración </th>
+  <th>102</th>
+  <th>esperado </th>
+  <th>aprobado</th>
+</tr>
+ 
+</table>
 
 ---
 > **Tema:** *Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias mínimas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras*
