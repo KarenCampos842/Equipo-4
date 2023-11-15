@@ -97,38 +97,92 @@ Ejemplo de historia de usuario:
 
 <table align=center>  
    <tr>  
-      <th>Historia de usuario #2</th>  
-      <th>Registro de cliente</th> 
+      <th>Historia de usuario #3</th>  
+      <th>Autenticación</th> 
    </tr> 
     <tr>  
       <td><b>Como</b></td>  
-       <td>Usuario</td> 
+       <td> usuario de WorkFlash</td> 
    </tr> 
     <tr>  
       <td><b>Quiero</b></td>  
-       <td> Poder registrarme en WorkFlash como cliente</td> 
+       <td> poder autenticarme en la aplicación</td> 
    </tr> 
      <tr>  
       <td><b>Para</b></td>  
-       <td> Encontrar trabajadores de forma rápida.</td> 
+       <td> acceder a los beneficios de WorkFlash.</td> 
    </tr> 
   <tr>  
       <td><b>Criterios de aceptación</b></td>  
        <td> 
            <ul>
-           <li>Comprobar que se ha seleccionado el perfil "cliente".</li>
-           <li>Comprobar que existen mínimo un nombre y un apellido.</li>
-                 <li>Comprobar que existe texto antes y después de @ para el correo.</li>
-                  <li>Comprobar que existe un elemento (imagen o PDF) como identificación oficial con fotografía.</li>
-                  <li>Comprobar que existe un elemento (imagen) en el apartado de fotografía actual.</li>
-                <li>Comprobar la aceptación de términos y condiciones.</li>
-           <li>Comprobar el envío de contraseña al correo proporcionado.</li>
+                <li>Comprobar que el correo y contraseña introducidos existan en la base de datos.</li>
+                  <li>Comprobar que la contraseña corresponda al correo introducido.</li>
+                <li>Comprobar que el usuario ha aceptado compartir su ubicación con WorkFlash.</li>
            </ul>
      </td> 
    </tr>
  </table>      
+ 
+<br>
+Ejemplo de caso de uso
 
+<br>
 
+<table  align=center>
+<tr>
+<th>CU-06</th>
+<th  colspan="2">Búsqueda y filtro </th></tr>
+<tr>
+<td><b>Versión</b></td>
+<td  colspan="2">1.0 (29/10/2023)</td>
+</tr>
+<tr>
+<td><b>Precondición</b></td>
+<td  colspan="2">El cliente se ha registrado como cliente. </td>
+</tr>
+<tr>
+<td><b>Descripción</b></td>
+<td  colspan="2">El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio y filtrará las opciones con criterios de calificación y ubicació</td>
+</tr>
+<tr>
+<td  rowspan="5"><b>Secuencia normal</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td>1</td>
+<td>El cliente ingresa el nombre de un oficio </td>
+</tr>
+<tr>
+<td>2</td>
+<td>El sistema despliega una lista de oficios </td>
+</tr>
+<tr>
+<td>3</td>
+<td>El cliente selecciona el trabajo que desea contratar</td>
+</tr>
+<tr>
+<td>4</td>
+<td>El sistema organiza los resultados de búsqueda y crea una <br> lista de trabajadores con algunos de sus datos</td>
+</tr>
+<tr>
+<td><b>Postcondición</b></td>
+<td  colspan="2">El usuario es libre de seleccionar con quien quiere trabajar </td>
+</tr>
+<tr>
+<td  rowspan="3"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>Si el oficio buscado no está dado de alta  en la base de datos, el sistema notifica al usuario que no encuentra el oficio buscado.</td>
+</tr>
+</table>
+
+<br>
+    
 ---
 
 > **Tema:** *Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
@@ -239,7 +293,7 @@ Verificar el trabajo realizado hasta el momento, analizar si independientemente 
 
 Cuando algo inesperado sucede, la metodología ágil valora la adaptación por sobre el seguimiento de un plan. Desafortunadamente, esto puede causar que el equipo de desarrollo se desvíe demasiado del plan y las fechas se extiendan (es una posibilidad, no una certeza). 
 En nuestro caso, sucedió algo similar con la última entrega.
-Surgió algo inesperado y uno de nuestros compañeros no pudo realizar todas sus actividades. Nos intentamos adaptar a la situación y reasignamos actividades. Lamentablemente, os desviamos mucho del plan y las fechas se extendieron, por lo que no terminamos todo a tiempo. 
+Surgió algo inesperado y uno de nuestros compañeros no pudo realizar todas sus actividades. Nos intentamos adaptar a la situación y reasignamos actividades. Lamentablemente, nos desviamos mucho del plan y las fechas se extendieron, por lo que no terminamos todo a tiempo. 
 
 **Solución:** 
 Para el siguiente sprint programar las actividades de tal forma que se tengan algunos días de margen en caso de algún evento que retrase el trabajo. 
@@ -252,11 +306,13 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 ---
 ## Referencias
 
-Chaves, M. A. (2005). _La ingeniería de requerimientos y su importancia en el desarrollo de proyectos de software_. Redalyc.org. https://www.redalyc.org/articulo.oa?id=66612870011
- 
 Arrizabalaga, I. (5 de octubre de 2021). _Problemas de Agile por los que esta metodología sigue fallando (y sus soluciones)._ axiateam. https://www.axiateam.com/problemas-de-agile-por-los-que-esta-metodologia-sigue-fallando-y-sus-soluciones/
 
 Arthur Mauricio. (s.f). Casos de uso y Historias de usuario. _Ouracademy._ https://our-academy.org/posts/casos-de-uso-y-historias-de-usuario.
+
+Cano, A., F.(2013)_Tecnicas estaticas.https://es.slideshare.net/juanestebanpuertacano/tcnicas-estticas
+
+Chaves, M. A. (2005). _La ingeniería de requerimientos y su importancia en el desarrollo de proyectos de software_. Redalyc.org. https://www.redalyc.org/articulo.oa?id=66612870011
 
 EBF. (11 de septiembre de 2019). _Ventajas y desventajas de las metodologías Agile (ágiles)._ EBF. https://ebf.com.es/blog/ventajas-y-desventajas-de-las-metodologias-agiles-y-su-aplicacion-en-el-tra
 
@@ -268,18 +324,9 @@ Marco de Desarrollo de la Junta de Andalucía. (s. f). _Guía para la redacción
 
 Oliveros, A. (2002). _Herramienta para implementar LEL y escenarios (TILS)_. http://sedici.unlp.edu.ar/handle/10915/4057
 
+Sanchez J., M.(2015)._Pruebas de sofware. Fundamentos y técnicas. https://oa.upm.es/40012/1/PFC_JOSE_MANUEL_SANCHEZ_PENO_3.pdf
+
 Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjkzMjM1OSwtMTA3MjM4NDYxNywtNj
-MyMTk4OCwxOTc3NTYyNTk2LC0xNTQwNTMxMzMsOTUxNjA5Mjkx
-LDYwMDIzMzYzMywtMTY5MTQxODg0MywtMTQ5Mjk5Mjk5OSw0OD
-U0Njg5MTIsLTE1Mjg0ODkzMzgsMjAxNDAxMzU0MywxNjYxMDAx
-NjE2LC03Mjg4NzM1NzksLTE1NDU0Mjc0ODMsODM4NDMyOTEyLC
-05Mzk1NTgzMDAsNzEyMTAzNTkwLC05MzUwNDk5MDAsLTEwNjIy
-MTgxMDRdfQ==
--->
-Jose Manuel Sanchez Peño.(2015)._Pruebas de sofware. Fundamentos y técnicas. https://oa.upm.es/40012/1/PFC_JOSE_MANUEL_SANCHEZ_PENO_3.pdf
 
-Andres Felipe Cano.(2013)_Tecnicas estaticas.<br> https://es.slideshare.net/juanestebanpuertacano/tcnicas-estticas
