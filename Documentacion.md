@@ -330,3 +330,6 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4MzU2NzY5NTJdfQ==
+-->
