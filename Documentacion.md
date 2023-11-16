@@ -8,16 +8,17 @@
 
 Los requisitos son una parte muy importante en el proceso de desarrollo de software porque son la base de los acuerdos entre los involucrados.
 
-En un proyecto de desarrollo de software, la parte de la obtención de requisitos se ha convertido en toda una disciplina  que recibe el nombre de ingeniería de requerimientos, pues desempeñarse en ella implica de un amplio conocimiento y habilidades técnicas y sociales, pues gran parte de este proceso implica la interacción con muchas partes con conocimientos distintos en el área de las tecnologías de la información. Lo que demanda una capacidad para poder interpretar de la mejor manera la información.
-Podemos destacar tres habilidades en la parte técnica que son indispensables para esta disciplina, las cuales son el análisis, 
+En un proyecto de desarrollo de software, la parte de la obtención de requisitos se ha convertido en toda una disciplina que recibe el nombre de Ingeniería de Requerimientos, desempeñarse en ella requiere de un amplio conocimiento y habilidades técnicas y sociales, pues gran parte de este proceso implica la interacción con personas que tienen conocimientos distintos en el área de las tecnologías de la información. Lo que demanda una alta capacidad para interpretar la información.
 
-Análisis: Antes de cualquier cosa se deben cimentar las bases del proyecto y es aquí donde la capacidad de extraer información, comprenderla y traducirla en  información técnica, son indispensables para el desarrollo del proyecto, pues el analista se enfrentara a diversos perfiles de clientes con necesidades distintas, y a partir de la información que ellos proporcionen se debe de hacer una evaluación de los alcances y restricciones que se implican.
+Podemos destacar tres habilidades en la parte técnica que son indispensables para esta disciplina, las cuales son: el análisis, la modelización y el desarrollo de Software. 
 
-Modelización: Adoptar un modelo de desarrollo no es una tarea fácil, pues esto implica tener un amplio conocimiento en gestión de proyectos ya habilidades distintas, para conseguir los mejores resultados es necesario que se adopten las técnicas y prácticas más adecuadas para el proyecto, pues de esta manera se garantizará la creación de un producto de calidad con un estructura adecuada, para ello es necesario aplicar técnicas como la estimación que requieren de habilidades matemáticas.
+Análisis: Antes de cualquier cosa se deben cimentar las bases del proyecto y es aquí donde la capacidad de extraer información, comprenderla y traducirla en información técnica, son indispensables para el desarrollo del proyecto, pues el analista se enfrentará a diversos perfiles de clientes con necesidades distintas, y a partir de la información que ellos proporcionen se debe de hacer una evaluación de los alcances y restricciones que implica.
 
-Desarrollo de Software: Es evidente que para poder dimensionar los desafíos y oportunidad es en el proceso de ingeniería de software es necesario tener un amplio conocimiento en tecnologías de la información poder realizar estimaciones basadas en fórmulas matemáticas y el expertiz del propio ingeniero, harán posible tener un mejor control sobre las implicaciones que tiene el proceso de desarrollo del software.
+Modelización: Adoptar un modelo de desarrollo no es una tarea fácil, pues esto implica tener un amplio conocimiento en gestión de proyectos y habilidades distintas, para conseguir los mejores resultados es necesario que se adopten las técnicas y prácticas más adecuadas para el proyecto, pues de esta manera se garantizará la creación de un producto de calidad con un estructura adecuada, para ello es necesario aplicar técnicas como la estimación que requieren de ciertas habilidades matemáticas.
 
-Además de lo antes mencionado, podemos ejemplificar en nuestro equipo de trabajo la primera habilidad que es el análisis, para definir los alcances y limitaciones de nuestro producto de software hemos hecho una amplia tarea de análisis basados en nuestra experiencia y la forma en la que traducir funciones prácticas de un software en especificaciones técnicas que luego usamos para la generación de requisitos, a pesar de no haber tenido una amplia formación en este aspecto, haciendo énfasis en el usuario final pudimos extraer esta información.
+Desarrollo de Software: Es evidente que para poder dimensionar los desafíos y oportunidades en el proceso de Ingeniería de Requerimientos, es necesario tener un amplio conocimiento en tecnologías de la información, que permitan realizar estimaciones basadas en fórmulas matemáticas y el expertiz del propio profesional, todo esto hará posible tener un mejor control sobre las implicaciones que tiene el proceso de desarrollo del software.
+
+Además de lo antes mencionado, podemos ejemplificar en nuestro equipo de trabajo la primera habilidad que es el análisis, para definir los alcances y limitaciones de nuestro producto de software hemos hecho una amplia tarea de análisis basado en nuestra experiencia y en la traducción de funciones prácticas de un software en especificaciones técnicas que luego usamos para la generación de requisitos, a pesar de no haber tenido una amplia formación en este aspecto, haciendo énfasis en el usuario final pudimos extraer lo que necesitabamos.
 
 ---
 
@@ -367,9 +368,8 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 
-Yepply.(2023). ¿Cuáles son las Habilidades más demandadas de los Desarrolladores de Software? <br> https://www.linkedin.com/pulse/cu%C3%A1les-son-las-habilidades-m%C3%A1s-demandadas-de-los-desarrolladores-1e/?originalSubdomain=es 
+Yepply.(2023). ¿Cuáles son las Habilidades más demandadas de los Desarrolladores de Software? <br>https://www.linkedin.com/pulse/cu%C3%A1les-son-las-habilidades-m%C3%A1s-demandadas-de-los-desarrolladores-1e/?originalSubdomain=es 
 
-Santander. (2021).Soft skills <br>  https://www.santander.com/es/stories/soft-skills-el-concepto-que-revoluciona-los-perfiles-profesionales 
+Santander. (2021).Soft skills <br>https://www.santander.com/es/stories/soft-skills-el-concepto-que-revoluciona-los-perfiles-profesionales 
 
-NIST.(2020).Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF) <br> https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf 
-
+NIST.(2020).Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)<br>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf 

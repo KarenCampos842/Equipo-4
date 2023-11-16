@@ -1,47 +1,81 @@
 # ﻿Métrica de contribución individual
-
- Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#sprint-backlog">Gestión_del_proceso.md</a> para ver especificaciones de las actividades.
  
 <table align=center>  
    <tr>  
       <th>Nombre</th>  
-      <th>Porcentaje de contribución</th> 
-      <th>Porcentaje de contribución de acuerdo el nivel</th>  
+      <th>Porcentaje de contribución</th>   
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
-       <td> 6/25= 24%</td> 
-       <td> Alto: 5/15= 33.34%<br>Medio: 0/6= 0%<br>Bajo: 1/4= 25%</td>  
+       <td> 2/7= 28.57%</td>    
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
-       <td>4/25=16%</td>
-       <td> Alto: 1/15= 6.67%<br>Medio: 3/6= 50%<br>Bajo: 0/4= 0%</td>    
+       <td>1/7=14.29%</td>
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
-      <td>5/25=20%</td>
-      <td> Alto: 2/15= 13.33%<br>Medio: 2/6= 33.33%<br>Bajo: 1/4= 25%</td>    
+      <td>0.5/7=7.14%</td>
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
-       <td>3/25=12%</td>
-      <td> Alto: 2/15= 13.33%<br>Medio: 0/6= 0%<br>Bajo: 1/4= 25%</td> 
+       <td>2/7=28.57%</td>
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
-        <td>3/25=12%</td>
-        <td> Alto: 2/15= 13.33%<br>Medio: 0/6= 0%<br>Bajo: 1/4= 25%</td>    
+        <td>0.5/7=7.14%</td>
    </tr> 
     <tr>  
       <td>Suárez Balam Brandon Emmanuel</td> 
-      <td>4/25=16%</td>
-       <td> Alto: 3/15= 20%<br>Medio: 1/6= 16.67%<br>Bajo: 0/4=0%</td>       
+      <td>1/7=14.29%</td>
+   </tr> 
+ </table>
+
+<br><br><br>
+
+<table align=center>  
+   <tr>  
+      <th>Nombre</th>  
+      <th>Actividad</th>   
+   </tr> 
+    <tr>  
+      <td>Campos García Karen Elizabeth</td>  
+       <td> Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.<br><br>
+       Asumiendo que los valores descritos en el acuerdo del "Manifiesto para el desarrollo ágil de software", causan conflicto en el proceso de desarrollo reflexione y describa de manera clara posibles soluciones utilizando como base el proyecto que están desarrollando en equipo.
+</td>    
+   </tr> 
+   <tr>  
+      <td>Cárdenas Rojas Kendrick Asaf</td>  
+       <td>Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos. Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.<br><br>
+Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando
+</td>
+   </tr> 
+    <tr>  
+      <td>Maldonado Medina Hansony de Jesús</td>  
+      <td>De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil
+</td>
+   </tr> 
+    <tr>  
+      <td>Romero Poot Carlos Emmanuel</td>  
+       <td>Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas? Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.<br><br>
+Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras
+</td>
+   </tr> 
+     <tr>  
+      <td>Rubén Moisés Loria Pech</td>  
+        <td>De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil
+</td>
+   </tr> 
+    <tr>  
+      <td>Suárez Balam Brandon Emmanuel</td> 
+       <td>Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos. Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.<br><br>
+Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando
+</td>
    </tr> 
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk2MjQyMTcsNjY5NjE2ODU4LC02ND
-g4NjIzNywxMTA4MzM0NzUxLDE5MDc2MTE4NDUsLTcxMzkzMzkz
-M119
+eyJoaXN0b3J5IjpbMTA0Njk2MTQzMyw4NDUyMzU0OTYsNjY5Nj
+E2ODU4LC0xMTA5NjI0MjE3LDY2OTYxNjg1OCwtNjQ4ODYyMzcs
+MTEwODMzNDc1MSwxOTA3NjExODQ1LC03MTM5MzM5MzNdfQ==
 -->
