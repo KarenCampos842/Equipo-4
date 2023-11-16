@@ -230,7 +230,44 @@ aunque debido a la falta de documentacion es dificil saber que tan efectivo es y
 > **Tema:** *Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias mínimas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras*
 
 ### Información
+Existen 2 tipos de habilidades esenciales: 
 
+Las “soft skills” que en realidad son subjetivas por que no existe una clasificación para ellas, pero más que nada se refieren a las habilidades de sociales y de comunicación. 
+
+soft skills importantes: 
+
+- Trabajo en equipo 
+
+- Adaptabilidad al cambio 
+
+- pensamiento critico  
+
+- resolución de problemas 
+
+Las “hard skills” se refieren a habilidades técnicas basadas en la formación académica y experiencia profesional. 
+
+ Algunas de las hard skills más importantes para un ingeniero en software  
+
+- gestión de proyectos: garantiza que los proyectos se entreguen a tiempo. 
+
+- conocimiento de arquitectura de software: habilidad de diseñar sistemas escalables y eficientes. 
+
+- Análisis de datos: para mejorar procesos y la toma de decisiones. 
+
+- conocimiento de lenguajes de programación 
+
+También es necesario contar con conocimientos sobre el desarrollo de software seguro como conocer el marco de desarrollo seguro de software (SSDF). 
+
+SSDF organiza las prácticas para el desarrollo seguro en 4: 
+
+ - Preparar la organización.  
+
+ - Proteger el software. 
+
+ - Producir software bien protegido. 
+
+ - Responder a las vulnerabilidades. 
+ 
 ---
 
 ## Unidad 3
@@ -331,6 +368,8 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU2NzY5NTJdfQ==
--->
+Yepply.(2023). ¿Cuáles son las Habilidades más demandadas de los Desarrolladores de Software? <br>https://www.linkedin.com/pulse/cu%C3%A1les-son-las-habilidades-m%C3%A1s-demandadas-de-los-desarrolladores-1e/?originalSubdomain=es 
+
+Santander. (2021).Soft skills <br>https://www.santander.com/es/stories/soft-skills-el-concepto-que-revoluciona-los-perfiles-profesionales 
+
+NIST.(2020).Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)<br>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf 
