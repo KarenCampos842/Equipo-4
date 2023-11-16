@@ -229,7 +229,6 @@ aunque debido a la falta de documentacion es dificil saber que tan efectivo es y
 > **Tema:** *Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias mínimas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras*
 
 ### Información
-
 Existen 2 tipos de habilidades esenciales: 
 
 Las “soft skills” que en realidad son subjetivas por que no existe una clasificación para ellas, pero más que nada se refieren a las habilidades de sociales y de comunicación. 
@@ -256,8 +255,18 @@ Las “hard skills” se refieren a habilidades técnicas basadas en la formaci�
 
 - conocimiento de lenguajes de programación 
 
-También es necesario contar con conocimientos sobre el desarrollo de software seguro como conocer el marco de desarrollo seguro de software (SSDF) o como “The Software Component Verificacion Standard” (SCVS). 
+También es necesario contar con conocimientos sobre el desarrollo de software seguro como conocer el marco de desarrollo seguro de software (SSDF). 
 
+SSDF organiza las prácticas para el desarrollo seguro en 4: 
+
+ - Preparar la organización.  
+
+ - Proteger el software. 
+
+ - Producir software bien protegido. 
+
+ - Responder a las vulnerabilidades. 
+ 
 ---
 
 ## Unidad 3
