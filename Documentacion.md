@@ -20,6 +20,18 @@ Desarrollo de Software: Es evidente que para poder dimensionar los desafíos y o
 
 Además de lo antes mencionado, podemos ejemplificar en nuestro equipo de trabajo la primera habilidad que es el análisis, para definir los alcances y limitaciones de nuestro producto de software hemos hecho una amplia tarea de análisis basado en nuestra experiencia y en la traducción de funciones prácticas de un software en especificaciones técnicas que luego usamos para la generación de requisitos, a pesar de no haber tenido una amplia formación en este aspecto, haciendo énfasis en el usuario final pudimos extraer lo que necesitabamos.
 
+Por otra parte tambien se debe tener en cuenta el lado de los negocios, ya que es una parte muy importante en un proyecto de desarollo de software, por lo que hay que desarollar otras capacidades completamente diferentes, y que sonde gran ayuda para poder mantener un desarollo estable, entre las cuales se encuentran:
+
+Análisis de Negocios: Implica la capacidad de comprender las necesidades del cliente desde una perspectiva comercial y convertirlas en requisitos técnicos comprensibles para el equipo de desarrollo. Esto implica ser capaz de identificar los problemas subyacentes y proponer soluciones que se alineen con los objetivos comerciales.
+
+Comunicación: Es crucial para establecer una comunicación efectiva con todas las partes interesadas. Esto incluye habilidades para escuchar activamente, hacer preguntas pertinentes, expresar ideas claramente y transmitir información técnica de manera comprensible para los no técnicos y viceversa.
+
+Gestión de Cambios: Esta habilidad se relaciona con la capacidad para administrar los cambios en los requisitos a lo largo del tiempo. Implica evaluar el impacto de los cambios, documentarlos adecuadamente y asegurarse de que todos los involucrados estén informados y de acuerdo con las modificaciones.
+
+Reflexion: Si bien tener las capacidades para desarollar el propio software del proyecto es una gran parte, si no es que la mayoria, de un proyecto de desarollo, el ser capaz de llegar a un acuerdo con el cliente y con los posibles futuros usuarios tambien es importante, ya que si uno no se percata de el alcance del proyecto y acepta sin recibir una remuneración apropiada, uno no sera capaz de terminar el proyecto o se terminará en malos terminos.
+
+
+
 ---
 
 
