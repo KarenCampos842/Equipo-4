@@ -367,3 +367,9 @@ Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/fi
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 
+Yepply.(2023). ¿Cuáles son las Habilidades más demandadas de los Desarrolladores de Software? <br> https://www.linkedin.com/pulse/cu%C3%A1les-son-las-habilidades-m%C3%A1s-demandadas-de-los-desarrolladores-1e/?originalSubdomain=es 
+
+Santander. (2021).Soft skills <br>  https://www.santander.com/es/stories/soft-skills-el-concepto-que-revoluciona-los-perfiles-profesionales 
+
+NIST.(2020).Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF) <br> https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf 
+
