@@ -202,6 +202,19 @@ Ejemplo de caso de uso
 
 ### Información
 
+Uno de los métodos asociados a la interfaz de usuario es el método de evaluación heurística. Esta técnica implica tener a expertos en usabilidad revisando la interfaz en busca de posibles problemas de diseño. Los expertos aplican un conjunto de principios (llamados heurísticas) establecidos por Jakob Nielsen u otros especialistas en UX para identificar y solucionar problemas de usabilidad.
+
+Por ejemplo, podrían evaluar la consistencia de la interfaz, la correspondencia entre el sistema y el mundo real, la flexibilidad y eficiencia del uso, entre otros criterios. Este método suele involucrar a varios revisores que examinan la interfaz por separado y luego consolidan sus hallazgos para generar una lista de problemas y posibles soluciones.
+
+Al finalizar, se proporciona un informe detallado con recomendaciones para mejorar la usabilidad de la interfaz, lo que permite realizar ajustes y optimizaciones antes del lanzamiento del producto.
+
+
+
+
+
+
+
+
 ---
 
 > **Tema:** *Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
@@ -340,6 +353,8 @@ Oliveros, A. (2002). _Herramienta para implementar LEL y escenarios (TILS)_. htt
 Sanchez J., M.(2015)._Pruebas de sofware. Fundamentos y técnicas. https://oa.upm.es/40012/1/PFC_JOSE_MANUEL_SANCHEZ_PENO_3.pdf
 
 Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
+
+Jakob Nielsen (l993) _Usability Engineering_
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 
