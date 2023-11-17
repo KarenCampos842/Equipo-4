@@ -348,7 +348,7 @@ Scrum es un marco de trabajo ágil utilizado en el desarrollo de software y en p
 
   
 
-1. Roles:
+**1. Roles:**
 
 - Product Owner: Representa los intereses del cliente y define las funcionalidades del producto.
 
@@ -358,7 +358,7 @@ Scrum es un marco de trabajo ágil utilizado en el desarrollo de software y en p
 
   
 
-2. Eventos:
+**2. Eventos:**
 
 - Sprint: Período de tiempo (generalmente 2-4 semanas) durante el cual se realiza el trabajo y se entrega un incremento del producto.
 
@@ -372,7 +372,7 @@ Scrum es un marco de trabajo ágil utilizado en el desarrollo de software y en p
 
   
 
-3. Artefactos:
+**3. Artefactos:**
 
 - Product Backlog: Lista priorizada de funcionalidades pendientes.
 
@@ -382,7 +382,7 @@ Scrum es un marco de trabajo ágil utilizado en el desarrollo de software y en p
 
   
 
-4. Principios:
+**4. Principios:**
 
 - Transparencia: La información clave está disponible para todos.
 
@@ -410,31 +410,31 @@ Estos principios pueden implementarse en nuestro proyecto de diferentes formas c
 
 Kanban es una metodología ágil que se originó en el ámbito de la fabricación y se ha adaptado con éxito al desarrollo de software y a diversos proyectos. A continuación, se describen los principios básicos de la metodología ágil Kanban:
 
-1. Visualización del Trabajo:
+**1. Visualización del Trabajo:**
 
 - Los elementos de trabajo se representan visualmente en un tablero Kanban, divididos en columnas que representan diferentes etapas del proceso.
 
-2. Límites de Trabajo en Proceso (WIP):
+**2. Límites de Trabajo en Proceso (WIP):**
 
 - Se establece un límite en la cantidad de elementos que pueden estar en curso en cada columna. Esto ayuda a evitar la sobrecarga y a mantener un flujo constante.
 
-3. Gestión del Flujo:
+**3. Gestión del Flujo:**
 
 - El énfasis está en mantener un flujo de trabajo continuo, evitando cuellos de botella y optimizando la eficiencia.
 
-4. Feedback Continuo:
+**4. Feedback Continuo:**
 
 - Se fomenta el feedback constante para mejorar el proceso. La retroalimentación se utiliza para realizar ajustes y mejoras continuas.
 
-5. Priorización Basada en Valor:
+**5. Priorización Basada en Valor:**
 
 - Los elementos en el tablero Kanban se priorizan según su valor, y se trabaja en aquellos que tienen mayor prioridad.
 
-6. Flexibilidad y Adaptabilidad:
+**6. Flexibilidad y Adaptabilidad:**
 
 - Kanban se adapta a cambios en los requisitos o prioridades de manera fluida. No hay iteraciones fijas (como en Scrum), lo que permite una mayor flexibilidad.
 
-7. Enfoque en la Eficiencia:
+**7. Enfoque en la Eficiencia:**
 
 - Kanban busca mejorar constantemente la eficiencia y la calidad del trabajo entregado.
 
@@ -503,5 +503,5 @@ Gilibets, L. (2023, 12 enero). Qué es Kanban y cómo utilizarlo en el desarroll
     
 Apd, R. (2021, 24 junio). ¿En qué consiste la metodología Kanban y cómo utilizarla? APD España. https://www.apd.es/metodologia-kanban/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE0NDI1NzQsMTQxNTA1OTYyN119
+eyJoaXN0b3J5IjpbOTAyMjcxOTIyLDE0MTUwNTk2MjddfQ==
 -->
