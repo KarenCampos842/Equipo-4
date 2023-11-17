@@ -341,6 +341,74 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ### Información
 
+Scrum
+
+  
+
+Scrum es un marco de trabajo ágil utilizado en el desarrollo de software y en proyectos que requieren flexibilidad y adaptabilidad a los cambios.
+
+  
+
+1. Roles:
+
+- Product Owner: Representa los intereses del cliente y define las funcionalidades del producto.
+
+- Scrum Master: Facilita el proceso y elimina obstáculos para el equipo.
+
+- Equipo de Desarrollo: Profesionales encargados de entregar el producto al final de cada iteración.
+
+  
+
+2. Eventos:
+
+- Sprint: Período de tiempo (generalmente 2-4 semanas) durante el cual se realiza el trabajo y se entrega un incremento del producto.
+
+- Reunión de Planificación del Sprint: Define qué se va a hacer durante el Sprint.
+
+- Reunión Diaria: Breve encuentro diario para sincronizar actividades.
+
+- Revisión del Sprint: Revisión del trabajo completado y adaptación del backlog del producto.
+
+- Retrospectiva del Sprint: Reflexión sobre el rendimiento del equipo y mejora continua.
+
+  
+
+3. Artefactos:
+
+- Product Backlog: Lista priorizada de funcionalidades pendientes.
+
+- Sprint Backlog: Conjunto de elementos seleccionados para el Sprint.
+
+- Incremento: Producto potencialmente entregable al final de cada Sprint.
+
+  
+
+4. Principios:
+
+- Transparencia:La información clave está disponible para todos.
+
+- Inspección: Se realizan inspecciones frecuentes para detectar variaciones.
+
+- Adaptación: Se ajusta el proceso según sea necesario.
+
+  
+
+Scrum se basa en la iteración y la colaboración constante, permitiendo la entrega incremental y continua del producto, lo que lo hace especialmente efectivo en entornos en los que los requisitos pueden cambiar o evolucionar con el tiempo.
+
+  
+
+Estos principios pueden implementarse en nuestro proyecto de diferentes formas como:
+
+-   Todos los requerimientos están disponibles para todo el equipo de trabajo y para el cliente, por lo que si un requerimiento es ambiguo o necesita ser modificado todos podrán estar enterados y opinar.
+    
+-   El código y los requerimientos podrán ser vistos por todos los integrantes del equipo de trabajo en el repositorio de Github.
+    
+-   Estaremos verificando los errores de forma frecuente entre todos y solo añadir al repositorio los trabajos en la aplicación que ya estén verificados con anterioridad.
+    
+-   Las ventanas tendrán que ser aprobadas por la mayoría del equipo de trabajo para poder ser implementadas.
+    
+-   Si alguna ventana o trabajo necesita ser reutilizada o necesita usar algún método distinto, será aceptado si influye en el correcto proceso de la aplicación.
+
 ---
 ## Referencias
 
@@ -373,3 +441,6 @@ Yepply.(2023). ¿Cuáles son las Habilidades más demandadas de los Desarrollado
 Santander. (2021).Soft skills <br>https://www.santander.com/es/stories/soft-skills-el-concepto-que-revoluciona-los-perfiles-profesionales 
 
 NIST.(2020).Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)<br>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQxNTA1OTYyN119
+-->
