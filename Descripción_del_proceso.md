@@ -49,7 +49,7 @@
 ### Duración del sprint: 12 días
 **(18/11/2023) - (29/11/2023)**
 
-***NOTA:*** Se encontrarán archivos para cada sección en la que el trabajo está dividido (se dividió acorde a la lista de cotejo) en la branch de Entrega-Final.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Entrega-Final. 
+***NOTA:*** Se encontrarán archivos para cada sección en la que el trabajo está dividido (se dividió acorde a la lista de cotejo) en la branch de Tercera-Entrega-Final.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Tercera-Entrega-Final. 
 Marcar como "closed" sus issues asignados cuando finalicen una actividad. 
 
 **Corrector de redacción:** *Suárez Balam Brandon Emmanuel.*
@@ -63,7 +63,7 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
 
 **Actividades**
   
- - **Evolución del producto:** Resumen de los cambios completados del producto entre la primera y segunda entrega. Mencionar de manera sintetizada los cambios más significativos en los requerimientos y artefactos.
+ - **Evolución del producto:** Resumen de los cambios completados del producto entre la primera y segundaPRIMERA, SEGUNDA y TERCERA entrega. Mencionar de manera sintetizada los cambios más significativos en los requerimientos y artefactosy que se cuenta con evidencia (.
   
   **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md">Producto.md</a>  
  
@@ -239,11 +239,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzUxNDMxMDYsLTExODM5NjEzMCw5MD
-M2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NTExODU1
-NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5NDAsLT
-g5NDcyNDExOCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMTU2Nzcw
-MjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUwMzM4MC
-wxNzEwMzk4Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMTUy
-NzI4Mzc5Ml19
+eyJoaXN0b3J5IjpbLTEyMTQwOTMwOTYsLTE2NzUxNDMxMDYsLT
+ExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1
+ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC
+02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgx
+OTY3OTYsMTU2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3MT
+EsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMTY1ODAwOTYsLTYy
+NzY4Mzc4N119
 -->
