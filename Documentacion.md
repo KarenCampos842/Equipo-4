@@ -408,7 +408,7 @@ Estos principios pueden implementarse en nuestro proyecto de diferentes formas c
 
 ## Kanban
 
-Kanban es una metodología ágil que se originó en el ámbito de la fabricación y se ha adaptado con éxito al desarrollo de software y a diversos proyectos. A continuación, se describen los principios básicos de la metodología ágil Kanban:
+Kanban es una metodología ágil que se originó en el ámbito de la fabricación y se ha adaptado con éxito al desarrollo de software y a diversos proyectos. Algunos principios básicos de la metodología ágil Kanban son:
 
 **1. Visualización del Trabajo:**
 
@@ -438,7 +438,7 @@ Kanban es una metodología ágil que se originó en el ámbito de la fabricació
 
 - Kanban busca mejorar constantemente la eficiencia y la calidad del trabajo entregado.
 
-8. Roles Flexibles:
+**8. Roles Flexibles:**
 
 - A diferencia de Scrum, Kanban no define roles específicos. Las responsabilidades pueden variar según las necesidades del equipo.  
 
@@ -503,5 +503,5 @@ Gilibets, L. (2023, 12 enero). Qué es Kanban y cómo utilizarlo en el desarroll
     
 Apd, R. (2021, 24 junio). ¿En qué consiste la metodología Kanban y cómo utilizarla? APD España. https://www.apd.es/metodologia-kanban/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyMjcxOTIyLDE0MTUwNTk2MjddfQ==
+eyJoaXN0b3J5IjpbMTExMDM0NTA1MSwxNDE1MDU5NjI3XX0=
 -->
