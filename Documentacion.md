@@ -214,7 +214,6 @@ Al finalizar, se proporciona un informe detallado con recomendaciones para mejor
 
 
 
-
 ---
 
 > **Tema:** *Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
