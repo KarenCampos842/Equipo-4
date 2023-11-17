@@ -390,8 +390,6 @@ Scrum es un marco de trabajo ágil utilizado en el desarrollo de software y en p
 
 - Adaptación: Se ajusta el proceso según sea necesario.
 
-  
-
 Scrum se basa en la iteración y la colaboración constante, permitiendo la entrega incremental y continua del producto, lo que lo hace especialmente efectivo en entornos en los que los requisitos pueden cambiar o evolucionar con el tiempo.
 
 Estos principios pueden implementarse en nuestro proyecto de diferentes formas como:
@@ -503,5 +501,6 @@ Gilibets, L. (2023, 12 enero). Qué es Kanban y cómo utilizarlo en el desarroll
     
 Apd, R. (2021, 24 junio). ¿En qué consiste la metodología Kanban y cómo utilizarla? APD España. https://www.apd.es/metodologia-kanban/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDM0NTA1MSwxNDE1MDU5NjI3XX0=
+eyJoaXN0b3J5IjpbMjA0MTU2MzA3MSwxMTEwMzQ1MDUxLDE0MT
+UwNTk2MjddfQ==
 -->
