@@ -189,6 +189,12 @@ Ejemplo de caso de uso
 > **Tema:** *Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
 
 ### Información
+Uno de los métodos asociados a la interfaz de usuario es el método de evaluación heurística. Esta técnica implica tener a expertos en usabilidad revisando la interfaz en busca de posibles problemas de diseño. Los expertos aplican un conjunto de principios (llamados heurísticas) establecidos por Jakob Nielsen u otros especialistas en UX para identificar y solucionar problemas de usabilidad.
+
+ 
+Por ejemplo, podrían evaluar la consistencia de la interfaz, la correspondencia entre el sistema y el mundo real, la flexibilidad y eficiencia del uso, entre otros criterios. Este método suele involucrar a varios revisores que examinan la interfaz por separado y luego consolidan sus hallazgos para generar una lista de problemas y posibles soluciones.
+
+Al finalizar, se proporciona un informe detallado con recomendaciones para mejorar la usabilidad de la interfaz, lo que permite realizar ajustes y optimizaciones antes del lanzamiento del producto.
 
 ---
 
@@ -459,15 +465,23 @@ Estos principios pueden implementarse en nuestro proyecto de diferentes formas c
 ---
 ## Referencias
 
+Apd, R. (2022, 13 enero). Cómo aplicar la metodología Scrum y qué es el método Scrum. APD España. https://www.apd.es/metodologia-scrum-que-es/
+    
+Apd, R. (2021, 24 junio). ¿En qué consiste la metodología Kanban y cómo utilizarla? APD España. https://www.apd.es/metodologia-kanban/
+
 Arrizabalaga, I. (5 de octubre de 2021). _Problemas de Agile por los que esta metodología sigue fallando (y sus soluciones)._ axiateam. https://www.axiateam.com/problemas-de-agile-por-los-que-esta-metodologia-sigue-fallando-y-sus-soluciones/
 
 Arthur Mauricio. (s.f). Casos de uso y Historias de usuario. _Ouracademy._ https://our-academy.org/posts/casos-de-uso-y-historias-de-usuario.
 
 Cano, A., F.(2013)_Tecnicas estaticas.https://es.slideshare.net/juanestebanpuertacano/tcnicas-estticas
 
+Catalunya, U. O. (2012, 18 junio). Metodología Scrum. http://hdl.handle.net/10609/17885
+
 Chaves, M. A. (2005). _La ingeniería de requerimientos y su importancia en el desarrollo de proyectos de software_. Redalyc.org. https://www.redalyc.org/articulo.oa?id=66612870011
 
 EBF. (11 de septiembre de 2019). _Ventajas y desventajas de las metodologías Agile (ágiles)._ EBF. https://ebf.com.es/blog/ventajas-y-desventajas-de-las-metodologias-agiles-y-su-aplicacion-en-el-tra
+
+Gilibets, L. (2023, 12 enero). Qué es Kanban y cómo utilizarlo en el desarrollo de proyectos. Thinking for Innovation. https://www.iebschool.com/blog/metodologia-kanban-agile-scrum/
 
 Gonzalez, F. (30 de septiembre de 2019). Casos de Uso: La alternativa a historia de usuario. _Somospnt_. https://somospnt.com/blog/104-casos-de-uso-una-alternativa-diferente#:~:text=Mientras%20que%20en%20una%20historia,y%20respuestas%20de%20nuestro%20sistema.
 
@@ -475,32 +489,28 @@ Laoyan, S. (26 de septiembre de 2022). _Cómo organizar tu stand up meeting o da
 
 Marco de Desarrollo de la Junta de Andalucía. (s. f). _Guía para la redacción de casos de uso. Junta de Andalucía._ https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416
 
+Martins, J. (2023, 19 junio). Scrum: conceptos clave y cómo se aplica en la gestión de proyectos [2023] • Asana. Asana. https://asana.com/es/resources/what-is-scrum
+    
+Martins, J. (2022, 10 octubre). ¿Qué es la metodología Kanban y cómo funciona? [2022] • Asana. Asana. https://asana.com/es/resources/what-is-kanban
+
+NIST.(2020).Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)<br>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf 
+
 Oliveros, A. (2002). _Herramienta para implementar LEL y escenarios (TILS)_. http://sedici.unlp.edu.ar/handle/10915/4057
 
 Sanchez J., M.(2015)._Pruebas de sofware. Fundamentos y técnicas. https://oa.upm.es/40012/1/PFC_JOSE_MANUEL_SANCHEZ_PENO_3.pdf
+
+Santander. (2021).Soft skills. https://www.santander.com/es/stories/soft-skills-el-concepto-que-revoluciona-los-perfiles-profesionales 
 
 Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 
-Yepply.(2023). ¿Cuáles son las Habilidades más demandadas de los Desarrolladores de Software? <br>https://www.linkedin.com/pulse/cu%C3%A1les-son-las-habilidades-m%C3%A1s-demandadas-de-los-desarrolladores-1e/?originalSubdomain=es 
+Yepply.(2023). ¿Cuáles son las Habilidades más demandadas de los Desarrolladores de Software? https://www.linkedin.com/pulse/cu%C3%A1les-son-las-habilidades-m%C3%A1s-demandadas-de-los-desarrolladores-1e/?originalSubdomain=es 
 
-Santander. (2021).Soft skills <br>https://www.santander.com/es/stories/soft-skills-el-concepto-que-revoluciona-los-perfiles-profesionales 
 
-NIST.(2020).Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)<br>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf 
 
-   De Catalunya, U. O. (2012, 18 junio). Metodología Scrum. http://hdl.handle.net/10609/17885
+
+
     
- Martins, J. (2023, 19 junio). Scrum: conceptos clave y cómo se aplica en la gestión de proyectos [2023] • Asana. Asana. https://asana.com/es/resources/what-is-scrum
     
- Apd, R. (2022, 13 enero). Cómo aplicar la metodología Scrum y qué es el método Scrum. APD España. https://www.apd.es/metodologia-scrum-que-es/
-    
-Martins, J. (2022, 10 octubre). ¿Qué es la metodología Kanban y cómo funciona? [2022] • Asana. Asana. https://asana.com/es/resources/what-is-kanban
-    
-Gilibets, L. (2023, 12 enero). Qué es Kanban y cómo utilizarlo en el desarrollo de proyectos. Thinking for Innovation. https://www.iebschool.com/blog/metodologia-kanban-agile-scrum/
-    
-Apd, R. (2021, 24 junio). ¿En qué consiste la metodología Kanban y cómo utilizarla? APD España. https://www.apd.es/metodologia-kanban/
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTU2MzA3MSwxMTEwMzQ1MDUxLDE0MT
-UwNTk2MjddfQ==
--->
+
