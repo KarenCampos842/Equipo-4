@@ -373,3 +373,6 @@ Yepply.(2023). ¿Cuáles son las Habilidades más demandadas de los Desarrollado
 Santander. (2021).Soft skills <br>https://www.santander.com/es/stories/soft-skills-el-concepto-que-revoluciona-los-perfiles-profesionales 
 
 NIST.(2020).Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)<br>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTg4MDU2Mjc2XX0=
+-->
