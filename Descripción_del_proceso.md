@@ -49,17 +49,11 @@
 ### Duración del sprint: 12 días
 **(18/11/2023) - (29/11/2023)**
 
-***NOTA:*** Se encontrarán archivos para cada sección en la que el trabajo está dividido (se dividió acorde a la lista de cotejo) en la branch de Entrega-Final.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
+***NOTA:*** Se encontrarán archivos para cada sección en la que el trabajo está dividido (se dividió acorde a la lista de cotejo) en la branch de Entrega-Final.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Entrega-Final. 
 Marcar como "closed" sus issues asignados cuando finalicen una actividad. 
-
-**Product backlog:** *Maldonado Medina Hansony de Jesús.*
-Actividad: Establecer el orden en que se realizarán los prototipos de cada historia de usuario. Escribir: "Historia de usuario #número: 1 (orden).
 
 **Corrector de redacción:** *Suárez Balam Brandon Emmanuel.*
 Actividad: Corregir la redacción de los casos de uso, de las actividades de la sección "Producto" y "Competencias". 
-
-**Congruencia en los casos de uso:** *Suárez Balam Brandon Emmanuel.*
-Actividad: Revisar que los casos de uso guarden congruencia entre sí, con las historias de usuario y con los requerimientos. 
 
 ### *Sección  "Producto"*
 
@@ -245,11 +239,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTk4NDM1MywtMTE4Mzk2MTMwLDkwMz
-Y0NjczMCw4NjUxNDE2NzYsLTkzNTA5MTU4NSwxODk1MTE4NTU2
-LC03MTA2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0ODk0MCwtOD
-k0NzI0MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5NiwxNTY3NzAy
-NTY5LDEzODkzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLD
-E3MTAzOTgzOTQsMTExNjU4MDA5NiwtNjI3NjgzNzg3LC0xNTI3
-MjgzNzkyXX0=
+eyJoaXN0b3J5IjpbLTE2NzUxNDMxMDYsLTExODM5NjEzMCw5MD
+M2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NTExODU1
+NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5NDAsLT
+g5NDcyNDExOCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMTU2Nzcw
+MjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUwMzM4MC
+wxNzEwMzk4Mzk0LDExMTY1ODAwOTYsLTYyNzY4Mzc4NywtMTUy
+NzI4Mzc5Ml19
 -->
