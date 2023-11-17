@@ -189,6 +189,12 @@ Ejemplo de caso de uso
 > **Tema:** *Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
 
 ### Información
+Uno de los métodos asociados a la interfaz de usuario es el método de evaluación heurística. Esta técnica implica tener a expertos en usabilidad revisando la interfaz en busca de posibles problemas de diseño. Los expertos aplican un conjunto de principios (llamados heurísticas) establecidos por Jakob Nielsen u otros especialistas en UX para identificar y solucionar problemas de usabilidad.
+
+ 
+Por ejemplo, podrían evaluar la consistencia de la interfaz, la correspondencia entre el sistema y el mundo real, la flexibilidad y eficiencia del uso, entre otros criterios. Este método suele involucrar a varios revisores que examinan la interfaz por separado y luego consolidan sus hallazgos para generar una lista de problemas y posibles soluciones.
+
+Al finalizar, se proporciona un informe detallado con recomendaciones para mejorar la usabilidad de la interfaz, lo que permite realizar ajustes y optimizaciones antes del lanzamiento del producto.
 
 ---
 
@@ -374,5 +380,5 @@ Santander. (2021).Soft skills <br>https://www.santander.com/es/stories/soft-skil
 
 NIST.(2020).Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)<br>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4MDU2Mjc2XX0=
+eyJoaXN0b3J5IjpbODEyMzk0MjI0XX0=
 -->
