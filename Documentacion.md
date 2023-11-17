@@ -347,8 +347,127 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ### Información
 
+
+## Scrum  
+
+Scrum es un marco de trabajo ágil utilizado en el desarrollo de software y en proyectos que requieren flexibilidad y adaptabilidad a los cambios.
+
+  
+
+**1. Roles:**
+
+- Product Owner: Representa los intereses del cliente y define las funcionalidades del producto.
+
+- Scrum Master: Facilita el proceso y elimina obstáculos para el equipo.
+
+- Equipo de Desarrollo: Profesionales encargados de entregar el producto al final de cada iteración.
+
+  
+
+**2. Eventos:**
+
+- Sprint: Período de tiempo (generalmente 2-4 semanas) durante el cual se realiza el trabajo y se entrega un incremento del producto.
+
+- Reunión de Planificación del Sprint: Define qué se va a hacer durante el Sprint.
+
+- Reunión Diaria: Breve encuentro diario para sincronizar actividades.
+
+- Revisión del Sprint: Revisión del trabajo completado y adaptación del backlog del producto.
+
+- Retrospectiva del Sprint: Reflexión sobre el rendimiento del equipo y mejora continua.
+
+  
+
+**3. Artefactos:**
+
+- Product Backlog: Lista priorizada de funcionalidades pendientes.
+
+- Sprint Backlog: Conjunto de elementos seleccionados para el Sprint.
+
+- Incremento: Producto potencialmente entregable al final de cada Sprint.
+
+  
+
+**4. Principios:**
+
+- Transparencia: La información clave está disponible para todos.
+
+- Inspección: Se realizan inspecciones frecuentes para detectar variaciones.
+
+- Adaptación: Se ajusta el proceso según sea necesario.
+
+Scrum se basa en la iteración y la colaboración constante, permitiendo la entrega incremental y continua del producto, lo que lo hace especialmente efectivo en entornos en los que los requisitos pueden cambiar o evolucionar con el tiempo.
+
+Estos principios pueden implementarse en nuestro proyecto de diferentes formas como:
+
+-   Todos los requerimientos están disponibles para todo el equipo de trabajo y para el cliente, por lo que si un requerimiento es ambiguo o necesita ser modificado todos podrán estar enterados y opinar.
+    
+-   El código y los requerimientos podrán ser vistos por todos los integrantes del equipo de trabajo en el repositorio de Github.
+    
+-   Estaremos verificando los errores de forma frecuente entre todos y solo añadir al repositorio los trabajos en la aplicación que ya estén verificados con anterioridad.
+    
+-   Las ventanas tendrán que ser aprobadas por la mayoría del equipo de trabajo para poder ser implementadas.
+    
+-   Si alguna ventana o trabajo necesita ser reutilizada o necesita usar algún método distinto, será aceptado si influye en el correcto proceso de la aplicación.
+
+## Kanban
+
+Kanban es una metodología ágil que se originó en el ámbito de la fabricación y se ha adaptado con éxito al desarrollo de software y a diversos proyectos. Algunos principios básicos de la metodología ágil Kanban son:
+
+**1. Visualización del Trabajo:**
+
+- Los elementos de trabajo se representan visualmente en un tablero Kanban, divididos en columnas que representan diferentes etapas del proceso.
+
+**2. Límites de Trabajo en Proceso (WIP):**
+
+- Se establece un límite en la cantidad de elementos que pueden estar en curso en cada columna. Esto ayuda a evitar la sobrecarga y a mantener un flujo constante.
+
+**3. Gestión del Flujo:**
+
+- El énfasis está en mantener un flujo de trabajo continuo, evitando cuellos de botella y optimizando la eficiencia.
+
+**4. Feedback Continuo:**
+
+- Se fomenta el feedback constante para mejorar el proceso. La retroalimentación se utiliza para realizar ajustes y mejoras continuas.
+
+**5. Priorización Basada en Valor:**
+
+- Los elementos en el tablero Kanban se priorizan según su valor, y se trabaja en aquellos que tienen mayor prioridad.
+
+**6. Flexibilidad y Adaptabilidad:**
+
+- Kanban se adapta a cambios en los requisitos o prioridades de manera fluida. No hay iteraciones fijas (como en Scrum), lo que permite una mayor flexibilidad.
+
+**7. Enfoque en la Eficiencia:**
+
+- Kanban busca mejorar constantemente la eficiencia y la calidad del trabajo entregado.
+
+**8. Roles Flexibles:**
+
+- A diferencia de Scrum, Kanban no define roles específicos. Las responsabilidades pueden variar según las necesidades del equipo.  
+
+Kanban es especialmente adecuado para equipos que trabajan en entornos con demanda variable y flujos de trabajo no predecibles. La visualización del trabajo y la limitación de WIP son características clave que ayudan a mantener un flujo constante y a identificar áreas de mejora. Cabe destacar que, si bien Kanban comparte principios ágiles, es diferente de Scrum en términos de roles, eventos y artefactos.
+
+Estos principios pueden implementarse en nuestro proyecto de diferentes formas como:
+
+-   Los elementos del trabajo podrán ser visualizados por todo el equipo en el repositorio de Github.
+    
+-   Cada tarea o issue tendrá una fecha límite, para que así todos los integrantes vayan a un ritmo constante y similar y poder ser eficaces.
+    
+-   Entre los del equipo podremos corregir algunos errores de otros integrantes y así conseguir un mejor proyecto y fomentando la retroalimentación y el aprendizaje continuo.
+    
+-   Tenemos una tabla para trabajar (Product backlog) según la prioridad de cada historia de usuario, y así enfocarnos primero en lo más importante.
+    
+-   Podremos cambiar los requisitos en cualquier instante ya que no contaremos con iteraciones fijas en la elaboración del proyecto.
+    
+-   Todos podremos trabajar en distintas áreas sin tener que tener roles específicos y así que cada integrante del equipo obtenga experiencia tanto para redactar, codificar, la elaboración de las ventanas, de testearlas, etc.
+
 ---
 ## Referencias
+
+Apd, R. (2022, 13 enero). Cómo aplicar la metodología Scrum y qué es el método Scrum. APD España. https://www.apd.es/metodologia-scrum-que-es/
+    
+Apd, R. (2021, 24 junio). ¿En qué consiste la metodología Kanban y cómo utilizarla? APD España. https://www.apd.es/metodologia-kanban/
 
 Arrizabalaga, I. (5 de octubre de 2021). _Problemas de Agile por los que esta metodología sigue fallando (y sus soluciones)._ axiateam. https://www.axiateam.com/problemas-de-agile-por-los-que-esta-metodologia-sigue-fallando-y-sus-soluciones/
 
@@ -356,9 +475,13 @@ Arthur Mauricio. (s.f). Casos de uso y Historias de usuario. _Ouracademy._ https
 
 Cano, A., F.(2013)_Tecnicas estaticas.https://es.slideshare.net/juanestebanpuertacano/tcnicas-estticas
 
+Catalunya, U. O. (2012, 18 junio). Metodología Scrum. http://hdl.handle.net/10609/17885
+
 Chaves, M. A. (2005). _La ingeniería de requerimientos y su importancia en el desarrollo de proyectos de software_. Redalyc.org. https://www.redalyc.org/articulo.oa?id=66612870011
 
 EBF. (11 de septiembre de 2019). _Ventajas y desventajas de las metodologías Agile (ágiles)._ EBF. https://ebf.com.es/blog/ventajas-y-desventajas-de-las-metodologias-agiles-y-su-aplicacion-en-el-tra
+
+Gilibets, L. (2023, 12 enero). Qué es Kanban y cómo utilizarlo en el desarrollo de proyectos. Thinking for Innovation. https://www.iebschool.com/blog/metodologia-kanban-agile-scrum/
 
 Gonzalez, F. (30 de septiembre de 2019). Casos de Uso: La alternativa a historia de usuario. _Somospnt_. https://somospnt.com/blog/104-casos-de-uso-una-alternativa-diferente#:~:text=Mientras%20que%20en%20una%20historia,y%20respuestas%20de%20nuestro%20sistema.
 
@@ -366,19 +489,28 @@ Laoyan, S. (26 de septiembre de 2022). _Cómo organizar tu stand up meeting o da
 
 Marco de Desarrollo de la Junta de Andalucía. (s. f). _Guía para la redacción de casos de uso. Junta de Andalucía._ https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416
 
+Martins, J. (2023, 19 junio). Scrum: conceptos clave y cómo se aplica en la gestión de proyectos [2023] • Asana. Asana. https://asana.com/es/resources/what-is-scrum
+    
+Martins, J. (2022, 10 octubre). ¿Qué es la metodología Kanban y cómo funciona? [2022] • Asana. Asana. https://asana.com/es/resources/what-is-kanban
+
+NIST.(2020).Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)<br>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf 
+
 Oliveros, A. (2002). _Herramienta para implementar LEL y escenarios (TILS)_. http://sedici.unlp.edu.ar/handle/10915/4057
 
 Sanchez J., M.(2015)._Pruebas de sofware. Fundamentos y técnicas. https://oa.upm.es/40012/1/PFC_JOSE_MANUEL_SANCHEZ_PENO_3.pdf
+
+Santander. (2021).Soft skills. https://www.santander.com/es/stories/soft-skills-el-concepto-que-revoluciona-los-perfiles-profesionales 
 
 Scrum Manager®. (2018). _Historias de Usuario._ https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 Scrum Mexico. (2 de agosto de 2018). _Escribiendo Historias de Usuario_. Scrum Mexico. https://scrum.mx/informate/historias-de-usuario
 
-Yepply.(2023). ¿Cuáles son las Habilidades más demandadas de los Desarrolladores de Software? <br>https://www.linkedin.com/pulse/cu%C3%A1les-son-las-habilidades-m%C3%A1s-demandadas-de-los-desarrolladores-1e/?originalSubdomain=es 
+Yepply.(2023). ¿Cuáles son las Habilidades más demandadas de los Desarrolladores de Software? https://www.linkedin.com/pulse/cu%C3%A1les-son-las-habilidades-m%C3%A1s-demandadas-de-los-desarrolladores-1e/?originalSubdomain=es 
 
-Santander. (2021).Soft skills <br>https://www.santander.com/es/stories/soft-skills-el-concepto-que-revoluciona-los-perfiles-profesionales 
 
-NIST.(2020).Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)<br>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyMzk0MjI0XX0=
--->
+
+
+
+    
+    
+
