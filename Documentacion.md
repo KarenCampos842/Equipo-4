@@ -341,9 +341,8 @@ Para el siguiente sprint programar las actividades de tal forma que se tengan al
 
 ### Información
 
-Scrum
 
-  
+## Scrum  
 
 Scrum es un marco de trabajo ágil utilizado en el desarrollo de software y en proyectos que requieren flexibilidad y adaptabilidad a los cambios.
 
@@ -385,7 +384,7 @@ Scrum es un marco de trabajo ágil utilizado en el desarrollo de software y en p
 
 4. Principios:
 
-- Transparencia:La información clave está disponible para todos.
+- Transparencia: La información clave está disponible para todos.
 
 - Inspección: Se realizan inspecciones frecuentes para detectar variaciones.
 
@@ -394,8 +393,6 @@ Scrum es un marco de trabajo ágil utilizado en el desarrollo de software y en p
   
 
 Scrum se basa en la iteración y la colaboración constante, permitiendo la entrega incremental y continua del producto, lo que lo hace especialmente efectivo en entornos en los que los requisitos pueden cambiar o evolucionar con el tiempo.
-
-  
 
 Estos principios pueden implementarse en nuestro proyecto de diferentes formas como:
 
@@ -408,6 +405,9 @@ Estos principios pueden implementarse en nuestro proyecto de diferentes formas c
 -   Las ventanas tendrán que ser aprobadas por la mayoría del equipo de trabajo para poder ser implementadas.
     
 -   Si alguna ventana o trabajo necesita ser reutilizada o necesita usar algún método distinto, será aceptado si influye en el correcto proceso de la aplicación.
+
+## Heading
+
 
 ---
 ## Referencias
@@ -442,5 +442,5 @@ Santander. (2021).Soft skills <br>https://www.santander.com/es/stories/soft-skil
 
 NIST.(2020).Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)<br>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTA1OTYyN119
+eyJoaXN0b3J5IjpbLTE4MDE0OTkxMjUsMTQxNTA1OTYyN119
 -->
