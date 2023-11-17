@@ -406,7 +406,76 @@ Estos principios pueden implementarse en nuestro proyecto de diferentes formas c
     
 -   Si alguna ventana o trabajo necesita ser reutilizada o necesita usar algún método distinto, será aceptado si influye en el correcto proceso de la aplicación.
 
-## Heading
+## Kanban
+Kanban es una metodología ágil que se originó en el ámbito de la fabricación y se ha adaptado con éxito al desarrollo de software y a diversos proyectos. A continuación, se describen los principios básicos de la metodología ágil Kanban:
+
+  
+
+1. Visualización del Trabajo:
+
+- Los elementos de trabajo se representan visualmente en un tablero Kanban, divididos en columnas que representan diferentes etapas del proceso.
+
+  
+
+2. Límites de Trabajo en Proceso (WIP):
+
+- Se establece un límite en la cantidad de elementos que pueden estar en curso en cada columna. Esto ayuda a evitar la sobrecarga y a mantener un flujo constante.
+
+3. Gestión del Flujo:
+
+- El énfasis está en mantener un flujo de trabajo continuo, evitando cuellos de botella y optimizando la eficiencia.
+
+4. Feedback Continuo:
+
+- Se fomenta el feedback constante para mejorar el proceso. La retroalimentación se utiliza para realizar ajustes y mejoras continuas.
+
+5. Priorización Basada en Valor:
+
+- Los elementos en el tablero Kanban se priorizan según su valor, y se trabaja en aquellos que tienen mayor prioridad.
+
+  
+
+6. Flexibilidad y Adaptabilidad:
+
+- Kanban se adapta a cambios en los requisitos o prioridades de manera fluida. No hay iteraciones fijas (como en Scrum), lo que permite una mayor flexibilidad.
+
+  
+
+7. Enfoque en la Eficiencia:
+
+- Kanban busca mejorar constantemente la eficiencia y la calidad del trabajo entregado.
+
+8. Roles Flexibles:
+
+- A diferencia de Scrum, Kanban no define roles específicos. Las responsabilidades pueden variar según las necesidades del equipo.  
+
+Kanban es especialmente adecuado para equipos que trabajan en entornos con demanda variable y flujos de trabajo no predecibles. La visualización del trabajo y la limitación de WIP son características clave que ayudan a mantener un flujo constante y a identificar áreas de mejora. Cabe destacar que, si bien Kanban comparte principios ágiles, es diferente de Scrum en términos de roles, eventos y artefactos.
+
+Estos principios pueden implementarse en nuestro proyecto de diferentes formas como:
+
+-   Los elementos del trabajo podrán ser visualizados por todo el equipo en el repositorio de Github.
+    
+-   Cada tarea o issue tendrá una fecha límite, para que así todos los integrantes vayan a un ritmo constante y similar y poder ser eficaces.
+    
+-   Entre los del equipo podremos corregir algunos errores de otros integrantes y así conseguir un mejor proyecto y fomentando la retroalimentación y el aprendizaje continuo.
+    
+-   Tenemos una tabla para trabajar (Product backlog) según la prioridad de cada historia de usuario, y así enfocarnos primero en lo más importante.
+    
+-   Podremos cambiar los requisitos en cualquier instante ya que no contaremos con iteraciones fijas en la elaboración del proyecto.
+    
+-   Todos podremos trabajar en distintas áreas sin tener que tener roles específicos y así que cada integrante del equipo obtenga experiencia tanto para redactar, codificar, la elaboración de las ventanas, de testearlas, etc.
+
+-   De Catalunya, U. O. (2012, 18 junio). Metodología Scrum. http://hdl.handle.net/10609/17885
+    
+-   Martins, J. (2023, 19 junio). Scrum: conceptos clave y cómo se aplica en la gestión de proyectos [2023] • Asana. Asana. https://asana.com/es/resources/what-is-scrum
+    
+-   Apd, R. (2022, 13 enero). Cómo aplicar la metodología Scrum y qué es el método Scrum. APD España. https://www.apd.es/metodologia-scrum-que-es/
+    
+-   Martins, J. (2022, 10 octubre). ¿Qué es la metodología Kanban y cómo funciona? [2022] • Asana. Asana. https://asana.com/es/resources/what-is-kanban
+    
+-   Gilibets, L. (2023, 12 enero). Qué es Kanban y cómo utilizarlo en el desarrollo de proyectos. Thinking for Innovation. https://www.iebschool.com/blog/metodologia-kanban-agile-scrum/
+    
+-   Apd, R. (2021, 24 junio). ¿En qué consiste la metodología Kanban y cómo utilizarla? APD España. https://www.apd.es/metodologia-kanban/
 
 
 ---
@@ -442,5 +511,5 @@ Santander. (2021).Soft skills <br>https://www.santander.com/es/stories/soft-skil
 
 NIST.(2020).Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)<br>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE0OTkxMjUsMTQxNTA1OTYyN119
+eyJoaXN0b3J5IjpbODY5MjQ0NTA4LDE0MTUwNTk2MjddfQ==
 -->
