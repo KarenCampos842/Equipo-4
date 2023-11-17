@@ -6,7 +6,7 @@
 <div>
 
  ### Herramientas utilizadas
- WhatsApp, Teams, GitHub, GitKraken, StackEdit, Figma.
+ WhatsApp, Teams, GitHub, StackEdit, Figma.
   ### Metodología utilizada: SCRUM[^1].
   ## Roles
   ### Scrum Team (equipo de trabajo)
@@ -46,10 +46,10 @@
 
 
 ## Sprint planning (second sprint) 
-### Duración del sprint: 10 días
-**(27/10/2023) - (5/11/2023)**
+### Duración del sprint: 12 días
+**(18/11/2023) - (29/11/2023)**
 
-***NOTA:*** Se encontrarán archivos para cada sección en la que el trabajo está dividido (se dividió acorde a la lista de cotejo) en la branch de Segunda-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
+***NOTA:*** Se encontrarán archivos para cada sección en la que el trabajo está dividido (se dividió acorde a la lista de cotejo) en la branch de Entrega-Final.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Segunda-Entrega. 
 Marcar como "closed" sus issues asignados cuando finalicen una actividad. 
 
 **Product backlog:** *Maldonado Medina Hansony de Jesús.*
@@ -245,7 +245,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTAyMzg1NywtMTE4Mzk2MTMwLDkwMz
+eyJoaXN0b3J5IjpbMTUxOTk4NDM1MywtMTE4Mzk2MTMwLDkwMz
 Y0NjczMCw4NjUxNDE2NzYsLTkzNTA5MTU4NSwxODk1MTE4NTU2
 LC03MTA2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0ODk0MCwtOD
 k0NzI0MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5NiwxNTY3NzAy
