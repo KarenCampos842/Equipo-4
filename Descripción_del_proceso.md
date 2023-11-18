@@ -95,8 +95,28 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
  - **Innovación:** 
 --Describir la contribución del producto (en qué contribuye, cómo lo hace, quiénes son los beneficiarios). 
 --Escribir las diferencias de WorkFlash con respecto a otras propuestas existentes. ¿Qué incluye este producto que no hacen otros? ¿En una necesidad identificada? 
---Responder: ¿Por qué se podrían considerar original la contribución?
+--Responder: ¿Por qué se podría considerar original la contribución?
  
+ Se sugiere utilizar la ésta plantilla para 
+ <table align=center>  
+   <tr>  
+      <th>Tipo de usuario</th>  
+      <th>Género</th> 
+      <th>Edad</th>
+      <th>Ocupación</th>
+      <th>Ubicación Geográfica</th>
+       <th>Escenario</th>
+   </tr> 
+    <tr>  
+      <td>(Primario, secundario o potencial) </td>  
+       <td> x</td> 
+       <td> x</td> 
+       <td> (estudiante universitario, mecánico...)</td> 
+       <td>x</td>
+       <td>(ejemplo de una situación en la que el usuario utilizaría la app)</td> 
+   </tr> 
+ </table>      
+ <br>
   **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a>  
  
 ### *Sección "Requisitos"*
@@ -269,7 +289,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ5MDAxMzEsLTEwNDAwMzc5NiwtOT
+eyJoaXN0b3J5IjpbLTE4MDEyMzA5MDQsLTEwNDAwMzc5NiwtOT
 A2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3
 MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NTExODU1NiwtNz
 EwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5NDAsLTg5NDcy
