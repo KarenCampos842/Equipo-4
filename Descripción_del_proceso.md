@@ -265,6 +265,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  - **Sketch:** Realizar los diálogos para el sketch. Los personajes principales serán el cliente y el trabajador. 
 El sketch consistirá en dos situaciones, una dónde se represente el problema/necesidad que pretende suplir WorkFlash  y otra final en dónde la situación se haya resuelto utilizando la aplicación (**3 minutos máximo**).  
  - **Diálogo (producto):** Describir el producto (en qué consiste WorkFlash, a quiénes va dirigido, beneficios, etc.).  Guiarse de lo escrito en ***Evolución de producto.*** 
+ -   **Diálogo (diferenciadores):** Describir las características que tiene 
  -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
  - **Audios:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  
   
@@ -308,7 +309,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODI4NTExMiw5Mjk5NTUzNSwtMTUzMD
+eyJoaXN0b3J5IjpbMTE4OTAyMzc1Niw5Mjk5NTUzNSwtMTUzMD
 Q5MDQ1NCwtMTQ3OTcxOTI1NCw2MTM1MTk4ODQsLTExNTYzNDQ0
 NTAsNzM2Njg4NDAwLC0xMDc1OTE0MDE3LC0yMDQ3OTQ1MjcsMT
 gwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5MTMsLTEwNDAw
