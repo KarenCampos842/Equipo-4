@@ -221,7 +221,10 @@ Utilizar la siguiente plantilla:
  --Escribir un protocolo que permita replicar la prueba de forma estandarizada entre los "testers". 
 -Realizar un cuestionario de satisfacción.
 - **Aplicación de pruebas y cuestionario**:  Realizar las pruebas diseñadas con usuarios primarios y aplicar el cuestionario de satisfacción. Cada miembro del equipo realizará las pruebas y el cuestionario con un usuario primario (como equipo se habrá recolectado información de 6 usuarios primarios). 
-**Resultados:** Se analizan los indicadores que permitan verificar si los requerimientos (funcionales y no funcionales) se alcanzaron. Se puede determinar el grado de alcance de los requerimientos. Es posible identificar mejoras en las interfaces o flujos a partir de los resultados. Se determinan de forma específica los cambios/mejoras a las interfaces basados en los resultados de las pruebas.
+**Resultados:** Analizan los indicadores que permitan verificar si los requerimientos (funcionales y no funcionales) se alcanzaron. Se puede determinar el grado de alcance de los requerimientos. 
+
+
+Es posible identificar mejoras en las interfaces o flujos a partir de los resultados. Se determinan de forma específica los cambios/mejoras a las interfaces basados en los resultados de las pruebas.
 
 ### *Sección "Proceso"*
 
@@ -290,7 +293,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjM5NDk4MjcsLTIwNDc5NDUyNywxOD
+eyJoaXN0b3J5IjpbLTEwNzU5MTQwMTcsLTIwNDc5NDUyNywxOD
 AzMDUxNDYzLC01MjY4NTQ0MDAsMTkwNDg4MzkxMywtMTA0MDAz
 Nzk2LC05MDY1MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2MTMwLD
 kwMzY0NjczMCw4NjUxNDE2NzYsLTkzNTA5MTU4NSwxODk1MTE4
