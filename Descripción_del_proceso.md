@@ -129,18 +129,8 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
 
 **Actividades**
  - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad.
- - ** Refinamiento de artefactos:** Se cuenta con artefactos que especifican los requerimientos/historias de usuario, incluye excepciones a considerar (casos de uso, historias de usuario con criterios de aceptación).
+ - **Refinamiento de artefactos:** Modificar los casos de uso (incluir excepciones). 
   
-**Actividades**
- - **Historias de usuario:**  Realizar las historias de usuario con criterios de aceptación utilizando la guía de SCRUM[^2]. 
- - **Casos de uso (historias de usuario número 1, 2, 8 y 15):** Elaborar los casos de uso derivados de las historias de usuario.
- -  **Casos de uso (historias de usuario número 11, 12 , 13 y 14):** Elaborar los casos de uso derivados de las historias de usuario.
- - **Diagrama de Caso de Uso:** Realizar un diagrama que resuma el conjunto de requerimientos.
- -    **Casos de uso (historias de usuario número 6, 7, 9  y 10):** Elaborar los casos de uso derivados de las historias de usuario.
- -   **Casos de uso (historias de usuario número 3, 4, 5  y 16):** Elaborar los casos de uso derivados de las historias de usuario.
- 
- ***NOTA:*** Para realizar los casos de uso deben de leer detenidamente las <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#historias-de-usuarios2 ">historias de usuario </a> y los <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requerimientos-funcionales ">requerimientos </a>ubicados en el archivo de Requisitos.md en la rama de Segunda-Entrega.
- 
 Utilizar como guía este ejemplo de <a href="https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416">caso de uso</a> [^3]  
 Utilizar la siguiente plantilla:
  </table>
@@ -281,11 +271,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwODQ3OTA5LDE5MDQ4ODM5MTMsLTEwND
-AwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEz
-MCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NT
-ExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5
-NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMT
-U2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUw
-MzM4MF19
+eyJoaXN0b3J5IjpbMTY4MTcwOTA3NywxOTA0ODgzOTEzLC0xMD
+QwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYx
+MzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OT
+UxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4
+OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4MTk2Nzk2LD
+E1Njc3MDI1NjksMTM4OTM5MjM1NiwtNDE5ODc4NzExLDEyODg1
+MDMzODBdfQ==
 -->
