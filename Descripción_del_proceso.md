@@ -263,6 +263,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  **Actividades**
  - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
  - **Diálogos:** Realizar los diálogos para el video. Tomar en cuenta lo solicitado en Edición del video (cada integrante reali. 
+ - - **Di:** Realizar los diálogos para el video. Tomar en cuenta lo solicitado en Edición del video (cada integrante reali. 
  - **Audios:** Grabar los audios de los diálogos (cada uno graba su audio (2 min ).  
   
  **Archivo del trabajo/Resultado:**  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>
@@ -305,11 +306,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNj
-Y4ODQwMCwtMTA3NTkxNDAxNywtMjA0Nzk0NTI3LDE4MDMwNTE0
-NjMsLTUyNjg1NDQwMCwxOTA0ODgzOTEzLC0xMDQwMDM3OTYsLT
-kwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2
-NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OTUxMTg1NTYsLT
-cxMDYzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4OTQwLC04OTQ3
-MjQxMThdfQ==
+eyJoaXN0b3J5IjpbLTEyMTg5NTc5MTQsNjEzNTE5ODg0LC0xMT
+U2MzQ0NDUwLDczNjY4ODQwMCwtMTA3NTkxNDAxNywtMjA0Nzk0
+NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgzOTEzLC
+0xMDQwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgz
+OTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LD
+E4OTUxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOCwtNjgz
+MDQ4OTQwXX0=
 -->
