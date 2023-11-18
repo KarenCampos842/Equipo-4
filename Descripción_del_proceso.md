@@ -68,7 +68,7 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
   - **Usuarios:** 
  Identificar de forma clara los usuarios primarios, secundarios y/o potenciales. 
 
-Se sugiere utilizar la siguiente plantilla (agregar más columnas si : 
+Se sugiere utilizar la siguiente plantilla (agregar más columnas si se considera necesario): 
 
 <table align=center>  
    <tr>  
@@ -260,11 +260,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA3ODkxODMsLTEwNDAwMzc5NiwtOT
-A2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3
-MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NTExODU1NiwtNz
-EwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5NDAsLTg5NDcy
-NDExOCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMTU2NzcwMjU2OS
-wxMzg5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUwMzM4MCwxNzEw
-Mzk4Mzk0XX0=
+eyJoaXN0b3J5IjpbLTQ5MjY5MTI1NywtMTA0MDAzNzk2LC05MD
+Y1MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2MTMwLDkwMzY0Njcz
+MCw4NjUxNDE2NzYsLTkzNTA5MTU4NSwxODk1MTE4NTU2LC03MT
+A2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0ODk0MCwtODk0NzI0
+MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5NiwxNTY3NzAyNTY5LD
+EzODkzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLDE3MTAz
+OTgzOTRdfQ==
 -->
