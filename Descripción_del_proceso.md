@@ -266,7 +266,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
 El sketch consistirá en dos situaciones, una dónde se represente el problema/necesidad que pretende suplir WorkFlash  y otra final en dónde la situación se haya resuelto utilizando la aplicación (**3 minutos**).  
  - **Diálogo producto (2 min):** Describir el producto (en qué consiste WorkFlash, a quiénes va dirigido, beneficios, etc.).  Guiarse de lo escrito en el archivo  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a>  
  -   **Diálogo diferenciadores (1 min):** Describir las características que tiene WorkFlash que la diferencian de otras apps. Lo que ofrece nuestra aplicación que otras no tienen Guiarse de lo escrito en el partado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Innovación</a>.
- -   **Diálogo interfaz (1 min):** Describir las funcionalidades principales de la app (un recorrido rápido por la aplicación). Guiarse del  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Innovación</a>.
+ -   **Diálogo interfaz (1 min):** Describir las funcionalidades principales de la app (un recorrido rápido por la aplicación). Utilizar como guía las <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">interfaces</a>.
  -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
  - **Audios:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  
   
@@ -310,7 +310,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDY3ODEzNSwxOTczMzQxMzU5LDkyOT
+eyJoaXN0b3J5IjpbLTY3ODIyOTg3NCwxOTczMzQxMzU5LDkyOT
 k1NTM1LC0xNTMwNDkwNDU0LC0xNDc5NzE5MjU0LDYxMzUxOTg4
 NCwtMTE1NjM0NDQ1MCw3MzY2ODg0MDAsLTEwNzU5MTQwMTcsLT
 IwNDc5NDUyNywxODAzMDUxNDYzLC01MjY4NTQ0MDAsMTkwNDg4
