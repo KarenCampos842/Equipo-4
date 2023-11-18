@@ -288,10 +288,12 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
 
 ### *Sección "Demo"*
 **Responsable**
-*Cárdenas Rojas Kendrick Asaf:* Sección Demo
+*Cárdenas Rojas Kendrick Asaf:* Sección Demo.
 
 **Actividades:** 
-**Edición:** Grabar un video mostrando cómo se debe usar la aplicación. Mos
+
+ - **Edición demo:** Grabar un video mostrando cómo se debe usar la aplicación. Mostrar la navegación por la aplicación. 
+ - Realizar 
 
  **Archivo del trabajo/Resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>
  
@@ -314,7 +316,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjYzNjExNDIsLTc2NTI2NDYxNSwxOT
+eyJoaXN0b3J5IjpbLTEwNzEyNTM5NDUsLTc2NTI2NDYxNSwxOT
 czMzQxMzU5LDkyOTk1NTM1LC0xNTMwNDkwNDU0LC0xNDc5NzE5
 MjU0LDYxMzUxOTg4NCwtMTE1NjM0NDQ1MCw3MzY2ODg0MDAsLT
 EwNzU5MTQwMTcsLTIwNDc5NDUyNywxODAzMDUxNDYzLC01MjY4
