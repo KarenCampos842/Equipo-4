@@ -219,8 +219,8 @@ Utilizar la siguiente plantilla:
  --Diseñar pruebas informales, identificar los indicadores más relevantes que serán recolectados.
  --Verificar que los indicadores corresponden a los objetivos del principales del producto. 
  --Escribir un protocolo que permita replicar la prueba de forma estandarizada entre los "testers". 
-- **Cuestionario de satisfacción:** Realizar un cuestionario de satisfacción.
-- **Pruebas**:  Realizar las pruebas diseñadas con usuarios primarios. Cada miembro del equipo realizará las pruebas con un usuario primario. 
+-Realizar un cuestionario de satisfacción.
+- **Pruebas**:  Realizar las pruebas diseñadas con usuarios primarios y aplicar el cuestionario de satisfacción. Cada miembro del equipo realizará las pruebas y el cuestionario con un usuario primario . 
 
 
 
@@ -291,11 +291,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDUxNzMwMTUsLTIwNDc5NDUyNywxOD
-AzMDUxNDYzLC01MjY4NTQ0MDAsMTkwNDg4MzkxMywtMTA0MDAz
-Nzk2LC05MDY1MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2MTMwLD
-kwMzY0NjczMCw4NjUxNDE2NzYsLTkzNTA5MTU4NSwxODk1MTE4
-NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0ODk0MC
-wtODk0NzI0MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5NiwxNTY3
-NzAyNTY5XX0=
+eyJoaXN0b3J5IjpbMzk5NDc4NTIyLC0yMDQ3OTQ1MjcsMTgwMz
+A1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5
+NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEzMCw5MD
+M2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NTExODU1
+NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5NDAsLT
+g5NDcyNDExOCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMTU2Nzcw
+MjU2OV19
 -->
