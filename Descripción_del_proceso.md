@@ -101,25 +101,15 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
 
  <table align=center>  
    <tr>  
-      <th>Necesidad</th>
-      <th>Característica</th>  
-      <th>WorkFlash</th> 
-      <th>Edad</th>
-      <th>Ocupación</th>
-      <th>Ubicación Geográfica</th>
-       <th>Escenario</th>
+  <th colspan=4>Necesidad</th>
    </tr> 
    <tr>  
-      <th>Necesidad</th>
-      <th>Característica</th>  
+     <th>Característica</th>  
       <th>WorkFlash</th> 
-      <th>Edad</th>
-      <th>Ocupación</th>
-      <th>Ubicación Geográfica</th>
-       <th>Escenario</th>
+      <th>Competencia</th>
+      <th>Competencia</th>
    </tr> 
-    <tr>  
-      <td>(Primario, secundario o potencial) </td>  
+    <tr>   
        <td> x</td> 
        <td> x</td> 
        <td> (estudiante universitario, mecánico...)</td> 
@@ -300,7 +290,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2MTI4ODgzLDE5MDQ4ODM5MTMsLTEwND
+eyJoaXN0b3J5IjpbMTY3ODM3OTE2LDE5MDQ4ODM5MTMsLTEwND
 AwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEz
 MCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NT
 ExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5
