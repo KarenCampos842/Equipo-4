@@ -109,12 +109,12 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
       <th>Competencia</th>
       <th>Competencia</th>
    </tr> 
-    <tr>   
-       <td> x</td> 
-       <td> x</td> 
-       <td> (estudiante universitario, mecánico...)</td> 
-       <td>x</td>
-       <td>(ejemplo de una situación en la que el usuario utilizaría la app)</td> 
+    <tr> 
+    <td>(descripción breve de una característica/funcionalidad)</td>  
+      <td> x ("</td> 
+      <td> </td> 
+      <td></td>
+       
    </tr> 
  </table>      
  <br>
@@ -290,11 +290,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODM3OTE2LDE5MDQ4ODM5MTMsLTEwND
-AwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEz
-MCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NT
-ExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5
-NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMT
-U2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUw
-MzM4MF19
+eyJoaXN0b3J5IjpbLTE3NjUwNjcwMjcsMTkwNDg4MzkxMywtMT
+A0MDAzNzk2LC05MDY1MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2
+MTMwLDkwMzY0NjczMCw4NjUxNDE2NzYsLTkzNTA5MTU4NSwxOD
+k1MTE4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0
+ODk0MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5Ni
+wxNTY3NzAyNTY5LDEzODkzOTIzNTYsLTQxOTg3ODcxMSwxMjg4
+NTAzMzgwXX0=
 -->
