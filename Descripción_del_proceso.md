@@ -65,10 +65,11 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
   
  - **Evolución del producto:** Resumen de los cambios completados del producto entre la PRIMERA, SEGUNDA y TERCERA entrega. Mencionar de manera sintetizada los cambios más significativos en los **requerimientos** y **artefactos** y que se cuenta con **evidencia**. 
  
-  - **Usuarios:** 
- Identificar de forma clara los usuarios primarios, secundarios y/o potenciales. 
-Presentar información básica del perfil de los usuarios (rango de edad, ubicación geográfica, género...). 
-Ésta parte será una descripción de forma generalizada. 
+ - **Usuarios:** 
+ -- Identificar de forma clara los usuarios primarios, secundarios y/o potenciales. 
+ -- Presentar información básica del perfil de los usuarios (rango de edad, ubicación geográfica, género...). 
+Ésta parte será una descripción de forma generalizada.
+ --Perfiles, personas, escenarios
 
 Se sugiere utilizar la siguiente plantilla (agregar más columnas si se considera necesario): 
 
@@ -262,11 +263,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3MjcyMzYsLTEwNDAwMzc5NiwtOTA2NT
-M2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3MzAs
-ODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NTExODU1NiwtNzEwNj
-M2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5NDAsLTg5NDcyNDEx
-OCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMTU2NzcwMjU2OSwxMz
-g5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4
-Mzk0XX0=
+eyJoaXN0b3J5IjpbNzQyMzk5MDAxLC0xMDQwMDM3OTYsLTkwNj
+UzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2NzMw
+LDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OTUxMTg1NTYsLTcxMD
+YzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4OTQwLC04OTQ3MjQx
+MTgsLTU0MDI0Mjg3MywtMjA4MTk2Nzk2LDE1Njc3MDI1NjksMT
+M4OTM5MjM1NiwtNDE5ODc4NzExLDEyODg1MDMzODAsMTcxMDM5
+ODM5NF19
 -->
