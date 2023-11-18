@@ -190,7 +190,8 @@ Utilizar la siguiente plantilla:
  
  ### *Sección "Diseño"*
  **Responsable**
- *Maldonado Medina Hansony de Jesús:* Sección Diseño.
+1. *Maldonado Medina Hansony de Jesús:* Correspondencia con los Requisitos.
+ 2. *Romero Poot Carlos Emmanuel:* Evolución de las Interfaces de Usuario.
 
 **Actividades**
 
@@ -297,7 +298,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTkyMDQxODUsNzM2Njg4NDAwLC0xMD
+eyJoaXN0b3J5IjpbLTExNTYzNDQ0NTAsNzM2Njg4NDAwLC0xMD
 c1OTE0MDE3LC0yMDQ3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0
 NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLT
 E2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQx
