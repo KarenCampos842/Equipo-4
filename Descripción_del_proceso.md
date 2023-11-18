@@ -78,9 +78,10 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
       <th>Edad</th>
       <th>Ocupación</th>
       <th>Ubicación Geográfica</th>
+       <th>Escenario</th>
    </tr> 
     <tr>  
-      <td><b>Como</b></td>  
+      <td>(Primario,secundario o pote o</td>  
        <td> usuario </td> 
    </tr> 
  </table>      
@@ -261,11 +262,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTQxMjk1NSwtMTA0MDAzNzk2LC05MD
-Y1MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2MTMwLDkwMzY0Njcz
-MCw4NjUxNDE2NzYsLTkzNTA5MTU4NSwxODk1MTE4NTU2LC03MT
-A2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0ODk0MCwtODk0NzI0
-MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5NiwxNTY3NzAyNTY5LD
-EzODkzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLDE3MTAz
-OTgzOTRdfQ==
+eyJoaXN0b3J5IjpbLTkyMzMzNTQwLC0xMDQwMDM3OTYsLTkwNj
+UzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2NzMw
+LDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OTUxMTg1NTYsLTcxMD
+YzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4OTQwLC04OTQ3MjQx
+MTgsLTU0MDI0Mjg3MywtMjA4MTk2Nzk2LDE1Njc3MDI1NjksMT
+M4OTM5MjM1NiwtNDE5ODc4NzExLDEyODg1MDMzODAsMTcxMDM5
+ODM5NF19
 -->
