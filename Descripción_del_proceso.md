@@ -190,7 +190,7 @@ Utilizar la siguiente plantilla:
  
  ### *Sección "Diseño"*
  **Responsable**
- *Maldonado Medina Hansony de Jesús:* Evolución de las Interfaces de Usuario, Correspondencia con los Requisitos.
+ *Maldonado Medina Hansony de Jesús:* Sección Diseño.
 
 **Actividades**
 
@@ -296,7 +296,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODI3OTQ0LC0xMDc1OTE0MDE3LC0yMD
+eyJoaXN0b3J5IjpbNzM2Njg4NDAwLC0xMDc1OTE0MDE3LC0yMD
 Q3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5
 MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLT
 ExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1
