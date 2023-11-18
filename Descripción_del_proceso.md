@@ -288,7 +288,10 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
 
 ### *Sección "Demo"*
 **Responsable**
-*Cárdenas Rojas Kendrick Asaf:*
+*Cárdenas Rojas Kendrick Asaf:* Sección Demo
+
+**Actividades:** 
+**Edición:** Grabar un video mostrando cómo se debe usar la aplicación. Mos
 
  **Archivo del trabajo/Resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>
  
@@ -311,11 +314,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTI2NDYxNSwxOTczMzQxMzU5LDkyOT
-k1NTM1LC0xNTMwNDkwNDU0LC0xNDc5NzE5MjU0LDYxMzUxOTg4
-NCwtMTE1NjM0NDQ1MCw3MzY2ODg0MDAsLTEwNzU5MTQwMTcsLT
-IwNDc5NDUyNywxODAzMDUxNDYzLC01MjY4NTQ0MDAsMTkwNDg4
-MzkxMywtMTA0MDAzNzk2LC05MDY1MzYzNiwtMTY3NTE0MzEwNi
-wtMTE4Mzk2MTMwLDkwMzY0NjczMCw4NjUxNDE2NzYsLTkzNTA5
-MTU4NV19
+eyJoaXN0b3J5IjpbLTEwMjYzNjExNDIsLTc2NTI2NDYxNSwxOT
+czMzQxMzU5LDkyOTk1NTM1LC0xNTMwNDkwNDU0LC0xNDc5NzE5
+MjU0LDYxMzUxOTg4NCwtMTE1NjM0NDQ1MCw3MzY2ODg0MDAsLT
+EwNzU5MTQwMTcsLTIwNDc5NDUyNywxODAzMDUxNDYzLC01MjY4
+NTQ0MDAsMTkwNDg4MzkxMywtMTA0MDAzNzk2LC05MDY1MzYzNi
+wtMTY3NTE0MzEwNiwtMTE4Mzk2MTMwLDkwMzY0NjczMCw4NjUx
+NDE2NzZdfQ==
 -->
