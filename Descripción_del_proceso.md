@@ -263,9 +263,9 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  **Actividades**
  - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
  - **Sketch:** Realizar los diálogos para el sketch. Los personajes principales serán el cliente y el trabajador. 
-El sketch consistirá en dos situaciones, una dónde se represente el problema/necesidad que pretende suplir WorkFlash  y otra final en dónde la situación se haya resuelto utilizando la aplicación (**4 minutos máximo**).  
+El sketch consistirá en dos situaciones, una dónde se represente el problema/necesidad que pretende suplir WorkFlash  y otra final en dónde la situación se haya resuelto utilizando la aplicación (**3 minutos máximo**).  
 
- - Diálogos (producto): Escribir los diálogos para el video.  
+ - Diálogo (producto): Escribir los diálogos para el video.  
  Los di
 
  -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
@@ -311,11 +311,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODI0ODU1NSwtMTUzMDQ5MDQ1NCwtMT
-Q3OTcxOTI1NCw2MTM1MTk4ODQsLTExNTYzNDQ0NTAsNzM2Njg4
-NDAwLC0xMDc1OTE0MDE3LC0yMDQ3OTQ1MjcsMTgwMzA1MTQ2My
-wtNTI2ODU0NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5NiwtOTA2
-NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3Mz
-AsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NTExODU1NiwtNzEw
-NjM2NzY5XX0=
+eyJoaXN0b3J5IjpbOTI5OTU1MzUsLTE1MzA0OTA0NTQsLTE0Nz
+k3MTkyNTQsNjEzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNjY4ODQw
+MCwtMTA3NTkxNDAxNywtMjA0Nzk0NTI3LDE4MDMwNTE0NjMsLT
+UyNjg1NDQwMCwxOTA0ODgzOTEzLC0xMDQwMDM3OTYsLTkwNjUz
+NjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2NzMwLD
+g2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OTUxMTg1NTYsLTcxMDYz
+Njc2OV19
 -->
