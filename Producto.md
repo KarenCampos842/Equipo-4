@@ -12,11 +12,7 @@ Definimos que en la búsqueda de servicios, los resultados serán mostrados con 
 
 Además de todo lo anterior, hemos hecho modificaciones en los artefactos agregando historias de usuario con las que no contábamos en la primera entrega y casos de uso más detallados.
 
-## Usuarios
-
 ## Propuesta de valor
-
-<br>
 
 Workflash es una aplicación que ofrece a los yucatecos una alternativa fácil y confiable con la que pueden encontrar perfiles de personas dedicadas a trabajos y oficios en general, ponerse en contacto con ellas y contratarlas. Al mismo tiempo, los trabajadores pueden promocionarse, resaltar su experiencia y crear una buena reputación para conseguir más contratos y también mejores ingresos, a cambió de una suscripción mensual de $75.
 
@@ -29,6 +25,11 @@ Esta aplicación es una alternativa a todas las demás plataformas que ofrecen f
 Nuestra plataforma garantiza la seguridad tanto de los usuarios como de los trabajadores y mantiene un estándar de calidad en los servicios.
 
 El método de monetización de WorkFlash es por medio de una suscripción, en la que los usuarios registrados como proveedores de servicios pagan una cuota mensual de $75 que les dará acceso a todos los beneficios que la aplicación ofrece.
+
+## Usuarios
+
+## Innovación
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQzOTc4NTFdfQ==
+eyJoaXN0b3J5IjpbLTE4MzAxOTU5MDldfQ==
 -->
