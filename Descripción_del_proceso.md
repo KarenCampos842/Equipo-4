@@ -221,7 +221,7 @@ Utilizar la siguiente plantilla:
  --Escribir un protocolo que permita replicar la prueba de forma estandarizada entre los "testers". 
 
 - **Cuestionario de satisfacción:** Realizar un cuestionario de satisfacción.
-- **Pruebas**:  Realizar las pruebas diseñadas con usuarios primarios y .
+- **Pruebas**:  Realizar las pruebas diseñadas con usuarios primarios. Cada miembro del equipo realizará las pruebas con un
 
 
 
@@ -292,7 +292,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjI4NDY4MSwtMjA0Nzk0NTI3LDE4MD
+eyJoaXN0b3J5IjpbMTExMzk0NTIyOCwtMjA0Nzk0NTI3LDE4MD
 MwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgzOTEzLC0xMDQwMDM3
 OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOT
 AzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OTUxMTg1
