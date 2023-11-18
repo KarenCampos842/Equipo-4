@@ -101,7 +101,7 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
 
  <table align=center>  
    <tr>  
-  <td colspan=4>Necesidad</td>
+  <td colspan=4>Necesidad: descripción</td>
    </tr> 
    <tr>  
      <th>Característica</th>  
@@ -113,11 +113,11 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
     <td>(descripción breve de una característica/funcionalidad)</td>  
       <td> x ("x" indica que la app tiene esa característica)</td> 
       <td> </td> 
-      <td></td>
-       
+      <td></td>      
    </tr> 
  </table>      
  <br>
+
   **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a>  
  
 ### *Sección "Requisitos"*
@@ -290,7 +290,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5MjY4NTUxLDE5MDQ4ODM5MTMsLTEwND
+eyJoaXN0b3J5IjpbLTQ0NjY3NDQ2LDE5MDQ4ODM5MTMsLTEwND
 AwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEz
 MCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NT
 ExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5
