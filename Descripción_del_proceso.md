@@ -225,7 +225,9 @@ Utilizar la siguiente plantilla:
 --Analizar los indicadores que permitan verificar si los requerimientos (funcionales y no funcionales) se alcanzaron. 
 --Determinar el grado de alcance de los requerimientos. 
 --Realizar las siguientes métricas de usabilidad: Eficacia (Éxito en tarea), Eficiencia (tiempo en tarea), Errores y Satisfacción subjetiva con base en los resultados obtenidos de las pruebas. 
--- Determinar de forma específica los cambios/mejoras a las interfaces basados en los resultados de las pruebas. (copiar y pegar lo realizado en la actividad **"Evolución de las Interfaces de Usuario"** agregando una descripción que relacione los cambios con los resultados de las pruebas. 
+-- Determinar de forma específica los cambios/mejoras a las interfaces basados en los resultados de las pruebas. (copiar y pegar lo realizado en la actividad **"Evolución de las Interfaces de Usuario"** agregando una descripción que relacione los cambios con los resultados de las pruebas. Ejemplo:
+ 1_registro (nombre de la ventana): Se modificó x cosa. 
+  
 
 ### *Sección "Proceso"*
 
@@ -294,7 +296,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1OTg2NjM4LC0xMDc1OTE0MDE3LC0yMD
+eyJoaXN0b3J5IjpbMzk2OTM3NzI0LC0xMDc1OTE0MDE3LC0yMD
 Q3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5
 MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLT
 ExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1
