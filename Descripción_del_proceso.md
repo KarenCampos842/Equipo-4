@@ -125,7 +125,7 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
 
  1. *Maldonado Medina Hansony de Jesús:* Requerimientos no funcionales.
  2. *Suárez Balam Brandon Emmanuel:* Refinamiento de artefactos.
- 3. 
+ 3. *Romero Poot Carlos Emmanuel:* Listado Final de Requerimientos (Diagrama).
 
 **Actividades**
  - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad (eliminar aquellos que no se puedan probar con lo que se cuenta hasta el momento).
@@ -184,7 +184,7 @@ Utilizar la siguiente plantilla:
   </tr>          
  </table>           
 
-**Listado Final de Requerimientos:** Realizar un diagrama que resume el conjunto de requerimientos (ej. Diagrama de Casos de Uso). Se establece un nivel de cobertura de los requisitos Funcionales y No Funcionales.
+**Listado Final de Requerimientos (Diagrama):** Realizar un diagrama que resume el conjunto de requerimientos (ej. Diagrama de Casos de Uso). Se establece un nivel de cobertura de los requisitos Funcionales y No Funcionales.
 
  **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>  
  
@@ -297,11 +297,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTI3MjYwNiwtMTA3NTkxNDAxNywtMj
-A0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgz
-OTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC
-0xMTgzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkx
-NTg1LDE4OTUxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOC
-wtNjgzMDQ4OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4
-MTk2Nzk2XX0=
+eyJoaXN0b3J5IjpbLTE5OTMxMDk3NzUsLTEwNzU5MTQwMTcsLT
+IwNDc5NDUyNywxODAzMDUxNDYzLC01MjY4NTQ0MDAsMTkwNDg4
+MzkxMywtMTA0MDAzNzk2LC05MDY1MzYzNiwtMTY3NTE0MzEwNi
+wtMTE4Mzk2MTMwLDkwMzY0NjczMCw4NjUxNDE2NzYsLTkzNTA5
+MTU4NSwxODk1MTE4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3Mz
+gsLTY4MzA0ODk0MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLTIw
+ODE5Njc5Nl19
 -->
