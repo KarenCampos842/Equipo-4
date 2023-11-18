@@ -207,7 +207,7 @@ Utilizar la siguiente plantilla:
  Verificar que los prototipos construidos corresponden a los requisitos establecidos. Cada ventana hecha en Figma estará numerada; colocar el número de ventana y el número de requerimiento que le pertenece.
  Ejemplo: Ventana 1_ registro: Requerimientos 1,2,3. 
  
-**Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>
+**Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>
 
 ### *Sección "Proceso"*
 
@@ -275,11 +275,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjg1NDQwMCwxOTA0ODgzOTEzLC0xMD
-QwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYx
-MzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OT
-UxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4
-OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4MTk2Nzk2LD
-E1Njc3MDI1NjksMTM4OTM5MjM1NiwtNDE5ODc4NzExLDEyODg1
-MDMzODBdfQ==
+eyJoaXN0b3J5IjpbMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MD
+Q4ODM5MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMx
+MDYsLTExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05Mz
+UwOTE1ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0
+NzM4LC02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC
+0yMDgxOTY3OTYsMTU2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4
+Nzg3MTFdfQ==
 -->
