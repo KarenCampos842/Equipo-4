@@ -58,8 +58,8 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
 ### *Sección  "Producto"*
 
 **Responsable**
- 1. *Maldonado Medina Hansony de Jesús:*
-*Suárez Balam Brandon Emmanuel:* Evolución del producto y Usuarios.
+1. *Maldonado Medina Hansony de Jesús:* Innovación. 
+2. *Suárez Balam Brandon Emmanuel:* Evolución del producto y Usuarios.
 
 **Actividades**
   
@@ -305,7 +305,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2NjExMzQwLC0xMTU2MzQ0NDUwLDczNj
+eyJoaXN0b3J5IjpbNjEzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNj
 Y4ODQwMCwtMTA3NTkxNDAxNywtMjA0Nzk0NTI3LDE4MDMwNTE0
 NjMsLTUyNjg1NDQwMCwxOTA0ODgzOTEzLC0xMDQwMDM3OTYsLT
 kwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2
