@@ -257,16 +257,18 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  
 ### *Sección "Presentación del avance"*
 **Responsables**
-1.  *Rubén Moisés Loria Pech:* Edición del video. 
-2. *Cárdenas Rojas Kendrick Asaf:* Traducción.
+ -  *Rubén Moisés Loria Pech:* Edición del video. 
+ - *Cárdenas Rojas Kendrick Asaf:* Traducción.
 
  **Actividades**
  - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
  - **Sketch:** Realizar los diálogos para el sketch. Los personajes principales serán el cliente y el trabajador. 
 El sketch consistirá en dos situaciones, una dónde se represente el problema/necesidad que pretende suplir WorkFlash  y otra final en dónde la situación se haya resuelto utilizando la aplicación (**4 minutos máximo**).  
 
- - - **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
- - **Audios:** Grabar los audios de los diálogos (cada uno graba su audio (máx 2 min ).  
+ - Diálogos (producto): E
+
+ -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
+ - **Audios:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  
   
  **Archivo del trabajo/Resultado:**  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>
 
@@ -308,11 +310,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg0NDY5ODQsLTE1MzA0OTA0NTQsLT
-E0Nzk3MTkyNTQsNjEzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNjY4
-ODQwMCwtMTA3NTkxNDAxNywtMjA0Nzk0NTI3LDE4MDMwNTE0Nj
-MsLTUyNjg1NDQwMCwxOTA0ODgzOTEzLC0xMDQwMDM3OTYsLTkw
-NjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2Nz
-MwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OTUxMTg1NTYsLTcx
-MDYzNjc2OV19
+eyJoaXN0b3J5IjpbNDgwMjUzNjI4LC0xNTMwNDkwNDU0LC0xND
+c5NzE5MjU0LDYxMzUxOTg4NCwtMTE1NjM0NDQ1MCw3MzY2ODg0
+MDAsLTEwNzU5MTQwMTcsLTIwNDc5NDUyNywxODAzMDUxNDYzLC
+01MjY4NTQ0MDAsMTkwNDg4MzkxMywtMTA0MDAzNzk2LC05MDY1
+MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2MTMwLDkwMzY0NjczMC
+w4NjUxNDE2NzYsLTkzNTA5MTU4NSwxODk1MTE4NTU2LC03MTA2
+MzY3NjldfQ==
 -->
