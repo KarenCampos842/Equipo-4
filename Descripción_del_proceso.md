@@ -210,6 +210,12 @@ Utilizar la siguiente plantilla:
 **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>
 
 ### *Sección "Proceso"*
+**Responsables**
+
+ 1.  *Campos García Karen Elizabeth:* Sección Proceso, excepto Métrica de contribución individual.
+ 2. 
+
+### *Sección "Proceso"*
 
 **Responsables**
 
@@ -276,11 +282,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDE0NzU1NCwxODAzMDUxNDYzLC01Mj
-Y4NTQ0MDAsMTkwNDg4MzkxMywtMTA0MDAzNzk2LC05MDY1MzYz
-NiwtMTY3NTE0MzEwNiwtMTE4Mzk2MTMwLDkwMzY0NjczMCw4Nj
-UxNDE2NzYsLTkzNTA5MTU4NSwxODk1MTE4NTU2LC03MTA2MzY3
-NjksLTE4NTE4NzQ3MzgsLTY4MzA0ODk0MCwtODk0NzI0MTE4LC
-01NDAyNDI4NzMsLTIwODE5Njc5NiwxNTY3NzAyNTY5LDEzODkz
-OTIzNTZdfQ==
+eyJoaXN0b3J5IjpbLTEzNzk2NDc4MjAsMTgwMzA1MTQ2MywtNT
+I2ODU0NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5NiwtOTA2NTM2
+MzYsLTE2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3MzAsOD
+Y1MTQxNjc2LC05MzUwOTE1ODUsMTg5NTExODU1NiwtNzEwNjM2
+NzY5LC0xODUxODc0NzM4LC02ODMwNDg5NDAsLTg5NDcyNDExOC
+wtNTQwMjQyODczLC0yMDgxOTY3OTYsMTU2NzcwMjU2OSwxMzg5
+MzkyMzU2XX0=
 -->
