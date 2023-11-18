@@ -252,8 +252,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  
 ### *Sección "Presentación del avance"*
 **Responsables**
- - *Rubén Moisés Loria Pech:* Edición del video. 
- - *Cárdenas Rojas Kendrick Asaf:* Diálogos y audios.
+ - *Cárdenas Rojas Kendrick Asaf:* Sección Presentación del a.
 
  **Actividades**
  - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
@@ -271,7 +270,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
 **Actividades**
  - **Competencias genéricas:** Argumentar de qué forma se promueven las competencias genéricas a través de actividades específicas del desarrollo del producto. Las competencias genéricas corresponden al programa de la asignatura (Planeación Didáctica).
  - **Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto. Las competencias específicas corresponden al programa de la asignatura (Planeación Didáctica).
- - **Crítica constructiva del curso:** Se realiza una crítica (argumentos) a las actividades que puenden ser mejoradas, cambiadas o eliminadas. Se proponen actividades (específicas) alternativas que podrían mejorar la promoción de las competencias del curso.
+ - **Crítica constructiva del curso:** Se realiza una crítica (argumentos) a las actividades que pueden ser mejoradas, cambiadas o eliminadas. Se proponen actividades (específicas) alternativas que podrían mejorar la promoción de las competencias del curso.
 
 ***NOTA:***  Leer el Plan de Estudios de la Licenciatura en Ingeniería de Software[^4] para realizar las actividades. 
 
@@ -296,11 +295,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4MjI4MzAyLC0xMDc1OTE0MDE3LC0yMD
-Q3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5
-MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLT
-ExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1
-ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC
-02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgx
-OTY3OTZdfQ==
+eyJoaXN0b3J5IjpbLTE5NTk5ODU5NTYsLTEwNzU5MTQwMTcsLT
+IwNDc5NDUyNywxODAzMDUxNDYzLC01MjY4NTQ0MDAsMTkwNDg4
+MzkxMywtMTA0MDAzNzk2LC05MDY1MzYzNiwtMTY3NTE0MzEwNi
+wtMTE4Mzk2MTMwLDkwMzY0NjczMCw4NjUxNDE2NzYsLTkzNTA5
+MTU4NSwxODk1MTE4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3Mz
+gsLTY4MzA0ODk0MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLTIw
+ODE5Njc5Nl19
 -->
