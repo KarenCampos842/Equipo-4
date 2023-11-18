@@ -280,7 +280,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
 
 ### *Sección "Demo"*
 **Responsable**
-Asaf
+*Cárdenas Rojas Kendrick Asaf:*
 
  **Archivo del trabajo/Resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>
  
@@ -303,11 +303,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTEyNzU2MjMsLTExNTYzNDQ0NTAsNz
-M2Njg4NDAwLC0xMDc1OTE0MDE3LC0yMDQ3OTQ1MjcsMTgwMzA1
-MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5Ni
-wtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2
-NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NTExODU1Ni
-wtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5NDAsLTg5
-NDcyNDExOF19
+eyJoaXN0b3J5IjpbMTc4Njk5MjIzNCwtMTE1NjM0NDQ1MCw3Mz
+Y2ODg0MDAsLTEwNzU5MTQwMTcsLTIwNDc5NDUyNywxODAzMDUx
+NDYzLC01MjY4NTQ0MDAsMTkwNDg4MzkxMywtMTA0MDAzNzk2LC
+05MDY1MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2MTMwLDkwMzY0
+NjczMCw4NjUxNDE2NzYsLTkzNTA5MTU4NSwxODk1MTE4NTU2LC
+03MTA2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0ODk0MCwtODk0
+NzI0MTE4XX0=
 -->
