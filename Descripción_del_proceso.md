@@ -231,10 +231,9 @@ Utilizar la siguiente plantilla:
 
 ### *Sección "Proceso"*
 
-**Responsables**
+**Responsable**
 
- 1.  *Campos García Karen Elizabeth:* Sección Proceso, excepto Métrica de contribución individual.
- 2. *Rubén Moisés Loria Pech:* Métrica de contribución individual.
+ *Campos García Karen Elizabeth:* Sección Proceso.
 
 **Actividades**
  - **Descripción del proceso:** Describir de forma clara en un documento el tamaño del sprint, planeación, actividades, responsables, roles y resultados.
@@ -297,11 +296,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTMxMDk3NzUsLTEwNzU5MTQwMTcsLT
-IwNDc5NDUyNywxODAzMDUxNDYzLC01MjY4NTQ0MDAsMTkwNDg4
-MzkxMywtMTA0MDAzNzk2LC05MDY1MzYzNiwtMTY3NTE0MzEwNi
-wtMTE4Mzk2MTMwLDkwMzY0NjczMCw4NjUxNDE2NzYsLTkzNTA5
-MTU4NSwxODk1MTE4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3Mz
-gsLTY4MzA0ODk0MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLTIw
-ODE5Njc5Nl19
+eyJoaXN0b3J5IjpbMzM4MjI4MzAyLC0xMDc1OTE0MDE3LC0yMD
+Q3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5
+MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLT
+ExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1
+ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC
+02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgx
+OTY3OTZdfQ==
 -->
