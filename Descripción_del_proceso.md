@@ -93,8 +93,9 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
  <br>
 
  - **Innovación:** 
-Describir la contribución del producto (en qué contribuye, cómo, quiénes son los beneficiarios). 
-Escribir las diferencias de WorkFlash con respecto a otras propuestas existentes. ¿Qué incluye este producto que no hacen otros? ¿En una necesidad identificada? ¿Por qué se podrían considerar original la contribución?
+--Describir la contribución del producto (en qué contribuye, cómo lo hace, quiénes son los beneficiarios). 
+--Escribir las diferencias de WorkFlash con respecto a otras propuestas existentes. ¿Qué incluye este producto que no hacen otros? ¿En una necesidad identificada? 
+--Responder: ¿Por qué se podrían considerar original la contribución?
  
   **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a>  
  
@@ -268,11 +269,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTY2NjQ3LC0xMDQwMDM3OTYsLTkwNj
-UzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2NzMw
-LDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OTUxMTg1NTYsLTcxMD
-YzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4OTQwLC04OTQ3MjQx
-MTgsLTU0MDI0Mjg3MywtMjA4MTk2Nzk2LDE1Njc3MDI1NjksMT
-M4OTM5MjM1NiwtNDE5ODc4NzExLDEyODg1MDMzODAsMTcxMDM5
-ODM5NF19
+eyJoaXN0b3J5IjpbLTE3NzQ5MDAxMzEsLTEwNDAwMzc5NiwtOT
+A2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3
+MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NTExODU1NiwtNz
+EwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5NDAsLTg5NDcy
+NDExOCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMTU2NzcwMjU2OS
+wxMzg5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUwMzM4MCwxNzEw
+Mzk4Mzk0XX0=
 -->
