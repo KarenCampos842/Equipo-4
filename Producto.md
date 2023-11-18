@@ -13,8 +13,8 @@ Definimos que en la búsqueda de servicios, los resultados serán mostrados con 
 Además de todo lo anterior, hemos hecho modificaciones en los artefactos agregando historias de usuario con las que no contábamos en la primera entrega y casos de uso más detallados.
 
 **Evidencia de la evolución:** 
-Primera entrega:  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>  
-Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requisitos">Requisitos.md</a>  
+Primera entrega:  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>  
+Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requisitos">Requisitos.md</a>  
 Tercera entrega:  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>  
 
 ## Propuesta de valor
@@ -36,5 +36,5 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
 ## Innovación
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzEyOTMyMywtMTgzMDE5NTkwOV19
+eyJoaXN0b3J5IjpbMTU2ODk4Mjk4NSwtMTgzMDE5NTkwOV19
 -->
