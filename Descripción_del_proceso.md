@@ -224,7 +224,7 @@ Utilizar la siguiente plantilla:
 **Resultados:** 
 --Analizar los indicadores que permitan verificar si los requerimientos (funcionales y no funcionales) se alcanzaron. 
 --Determinar el grado de alcance de los requerimientos. 
---Realizar las métricas de
+--Realizar las siguientes métricas de usabilidad: Eficacia (Éxito en tarea), 
 
 Es posible identificar mejoras en las interfaces o flujos a partir de los resultados. Se determinan de forma específica los cambios/mejoras a las interfaces basados en los resultados de las pruebas.
 
@@ -295,7 +295,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzM3OTIwMywtMTA3NTkxNDAxNywtMj
+eyJoaXN0b3J5IjpbMTk5OTM0NTA4MCwtMTA3NTkxNDAxNywtMj
 A0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgz
 OTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC
 0xMTgzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkx
