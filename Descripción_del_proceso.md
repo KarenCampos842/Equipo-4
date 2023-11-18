@@ -198,7 +198,8 @@ Utilizar la siguiente plantilla:
 
 **Actividades**
 
- - **Bosquejos de Interfaces:** Realizar el conjunto inicial de prototipos de baja, media o alta fidelidad utilizando Figma.
+ - **Evolución de las Interfaces de Usuario:** Resumen del cambio (evolución) de las interfaces entre la segunda y tercera entrega. 
+ - 
  -   **Correspondencia con los Requisitos:** 
  Verificar que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces.
  Verificar que los prototipos construidos corresponden a los requisitos establecidos. Cada ventana hecha en Figma estará numerada; colocar el número de ventana y el número de requerimiento que le pertenece.
@@ -273,11 +274,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDIyMzUzOCwxOTA0ODgzOTEzLC0xMD
-QwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYx
-MzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OT
-UxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4
-OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4MTk2Nzk2LD
-E1Njc3MDI1NjksMTM4OTM5MjM1NiwtNDE5ODc4NzExLDEyODg1
-MDMzODBdfQ==
+eyJoaXN0b3J5IjpbNTA5Mzc4Mjg0LDE5MDQ4ODM5MTMsLTEwND
+AwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEz
+MCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NT
+ExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5
+NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMT
+U2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUw
+MzM4MF19
 -->
