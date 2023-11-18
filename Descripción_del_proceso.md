@@ -215,7 +215,7 @@ Utilizar la siguiente plantilla:
  -  *Campos García Karen Elizabeth:* Sección Proceso, excepto Métrica de contribución individual.
  
  **Actividades**
-- **Pruebas Informales**: 
+- **Pruebas Informales**: Diseñar pruebas informales con usuarios primarios. Identifican los indicadores más relevantes que serán recolectados, verificar que los indicadores corresponden a los objetivos del principales del producto. Se especifica un protocolo que permita replicar la prueba de forma estandarizada entre los "testers". Se incluye cuestionarios de satisfacción.
 
 ### *Sección "Proceso"*
 
@@ -284,11 +284,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDU5OTk4OSwxODAzMDUxNDYzLC01Mj
-Y4NTQ0MDAsMTkwNDg4MzkxMywtMTA0MDAzNzk2LC05MDY1MzYz
-NiwtMTY3NTE0MzEwNiwtMTE4Mzk2MTMwLDkwMzY0NjczMCw4Nj
-UxNDE2NzYsLTkzNTA5MTU4NSwxODk1MTE4NTU2LC03MTA2MzY3
-NjksLTE4NTE4NzQ3MzgsLTY4MzA0ODk0MCwtODk0NzI0MTE4LC
-01NDAyNDI4NzMsLTIwODE5Njc5NiwxNTY3NzAyNTY5LDEzODkz
-OTIzNTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNjI1NzY1NjYsMTgwMzA1MTQ2MywtNT
+I2ODU0NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5NiwtOTA2NTM2
+MzYsLTE2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3MzAsOD
+Y1MTQxNjc2LC05MzUwOTE1ODUsMTg5NTExODU1NiwtNzEwNjM2
+NzY5LC0xODUxODc0NzM4LC02ODMwNDg5NDAsLTg5NDcyNDExOC
+wtNTQwMjQyODczLC0yMDgxOTY3OTYsMTU2NzcwMjU2OSwxMzg5
+MzkyMzU2XX0=
 -->
