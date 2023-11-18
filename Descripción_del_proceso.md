@@ -53,7 +53,7 @@
 Marcar como "closed" sus issues asignados cuando finalicen una actividad. 
 
 **Corrector de redacción:** *Suárez Balam Brandon Emmanuel.*
-Actividad: Corregir
+**Actividad:** Revisar y corregir la redacción de todas las secciones excepto 
 
 ### *Sección  "Producto"*
 
@@ -316,11 +316,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4MjU3NDkwLC03NjUyNjQ2MTUsMTk3Mz
-M0MTM1OSw5Mjk5NTUzNSwtMTUzMDQ5MDQ1NCwtMTQ3OTcxOTI1
-NCw2MTM1MTk4ODQsLTExNTYzNDQ0NTAsNzM2Njg4NDAwLC0xMD
-c1OTE0MDE3LC0yMDQ3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0
-NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLT
-E2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQx
-Njc2XX0=
+eyJoaXN0b3J5IjpbLTIwMTczMjgxNCwtNzY1MjY0NjE1LDE5Nz
+MzNDEzNTksOTI5OTU1MzUsLTE1MzA0OTA0NTQsLTE0Nzk3MTky
+NTQsNjEzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNjY4ODQwMCwtMT
+A3NTkxNDAxNywtMjA0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1
+NDQwMCwxOTA0ODgzOTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2LC
+0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0
+MTY3Nl19
 -->
