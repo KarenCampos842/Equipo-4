@@ -266,7 +266,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
 El sketch consistirá en dos situaciones, una dónde se represente el problema/necesidad que pretende suplir WorkFlash  y otra final en dónde la situación se haya resuelto utilizando la aplicación (**3 minutos**).  
  - **Diálogo producto (2 min):** Describir el producto (en qué consiste WorkFlash, a quiénes va dirigido, beneficios, etc.).  Guiarse de lo escrito en el archivo  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a>  
  -   **Diálogo diferenciadores (1 min):** Describir las características que tiene WorkFlash que la diferencian de otras apps. Lo que ofrece nuestra aplicación que otras no tienen Guiarse de lo escrito en el partado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Innovación</a>.
- -   **Diálogo interfaz (1 min):** Describir funcionalidades de la app (recorrido rápido por la aplicación) <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Innovación</a>.
+ -   **Diálogo interfaz (1 min):** Describir las funcionalidades principales de la app (un recorrido rápido por la aplicación). Mencionar  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Innovación</a>.
  -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
  - **Audios:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  
   
@@ -310,11 +310,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc4MDU4OTUsMTk3MzM0MTM1OSw5Mj
-k5NTUzNSwtMTUzMDQ5MDQ1NCwtMTQ3OTcxOTI1NCw2MTM1MTk4
-ODQsLTExNTYzNDQ0NTAsNzM2Njg4NDAwLC0xMDc1OTE0MDE3LC
-0yMDQ3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4
-ODM5MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMD
-YsLTExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUw
-OTE1ODVdfQ==
+eyJoaXN0b3J5IjpbMTIzNjU5MDU4MCwxOTczMzQxMzU5LDkyOT
+k1NTM1LC0xNTMwNDkwNDU0LC0xNDc5NzE5MjU0LDYxMzUxOTg4
+NCwtMTE1NjM0NDQ1MCw3MzY2ODg0MDAsLTEwNzU5MTQwMTcsLT
+IwNDc5NDUyNywxODAzMDUxNDYzLC01MjY4NTQ0MDAsMTkwNDg4
+MzkxMywtMTA0MDAzNzk2LC05MDY1MzYzNiwtMTY3NTE0MzEwNi
+wtMTE4Mzk2MTMwLDkwMzY0NjczMCw4NjUxNDE2NzYsLTkzNTA5
+MTU4NV19
 -->
