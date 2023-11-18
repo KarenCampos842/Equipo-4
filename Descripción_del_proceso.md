@@ -211,7 +211,8 @@ Utilizar la siguiente plantilla:
 **Responsables**
 
  1.*Campos García Karen Elizabeth:* Pruebas informales, Aplicación de pruebas y cuestionario. 
- 
+ 2. *Cárdenas Rojas Kendrick Asaf:* Aplicación de pruebas y cuestionario. 
+ 3. *Maldonado Medina Hansony de Jesús:* Aplicación de pruebas y cuestionario. 
  **Actividades**
 - **Pruebas Informales**: 
  --Diseñar pruebas informales, identificar los indicadores más relevantes que serán recolectados.
@@ -293,7 +294,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTAyNTM5MCwtMTA3NTkxNDAxNywtMj
+eyJoaXN0b3J5IjpbMTg4NjI1MzA5OCwtMTA3NTkxNDAxNywtMj
 A0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgz
 OTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC
 0xMTgzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkx
