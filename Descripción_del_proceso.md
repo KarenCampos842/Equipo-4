@@ -225,7 +225,7 @@ Utilizar la siguiente plantilla:
 --Analizar los indicadores que permitan verificar si los requerimientos (funcionales y no funcionales) se alcanzaron. 
 --Determinar el grado de alcance de los requerimientos. 
 --Realizar las siguientes métricas de usabilidad: Eficacia (Éxito en tarea), Eficiencia (tiempo en tarea), Errores y Satisfacción subjetiva con base en los resultados obtenidos de las pruebas. 
--Identificar mejoras en las interfaces o flujos a partir de los resultados (mi. Se determinan de forma específica los cambios/mejoras a las interfaces basados en los resultados de las pruebas.
+-Identificar mejoras en las interfaces o flujos a partir de los resultados (copiar y pegar lo realizado en la actividad **"Evolución de las Interfaces de Usuario"**). Se determinan de forma específica los cambios/mejoras a las interfaces basados en los resultados de las pruebas.
 
 ### *Sección "Proceso"*
 
@@ -294,11 +294,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODkwMDcyOSwtMTA3NTkxNDAxNywtMj
-A0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgz
-OTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC
-0xMTgzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkx
-NTg1LDE4OTUxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOC
-wtNjgzMDQ4OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4
-MTk2Nzk2XX0=
+eyJoaXN0b3J5IjpbMzU0MTgyMzc1LC0xMDc1OTE0MDE3LC0yMD
+Q3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5
+MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLT
+ExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1
+ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC
+02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgx
+OTY3OTZdfQ==
 -->
