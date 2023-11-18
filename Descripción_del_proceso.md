@@ -101,8 +101,18 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
 
  <table align=center>  
    <tr>  
+      <th>Necesidad</th>
       <th>Característica</th>  
-      <th>Género</th> 
+      <th>WorkFlash</th> 
+      <th>Edad</th>
+      <th>Ocupación</th>
+      <th>Ubicación Geográfica</th>
+       <th>Escenario</th>
+   </tr> 
+   <tr>  
+      <th>Necesidad</th>
+      <th>Característica</th>  
+      <th>WorkFlash</th> 
       <th>Edad</th>
       <th>Ocupación</th>
       <th>Ubicación Geográfica</th>
@@ -290,11 +300,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDg4MzkxMywtMTA0MDAzNzk2LC05MD
-Y1MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2MTMwLDkwMzY0Njcz
-MCw4NjUxNDE2NzYsLTkzNTA5MTU4NSwxODk1MTE4NTU2LC03MT
-A2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0ODk0MCwtODk0NzI0
-MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5NiwxNTY3NzAyNTY5LD
-EzODkzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLDE3MTAz
-OTgzOTRdfQ==
+eyJoaXN0b3J5IjpbOTI2MTI4ODgzLDE5MDQ4ODM5MTMsLTEwND
+AwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEz
+MCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NT
+ExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5
+NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMT
+U2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUw
+MzM4MF19
 -->
