@@ -210,8 +210,8 @@ Utilizar la siguiente plantilla:
 
  1.*Campos García Karen Elizabeth:* Pruebas informales, Aplicación de pruebas y cuestionario. 
  2. *Cárdenas Rojas Kendrick Asaf:* Aplicación de pruebas y cuestionario. 
- 3. *Maldonado Medina Hansony de Jesús:* Aplicación de pruebas y cuestionario, Resultados y Evolución de las Interfaces de Usuario. 
- 4. *Romero Poot Carlos Emmanuel:* Aplicación de pruebas y cuestionario.
+ 3. *Maldonado Medina Hansony de Jesús:* Aplicación de pruebas y cuestionario y Resultados (métricas).
+ 4. *Romero Poot Carlos Emmanuel:* Aplicación de pruebas y cuestionario y Resultados (Interfaz).
  5. *Rubén Moisés Loria Pech:* Aplicación de pruebas y cuestionario.
  6. *Suárez Balam Brandon Emmanuel:* Aplicación de pruebas y cuestionario.
 
@@ -297,7 +297,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTcyODM4MzUsNzM2Njg4NDAwLC0xMD
+eyJoaXN0b3J5IjpbLTE2MTkyMDQxODUsNzM2Njg4NDAwLC0xMD
 c1OTE0MDE3LC0yMDQ3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0
 NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLT
 E2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQx
