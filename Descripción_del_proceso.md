@@ -220,7 +220,7 @@ Utilizar la siguiente plantilla:
  --Verificar que los indicadores corresponden a los objetivos del principales del producto. 
  --Escribir un protocolo que permita replicar la prueba de forma estandarizada entre los "testers". 
 -Realizar un cuestionario de satisfacción.
-- **Pruebas**:  Realizar las pruebas diseñadas con usuarios primarios y aplicar el cuestionario de satisfacción. Cada miembro del equipo realizará las pruebas y el cuestionario con un usuario primario . 
+- **Aplicación pruebas**:  Realizar las pruebas diseñadas con usuarios primarios y aplicar el cuestionario de satisfacción. Cada miembro del equipo realizará las pruebas y el cuestionario con un usuario primario (como equipo se habrá recolectado información de 6 usuarios primarios). 
 
 
 
@@ -291,11 +291,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5NDc4NTIyLC0yMDQ3OTQ1MjcsMTgwMz
-A1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5
-NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEzMCw5MD
-M2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NTExODU1
-NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5NDAsLT
-g5NDcyNDExOCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMTU2Nzcw
-MjU2OV19
+eyJoaXN0b3J5IjpbMTg5MjY2MjE2OSwtMjA0Nzk0NTI3LDE4MD
+MwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgzOTEzLC0xMDQwMDM3
+OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOT
+AzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OTUxMTg1
+NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4OTQwLC
+04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4MTk2Nzk2LDE1Njc3
+MDI1NjldfQ==
 -->
