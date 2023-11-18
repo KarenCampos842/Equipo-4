@@ -252,12 +252,12 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  
 ### *Sección "Presentación del avance"*
 **Responsables**
- - *Cárdenas Rojas Kendrick Asaf:* Sección Presentación del avance.
+ - *Cárdenas Rojas Kendrick Asaf:* Edición del video, Traducción.
 
  **Actividades**
  - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
  - **Diálogos:** Realizar los diálogos para el video. Tomar en cuenta lo solicitado en Edición del video (cada integrante reali. 
- - **Audios:** Grabar los audios de los diálogos (cada uno graba su audio  
+ - **Audios:** Grabar los audios de los diálogos (cada uno graba su audio (2 min ).  
   
  **Archivo del trabajo/Resultado:**  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>
 
@@ -295,7 +295,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDgwNjYwMCwtMTA3NTkxNDAxNywtMj
+eyJoaXN0b3J5IjpbLTc3MjQwNjYyNCwtMTA3NTkxNDAxNywtMj
 A0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgz
 OTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC
 0xMTgzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkx
