@@ -64,11 +64,8 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
 **Actividades**
   
  - **Evolución del producto:** Resumen de los cambios completados del producto entre la PRIMERA, SEGUNDA y TERCERA entrega. Mencionar de manera sintetizada los cambios más significativos en los **requerimientos** y **artefactos** y que se cuenta con **evidencia**. 
-Presentar evidencia de la siguiente forma al final del resumen: 
-Artefactos
-Primera 
-  
-  **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md">Producto.md</a>  
+ 
+  **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a>  
  
   ***NOTA:*** Para realizar la actividad descrita con anterioridad revisar el documento <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md">Requisitos.md</a>  localizado en la rama de **Primera-Entrega** del repositorio del equipo.
 
@@ -242,11 +239,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyNTk0NjkxLC0xNjc1MTQzMTA2LC0xMT
-gzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1
-LDE4OTUxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOCwtNj
-gzMDQ4OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4MTk2
-Nzk2LDE1Njc3MDI1NjksMTM4OTM5MjM1NiwtNDE5ODc4NzExLD
-EyODg1MDMzODAsMTcxMDM5ODM5NCwxMTE2NTgwMDk2LC02Mjc2
-ODM3ODddfQ==
+eyJoaXN0b3J5IjpbLTIwNTk5MTQ2NTEsLTE2NzUxNDMxMDYsLT
+ExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1
+ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC
+02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgx
+OTY3OTYsMTU2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3MT
+EsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMTY1ODAwOTYsLTYy
+NzY4Mzc4N119
 -->
