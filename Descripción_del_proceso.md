@@ -53,7 +53,7 @@
 Marcar como "closed" sus issues asignados cuando finalicen una actividad. 
 
 **Corrector de redacción:** *Suárez Balam Brandon Emmanuel.*
-Actividad: Corregir la redacción de los casos de uso, de las actividades de la sección "Producto" y "Competencias". 
+Actividad: Corregir
 
 ### *Sección  "Producto"*
 
@@ -293,7 +293,7 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
 **Actividades:** 
 
  - **Edición demo:** Grabar un video mostrando cómo se debe usar la aplicación. Mostrar la navegación por la aplicación. 
- - Realizar 
+ **- Audio demo:** Grabar el audio en inglés para el demo.
 
  **Archivo del trabajo/Resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>
  
@@ -316,11 +316,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzEyNTM5NDUsLTc2NTI2NDYxNSwxOT
-czMzQxMzU5LDkyOTk1NTM1LC0xNTMwNDkwNDU0LC0xNDc5NzE5
-MjU0LDYxMzUxOTg4NCwtMTE1NjM0NDQ1MCw3MzY2ODg0MDAsLT
-EwNzU5MTQwMTcsLTIwNDc5NDUyNywxODAzMDUxNDYzLC01MjY4
-NTQ0MDAsMTkwNDg4MzkxMywtMTA0MDAzNzk2LC05MDY1MzYzNi
-wtMTY3NTE0MzEwNiwtMTE4Mzk2MTMwLDkwMzY0NjczMCw4NjUx
-NDE2NzZdfQ==
+eyJoaXN0b3J5IjpbNzg4MjU3NDkwLC03NjUyNjQ2MTUsMTk3Mz
+M0MTM1OSw5Mjk5NTUzNSwtMTUzMDQ5MDQ1NCwtMTQ3OTcxOTI1
+NCw2MTM1MTk4ODQsLTExNTYzNDQ0NTAsNzM2Njg4NDAwLC0xMD
+c1OTE0MDE3LC0yMDQ3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0
+NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLT
+E2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQx
+Njc2XX0=
 -->
