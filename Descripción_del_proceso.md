@@ -257,7 +257,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  - *Cárdenas Rojas Kendrick Asaf:* Diálogos y audios.
 
  **Actividades**
- - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto, presentar los avances realizados durante el sprint. Incluir  el **product backlog** ubicado en <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#product-backlog">Requisitos.md</a>, el resumen del archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md">Producto.md</a>, enseñar parte de los bosquejos de interfaces (se podrá encontrar un enlace en el archivo  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>).
+ - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
  - **Diálogos:** Realizar los diálogos para el video. Tomar en cuenta lo solicitado en Edición del video. 
  - **Audios:** Grabar los audios de los diálogos. 
   
@@ -296,7 +296,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjQ3Nzk0NiwtMTA3NTkxNDAxNywtMj
+eyJoaXN0b3J5IjpbMjA2MDU1MDQ3NywtMTA3NTkxNDAxNywtMj
 A0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgz
 OTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC
 0xMTgzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkx
