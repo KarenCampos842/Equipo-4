@@ -58,7 +58,8 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
 ### *Sección  "Producto"*
 
 **Responsable**
-*Suárez Balam Brandon Emmanuel:* Actividades de la Sección Producto. 
+ 1. *Maldonado Medina Hansony de Jesús:*
+*Suárez Balam Brandon Emmanuel:* Evolución del producto y Usuarios.
 
 **Actividades**
   
@@ -124,8 +125,9 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
 **Responsables del apartado "Evolución de requisitos"**
 
  1. *Maldonado Medina Hansony de Jesús:* Requerimientos no funcionales.
- 2. *Suárez Balam Brandon Emmanuel:* Refinamiento de artefactos.
- 3. *Romero Poot Carlos Emmanuel:* Listado Final de Requerimientos (Diagrama).
+ 2. *Romero Poot Carlos Emmanuel:* Listado Final de Requerimientos (Diagrama).
+ 3. *Suárez Balam Brandon Emmanuel:* Refinamiento de artefactos.
+
 
 **Actividades**
  - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad (eliminar aquellos que no se puedan probar con lo que se cuenta hasta el momento).
@@ -303,11 +305,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Njk5MjIzNCwtMTE1NjM0NDQ1MCw3Mz
-Y2ODg0MDAsLTEwNzU5MTQwMTcsLTIwNDc5NDUyNywxODAzMDUx
-NDYzLC01MjY4NTQ0MDAsMTkwNDg4MzkxMywtMTA0MDAzNzk2LC
-05MDY1MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2MTMwLDkwMzY0
-NjczMCw4NjUxNDE2NzYsLTkzNTA5MTU4NSwxODk1MTE4NTU2LC
-03MTA2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0ODk0MCwtODk0
-NzI0MTE4XX0=
+eyJoaXN0b3J5IjpbNTc2NjExMzQwLC0xMTU2MzQ0NDUwLDczNj
+Y4ODQwMCwtMTA3NTkxNDAxNywtMjA0Nzk0NTI3LDE4MDMwNTE0
+NjMsLTUyNjg1NDQwMCwxOTA0ODgzOTEzLC0xMDQwMDM3OTYsLT
+kwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2
+NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OTUxMTg1NTYsLT
+cxMDYzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4OTQwLC04OTQ3
+MjQxMThdfQ==
 -->
