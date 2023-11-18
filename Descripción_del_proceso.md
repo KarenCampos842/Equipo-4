@@ -262,7 +262,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
 
  **Actividades**
  - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
- - **Diálogos:** Realizar los diálogos para el video. 
+ - **Sketch:** Realizar los diálogos para el video. 
  - - **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
  - **Audios:** Grabar los audios de los diálogos (cada uno graba su audio (máx 2 min ).  
   
@@ -306,11 +306,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk3MTkyNTQsNjEzNTE5ODg0LC0xMT
-U2MzQ0NDUwLDczNjY4ODQwMCwtMTA3NTkxNDAxNywtMjA0Nzk0
-NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgzOTEzLC
-0xMDQwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgz
-OTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LD
-E4OTUxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOCwtNjgz
-MDQ4OTQwXX0=
+eyJoaXN0b3J5IjpbLTE1MzA0OTA0NTQsLTE0Nzk3MTkyNTQsNj
+EzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNjY4ODQwMCwtMTA3NTkx
+NDAxNywtMjA0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMC
+wxOTA0ODgzOTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2LC0xNjc1
+MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3Ni
+wtOTM1MDkxNTg1LDE4OTUxMTg1NTYsLTcxMDYzNjc2OSwtMTg1
+MTg3NDczOF19
 -->
