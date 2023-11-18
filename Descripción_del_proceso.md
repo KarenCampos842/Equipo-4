@@ -220,11 +220,12 @@ Utilizar la siguiente plantilla:
  - **Descripción del proceso:** Describir de forma clara en un documento el tamaño del sprint, planeación, actividades, responsables, roles y resultados.
  - **Gestión del proceso**: 
  
- - Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"Descripción_del_proceso"* (ubicado en la branch "*Segunda-Entrega*") a las personas correspondientes. Revisar el estado de cada una de sus actividades (In Progress, Done). 
+ - Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"Descripción_del_proceso"* (ubicado en la branch "*Tercera-Entrega*") a las personas correspondientes. Revisar el estado de cada una de sus actividades (In Progress, Done). 
  - Orquestar las reuniones: *"Scrum team meeting"* y  "Sprint review". 
  - Escribir una bitácora de las reuniones de equipo mencionando brevemente acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
  - Realizar una tabla ** (sprint backlog)** que contenga las actividades a realizar durante el sprint, responsables, el estado de la tarea (terminada, en curso), fecha de inicio, fechas límite de entrega y nivel de cada actividad (bajo, medio, alto).
  - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, medio, alto).  
+ - Elaborar una métrica que contenga las actividades de las 3 entregas. 
  - **Organización y Documentación del Repositorio:** Crear los siguientes archivos en formato StackEdit en la branch de "*Segunda-Entrega*" del repositorio del equipo (Equipo-4): Producto, Requisitos, Diseño, Presentación del avance, Diálogos, Competencias, Descripción del proceso, Gestión del proceso, Métrica de contribución y Lista de cotejo. 
  
  **Archivo del trabajo/Resultado:**  
@@ -275,11 +276,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MD
-Q4ODM5MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMx
-MDYsLTExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05Mz
-UwOTE1ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0
-NzM4LC02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC
-0yMDgxOTY3OTYsMTU2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4
-Nzg3MTFdfQ==
+eyJoaXN0b3J5IjpbLTI4Mzc1Mzk4LDE4MDMwNTE0NjMsLTUyNj
+g1NDQwMCwxOTA0ODgzOTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2
+LC0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2NzMwLDg2NT
+E0MTY3NiwtOTM1MDkxNTg1LDE4OTUxMTg1NTYsLTcxMDYzNjc2
+OSwtMTg1MTg3NDczOCwtNjgzMDQ4OTQwLC04OTQ3MjQxMTgsLT
+U0MDI0Mjg3MywtMjA4MTk2Nzk2LDE1Njc3MDI1NjksMTM4OTM5
+MjM1Nl19
 -->
