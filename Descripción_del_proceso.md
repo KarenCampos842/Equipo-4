@@ -198,7 +198,7 @@ Utilizar la siguiente plantilla:
 
 **Actividades**
 
- - **Evolución de las Interfaces de Usuario:** Resumen del cambio (evolución) de las interfaces entre la segunda y tercera entrega. Ejemplo: 
+ - **Evolución de las Interfaces de Usuario:** Resumen del cambio (evolución) de las interfaces entre la segunda y tercera entrega (tomar en cuenta que las modificaciones se realizarán posterior a las pruebas de usabilidad). Ejemplo: 
  1_registro (nombre de la ventana): Se modificó x cosa. 
 <a href="https://www.figma.com/file/dKpr0w4UBgbIhd1HJx5kLn/Bosquejos-de-interfaces-(WorkFlash)?type=design&node-id=54702%3A25212&mode=design&t=HFZIp5n8WLzdbYrO-1">Interfaz previa</a>
 <a href="https://www.figma.com/file/dKpr0w4UBgbIhd1HJx5kLn/Bosquejos-de-interfaces-(WorkFlash)?type=design&node-id=54702%3A25212&mode=design&t=HFZIp5n8WLzdbYrO-1">Modificada</a>
@@ -275,11 +275,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY2MDY4MjMsMTkwNDg4MzkxMywtMT
-A0MDAzNzk2LC05MDY1MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2
-MTMwLDkwMzY0NjczMCw4NjUxNDE2NzYsLTkzNTA5MTU4NSwxOD
-k1MTE4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0
-ODk0MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5Ni
-wxNTY3NzAyNTY5LDEzODkzOTIzNTYsLTQxOTg3ODcxMSwxMjg4
-NTAzMzgwXX0=
+eyJoaXN0b3J5IjpbNDg2OTE4NTgsMTkwNDg4MzkxMywtMTA0MD
+AzNzk2LC05MDY1MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2MTMw
+LDkwMzY0NjczMCw4NjUxNDE2NzYsLTkzNTA5MTU4NSwxODk1MT
+E4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0ODk0
+MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5NiwxNT
+Y3NzAyNTY5LDEzODkzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAz
+MzgwXX0=
 -->
