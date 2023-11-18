@@ -69,7 +69,7 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
  -- Identificar de forma clara los usuarios primarios, secundarios y/o potenciales. 
  -- Presentar información básica del perfil de los usuarios (rango de edad, ubicación geográfica, género...). 
 Ésta parte será una descripción de forma generalizada (investigar información básica del perfil de los usuarios).
- --Realizar perfiles, personas, escenarios. Se sugiere utilizar la siguiente plantilla (agregar más columnas si se considera necesario): 
+ --Elaborar perfiles, personas, escenarios (Por cada tipo de usuario identificado hacer el perfil de una persona). Se sugiere utilizar la siguiente plantilla (agregar más columnas si se considera necesario): 
 
 <table align=center>  
    <tr>  
@@ -265,7 +265,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3NDExMTMwLC0xMDQwMDM3OTYsLTkwNj
+eyJoaXN0b3J5IjpbLTM1OTQ1MTQ2LC0xMDQwMDM3OTYsLTkwNj
 UzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2NzMw
 LDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OTUxMTg1NTYsLTcxMD
 YzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4OTQwLC04OTQ3MjQx
