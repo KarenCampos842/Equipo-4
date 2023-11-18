@@ -128,7 +128,6 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
  2. *Maldonado Medina Hansony de Jesús:* Requerimientos no funcionales y priorización.
 
 **Actividades**
- - **Requerimientos funcionales:** Modificar los requerimientos para una mayor claridad.
  - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad.
  - **Priorización:** Priorizar los  requerimientos funcionales utilizando la metodología de *"MoSCoW".* 
 
@@ -290,11 +289,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjY3NDQ2LDE5MDQ4ODM5MTMsLTEwND
-AwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEz
-MCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NT
-ExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5
-NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgxOTY3OTYsMT
-U2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3MTEsMTI4ODUw
-MzM4MF19
+eyJoaXN0b3J5IjpbLTcxNDE3OTEyNiwxOTA0ODgzOTEzLC0xMD
+QwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYx
+MzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OT
+UxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4
+OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4MTk2Nzk2LD
+E1Njc3MDI1NjksMTM4OTM5MjM1NiwtNDE5ODc4NzExLDEyODg1
+MDMzODBdfQ==
 -->
