@@ -265,8 +265,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  - **Sketch:** Realizar los diálogos para el sketch. Los personajes principales serán el cliente y el trabajador. 
 El sketch consistirá en dos situaciones, una dónde se represente el problema/necesidad que pretende suplir WorkFlash  y otra final en dónde la situación se haya resuelto utilizando la aplicación (**3 minutos máximo**).  
 
- - Diálogo (producto): Escribir los diálogos para el video.  
- Los di
+ - Diálogo (producto): Describir el producto 
 
  -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
  - **Audios:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  
@@ -311,11 +310,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5OTU1MzUsLTE1MzA0OTA0NTQsLTE0Nz
-k3MTkyNTQsNjEzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNjY4ODQw
-MCwtMTA3NTkxNDAxNywtMjA0Nzk0NTI3LDE4MDMwNTE0NjMsLT
-UyNjg1NDQwMCwxOTA0ODgzOTEzLC0xMDQwMDM3OTYsLTkwNjUz
-NjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2NzMwLD
-g2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OTUxMTg1NTYsLTcxMDYz
-Njc2OV19
+eyJoaXN0b3J5IjpbLTE1MTE2MDM4ODMsOTI5OTU1MzUsLTE1Mz
+A0OTA0NTQsLTE0Nzk3MTkyNTQsNjEzNTE5ODg0LC0xMTU2MzQ0
+NDUwLDczNjY4ODQwMCwtMTA3NTkxNDAxNywtMjA0Nzk0NTI3LD
+E4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgzOTEzLC0xMDQw
+MDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYxMz
+AsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OTUx
+MTg1NTZdfQ==
 -->
