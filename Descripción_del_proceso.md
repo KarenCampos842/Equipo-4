@@ -128,7 +128,7 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
  2. *Maldonado Medina Hansony de Jesús:* Requerimientos no funcionales y priorización.
 
 **Actividades**
- - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad.
+ - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad (eliminar aquellos que no puedan ser probados si.
  - **Refinamiento de artefactos:** Modificar los casos de uso (incluir excepciones). 
   
 Utilizar como guía este ejemplo de <a href="https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416">caso de uso</a> [^3]  
@@ -142,7 +142,7 @@ Utilizar la siguiente plantilla:
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
-       <td colspan="2">1.0 (29/10/2023)</td> 
+       <td colspan="2">2.0 (20/11/2023)</td> 
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
@@ -271,7 +271,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTcwOTA3NywxOTA0ODgzOTEzLC0xMD
+eyJoaXN0b3J5IjpbLTU1Nzc4OTUxOCwxOTA0ODgzOTEzLC0xMD
 QwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYx
 MzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OT
 UxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4
