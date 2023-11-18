@@ -198,8 +198,8 @@ Utilizar la siguiente plantilla:
 
 **Actividades**
 
- - **Evolución de las Interfaces de Usuario:** Resumen del cambio (evolución) de las interfaces entre la segunda y tercera entrega. 
- - 
+ - **Evolución de las Interfaces de Usuario:** Resumen del cambio (evolución) de las interfaces entre la segunda y tercera entrega. Ejemplo: 
+ 
  -   **Correspondencia con los Requisitos:** 
  Verificar que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces.
  Verificar que los prototipos construidos corresponden a los requisitos establecidos. Cada ventana hecha en Figma estará numerada; colocar el número de ventana y el número de requerimiento que le pertenece.
@@ -274,7 +274,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5Mzc4Mjg0LDE5MDQ4ODM5MTMsLTEwND
+eyJoaXN0b3J5IjpbNTc5MTM0Njc5LDE5MDQ4ODM5MTMsLTEwND
 AwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEz
 MCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NT
 ExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC02ODMwNDg5
