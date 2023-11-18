@@ -68,11 +68,20 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
   - **Usuarios:** 
  Identificar de forma clara los usuarios primarios, secundarios y/o potenciales. 
 
-Sugerencia: 
+Se sugiere utilizar la siguiente plantilla: 
 
-|  Género| Edad |Ocupación| 
-|--|--|--|
-|  |  ||
+<table align=center>  
+   <tr>  
+      <th>Tipo de usuario</th>  
+      <th>Género</th> 
+      <th>Edad</th> 
+   </tr> 
+    <tr>  
+      <td><b>Como</b></td>  
+       <td> usuario </td> 
+   </tr> 
+ </table>      
+
 
 
 Tipo de Usuario Fue posible determinar un tipo de usuario específico (primaro) y sus características principales. Se cuenta con información básica del perfil de los usuarios. Se cuentan con información adicional de los usuarios (perfiles, personas, escenarios)*
@@ -249,11 +258,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDAwMzc5NiwtOTA2NTM2MzYsLTE2Nz
-UxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2
-LC05MzUwOTE1ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xOD
-UxODc0NzM4LC02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQy
-ODczLC0yMDgxOTY3OTYsMTU2NzcwMjU2OSwxMzg5MzkyMzU2LC
-00MTk4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMTY1
-ODAwOTZdfQ==
+eyJoaXN0b3J5IjpbMTUyNDI0MTg3NywtMTA0MDAzNzk2LC05MD
+Y1MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2MTMwLDkwMzY0Njcz
+MCw4NjUxNDE2NzYsLTkzNTA5MTU4NSwxODk1MTE4NTU2LC03MT
+A2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0ODk0MCwtODk0NzI0
+MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5NiwxNTY3NzAyNTY5LD
+EzODkzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAzMzgwLDE3MTAz
+OTgzOTRdfQ==
 -->
