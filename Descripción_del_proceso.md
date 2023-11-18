@@ -189,11 +189,9 @@ Utilizar la siguiente plantilla:
  **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>  
  
  ### *Sección "Diseño"*
- **Responsables**
+ **Responsable**
+ *Maldonado Medina Hansony de Jesús:* Evolución de las Interfaces de Usuario, Correspondencia con los Requisitos.
 
- 1. *Campos García Karen Elizabeth:* Bosquejos de Interfaces.
- 2.   *Maldonado Medina Hansony de Jesús:* Correspondencia con los Requisitos.
- 3.   *Romero Poot Carlos Emmanuel:*  Validación de Interfaces.
 
 
 **Actividades**
@@ -295,11 +293,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjQwNjYyNCwtMTA3NTkxNDAxNywtMj
-A0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgz
-OTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC
-0xMTgzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkx
-NTg1LDE4OTUxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOC
-wtNjgzMDQ4OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4
-MTk2Nzk2XX0=
+eyJoaXN0b3J5IjpbLTIwNzM2ODMzMDMsLTEwNzU5MTQwMTcsLT
+IwNDc5NDUyNywxODAzMDUxNDYzLC01MjY4NTQ0MDAsMTkwNDg4
+MzkxMywtMTA0MDAzNzk2LC05MDY1MzYzNiwtMTY3NTE0MzEwNi
+wtMTE4Mzk2MTMwLDkwMzY0NjczMCw4NjUxNDE2NzYsLTkzNTA5
+MTU4NSwxODk1MTE4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3Mz
+gsLTY4MzA0ODk0MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLTIw
+ODE5Njc5Nl19
 -->
