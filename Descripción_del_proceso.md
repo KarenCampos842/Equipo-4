@@ -65,7 +65,8 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
   
  - **Evolución del producto:** Resumen de los cambios completados del producto entre la PRIMERA, SEGUNDA y TERCERA entrega. Mencionar de manera sintetizada los cambios más significativos en los **requerimientos** y **artefactos** y que se cuenta con **evidencia**. 
  
-  - **Evolución del producto:** Resumen de los cambios completados del producto entre la PRIMERA, SEGUNDA y TERCERA entrega. Mencionar de manera sintetizada los cambios más significativos en los **requerimientos** y **artefactos** y que se cuenta con **evidencia**. 
+  - **Usuarios:** 
+ Identificar de forma clara los usuarios primarios, secundarios y/o potenciales. Fue posible determinar un tipo de usuario específico (primaro) y sus características principales. Se cuenta con información básica del perfil de los usuarios. Se cuentan con información adicional de los usuarios (perfiles, personas, escenarios)*
  
   **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a>  
  
@@ -239,11 +240,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE0NzA4MzQsLTE2NzUxNDMxMDYsLT
-ExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1
-ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC
-02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgx
-OTY3OTYsMTU2NzcwMjU2OSwxMzg5MzkyMzU2LC00MTk4Nzg3MT
-EsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMTY1ODAwOTYsLTYy
-NzY4Mzc4N119
+eyJoaXN0b3J5IjpbLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMT
+gzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1
+LDE4OTUxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOCwtNj
+gzMDQ4OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4MTk2
+Nzk2LDE1Njc3MDI1NjksMTM4OTM5MjM1NiwtNDE5ODc4NzExLD
+EyODg1MDMzODAsMTcxMDM5ODM5NCwxMTE2NTgwMDk2LC02Mjc2
+ODM3ODddfQ==
 -->
