@@ -199,12 +199,11 @@ Utilizar la siguiente plantilla:
 **Actividades**
 
  - **Evolución de las Interfaces de Usuario:** Resumen del cambio (evolución) de las interfaces entre la segunda y tercera entrega. Ejemplo: 
- 1_registro
+ 1_registro (nombre de la ventana): Se modificó x cosa. 
  -   **Correspondencia con los Requisitos:** 
  Verificar que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces.
  Verificar que los prototipos construidos corresponden a los requisitos establecidos. Cada ventana hecha en Figma estará numerada; colocar el número de ventana y el número de requerimiento que le pertenece.
- Ejemplo: Ventana #1_ Inicio de sesión: Requerimientos 1,2,3. 
- -    **Validación de Interfaces** Validar del diseño propuesto con el cliente (anotar los comentarios que realice el profesor durante la reunión del martes respecto al diseño). Recolectar los comentarios e informar a Karen para realizar los cambios correspondientes. 
+ Ejemplo: Ventana 1_ registro: Requerimientos 1,2,3. 
  
 **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>
 
@@ -274,7 +273,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ1OTAyNDgsMTkwNDg4MzkxMywtMT
+eyJoaXN0b3J5IjpbLTE0Nzk4MDI4MTIsMTkwNDg4MzkxMywtMT
 A0MDAzNzk2LC05MDY1MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2
 MTMwLDkwMzY0NjczMCw4NjUxNDE2NzYsLTkzNTA5MTU4NSwxOD
 k1MTE4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0
