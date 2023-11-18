@@ -270,8 +270,9 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  1. *Cárdenas Rojas Kendrick Asaf:* Sección Competencias.
 
 **Actividades**
- - **Competencias genéricas:** Argumentar de qué forma se promueven las competencias genéricas a través de actividades específicas del desarrollo del producto.
- - **Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto.
+ - **Competencias genéricas:** Argumentar de qué forma se promueven las competencias genéricas a través de actividades específicas del desarrollo del producto. Las competencias genéricas corresponden al programa de la asignatura (Planeación Didáctica).
+ - **Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto. Las competencias específicas corresponden al programa de la asignatura (Planeación Didáctica).
+ -**Crítica constructiva del curso:** Se realiza una crítica (argumentos) a las actividades que puenden ser mejoradas, cambiadas o eliminadas. Se proponen actividades (específicas) alternativas que podrían mejorar la promoción de las competencias del curso.
 
 ***NOTA:***  Leer el Plan de Estudios de la Licenciatura en Ingeniería de Software[^4] para realizar las actividades. 
 
@@ -296,11 +297,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDU1MDQ3NywtMTA3NTkxNDAxNywtMj
-A0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgz
-OTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC
-0xMTgzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkx
-NTg1LDE4OTUxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOC
-wtNjgzMDQ4OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4
-MTk2Nzk2XX0=
+eyJoaXN0b3J5IjpbMTE3MDYyOTE4LC0xMDc1OTE0MDE3LC0yMD
+Q3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5
+MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLT
+ExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1
+ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC
+02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgx
+OTY3OTZdfQ==
 -->
