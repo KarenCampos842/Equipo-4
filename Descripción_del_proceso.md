@@ -264,7 +264,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
  - **Sketch:** Realizar los diálogos para el sketch. Los personajes principales serán el cliente y el trabajador. 
 El sketch consistirá en dos situaciones, una dónde se represente el problema/necesidad que pretende suplir WorkFlash  y otra final en dónde la situación se haya resuelto utilizando la aplicación (**3 minutos máximo**).  
- - **Diálogo producto (2 min):** Describir el producto (en qué consiste WorkFlash, a quiénes va dirigido, beneficios, etc.).  Guiarse de lo escrito en ***Evolución de producto.*** 
+ - **Diálogo producto (2 min):** Describir el producto (en qué consiste WorkFlash, a quiénes va dirigido, beneficios, etc.).  Guiarse de lo escrito en el archivo  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a>  
  -   **Diálogo diferenciadores (1 min):** Describir las características que tiene WorkFlash que la diferencian de otras apps. Lo que ofrece nuestra aplicación que otras no tienen. 
  -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
  - **Audios:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  
@@ -309,11 +309,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzM0MTM1OSw5Mjk5NTUzNSwtMTUzMD
-Q5MDQ1NCwtMTQ3OTcxOTI1NCw2MTM1MTk4ODQsLTExNTYzNDQ0
-NTAsNzM2Njg4NDAwLC0xMDc1OTE0MDE3LC0yMDQ3OTQ1MjcsMT
-gwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5MTMsLTEwNDAw
-Mzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEzMC
-w5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1ODUsMTg5NTEx
-ODU1Nl19
+eyJoaXN0b3J5IjpbMzQwMTk5MjgyLDE5NzMzNDEzNTksOTI5OT
+U1MzUsLTE1MzA0OTA0NTQsLTE0Nzk3MTkyNTQsNjEzNTE5ODg0
+LC0xMTU2MzQ0NDUwLDczNjY4ODQwMCwtMTA3NTkxNDAxNywtMj
+A0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgz
+OTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC
+0xMTgzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkx
+NTg1XX0=
 -->
