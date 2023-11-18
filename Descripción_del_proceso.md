@@ -222,10 +222,11 @@ Utilizar la siguiente plantilla:
  --Escribir un protocolo que permita replicar la prueba de forma estandarizada entre los "testers". 
 -Realizar un cuestionario de satisfacción.
 - **Aplicación de pruebas y cuestionario**:  Realizar las pruebas diseñadas con usuarios primarios y aplicar el cuestionario de satisfacción. Cada miembro del equipo realizará las pruebas y el cuestionario con un usuario primario (como equipo se habrá recolectado información de 6 usuarios primarios). 
-**Resultados :** 
+**Resultados (métricas):** 
 --Analizar los indicadores que permitan verificar si los requerimientos (funcionales y no funcionales) se alcanzaron. 
 --Determinar el grado de alcance de los requerimientos. 
 --Realizar las siguientes métricas de usabilidad: Eficacia (Éxito en tarea), Eficiencia (tiempo en tarea), Errores y Satisfacción subjetiva con base en los resultados obtenidos de las pruebas. 
+**Resultados (interfaz):**
 -- Determinar de forma específica los cambios/mejoras a las interfaces basados en los resultados de las pruebas. (copiar y pegar lo realizado en la actividad **"Evolución de las Interfaces de Usuario"** agregando una descripción que relacione los cambios con los resultados de las pruebas. Ejemplo:
  1_registro (nombre de la ventana): Se modificó x cosa. 
  Descripción: En la prueba "y" se obtuvo z resultado, por lo que se  decidió modificar x cosa. 
@@ -296,7 +297,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTUxMzczNjIsNzM2Njg4NDAwLC0xMD
+eyJoaXN0b3J5IjpbLTE2OTcyODM4MzUsNzM2Njg4NDAwLC0xMD
 c1OTE0MDE3LC0yMDQ3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0
 NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLT
 E2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQx
