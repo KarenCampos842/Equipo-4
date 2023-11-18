@@ -184,6 +184,8 @@ Utilizar la siguiente plantilla:
   </tr>          
  </table>           
 
+**Listado Final de Requerimientos:** Realizar un diagrama que resume el conjunto de requerimientos (ej. Diagrama de Casos de Uso). Se establece un nivel de cobertura de los requisitos Funcionales y No Funcionales.
+
  **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>  
  
  ### *Sección "Diseño"*
@@ -271,7 +273,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Njg5NzQ1NiwxOTA0ODgzOTEzLC0xMD
+eyJoaXN0b3J5IjpbMTg2MDIyMzUzOCwxOTA0ODgzOTEzLC0xMD
 QwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYx
 MzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OT
 UxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4
