@@ -123,8 +123,7 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
 
 **Responsables del apartado "Evolución de requisitos"**
 
- 1. *Campos García Karen Elizabeth:* Requerimientos funcionales.
- 2. *Maldonado Medina Hansony de Jesús:* Requerimientos no funcionales y priorización.
+ 1. *Maldonado Medina Hansony de Jesús:* Requerimientos no funcionales.
 
 **Actividades**
  - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad (eliminar aquellos que no se puedan probar con lo que se cuenta hasta el momento).
@@ -296,7 +295,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwMjIyMDcyLC0xMDc1OTE0MDE3LC0yMD
+eyJoaXN0b3J5IjpbLTE1ODQ1MDQ0LC0xMDc1OTE0MDE3LC0yMD
 Q3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5
 MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLT
 ExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1
