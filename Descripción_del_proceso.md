@@ -201,7 +201,7 @@ Utilizar la siguiente plantilla:
  - **Evolución de las Interfaces de Usuario:** Resumen del cambio (evolución) de las interfaces entre la segunda y tercera entrega (tomar en cuenta que las modificaciones se realizarán posterior a las pruebas de usabilidad). Ejemplo: 
  1_registro (nombre de la ventana): Se modificó x cosa. 
 <a href="https://www.figma.com/file/dKpr0w4UBgbIhd1HJx5kLn/Bosquejos-de-interfaces-(WorkFlash)?type=design&node-id=54702%3A25212&mode=design&t=HFZIp5n8WLzdbYrO-1">Interfaz previa</a>
-<a href="https://www.figma.com/file/dKpr0w4UBgbIhd1HJx5kLn/Bosquejos-de-interfaces-(WorkFlash)?type=design&node-id=54702%3A25212&mode=design&t=HFZIp5n8WLzdbYrO-1">Modificada</a>
+<a href="https://www.figma.com/file/WxkTPx8zGQiWg8UpDYWTxF/Dise%C3%B1o-modificado-(WorkFlash)?type=design&node-id=11%3A1833&mode=design&t=td8rmplOaTKT1vmg-1">Modificada</a>
  -   **Correspondencia con los Requisitos:** 
  Verificar que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces.
  Verificar que los prototipos construidos corresponden a los requisitos establecidos. Cada ventana hecha en Figma estará numerada; colocar el número de ventana y el número de requerimiento que le pertenece.
@@ -275,11 +275,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2OTE4NTgsMTkwNDg4MzkxMywtMTA0MD
-AzNzk2LC05MDY1MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2MTMw
-LDkwMzY0NjczMCw4NjUxNDE2NzYsLTkzNTA5MTU4NSwxODk1MT
-E4NTU2LC03MTA2MzY3NjksLTE4NTE4NzQ3MzgsLTY4MzA0ODk0
-MCwtODk0NzI0MTE4LC01NDAyNDI4NzMsLTIwODE5Njc5NiwxNT
-Y3NzAyNTY5LDEzODkzOTIzNTYsLTQxOTg3ODcxMSwxMjg4NTAz
-MzgwXX0=
+eyJoaXN0b3J5IjpbLTUyNjg1NDQwMCwxOTA0ODgzOTEzLC0xMD
+QwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYx
+MzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OT
+UxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4
+OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4MTk2Nzk2LD
+E1Njc3MDI1NjksMTM4OTM5MjM1NiwtNDE5ODc4NzExLDEyODg1
+MDMzODBdfQ==
 -->
