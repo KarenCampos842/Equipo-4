@@ -255,7 +255,8 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  
 ### *Sección "Presentación del avance"*
 **Responsables**
- - *Cárdenas Rojas Kendrick Asaf:* Edición del video, Traducción.
+ *Rubén Moisés Loria Pech:* 
+ *Cárdenas Rojas Kendrick Asaf:* Traducción.
 
  **Actividades**
  - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
@@ -298,11 +299,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTYzNDQ0NTAsNzM2Njg4NDAwLC0xMD
-c1OTE0MDE3LC0yMDQ3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0
-NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLT
-E2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQx
-Njc2LC05MzUwOTE1ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC
-0xODUxODc0NzM4LC02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQw
-MjQyODczXX0=
+eyJoaXN0b3J5IjpbNDgxODA4ODcxLC0xMTU2MzQ0NDUwLDczNj
+Y4ODQwMCwtMTA3NTkxNDAxNywtMjA0Nzk0NTI3LDE4MDMwNTE0
+NjMsLTUyNjg1NDQwMCwxOTA0ODgzOTEzLC0xMDQwMDM3OTYsLT
+kwNjUzNjM2LC0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2
+NzMwLDg2NTE0MTY3NiwtOTM1MDkxNTg1LDE4OTUxMTg1NTYsLT
+cxMDYzNjc2OSwtMTg1MTg3NDczOCwtNjgzMDQ4OTQwLC04OTQ3
+MjQxMThdfQ==
 -->
