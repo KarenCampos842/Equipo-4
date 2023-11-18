@@ -57,9 +57,8 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
 
 ### *Sección  "Producto"*
 
-**Responsables**
-
- 1. *Cárdenas Rojas Kendrick Asaf:* Evolución del producto.
+**Responsable**
+*Suárez Balam Brandon Emmanuel:* Actividades de la Sección Producto. 
 
 **Actividades**
   
@@ -297,7 +296,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1NDQwMDI5LC0xMDc1OTE0MDE3LC0yMD
+eyJoaXN0b3J5IjpbMzcwMjIyMDcyLC0xMDc1OTE0MDE3LC0yMD
 Q3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5
 MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLT
 ExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1
