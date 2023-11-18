@@ -67,7 +67,13 @@ Actividad: Corregir la redacción de los casos de uso, de las actividades de la 
  
   - **Usuarios:** 
  Identificar de forma clara los usuarios primarios, secundarios y/o potenciales. 
+
 Sugerencia: 
+
+|  Género| Edad |Ocupación| 
+|--|--|--|
+|  |  ||
+
 
 Tipo de Usuario Fue posible determinar un tipo de usuario específico (primaro) y sus características principales. Se cuenta con información básica del perfil de los usuarios. Se cuentan con información adicional de los usuarios (perfiles, personas, escenarios)*
  
@@ -243,11 +249,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI4ODY2MjksLTkwNjUzNjM2LC0xNj
-c1MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3
-NiwtOTM1MDkxNTg1LDE4OTUxMTg1NTYsLTcxMDYzNjc2OSwtMT
-g1MTg3NDczOCwtNjgzMDQ4OTQwLC04OTQ3MjQxMTgsLTU0MDI0
-Mjg3MywtMjA4MTk2Nzk2LDE1Njc3MDI1NjksMTM4OTM5MjM1Ni
-wtNDE5ODc4NzExLDEyODg1MDMzODAsMTcxMDM5ODM5NCwxMTE2
-NTgwMDk2XX0=
+eyJoaXN0b3J5IjpbLTEwNDAwMzc5NiwtOTA2NTM2MzYsLTE2Nz
+UxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2
+LC05MzUwOTE1ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xOD
+UxODc0NzM4LC02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQy
+ODczLC0yMDgxOTY3OTYsMTU2NzcwMjU2OSwxMzg5MzkyMzU2LC
+00MTk4Nzg3MTEsMTI4ODUwMzM4MCwxNzEwMzk4Mzk0LDExMTY1
+ODAwOTZdfQ==
 -->
