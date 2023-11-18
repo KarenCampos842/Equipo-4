@@ -222,7 +222,7 @@ Utilizar la siguiente plantilla:
  --Escribir un protocolo que permita replicar la prueba de forma estandarizada entre los "testers". 
 -Realizar un cuestionario de satisfacción.
 - **Aplicación de pruebas y cuestionario**:  Realizar las pruebas diseñadas con usuarios primarios y aplicar el cuestionario de satisfacción. Cada miembro del equipo realizará las pruebas y el cuestionario con un usuario primario (como equipo se habrá recolectado información de 6 usuarios primarios). 
-**Resultados:** 
+**Resultados :** 
 --Analizar los indicadores que permitan verificar si los requerimientos (funcionales y no funcionales) se alcanzaron. 
 --Determinar el grado de alcance de los requerimientos. 
 --Realizar las siguientes métricas de usabilidad: Eficacia (Éxito en tarea), Eficiencia (tiempo en tarea), Errores y Satisfacción subjetiva con base en los resultados obtenidos de las pruebas. 
@@ -296,11 +296,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2Njg4NDAwLC0xMDc1OTE0MDE3LC0yMD
-Q3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5
-MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLT
-ExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1
-ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC
-02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgx
-OTY3OTZdfQ==
+eyJoaXN0b3J5IjpbLTExMTUxMzczNjIsNzM2Njg4NDAwLC0xMD
+c1OTE0MDE3LC0yMDQ3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0
+NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLT
+E2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQx
+Njc2LC05MzUwOTE1ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC
+0xODUxODc0NzM4LC02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQw
+MjQyODczXX0=
 -->
