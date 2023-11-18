@@ -213,8 +213,10 @@ Utilizar la siguiente plantilla:
  1.*Campos García Karen Elizabeth:* Pruebas informales, Aplicación de pruebas y cuestionario. 
  2. *Cárdenas Rojas Kendrick Asaf:* Aplicación de pruebas y cuestionario. 
  3. *Maldonado Medina Hansony de Jesús:* Aplicación de pruebas y cuestionario, Resultados y Evolución de las Interfaces de Usuario. 
- 4. *Romero Poot Carlos Emmanuel:*Aplicación de pruebas y cuestionario.
- 5. *Rubén Moisés Loria Pech*
+ 4. *Romero Poot Carlos Emmanuel:* Aplicación de pruebas y cuestionario.
+ 5. *Rubén Moisés Loria Pech:* Aplicación de pruebas y cuestionario.
+ 6. *Suárez Balam Brandon Emmanuel:* Aplicación de pruebas y cuestionario.
+
  **Actividades**
 - **Pruebas Informales**: 
  --Diseñar pruebas informales, identificar los indicadores más relevantes que serán recolectados.
@@ -234,7 +236,7 @@ Utilizar la siguiente plantilla:
 
 **Responsable**
 
- *Campos García Karen Elizabeth:* Sección Proceso.
+*Campos García Karen Elizabeth:* Sección Proceso.
 
 **Actividades**
  - **Descripción del proceso:** Describir de forma clara en un documento el tamaño del sprint, planeación, actividades, responsables, roles y resultados.
@@ -296,11 +298,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjkzMzM1MSwtMTA3NTkxNDAxNywtMj
-A0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgz
-OTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2LC0xNjc1MTQzMTA2LC
-0xMTgzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0MTY3NiwtOTM1MDkx
-NTg1LDE4OTUxMTg1NTYsLTcxMDYzNjc2OSwtMTg1MTg3NDczOC
-wtNjgzMDQ4OTQwLC04OTQ3MjQxMTgsLTU0MDI0Mjg3MywtMjA4
-MTk2Nzk2XX0=
+eyJoaXN0b3J5IjpbNzg3NTU1NzcyLC0xMDc1OTE0MDE3LC0yMD
+Q3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5
+MTMsLTEwNDAwMzc5NiwtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLT
+ExODM5NjEzMCw5MDM2NDY3MzAsODY1MTQxNjc2LC05MzUwOTE1
+ODUsMTg5NTExODU1NiwtNzEwNjM2NzY5LC0xODUxODc0NzM4LC
+02ODMwNDg5NDAsLTg5NDcyNDExOCwtNTQwMjQyODczLC0yMDgx
+OTY3OTZdfQ==
 -->
