@@ -293,6 +293,13 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
+     <tr>
+    <td>Edición demo (Carlos)</td>  
+        <td>Medio</td>
+        <td>26/11/2023</td>
+       <td>27/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
    <tr> 
       <td>Organización y documentación del repositorio (Karen)</td>  
        <td>Bajo</td>
@@ -430,7 +437,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0NTM0MzUyLDE3MTIwNjAyNTksMTkyMj
+eyJoaXN0b3J5IjpbNTYwNDI3MzgxLDE3MTIwNjAyNTksMTkyMj
 c2OTE2MywxNTc1NzMxODgyLDE3NzU2NTAxOTAsMjAxNzA4MDA3
 NSw4MTgxMDE3MDQsLTM2MzI1Njg3NiwtMjAyOTkyNzQxMSwxMT
 c5MDMzNTQ1LC0yMTQ0MDUxNTM2LDE3ODM3ODE5NzYsMzY4NDk3
