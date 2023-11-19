@@ -1216,7 +1216,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    ![enter image description here](https://github-production-user-asset-6210df.s3.amazonaws.com/143464988/280605824-a27ef423-58d7-4dd6-83d8-1661b4117367.jpg)
 
    ### Sprint backlog
-https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#sprint-backlog
+ <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Gestion_del_Proceso.md#sprint-backlog">Ir a sprint backlog</a>  
 
 **Resumen de los cambios en artefactos**
  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a>  
@@ -1226,6 +1226,6 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0NjAzMDA2LC02MzI4Nzg0OTUsLTYxMD
-czOTAwN119
+eyJoaXN0b3J5IjpbLTcxNDI5NDEzNSwtNjMyODc4NDk1LC02MT
+A3MzkwMDddfQ==
 -->
