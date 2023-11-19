@@ -216,7 +216,7 @@ Utilizar la siguiente plantilla:
 3. *Maldonado Medina Hansony de Jesús:* Aplicación de pruebas y cuestionario y Resultados métricas.
  4. *Romero Poot Carlos Emmanuel:* Aplicación de pruebas y cuestionario y Resultados Interfaz.
  5. *Rubén Moisés Loria Pech:* Aplicación de pruebas y cuestionario.
- *Suárez Balam Brandon Emmanuel:* Aplicación de pruebas y cuestionario.
+6.  *Suárez Balam Brandon Emmanuel:* Aplicación de pruebas y cuestionario.
 
  **Actividades**
  - **Pruebas Informales**: 
@@ -327,11 +327,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODQyNzczNywtMjEwMjU2MjczOSw4OT
-EyNTgzMSwtMTE2Njg0OTMxNiwyMDcwOTAzOTUsMTc4MTcxNTUx
-MSw4NzQ3NjIxMDUsLTQyNzYzNDg3MSwxMDQyMDA1MzMzLDE4ND
-Y3NDk5NzUsLTI4MzIwODEzOCwtNzY1MjY0NjE1LDE5NzMzNDEz
-NTksOTI5OTU1MzUsLTE1MzA0OTA0NTQsLTE0Nzk3MTkyNTQsNj
-EzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNjY4ODQwMCwtMTA3NTkx
-NDAxN119
+eyJoaXN0b3J5IjpbODM0MjI4NDQzLC0yMTAyNTYyNzM5LDg5MT
+I1ODMxLC0xMTY2ODQ5MzE2LDIwNzA5MDM5NSwxNzgxNzE1NTEx
+LDg3NDc2MjEwNSwtNDI3NjM0ODcxLDEwNDIwMDUzMzMsMTg0Nj
+c0OTk3NSwtMjgzMjA4MTM4LC03NjUyNjQ2MTUsMTk3MzM0MTM1
+OSw5Mjk5NTUzNSwtMTUzMDQ5MDQ1NCwtMTQ3OTcxOTI1NCw2MT
+M1MTk4ODQsLTExNTYzNDQ0NTAsNzM2Njg4NDAwLC0xMDc1OTE0
+MDE3XX0=
 -->
