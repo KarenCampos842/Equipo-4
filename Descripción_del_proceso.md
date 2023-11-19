@@ -266,7 +266,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  - *Cárdenas Rojas Kendrick Asaf:* Aplicación de pruebas y cuestionario. 
  - *Maldonado Medina Hansony de Jesús:* Aplicación de pruebas y cuestionario y Resultados (métricas).
  - *Romero Poot Carlos Emmanuel:* Aplicación de pruebas y cuestionario y Resultados (Interfaz).
- - *Rubén Moisés Loria Pech:* Edición del video y Sketch (
+ - *Rubén Moisés Loria Pech:* Edición del video, Sketch (personaje: trabajador) y audio.
  - *Suárez Balam Brandon Emmanuel:* Aplicación de pruebas y cuestionario.
 
  **Actividades**
@@ -278,7 +278,7 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
  -   **Diálogo interfaz (1 min):** Describir las funcionalidades principales de la app (un recorrido rápido por la aplicación). Utilizar como guía las <a href="https://www.figma.com/file/WxkTPx8zGQiWg8UpDYWTxF/Dise%C3%B1o-modificado-(WorkFlash)?type=design&node-id=11%3A1833&mode=design&t=td8rmplOaTKT1vmg-1">interfaces</a>.
  -  **Diálogo proceso (2 min):** Describir el proceso de desarrollo. 
  -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
- - **Audios:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  
+ - **Audio:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  
   
  **Archivo del trabajo/Resultado:**  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>
 
@@ -323,11 +323,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDM1NTU1OSwtNDI3NjM0ODcxLDEwND
-IwMDUzMzMsMTg0Njc0OTk3NSwtMjgzMjA4MTM4LC03NjUyNjQ2
-MTUsMTk3MzM0MTM1OSw5Mjk5NTUzNSwtMTUzMDQ5MDQ1NCwtMT
-Q3OTcxOTI1NCw2MTM1MTk4ODQsLTExNTYzNDQ0NTAsNzM2Njg4
-NDAwLC0xMDc1OTE0MDE3LC0yMDQ3OTQ1MjcsMTgwMzA1MTQ2My
-wtNTI2ODU0NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5NiwtOTA2
-NTM2MzZdfQ==
+eyJoaXN0b3J5IjpbNTczMzc0MjYwLC00Mjc2MzQ4NzEsMTA0Mj
+AwNTMzMywxODQ2NzQ5OTc1LC0yODMyMDgxMzgsLTc2NTI2NDYx
+NSwxOTczMzQxMzU5LDkyOTk1NTM1LC0xNTMwNDkwNDU0LC0xND
+c5NzE5MjU0LDYxMzUxOTg4NCwtMTE1NjM0NDQ1MCw3MzY2ODg0
+MDAsLTEwNzU5MTQwMTcsLTIwNDc5NDUyNywxODAzMDUxNDYzLC
+01MjY4NTQ0MDAsMTkwNDg4MzkxMywtMTA0MDAzNzk2LC05MDY1
+MzYzNl19
 -->
