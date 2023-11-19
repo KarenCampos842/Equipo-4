@@ -242,8 +242,9 @@ Utilizar la siguiente plantilla:
 
 **Actividades**
  - **Descripción del proceso:** Describir de forma clara en un documento el tamaño del sprint, planeación, actividades, responsables, roles y resultados.
+
  - **Gestión del proceso**: 
- 
+ -  
  -- Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"Descripción_del_proceso"* (ubicado en la branch "*Tercera-Entrega*") a las personas correspondientes. Revisar el estado de cada una de sus actividades (In Progress, Done). 
  - Orquestar las reuniones: *"Scrum team meeting"* y  "Sprint review". 
  -- Escribir una bitácora de las reuniones de equipo mencionando brevemente acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
@@ -316,11 +317,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzIwODEzOCwtNzY1MjY0NjE1LDE5Nz
-MzNDEzNTksOTI5OTU1MzUsLTE1MzA0OTA0NTQsLTE0Nzk3MTky
-NTQsNjEzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNjY4ODQwMCwtMT
-A3NTkxNDAxNywtMjA0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1
-NDQwMCwxOTA0ODgzOTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2LC
-0xNjc1MTQzMTA2LC0xMTgzOTYxMzAsOTAzNjQ2NzMwLDg2NTE0
-MTY3Nl19
+eyJoaXN0b3J5IjpbNDcwMTI1NzQ1LC0yODMyMDgxMzgsLTc2NT
+I2NDYxNSwxOTczMzQxMzU5LDkyOTk1NTM1LC0xNTMwNDkwNDU0
+LC0xNDc5NzE5MjU0LDYxMzUxOTg4NCwtMTE1NjM0NDQ1MCw3Mz
+Y2ODg0MDAsLTEwNzU5MTQwMTcsLTIwNDc5NDUyNywxODAzMDUx
+NDYzLC01MjY4NTQ0MDAsMTkwNDg4MzkxMywtMTA0MDAzNzk2LC
+05MDY1MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2MTMwLDkwMzY0
+NjczMF19
 -->
