@@ -258,7 +258,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  - **Organización y Documentación del Repositorio:** Crear los siguientes archivos en formato StackEdit en la branch de "*Tercera-Entrega*" del repositorio del equipo (Equipo-4): Producto, Requisitos, Diseño, Pruebas, Presentación del avance, Diálogos, Competencias, Descripción del proceso, Gestión del proceso, Métrica de contribución, Demo y Lista de cotejo. 
  
  **Archivo del trabajo/Resultado:**  
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>  , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Metrica_de_Contribucion.md">Metrica_de_Contribucion.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Lista_de_cotejo.md">Lista_de_cotejo.md</a>.
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>  , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Presentacion_del_avance.md, </a> <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Metrica_de_Contribucion.md">Metrica_de_Contribucion.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Lista_de_cotejo.md">Lista_de_cotejo.md</a>.
  
 ### *Sección "Presentación del avance"*
 **Responsables**
@@ -323,11 +323,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTcxNTUxMSw4NzQ3NjIxMDUsLTQyNz
-YzNDg3MSwxMDQyMDA1MzMzLDE4NDY3NDk5NzUsLTI4MzIwODEz
-OCwtNzY1MjY0NjE1LDE5NzMzNDEzNTksOTI5OTU1MzUsLTE1Mz
-A0OTA0NTQsLTE0Nzk3MTkyNTQsNjEzNTE5ODg0LC0xMTU2MzQ0
-NDUwLDczNjY4ODQwMCwtMTA3NTkxNDAxNywtMjA0Nzk0NTI3LD
-E4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgzOTEzLC0xMDQw
-MDM3OTZdfQ==
+eyJoaXN0b3J5IjpbMTYxNTkxMTgyMiwxNzgxNzE1NTExLDg3ND
+c2MjEwNSwtNDI3NjM0ODcxLDEwNDIwMDUzMzMsMTg0Njc0OTk3
+NSwtMjgzMjA4MTM4LC03NjUyNjQ2MTUsMTk3MzM0MTM1OSw5Mj
+k5NTUzNSwtMTUzMDQ5MDQ1NCwtMTQ3OTcxOTI1NCw2MTM1MTk4
+ODQsLTExNTYzNDQ0NTAsNzM2Njg4NDAwLC0xMDc1OTE0MDE3LC
+0yMDQ3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4
+ODM5MTNdfQ==
 -->
