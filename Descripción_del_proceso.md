@@ -273,7 +273,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
 
  **Actividades**
  - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
- - **Sketch:** Realizar los diálogos para el sketch y la grabación. Los personajes principales serán el cliente y el trabajador. 
+ - **Sketch:** Realizar los diálogos para el sketch. Los personajes principales serán el cliente y el trabajador. 
 El sketch consistirá en dos situaciones, una dónde se represente el problema/necesidad que pretende suplir WorkFlash  y otra final en dónde la situación se haya resuelto utilizando la aplicación (**3 minutos**).  
  - **Diálogo producto (2 min):** Describir el producto (en qué consiste WorkFlash, a quiénes va dirigido, beneficios, etc.).  Guiarse de lo escrito en el archivo  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a>  
  -   **Diálogo diferenciadores (1 min):** Describir las características que tiene WorkFlash que la diferencian de otras apps. Lo que ofrece nuestra aplicación que otras no tienen Guiarse de lo escrito en el apartado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Innovación</a>.
@@ -281,6 +281,7 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
  -  **Diálogo proceso (2 min):** Describir el proceso de desarrollo. 
  -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
  - **Audio:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  Enviar la grabación a Moisés por WhatsApp. 
+ -  **Video sketch:** Grabar el sketch.  Enviar la grabación a Moisés por WhatsApp. 
   
  **Archivo del trabajo/Resultado:**  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>
 
@@ -327,11 +328,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQyMzAxNSwtMjEwMjU2MjczOSw4OT
-EyNTgzMSwtMTE2Njg0OTMxNiwyMDcwOTAzOTUsMTc4MTcxNTUx
-MSw4NzQ3NjIxMDUsLTQyNzYzNDg3MSwxMDQyMDA1MzMzLDE4ND
-Y3NDk5NzUsLTI4MzIwODEzOCwtNzY1MjY0NjE1LDE5NzMzNDEz
-NTksOTI5OTU1MzUsLTE1MzA0OTA0NTQsLTE0Nzk3MTkyNTQsNj
-EzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNjY4ODQwMCwtMTA3NTkx
-NDAxN119
+eyJoaXN0b3J5IjpbLTE2OTQ0OTg1NjEsLTE5MzQyMzAxNSwtMj
+EwMjU2MjczOSw4OTEyNTgzMSwtMTE2Njg0OTMxNiwyMDcwOTAz
+OTUsMTc4MTcxNTUxMSw4NzQ3NjIxMDUsLTQyNzYzNDg3MSwxMD
+QyMDA1MzMzLDE4NDY3NDk5NzUsLTI4MzIwODEzOCwtNzY1MjY0
+NjE1LDE5NzMzNDEzNTksOTI5OTU1MzUsLTE1MzA0OTA0NTQsLT
+E0Nzk3MTkyNTQsNjEzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNjY4
+ODQwMF19
 -->
