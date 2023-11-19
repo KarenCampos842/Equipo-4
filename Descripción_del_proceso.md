@@ -306,7 +306,7 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
  - **Edición demo:** Grabar un video mostrando cómo se debe usar la aplicación. Mostrar la navegación por la aplicación. 
  **- Audio demo:** Grabar el audio en inglés para el demo.
 
- **Archivo del trabajo/Resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>
+ **Archivo del trabajo/Resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Demo.md#demo">Demo.md</a>
  
 ## Scrum team meeting
  Karen se encargará de realizar reuniones con el equipo vía Teams o de forma presencial de no más de 15 minutos  para monitorear el trabajo realizado. Las reuniones tendrán lugar todos los días, exceptuando fines de semana y días inhábiles hasta el fin del sprint.
@@ -325,11 +325,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0MTE1NDkxLDE3ODE3MTU1MTEsODc0Nz
-YyMTA1LC00Mjc2MzQ4NzEsMTA0MjAwNTMzMywxODQ2NzQ5OTc1
-LC0yODMyMDgxMzgsLTc2NTI2NDYxNSwxOTczMzQxMzU5LDkyOT
-k1NTM1LC0xNTMwNDkwNDU0LC0xNDc5NzE5MjU0LDYxMzUxOTg4
-NCwtMTE1NjM0NDQ1MCw3MzY2ODg0MDAsLTEwNzU5MTQwMTcsLT
-IwNDc5NDUyNywxODAzMDUxNDYzLC01MjY4NTQ0MDAsMTkwNDg4
-MzkxM119
+eyJoaXN0b3J5IjpbLTQ2MjY3MjczNiwxNzgxNzE1NTExLDg3ND
+c2MjEwNSwtNDI3NjM0ODcxLDEwNDIwMDUzMzMsMTg0Njc0OTk3
+NSwtMjgzMjA4MTM4LC03NjUyNjQ2MTUsMTk3MzM0MTM1OSw5Mj
+k5NTUzNSwtMTUzMDQ5MDQ1NCwtMTQ3OTcxOTI1NCw2MTM1MTk4
+ODQsLTExNTYzNDQ0NTAsNzM2Njg4NDAwLC0xMDc1OTE0MDE3LC
+0yMDQ3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4
+ODM5MTNdfQ==
 -->
