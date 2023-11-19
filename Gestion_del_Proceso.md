@@ -37,7 +37,7 @@ Fecha límite: 3/11/2023
 Fecha límite: 5/11/2023 (Presentación del avance)
 
 ## Sprint Backlog
-Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
+Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/SegundTercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
 
 Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
 <table align=center>  
@@ -242,10 +242,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4NDk3MjAzLDIwMDg5NDQwNzAsMTY4OD
-gzMzE0OCwxOTc0NzY5OTc1LC0xNzg0NDg0NDEzLC05NzE4NTQy
-MjQsLTE0MjI3NjQ1MDIsNjI2Njk3MDI2LDQxMjUyOTE1MCwxNj
-E0NjczMDIxLDk5NDczNjcxNCwxMTkxMzg4MTkzLC0zNjIyMzE0
-MjgsLTc3MDQwODA5NiwtMTU3NzY0NDk4NiwxNjc0NTQ1NTgyLC
-0xNjAzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
+eyJoaXN0b3J5IjpbLTE5NDc3NDgwNjAsMzY4NDk3MjAzLDIwMD
+g5NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5OTc1LC0xNzg0NDg0
+NDEzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MDIsNjI2Njk3MDI2LD
+QxMjUyOTE1MCwxNjE0NjczMDIxLDk5NDczNjcxNCwxMTkxMzg4
+MTkzLC0zNjIyMzE0MjgsLTc3MDQwODA5NiwtMTU3NzY0NDk4Ni
+wxNjc0NTQ1NTgyLC0xNjAzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
+
 -->
