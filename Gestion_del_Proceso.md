@@ -90,6 +90,21 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>26/11/2023</td>
          <td>Terminada</td>     
    </tr> 
+    <tr>
+    <td>Correspondencia con los Requisitos (Hansony)</td>  
+        <td>Medio</td>
+        <td>26/11/2023</td>
+       <td>27/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
+     </tr> 
+    <tr>
+    <td>Correspondencia con los Requisitos (Hansony)</td>  
+        <td>Medio</td>
+        <td>26/11/2023</td>
+       <td>27/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
    <tr>  
       <td>Organización y documentación del repositorio (Karen)</td>  
        <td>Bajo</td>
@@ -188,13 +203,6 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>1/11/2023</td>
         <td>Terminada</td>    
    </tr> 
-   <tr>
-    <td>Correspondencia con los Requisitos (Hansony)</td>  
-        <td>Medio</td>
-        <td>26/11/2023</td>
-       <td>27/11/2023</td>
-        <td>Terminada</td>     
-   </tr>
    <tr>  
       <td>Diálogos (Asaf)</td>  
        <td>Alto</td>
@@ -248,7 +256,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDkwMDkwMSwtMjE0NDA1MTUzNiwxNz
+eyJoaXN0b3J5IjpbMTMxOTY0Njg1MCwtMjE0NDA1MTUzNiwxNz
 gzNzgxOTc2LDM2ODQ5NzIwMywyMDA4OTQ0MDcwLDE2ODg4MzMx
 NDgsMTk3NDc2OTk3NSwtMTc4NDQ4NDQxMywtOTcxODU0MjI0LC
 0xNDIyNzY0NTAyLDYyNjY5NzAyNiw0MTI1MjkxNTAsMTYxNDY3
