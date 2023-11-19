@@ -130,7 +130,7 @@ Marcar como "closed" sus issues asignados cuando finalicen una actividad.
 
 
 **Actividades**
- - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad (eliminar aquellos que no se puedan probar con lo que se cuenta hasta el momento).
+ - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad (eliminar aquellos que no se puedan probar con lo que se cuenta hasta el momento). Modificar la priorización de los requerimientos. 
  - **Refinamiento de artefactos:** Modificar los casos de uso (incluir excepciones). 
   
 Utilizar como guía este ejemplo de <a href="https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416">caso de uso</a> [^3]  
@@ -317,7 +317,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTg4NzI3NiwtMjgzMjA4MTM4LC03Nj
+eyJoaXN0b3J5IjpbMTg0Njc0OTk3NSwtMjgzMjA4MTM4LC03Nj
 UyNjQ2MTUsMTk3MzM0MTM1OSw5Mjk5NTUzNSwtMTUzMDQ5MDQ1
 NCwtMTQ3OTcxOTI1NCw2MTM1MTk4ODQsLTExNTYzNDQ0NTAsNz
 M2Njg4NDAwLC0xMDc1OTE0MDE3LC0yMDQ3OTQ1MjcsMTgwMzA1
