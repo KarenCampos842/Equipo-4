@@ -212,29 +212,32 @@ Utilizar la siguiente plantilla:
 **Responsables**
 
  1.*Campos García Karen Elizabeth:* Pruebas informales, Aplicación de pruebas y cuestionario. 
- 2. *Cárdenas Rojas Kendrick Asaf:* Aplicación de pruebas y cuestionario. 
- 3. *Maldonado Medina Hansony de Jesús:* Aplicación de pruebas y cuestionario y Resultados (métricas).
- 4. *Romero Poot Carlos Emmanuel:* Aplicación de pruebas y cuestionario y Resultados (Interfaz).
- 5. *Rubén Moisés Loria Pech:* Aplicación de pruebas y cuestionario.
- 6. *Suárez Balam Brandon Emmanuel:* Aplicación de pruebas y cuestionario.
+ - *Cárdenas Rojas Kendrick Asaf:* Aplicación de pruebas y cuestionario. 
+ - *Maldonado Medina Hansony de Jesús:* Aplicación de pruebas y cuestionario y Resultados (métricas).
+ - *Romero Poot Carlos Emmanuel:* Aplicación de pruebas y cuestionario y Resultados (Interfaz).
+ - *Rubén Moisés Loria Pech:* Aplicación de pruebas y cuestionario.
+ - *Suárez Balam Brandon Emmanuel:* Aplicación de pruebas y cuestionario.
 
  **Actividades**
-- **Pruebas Informales**: 
+ - **Pruebas Informales**: 
  --Diseñar pruebas informales, identificar los indicadores más relevantes que serán recolectados.
  --Verificar que los indicadores corresponden a los objetivos del principales del producto. 
  --Escribir un protocolo que permita replicar la prueba de forma estandarizada entre los "testers". 
 -Realizar un cuestionario de satisfacción.
-- **Aplicación de pruebas y cuestionario**:  Realizar las pruebas diseñadas con usuarios primarios y aplicar el cuestionario de satisfacción. Cada miembro del equipo realizará las pruebas y el cuestionario con un usuario primario (como equipo se habrá recolectado información de 6 usuarios primarios). 
-**Resultados (métricas):** 
+ - **Aplicación de pruebas y cuestionario**:  Realizar las pruebas diseñadas con usuarios primarios y aplicar el cuestionario de satisfacción. Cada miembro del equipo realizará las pruebas y el cuestionario con un usuario primario (como equipo se habrá recolectado información de 6 usuarios primarios). 
+
+ - **Resultados (métricas):** 
 --Analizar los indicadores que permitan verificar si los requerimientos (funcionales y no funcionales) se alcanzaron. 
 --Determinar el grado de alcance de los requerimientos. 
 --Realizar las siguientes métricas de usabilidad: Eficacia (Éxito en tarea), Eficiencia (tiempo en tarea), Errores y Satisfacción subjetiva con base en los resultados obtenidos de las pruebas. 
-**Resultados (interfaz):**
+
+ - **Resultados (interfaz):**
 -- Determinar de forma específica los cambios/mejoras a las interfaces basados en los resultados de las pruebas. (copiar y pegar lo realizado en la actividad **"Evolución de las Interfaces de Usuario"** agregando una descripción que relacione los cambios con los resultados de las pruebas. Ejemplo:
  1_registro (nombre de la ventana): Se modificó x cosa. 
  Descripción: En la prueba "y" se obtuvo z resultado, por lo que se  decidió modificar x cosa. 
 
 **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
+
 ### *Sección "Proceso"*
 
 **Responsable**
@@ -255,7 +258,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  - **Organización y Documentación del Repositorio:** Crear los siguientes archivos en formato StackEdit en la branch de "*Tercera-Entrega*" del repositorio del equipo (Equipo-4): Producto, Requisitos, Diseño, Pruebas, Presentación del avance, Diálogos, Competencias, Descripción del proceso, Gestión del proceso, Métrica de contribución, Demo y Lista de cotejo. 
  
  **Archivo del trabajo/Resultado:**  
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>  , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Metrica_de_Contribucion.md">Metrica_de_Contribucion.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Lista_de_cotejo.md">Lista_de_cotejo.md</a>.
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>  , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Metrica_de_Contribucion.md">Metrica_de_Contribucion.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Lista_de_cotejo.md">Lista_de_cotejo.md</a>.
  
 ### *Sección "Presentación del avance"*
 **Responsables**
@@ -316,11 +319,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzM4OTY4MSwtNDI3NjM0ODcxLDEwND
-IwMDUzMzMsMTg0Njc0OTk3NSwtMjgzMjA4MTM4LC03NjUyNjQ2
-MTUsMTk3MzM0MTM1OSw5Mjk5NTUzNSwtMTUzMDQ5MDQ1NCwtMT
-Q3OTcxOTI1NCw2MTM1MTk4ODQsLTExNTYzNDQ0NTAsNzM2Njg4
-NDAwLC0xMDc1OTE0MDE3LC0yMDQ3OTQ1MjcsMTgwMzA1MTQ2My
-wtNTI2ODU0NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5NiwtOTA2
-NTM2MzZdfQ==
+eyJoaXN0b3J5IjpbNTUyNzM4OTgwLC00Mjc2MzQ4NzEsMTA0Mj
+AwNTMzMywxODQ2NzQ5OTc1LC0yODMyMDgxMzgsLTc2NTI2NDYx
+NSwxOTczMzQxMzU5LDkyOTk1NTM1LC0xNTMwNDkwNDU0LC0xND
+c5NzE5MjU0LDYxMzUxOTg4NCwtMTE1NjM0NDQ1MCw3MzY2ODg0
+MDAsLTEwNzU5MTQwMTcsLTIwNDc5NDUyNywxODAzMDUxNDYzLC
+01MjY4NTQ0MDAsMTkwNDg4MzkxMywtMTA0MDAzNzk2LC05MDY1
+MzYzNl19
 -->
