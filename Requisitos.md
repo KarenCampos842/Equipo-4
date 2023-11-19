@@ -1218,9 +1218,13 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
    ### Sprint backlog
 https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#sprint-backlog
 
+Resumen
+ <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a>  
+
 [^1]:Simões, C. (14 de julio de 2020). MoSCoW. ¿Qué es y cómo priorizar en el desarrollo de tu aplicación? *ITDO*. https://www.itdo.com/blog/moscow-que-es-y-como-priorizar-en-el-desarrollo-de-tu-aplicacion/
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjg3ODQ5NSwtNjEwNzM5MDA3XX0=
+eyJoaXN0b3J5IjpbLTM4NTE4NTc0NywtNjMyODc4NDk1LC02MT
+A3MzkwMDddfQ==
 -->
