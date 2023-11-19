@@ -274,7 +274,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  - **Sketch:** Realizar los diálogos para el sketch y la grabación. Los personajes principales serán el cliente y el trabajador. 
 El sketch consistirá en dos situaciones, una dónde se represente el problema/necesidad que pretende suplir WorkFlash  y otra final en dónde la situación se haya resuelto utilizando la aplicación (**3 minutos**).  
  - **Diálogo producto (2 min):** Describir el producto (en qué consiste WorkFlash, a quiénes va dirigido, beneficios, etc.).  Guiarse de lo escrito en el archivo  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a>  
- -   **Diálogo diferenciadores (1 min):** Describir las características que tiene WorkFlash que la diferencian de otras apps. Lo que ofrece nuestra aplicación que otras no tienen Guiarse de lo escrito en el partado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Innovación</a>.
+ -   **Diálogo diferenciadores (1 min):** Describir las características que tiene WorkFlash que la diferencian de otras apps. Lo que ofrece nuestra aplicación que otras no tienen Guiarse de lo escrito en el apartado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Innovación</a>.
  -   **Diálogo interfaz (1 min):** Describir las funcionalidades principales de la app (un recorrido rápido por la aplicación). Utilizar como guía las <a href="https://www.figma.com/file/WxkTPx8zGQiWg8UpDYWTxF/Dise%C3%B1o-modificado-(WorkFlash)?type=design&node-id=11%3A1833&mode=design&t=td8rmplOaTKT1vmg-1">interfaces</a>.
  -  **Diálogo proceso (2 min):** Describir el proceso de desarrollo. 
  -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
@@ -325,11 +325,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjY3MjczNiwxNzgxNzE1NTExLDg3ND
-c2MjEwNSwtNDI3NjM0ODcxLDEwNDIwMDUzMzMsMTg0Njc0OTk3
-NSwtMjgzMjA4MTM4LC03NjUyNjQ2MTUsMTk3MzM0MTM1OSw5Mj
-k5NTUzNSwtMTUzMDQ5MDQ1NCwtMTQ3OTcxOTI1NCw2MTM1MTk4
-ODQsLTExNTYzNDQ0NTAsNzM2Njg4NDAwLC0xMDc1OTE0MDE3LC
-0yMDQ3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4
-ODM5MTNdfQ==
+eyJoaXN0b3J5IjpbLTIxMzI0MzI0MDcsMTc4MTcxNTUxMSw4Nz
+Q3NjIxMDUsLTQyNzYzNDg3MSwxMDQyMDA1MzMzLDE4NDY3NDk5
+NzUsLTI4MzIwODEzOCwtNzY1MjY0NjE1LDE5NzMzNDEzNTksOT
+I5OTU1MzUsLTE1MzA0OTA0NTQsLTE0Nzk3MTkyNTQsNjEzNTE5
+ODg0LC0xMTU2MzQ0NDUwLDczNjY4ODQwMCwtMTA3NTkxNDAxNy
+wtMjA0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0
+ODgzOTEzXX0=
 -->
