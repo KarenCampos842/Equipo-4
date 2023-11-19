@@ -267,8 +267,8 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  1.*Campos García Karen Elizabeth:* Diálogo proceso y Audio. 
  2.  *Cárdenas Rojas Kendrick Asaf:* Diálogo interfaz, Audio y Traducción. 
 3. *Maldonado Medina Hansony de Jesús:* Diálogo diferenciadores y Audio. 
-4. *Romero Poot Carlos Emmanuel:* Sketch (personaje: cliente) y Audio.
- 5. *Rubén Moisés Loria Pech:* Edición del video, Sketch (personaje: trabajador) y Audio.
+4. *Romero Poot Carlos Emmanuel:* Sketch (personaje: cliente) y Video sketch.
+ 5. *Rubén Moisés Loria Pech:* Edición del video, Sketch (personaje: trabajador) y Video sketch.
  6. *Suárez Balam Brandon Emmanuel:* Diálogo producto y Audio. 
 
  **Actividades**
@@ -281,7 +281,7 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
  -  **Diálogo proceso (2 min):** Describir el proceso de desarrollo. 
  -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
  - **Audio:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  Enviar la grabación a Moisés por WhatsApp. 
- -  **Video sketch:** Grabar el sketch.  Enviar la grabación a Moisés por WhatsApp. 
+ -  **Video sketch:** Grabar el sketch.  Enviar el video a Moisés por WhatsApp. 
   
  **Archivo del trabajo/Resultado:**  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>
 
@@ -328,7 +328,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQ0OTg1NjEsLTE5MzQyMzAxNSwtMj
+eyJoaXN0b3J5IjpbLTEyMTIwNTIyNzQsLTE5MzQyMzAxNSwtMj
 EwMjU2MjczOSw4OTEyNTgzMSwtMTE2Njg0OTMxNiwyMDcwOTAz
 OTUsMTc4MTcxNTUxMSw4NzQ3NjIxMDUsLTQyNzYzNDg3MSwxMD
 QyMDA1MzMzLDE4NDY3NDk5NzUsLTI4MzIwODEzOCwtNzY1MjY0
