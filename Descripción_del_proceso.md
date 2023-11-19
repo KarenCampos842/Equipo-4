@@ -271,7 +271,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
 
  **Actividades**
  - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
- - **Sketch:** Realizar los diálogos para el sketch. Los personajes principales serán el cliente y el trabajador. 
+ - **Sketch:** Realizar los diálogos para el sketch y la grabación. Los personajes principales serán el cliente y el trabajador. 
 El sketch consistirá en dos situaciones, una dónde se represente el problema/necesidad que pretende suplir WorkFlash  y otra final en dónde la situación se haya resuelto utilizando la aplicación (**3 minutos**).  
  - **Diálogo producto (2 min):** Describir el producto (en qué consiste WorkFlash, a quiénes va dirigido, beneficios, etc.).  Guiarse de lo escrito en el archivo  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a>  
  -   **Diálogo diferenciadores (1 min):** Describir las características que tiene WorkFlash que la diferencian de otras apps. Lo que ofrece nuestra aplicación que otras no tienen Guiarse de lo escrito en el partado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Innovación</a>.
@@ -280,7 +280,7 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
  -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
  - **Audio:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  
   
- **Archivo del trabajo/Resultado:**  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>
+ **Archivo del trabajo/Resultado:**  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>
 
  ### *Sección "Competencias"*
 
@@ -323,11 +323,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0MTQyNjU2LDg3NDc2MjEwNSwtNDI3Nj
-M0ODcxLDEwNDIwMDUzMzMsMTg0Njc0OTk3NSwtMjgzMjA4MTM4
-LC03NjUyNjQ2MTUsMTk3MzM0MTM1OSw5Mjk5NTUzNSwtMTUzMD
-Q5MDQ1NCwtMTQ3OTcxOTI1NCw2MTM1MTk4ODQsLTExNTYzNDQ0
-NTAsNzM2Njg4NDAwLC0xMDc1OTE0MDE3LC0yMDQ3OTQ1MjcsMT
-gwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5MTMsLTEwNDAw
-Mzc5Nl19
+eyJoaXN0b3J5IjpbMTc4MTcxNTUxMSw4NzQ3NjIxMDUsLTQyNz
+YzNDg3MSwxMDQyMDA1MzMzLDE4NDY3NDk5NzUsLTI4MzIwODEz
+OCwtNzY1MjY0NjE1LDE5NzMzNDEzNTksOTI5OTU1MzUsLTE1Mz
+A0OTA0NTQsLTE0Nzk3MTkyNTQsNjEzNTE5ODg0LC0xMTU2MzQ0
+NDUwLDczNjY4ODQwMCwtMTA3NTkxNDAxNywtMjA0Nzk0NTI3LD
+E4MDMwNTE0NjMsLTUyNjg1NDQwMCwxOTA0ODgzOTEzLC0xMDQw
+MDM3OTZdfQ==
 -->
