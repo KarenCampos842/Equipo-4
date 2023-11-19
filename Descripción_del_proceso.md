@@ -262,12 +262,12 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  
 ### *Sección "Presentación del avance"*
 **Responsables**
- 1.*Campos García Karen Elizabeth:* Pruebas informales, Aplicación de pruebas y cuestionario. 
- - *Cárdenas Rojas Kendrick Asaf:* Diálogo interfaz, audio y traducción. 
- - *Maldonado Medina Hansony de Jesús:* Diálogo diferenciadores y audio. 
- - *Romero Poot Carlos Emmanuel:* Aplicación de pruebas y cuestionario y Resultados (Interfaz).
- - *Rubén Moisés Loria Pech:* Edición del video, Sketch (personaje: trabajador) y audio.
- - *Suárez Balam Brandon Emmanuel:* Diálogo producto y audio. 
+ 1.*Campos García Karen Elizabeth:* Diálogo proceso y Audio. 
+ - *Cárdenas Rojas Kendrick Asaf:* Diálogo interfaz, Audio y Traducción. 
+ - *Maldonado Medina Hansony de Jesús:* Diálogo diferenciadores y Audio. 
+ - *Romero Poot Carlos Emmanuel:* Sketch (personaje: cliente) y Audio.
+ - *Rubén Moisés Loria Pech:* Edición del video, Sketch (personaje: trabajador) y Audio.
+ - *Suárez Balam Brandon Emmanuel:* Diálogo producto y Audio. 
 
  **Actividades**
  - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
@@ -323,7 +323,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5Mzk1MjgyLC00Mjc2MzQ4NzEsMTA0Mj
+eyJoaXN0b3J5IjpbODc0NzYyMTA1LC00Mjc2MzQ4NzEsMTA0Mj
 AwNTMzMywxODQ2NzQ5OTc1LC0yODMyMDgxMzgsLTc2NTI2NDYx
 NSwxOTczMzQxMzU5LDkyOTk1NTM1LC0xNTMwNDkwNDU0LC0xND
 c5NzE5MjU0LDYxMzUxOTg4NCwtMTE1NjM0NDQ1MCw3MzY2ODg0
