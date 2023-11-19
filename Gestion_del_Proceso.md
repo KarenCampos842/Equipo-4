@@ -105,8 +105,8 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>Terminada</td>     
    </tr>
   <tr>  
-      <td>Audio_Sketch personaje: cliente (Carlos)</td>  
-        <td>Bajo</td>
+      <td>Video sketch_ personaje: cliente (Carlos)</td>  
+        <td>Medio</td>
         <td>18/11/2023</td>
        <td>23/11/2023</td>
         <td>Terminada</td>     
@@ -388,11 +388,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjM4NDQwNjEsMTc3NTY1MDE5MCwyMD
-E3MDgwMDc1LDgxODEwMTcwNCwtMzYzMjU2ODc2LC0yMDI5OTI3
-NDExLDExNzkwMzM1NDUsLTIxNDQwNTE1MzYsMTc4Mzc4MTk3Ni
-wzNjg0OTcyMDMsMjAwODk0NDA3MCwxNjg4ODMzMTQ4LDE5NzQ3
-Njk5NzUsLTE3ODQ0ODQ0MTMsLTk3MTg1NDIyNCwtMTQyMjc2ND
-UwMiw2MjY2OTcwMjYsNDEyNTI5MTUwLDE2MTQ2NzMwMjEsOTk0
-NzM2NzE0XX0=
+eyJoaXN0b3J5IjpbLTIxNTgwNjcyLDE3NzU2NTAxOTAsMjAxNz
+A4MDA3NSw4MTgxMDE3MDQsLTM2MzI1Njg3NiwtMjAyOTkyNzQx
+MSwxMTc5MDMzNTQ1LC0yMTQ0MDUxNTM2LDE3ODM3ODE5NzYsMz
+Y4NDk3MjAzLDIwMDg5NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5
+OTc1LC0xNzg0NDg0NDEzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MD
+IsNjI2Njk3MDI2LDQxMjUyOTE1MCwxNjE0NjczMDIxLDk5NDcz
+NjcxNF19
 -->
