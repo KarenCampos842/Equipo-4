@@ -48,6 +48,13 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
            <th>Fecha máxima de finalización</th>
                 <th>Estado de entrega</th>    
    </tr>
+    <tr> 
+      <td>Organización y documentación del repositorio (Karen)</td>  
+       <td>Bajo</td>
+         <td>18/11/2023</td>
+       <td>18/11/2023</td>
+         <td>Terminada</td>       
+   </tr> 
     <tr>  
       <td>Corrección de redacción (Brandon)</td>  
        <td>Alto</td> 
@@ -320,106 +327,15 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
          <td>27/10/2023</td>
        <td>28/10/2023</td>
          <td>Terminada</td>       
-   </tr> 
-   <tr>  
-      <td>Evolución del producto
- <del>(Asaf)</del> (Brandon)</td>  
-       <td>Medio</td>
-        <td>28/10/2023</td>
-       <td>31/10/2023</td>
-        <td>Terminada</td>   
-   </tr> 
-   <tr>  
-      <td>Requerimientos no funcionales (Hansony)</td>  
-        <td>Alto</td>
-        <td>28/10/2023</td>
-       <td>30/10/2023</td>
-        <td>Terminada</td>     
-   </tr> 
-   <tr>  
-      <td>Priorización (Hansony)</td>  
-        <td>Bajo</td>
-        <td>28/10/2023</td>
-       <td>30/10/2023</td>
-        <td>Terminada</td>     
-   </tr> 
-    <tr>  
-      <td>Casos de uso: historias de usuario número 1, 2, 8 y 15 (Hansony)</td>  
-        <td>Alto</td>
-        <td>28/10/2023</td>
-       <td>30/10/2023</td>
-        <td>Terminada</td>     
    </tr>
-    <td>Casos de uso: historias de usuario número  11, 12 , 13 y 14 (Carlos)</td>  
-        <td>Alto</td>
-        <td>28/10/2023</td>
-       <td>30/10/2023</td>
-        <td>Terminada</td>     
-   </tr>
-   <tr>
-    <td>Casos de uso: historias de usuario número  6, 7, 9  y 10 (Moisés)</td>  
-        <td>Alto</td>
-        <td>28/10/2023</td>
-       <td>30/10/2023</td>
-        <td>No terminada</td>     
-   </tr>
-   <tr>
-    <td>Casos de uso: historias de usuario número 3, 4, 5  y 16 (Brandon)</td>  
-        <td>Alto</td>
-        <td>28/10/2023</td>
-       <td>30/10/2023</td>
-        <td>Terminada</td>     
-   </tr>
-    <tr>
-    <td>Diagrama de Caso de Uso (Carlos)</td>  
-        <td>Alto</td>
-        <td>28/10/2023</td>
-       <td>31/10/2023</td>
-        <td>Terminada</td>     
-   </tr>
-    <tr>  
-      <td>Congruencia en los casos de uso (Brandon)</td>  
-       <td>Alto</td> 
-       <td>30/10/2023</td>
-       <td>1/11/2023</td>
-        <td>Terminada</td>    
-   </tr> 
-   <tr>  
-      <td>Diálogos (Asaf)</td>  
-       <td>Alto</td>
-         <td>30/10/2023</td>
-       <td>2/11/2023</td>
+    <tr> 
+      <td>Organización y documentación del repositorio (Karen)</td>  
+       <td>Bajo</td>
+         <td>27/10/2023</td>
+       <td>28/10/2023</td>
          <td>Terminada</td>       
-   </tr> 
-   <tr>
-    <td>Bosquejos de Interfaces (Karen)</td>  
-        <td>Alto</td>
-        <td>31/10/2023</td>
-       <td>2/11/2023</td>
-        <td>Terminada</td>     
-   </tr>
-   <tr>
-    <td>Validación de Interfaces (Carlos)</td>  
-        <td>Bajo</td>
-        <td>31/10/2023</td>
-       <td>2/11/2023</td>
-        <td>Terminada</td>     
    </tr>  
-   <tr>  
-      <td>Audios (Asaf)</td>  
-       <td>Medio</td>
-         <td>2/11/2023</td>
-       <td>2/11/2023</td>
-         <td>Terminada</td>       
-   </tr>                                                                                      
-   <tr>  
-      <td>Edición del video (Moisés)</td>  
-       <td>Alto</td>
-         <td>3/11/2023</td>
-       <td>5/11/2023</td>
-         <td>Terminada</td>       
-   </tr>
-    <tr>  
+  <tr>  
       <td colspan=3><strong>Total de actividades</strong></td>  
        <td colspan=2>25</td>
    </tr> 
@@ -437,11 +353,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMjI5OTMzLC0xMTI2MzQ3NTU5LDE3MT
-IwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMxODgyLDE3NzU2NTAx
-OTAsMjAxNzA4MDA3NSw4MTgxMDE3MDQsLTM2MzI1Njg3NiwtMj
-AyOTkyNzQxMSwxMTc5MDMzNTQ1LC0yMTQ0MDUxNTM2LDE3ODM3
-ODE5NzYsMzY4NDk3MjAzLDIwMDg5NDQwNzAsMTY4ODgzMzE0OC
-wxOTc0NzY5OTc1LC0xNzg0NDg0NDEzLC05NzE4NTQyMjQsLTE0
-MjI3NjQ1MDJdfQ==
+eyJoaXN0b3J5IjpbMzQyNTgzMDcsLTExMjYzNDc1NTksMTcxMj
+A2MDI1OSwxOTIyNzY5MTYzLDE1NzU3MzE4ODIsMTc3NTY1MDE5
+MCwyMDE3MDgwMDc1LDgxODEwMTcwNCwtMzYzMjU2ODc2LC0yMD
+I5OTI3NDExLDExNzkwMzM1NDUsLTIxNDQwNTE1MzYsMTc4Mzc4
+MTk3NiwzNjg0OTcyMDMsMjAwODk0NDA3MCwxNjg4ODMzMTQ4LD
+E5NzQ3Njk5NzUsLTE3ODQ0ODQ0MTMsLTk3MTg1NDIyNCwtMTQy
+Mjc2NDUwMl19
 -->
