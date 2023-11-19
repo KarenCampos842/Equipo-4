@@ -112,6 +112,13 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
+     <tr>
+    <td>Aplicación de pruebas y cuestionario (Karen)</td>  
+        <td>Medio</td>
+        <td>26/11/2023</td>
+       <td>27/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
    <tr>  
       <td>Organización y documentación del repositorio (Karen)</td>  
        <td>Bajo</td>
@@ -263,11 +270,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjEwMzEsLTIxNDQwNTE1MzYsMTc4Mz
-c4MTk3NiwzNjg0OTcyMDMsMjAwODk0NDA3MCwxNjg4ODMzMTQ4
-LDE5NzQ3Njk5NzUsLTE3ODQ0ODQ0MTMsLTk3MTg1NDIyNCwtMT
-QyMjc2NDUwMiw2MjY2OTcwMjYsNDEyNTI5MTUwLDE2MTQ2NzMw
-MjEsOTk0NzM2NzE0LDExOTEzODgxOTMsLTM2MjIzMTQyOCwtNz
-cwNDA4MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMw
-OTI0MjRdfQ==
+eyJoaXN0b3J5IjpbLTEzODE1MjM0MzEsLTIxNDQwNTE1MzYsMT
+c4Mzc4MTk3NiwzNjg0OTcyMDMsMjAwODk0NDA3MCwxNjg4ODMz
+MTQ4LDE5NzQ3Njk5NzUsLTE3ODQ0ODQ0MTMsLTk3MTg1NDIyNC
+wtMTQyMjc2NDUwMiw2MjY2OTcwMjYsNDEyNTI5MTUwLDE2MTQ2
+NzMwMjEsOTk0NzM2NzE0LDExOTEzODgxOTMsLTM2MjIzMTQyOC
+wtNzcwNDA4MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2
+MDMwOTI0MjRdfQ==
 -->
