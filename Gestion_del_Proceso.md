@@ -166,7 +166,14 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>18/11/2023</td>
        <td>27/11/2023</td>
         <td>Terminada</td>     
-   </tr>         
+   </tr>
+     <tr>  
+      <td>Edición del video (Moisés)</td>  
+        <td>Alto</td>
+        <td>18/11/2023</td>
+       <td>29/11/2023</td>
+        <td>Terminada</td>     
+   </tr>                  
     <tr>  
       <td>Requerimientos no funcionales (Hansony)</td> 
       <td>Medio</td>
@@ -423,11 +430,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjA2MDI1OSwxOTIyNzY5MTYzLDE1Nz
-U3MzE4ODIsMTc3NTY1MDE5MCwyMDE3MDgwMDc1LDgxODEwMTcw
-NCwtMzYzMjU2ODc2LC0yMDI5OTI3NDExLDExNzkwMzM1NDUsLT
-IxNDQwNTE1MzYsMTc4Mzc4MTk3NiwzNjg0OTcyMDMsMjAwODk0
-NDA3MCwxNjg4ODMzMTQ4LDE5NzQ3Njk5NzUsLTE3ODQ0ODQ0MT
-MsLTk3MTg1NDIyNCwtMTQyMjc2NDUwMiw2MjY2OTcwMjYsNDEy
-NTI5MTUwXX0=
+eyJoaXN0b3J5IjpbNzA0NTM0MzUyLDE3MTIwNjAyNTksMTkyMj
+c2OTE2MywxNTc1NzMxODgyLDE3NzU2NTAxOTAsMjAxNzA4MDA3
+NSw4MTgxMDE3MDQsLTM2MzI1Njg3NiwtMjAyOTkyNzQxMSwxMT
+c5MDMzNTQ1LC0yMTQ0MDUxNTM2LDE3ODM3ODE5NzYsMzY4NDk3
+MjAzLDIwMDg5NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5OTc1LC
+0xNzg0NDg0NDEzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MDIsNjI2
+Njk3MDI2XX0=
 -->
