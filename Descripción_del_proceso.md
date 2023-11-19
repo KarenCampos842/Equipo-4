@@ -45,7 +45,7 @@
 <p><strong>Campos García Karen Elizabeth.</strong><br>Su rol es ayudar a que el equipo de trabajo cumpla con lo planeado a realizar en el proyecto para llevarlo a buen término tomando en consideración la metodología SCRUM.  Ayuda con cuestiones de organización y adicionalmente de asignación de tareas. Así mismo, será la encargada de aceptar los "pull request" y orquestar las reuniones "Scrum team meeting",  "Sprint Review" "Retrospective" y "Sprint planning meeting" (reunión para realizar la planeación del sprint)</p>
 
 
-## Sprint planning (second sprint) 
+## Sprint planning (third sprint) 
 ### Duración del sprint: 12 días
 **(18/11/2023) - (29/11/2023)**
 
@@ -328,11 +328,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzNzE3NTM4LC0xMjEyMDUyMjc0LC0xOT
-M0MjMwMTUsLTIxMDI1NjI3MzksODkxMjU4MzEsLTExNjY4NDkz
-MTYsMjA3MDkwMzk1LDE3ODE3MTU1MTEsODc0NzYyMTA1LC00Mj
-c2MzQ4NzEsMTA0MjAwNTMzMywxODQ2NzQ5OTc1LC0yODMyMDgx
-MzgsLTc2NTI2NDYxNSwxOTczMzQxMzU5LDkyOTk1NTM1LC0xNT
-MwNDkwNDU0LC0xNDc5NzE5MjU0LDYxMzUxOTg4NCwtMTE1NjM0
-NDQ1MF19
+eyJoaXN0b3J5IjpbLTIwMDU4MTM0MTUsLTEyMTIwNTIyNzQsLT
+E5MzQyMzAxNSwtMjEwMjU2MjczOSw4OTEyNTgzMSwtMTE2Njg0
+OTMxNiwyMDcwOTAzOTUsMTc4MTcxNTUxMSw4NzQ3NjIxMDUsLT
+QyNzYzNDg3MSwxMDQyMDA1MzMzLDE4NDY3NDk5NzUsLTI4MzIw
+ODEzOCwtNzY1MjY0NjE1LDE5NzMzNDEzNTksOTI5OTU1MzUsLT
+E1MzA0OTA0NTQsLTE0Nzk3MTkyNTQsNjEzNTE5ODg0LC0xMTU2
+MzQ0NDUwXX0=
 -->
