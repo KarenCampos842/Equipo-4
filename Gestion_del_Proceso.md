@@ -76,6 +76,13 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>26/11/2023</td>
          <td>Terminada</td>        
    </tr> 
+      <tr>
+    <td>Pruebas informales (Karen)</td>  
+        <td>Alto</td>
+        <td>20/11/2023</td>
+       <td>23/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
     <tr>  
       <td>Refinamiento de artefactos (Brandon)</td> 
       <td>Alto</td>
@@ -103,13 +110,6 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>Medio</td>
         <td>26/11/2023</td>
        <td>27/11/2023</td>
-        <td>Terminada</td>     
-   </tr>
-    <tr>
-    <td>Pruebas informales (Karen)</td>  
-        <td>Alto</td>
-        <td>20/11/2023</td>
-       <td>26/11/2023</td>
         <td>Terminada</td>     
    </tr>
    <tr>  
@@ -263,11 +263,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzI3MjAyOCwtMjE0NDA1MTUzNiwxNz
-gzNzgxOTc2LDM2ODQ5NzIwMywyMDA4OTQ0MDcwLDE2ODg4MzMx
-NDgsMTk3NDc2OTk3NSwtMTc4NDQ4NDQxMywtOTcxODU0MjI0LC
-0xNDIyNzY0NTAyLDYyNjY5NzAyNiw0MTI1MjkxNTAsMTYxNDY3
-MzAyMSw5OTQ3MzY3MTQsMTE5MTM4ODE5MywtMzYyMjMxNDI4LC
-03NzA0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0NTU4MiwtMTYw
-MzA5MjQyNF19
+eyJoaXN0b3J5IjpbMjEyNjEwMzEsLTIxNDQwNTE1MzYsMTc4Mz
+c4MTk3NiwzNjg0OTcyMDMsMjAwODk0NDA3MCwxNjg4ODMzMTQ4
+LDE5NzQ3Njk5NzUsLTE3ODQ0ODQ0MTMsLTk3MTg1NDIyNCwtMT
+QyMjc2NDUwMiw2MjY2OTcwMjYsNDEyNTI5MTUwLDE2MTQ2NzMw
+MjEsOTk0NzM2NzE0LDExOTEzODgxOTMsLTM2MjIzMTQyOCwtNz
+cwNDA4MDk2LC0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMw
+OTI0MjRdfQ==
 -->
