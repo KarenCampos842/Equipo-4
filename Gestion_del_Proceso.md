@@ -70,6 +70,13 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>Terminada</td>     
    </tr> 
     <tr>  
+      <td>Refinamiento de artefactos (Brandon)</td> 
+      <td>Alto</td>
+        <td>21/11/2023</td>
+       <td>23/11/2023</td>
+         <td>Terminada</td>     
+   </tr> 
+    <tr>  
       <td>Requerimientos no funcionales (Hansony)</td> 
       <td>Medio</td>
         <td>18/11/2023</td>
@@ -241,11 +248,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQwNTE1MzYsMTc4Mzc4MTk3NiwzNj
-g0OTcyMDMsMjAwODk0NDA3MCwxNjg4ODMzMTQ4LDE5NzQ3Njk5
-NzUsLTE3ODQ0ODQ0MTMsLTk3MTg1NDIyNCwtMTQyMjc2NDUwMi
-w2MjY2OTcwMjYsNDEyNTI5MTUwLDE2MTQ2NzMwMjEsOTk0NzM2
-NzE0LDExOTEzODgxOTMsLTM2MjIzMTQyOCwtNzcwNDA4MDk2LC
-0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMwOTI0MjQsLTE0
-MjkxNzc2MjBdfQ==
+eyJoaXN0b3J5IjpbLTkxOTEzOTE4MiwtMjE0NDA1MTUzNiwxNz
+gzNzgxOTc2LDM2ODQ5NzIwMywyMDA4OTQ0MDcwLDE2ODg4MzMx
+NDgsMTk3NDc2OTk3NSwtMTc4NDQ4NDQxMywtOTcxODU0MjI0LC
+0xNDIyNzY0NTAyLDYyNjY5NzAyNiw0MTI1MjkxNTAsMTYxNDY3
+MzAyMSw5OTQ3MzY3MTQsMTE5MTM4ODE5MywtMzYyMjMxNDI4LC
+03NzA0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3NDU0NTU4MiwtMTYw
+MzA5MjQyNF19
 -->
