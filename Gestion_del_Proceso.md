@@ -50,9 +50,9 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr> 
    <tr>  
       <td>Innovación (Hansony)</td>  
-        <td>Alto</td>
-        <td>27/10/2023</td>
-       <td>28/10/2023</td>
+        <td>Medio</td>
+        <td>18/11/2023</td>
+       <td>20/11/2023</td>
         <td>Terminada</td>     
    </tr>
  <tr>  
@@ -241,11 +241,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzA1MTAzNjgsMzY4NDk3MjAzLDIwMD
-g5NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5OTc1LC0xNzg0NDg0
-NDEzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MDIsNjI2Njk3MDI2LD
-QxMjUyOTE1MCwxNjE0NjczMDIxLDk5NDczNjcxNCwxMTkxMzg4
-MTkzLC0zNjIyMzE0MjgsLTc3MDQwODA5NiwtMTU3NzY0NDk4Ni
-wxNjc0NTQ1NTgyLC0xNjAzMDkyNDI0LC0xNDI5MTc3NjIwXX0=
+eyJoaXN0b3J5IjpbMTc4Mzc4MTk3NiwzNjg0OTcyMDMsMjAwOD
+k0NDA3MCwxNjg4ODMzMTQ4LDE5NzQ3Njk5NzUsLTE3ODQ0ODQ0
+MTMsLTk3MTg1NDIyNCwtMTQyMjc2NDUwMiw2MjY2OTcwMjYsND
+EyNTI5MTUwLDE2MTQ2NzMwMjEsOTk0NzM2NzE0LDExOTEzODgx
+OTMsLTM2MjIzMTQyOCwtNzcwNDA4MDk2LC0xNTc3NjQ0OTg2LD
+E2NzQ1NDU1ODIsLTE2MDMwOTI0MjQsLTE0MjkxNzc2MjBdfQ==
 
 -->
