@@ -235,6 +235,7 @@ Utilizar la siguiente plantilla:
 -- Determinar de forma específica los cambios/mejoras a las interfaces basados en los resultados de las pruebas. (copiar y pegar lo realizado en la actividad **"Evolución de las Interfaces de Usuario"** agregando una descripción que relacione los cambios con los resultados de las pruebas. Ejemplo:
  1_registro (nombre de la ventana): Se modificó x cosa. 
  Descripción: En la prueba "y" se obtuvo z resultado, por lo que se  decidió modificar x cosa. 
+ - **Modificación interfaces:** Modificar las interfaces dependiendo los resultados de las pruebas.
 
 **Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
 
@@ -326,11 +327,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjY4NDkzMTYsMjA3MDkwMzk1LDE3OD
-E3MTU1MTEsODc0NzYyMTA1LC00Mjc2MzQ4NzEsMTA0MjAwNTMz
-MywxODQ2NzQ5OTc1LC0yODMyMDgxMzgsLTc2NTI2NDYxNSwxOT
-czMzQxMzU5LDkyOTk1NTM1LC0xNTMwNDkwNDU0LC0xNDc5NzE5
-MjU0LDYxMzUxOTg4NCwtMTE1NjM0NDQ1MCw3MzY2ODg0MDAsLT
-EwNzU5MTQwMTcsLTIwNDc5NDUyNywxODAzMDUxNDYzLC01MjY4
-NTQ0MDBdfQ==
+eyJoaXN0b3J5IjpbLTE3MTY2MzI3NiwtMTE2Njg0OTMxNiwyMD
+cwOTAzOTUsMTc4MTcxNTUxMSw4NzQ3NjIxMDUsLTQyNzYzNDg3
+MSwxMDQyMDA1MzMzLDE4NDY3NDk5NzUsLTI4MzIwODEzOCwtNz
+Y1MjY0NjE1LDE5NzMzNDEzNTksOTI5OTU1MzUsLTE1MzA0OTA0
+NTQsLTE0Nzk3MTkyNTQsNjEzNTE5ODg0LC0xMTU2MzQ0NDUwLD
+czNjY4ODQwMCwtMTA3NTkxNDAxNywtMjA0Nzk0NTI3LDE4MDMw
+NTE0NjNdfQ==
 -->
