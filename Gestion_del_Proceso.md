@@ -49,8 +49,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
                 <th>Estado de entrega</th>    
    </tr> 
    <tr>  
-      <td>Requerimientos funcionales
-(Karen)</td>  
+      <td>Innovación (Hansony)</td>  
         <td>Alto</td>
         <td>27/10/2023</td>
        <td>28/10/2023</td>
@@ -242,7 +241,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDc3NDgwNjAsMzY4NDk3MjAzLDIwMD
+eyJoaXN0b3J5IjpbLTEyNzA1MTAzNjgsMzY4NDk3MjAzLDIwMD
 g5NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5OTc1LC0xNzg0NDg0
 NDEzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MDIsNjI2Njk3MDI2LD
 QxMjUyOTE1MCwxNjE0NjczMDIxLDk5NDczNjcxNCwxMTkxMzg4
