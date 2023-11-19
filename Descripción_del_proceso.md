@@ -260,7 +260,7 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  
  **Archivo del trabajo/Resultado:**  
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>  , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a> <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Competencias.md#competencias">Competencias.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Demo.md#demo">Demo.md</a>
- , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Gestion_del_Proceso.md#gesti%C3%B3n-del-proceso">Gestion_del_Proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Metrica_de_Contribucion.md">Metrica_de_Contribucion.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Lista_de_cotejo.md">Lista_de_cotejo.md</a>.
+ , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Gestion_del_Proceso.md#gesti%C3%B3n-del-proceso">Gestion_del_Proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Metrica_de_Contribucion.md#m%C3%A9trica-de-contribuci%C3%B3n-individual">Metrica_de_Contribucion.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Lista_de_cotejo.md">Lista_de_cotejo.md</a>.
  
 ### *Sección "Presentación del avance"*
 **Responsables**
@@ -328,11 +328,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIwNTIyNzQsLTE5MzQyMzAxNSwtMj
-EwMjU2MjczOSw4OTEyNTgzMSwtMTE2Njg0OTMxNiwyMDcwOTAz
-OTUsMTc4MTcxNTUxMSw4NzQ3NjIxMDUsLTQyNzYzNDg3MSwxMD
-QyMDA1MzMzLDE4NDY3NDk5NzUsLTI4MzIwODEzOCwtNzY1MjY0
-NjE1LDE5NzMzNDEzNTksOTI5OTU1MzUsLTE1MzA0OTA0NTQsLT
-E0Nzk3MTkyNTQsNjEzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNjY4
-ODQwMF19
+eyJoaXN0b3J5IjpbODEzNzE3NTM4LC0xMjEyMDUyMjc0LC0xOT
+M0MjMwMTUsLTIxMDI1NjI3MzksODkxMjU4MzEsLTExNjY4NDkz
+MTYsMjA3MDkwMzk1LDE3ODE3MTU1MTEsODc0NzYyMTA1LC00Mj
+c2MzQ4NzEsMTA0MjAwNTMzMywxODQ2NzQ5OTc1LC0yODMyMDgx
+MzgsLTc2NTI2NDYxNSwxOTczMzQxMzU5LDkyOTk1NTM1LC0xNT
+MwNDkwNDU0LC0xNDc5NzE5MjU0LDYxMzUxOTg4NCwtMTE1NjM0
+NDQ1MF19
 -->
