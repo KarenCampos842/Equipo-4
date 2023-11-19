@@ -57,11 +57,25 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr> 
     <tr> 
       <td>Descripción del proceso (Karen)</td>  
-       <td>Bajo</td>
+       <td>Alto</td>
          <td>18/11/2023</td>
        <td>18/11/2023</td>
          <td>Terminada</td>       
-   </tr> 
+   </tr>
+     <tr> 
+      <td>Gestión del proceso (Karen)</td>  
+       <td>Alto</td>
+         <td>18/11/2023</td>
+       <td>29/11/2023</td>
+         <td>Terminada</td>       
+   </tr>
+    <tr> 
+      <td>Métrica de contribución (Karen)</td>  
+       <td>Alto</td>
+         <td>18/11/2023</td>
+       <td>29/11/2023</td>
+         <td>Terminada</td>       
+   </tr>   
     <tr>  
       <td>Corrección de redacción (Brandon)</td>  
        <td>Alto</td> 
@@ -328,20 +342,6 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>29/11/2023</td>
         <td>Terminada</td>     
    </tr>
-   <tr> 
-      <td>Gestión del proceso (Karen)</td>  
-       <td>Alto</td>
-         <td>18/11/2023</td>
-       <td>29/11/2023</td>
-         <td>Terminada</td>       
-   </tr>
-    <tr> 
-      <td>Métrica de contribución (Karen)</td>  
-       <td>Alto</td>
-         <td>18/11/2023</td>
-       <td>29/11/2023</td>
-         <td>Terminada</td>       
-   </tr>  
   <tr>  
       <td colspan=3><strong>Total de actividades</strong></td>  
        <td colspan=2>25</td>
@@ -360,7 +360,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzQ5MjUwOSwzNDI1ODMwNywtMTEyNj
+eyJoaXN0b3J5IjpbMTMzMzIyMTA2OSwzNDI1ODMwNywtMTEyNj
 M0NzU1OSwxNzEyMDYwMjU5LDE5MjI3NjkxNjMsMTU3NTczMTg4
 MiwxNzc1NjUwMTkwLDIwMTcwODAwNzUsODE4MTAxNzA0LC0zNj
 MyNTY4NzYsLTIwMjk5Mjc0MTEsMTE3OTAzMzU0NSwtMjE0NDA1
