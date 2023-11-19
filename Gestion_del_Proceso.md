@@ -98,6 +98,28 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
          <td>Terminada</td>     
    </tr> 
     <tr>
+    <td>Aplicación de pruebas y cuestionario (Karen)</td>  
+        <td>Alto</td>
+        <td>24/11/2023</td>
+       <td>26/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
+    <tr>
+    <td>Aplicación de pruebas y cuestionario (Asaf)</td>  
+        <td>Alto</td>
+        <td>24/11/2023</td>
+       <td>26/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
+    <tr>
+    <td>Aplicación de pruebas y cuestionario (Hansony)</td>  
+        <td>Alto</td>
+        <td>24/11/2023</td>
+       <td>26/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
+   <tr>  
+    <tr>
     <td>Correspondencia con los Requisitos (Hansony)</td>  
         <td>Medio</td>
         <td>26/11/2023</td>
@@ -112,21 +134,6 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
-     <tr>
-    <td>Aplicación de pruebas y cuestionario (Karen)</td>  
-        <td>Alto</td>
-        <td>24/11/2023</td>
-       <td>26/11/2023</td>
-        <td>Terminada</td>     
-   </tr>
-    <tr>
-    <td>Aplicación de pruebas y cuestionario (Asaf)</td>  
-        <td>Alto</td>
-        <td>24/11/2023</td>
-       <td>26/11/2023</td>
-        <td>Terminada</td>     
-   </tr>
-   <tr>  
       <td>Organización y documentación del repositorio (Karen)</td>  
        <td>Bajo</td>
          <td>27/10/2023</td>
@@ -277,11 +284,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk5Mjc0MTEsMTE3OTAzMzU0NSwtMj
-E0NDA1MTUzNiwxNzgzNzgxOTc2LDM2ODQ5NzIwMywyMDA4OTQ0
-MDcwLDE2ODg4MzMxNDgsMTk3NDc2OTk3NSwtMTc4NDQ4NDQxMy
-wtOTcxODU0MjI0LC0xNDIyNzY0NTAyLDYyNjY5NzAyNiw0MTI1
-MjkxNTAsMTYxNDY3MzAyMSw5OTQ3MzY3MTQsMTE5MTM4ODE5My
-wtMzYyMjMxNDI4LC03NzA0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3
-NDU0NTU4Ml19
+eyJoaXN0b3J5IjpbODI0MDE4NjI5LC0yMDI5OTI3NDExLDExNz
+kwMzM1NDUsLTIxNDQwNTE1MzYsMTc4Mzc4MTk3NiwzNjg0OTcy
+MDMsMjAwODk0NDA3MCwxNjg4ODMzMTQ4LDE5NzQ3Njk5NzUsLT
+E3ODQ0ODQ0MTMsLTk3MTg1NDIyNCwtMTQyMjc2NDUwMiw2MjY2
+OTcwMjYsNDEyNTI5MTUwLDE2MTQ2NzMwMjEsOTk0NzM2NzE0LD
+ExOTEzODgxOTMsLTM2MjIzMTQyOCwtNzcwNDA4MDk2LC0xNTc3
+NjQ0OTg2XX0=
 -->
