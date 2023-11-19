@@ -1220,12 +1220,12 @@ https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proc
 
 **Resumen de los cambios en artefactos**
  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a>  
- **Evidencia:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.m">Artefactos primera entrega</a>,  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Artefactos segunda entrega</a>    
+ **Evidencia:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.m">Artefactos primera entrega</a>,  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#artefactos">Artefactos segunda entrega</a>.    
 
 [^1]:Simões, C. (14 de julio de 2020). MoSCoW. ¿Qué es y cómo priorizar en el desarrollo de tu aplicación? *ITDO*. https://www.itdo.com/blog/moscow-que-es-y-como-priorizar-en-el-desarrollo-de-tu-aplicacion/
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTc5ODI1NCwtNjMyODc4NDk1LC02MT
-A3MzkwMDddfQ==
+eyJoaXN0b3J5IjpbNDQ0NjAzMDA2LC02MzI4Nzg0OTUsLTYxMD
+czOTAwN119
 -->
