@@ -212,11 +212,11 @@ Utilizar la siguiente plantilla:
 **Responsables**
 
  1.*Campos García Karen Elizabeth:* Pruebas informales, Modificación interfaces, Aplicación de pruebas y cuestionario. 
- - *Cárdenas Rojas Kendrick Asaf:* Aplicación de pruebas y cuestionario. 
- - *Maldonado Medina Hansony de Jesús:* Aplicación de pruebas y cuestionario y Resultados métricas.
- - *Romero Poot Carlos Emmanuel:* Aplicación de pruebas y cuestionario y Resultados Interfaz.
- - *Rubén Moisés Loria Pech:* Aplicación de pruebas y cuestionario.
- - *Suárez Balam Brandon Emmanuel:* Aplicación de pruebas y cuestionario.
+ 2. *Cárdenas Rojas Kendrick Asaf:* Aplicación de pruebas y cuestionario. 
+3. *Maldonado Medina Hansony de Jesús:* Aplicación de pruebas y cuestionario y Resultados métricas.
+ 4. *Romero Poot Carlos Emmanuel:* Aplicación de pruebas y cuestionario y Resultados Interfaz.
+ 5. *Rubén Moisés Loria Pech:* Aplicación de pruebas y cuestionario.
+ *Suárez Balam Brandon Emmanuel:* Aplicación de pruebas y cuestionario.
 
  **Actividades**
  - **Pruebas Informales**: 
@@ -265,11 +265,11 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
 ### *Sección "Presentación del avance"*
 **Responsables**
  1.*Campos García Karen Elizabeth:* Diálogo proceso y Audio. 
- - *Cárdenas Rojas Kendrick Asaf:* Diálogo interfaz, Audio y Traducción. 
- - *Maldonado Medina Hansony de Jesús:* Diálogo diferenciadores y Audio. 
- - *Romero Poot Carlos Emmanuel:* Sketch (personaje: cliente) y Audio.
- - *Rubén Moisés Loria Pech:* Edición del video, Sketch (personaje: trabajador) y Audio.
- - *Suárez Balam Brandon Emmanuel:* Diálogo producto y Audio. 
+ 2.  *Cárdenas Rojas Kendrick Asaf:* Diálogo interfaz, Audio y Traducción. 
+3. *Maldonado Medina Hansony de Jesús:* Diálogo diferenciadores y Audio. 
+4. *Romero Poot Carlos Emmanuel:* Sketch (personaje: cliente) y Audio.
+ 5. *Rubén Moisés Loria Pech:* Edición del video, Sketch (personaje: trabajador) y Audio.
+ 6. *Suárez Balam Brandon Emmanuel:* Diálogo producto y Audio. 
 
  **Actividades**
  - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
@@ -327,11 +327,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDI1NjI3MzksODkxMjU4MzEsLTExNj
-Y4NDkzMTYsMjA3MDkwMzk1LDE3ODE3MTU1MTEsODc0NzYyMTA1
-LC00Mjc2MzQ4NzEsMTA0MjAwNTMzMywxODQ2NzQ5OTc1LC0yOD
-MyMDgxMzgsLTc2NTI2NDYxNSwxOTczMzQxMzU5LDkyOTk1NTM1
-LC0xNTMwNDkwNDU0LC0xNDc5NzE5MjU0LDYxMzUxOTg4NCwtMT
-E1NjM0NDQ1MCw3MzY2ODg0MDAsLTEwNzU5MTQwMTcsLTIwNDc5
-NDUyN119
+eyJoaXN0b3J5IjpbLTY1ODQyNzczNywtMjEwMjU2MjczOSw4OT
+EyNTgzMSwtMTE2Njg0OTMxNiwyMDcwOTAzOTUsMTc4MTcxNTUx
+MSw4NzQ3NjIxMDUsLTQyNzYzNDg3MSwxMDQyMDA1MzMzLDE4ND
+Y3NDk5NzUsLTI4MzIwODEzOCwtNzY1MjY0NjE1LDE5NzMzNDEz
+NTksOTI5OTU1MzUsLTE1MzA0OTA0NTQsLTE0Nzk3MTkyNTQsNj
+EzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNjY4ODQwMCwtMTA3NTkx
+NDAxN119
 -->
