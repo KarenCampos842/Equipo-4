@@ -244,17 +244,17 @@ Utilizar la siguiente plantilla:
  - **Descripción del proceso:** Describir de forma clara en un documento el tamaño del sprint, planeación, actividades, responsables, roles y resultados.
 
  - **Gestión del proceso**: 
- -  
+  
  -- Dentro de la sección "*Projects*" en GitHub, utilizando el board de *"Proyecto_FIS"*, asignar las actividades descritas en *"Descripción_del_proceso"* (ubicado en la branch "*Tercera-Entrega*") a las personas correspondientes. Revisar el estado de cada una de sus actividades (In Progress, Done). 
- - Orquestar las reuniones: *"Scrum team meeting"* y  "Sprint review". 
+ --Orquestar las reuniones: *"Scrum team meeting"* y  "Sprint review". 
  -- Escribir una bitácora de las reuniones de equipo mencionando brevemente acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega. 
  -- Realizar una tabla **(sprint backlog)** que contenga las actividades a realizar durante el sprint, responsables, el estado de la tarea (terminada, en curso), fecha de inicio, fechas límite de entrega y nivel de cada actividad (bajo, medio, alto).
- -- **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, medio, alto).  
+ - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, medio, alto).  
 Elaborar una métrica que contenga las actividades de las 3 entregas. 
- -- **Organización y Documentación del Repositorio:** Crear los siguientes archivos en formato StackEdit en la branch de "*Tercera-Entrega*" del repositorio del equipo (Equipo-4): Producto, Requisitos, Diseño, Pruebas, Presentación del avance, Diálogos, Competencias, Descripción del proceso, Gestión del proceso, Métrica de contribución y Lista de cotejo. 
+ - **Organización y Documentación del Repositorio:** Crear los siguientes archivos en formato StackEdit en la branch de "*Tercera-Entrega*" del repositorio del equipo (Equipo-4): Producto, Requisitos, Diseño, Pruebas, Presentación del avance, Diálogos, Competencias, Descripción del proceso, Gestión del proceso, Métrica de contribución, Demo y Lista de cotejo. 
  
  **Archivo del trabajo/Resultado:**  
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md">Producto.md</a>  , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Metrica_de_Contribucion.md">Metrica_de_Contribucion.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Lista_de_cotejo.md">Lista_de_cotejo.md</a>.
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>  , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Metrica_de_Contribucion.md">Metrica_de_Contribucion.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Lista_de_cotejo.md">Lista_de_cotejo.md</a>.
  
 ### *Sección "Presentación del avance"*
 **Responsables**
@@ -317,11 +317,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwMTI1NzQ1LC0yODMyMDgxMzgsLTc2NT
-I2NDYxNSwxOTczMzQxMzU5LDkyOTk1NTM1LC0xNTMwNDkwNDU0
-LC0xNDc5NzE5MjU0LDYxMzUxOTg4NCwtMTE1NjM0NDQ1MCw3Mz
-Y2ODg0MDAsLTEwNzU5MTQwMTcsLTIwNDc5NDUyNywxODAzMDUx
-NDYzLC01MjY4NTQ0MDAsMTkwNDg4MzkxMywtMTA0MDAzNzk2LC
-05MDY1MzYzNiwtMTY3NTE0MzEwNiwtMTE4Mzk2MTMwLDkwMzY0
-NjczMF19
+eyJoaXN0b3J5IjpbLTkzOTE4NjU5MiwtMjgzMjA4MTM4LC03Nj
+UyNjQ2MTUsMTk3MzM0MTM1OSw5Mjk5NTUzNSwtMTUzMDQ5MDQ1
+NCwtMTQ3OTcxOTI1NCw2MTM1MTk4ODQsLTExNTYzNDQ0NTAsNz
+M2Njg4NDAwLC0xMDc1OTE0MDE3LC0yMDQ3OTQ1MjcsMTgwMzA1
+MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5Ni
+wtOTA2NTM2MzYsLTE2NzUxNDMxMDYsLTExODM5NjEzMCw5MDM2
+NDY3MzBdfQ==
 -->
