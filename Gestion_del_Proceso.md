@@ -115,14 +115,14 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
      <tr>
     <td>Aplicación de pruebas y cuestionario (Karen)</td>  
         <td>Alto</td>
-        <td>23/11/2023</td>
+        <td>24/11/2023</td>
        <td>26/11/2023</td>
         <td>Terminada</td>     
    </tr>
     <tr>
-    <td>Aplicación de pruebas y cuestionario (Karen)</td>  
+    <td>Aplicación de pruebas y cuestionario (Asaf)</td>  
         <td>Alto</td>
-        <td>23/11/2023</td>
+        <td>24/11/2023</td>
        <td>26/11/2023</td>
         <td>Terminada</td>     
    </tr>
@@ -277,11 +277,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODAxNzcwNywxMTc5MDMzNTQ1LC0yMT
-Q0MDUxNTM2LDE3ODM3ODE5NzYsMzY4NDk3MjAzLDIwMDg5NDQw
-NzAsMTY4ODgzMzE0OCwxOTc0NzY5OTc1LC0xNzg0NDg0NDEzLC
-05NzE4NTQyMjQsLTE0MjI3NjQ1MDIsNjI2Njk3MDI2LDQxMjUy
-OTE1MCwxNjE0NjczMDIxLDk5NDczNjcxNCwxMTkxMzg4MTkzLC
-0zNjIyMzE0MjgsLTc3MDQwODA5NiwtMTU3NzY0NDk4NiwxNjc0
-NTQ1NTgyXX0=
+eyJoaXN0b3J5IjpbLTIwMjk5Mjc0MTEsMTE3OTAzMzU0NSwtMj
+E0NDA1MTUzNiwxNzgzNzgxOTc2LDM2ODQ5NzIwMywyMDA4OTQ0
+MDcwLDE2ODg4MzMxNDgsMTk3NDc2OTk3NSwtMTc4NDQ4NDQxMy
+wtOTcxODU0MjI0LC0xNDIyNzY0NTAyLDYyNjY5NzAyNiw0MTI1
+MjkxNTAsMTYxNDY3MzAyMSw5OTQ3MzY3MTQsMTE5MTM4ODE5My
+wtMzYyMjMxNDI4LC03NzA0MDgwOTYsLTE1Nzc2NDQ5ODYsMTY3
+NDU0NTU4Ml19
 -->
