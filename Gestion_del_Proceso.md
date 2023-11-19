@@ -105,6 +105,13 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
+    <tr>
+    <td>Pruebas informales (Karen)</td>  
+        <td>Alto</td>
+        <td>20/11/2023</td>
+       <td>26/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
    <tr>  
       <td>Organización y documentación del repositorio (Karen)</td>  
        <td>Bajo</td>
@@ -256,7 +263,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDkyNjk4OSwtMjE0NDA1MTUzNiwxNz
+eyJoaXN0b3J5IjpbMTE3MzI3MjAyOCwtMjE0NDA1MTUzNiwxNz
 gzNzgxOTc2LDM2ODQ5NzIwMywyMDA4OTQ0MDcwLDE2ODg4MzMx
 NDgsMTk3NDc2OTk3NSwtMTc4NDQ4NDQxMywtOTcxODU0MjI0LC
 0xNDIyNzY0NTAyLDYyNjY5NzAyNiw0MTI1MjkxNTAsMTYxNDY3
