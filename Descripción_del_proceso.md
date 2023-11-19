@@ -213,8 +213,8 @@ Utilizar la siguiente plantilla:
 
  1.*Campos García Karen Elizabeth:* Pruebas informales, Modificación interfaces, Aplicación de pruebas y cuestionario. 
  - *Cárdenas Rojas Kendrick Asaf:* Aplicación de pruebas y cuestionario. 
- - *Maldonado Medina Hansony de Jesús:* Aplicación de pruebas y cuestionario y Resultados (métricas).
- - *Romero Poot Carlos Emmanuel:* Aplicación de pruebas y cuestionario y Resultados (Interfaz).
+ - *Maldonado Medina Hansony de Jesús:* Aplicación de pruebas y cuestionario y Resultados métricas.
+ - *Romero Poot Carlos Emmanuel:* Aplicación de pruebas y cuestionario y Resultados Interfaz.
  - *Rubén Moisés Loria Pech:* Aplicación de pruebas y cuestionario.
  - *Suárez Balam Brandon Emmanuel:* Aplicación de pruebas y cuestionario.
 
@@ -327,11 +327,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxMjU4MzEsLTExNjY4NDkzMTYsMjA3MD
-kwMzk1LDE3ODE3MTU1MTEsODc0NzYyMTA1LC00Mjc2MzQ4NzEs
-MTA0MjAwNTMzMywxODQ2NzQ5OTc1LC0yODMyMDgxMzgsLTc2NT
-I2NDYxNSwxOTczMzQxMzU5LDkyOTk1NTM1LC0xNTMwNDkwNDU0
-LC0xNDc5NzE5MjU0LDYxMzUxOTg4NCwtMTE1NjM0NDQ1MCw3Mz
-Y2ODg0MDAsLTEwNzU5MTQwMTcsLTIwNDc5NDUyNywxODAzMDUx
-NDYzXX0=
+eyJoaXN0b3J5IjpbLTIxMDI1NjI3MzksODkxMjU4MzEsLTExNj
+Y4NDkzMTYsMjA3MDkwMzk1LDE3ODE3MTU1MTEsODc0NzYyMTA1
+LC00Mjc2MzQ4NzEsMTA0MjAwNTMzMywxODQ2NzQ5OTc1LC0yOD
+MyMDgxMzgsLTc2NTI2NDYxNSwxOTczMzQxMzU5LDkyOTk1NTM1
+LC0xNTMwNDkwNDU0LC0xNDc5NzE5MjU0LDYxMzUxOTg4NCwtMT
+E1NjM0NDQ1MCw3MzY2ODg0MDAsLTEwNzU5MTQwMTcsLTIwNDc5
+NDUyN119
 -->
