@@ -310,18 +310,16 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
   
   
 [^1]: Scrum Manager® (s.f).*Scrum Master*. https://www.scrummanager.com/files/scrum_master.pdf
-
-[^2]: Scrum Manager®.(2022).*Historias de Usuario*. https://www.scrummanager.com/files/scrum_manager_historias_usuario.pdf
-[^3]: Marco de Desarrollo de la Junta de Andalucía.(s.f).*Guía para la redacción de casos de uso*. Junta de Andalucía. https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416
+[^2]: Marco de Desarrollo de la Junta de Andalucía.(s.f).*Guía para la redacción de casos de uso*. Junta de Andalucía. https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416
 [^4]: UADY. (2016). _Plan de Estudios de la Licenciatura en Ingeniería de Software._  https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjAwNTMzMywxODQ2NzQ5OTc1LC0yOD
-MyMDgxMzgsLTc2NTI2NDYxNSwxOTczMzQxMzU5LDkyOTk1NTM1
-LC0xNTMwNDkwNDU0LC0xNDc5NzE5MjU0LDYxMzUxOTg4NCwtMT
-E1NjM0NDQ1MCw3MzY2ODg0MDAsLTEwNzU5MTQwMTcsLTIwNDc5
-NDUyNywxODAzMDUxNDYzLC01MjY4NTQ0MDAsMTkwNDg4MzkxMy
-wtMTA0MDAzNzk2LC05MDY1MzYzNiwtMTY3NTE0MzEwNiwtMTE4
-Mzk2MTMwXX0=
+eyJoaXN0b3J5IjpbMjEwNjExNTc1NCwxMDQyMDA1MzMzLDE4ND
+Y3NDk5NzUsLTI4MzIwODEzOCwtNzY1MjY0NjE1LDE5NzMzNDEz
+NTksOTI5OTU1MzUsLTE1MzA0OTA0NTQsLTE0Nzk3MTkyNTQsNj
+EzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNjY4ODQwMCwtMTA3NTkx
+NDAxNywtMjA0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMC
+wxOTA0ODgzOTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2LC0xNjc1
+MTQzMTA2XX0=
 -->
