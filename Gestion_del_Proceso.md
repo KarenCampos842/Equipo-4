@@ -73,14 +73,14 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
       <td>Requerimientos no funcionales (Hansony)</td> 
       <td>Medio</td>
         <td>18/11/2023</td>
-       <td>23/11/2023</td>
+       <td>26/11/2023</td>
          <td>Terminada</td>        
    </tr> 
     <tr>  
       <td>Listado Final de Requerimientos_Diagrama (Carlos)</td> 
-      <td>Bajo</td>
-        <td>27/10/2023</td>
-       <td>28/10/2023</td>
+      <td>Alto</td>
+        <td>18/11/2023</td>
+       <td>23/11/2023</td>
          <td>Terminada</td>     
    </tr> 
    <tr>  
@@ -241,11 +241,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTE3ODQ5NywxNzgzNzgxOTc2LDM2OD
-Q5NzIwMywyMDA4OTQ0MDcwLDE2ODg4MzMxNDgsMTk3NDc2OTk3
-NSwtMTc4NDQ4NDQxMywtOTcxODU0MjI0LC0xNDIyNzY0NTAyLD
-YyNjY5NzAyNiw0MTI1MjkxNTAsMTYxNDY3MzAyMSw5OTQ3MzY3
-MTQsMTE5MTM4ODE5MywtMzYyMjMxNDI4LC03NzA0MDgwOTYsLT
-E1Nzc2NDQ5ODYsMTY3NDU0NTU4MiwtMTYwMzA5MjQyNCwtMTQy
-OTE3NzYyMF19
+eyJoaXN0b3J5IjpbNzUxMzM3MjM3LDE3ODM3ODE5NzYsMzY4ND
+k3MjAzLDIwMDg5NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5OTc1
+LC0xNzg0NDg0NDEzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MDIsNj
+I2Njk3MDI2LDQxMjUyOTE1MCwxNjE0NjczMDIxLDk5NDczNjcx
+NCwxMTkxMzg4MTkzLC0zNjIyMzE0MjgsLTc3MDQwODA5NiwtMT
+U3NzY0NDk4NiwxNjc0NTQ1NTgyLC0xNjAzMDkyNDI0LC0xNDI5
+MTc3NjIwXX0=
 -->
