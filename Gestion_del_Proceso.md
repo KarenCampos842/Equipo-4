@@ -62,6 +62,20 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>20/11/2023</td>
         <td>Terminada</td>     
    </tr>
+    <tr>  
+      <td>Competencias genéricas (Moisés)</td>  
+       <td>Medio</td>
+         <td>18/11/2023</td>
+       <td>20/11/2023</td>
+         <td>Terminada</td>       
+   </tr> 
+  <tr>  
+      <td>Competencias específicas (Moisés)</td>  
+       <td>Medio</td>
+         <td>18/11/2023</td>
+       <td>20/11/2023</td>
+         <td>Terminada</td>       
+   </tr>
  <tr>  
       <td> Usuarios (Brandon)</td>  
         <td>Alto</td>
@@ -409,11 +423,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDk4ODAzMjUsMTkyMjc2OTE2MywxNT
-c1NzMxODgyLDE3NzU2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3
-MDQsLTM2MzI1Njg3NiwtMjAyOTkyNzQxMSwxMTc5MDMzNTQ1LC
-0yMTQ0MDUxNTM2LDE3ODM3ODE5NzYsMzY4NDk3MjAzLDIwMDg5
-NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5OTc1LC0xNzg0NDg0ND
-EzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MDIsNjI2Njk3MDI2LDQx
-MjUyOTE1MF19
+eyJoaXN0b3J5IjpbMTcxMjA2MDI1OSwxOTIyNzY5MTYzLDE1Nz
+U3MzE4ODIsMTc3NTY1MDE5MCwyMDE3MDgwMDc1LDgxODEwMTcw
+NCwtMzYzMjU2ODc2LC0yMDI5OTI3NDExLDExNzkwMzM1NDUsLT
+IxNDQwNTE1MzYsMTc4Mzc4MTk3NiwzNjg0OTcyMDMsMjAwODk0
+NDA3MCwxNjg4ODMzMTQ4LDE5NzQ3Njk5NzUsLTE3ODQ0ODQ0MT
+MsLTk3MTg1NDIyNCwtMTQyMjc2NDUwMiw2MjY2OTcwMjYsNDEy
+NTI5MTUwXX0=
 -->
