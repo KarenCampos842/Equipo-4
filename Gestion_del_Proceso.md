@@ -111,6 +111,20 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>23/11/2023</td>
         <td>Terminada</td>     
    </tr>
+    <tr>  
+      <td>Sketch personaje: trabajador (Moisés)</td>  
+        <td>Bajo</td>
+        <td>18/11/2023</td>
+       <td>23/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
+  <tr>  
+      <td>Video sketch_ personaje: trabajador (Moisés)</td>  
+        <td>Medio</td>
+        <td>18/11/2023</td>
+       <td>23/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
      <tr>  
       <td>Traducción (Asaf)</td>  
         <td>Alto</td>
@@ -388,11 +402,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTgwNjcyLDE3NzU2NTAxOTAsMjAxNz
-A4MDA3NSw4MTgxMDE3MDQsLTM2MzI1Njg3NiwtMjAyOTkyNzQx
-MSwxMTc5MDMzNTQ1LC0yMTQ0MDUxNTM2LDE3ODM3ODE5NzYsMz
-Y4NDk3MjAzLDIwMDg5NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5
-OTc1LC0xNzg0NDg0NDEzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MD
-IsNjI2Njk3MDI2LDQxMjUyOTE1MCwxNjE0NjczMDIxLDk5NDcz
-NjcxNF19
+eyJoaXN0b3J5IjpbMTU3NTczMTg4MiwxNzc1NjUwMTkwLDIwMT
+cwODAwNzUsODE4MTAxNzA0LC0zNjMyNTY4NzYsLTIwMjk5Mjc0
+MTEsMTE3OTAzMzU0NSwtMjE0NDA1MTUzNiwxNzgzNzgxOTc2LD
+M2ODQ5NzIwMywyMDA4OTQ0MDcwLDE2ODg4MzMxNDgsMTk3NDc2
+OTk3NSwtMTc4NDQ4NDQxMywtOTcxODU0MjI0LC0xNDIyNzY0NT
+AyLDYyNjY5NzAyNiw0MTI1MjkxNTAsMTYxNDY3MzAyMSw5OTQ3
+MzY3MTRdfQ==
 -->
