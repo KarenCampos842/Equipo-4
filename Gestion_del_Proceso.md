@@ -64,15 +64,15 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>
   <tr>  
       <td>Evolución de producto (Brandon)</td>  
-        <td>Alto</td>
+        <td>Medio</td>
         <td>18/11/2023</td>
        <td>23/11/2023</td>
         <td>Terminada</td>     
    </tr> 
     <tr>  
-      <td>Gestión del proceso (Karen)</td> 
+      <td>Requerimientos no funcionales (Hansony)</td> 
       <td>Alto</td>
-        <td>27/10/2023</td>
+        <td>18/10/2023</td>
        <td>5/11/2023</td>
          <td>Terminada</td>        
    </tr> 
@@ -241,11 +241,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTExODgxMTYsMTc4Mzc4MTk3NiwzNj
-g0OTcyMDMsMjAwODk0NDA3MCwxNjg4ODMzMTQ4LDE5NzQ3Njk5
-NzUsLTE3ODQ0ODQ0MTMsLTk3MTg1NDIyNCwtMTQyMjc2NDUwMi
-w2MjY2OTcwMjYsNDEyNTI5MTUwLDE2MTQ2NzMwMjEsOTk0NzM2
-NzE0LDExOTEzODgxOTMsLTM2MjIzMTQyOCwtNzcwNDA4MDk2LC
-0xNTc3NjQ0OTg2LDE2NzQ1NDU1ODIsLTE2MDMwOTI0MjQsLTE0
-MjkxNzc2MjBdfQ==
+eyJoaXN0b3J5IjpbNDk4Nzg5NTkwLDE3ODM3ODE5NzYsMzY4ND
+k3MjAzLDIwMDg5NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5OTc1
+LC0xNzg0NDg0NDEzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MDIsNj
+I2Njk3MDI2LDQxMjUyOTE1MCwxNjE0NjczMDIxLDk5NDczNjcx
+NCwxMTkxMzg4MTkzLC0zNjIyMzE0MjgsLTc3MDQwODA5NiwtMT
+U3NzY0NDk4NiwxNjc0NTQ1NTgyLC0xNjAzMDkyNDI0LC0xNDI5
+MTc3NjIwXX0=
 -->
