@@ -262,8 +262,12 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  
 ### *Sección "Presentación del avance"*
 **Responsables**
- -  *Rubén Moisés Loria Pech:* Edición del video. 
- - *Cárdenas Rojas Kendrick Asaf:* Traducción.
+ 1.*Campos García Karen Elizabeth:* Pruebas informales, Aplicación de pruebas y cuestionario. 
+ - *Cárdenas Rojas Kendrick Asaf:* Aplicación de pruebas y cuestionario. 
+ - *Maldonado Medina Hansony de Jesús:* Aplicación de pruebas y cuestionario y Resultados (métricas).
+ - *Romero Poot Carlos Emmanuel:* Aplicación de pruebas y cuestionario y Resultados (Interfaz).
+ - *Rubén Moisés Loria Pech:* Edición del video y Sketch (
+ - *Suárez Balam Brandon Emmanuel:* Aplicación de pruebas y cuestionario.
 
  **Actividades**
  - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
@@ -319,11 +323,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyNzM4OTgwLC00Mjc2MzQ4NzEsMTA0Mj
-AwNTMzMywxODQ2NzQ5OTc1LC0yODMyMDgxMzgsLTc2NTI2NDYx
-NSwxOTczMzQxMzU5LDkyOTk1NTM1LC0xNTMwNDkwNDU0LC0xND
-c5NzE5MjU0LDYxMzUxOTg4NCwtMTE1NjM0NDQ1MCw3MzY2ODg0
-MDAsLTEwNzU5MTQwMTcsLTIwNDc5NDUyNywxODAzMDUxNDYzLC
-01MjY4NTQ0MDAsMTkwNDg4MzkxMywtMTA0MDAzNzk2LC05MDY1
-MzYzNl19
+eyJoaXN0b3J5IjpbMTQ1MDM1NTU1OSwtNDI3NjM0ODcxLDEwND
+IwMDUzMzMsMTg0Njc0OTk3NSwtMjgzMjA4MTM4LC03NjUyNjQ2
+MTUsMTk3MzM0MTM1OSw5Mjk5NTUzNSwtMTUzMDQ5MDQ1NCwtMT
+Q3OTcxOTI1NCw2MTM1MTk4ODQsLTExNTYzNDQ0NTAsNzM2Njg4
+NDAwLC0xMDc1OTE0MDE3LC0yMDQ3OTQ1MjcsMTgwMzA1MTQ2My
+wtNTI2ODU0NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5NiwtOTA2
+NTM2MzZdfQ==
 -->
