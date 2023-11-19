@@ -55,6 +55,13 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>20/11/2023</td>
         <td>Terminada</td>     
    </tr>
+    <tr>  
+      <td>Crítica constructiva del curso (Carlos)</td>  
+        <td>Medio</td>
+        <td>18/11/2023</td>
+       <td>20/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
  <tr>  
       <td> Usuarios (Brandon)</td>  
         <td>Alto</td>
@@ -416,11 +423,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjc2OTE2MywxNTc1NzMxODgyLDE3Nz
-U2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3MDQsLTM2MzI1Njg3
-NiwtMjAyOTkyNzQxMSwxMTc5MDMzNTQ1LC0yMTQ0MDUxNTM2LD
-E3ODM3ODE5NzYsMzY4NDk3MjAzLDIwMDg5NDQwNzAsMTY4ODgz
-MzE0OCwxOTc0NzY5OTc1LC0xNzg0NDg0NDEzLC05NzE4NTQyMj
-QsLTE0MjI3NjQ1MDIsNjI2Njk3MDI2LDQxMjUyOTE1MCwxNjE0
-NjczMDIxXX0=
+eyJoaXN0b3J5IjpbOTU1NDYxODg1LDE5MjI3NjkxNjMsMTU3NT
+czMTg4MiwxNzc1NjUwMTkwLDIwMTcwODAwNzUsODE4MTAxNzA0
+LC0zNjMyNTY4NzYsLTIwMjk5Mjc0MTEsMTE3OTAzMzU0NSwtMj
+E0NDA1MTUzNiwxNzgzNzgxOTc2LDM2ODQ5NzIwMywyMDA4OTQ0
+MDcwLDE2ODg4MzMxNDgsMTk3NDc2OTk3NSwtMTc4NDQ4NDQxMy
+wtOTcxODU0MjI0LC0xNDIyNzY0NTAyLDYyNjY5NzAyNiw0MTI1
+MjkxNTBdfQ==
 -->
