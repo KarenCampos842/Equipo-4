@@ -160,7 +160,20 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>27/11/2023</td>
         <td>Terminada</td>     
      </tr>
-      
+      <tr>  
+      <td>Diálogo Interfaz (Asaf)</td>  
+        <td>Bajo</td>
+        <td>26/11/2023</td>
+       <td>27/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
+  <tr>  
+      <td>Audio_Diálogo Interfaz (Asaf)</td>  
+        <td>Bajo</td>
+        <td>26/11/2023</td>
+       <td>27/11/2023</td>
+        <td>Terminada</td>     
+   </tr>     
      <tr>
       <td>Resultados métricas (Hansony)</td>  
         <td>Alto</td>
@@ -340,11 +353,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjI4MTU5NzMsMjAxNzA4MDA3NSw4MT
-gxMDE3MDQsLTM2MzI1Njg3NiwtMjAyOTkyNzQxMSwxMTc5MDMz
-NTQ1LC0yMTQ0MDUxNTM2LDE3ODM3ODE5NzYsMzY4NDk3MjAzLD
-IwMDg5NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5OTc1LC0xNzg0
-NDg0NDEzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MDIsNjI2Njk3MD
-I2LDQxMjUyOTE1MCwxNjE0NjczMDIxLDk5NDczNjcxNCwxMTkx
-Mzg4MTkzXX0=
+eyJoaXN0b3J5IjpbMTc3NTY1MDE5MCwyMDE3MDgwMDc1LDgxOD
+EwMTcwNCwtMzYzMjU2ODc2LC0yMDI5OTI3NDExLDExNzkwMzM1
+NDUsLTIxNDQwNTE1MzYsMTc4Mzc4MTk3NiwzNjg0OTcyMDMsMj
+AwODk0NDA3MCwxNjg4ODMzMTQ4LDE5NzQ3Njk5NzUsLTE3ODQ0
+ODQ0MTMsLTk3MTg1NDIyNCwtMTQyMjc2NDUwMiw2MjY2OTcwMj
+YsNDEyNTI5MTUwLDE2MTQ2NzMwMjEsOTk0NzM2NzE0LDExOTEz
+ODgxOTNdfQ==
 -->
