@@ -159,7 +159,8 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>26/11/2023</td>
        <td>27/11/2023</td>
         <td>Terminada</td>     
-     </tr> 
+     </tr>
+      
      <tr>
       <td>Resultados métricas (Hansony)</td>  
         <td>Alto</td>
@@ -339,11 +340,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2NDMyOTgzLDIwMTcwODAwNzUsODE4MT
-AxNzA0LC0zNjMyNTY4NzYsLTIwMjk5Mjc0MTEsMTE3OTAzMzU0
-NSwtMjE0NDA1MTUzNiwxNzgzNzgxOTc2LDM2ODQ5NzIwMywyMD
-A4OTQ0MDcwLDE2ODg4MzMxNDgsMTk3NDc2OTk3NSwtMTc4NDQ4
-NDQxMywtOTcxODU0MjI0LC0xNDIyNzY0NTAyLDYyNjY5NzAyNi
-w0MTI1MjkxNTAsMTYxNDY3MzAyMSw5OTQ3MzY3MTQsMTE5MTM4
-ODE5M119
+eyJoaXN0b3J5IjpbLTEzMjI4MTU5NzMsMjAxNzA4MDA3NSw4MT
+gxMDE3MDQsLTM2MzI1Njg3NiwtMjAyOTkyNzQxMSwxMTc5MDMz
+NTQ1LC0yMTQ0MDUxNTM2LDE3ODM3ODE5NzYsMzY4NDk3MjAzLD
+IwMDg5NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5OTc1LC0xNzg0
+NDg0NDEzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MDIsNjI2Njk3MD
+I2LDQxMjUyOTE1MCwxNjE0NjczMDIxLDk5NDczNjcxNCwxMTkx
+Mzg4MTkzXX0=
 -->
