@@ -75,7 +75,14 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
         <td>18/11/2023</td>
        <td>23/11/2023</td>
         <td>Terminada</td>     
-   </tr>  
+   </tr>
+  <tr>  
+      <td>Audio_Diálogo Proceso (Karen)</td>  
+        <td>Bajo</td>
+        <td>18/11/2023</td>
+       <td>23/11/2023</td>
+        <td>Terminada</td>     
+   </tr>    
     <tr>  
       <td>Requerimientos no funcionales (Hansony)</td> 
       <td>Medio</td>
@@ -332,11 +339,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzA4MDA3NSw4MTgxMDE3MDQsLTM2Mz
-I1Njg3NiwtMjAyOTkyNzQxMSwxMTc5MDMzNTQ1LC0yMTQ0MDUx
-NTM2LDE3ODM3ODE5NzYsMzY4NDk3MjAzLDIwMDg5NDQwNzAsMT
-Y4ODgzMzE0OCwxOTc0NzY5OTc1LC0xNzg0NDg0NDEzLC05NzE4
-NTQyMjQsLTE0MjI3NjQ1MDIsNjI2Njk3MDI2LDQxMjUyOTE1MC
-wxNjE0NjczMDIxLDk5NDczNjcxNCwxMTkxMzg4MTkzLC0zNjIy
-MzE0MjhdfQ==
+eyJoaXN0b3J5IjpbNDA2NDMyOTgzLDIwMTcwODAwNzUsODE4MT
+AxNzA0LC0zNjMyNTY4NzYsLTIwMjk5Mjc0MTEsMTE3OTAzMzU0
+NSwtMjE0NDA1MTUzNiwxNzgzNzgxOTc2LDM2ODQ5NzIwMywyMD
+A4OTQ0MDcwLDE2ODg4MzMxNDgsMTk3NDc2OTk3NSwtMTc4NDQ4
+NDQxMywtOTcxODU0MjI0LC0xNDIyNzY0NTAyLDYyNjY5NzAyNi
+w0MTI1MjkxNTAsMTYxNDY3MzAyMSw5OTQ3MzY3MTQsMTE5MTM4
+ODE5M119
 -->
