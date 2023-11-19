@@ -125,6 +125,13 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>26/11/2023</td>
         <td>Terminada</td>     
    </tr>
+   <tr>
+    <td>Aplicación de pruebas y cuestionario (Moisés)</td>  
+        <td>Alto</td>
+        <td>24/11/2023</td>
+       <td>26/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
    <tr>  
     <tr>
     <td>Correspondencia con los Requisitos (Hansony)</td>  
@@ -291,11 +298,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjEzMzI4NSwtMjAyOTkyNzQxMSwxMT
-c5MDMzNTQ1LC0yMTQ0MDUxNTM2LDE3ODM3ODE5NzYsMzY4NDk3
-MjAzLDIwMDg5NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5OTc1LC
-0xNzg0NDg0NDEzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MDIsNjI2
-Njk3MDI2LDQxMjUyOTE1MCwxNjE0NjczMDIxLDk5NDczNjcxNC
-wxMTkxMzg4MTkzLC0zNjIyMzE0MjgsLTc3MDQwODA5NiwtMTU3
-NzY0NDk4Nl19
+eyJoaXN0b3J5IjpbLTEzODQzNjcxMjUsLTIwMjk5Mjc0MTEsMT
+E3OTAzMzU0NSwtMjE0NDA1MTUzNiwxNzgzNzgxOTc2LDM2ODQ5
+NzIwMywyMDA4OTQ0MDcwLDE2ODg4MzMxNDgsMTk3NDc2OTk3NS
+wtMTc4NDQ4NDQxMywtOTcxODU0MjI0LC0xNDIyNzY0NTAyLDYy
+NjY5NzAyNiw0MTI1MjkxNTAsMTYxNDY3MzAyMSw5OTQ3MzY3MT
+QsMTE5MTM4ODE5MywtMzYyMjMxNDI4LC03NzA0MDgwOTYsLTE1
+Nzc2NDQ5ODZdfQ==
 -->
