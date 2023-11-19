@@ -348,7 +348,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr> 
    <tr>  
       <td colspan=3><strong>Total de actividades de nivel alto</strong></td>  
-       <td colspan=2>15</td>
+       <td colspan=2>21</td>
    </tr> 
    <tr>  
       <td colspan=3><strong>Total de actividades de nivel medio</strong></td>  
@@ -356,15 +356,15 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>
     <tr>  
       <td colspan=3><strong>Total de actividades de nivel bajo</strong></td>  
-       <td colspan=2>4</td>
+       <td colspan=2>11</td>
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDk4MDk4LDEzMzMyMjEwNjksMzQyNT
-gzMDcsLTExMjYzNDc1NTksMTcxMjA2MDI1OSwxOTIyNzY5MTYz
-LDE1NzU3MzE4ODIsMTc3NTY1MDE5MCwyMDE3MDgwMDc1LDgxOD
-EwMTcwNCwtMzYzMjU2ODc2LC0yMDI5OTI3NDExLDExNzkwMzM1
-NDUsLTIxNDQwNTE1MzYsMTc4Mzc4MTk3NiwzNjg0OTcyMDMsMj
-AwODk0NDA3MCwxNjg4ODMzMTQ4LDE5NzQ3Njk5NzUsLTE3ODQ0
-ODQ0MTNdfQ==
+eyJoaXN0b3J5IjpbLTYyMzIzNTc1NywxMzMzMjIxMDY5LDM0Mj
+U4MzA3LC0xMTI2MzQ3NTU5LDE3MTIwNjAyNTksMTkyMjc2OTE2
+MywxNTc1NzMxODgyLDE3NzU2NTAxOTAsMjAxNzA4MDA3NSw4MT
+gxMDE3MDQsLTM2MzI1Njg3NiwtMjAyOTkyNzQxMSwxMTc5MDMz
+NTQ1LC0yMTQ0MDUxNTM2LDE3ODM3ODE5NzYsMzY4NDk3MjAzLD
+IwMDg5NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5OTc1LC0xNzg0
+NDg0NDEzXX0=
 -->
