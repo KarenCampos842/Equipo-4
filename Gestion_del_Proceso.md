@@ -286,20 +286,6 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>31/10/2023</td>
         <td>Terminada</td>    
    </tr>
-    <tr>  
-      <td>Competencias genéricas (Asaf)</td>  
-       <td>Medio</td>
-         <td>28/10/2023</td>
-       <td>30/10/2023</td>
-         <td>Terminada</td>       
-   </tr> 
-  <tr>  
-      <td>Competencias específicas (Asaf)</td>  
-       <td>Medio</td>
-         <td>28/10/2023</td>
-       <td>30/10/2023</td>
-         <td>Terminada</td>       
-   </tr>
  <tr>  
       <td>Product backlog (Hansony)</td>  
        <td>Medio</td>
@@ -423,11 +409,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1NDYxODg1LDE5MjI3NjkxNjMsMTU3NT
-czMTg4MiwxNzc1NjUwMTkwLDIwMTcwODAwNzUsODE4MTAxNzA0
-LC0zNjMyNTY4NzYsLTIwMjk5Mjc0MTEsMTE3OTAzMzU0NSwtMj
-E0NDA1MTUzNiwxNzgzNzgxOTc2LDM2ODQ5NzIwMywyMDA4OTQ0
-MDcwLDE2ODg4MzMxNDgsMTk3NDc2OTk3NSwtMTc4NDQ4NDQxMy
-wtOTcxODU0MjI0LC0xNDIyNzY0NTAyLDYyNjY5NzAyNiw0MTI1
-MjkxNTBdfQ==
+eyJoaXN0b3J5IjpbLTEwNDk4ODAzMjUsMTkyMjc2OTE2MywxNT
+c1NzMxODgyLDE3NzU2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3
+MDQsLTM2MzI1Njg3NiwtMjAyOTkyNzQxMSwxMTc5MDMzNTQ1LC
+0yMTQ0MDUxNTM2LDE3ODM3ODE5NzYsMzY4NDk3MjAzLDIwMDg5
+NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5OTc1LC0xNzg0NDg0ND
+EzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MDIsNjI2Njk3MDI2LDQx
+MjUyOTE1MF19
 -->
