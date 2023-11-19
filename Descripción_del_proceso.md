@@ -234,6 +234,7 @@ Utilizar la siguiente plantilla:
  1_registro (nombre de la ventana): Se modificó x cosa. 
  Descripción: En la prueba "y" se obtuvo z resultado, por lo que se  decidió modificar x cosa. 
 
+**Archivo del trabajo/resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
 ### *Sección "Proceso"*
 
 **Responsable**
@@ -315,11 +316,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzYzNDg3MSwxMDQyMDA1MzMzLDE4ND
-Y3NDk5NzUsLTI4MzIwODEzOCwtNzY1MjY0NjE1LDE5NzMzNDEz
-NTksOTI5OTU1MzUsLTE1MzA0OTA0NTQsLTE0Nzk3MTkyNTQsNj
-EzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNjY4ODQwMCwtMTA3NTkx
-NDAxNywtMjA0Nzk0NTI3LDE4MDMwNTE0NjMsLTUyNjg1NDQwMC
-wxOTA0ODgzOTEzLC0xMDQwMDM3OTYsLTkwNjUzNjM2LC0xNjc1
-MTQzMTA2XX0=
+eyJoaXN0b3J5IjpbLTE0NzM4OTY4MSwtNDI3NjM0ODcxLDEwND
+IwMDUzMzMsMTg0Njc0OTk3NSwtMjgzMjA4MTM4LC03NjUyNjQ2
+MTUsMTk3MzM0MTM1OSw5Mjk5NTUzNSwtMTUzMDQ5MDQ1NCwtMT
+Q3OTcxOTI1NCw2MTM1MTk4ODQsLTExNTYzNDQ0NTAsNzM2Njg4
+NDAwLC0xMDc1OTE0MDE3LC0yMDQ3OTQ1MjcsMTgwMzA1MTQ2My
+wtNTI2ODU0NDAwLDE5MDQ4ODM5MTMsLTEwNDAwMzc5NiwtOTA2
+NTM2MzZdfQ==
 -->
