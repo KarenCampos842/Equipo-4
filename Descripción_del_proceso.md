@@ -293,7 +293,7 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
  - **Competencias específicas:** Argumentar de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto. Las competencias específicas corresponden al programa de la asignatura (Planeación Didáctica).
  - **Crítica constructiva del curso:** Se realiza una crítica (argumentos) a las actividades que pueden ser mejoradas, cambiadas o eliminadas. Se proponen actividades (específicas) alternativas que podrían mejorar la promoción de las competencias del curso.
 
-***NOTA:***  Leer el Plan de Estudios de la Licenciatura en Ingeniería de Software[^4] para realizar las actividades. 
+***NOTA:***  Leer el Plan de Estudios de la Licenciatura en Ingeniería de Software[^4] para realizar las actividades. Y la Planeación Didáctica.
 
 ### *Sección "Demo"*
 **Responsable**
@@ -323,11 +323,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyMTU1NTMxLDE3ODE3MTU1MTEsODc0Nz
-YyMTA1LC00Mjc2MzQ4NzEsMTA0MjAwNTMzMywxODQ2NzQ5OTc1
-LC0yODMyMDgxMzgsLTc2NTI2NDYxNSwxOTczMzQxMzU5LDkyOT
-k1NTM1LC0xNTMwNDkwNDU0LC0xNDc5NzE5MjU0LDYxMzUxOTg4
-NCwtMTE1NjM0NDQ1MCw3MzY2ODg0MDAsLTEwNzU5MTQwMTcsLT
-IwNDc5NDUyNywxODAzMDUxNDYzLC01MjY4NTQ0MDAsMTkwNDg4
-MzkxM119
+eyJoaXN0b3J5IjpbMTI5MDE2NzU3OSwxNzgxNzE1NTExLDg3ND
+c2MjEwNSwtNDI3NjM0ODcxLDEwNDIwMDUzMzMsMTg0Njc0OTk3
+NSwtMjgzMjA4MTM4LC03NjUyNjQ2MTUsMTk3MzM0MTM1OSw5Mj
+k5NTUzNSwtMTUzMDQ5MDQ1NCwtMTQ3OTcxOTI1NCw2MTM1MTk4
+ODQsLTExNTYzNDQ0NTAsNzM2Njg4NDAwLC0xMDc1OTE0MDE3LC
+0yMDQ3OTQ1MjcsMTgwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4
+ODM5MTNdfQ==
 -->
