@@ -139,14 +139,19 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>26/11/2023</td>
         <td>Terminada</td>     
    </tr>
-   <tr>  
+    <tr>
+    <td>Modificación interfaces (Hansony)</td>  
+        <td>Alta</td>
+        <td>26/11/2023</td>
+       <td>27/11/2023</td>
+        <td>Terminada</td>     
+     </tr> 
     <tr>
     <td>Correspondencia con los Requisitos (Hansony)</td>  
         <td>Medio</td>
         <td>26/11/2023</td>
        <td>27/11/2023</td>
         <td>Terminada</td>     
-   </tr>
      </tr> 
     <tr>
     <td>Evolución de las Interfaces de Usuario (Carlos)</td>  
@@ -155,6 +160,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
+   <tr> 
       <td>Organización y documentación del repositorio (Karen)</td>  
        <td>Bajo</td>
          <td>27/10/2023</td>
@@ -305,11 +311,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjUzMzc5OTMsLTIwMjk5Mjc0MTEsMT
-E3OTAzMzU0NSwtMjE0NDA1MTUzNiwxNzgzNzgxOTc2LDM2ODQ5
-NzIwMywyMDA4OTQ0MDcwLDE2ODg4MzMxNDgsMTk3NDc2OTk3NS
-wtMTc4NDQ4NDQxMywtOTcxODU0MjI0LC0xNDIyNzY0NTAyLDYy
-NjY5NzAyNiw0MTI1MjkxNTAsMTYxNDY3MzAyMSw5OTQ3MzY3MT
-QsMTE5MTM4ODE5MywtMzYyMjMxNDI4LC03NzA0MDgwOTYsLTE1
-Nzc2NDQ5ODZdfQ==
+eyJoaXN0b3J5IjpbLTMyMDk2NDk1MCwtMjAyOTkyNzQxMSwxMT
+c5MDMzNTQ1LC0yMTQ0MDUxNTM2LDE3ODM3ODE5NzYsMzY4NDk3
+MjAzLDIwMDg5NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5OTc1LC
+0xNzg0NDg0NDEzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MDIsNjI2
+Njk3MDI2LDQxMjUyOTE1MCwxNjE0NjczMDIxLDk5NDczNjcxNC
+wxMTkxMzg4MTkzLC0zNjIyMzE0MjgsLTc3MDQwODA5NiwtMTU3
+NzY0NDk4Nl19
 -->
