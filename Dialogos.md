@@ -22,3 +22,6 @@ En el caso de los trabajadores tendrán que contar con una tarjeta bancaria en e
 Por último pero no menos importante, todos sabemos que lo que anima a los clientes a adquirir un servicio es por las reseñas y las calificaciones de clientes contando su experiencia adquiriendo dicho servicio, por lo que clientes y trabajadores podrán calificarse y/u opinar sobre su experiencia con dicho servicio ya adquirido y finalizado.
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDE3Nzg4MTM1XX0=
+-->
