@@ -3,20 +3,15 @@
 
 
 ## Evolución de las Interfaces de Usuario
-<a href="https://www.figma.com/file/dKpr0w4UBgbIhd1HJx5kLn/Bosquejos-de-interfaces-(WorkFlash)?type=design&node-id=54702%3A25212&mode=design&t=HFZIp5n8WLzdbYrO-1">Abrir en Figma</a>
+<a href="https://www.figma.com/file/dKpr0w4UBgbIhd1HJx5kLn/Bosquejos-de-interfaces-(WorkFlash)?type=design&node-id=54702%3A25212&mode=design&t=HFZIp5n8WLzdbYrO-1">Segunda-Entrega</a>
+<a href="https://www.figma.com/file/WxkTPx8zGQiWg8UpDYWTxF/Dise%C3%B1o-modificado-(WorkFlash)?type=design&node-id=11%3A1833&mode=design&t=td8rmplOaTKT1vmg-1">Tercera-Entrega</a>
 
 ## Correspondencia con los Requisitos 
-
-**Registro desde la vista del trabajador:** Requisitos funcionales: 1, 3, 4, 5, 9, 10.
-
-**Registro desde la vista del cliente:** Requisitos funcionales: 1, 2, 5, 8, 10.
-
-**Aplicación desde la vista del cliente:** Requisitos funcionales: 6, 7, 8, 11, 12, 13, 14, 15, 17, 18, 19, 21, 22.
-
-**Aplicación desde la vista del trabajador:** Requisitos funcionales: 4, 7, 9, 14, 15, 16, 18, 19, 20, 21, 22.
-
+| Nombre de la ventana | Número de requerimiento |
+|--|--|
+| x | x |
 
 <a href="https://m3.material.io/">Referencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2NTA4ODQ3XX0=
+eyJoaXN0b3J5IjpbMTc2MzU2NTI5OV19
 -->
