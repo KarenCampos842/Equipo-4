@@ -85,8 +85,8 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>
      <tr>  
       <td>Traducción (Asaf)</td>  
-        <td>Medio</td>
-        <td>26/11/2023</td>
+        <td>Alto</td>
+        <td>18/11/2023</td>
        <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>         
@@ -360,11 +360,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODQ2MTUyNCwxNzc1NjUwMTkwLDIwMT
-cwODAwNzUsODE4MTAxNzA0LC0zNjMyNTY4NzYsLTIwMjk5Mjc0
-MTEsMTE3OTAzMzU0NSwtMjE0NDA1MTUzNiwxNzgzNzgxOTc2LD
-M2ODQ5NzIwMywyMDA4OTQ0MDcwLDE2ODg4MzMxNDgsMTk3NDc2
-OTk3NSwtMTc4NDQ4NDQxMywtOTcxODU0MjI0LC0xNDIyNzY0NT
-AyLDYyNjY5NzAyNiw0MTI1MjkxNTAsMTYxNDY3MzAyMSw5OTQ3
-MzY3MTRdfQ==
+eyJoaXN0b3J5IjpbMjI3ODgwNDY5LDE3NzU2NTAxOTAsMjAxNz
+A4MDA3NSw4MTgxMDE3MDQsLTM2MzI1Njg3NiwtMjAyOTkyNzQx
+MSwxMTc5MDMzNTQ1LC0yMTQ0MDUxNTM2LDE3ODM3ODE5NzYsMz
+Y4NDk3MjAzLDIwMDg5NDQwNzAsMTY4ODgzMzE0OCwxOTc0NzY5
+OTc1LC0xNzg0NDg0NDEzLC05NzE4NTQyMjQsLTE0MjI3NjQ1MD
+IsNjI2Njk3MDI2LDQxMjUyOTE1MCwxNjE0NjczMDIxLDk5NDcz
+NjcxNF19
 -->
