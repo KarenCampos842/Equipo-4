@@ -280,7 +280,7 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
  -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
  - **Audio:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  
   
- **Archivo del trabajo/Resultado:**  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>
+ **Archivo del trabajo/Resultado:**  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>
 
  ### *Sección "Competencias"*
 
@@ -323,11 +323,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0NzYyMTA1LC00Mjc2MzQ4NzEsMTA0Mj
-AwNTMzMywxODQ2NzQ5OTc1LC0yODMyMDgxMzgsLTc2NTI2NDYx
-NSwxOTczMzQxMzU5LDkyOTk1NTM1LC0xNTMwNDkwNDU0LC0xND
-c5NzE5MjU0LDYxMzUxOTg4NCwtMTE1NjM0NDQ1MCw3MzY2ODg0
-MDAsLTEwNzU5MTQwMTcsLTIwNDc5NDUyNywxODAzMDUxNDYzLC
-01MjY4NTQ0MDAsMTkwNDg4MzkxMywtMTA0MDAzNzk2LC05MDY1
-MzYzNl19
+eyJoaXN0b3J5IjpbNTE0MTQyNjU2LDg3NDc2MjEwNSwtNDI3Nj
+M0ODcxLDEwNDIwMDUzMzMsMTg0Njc0OTk3NSwtMjgzMjA4MTM4
+LC03NjUyNjQ2MTUsMTk3MzM0MTM1OSw5Mjk5NTUzNSwtMTUzMD
+Q5MDQ1NCwtMTQ3OTcxOTI1NCw2MTM1MTk4ODQsLTExNTYzNDQ0
+NTAsNzM2Njg4NDAwLC0xMDc1OTE0MDE3LC0yMDQ3OTQ1MjcsMT
+gwMzA1MTQ2MywtNTI2ODU0NDAwLDE5MDQ4ODM5MTMsLTEwNDAw
+Mzc5Nl19
 -->
