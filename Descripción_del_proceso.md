@@ -280,7 +280,7 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
  -   **Diálogo interfaz (1 min):** Describir las funcionalidades principales de la app (un recorrido rápido por la aplicación). Utilizar como guía las <a href="https://www.figma.com/file/WxkTPx8zGQiWg8UpDYWTxF/Dise%C3%B1o-modificado-(WorkFlash)?type=design&node-id=11%3A1833&mode=design&t=td8rmplOaTKT1vmg-1">interfaces</a>.
  -  **Diálogo proceso (2 min):** Describir el proceso de desarrollo. 
  -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
- - **Audio:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  
+ - **Audio:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  Enviar la grabación a Moisés por WhatsApp. 
   
  **Archivo del trabajo/Resultado:**  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>
 
@@ -327,11 +327,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0MjI4NDQzLC0yMTAyNTYyNzM5LDg5MT
-I1ODMxLC0xMTY2ODQ5MzE2LDIwNzA5MDM5NSwxNzgxNzE1NTEx
-LDg3NDc2MjEwNSwtNDI3NjM0ODcxLDEwNDIwMDUzMzMsMTg0Nj
-c0OTk3NSwtMjgzMjA4MTM4LC03NjUyNjQ2MTUsMTk3MzM0MTM1
-OSw5Mjk5NTUzNSwtMTUzMDQ5MDQ1NCwtMTQ3OTcxOTI1NCw2MT
-M1MTk4ODQsLTExNTYzNDQ0NTAsNzM2Njg4NDAwLC0xMDc1OTE0
-MDE3XX0=
+eyJoaXN0b3J5IjpbLTE5MzQyMzAxNSwtMjEwMjU2MjczOSw4OT
+EyNTgzMSwtMTE2Njg0OTMxNiwyMDcwOTAzOTUsMTc4MTcxNTUx
+MSw4NzQ3NjIxMDUsLTQyNzYzNDg3MSwxMDQyMDA1MzMzLDE4ND
+Y3NDk5NzUsLTI4MzIwODEzOCwtNzY1MjY0NjE1LDE5NzMzNDEz
+NTksOTI5OTU1MzUsLTE1MzA0OTA0NTQsLTE0Nzk3MTkyNTQsNj
+EzNTE5ODg0LC0xMTU2MzQ0NDUwLDczNjY4ODQwMCwtMTA3NTkx
+NDAxN119
 -->
