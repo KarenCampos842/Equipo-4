@@ -132,6 +132,13 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
        <td>26/11/2023</td>
         <td>Terminada</td>     
    </tr>
+    <tr>
+    <td>Aplicación de pruebas y cuestionario (Brandon)</td>  
+        <td>Alto</td>
+        <td>24/11/2023</td>
+       <td>26/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
    <tr>  
     <tr>
     <td>Correspondencia con los Requisitos (Hansony)</td>  
@@ -298,7 +305,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQzNjcxMjUsLTIwMjk5Mjc0MTEsMT
+eyJoaXN0b3J5IjpbLTEwMjUzMzc5OTMsLTIwMjk5Mjc0MTEsMT
 E3OTAzMzU0NSwtMjE0NDA1MTUzNiwxNzgzNzgxOTc2LDM2ODQ5
 NzIwMywyMDA4OTQ0MDcwLDE2ODg4MzMxNDgsMTk3NDc2OTk3NS
 wtMTc4NDQ4NDQxMywtOTcxODU0MjI0LC0xNDIyNzY0NTAyLDYy
