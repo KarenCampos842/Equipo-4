@@ -6,7 +6,7 @@
 
 | Nombre de la ventana | Cambio |
 |--|--|
-|  |  |
+| x | x |
 
 **Evidencia:** 
 <a href="https://www.figma.com/file/dKpr0w4UBgbIhd1HJx5kLn/Bosquejos-de-interfaces-(WorkFlash)?type=design&node-id=54702%3A25212&mode=design&t=HFZIp5n8WLzdbYrO-1">Interfaces en la Segunda-Entrega</a>
@@ -19,5 +19,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTU0ODU0Nl19
+eyJoaXN0b3J5IjpbMjAwNzAwOTYyNl19
 -->
