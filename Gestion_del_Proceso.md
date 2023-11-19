@@ -47,6 +47,13 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
           <th>Fecha de asignación</th>  
            <th>Fecha máxima de finalización</th>
                 <th>Estado de entrega</th>    
+   </tr>
+    <tr>  
+      <td>Corrección de redacción (Brandon)</td>  
+       <td>Alto</td> 
+       <td>18/10/2023</td>
+       <td>27/10/2023</td>
+        <td>Terminada</td>    
    </tr> 
    <tr>  
       <td>Innovación (Hansony)</td>  
@@ -313,14 +320,7 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
          <td>27/10/2023</td>
        <td>28/10/2023</td>
          <td>Terminada</td>       
-   </tr>   
-    <tr>  
-      <td>Corrección de redacción (Brandon)</td>  
-       <td>Alto</td> 
-       <td>28/10/2023</td>
-       <td>31/10/2023</td>
-        <td>Terminada</td>    
-   </tr>
+   </tr> 
  <tr>  
       <td>Product backlog (Hansony)</td>  
        <td>Medio</td>
@@ -444,11 +444,11 @@ Duración del sprint: 10 días (27/10/2023) - (5/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjYzNDc1NTksMTcxMjA2MDI1OSwxOT
-IyNzY5MTYzLDE1NzU3MzE4ODIsMTc3NTY1MDE5MCwyMDE3MDgw
-MDc1LDgxODEwMTcwNCwtMzYzMjU2ODc2LC0yMDI5OTI3NDExLD
-ExNzkwMzM1NDUsLTIxNDQwNTE1MzYsMTc4Mzc4MTk3NiwzNjg0
-OTcyMDMsMjAwODk0NDA3MCwxNjg4ODMzMTQ4LDE5NzQ3Njk5Nz
-UsLTE3ODQ0ODQ0MTMsLTk3MTg1NDIyNCwtMTQyMjc2NDUwMiw2
-MjY2OTcwMjZdfQ==
+eyJoaXN0b3J5IjpbLTE4NjU2OTc4MjEsLTExMjYzNDc1NTksMT
+cxMjA2MDI1OSwxOTIyNzY5MTYzLDE1NzU3MzE4ODIsMTc3NTY1
+MDE5MCwyMDE3MDgwMDc1LDgxODEwMTcwNCwtMzYzMjU2ODc2LC
+0yMDI5OTI3NDExLDExNzkwMzM1NDUsLTIxNDQwNTE1MzYsMTc4
+Mzc4MTk3NiwzNjg0OTcyMDMsMjAwODk0NDA3MCwxNjg4ODMzMT
+Q4LDE5NzQ3Njk5NzUsLTE3ODQ0ODQ0MTMsLTk3MTg1NDIyNCwt
+MTQyMjc2NDUwMl19
 -->
