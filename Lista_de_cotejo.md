@@ -125,15 +125,21 @@
   <td></td>
  </tr>
  <tr>
-  <th rowspan="2">Competencias</th>
+  <th rowspan="3">Competencias</th>
   <td>Competencias Genéricas</td>
-  <td>Se argumenta de qué forma se promueven las competencias genéricas a través de actividades específicas del desarrollo del producto.</td>
+  <td>Se argumenta de qué forma se promueven las competencias genéricas a través de actividades específicas del desarrollo del producto. Las competencias genéricas corresponden al programa de la asignatura (Planeación Didáctica).</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias-gen%C3%A9ric">Competencias Genéricas</a></td>
   <td></td>
  </tr>
  <tr>
   <td>Competencias Específicas</td>
-  <td>Se argumenta de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto.</td>
+  <td>Se argumenta de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto. Las competencias específicas corresponden al programa de la asignatura (Planeación Didáctica).</td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias-espec%C3%ADficas">Competencias Específicas</a></td>
+  <td></td>
+ </tr>
+  <tr>
+  <td>Crítica Constructiva al curso</td>
+  <td>Se argumenta de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto. Las competencias específicas corresponden al programa de la asignatura (Planeación Didáctica).</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias-espec%C3%ADficas">Competencias Específicas</a></td>
   <td></td>
  </tr>
@@ -169,6 +175,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDM5MDQ1MiwtODY5MzQwNTcyLC00Mz
+eyJoaXN0b3J5IjpbMTk5NzQ0NTAzOSwtODY5MzQwNTcyLC00Mz
 Q0ODkwNDcsMTE4MDM1MDM4XX0=
 -->
