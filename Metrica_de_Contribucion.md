@@ -2,7 +2,7 @@
 
  Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#sprint-backlog">Gestión_del_proceso.md</a> para ver especificaciones de las actividades.
  
-Métrica (tercera entre
+
 <table align=center>  
    <tr>  
       <th>Nombre</th>  
@@ -42,7 +42,7 @@ Métrica (tercera entre
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDMwNzA5NiwxNDc3NTkyMTM3LC0xMT
-A5NjI0MjE3LDY2OTYxNjg1OCwtNjQ4ODYyMzcsMTEwODMzNDc1
-MSwxOTA3NjExODQ1LC03MTM5MzM5MzNdfQ==
+eyJoaXN0b3J5IjpbLTEzNjA5OTc1ODEsMTQ3NzU5MjEzNywtMT
+EwOTYyNDIxNyw2Njk2MTY4NTgsLTY0ODg2MjM3LDExMDgzMzQ3
+NTEsMTkwNzYxMTg0NSwtNzEzOTMzOTMzXX0=
 -->
