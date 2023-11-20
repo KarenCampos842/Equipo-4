@@ -4,7 +4,7 @@
 ### Pruebas
 Regístrate como trabajador en la aplicación e inicia sesión. 
 Regístrate como cliente e inicia sesión.
-Contrata el servicio del mecánico Juan Campos Romero
+Contrata el servicio del mecánico Juan Campos Romero.
 ### Aplicación de las pruebas
 ## Cuestionarios de satisfacción
 ###  Cuestionario
@@ -19,6 +19,6 @@ Contrata el servicio del mecánico Juan Campos Romero
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzAxNjMyMywtMTI5NTM4NjAzNSw4OD
-g0MTM2NTJdfQ==
+eyJoaXN0b3J5IjpbLTExODE0Mjc0NTcsLTc1MzAxNjMyMywtMT
+I5NTM4NjAzNSw4ODg0MTM2NTJdfQ==
 -->
