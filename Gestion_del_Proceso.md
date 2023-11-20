@@ -1,7 +1,7 @@
 ﻿<center><h1>Gestión del Proceso</h1></center>
 
 ## Bitácora
-**Mi 18 de octubre de 2023 (Retrospective)**<br> Durante la reunión se realizó un análisis del desempeño del equipo durante el último sprint. Como resultado hubo un cambio de líder (de Moisés a Karen), debido a problemas de organización. 
+**Viernes 17 de noviembre de 2023 (Retrospective)**<br> Durante la reunión se realizó un análisis del desempeño del equipo durante los primeros dos sprints.  
 
 **Viernes 27 de octubre de 2023 (Sprint planning meeting)**<br> Durante la reunión se habló sobre las historias de usuario y se definieron las actividades para el segundo sprint, las cuales quedan detalladas en el archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> y en el apartado de <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#sprint-backlog">Sprint Backlog</a> del archivo "Gestión_del_Proceso". 
 Karen acordó elaborar dichos elementos, además de escribir las historias de usuario comentadas durante la reunión. 
@@ -360,11 +360,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTMzMzExNTAsLTEyNjkwNzQ5MjMsMT
-MzMzIyMTA2OSwzNDI1ODMwNywtMTEyNjM0NzU1OSwxNzEyMDYw
-MjU5LDE5MjI3NjkxNjMsMTU3NTczMTg4MiwxNzc1NjUwMTkwLD
-IwMTcwODAwNzUsODE4MTAxNzA0LC0zNjMyNTY4NzYsLTIwMjk5
-Mjc0MTEsMTE3OTAzMzU0NSwtMjE0NDA1MTUzNiwxNzgzNzgxOT
-c2LDM2ODQ5NzIwMywyMDA4OTQ0MDcwLDE2ODg4MzMxNDgsMTk3
-NDc2OTk3NV19
+eyJoaXN0b3J5IjpbLTMwODM0ODExNiwtMTI2OTA3NDkyMywxMz
+MzMjIxMDY5LDM0MjU4MzA3LC0xMTI2MzQ3NTU5LDE3MTIwNjAy
+NTksMTkyMjc2OTE2MywxNTc1NzMxODgyLDE3NzU2NTAxOTAsMj
+AxNzA4MDA3NSw4MTgxMDE3MDQsLTM2MzI1Njg3NiwtMjAyOTky
+NzQxMSwxMTc5MDMzNTQ1LC0yMTQ0MDUxNTM2LDE3ODM3ODE5Nz
+YsMzY4NDk3MjAzLDIwMDg5NDQwNzAsMTY4ODgzMzE0OCwxOTc0
+NzY5OTc1XX0=
 -->
