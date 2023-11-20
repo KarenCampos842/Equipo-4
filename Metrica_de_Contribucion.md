@@ -31,8 +31,8 @@
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
-        <td>3/25=12%</td>
-        <td> Alto: 2/15= 13.33%<br>Medio: 0/6= 0%<br>Bajo: 1/4= 25%</td>    
+        <td>5/25=12%</td>
+        <td> Alto: 2/15= 13.33%<br>Medio: 3/6= 0%<br>Bajo: 1/4= 25%</td>    
    </tr> 
     <tr>  
       <td>Suárez Balam Brandon Emmanuel</td> 
@@ -42,7 +42,7 @@
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTgzNjk0NywxNDc3NTkyMTM3LC0xMT
-A5NjI0MjE3LDY2OTYxNjg1OCwtNjQ4ODYyMzcsMTEwODMzNDc1
-MSwxOTA3NjExODQ1LC03MTM5MzM5MzNdfQ==
+eyJoaXN0b3J5IjpbLTE3NjE2NDAzNjQsMTQ3NzU5MjEzNywtMT
+EwOTYyNDIxNyw2Njk2MTY4NTgsLTY0ODg2MjM3LDExMDgzMzQ3
+NTEsMTkwNzYxMTg0NSwtNzEzOTMzOTMzXX0=
 -->
