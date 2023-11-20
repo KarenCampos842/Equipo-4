@@ -45,7 +45,7 @@
  <tr>
   <td>Listado Final de Requerimientos</td>
   <td>Se presenta la lista final. Se presenta un diagrama que resume el conjunto de requerimientos (ej. Diagrama de Casos de Uso). Se establece un nivel de cobertura de los requisitos Funcionales y No Funcionales.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#diagrama-de-caso-de-uso">Requistos.md (Diagrama de Casos de Uso</a>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#diagrama-de-caso-de-uso">Requistos.md (Diagrama de Casos de Uso)</a>
  </td>
   <td></td>
  </tr>
@@ -53,7 +53,7 @@
   <th rowspan="2">Diseño</th>
   <td>Evolución de las Interfaces de Usuario</td>
   <td>Se cuenta con un conjunto inicial de prototipos de baja, media o alta fidelidad. Se utilizan guías de diseño. Se utiliza alguna herramienta para el diseño. Se presenta una resumen del cambio (evolución) de las interfaces entre la segunda y tercera entrega.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#bosquejos-de-interfaces">Bosquejos de Interfaces</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#evoluci%C3%B3n-de-las-interfaces-de-usuario">Diseño.md (Evolución de las Interfaces de Usuario)</a></td>
   <td></td>
  </tr>
  <tr>
@@ -173,6 +173,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1Mzg5MDAxLC04NjkzNDA1NzIsLTQzND
+eyJoaXN0b3J5IjpbOTgyNDkzMzc1LC04NjkzNDA1NzIsLTQzND
 Q4OTA0NywxMTgwMzUwMzhdfQ==
 -->
