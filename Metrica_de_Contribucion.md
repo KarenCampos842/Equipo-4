@@ -21,8 +21,8 @@
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
-      <td>7/25=20%</td>
-      <td> Alto: 2/15= 13.33%<br>Medio: 3/6= 33.33%<br>Bajo: 2/4= 25%</td>    
+      <td>15/25=20%</td>
+      <td> Alto: 6/15= 13.33%<br>Medio: 3/6= 33.33%<br>Bajo: 2/4= 25%</td>    
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
@@ -42,7 +42,7 @@
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4NDgzMjYxLDE0Nzc1OTIxMzcsLTExMD
+eyJoaXN0b3J5IjpbODUyNzk3OTI4LDE0Nzc1OTIxMzcsLTExMD
 k2MjQyMTcsNjY5NjE2ODU4LC02NDg4NjIzNywxMTA4MzM0NzUx
 LDE5MDc2MTE4NDUsLTcxMzkzMzkzM119
 -->
