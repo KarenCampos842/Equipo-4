@@ -108,7 +108,7 @@
 <tr>
   <th rowspan="3">Presentación del Avance</th>
   <td>Formato de la Presentación</td>
-  <td>Se utiliza recursos/medios que apoyan la presentación de forma original/profesional (diapositivas balanceadas, audio uniforme, diagramas, gráficas CC, etc). Se tiene cuidado del audio y de los recursos visuales. Hay consistencia visual. Se incluye la información relevante.Se ajusta al tiempo de presentación. (10 minutos)</td>
+  <td>Se utiliza recursos/medios que apoyan la presentación de forma original/profesional (diapositivas balanceadas, audio uniforme, diagramas, gráficas CC, etc). Se tiene cuidado del audio y de los recursos visuales. Hay consistencia visual. Se incluye la información relevante. Se ajusta al tiempo de presentación. (10 minutos)</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Formato de la Presentación</a></td>
   <td></td>
  </tr>
@@ -169,6 +169,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDEzNzI0MjgsLTg2OTM0MDU3MiwtND
-M0NDg5MDQ3LDExODAzNTAzOF19
+eyJoaXN0b3J5IjpbLTk0MDM5MDQ1MiwtODY5MzQwNTcyLC00Mz
+Q0ODkwNDcsMTE4MDM1MDM4XX0=
 -->
