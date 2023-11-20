@@ -3,7 +3,7 @@
 ## Bitácora
 **Viernes 17 de noviembre de 2023 (Retrospective)**<br> Durante la reunión se realizó un análisis del desempeño del equipo durante los primeros dos sprints.      Cada integrante se comprometió a entregar sus actividades en tiempo y forma. 
 
-**Sábado 18 de noviembre de 2023 (Sprint planning meeting)**<br> Durante la reunión se establecieron las distintas actividades para el último sprint, las cuales Karen acordó redactar en el archivo<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> 
+**Sábado 18 de noviembre de 2023 (Sprint planning meeting)**<br> Durante la reunión se establecieron las distintas actividades para el último sprint, las cuales Karen acordó redactar en el archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>
 
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>
@@ -336,11 +336,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY4MzUzMTcsLTEyNjkwNzQ5MjMsMT
-MzMzIyMTA2OSwzNDI1ODMwNywtMTEyNjM0NzU1OSwxNzEyMDYw
-MjU5LDE5MjI3NjkxNjMsMTU3NTczMTg4MiwxNzc1NjUwMTkwLD
-IwMTcwODAwNzUsODE4MTAxNzA0LC0zNjMyNTY4NzYsLTIwMjk5
-Mjc0MTEsMTE3OTAzMzU0NSwtMjE0NDA1MTUzNiwxNzgzNzgxOT
-c2LDM2ODQ5NzIwMywyMDA4OTQ0MDcwLDE2ODg4MzMxNDgsMTk3
-NDc2OTk3NV19
+eyJoaXN0b3J5IjpbNDU0MDExODAsLTEyNjkwNzQ5MjMsMTMzMz
+IyMTA2OSwzNDI1ODMwNywtMTEyNjM0NzU1OSwxNzEyMDYwMjU5
+LDE5MjI3NjkxNjMsMTU3NTczMTg4MiwxNzc1NjUwMTkwLDIwMT
+cwODAwNzUsODE4MTAxNzA0LC0zNjMyNTY4NzYsLTIwMjk5Mjc0
+MTEsMTE3OTAzMzU0NSwtMjE0NDA1MTUzNiwxNzgzNzgxOTc2LD
+M2ODQ5NzIwMywyMDA4OTQ0MDcwLDE2ODg4MzMxNDgsMTk3NDc2
+OTk3NV19
 -->
