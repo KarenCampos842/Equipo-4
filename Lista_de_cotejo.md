@@ -8,7 +8,7 @@
    <th>Rúbrica. Nivlel (0-3)</th>
  </tr>
  <tr>
-  <th rowspan=2>Producto</th>
+  <th rowspan=3>Producto</th>
   <td>Evolución del Producto</td>
   <td>Resumen de los cambios completados del producto entre la PRIMERA, SEGUNDA y TERCERA entrega. Mencionar de manera sintetizada los cambios más significativos y que se cuenta con evidencia.</td>
   <td>
@@ -16,8 +16,8 @@
   <td></td>
  </tr>
  <tr>
-  <td>Evolución del Producto</td>
-  <td>Resumen de los cambios completados del producto entre la PRIMERA, SEGUNDA y TERCERA entrega. Mencionar de manera sintetizada los cambios más significativos y que se cuenta con evidencia.</td>
+  <td>Usuarios</td>
+  <td>Usuarios: Se identifica de forma clara los usuarios primarios, secundarios y/o potenciales. Fue posible determinar un tipo de usuario específico (primaro) y sus características principales. Se cuenta con información básica del perfil de los usuarios. Se cuentan con información adicional de los usuarios (perfiles, personas, escenarios)*</td>
   <td>
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a></td>
   <td></td>
@@ -155,6 +155,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzOTYwNzc1LC04NjkzNDA1NzIsLTQzND
-Q4OTA0NywxMTgwMzUwMzhdfQ==
+eyJoaXN0b3J5IjpbLTI0NTU1MTUwMSwtODY5MzQwNTcyLC00Mz
+Q0ODkwNDcsMTE4MDM1MDM4XX0=
 -->
