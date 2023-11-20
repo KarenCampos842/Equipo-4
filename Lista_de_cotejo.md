@@ -12,21 +12,21 @@
   <td>Evolución del Producto</td>
   <td>Resumen de los cambios completados del producto entre la PRIMERA, SEGUNDA y TERCERA entrega. Mencionar de manera sintetizada los cambios más significativos y que se cuenta con evidencia.</td>
   <td>
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a></td>
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md (Evolución del Producto)</a></td>
   <td></td>
  </tr>
  <tr>
   <td>Usuarios</td>
   <td>Usuarios: Se identifica de forma clara los usuarios primarios, secundarios y/o potenciales. Fue posible determinar un tipo de usuario específico (primaro) y sus características principales. Se cuenta con información básica del perfil de los usuarios. Se cuentan con información adicional de los usuarios (perfiles, personas, escenarios)*</td>
   <td>
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#usuarios">Producto.md</a></td>
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#usuarios">Producto.md (Usuarios)</a></td>
   <td></td>
  </tr>
  <tr>
   <td>Innovación</td>
   <td>Es clara la contribución del producto. Es clara la contribución del producto con respecto a otras propuestas existentes. ¿Qué incluye este producto que no hacen otros? ¿En una necesidad identificada? ¿Por qué se podrían considerar original la contribución?</td>
   <td>
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a></td>
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#innovaci%C3%B3n">Producto.md (Innovación)</a></td>
   <td></td>
  </tr>
  <tr>
@@ -175,6 +175,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODQ1MDA1MSwtODY5MzQwNTcyLC00Mz
+eyJoaXN0b3J5IjpbMTk1MDQ1MjA2NCwtODY5MzQwNTcyLC00Mz
 Q0ODkwNDcsMTE4MDM1MDM4XX0=
 -->
