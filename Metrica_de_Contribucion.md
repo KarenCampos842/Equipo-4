@@ -1,7 +1,8 @@
 # ﻿Métrica de contribución individual 
 
  Ir al archivo para ver especificaciones de las actividades:<br>
-Segunda entrega<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#sprint-backlog">Gestión_del_proceso.md</a> 
+Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Metrica_de_Contribucion.md#m%C3%A9trica-de-contribuci%C3%B3n-individual">Metrica_de_Contribuci.md</a> 
+<br>Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#sprint-backlog">Gestión_del_proceso.md</a> 
  
 
 <table align=center>  
@@ -43,7 +44,7 @@ Segunda entrega<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyNzA1NDYzLDExMjU3MzkzNDAsMTQ3Nz
-U5MjEzNywtMTEwOTYyNDIxNyw2Njk2MTY4NTgsLTY0ODg2MjM3
-LDExMDgzMzQ3NTEsMTkwNzYxMTg0NSwtNzEzOTMzOTMzXX0=
+eyJoaXN0b3J5IjpbLTY2MzI0NzA4MiwxMTI1NzM5MzQwLDE0Nz
+c1OTIxMzcsLTExMDk2MjQyMTcsNjY5NjE2ODU4LC02NDg4NjIz
+NywxMTA4MzM0NzUxLDE5MDc2MTE4NDUsLTcxMzkzMzkzM119
 -->
