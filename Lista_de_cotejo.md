@@ -59,7 +59,7 @@
  <tr>
   <td>Correspondencia con los Requisitos</td>
   <td>Se verifica que los prototipos construidos corresponden a los requisitos establecidos. De igual forma se verifica que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces. Se utiliza algún método para verificar la correspondencia.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#correspondencia-con-los-requisitos">Correspondencia con los Requisitos</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#correspondencia-con-los-requisitos">Diseño.md (Correspondencia con los Requisitos)</a></td>
   <td></td>
  </tr>
  <tr>
@@ -173,6 +173,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyNDkzMzc1LC04NjkzNDA1NzIsLTQzND
-Q4OTA0NywxMTgwMzUwMzhdfQ==
+eyJoaXN0b3J5IjpbLTU4NDc2NzE0OSwtODY5MzQwNTcyLC00Mz
+Q0ODkwNDcsMTE4MDM1MDM4XX0=
 -->
