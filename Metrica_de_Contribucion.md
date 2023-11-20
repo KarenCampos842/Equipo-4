@@ -36,13 +36,13 @@
    </tr> 
     <tr>  
       <td>Suárez Balam Brandon Emmanuel</td> 
-      <td>4/25=16%</td>
+      <td>7/25=16%</td>
        <td> Alto: 3/15= 20%<br>Medio: 1/6= 16.67%<br>Bajo: 0/4=0%</td>       
    </tr> 
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTcwNzcwMDUsMTQ3NzU5MjEzNywtMT
+eyJoaXN0b3J5IjpbLTEzMTI2MDUxOTQsMTQ3NzU5MjEzNywtMT
 EwOTYyNDIxNyw2Njk2MTY4NTgsLTY0ODg2MjM3LDExMDgzMzQ3
 NTEsMTkwNzYxMTg0NSwtNzEzOTMzOTMzXX0=
 -->
