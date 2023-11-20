@@ -33,8 +33,7 @@
   <th rowspan="3">Requisitos</th>
   <td>Evolución de Requisitos</td>
   <td>Se cuenta con un conjunto mejor definido y organizado de requerimientos (Funcionales y No Funcionales) con respecto a la entrega anterior. Hay una mayor claridad de las necesidades del usuario y de los procesos del cliente. La prioridad de los requerimientos corresponde a los objetivos principales del producto.</td>
-  <td> Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos">Requistos.md</a>
-  Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requisitos">Requistos.md</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requistos.md</a></td>
   <td></td>
  </tr>
  <tr>
@@ -175,6 +174,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDQ1MjA2NCwtODY5MzQwNTcyLC00Mz
-Q0ODkwNDcsMTE4MDM1MDM4XX0=
+eyJoaXN0b3J5IjpbODQ2MTY4MjgxLC04NjkzNDA1NzIsLTQzND
+Q4OTA0NywxMTgwMzUwMzhdfQ==
 -->
