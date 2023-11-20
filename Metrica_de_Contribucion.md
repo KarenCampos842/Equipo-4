@@ -27,22 +27,22 @@
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
        <td>14/88=15.91%</td>
-      <td> Alto: 6/42= 14.2%<br>Medio: 4/23= 0%<br>Bajo: 4/23= 25%</td> 
+      <td> Alto: 6/42= 14.28%<br>Medio: 4/23= 0%<br>Bajo: 4/23= 25%</td> 
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
         <td>12/88=13.63%</td>
-        <td> Alto: 4/42= 13.33%<br>Medio: 5/23= 0%<br>Bajo: 3/23= 25%</td>    
+        <td> Alto: 4/42= 9.52%<br>Medio: 5/23= 0%<br>Bajo: 3/23= 25%</td>    
    </tr> 
     <tr>  
       <td>Suárez Balam Brandon Emmanuel</td> 
       <td>14/88=15.91%</td>
-       <td> Alto: 7/42= 20%<br>Medio: 3/23= 16.67%<br>Bajo: 4/23=0%</td>       
+       <td> Alto: 7/42= 16.67%<br>Medio: 3/23= 16.67%<br>Bajo: 4/23=0%</td>       
    </tr> 
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjY0NjYxMywxNDc3NTkyMTM3LC0xMT
+eyJoaXN0b3J5IjpbMTYyMzIxMDAwMSwxNDc3NTkyMTM3LC0xMT
 A5NjI0MjE3LDY2OTYxNjg1OCwtNjQ4ODYyMzcsMTEwODMzNDc1
 MSwxOTA3NjExODQ1LC03MTM5MzM5MzNdfQ==
 -->
