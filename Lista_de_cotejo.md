@@ -32,14 +32,21 @@
  <tr>
   <th rowspan="3">Requisitos</th>
   <td>Evolución de Requisitos</td>
-  <td></td>
+  <td>Se cuenta con un conjunto mejor definido y organizado de requerimientos (Funcionales y No Funcionales) con respecto a la entrega anterior. Hay una mayor claridad de las necesidades del usuario y de los procesos del cliente. La prioridad de los requerimientos corresponde a los objetivos principales del producto.</td>
   <td> Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos">Requistos.md</a>
   Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requisitos">Requistos.md</a></td>
   <td></td>
  </tr>
  <tr>
   <td>Refinamiento de Artefactos</td>
-  <td>Se cuenta con artefactos que especifican los requerimientos/historias de usuario, incluye excepciones a considerar (casos de uso, historias de usuario con criterios de aceptación). Se presenta un diagrama que resume el conjunto de requerimientos (ej. Diagrama de Casos de Uso). Existen cambios significativos en los artefactos y se cuenta con evidencia.</td>
+  <td>Se cuenta con artefactos que especifican los requerimientos/historias de usuario, incluye excepciones a considerar (casos de uso, historias de usuario con criterios de aceptación). Se presenta un resumen de los cambios significativos en los artefactos y se cuenta con evidencia.</td>
+  <td>Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#artefactos">Artefactos</a>
+  Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#artefactos">Artefactos</a></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>Refinamiento de Artefactos</td>
+  <td>Se cuenta con artefactos que especifican los requerimientos/historias de usuario, incluye excepciones a considerar (casos de uso, historias de usuario con criterios de aceptación). Se presenta un resumen de los cambios significativos en los artefactos y se cuenta con evidencia.</td>
   <td>Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#artefactos">Artefactos</a>
   Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#artefactos">Artefactos</a></td>
   <td></td>
@@ -155,6 +162,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjIwMzM4OCwtODY5MzQwNTcyLC00Mz
-Q0ODkwNDcsMTE4MDM1MDM4XX0=
+eyJoaXN0b3J5IjpbLTE2NzcwNjI2ODIsLTg2OTM0MDU3MiwtND
+M0NDg5MDQ3LDExODAzNTAzOF19
 -->
