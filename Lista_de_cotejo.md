@@ -103,14 +103,14 @@
    <tr>
   <td>Organización y Documentación del Repositorio</td>
   <td>Se cuenta con un branch para la tercera entrega. El repositorio tiene una organización clara. Se encuentra documentado (MD) en las secciones relevantes (principal y secundarias). Cuenta con las evidencias/artefactos correspondientes.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/tree/Segunda-Entrega">Organización y Documentación del Repositorio</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/tree/Tercera-Entrega">Organización y Documentación del Repositorio</a></td>
   <td></td>
  </tr>
 <tr>
   <th rowspan="3">Presentación del Avance</th>
   <td>Formato de la Presentación</td>
   <td>Se utiliza recursos/medios que apoyan la presentación de forma original/profesional (diapositivas balanceadas, audio uniforme, diagramas, gráficas CC, etc). Se tiene cuidado del audio y de los recursos visuales. Hay consistencia visual. Se incluye la información relevante. Se ajusta al tiempo de presentación. (10 minutos)</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Formato de la Presentación</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Formato de la Presentación</a></td>
   <td></td>
  </tr>
  <tr>
@@ -176,6 +176,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTQyNjY5NywtMTc4MTM2OTQxNywtOD
+eyJoaXN0b3J5IjpbLTEzODE3NjU1MywtMTc4MTM2OTQxNywtOD
 Y5MzQwNTcyLC00MzQ0ODkwNDcsMTE4MDM1MDM4XX0=
 -->
