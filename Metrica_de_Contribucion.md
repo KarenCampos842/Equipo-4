@@ -1,4 +1,4 @@
-# ﻿Métrica de contribución individual 
+# ﻿Métrica de contribución individual (3 entregas)
 
  Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#sprint-backlog">Gestión_del_proceso.md</a> para ver especificaciones de las actividades.
  
@@ -41,7 +41,7 @@
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDM3NjU0MiwtMTEwOTYyNDIxNyw2Nj
+eyJoaXN0b3J5IjpbMTQ3NzU5MjEzNywtMTEwOTYyNDIxNyw2Nj
 k2MTY4NTgsLTY0ODg2MjM3LDExMDgzMzQ3NTEsMTkwNzYxMTg0
 NSwtNzEzOTMzOTMzXX0=
 -->
