@@ -12,7 +12,7 @@
   <td>Evolución del Producto</td>
   <td>Resumen de los cambios completados del producto entre la PRIMERA, SEGUNDA y TERCERA entrega. Mencionar de manera sintetizada los cambios más significativos y que se cuenta con evidencia.</td>
   <td>
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a></td>
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a></td>
   <td></td>
  </tr>
  <tr>
@@ -175,6 +175,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTE3NjEzMSwtODY5MzQwNTcyLC00Mz
-Q0ODkwNDcsMTE4MDM1MDM4XX0=
+eyJoaXN0b3J5IjpbOTczMzc5NzIyLC04NjkzNDA1NzIsLTQzND
+Q4OTA0NywxMTgwMzUwMzhdfQ==
 -->
