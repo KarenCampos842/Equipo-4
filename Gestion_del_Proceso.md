@@ -5,35 +5,12 @@
 
 **Sábado 18 de noviembre de 2023 (Sprint planning meeting)**<br> Durante la reunión se establecieron las distintas actividades para el último sprint, las cuales Karen acordó redactar en el archivo<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> 
 
-Productos: 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#artefactos">historias de usuario</a>.
+Producto: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>
 
-Fecha límite: 28/10/2023
+Fecha límite: 18/11/2023
 
-**Lunes 29 de octubre de 2023** <br> 
-Durante la reunión Hansony y Moisés manifestaron tener problemas para realizar los casos de uso (dudas sobre el formato). Karen acordó ayudarles con los problemas que estaban teniendo. 
 
-Productos: 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">casos de uso</a>.
-
-Fecha límite: 30/10/2023
-
-**Martes 30 de octubre de 2023** <br> 
-Durante la reunión Carlos manifestó tener problemas realizando las excepciones de los casos de uso,  Karen acordó ayudarle con los problemas que estaba teniendo. 
-
-Productos: 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">casos de uso</a>.
-
-Fecha límite: 30/10/2023
-
-**Viernes 3 de noviembre de 2023** <br> 
-Durante la reunión, Asaf manifestó haber tenido problemas para realizar sus actividades, entre ellas la "Evolución del producto" . Por causa de fuerza mayor se realizó una reestructuración y se asignó a Brandon dicha actividad. Por otra parte, Karen acordó reunirse con Moisés para aclarar dudas sobre la elaboración del video. 
-
-Productos: 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a>  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dialogos.md#di%C3%A1log">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias">Competencias.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md">Gestion_del_Proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Metrica_de_Contribucion.md">Metrica_de_Contribucion.md</a>
- 
-Fecha límite: 3/11/2023
-Fecha límite: 5/11/2023 (Presentación del avance)
 
 ## Sprint Backlog
 Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/SegundTercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
@@ -359,7 +336,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTYxMjk5OCwtMTI2OTA3NDkyMywxMz
+eyJoaXN0b3J5IjpbMTg2NzMzMjYxMiwtMTI2OTA3NDkyMywxMz
 MzMjIxMDY5LDM0MjU4MzA3LC0xMTI2MzQ3NTU5LDE3MTIwNjAy
 NTksMTkyMjc2OTE2MywxNTc1NzMxODgyLDE3NzU2NTAxOTAsMj
 AxNzA4MDA3NSw4MTgxMDE3MDQsLTM2MzI1Njg3NiwtMjAyOTky
