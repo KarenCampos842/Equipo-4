@@ -45,14 +45,14 @@
   <td></td>
  </tr>
  <tr>
-  <td>Refinamiento de Artefactos</td>
-  <td>Se cuenta con artefactos que especifican los requerimientos/historias de usuario, incluye excepciones a considerar (casos de uso, historias de usuario con criterios de aceptación). Se presenta un resumen de los cambios significativos en los artefactos y se cuenta con evidencia.</td>
+  <td>Listado Final de Requerimientos</td>
+  <td>Se presenta la lista final. Se presenta un diagrama que resume el conjunto de requerimientos (ej. Diagrama de Casos de Uso). Se establece un nivel de cobertura de los requisitos Funcionales y No Funcionales.</td>
   <td>Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#artefactos">Artefactos</a>
   Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#artefactos">Artefactos</a></td>
   <td></td>
  </tr>
  <tr>
-  <th rowspan="3">Diseño</th>
+  <th rowspan="2">Diseño</th>
   <td>Bosquejos de Interfaces</td>
   <td>Se cuenta con un conjunto inicial de prototipos de baja, media o alta fidelidad. Se utilizan guías de diseño. Se utiliza alguna herramienta para el diseño.</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#bosquejos-de-interfaces">Bosquejos de Interfaces</a></td>
@@ -162,6 +162,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzcwNjI2ODIsLTg2OTM0MDU3MiwtND
-M0NDg5MDQ3LDExODAzNTAzOF19
+eyJoaXN0b3J5IjpbNDU2NzEyMjk0LC04NjkzNDA1NzIsLTQzND
+Q4OTA0NywxMTgwMzUwMzhdfQ==
 -->
