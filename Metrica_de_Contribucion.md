@@ -27,7 +27,7 @@
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
        <td>14/25=12%</td>
-      <td> Alto: 3/15= 13.33%<br>Medio: 3/6= 0%<br>Bajo: 1/4= 25%</td> 
+      <td> Alto: 6/15= 13.33%<br>Medio: 4/6= 0%<br>Bajo: 4/4= 25%</td> 
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
@@ -42,7 +42,7 @@
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzcxNzk2MCwxNDc3NTkyMTM3LC0xMT
+eyJoaXN0b3J5IjpbMTgwODI0MTkwNywxNDc3NTkyMTM3LC0xMT
 A5NjI0MjE3LDY2OTYxNjg1OCwtNjQ4ODYyMzcsMTEwODMzNDc1
 MSwxOTA3NjExODQ1LC03MTM5MzM5MzNdfQ==
 -->
