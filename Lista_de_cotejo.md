@@ -135,13 +135,13 @@
  <tr>
   <td>Competencias Específicas</td>
   <td>Se argumenta de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto. Las competencias específicas corresponden al programa de la asignatura (Planeación Didáctica).</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias-espec%C3%ADficas">Competencias Específicas</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Competencias.md#competencias-espec%C3%ADficas">Competencias Específicas</a></td>
   <td></td>
  </tr>
   <tr>
   <td>Crítica Constructiva al curso</td>
-  <td>Se realiza una crítica (argumentos) a las actividades que puenden ser mejoradas, cambiadas o eliminadas. Se proponen actividades (específicas) alternativas que podrían mejorar la promoción de las competencias del curso.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias-espec%C3%ADficas">Competencias Específicas</a></td>
+  <td>Se realiza una crítica (argumentos) a las actividades que pueden ser mejoradas, cambiadas o eliminadas. Se proponen actividades (específicas) alternativas que podrían mejorar la promoción de las competencias del curso.</td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Competencias.md#cr%C3%ADtica-constructiva-del-curso">Competencias Específicas</a></td>
   <td></td>
  </tr>
  <tr>
@@ -176,6 +176,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDI5NTQ2MTIsLTE3ODEzNjk0MTcsLT
-g2OTM0MDU3MiwtNDM0NDg5MDQ3LDExODAzNTAzOF19
+eyJoaXN0b3J5IjpbMTM4MzMwMzQ0MSwtMTc4MTM2OTQxNywtOD
+Y5MzQwNTcyLC00MzQ0ODkwNDcsMTE4MDM1MDM4XX0=
 -->
