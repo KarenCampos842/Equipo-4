@@ -45,8 +45,8 @@
  <tr>
   <td>Listado Final de Requerimientos</td>
   <td>Se presenta la lista final. Se presenta un diagrama que resume el conjunto de requerimientos (ej. Diagrama de Casos de Uso). Se establece un nivel de cobertura de los requisitos Funcionales y No Funcionales.</td>
-  <td>Primera entrega: <a href="">Artefactos</a>
-  Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#artefactos">Artefactos</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#diagrama-de-caso-de-uso">Requistos.md (Diagrama de Casos de Uso</a>
+ </td>
   <td></td>
  </tr>
  <tr>
@@ -173,6 +173,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDg2NjM0MywtODY5MzQwNTcyLC00Mz
-Q0ODkwNDcsMTE4MDM1MDM4XX0=
+eyJoaXN0b3J5IjpbOTQ1Mzg5MDAxLC04NjkzNDA1NzIsLTQzND
+Q4OTA0NywxMTgwMzUwMzhdfQ==
 -->
