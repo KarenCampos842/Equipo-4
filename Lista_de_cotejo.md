@@ -80,7 +80,8 @@
   <td>Descripción del Proceso</td>
   <td>Se cuenta con evidencia explícita de (los) sprints: el tamaño del sprint, planeación, actividades, responsables, roles, resultados. Existen cambios significativos del proceso a lo largo del desarrollo del producto?</td>
   <td>Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción del Proceso</a>
-  Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción del Proceso</a></td>
+  Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción del Proceso</a>
+ Tercera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción del Proceso</a></td>
   <td></td>
  </tr>
  <tr>
@@ -173,6 +174,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTI1OTE3MSwtODY5MzQwNTcyLC00Mz
-Q0ODkwNDcsMTE4MDM1MDM4XX0=
+eyJoaXN0b3J5IjpbLTE2NDMyMTQ1MzAsLTg2OTM0MDU3MiwtND
+M0NDg5MDQ3LDExODAzNTAzOF19
 -->
