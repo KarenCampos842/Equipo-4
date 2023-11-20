@@ -139,7 +139,7 @@
  </tr>
   <tr>
   <td>Crítica Constructiva al curso</td>
-  <td>Se argumenta de qué forma se promueven las competencias específicas a través de actividades específicas del desarrollo del producto. Las competencias específicas corresponden al programa de la asignatura (Planeación Didáctica).</td>
+  <td>Se realiza una crítica (argumentos) a las actividades que puenden ser mejoradas, cambiadas o eliminadas. Se proponen actividades (específicas) alternativas que podrían mejorar la promoción de las competencias del curso.</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias-espec%C3%ADficas">Competencias Específicas</a></td>
   <td></td>
  </tr>
@@ -175,6 +175,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzQ0NTAzOSwtODY5MzQwNTcyLC00Mz
+eyJoaXN0b3J5IjpbMTA0NTE3NjEzMSwtODY5MzQwNTcyLC00Mz
 Q0ODkwNDcsMTE4MDM1MDM4XX0=
 -->
