@@ -16,33 +16,33 @@
    </tr> 
    <tr>  
       <td>Cárdenas Rojas Kendrick Asaf</td>  
-       <td>13/42=16%</td>
+       <td>13/88=16%</td>
        <td> Alto: 6/42= 6.67%<br>Medio: 5/6= 50%<br>Bajo: 2/4= 0%</td>    
    </tr> 
     <tr>  
       <td>Maldonado Medina Hansony de Jesús</td>  
       <td>15/42=20%</td>
-      <td> Alto: 6/15= 13.33%<br>Medio: 5/6= 33.33%<br>Bajo: 4/4= 25%</td>    
+      <td> Alto: 6/42= 13.33%<br>Medio: 5/6= 33.33%<br>Bajo: 4/4= 25%</td>    
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
-       <td>14/25=12%</td>
-      <td> Alto: 6/15= 13.33%<br>Medio: 4/6= 0%<br>Bajo: 4/4= 25%</td> 
+       <td>14/88=12%</td>
+      <td> Alto: 6/42= 13.33%<br>Medio: 4/6= 0%<br>Bajo: 4/4= 25%</td> 
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
-        <td>12/25=12%</td>
-        <td> Alto: 4/15= 13.33%<br>Medio: 5/6= 0%<br>Bajo: 3/4= 25%</td>    
+        <td>12/88=12%</td>
+        <td> Alto: 4/42= 13.33%<br>Medio: 5/6= 0%<br>Bajo: 3/4= 25%</td>    
    </tr> 
     <tr>  
       <td>Suárez Balam Brandon Emmanuel</td> 
-      <td>14/25=16%</td>
-       <td> Alto: 7/15= 20%<br>Medio: 3/6= 16.67%<br>Bajo: 4/4=0%</td>       
+      <td>14/88=16%</td>
+       <td> Alto: 7/42= 20%<br>Medio: 3/6= 16.67%<br>Bajo: 4/4=0%</td>       
    </tr> 
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4MjUxNjg1LDE0Nzc1OTIxMzcsLTExMD
-k2MjQyMTcsNjY5NjE2ODU4LC02NDg4NjIzNywxMTA4MzM0NzUx
-LDE5MDc2MTE4NDUsLTcxMzkzMzkzM119
+eyJoaXN0b3J5IjpbLTE5MDk4MzI2MTQsMTQ3NzU5MjEzNywtMT
+EwOTYyNDIxNyw2Njk2MTY4NTgsLTY0ODg2MjM3LDExMDgzMzQ3
+NTEsMTkwNzYxMTg0NSwtNzEzOTMzOTMzXX0=
 -->
