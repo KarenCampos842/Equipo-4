@@ -39,14 +39,13 @@
  <tr>
   <td>Refinamiento de Artefactos</td>
   <td>Se cuenta con artefactos que especifican los requerimientos/historias de usuario, incluye excepciones a considerar (casos de uso, historias de usuario con criterios de aceptación). Se presenta un resumen de los cambios significativos en los artefactos y se cuenta con evidencia.</td>
-  <td>Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#artefactos">Artefactos</a>
-  Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#artefactos">Artefactos</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#artefactos">Requistos.md (Artefactos)</a></td>
   <td></td>
  </tr>
  <tr>
   <td>Listado Final de Requerimientos</td>
   <td>Se presenta la lista final. Se presenta un diagrama que resume el conjunto de requerimientos (ej. Diagrama de Casos de Uso). Se establece un nivel de cobertura de los requisitos Funcionales y No Funcionales.</td>
-  <td>Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#artefactos">Artefactos</a>
+  <td>Primera entrega: <a href="">Artefactos</a>
   Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#artefactos">Artefactos</a></td>
   <td></td>
  </tr>
@@ -174,6 +173,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2MTY4MjgxLC04NjkzNDA1NzIsLTQzND
-Q4OTA0NywxMTgwMzUwMzhdfQ==
+eyJoaXN0b3J5IjpbMTkxMDg2NjM0MywtODY5MzQwNTcyLC00Mz
+Q0ODkwNDcsMTE4MDM1MDM4XX0=
 -->
