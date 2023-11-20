@@ -60,7 +60,20 @@
  </tr>
  <tr>
   <td>Correspondencia con los Requisitos</td>
-  <td>Se verifica que los prototitpos construidos corresponden a los requisitos establecidos. De igual forma se verifica que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces. Se utiliza algún método para verificar la correspondencia.</td>
+  <td>Se verifica que los prototipos construidos corresponden a los requisitos establecidos. De igual forma se verifica que los artefactos de la fase de Requisitos son suficientes para realizar la propuesta de interfaces. Se utiliza algún método para verificar la correspondencia.</td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#correspondencia-con-los-requisitos">Correspondencia con los Requisitos</a></td>
+  <td></td>
+ </tr>
+ <tr>
+  <th rowspan="2">Pruebas</th>
+  <td>Pruebas Informales</td>
+  <td>Se diseñan pruebas informales con usuarios primarios. Se identifican los indicadores más relevantes que serán recolectados durante la prueba. Se verifica que los indicadores corresponden a los objetivos del principales del producto. Se especifica un protocolo que permita replicar la prueba de forma estandarizada entre los "testers". Se incluye cuestionarios de satisfacción.</td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#bosquejos-de-interfaces">Bosquejos de Interfaces</a></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>Resultados</td>
+  <td>Se analizan los indicadores que permitan verificar si los requerimientos (funcionales y no funcionales) se alcanzaron. Se puede determinar el grado de alcance de los requerimientos. Es posible identificar mejoras en las interfaces o flujos a partir de los resultados. Se determinan de forma específica los cambios/mejoras a las interfaces basados en los resultados de las pruebas.</td>
   <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Dise%C3%B1o.md#correspondencia-con-los-requisitos">Correspondencia con los Requisitos</a></td>
   <td></td>
  </tr>
@@ -156,6 +169,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTc5OTE1OSwtODY5MzQwNTcyLC00Mz
-Q0ODkwNDcsMTE4MDM1MDM4XX0=
+eyJoaXN0b3J5IjpbLTEwMjQyNzQ0NDksLTg2OTM0MDU3MiwtND
+M0NDg5MDQ3LDExODAzNTAzOF19
 -->
