@@ -26,7 +26,7 @@
    </tr> 
     <tr>  
       <td>Romero Poot Carlos Emmanuel</td>  
-       <td>14/88=15.90%</td>
+       <td>14/88=15.91%</td>
       <td> Alto: 6/42= 13.33%<br>Medio: 4/23= 0%<br>Bajo: 4/23= 25%</td> 
    </tr> 
      <tr>  
@@ -36,13 +36,13 @@
    </tr> 
     <tr>  
       <td>Suárez Balam Brandon Emmanuel</td> 
-      <td>14/88=15.90%</td>
+      <td>14/88=15.91%</td>
        <td> Alto: 7/42= 20%<br>Medio: 3/23= 16.67%<br>Bajo: 4/23=0%</td>       
    </tr> 
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDU0MTQ2MywxNDc3NTkyMTM3LC0xMT
-A5NjI0MjE3LDY2OTYxNjg1OCwtNjQ4ODYyMzcsMTEwODMzNDc1
-MSwxOTA3NjExODQ1LC03MTM5MzM5MzNdfQ==
+eyJoaXN0b3J5IjpbLTE0ODA0NDk0MTcsMTQ3NzU5MjEzNywtMT
+EwOTYyNDIxNyw2Njk2MTY4NTgsLTY0ODg2MjM3LDExMDgzMzQ3
+NTEsMTkwNzYxMTg0NSwtNzEzOTMzOTMzXX0=
 -->
