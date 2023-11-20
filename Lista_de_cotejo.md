@@ -116,20 +116,20 @@
  <tr>
   <td>Ritmo de la Presentación</td>
   <td>El formato de presentación tiene un flujo que permite entender de forma clara el desarrollo del proyecto.</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Ritmo de la Presentación</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Ritmo de la Presentación</a></td>
   <td></td>
  </tr>
   <tr>
   <td>Uso del Lenguaje</td>
   <td>Se utiliza el lenguaje (ES/EN) de IS de forma correcta, práctica y sintética. El ritmo, tono y pitch es efectivo para mantener la atención</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Uso del Lenguaje</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Uso del Lenguaje</a></td>
   <td></td>
  </tr>
  <tr>
   <th rowspan="3">Competencias</th>
   <td>Competencias Genéricas</td>
   <td>Se argumenta de qué forma se promueven las competencias genéricas a través de actividades específicas del desarrollo del producto. Las competencias genéricas corresponden al programa de la asignatura (Planeación Didáctica).</td>
-  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Competencias.md#competencias-gen%C3%A9ric">Competencias Genéricas</a></td>
+  <td><a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Competencias.md#competencias-gen%C3%A9ricas">Competencias Genéricas</a></td>
   <td></td>
  </tr>
  <tr>
@@ -176,6 +176,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE3NjU1MywtMTc4MTM2OTQxNywtOD
-Y5MzQwNTcyLC00MzQ0ODkwNDcsMTE4MDM1MDM4XX0=
+eyJoaXN0b3J5IjpbLTEwMDI5NTQ2MTIsLTE3ODEzNjk0MTcsLT
+g2OTM0MDU3MiwtNDM0NDg5MDQ3LDExODAzNTAzOF19
 -->
