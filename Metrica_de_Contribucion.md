@@ -11,7 +11,7 @@
    </tr> 
     <tr>  
       <td>Campos García Karen Elizabeth</td>  
-       <td> 20/88= 24%</td> 
+       <td> 20/88= 22.72%</td> 
        <td> Alto: 13/42= 33.34%<br>Medio: 1/23= 0%<br>Bajo: 6/23= 25%</td>  
    </tr> 
    <tr>  
@@ -32,17 +32,17 @@
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
         <td>12/88=12%</td>
-        <td> Alto: 4/42= 13.33%<br>Medio: 5/23= 0%<br>Bajo: 3/4= 25%</td>    
+        <td> Alto: 4/42= 13.33%<br>Medio: 5/23= 0%<br>Bajo: 3/23= 25%</td>    
    </tr> 
     <tr>  
       <td>Suárez Balam Brandon Emmanuel</td> 
       <td>14/88=16%</td>
-       <td> Alto: 7/42= 20%<br>Medio: 3/23= 16.67%<br>Bajo: 4/4=0%</td>       
+       <td> Alto: 7/42= 20%<br>Medio: 3/23= 16.67%<br>Bajo: 4/23=0%</td>       
    </tr> 
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE2NjE3NDgsMTQ3NzU5MjEzNywtMT
-EwOTYyNDIxNyw2Njk2MTY4NTgsLTY0ODg2MjM3LDExMDgzMzQ3
-NTEsMTkwNzYxMTg0NSwtNzEzOTMzOTMzXX0=
+eyJoaXN0b3J5IjpbMTU5NjE3Njg3MywxNDc3NTkyMTM3LC0xMT
+A5NjI0MjE3LDY2OTYxNjg1OCwtNjQ4ODYyMzcsMTEwODMzNDc1
+MSwxOTA3NjExODQ1LC03MTM5MzM5MzNdfQ==
 -->
