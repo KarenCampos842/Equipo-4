@@ -31,7 +31,7 @@
    </tr> 
      <tr>  
       <td>Rubén Moisés Loria Pech</td>  
-        <td>5/25=12%</td>
+        <td>6/25=12%</td>
         <td> Alto: 2/15= 13.33%<br>Medio: 3/6= 0%<br>Bajo: 1/4= 25%</td>    
    </tr> 
     <tr>  
@@ -42,7 +42,7 @@
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjE2NDAzNjQsMTQ3NzU5MjEzNywtMT
+eyJoaXN0b3J5IjpbLTE0MTcwNzcwMDUsMTQ3NzU5MjEzNywtMT
 EwOTYyNDIxNyw2Njk2MTY4NTgsLTY0ODg2MjM3LDExMDgzMzQ3
 NTEsMTkwNzYxMTg0NSwtNzEzOTMzOTMzXX0=
 -->
