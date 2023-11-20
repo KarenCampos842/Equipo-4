@@ -4,7 +4,8 @@
 ### Pruebas
 Regístrate como trabajador en la aplicación e inicia sesión. 
 Regístrate como cliente e inicia sesión.
-Encuentra al mecanico Juan Campos Romero
+Encuentra al mecánico Juan Campos Romero y observa su perfil, calificaciones y comentarios. 
+Inicia un chat con el mecanico Juan Campos Romero y contrata 
 ### Aplicación de las pruebas
 ## Cuestionarios de satisfacción
 ###  Cuestionario
@@ -19,6 +20,6 @@ Encuentra al mecanico Juan Campos Romero
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM5MTY1NTEsLTc1MzAxNjMyMywtMT
-I5NTM4NjAzNSw4ODg0MTM2NTJdfQ==
+eyJoaXN0b3J5IjpbNzQ2ODc1Mzg4LC03NTMwMTYzMjMsLTEyOT
+UzODYwMzUsODg4NDEzNjUyXX0=
 -->
