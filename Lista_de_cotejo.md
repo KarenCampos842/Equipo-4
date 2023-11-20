@@ -23,16 +23,16 @@
   <td></td>
  </tr>
  <tr>
-  <td>Evolución del Producto</td>
-  <td>Resumen de los cambios completados del producto entre la PRIMERA, SEGUNDA y TERCERA entrega. Mencionar de manera sintetizada los cambios más significativos y que se cuenta con evidencia.</td>
+  <td>Innovación</td>
+  <td>Es clara la contribución del producto. Es clara la contribución del producto con respecto a otras propuestas existentes. ¿Qué incluye este producto que no hacen otros? ¿En una necesidad identificada? ¿Por qué se podrían considerar original la contribución?</td>
   <td>
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a></td>
   <td></td>
  </tr>
  <tr>
-  <th rowspan="2">Requisitos</th>
+  <th rowspan="3">Requisitos</th>
   <td>Evolución de Requisitos</td>
-  <td>Se cuenta con un conjunto mejor definido y organizado de requerimientos (Funcionales y No Funcionales) con respecto a la entrega anterior. Hay una mayor claridad de las necesidades del usuario y de los procesos del cliente. La prioridad de los requerimientos corresponde a los objetivos principales del producto.</td>
+  <td></td>
   <td> Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos">Requistos.md</a>
   Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requisitos">Requistos.md</a></td>
   <td></td>
@@ -155,6 +155,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTU1MTUwMSwtODY5MzQwNTcyLC00Mz
+eyJoaXN0b3J5IjpbLTgwMjIwMzM4OCwtODY5MzQwNTcyLC00Mz
 Q0ODkwNDcsMTE4MDM1MDM4XX0=
 -->
