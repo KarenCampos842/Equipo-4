@@ -9,7 +9,7 @@ Localiza la opción para editar tu perfil.
 Busca al mecánico Juan Campos Romero y observa su perfil, calificaciones y comentarios. 
 Inicia un chat con el mecánico Juan Campos Romero, contrata su servicio y regresa a tu perfil. 
 Reporta al mecánico Juan campos Romero y finaliza tu contrato (realiza un comentario y califícalo). 
-Cancela tu contrato con el mecánico Juan Campos Romero y elimina tu chat con él.
+Cancela tu contrato con el mecánico Juan Campos Romero, elimina tu chat con él y cierra sesión. 
 
 
 
@@ -27,6 +27,6 @@ Cancela tu contrato con el mecánico Juan Campos Romero y elimina tu chat con é
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyMjgyOTY0LC03NzU4OTc0NjQsLTc1Mz
+eyJoaXN0b3J5IjpbNjYyNTQzNDk3LC03NzU4OTc0NjQsLTc1Mz
 AxNjMyMywtMTI5NTM4NjAzNSw4ODg0MTM2NTJdfQ==
 -->
