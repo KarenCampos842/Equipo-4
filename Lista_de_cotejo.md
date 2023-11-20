@@ -19,7 +19,7 @@
   <td>Usuarios</td>
   <td>Usuarios: Se identifica de forma clara los usuarios primarios, secundarios y/o potenciales. Fue posible determinar un tipo de usuario específico (primaro) y sus características principales. Se cuenta con información básica del perfil de los usuarios. Se cuentan con información adicional de los usuarios (perfiles, personas, escenarios)*</td>
   <td>
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a></td>
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#usuarios">Producto.md</a></td>
   <td></td>
  </tr>
  <tr>
@@ -175,6 +175,6 @@
  </tbody></table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczMzc5NzIyLC04NjkzNDA1NzIsLTQzND
-Q4OTA0NywxMTgwMzUwMzhdfQ==
+eyJoaXN0b3J5IjpbMTM1ODQ1MDA1MSwtODY5MzQwNTcyLC00Mz
+Q0ODkwNDcsMTE4MDM1MDM4XX0=
 -->
