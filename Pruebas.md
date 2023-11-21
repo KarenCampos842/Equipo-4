@@ -175,7 +175,7 @@
    </tr>
    <tr>  
       <td>5</td> 
-      <td>Revisa tu última conversación con Juan Campos Romero</td>
+      <td>Revisa tu última conversación con Juan Campos Romero.</td>
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x min</td>              
@@ -189,21 +189,21 @@
    </tr>
    <tr>  
       <td>7</td> 
-      <td>Luis Pérez Medina, plomero, no asistió a la reunión que habían programado. Elimina tu chat con  y repórtalo. </td>
+      <td>Luis Pérez Medina, plomero, no asistió a la reunión que habían programado. Elimina tu chat con él y repórtalo. </td>
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x min</td>              
    </tr>
    <tr>  
       <td>8</td> 
-      <td>Ha surgido un inconveniente y debes de cancelar un trabajo. Cancela tu contrato con Cintia Acosta López.  </td>
+      <td>Ha surgido un inconveniente y debes de cancelar uno de tus contratos. Cancela tu contrato con Cintia Acosta López, manicurista.  </td>
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x min</td>              
    </tr>
     <tr>  
       <td>9</td> 
-      <td>Cancela tu membresía y sal de la aplicación. </td>
+      <td>Cierra sesión.</td>
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x min</td>              
@@ -249,11 +249,11 @@
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDk4MDQzMywxMDc4ODgzMDQ4LDk4MT
-kxNTI3NywxMTM3MDQxNTU2LC0xNDAxODU4MzY2LDE0MTIzMTQ4
-MDcsLTIwMzk5MzAzODIsLTMxNzU2MzU0NywtMTkyODQ5MDgwMS
-wtMTQ3NTUxMTYyNSwtMjMyMjg2NjMsODQ4NjUwOTMxLC0xMjUz
-NjA1NDUzLC01MzY4NzYzODgsNTE3MTc3MDcyLDY2MjU0MzQ5Ny
-wtNzc1ODk3NDY0LC03NTMwMTYzMjMsLTEyOTUzODYwMzUsODg4
-NDEzNjUyXX0=
+eyJoaXN0b3J5IjpbLTE1NDYxNTg1NTgsMTA3ODg4MzA0OCw5OD
+E5MTUyNzcsMTEzNzA0MTU1NiwtMTQwMTg1ODM2NiwxNDEyMzE0
+ODA3LC0yMDM5OTMwMzgyLC0zMTc1NjM1NDcsLTE5Mjg0OTA4MD
+EsLTE0NzU1MTE2MjUsLTIzMjI4NjYzLDg0ODY1MDkzMSwtMTI1
+MzYwNTQ1MywtNTM2ODc2Mzg4LDUxNzE3NzA3Miw2NjI1NDM0OT
+csLTc3NTg5NzQ2NCwtNzUzMDE2MzIzLC0xMjk1Mzg2MDM1LDg4
+ODQxMzY1Ml19
 -->
