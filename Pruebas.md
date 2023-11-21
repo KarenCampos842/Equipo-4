@@ -37,16 +37,14 @@
    </tr> 
     <tr>  
       <td>1</td> 
-      <td>x</td>
-       <td>x</td>
+      <td>Regístrate como trabajador en la aplicación e inicia sesión. </td>
+       <td>Dentro de tu perfil, encuentra tu número telefónico y  observa los comentarios y calificaciones de tus clientes. </td>
        <td>Completada/No completada</td>
        <td>Tiempo</td>              
    </tr>
  </table>
+ 
 
-
-Regístrate como trabajador en la aplicación e inicia sesión. 
-Dentro de tu perfil, encuentra tu número telefónico y  observa los comentarios y calificaciones de tus clientes. 
 Edita tu perfil.
 Se te ha notificado de un nuevo trabajo. Revisa tus notificaciones, rechaza a Greg Anderson y  acepta a Victoria Robertson. 
 Elimina tu chat con Luis Pérez Medina y repórtalo.
@@ -81,9 +79,10 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjMxNDgwNywtMjAzOTkzMDM4MiwtMz
-E3NTYzNTQ3LC0xOTI4NDkwODAxLC0xNDc1NTExNjI1LC0yMzIy
-ODY2Myw4NDg2NTA5MzEsLTEyNTM2MDU0NTMsLTUzNjg3NjM4OC
-w1MTcxNzcwNzIsNjYyNTQzNDk3LC03NzU4OTc0NjQsLTc1MzAx
-NjMyMywtMTI5NTM4NjAzNSw4ODg0MTM2NTJdfQ==
+eyJoaXN0b3J5IjpbLTEyOTA3MDQ1MjMsMTQxMjMxNDgwNywtMj
+AzOTkzMDM4MiwtMzE3NTYzNTQ3LC0xOTI4NDkwODAxLC0xNDc1
+NTExNjI1LC0yMzIyODY2Myw4NDg2NTA5MzEsLTEyNTM2MDU0NT
+MsLTUzNjg3NjM4OCw1MTcxNzcwNzIsNjYyNTQzNDk3LC03NzU4
+OTc0NjQsLTc1MzAxNjMyMywtMTI5NTM4NjAzNSw4ODg0MTM2NT
+JdfQ==
 -->
