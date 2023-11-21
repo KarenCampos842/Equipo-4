@@ -34,7 +34,7 @@
       <th>Número de tarea</th> 
      <th>Descripción</th>
      <th>Número de errores</th>
-     <th>Éxito de tarea</th>   
+     <th>Éxito de tarea</th>
      <th>Tiempo</th>   
    </tr> 
     <tr>  
@@ -249,11 +249,11 @@
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDU1NzI3OCwxMDc4OTA0Nzk1LDEwNz
-g4ODMwNDgsOTgxOTE1Mjc3LDExMzcwNDE1NTYsLTE0MDE4NTgz
-NjYsMTQxMjMxNDgwNywtMjAzOTkzMDM4MiwtMzE3NTYzNTQ3LC
-0xOTI4NDkwODAxLC0xNDc1NTExNjI1LC0yMzIyODY2Myw4NDg2
-NTA5MzEsLTEyNTM2MDU0NTMsLTUzNjg3NjM4OCw1MTcxNzcwNz
-IsNjYyNTQzNDk3LC03NzU4OTc0NjQsLTc1MzAxNjMyMywtMTI5
-NTM4NjAzNV19
+eyJoaXN0b3J5IjpbODY2MzAzNTI2LDE2MzQ1NTcyNzgsMTA3OD
+kwNDc5NSwxMDc4ODgzMDQ4LDk4MTkxNTI3NywxMTM3MDQxNTU2
+LC0xNDAxODU4MzY2LDE0MTIzMTQ4MDcsLTIwMzk5MzAzODIsLT
+MxNzU2MzU0NywtMTkyODQ5MDgwMSwtMTQ3NTUxMTYyNSwtMjMy
+Mjg2NjMsODQ4NjUwOTMxLC0xMjUzNjA1NDUzLC01MzY4NzYzOD
+gsNTE3MTc3MDcyLDY2MjU0MzQ5NywtNzc1ODk3NDY0LC03NTMw
+MTYzMjNdfQ==
 -->
