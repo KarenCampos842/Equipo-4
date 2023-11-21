@@ -44,6 +44,13 @@
        <td>Completada/No completada</td>
        <td>x min</td>              
    </tr>
+   <tr>  
+      <td>2</td> 
+      <td>Imagina que ingresaste un dato erróneo al registrarte, edita tu perfil.</td>
+       <td>x</td>
+       <td>Completada/No completada</td>
+       <td>x min</td>              
+   </tr>
     <tr>  
       <td>2</td> 
       <td>Imagina que ingresaste un dato erróneo al registrarte, edita tu perfil.</td>
@@ -128,10 +135,10 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDUwOTUyODUsLTE0MDE4NTgzNjYsMT
-QxMjMxNDgwNywtMjAzOTkzMDM4MiwtMzE3NTYzNTQ3LC0xOTI4
-NDkwODAxLC0xNDc1NTExNjI1LC0yMzIyODY2Myw4NDg2NTA5Mz
-EsLTEyNTM2MDU0NTMsLTUzNjg3NjM4OCw1MTcxNzcwNzIsNjYy
-NTQzNDk3LC03NzU4OTc0NjQsLTc1MzAxNjMyMywtMTI5NTM4Nj
-AzNSw4ODg0MTM2NTJdfQ==
+eyJoaXN0b3J5IjpbODkxNDU3ODIzLC0xNDAxODU4MzY2LDE0MT
+IzMTQ4MDcsLTIwMzk5MzAzODIsLTMxNzU2MzU0NywtMTkyODQ5
+MDgwMSwtMTQ3NTUxMTYyNSwtMjMyMjg2NjMsODQ4NjUwOTMxLC
+0xMjUzNjA1NDUzLC01MzY4NzYzODgsNTE3MTc3MDcyLDY2MjU0
+MzQ5NywtNzc1ODk3NDY0LC03NTMwMTYzMjMsLTEyOTUzODYwMz
+UsODg4NDEzNjUyXX0=
 -->
