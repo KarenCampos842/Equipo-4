@@ -3,6 +3,9 @@
 ### Protocolo
 
 ### Pruebas
+|Responsable de la prueba  |  |
+|--|--|
+|  |  |
 
 
 Regístrate como trabajador en la aplicación e inicia sesión. 
@@ -41,8 +44,8 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU1MTE2MjUsLTIzMjI4NjYzLDg0OD
-Y1MDkzMSwtMTI1MzYwNTQ1MywtNTM2ODc2Mzg4LDUxNzE3NzA3
-Miw2NjI1NDM0OTcsLTc3NTg5NzQ2NCwtNzUzMDE2MzIzLC0xMj
-k1Mzg2MDM1LDg4ODQxMzY1Ml19
+eyJoaXN0b3J5IjpbNDMyODgwMjkwLC0xNDc1NTExNjI1LC0yMz
+IyODY2Myw4NDg2NTA5MzEsLTEyNTM2MDU0NTMsLTUzNjg3NjM4
+OCw1MTcxNzcwNzIsNjYyNTQzNDk3LC03NzU4OTc0NjQsLTc1Mz
+AxNjMyMywtMTI5NTM4NjAzNSw4ODg0MTM2NTJdfQ==
 -->
