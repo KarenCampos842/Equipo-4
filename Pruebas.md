@@ -136,7 +136,7 @@
       <td>x</td>  
        <td>x</td>
       <td>x</td>
-      <td colspan=2>primario (cli)</td>  
+      <td colspan=2>primario (cliente)</td>  
    </tr> 
      <tr>  
       <th>Número de tarea</th> 
@@ -147,14 +147,14 @@
    </tr> 
     <tr>  
       <td>1</td> 
-      <td>Regístrate como trabajador en la aplicación e inicia sesión. </td>
+      <td>Regístrate como cliente e inicia sesión. </td>
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x min</td>              
    </tr>
    <tr>  
       <td>2</td> 
-      <td>Quieres saber que opinan tus clientes de tí. Lee sus comentaros y calificaciones.</td>
+      <td>Quieres cambiar datos de tu perfil, edítalo.</td>
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x min</td>              
@@ -225,8 +225,8 @@
 
 
 
-Regístrate como cliente e inicia sesión.
-Edita tu perfil. 
+
+
 Busca al mecánico Juan Campos Romero, observa su perfil, calificaciones y comentarios. 
 Inicia un chat con el mecánico Juan Campos Romero, contrata su servicio y regresa a tu perfil. 
 Abre el chat con Juan Campos Romero.
@@ -250,7 +250,7 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDUzMzgwODYsMTA3ODg4MzA0OCw5OD
+eyJoaXN0b3J5IjpbLTE1MzE3OTc0MjgsMTA3ODg4MzA0OCw5OD
 E5MTUyNzcsMTEzNzA0MTU1NiwtMTQwMTg1ODM2NiwxNDEyMzE0
 ODA3LC0yMDM5OTMwMzgyLC0zMTc1NjM1NDcsLTE5Mjg0OTA4MD
 EsLTE0NzU1MTE2MjUsLTIzMjI4NjYzLDg0ODY1MDkzMSwtMTI1
