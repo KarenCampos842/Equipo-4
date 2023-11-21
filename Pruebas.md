@@ -4,7 +4,7 @@
 
 ### Pruebas
 
-**Formato 1: Perfil de trabajador**
+***Formato 1: Perfil de trabajador***
 
 <table align=center>  
    <tr>  
@@ -53,7 +53,7 @@
    </tr>
     <tr>  
       <td>3</td> 
-      <td>Imagina que ingresaste un dato erróneo al registrarte, edita tu perfil.</td>
+      <td>Se te ha notificado de un nuevo trabajo, revisa tus notificaciones, rechaza a Greg Anderson y  acepta a Victoria Robertson. </td>
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x min</td>              
@@ -62,7 +62,7 @@
  
 
 
-Se te ha notificado de un nuevo trabajo. Revisa tus notificaciones, rechaza a Greg Anderson y  acepta a Victoria Robertson. 
+
 Elimina tu chat con Luis Pérez Medina y repórtalo.
 Revisa tu última conversación con Victoria Robertson. 
 Ha finalizado tu contrato con Victoria Robertson, califícala. 
@@ -95,10 +95,10 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzQ3MTE1OCwxNDEyMzE0ODA3LC0yMD
-M5OTMwMzgyLC0zMTc1NjM1NDcsLTE5Mjg0OTA4MDEsLTE0NzU1
-MTE2MjUsLTIzMjI4NjYzLDg0ODY1MDkzMSwtMTI1MzYwNTQ1My
-wtNTM2ODc2Mzg4LDUxNzE3NzA3Miw2NjI1NDM0OTcsLTc3NTg5
-NzQ2NCwtNzUzMDE2MzIzLC0xMjk1Mzg2MDM1LDg4ODQxMzY1Ml
-19
+eyJoaXN0b3J5IjpbNTAwMzI5MTY0LDE0MTIzMTQ4MDcsLTIwMz
+k5MzAzODIsLTMxNzU2MzU0NywtMTkyODQ5MDgwMSwtMTQ3NTUx
+MTYyNSwtMjMyMjg2NjMsODQ4NjUwOTMxLC0xMjUzNjA1NDUzLC
+01MzY4NzYzODgsNTE3MTc3MDcyLDY2MjU0MzQ5NywtNzc1ODk3
+NDY0LC03NTMwMTYzMjMsLTEyOTUzODYwMzUsODg4NDEzNjUyXX
+0=
 -->
