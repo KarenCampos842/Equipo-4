@@ -3,7 +3,7 @@
 ### Protocolo
 ### Pruebas
 Regístrate como trabajador en la aplicación e inicia sesión. 
-Edita tu perfil. 
+
 
 
 
@@ -31,7 +31,7 @@ Reporta al mecánico Juan campos Romero, cancela tu contrato con él y cierra se
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1OTg5NzA0LDUxNzE3NzA3Miw2NjI1ND
-M0OTcsLTc3NTg5NzQ2NCwtNzUzMDE2MzIzLC0xMjk1Mzg2MDM1
-LDg4ODQxMzY1Ml19
+eyJoaXN0b3J5IjpbLTY1MTc0NTUwMiw1MTcxNzcwNzIsNjYyNT
+QzNDk3LC03NzU4OTc0NjQsLTc1MzAxNjMyMywtMTI5NTM4NjAz
+NSw4ODg0MTM2NTJdfQ==
 -->
