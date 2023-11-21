@@ -46,7 +46,7 @@
    </tr>
    <tr>  
       <td>2</td> 
-      <td>Quieres saber que opinan tus clientes de tí. Lee sus comentaros y calificaciones.</td>
+      <td>Quieres saber que opinan tus clientes de tí. Lee sus comentarios y calificaciones.</td>
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x min</td>              
@@ -249,11 +249,11 @@
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI5MjE4OTEsMTA3ODkwNDc5NSwxMD
-c4ODgzMDQ4LDk4MTkxNTI3NywxMTM3MDQxNTU2LC0xNDAxODU4
-MzY2LDE0MTIzMTQ4MDcsLTIwMzk5MzAzODIsLTMxNzU2MzU0Ny
-wtMTkyODQ5MDgwMSwtMTQ3NTUxMTYyNSwtMjMyMjg2NjMsODQ4
-NjUwOTMxLC0xMjUzNjA1NDUzLC01MzY4NzYzODgsNTE3MTc3MD
-cyLDY2MjU0MzQ5NywtNzc1ODk3NDY0LC03NTMwMTYzMjMsLTEy
-OTUzODYwMzVdfQ==
+eyJoaXN0b3J5IjpbMTYzNDU1NzI3OCwxMDc4OTA0Nzk1LDEwNz
+g4ODMwNDgsOTgxOTE1Mjc3LDExMzcwNDE1NTYsLTE0MDE4NTgz
+NjYsMTQxMjMxNDgwNywtMjAzOTkzMDM4MiwtMzE3NTYzNTQ3LC
+0xOTI4NDkwODAxLC0xNDc1NTExNjI1LC0yMzIyODY2Myw4NDg2
+NTA5MzEsLTEyNTM2MDU0NTMsLTUzNjg3NjM4OCw1MTcxNzcwNz
+IsNjYyNTQzNDk3LC03NzU4OTc0NjQsLTc1MzAxNjMyMywtMTI5
+NTM4NjAzNV19
 -->
