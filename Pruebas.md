@@ -3,13 +3,44 @@
 ### Protocolo
 
 ### Pruebas
-|Responsable de la aplicación  |Fecha  |
-|--|--|
-| nombre | d/m/a |
 
-|Prueba  |Fecha  |
-|--|--|
-| nombre | d/m/a |
+<table align=center>  
+   <tr>  
+      <th>Nombre del responsable de la aplicación</th>  
+      <th></th> 
+      <th>Porcentaje de contribución de acuerdo el nivel</th>  
+   </tr> 
+    <tr>  
+      <td>Campos García Karen Elizabeth</td>  
+       <td> 20/88= 22.72%</td> 
+       <td> Alto: 13/42= 30.95%<br>Medio: 1/23= 4.35%<br>Bajo: 6/23= 26.09%</td>  
+   </tr> 
+   <tr>  
+      <td>Cárdenas Rojas Kendrick Asaf</td>  
+       <td>13/88=14.77%</td>
+       <td> Alto: 6/42= 14.29%<br>Medio: 5/23= 21.74%<br>Bajo: 2/23= 8.7%</td>    
+   </tr> 
+    <tr>  
+      <td>Maldonado Medina Hansony de Jesús</td>  
+      <td>15/42=17.04%</td>
+      <td> Alto: 6/42= 14.29%<br>Medio: 5/23= 21.74%<br>Bajo: 4/23= 17.39%</td>    
+   </tr> 
+    <tr>  
+      <td>Romero Poot Carlos Emmanuel</td>  
+       <td>14/88=15.91%</td>
+      <td> Alto: 6/42= 14.29%<br>Medio: 4/23= 17.39%<br>Bajo: 4/23= 17.39%</td> 
+   </tr> 
+     <tr>  
+      <td>Rubén Moisés Loria Pech</td>  
+        <td>12/88=13.63%</td>
+        <td> Alto: 4/42= 9.52%<br>Medio: 5/23= 21.74%<br>Bajo: 3/23= 13.04%</td>    
+   </tr> 
+    <tr>  
+      <td>Suárez Balam Brandon Emmanuel</td> 
+      <td>14/88=15.91%</td>
+       <td> Alto: 7/42= 16.66%<br>Medio: 3/23= 13.04%<br>Bajo: 4/23=17.39%</td>       
+   </tr> 
+ </table>
 
 
 Regístrate como trabajador en la aplicación e inicia sesión. 
@@ -48,7 +79,7 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzUzNzg1MywtMTQ3NTUxMTYyNSwtMj
+eyJoaXN0b3J5IjpbMTc0ODY3MDgwMywtMTQ3NTUxMTYyNSwtMj
 MyMjg2NjMsODQ4NjUwOTMxLC0xMjUzNjA1NDUzLC01MzY4NzYz
 ODgsNTE3MTc3MDcyLDY2MjU0MzQ5NywtNzc1ODk3NDY0LC03NT
 MwMTYzMjMsLTEyOTUzODYwMzUsODg4NDEzNjUyXX0=
