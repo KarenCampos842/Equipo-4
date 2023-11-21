@@ -9,8 +9,8 @@ Se te ha notificado de un nuevo trabajo. Revisa tus notificaciones, rechaza a Gr
 Revisa tu última conversación con Victoria Robertson. 
 Elimina tu chat con Luis Pérez Medina.
 Ha finalizado tu contrato con Victoria Robertson, califícala. 
-
-Cancela tu membresía. 
+Ha surgido un inconveniente y debes de cancelar un trabajo. Cancela tu contrato con. 
+Cancela tu membresía y sal de la aplicación. 
 
 
 
@@ -40,7 +40,7 @@ Reporta al mecánico Juan campos Romero, cancela tu contrato con él y cierra se
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMzU3NjUxLC0xMjUzNjA1NDUzLC01Mz
+eyJoaXN0b3J5IjpbODQ4NjUwOTMxLC0xMjUzNjA1NDUzLC01Mz
 Y4NzYzODgsNTE3MTc3MDcyLDY2MjU0MzQ5NywtNzc1ODk3NDY0
 LC03NTMwMTYzMjMsLTEyOTUzODYwMzUsODg4NDEzNjUyXX0=
 -->
