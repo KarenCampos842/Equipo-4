@@ -7,12 +7,11 @@
 <table align=center>  
    <tr>  
       <th>Nombre del responsable de la aplicación</th>  
-      <th></th> 
-      <th>Porcentaje de contribución de acuerdo el nivel</th>  
+      <th>Fecha de aplicación</th> 
    </tr> 
     <tr>  
-      <td>Campos García Karen Elizabeth</td>  
-       <td> 20/88= 22.72%</td> 
+      <td>Nombre</td>  
+       <td>///</td> 
        <td> Alto: 13/42= 30.95%<br>Medio: 1/23= 4.35%<br>Bajo: 6/23= 26.09%</td>  
    </tr> 
    <tr>  
@@ -79,8 +78,8 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODY3MDgwMywtMTQ3NTUxMTYyNSwtMj
-MyMjg2NjMsODQ4NjUwOTMxLC0xMjUzNjA1NDUzLC01MzY4NzYz
-ODgsNTE3MTc3MDcyLDY2MjU0MzQ5NywtNzc1ODk3NDY0LC03NT
-MwMTYzMjMsLTEyOTUzODYwMzUsODg4NDEzNjUyXX0=
+eyJoaXN0b3J5IjpbLTExNjM1ODIxNjYsLTE0NzU1MTE2MjUsLT
+IzMjI4NjYzLDg0ODY1MDkzMSwtMTI1MzYwNTQ1MywtNTM2ODc2
+Mzg4LDUxNzE3NzA3Miw2NjI1NDM0OTcsLTc3NTg5NzQ2NCwtNz
+UzMDE2MzIzLC0xMjk1Mzg2MDM1LDg4ODQxMzY1Ml19
 -->
