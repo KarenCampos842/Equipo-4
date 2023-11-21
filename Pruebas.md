@@ -60,7 +60,14 @@
    </tr>
    <tr>  
       <td>4</td> 
-      <td>Elimina tu chat con Luis Pérez Medina y repórtalo. </td>
+      <td>Revisa tu última conversación con Victoria Robertson. </td>
+       <td>x</td>
+       <td>Completada/No completada</td>
+       <td>x min</td>              
+   </tr>
+   <tr>  
+      <td>5</td> 
+      <td>Ha finalizado tu contrato con Victoria Robertson, califícala.  </td>
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x min</td>              
@@ -68,8 +75,9 @@
  </table>
  
 
-Revisa tu última conversación con Victoria Robertson. 
-Ha finalizado tu contrato con Victoria Robertson, califícala. 
+
+
+Elimina tu chat con Luis Pérez Medina y repórtalo. 
 Ha surgido un inconveniente y debes de cancelar un trabajo. Cancela tu contrato con. 
 Cancela tu membresía y sal de la aplicación. 
 
@@ -99,10 +107,10 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzA5NTMwMywtMTQwMTg1ODM2NiwxND
-EyMzE0ODA3LC0yMDM5OTMwMzgyLC0zMTc1NjM1NDcsLTE5Mjg0
-OTA4MDEsLTE0NzU1MTE2MjUsLTIzMjI4NjYzLDg0ODY1MDkzMS
-wtMTI1MzYwNTQ1MywtNTM2ODc2Mzg4LDUxNzE3NzA3Miw2NjI1
-NDM0OTcsLTc3NTg5NzQ2NCwtNzUzMDE2MzIzLC0xMjk1Mzg2MD
-M1LDg4ODQxMzY1Ml19
+eyJoaXN0b3J5IjpbNTc1Njg3NjA0LC0xNDAxODU4MzY2LDE0MT
+IzMTQ4MDcsLTIwMzk5MzAzODIsLTMxNzU2MzU0NywtMTkyODQ5
+MDgwMSwtMTQ3NTUxMTYyNSwtMjMyMjg2NjMsODQ4NjUwOTMxLC
+0xMjUzNjA1NDUzLC01MzY4NzYzODgsNTE3MTc3MDcyLDY2MjU0
+MzQ5NywtNzc1ODk3NDY0LC03NTMwMTYzMjMsLTEyOTUzODYwMz
+UsODg4NDEzNjUyXX0=
 -->
