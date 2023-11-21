@@ -38,12 +38,9 @@
       <td>1</td> 
       <td>x</td>
        <td>x</td>
-       <td>Completada/No completada</td>              
-   </tr> 
-    <tr>  
-     <td>Total de errores</td>
-       <td>Total de errores</td>                
-   </tr> 
+       <td>Completada/No completada</td>
+       <td>Tiempo</td>              
+   </tr>
  </table>
 
 
@@ -83,9 +80,9 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk5MzAzODIsLTMxNzU2MzU0NywtMT
-kyODQ5MDgwMSwtMTQ3NTUxMTYyNSwtMjMyMjg2NjMsODQ4NjUw
-OTMxLC0xMjUzNjA1NDUzLC01MzY4NzYzODgsNTE3MTc3MDcyLD
-Y2MjU0MzQ5NywtNzc1ODk3NDY0LC03NTMwMTYzMjMsLTEyOTUz
-ODYwMzUsODg4NDEzNjUyXX0=
+eyJoaXN0b3J5IjpbMTc0MjUwNDA0NiwtMjAzOTkzMDM4MiwtMz
+E3NTYzNTQ3LC0xOTI4NDkwODAxLC0xNDc1NTExNjI1LC0yMzIy
+ODY2Myw4NDg2NTA5MzEsLTEyNTM2MDU0NTMsLTUzNjg3NjM4OC
+w1MTcxNzcwNzIsNjYyNTQzNDk3LC03NzU4OTc0NjQsLTc1MzAx
+NjMyMywtMTI5NTM4NjAzNSw4ODg0MTM2NTJdfQ==
 -->
