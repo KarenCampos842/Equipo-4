@@ -6,15 +6,15 @@
 
 <table align=center>  
    <tr>  
-      <th colspan>Nombre del responsable de la aplicación</th>  
+      <th colspan=3>Nombre del responsable de la aplicación</th>  
       <th>Fecha de aplicación</th> 
    </tr> 
     <tr>  
-      <td>Nombre</td>  
+      <td colspan=3>Nombre</td>  
        <td>d/m/a</td> 
    </tr> 
    <tr>  
-      <th>Datos del participante</td> 
+      <th colspan=4>Datos del participante</td> 
    </tr> 
     <tr>  
       <th>Género</th>  
@@ -35,9 +35,10 @@
      <th>Éxito de tarea</th>   
    </tr> 
     <tr>  
-      <td>Tarea</td> 
+      <td>1</td> 
       <td>x</td>
-       <td> s</td>       
+       <td>x</td>
+       <td>Completada/No completada</td>              
    </tr> 
  </table>
 
@@ -78,7 +79,7 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDEyNDE3NCwtMTkyODQ5MDgwMSwtMT
+eyJoaXN0b3J5IjpbLTMxNzU2MzU0NywtMTkyODQ5MDgwMSwtMT
 Q3NTUxMTYyNSwtMjMyMjg2NjMsODQ4NjUwOTMxLC0xMjUzNjA1
 NDUzLC01MzY4NzYzODgsNTE3MTc3MDcyLDY2MjU0MzQ5NywtNz
 c1ODk3NDY0LC03NTMwMTYzMjMsLTEyOTUzODYwMzUsODg4NDEz
