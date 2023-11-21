@@ -51,10 +51,13 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
       <td> </td> 
       <td></td>     
        <td></td> 
+       </tr> 
+    <tr> 
+    <td>Poder ver exclusivamente reseñas de personas que hayan adquirido sus servicios</td>  
    </tr> 
  </table>      
  <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjkzODM3OCwtMjA5MDE0MzE5MCw2MD
-cxMTA5NjgsODE3NDYzMjY2LC0xODMwMTk1OTA5XX0=
+eyJoaXN0b3J5IjpbNjcyNDg4NjY4LC0yMDkwMTQzMTkwLDYwNz
+ExMDk2OCw4MTc0NjMyNjYsLTE4MzAxOTU5MDldfQ==
 -->
