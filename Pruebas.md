@@ -161,7 +161,7 @@
    </tr>
     <tr>  
       <td>3</td> 
-      <td>Quieres cambiar datos de tu perfil, edítalo.</td>
+      <td>Tu carro marca un error desconocido en el tablero, necesitas un mecánico. Busca al mecánico Juan Campos Romero, observa su perfil, calificaciones y comentarios.</td>
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x min</td>              
@@ -227,8 +227,8 @@
 
 
 
-Busca al mecánico Juan Campos Romero, observa su perfil, calificaciones y comentarios. 
-Inicia un chat con el mecánico Juan Campos Romero, contrata su servicio y regresa a tu perfil. 
+
+
 Abre el chat con Juan Campos Romero.
 Finaliza tu contrato con Juan Campos Romero, realiza un comentario y califícalo. 
 Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión. 
@@ -250,11 +250,11 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE3OTc0MjgsMTA3ODg4MzA0OCw5OD
-E5MTUyNzcsMTEzNzA0MTU1NiwtMTQwMTg1ODM2NiwxNDEyMzE0
-ODA3LC0yMDM5OTMwMzgyLC0zMTc1NjM1NDcsLTE5Mjg0OTA4MD
-EsLTE0NzU1MTE2MjUsLTIzMjI4NjYzLDg0ODY1MDkzMSwtMTI1
-MzYwNTQ1MywtNTM2ODc2Mzg4LDUxNzE3NzA3Miw2NjI1NDM0OT
-csLTc3NTg5NzQ2NCwtNzUzMDE2MzIzLC0xMjk1Mzg2MDM1LDg4
-ODQxMzY1Ml19
+eyJoaXN0b3J5IjpbMTMzOTY3MDYwNiwxMDc4ODgzMDQ4LDk4MT
+kxNTI3NywxMTM3MDQxNTU2LC0xNDAxODU4MzY2LDE0MTIzMTQ4
+MDcsLTIwMzk5MzAzODIsLTMxNzU2MzU0NywtMTkyODQ5MDgwMS
+wtMTQ3NTUxMTYyNSwtMjMyMjg2NjMsODQ4NjUwOTMxLC0xMjUz
+NjA1NDUzLC01MzY4NzYzODgsNTE3MTc3MDcyLDY2MjU0MzQ5Ny
+wtNzc1ODk3NDY0LC03NTMwMTYzMjMsLTEyOTUzODYwMzUsODg4
+NDEzNjUyXX0=
 -->
