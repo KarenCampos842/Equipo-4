@@ -26,7 +26,7 @@
       <td>x</td>  
        <td>x</td>
       <td>x</td>
-      <td>primario (cliente/trabajador)</td>  
+      <td>primario (trabajador)</td>  
    </tr> 
      <tr>  
       <th>Número de tarea</th> 
@@ -78,8 +78,9 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjg0OTA4MDEsLTE0NzU1MTE2MjUsLT
-IzMjI4NjYzLDg0ODY1MDkzMSwtMTI1MzYwNTQ1MywtNTM2ODc2
-Mzg4LDUxNzE3NzA3Miw2NjI1NDM0OTcsLTc3NTg5NzQ2NCwtNz
-UzMDE2MzIzLC0xMjk1Mzg2MDM1LDg4ODQxMzY1Ml19
+eyJoaXN0b3J5IjpbNDgxMTY5NjQsLTE5Mjg0OTA4MDEsLTE0Nz
+U1MTE2MjUsLTIzMjI4NjYzLDg0ODY1MDkzMSwtMTI1MzYwNTQ1
+MywtNTM2ODc2Mzg4LDUxNzE3NzA3Miw2NjI1NDM0OTcsLTc3NT
+g5NzQ2NCwtNzUzMDE2MzIzLC0xMjk1Mzg2MDM1LDg4ODQxMzY1
+Ml19
 -->
