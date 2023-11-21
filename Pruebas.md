@@ -182,7 +182,7 @@
    </tr>
    <tr>  
       <td>6</td> 
-      <td>Juan Campos Romero ha ha terminado su trabajo. Finaliza tu contrato con él, realiza un comentario y califícalo. </td>
+      <td>Juan Campos Romero ha terminado su trabajo. Finaliza tu contrato con él, realiza un comentario y califícalo. </td>
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x min</td>              
@@ -210,7 +210,7 @@
    </tr>
    <tr>  
       <th>Descripción de errores</th>
-       <td colspan=4>Ejemplo: Oprimió el botón de contratos en lugar de notificaciones (tarea 4)</td> 
+       <td colspan=4>Ejemplo: Oprimió la opción de contratos en lugar de notificaciones (tarea 4)</td> 
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
@@ -249,11 +249,11 @@
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDYxNTg1NTgsMTA3ODg4MzA0OCw5OD
-E5MTUyNzcsMTEzNzA0MTU1NiwtMTQwMTg1ODM2NiwxNDEyMzE0
-ODA3LC0yMDM5OTMwMzgyLC0zMTc1NjM1NDcsLTE5Mjg0OTA4MD
-EsLTE0NzU1MTE2MjUsLTIzMjI4NjYzLDg0ODY1MDkzMSwtMTI1
-MzYwNTQ1MywtNTM2ODc2Mzg4LDUxNzE3NzA3Miw2NjI1NDM0OT
-csLTc3NTg5NzQ2NCwtNzUzMDE2MzIzLC0xMjk1Mzg2MDM1LDg4
-ODQxMzY1Ml19
+eyJoaXN0b3J5IjpbMTA3ODkwNDc5NSwxMDc4ODgzMDQ4LDk4MT
+kxNTI3NywxMTM3MDQxNTU2LC0xNDAxODU4MzY2LDE0MTIzMTQ4
+MDcsLTIwMzk5MzAzODIsLTMxNzU2MzU0NywtMTkyODQ5MDgwMS
+wtMTQ3NTUxMTYyNSwtMjMyMjg2NjMsODQ4NjUwOTMxLC0xMjUz
+NjA1NDUzLC01MzY4NzYzODgsNTE3MTc3MDcyLDY2MjU0MzQ5Ny
+wtNzc1ODk3NDY0LC03NTMwMTYzMjMsLTEyOTUzODYwMzUsODg4
+NDEzNjUyXX0=
 -->
