@@ -101,8 +101,8 @@
        <td>x min</td>              
    </tr>
     <tr>  
-      <td>Comentarios</td>
-       <td colsapan=4>x</td>                 
+      <th>Comentarios</td>
+       <td rowsapan=4>x</td>                 
    </tr>
  </table>
  
@@ -139,7 +139,7 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDM1NjU5NiwxMTM3MDQxNTU2LC0xND
+eyJoaXN0b3J5IjpbMTMyMTIxNDQ1NCwxMTM3MDQxNTU2LC0xND
 AxODU4MzY2LDE0MTIzMTQ4MDcsLTIwMzk5MzAzODIsLTMxNzU2
 MzU0NywtMTkyODQ5MDgwMSwtMTQ3NTUxMTYyNSwtMjMyMjg2Nj
 MsODQ4NjUwOTMxLC0xMjUzNjA1NDUzLC01MzY4NzYzODgsNTE3
