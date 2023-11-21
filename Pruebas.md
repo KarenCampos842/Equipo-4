@@ -11,17 +11,14 @@
    </tr> 
     <tr>  
       <td>Nombre</td>  
-       <td>///</td> 
-       <td> Alto: 13/42= 30.95%<br>Medio: 1/23= 4.35%<br>Bajo: 6/23= 26.09%</td>  
+       <td>d/m/a</td> 
    </tr> 
    <tr>  
-      <td>Cárdenas Rojas Kendrick Asaf</td>  
-       <td>13/88=14.77%</td>
-       <td> Alto: 6/42= 14.29%<br>Medio: 5/23= 21.74%<br>Bajo: 2/23= 8.7%</td>    
+      <th>Datos del participante</td> 
    </tr> 
     <tr>  
-      <td>Maldonado Medina Hansony de Jesús</td>  
-      <td>15/42=17.04%</td>
+      <th>Género</th>  
+     
       <td> Alto: 6/42= 14.29%<br>Medio: 5/23= 21.74%<br>Bajo: 4/23= 17.39%</td>    
    </tr> 
     <tr>  
@@ -78,8 +75,8 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM1ODIxNjYsLTE0NzU1MTE2MjUsLT
-IzMjI4NjYzLDg0ODY1MDkzMSwtMTI1MzYwNTQ1MywtNTM2ODc2
-Mzg4LDUxNzE3NzA3Miw2NjI1NDM0OTcsLTc3NTg5NzQ2NCwtNz
-UzMDE2MzIzLC0xMjk1Mzg2MDM1LDg4ODQxMzY1Ml19
+eyJoaXN0b3J5IjpbMTM0NDY2MzA0NiwtMTQ3NTUxMTYyNSwtMj
+MyMjg2NjMsODQ4NjUwOTMxLC0xMjUzNjA1NDUzLC01MzY4NzYz
+ODgsNTE3MTc3MDcyLDY2MjU0MzQ5NywtNzc1ODk3NDY0LC03NT
+MwMTYzMjMsLTEyOTUzODYwMzUsODg4NDEzNjUyXX0=
 -->
