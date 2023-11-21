@@ -100,13 +100,13 @@
        <td>Completada/No completada</td>
        <td>x min</td>              
    </tr>
+   <tr>  
+      <th>Descripción de errores</th>
+       <td colspan=4>Ejemplo: Oprimió el botón de contratos en lugar de notificaciones (tarea 4)</td> 
+   </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
        <td colspan=4>x</td> 
-   </tr>
-    <tr>  
-      <th>Descripción de errores</th>
-       <td colspan=4>Ejmplo: </td> 
    </tr>
  </table>
  
@@ -143,10 +143,10 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1NzIyNjQyLDk4MTkxNTI3NywxMTM3MD
-QxNTU2LC0xNDAxODU4MzY2LDE0MTIzMTQ4MDcsLTIwMzk5MzAz
-ODIsLTMxNzU2MzU0NywtMTkyODQ5MDgwMSwtMTQ3NTUxMTYyNS
-wtMjMyMjg2NjMsODQ4NjUwOTMxLC0xMjUzNjA1NDUzLC01MzY4
-NzYzODgsNTE3MTc3MDcyLDY2MjU0MzQ5NywtNzc1ODk3NDY0LC
-03NTMwMTYzMjMsLTEyOTUzODYwMzUsODg4NDEzNjUyXX0=
+eyJoaXN0b3J5IjpbMTA3ODg4MzA0OCw5ODE5MTUyNzcsMTEzNz
+A0MTU1NiwtMTQwMTg1ODM2NiwxNDEyMzE0ODA3LC0yMDM5OTMw
+MzgyLC0zMTc1NjM1NDcsLTE5Mjg0OTA4MDEsLTE0NzU1MTE2Mj
+UsLTIzMjI4NjYzLDg0ODY1MDkzMSwtMTI1MzYwNTQ1MywtNTM2
+ODc2Mzg4LDUxNzE3NzA3Miw2NjI1NDM0OTcsLTc3NTg5NzQ2NC
+wtNzUzMDE2MzIzLC0xMjk1Mzg2MDM1LDg4ODQxMzY1Ml19
 -->
