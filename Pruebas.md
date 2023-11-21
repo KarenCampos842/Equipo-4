@@ -210,7 +210,7 @@
    </tr>
    <tr>  
       <th>Descripción de errores</th>
-       <td colspan=4>Ejemplo: Oprimió la opción de contratos en lugar de notificaciones (tarea 4)</td> 
+       <td colspan=4>Ejemplo: Oprimió la foto de perfil del mecánico en lugar de dar clic en el ícono (tarea 3). </td> 
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
@@ -249,11 +249,11 @@
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODkwNDc5NSwxMDc4ODgzMDQ4LDk4MT
-kxNTI3NywxMTM3MDQxNTU2LC0xNDAxODU4MzY2LDE0MTIzMTQ4
-MDcsLTIwMzk5MzAzODIsLTMxNzU2MzU0NywtMTkyODQ5MDgwMS
-wtMTQ3NTUxMTYyNSwtMjMyMjg2NjMsODQ4NjUwOTMxLC0xMjUz
-NjA1NDUzLC01MzY4NzYzODgsNTE3MTc3MDcyLDY2MjU0MzQ5Ny
-wtNzc1ODk3NDY0LC03NTMwMTYzMjMsLTEyOTUzODYwMzUsODg4
-NDEzNjUyXX0=
+eyJoaXN0b3J5IjpbLTEyMTI5MjE4OTEsMTA3ODkwNDc5NSwxMD
+c4ODgzMDQ4LDk4MTkxNTI3NywxMTM3MDQxNTU2LC0xNDAxODU4
+MzY2LDE0MTIzMTQ4MDcsLTIwMzk5MzAzODIsLTMxNzU2MzU0Ny
+wtMTkyODQ5MDgwMSwtMTQ3NTUxMTYyNSwtMjMyMjg2NjMsODQ4
+NjUwOTMxLC0xMjUzNjA1NDUzLC01MzY4NzYzODgsNTE3MTc3MD
+cyLDY2MjU0MzQ5NywtNzc1ODk3NDY0LC03NTMwMTYzMjMsLTEy
+OTUzODYwMzVdfQ==
 -->
