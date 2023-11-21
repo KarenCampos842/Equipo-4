@@ -42,7 +42,8 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
      <th>Característica</th>  
       <th>WorkFlash</th> 
       <th>Ayfix</th>
-      <th>Competencia</th>
+      <th>Fever</th>
+      <th>Grupos de Facebook</th>
    </tr> 
     <tr> 
     <td>(descripción breve de una característica/funcionalidad)</td>  
@@ -53,6 +54,6 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
  </table>      
  <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYwNDk2NTAsNjA3MTEwOTY4LDgxNz
+eyJoaXN0b3J5IjpbLTIwOTAxNDMxOTAsNjA3MTEwOTY4LDgxNz
 Q2MzI2NiwtMTgzMDE5NTkwOV19
 -->
