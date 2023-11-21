@@ -34,7 +34,25 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
 ## Usuarios
 
 ## Innovación
-
+<table align=center>  
+   <tr>  
+  <td colspan=4>Necesidad: descripción</td>
+   </tr> 
+   <tr>  
+     <th>Característica</th>  
+      <th>WorkFlash</th> 
+      <th>Competencia</th>
+      <th>Competencia</th>
+   </tr> 
+    <tr> 
+    <td>(descripción breve de una característica/funcionalidad)</td>  
+      <td> x ("x" indica que la app tiene esa característica)</td> 
+      <td> </td> 
+      <td></td>      
+   </tr> 
+ </table>      
+ <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3NDYzMjY2LC0xODMwMTk1OTA5XX0=
+eyJoaXN0b3J5IjpbNjA3MTEwOTY4LDgxNzQ2MzI2NiwtMTgzMD
+E5NTkwOV19
 -->
