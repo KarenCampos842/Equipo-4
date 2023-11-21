@@ -5,7 +5,6 @@
 Regístrate como trabajador en la aplicación e inicia sesión. 
 Dentro de tu perfil, encuentra tu número telefónico, observa los comentarios y calificaciones de tus clientes. 
 Edita tu perfil. 
-
 Cancela tu membresía. 
 
 
@@ -35,7 +34,7 @@ Reporta al mecánico Juan campos Romero, cancela tu contrato con él y cierra se
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTE1Mzg2NiwtNTM2ODc2Mzg4LDUxNz
+eyJoaXN0b3J5IjpbLTU1NDI1NzQ4MCwtNTM2ODc2Mzg4LDUxNz
 E3NzA3Miw2NjI1NDM0OTcsLTc3NTg5NzQ2NCwtNzUzMDE2MzIz
 LC0xMjk1Mzg2MDM1LDg4ODQxMzY1Ml19
 -->
