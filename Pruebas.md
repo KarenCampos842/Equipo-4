@@ -3,10 +3,11 @@
 ### Protocolo
 ### Pruebas
 Regístrate como trabajador en la aplicación e inicia sesión. 
-Dentro de tu perfil, encuentra tu número telefónico, observa los comentarios y calificaciones de tus clientes. 
+Dentro de tu perfil, encuentra tu número telefónico y  observa los comentarios y calificaciones de tus clientes. 
 Edita tu perfil.
 Se te ha notificado de un nuevo trabajo. Revisa tus notificaciones, rechaza a Greg Anderson y  acepta a Victoria Robertson. 
 Revisa tu última conversación con Victoria Robertson. 
+Elimina tu chat con Luis Pérez Medina.
 Cancela tu membresía. 
 
 
@@ -37,8 +38,7 @@ Reporta al mecánico Juan campos Romero, cancela tu contrato con él y cierra se
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY5MTA3ODIsLTEyNTM2MDU0NTMsLT
-UzNjg3NjM4OCw1MTcxNzcwNzIsNjYyNTQzNDk3LC03NzU4OTc0
-NjQsLTc1MzAxNjMyMywtMTI5NTM4NjAzNSw4ODg0MTM2NTJdfQ
-==
+eyJoaXN0b3J5IjpbMTM1MzUzODAzMCwtMTI1MzYwNTQ1MywtNT
+M2ODc2Mzg4LDUxNzE3NzA3Miw2NjI1NDM0OTcsLTc3NTg5NzQ2
+NCwtNzUzMDE2MzIzLC0xMjk1Mzg2MDM1LDg4ODQxMzY1Ml19
 -->
