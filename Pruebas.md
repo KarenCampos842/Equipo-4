@@ -74,7 +74,7 @@
    </tr>
    <tr>  
       <td>6</td> 
-      <td>Te has encontrado coElimina tu chat con Luis Pérez Medina y repórtalo. </td>
+      <td>Uno de tus clientes no asistió a Elimina tu chat con Luis Pérez Medina y repórtalo. </td>
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x min</td>              
@@ -121,7 +121,7 @@ Reporta a Luis Pérez Medina, cancela tu contrato con él y cierra sesión.
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTEzNjg0NSwtMTQwMTg1ODM2NiwxND
+eyJoaXN0b3J5IjpbMTA1MTY2MzQwMSwtMTQwMTg1ODM2NiwxND
 EyMzE0ODA3LC0yMDM5OTMwMzgyLC0zMTc1NjM1NDcsLTE5Mjg0
 OTA4MDEsLTE0NzU1MTE2MjUsLTIzMjI4NjYzLDg0ODY1MDkzMS
 wtMTI1MzYwNTQ1MywtNTM2ODc2Mzg4LDUxNzE3NzA3Miw2NjI1
