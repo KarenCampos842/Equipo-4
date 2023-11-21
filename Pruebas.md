@@ -3,7 +3,8 @@
 ### Protocolo
 ### Pruebas
 Regístrate como trabajador en la aplicación e inicia sesión. 
-Explora tu perfil. Encuentra tu número telefónico, observa tus comentarios y calificaciones, los datos que proporcionaste para dar de alta tu membresía 
+Dentro de tu perfil, encuentra tu número telefónico, observa los comentarios y calificaciones de tus clientes y  los datos que proporcionaste para dar de alta tu membresía.
+ 
 
 
 
@@ -31,7 +32,7 @@ Reporta al mecánico Juan campos Romero, cancela tu contrato con él y cierra se
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY4NDEsNTE3MTc3MDcyLDY2MjU0Mz
-Q5NywtNzc1ODk3NDY0LC03NTMwMTYzMjMsLTEyOTUzODYwMzUs
-ODg4NDEzNjUyXX0=
+eyJoaXN0b3J5IjpbLTUzNjg3NjM4OCw1MTcxNzcwNzIsNjYyNT
+QzNDk3LC03NzU4OTc0NjQsLTc1MzAxNjMyMywtMTI5NTM4NjAz
+NSw4ODg0MTM2NTJdfQ==
 -->
