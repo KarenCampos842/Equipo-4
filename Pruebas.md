@@ -8,6 +8,8 @@ Edita tu perfil.
 Se te ha notificado de un nuevo trabajo. Revisa tus notificaciones, rechaza a Greg Anderson y  acepta a Victoria Robertson. 
 Revisa tu última conversación con Victoria Robertson. 
 Elimina tu chat con Luis Pérez Medina.
+Ha finalizado tu contrato con Victoria Robertson, califícala. 
+
 Cancela tu membresía. 
 
 
@@ -38,7 +40,7 @@ Reporta al mecánico Juan campos Romero, cancela tu contrato con él y cierra se
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzUzODAzMCwtMTI1MzYwNTQ1MywtNT
-M2ODc2Mzg4LDUxNzE3NzA3Miw2NjI1NDM0OTcsLTc3NTg5NzQ2
-NCwtNzUzMDE2MzIzLC0xMjk1Mzg2MDM1LDg4ODQxMzY1Ml19
+eyJoaXN0b3J5IjpbNDEyMzU3NjUxLC0xMjUzNjA1NDUzLC01Mz
+Y4NzYzODgsNTE3MTc3MDcyLDY2MjU0MzQ5NywtNzc1ODk3NDY0
+LC03NTMwMTYzMjMsLTEyOTUzODYwMzUsODg4NDEzNjUyXX0=
 -->
