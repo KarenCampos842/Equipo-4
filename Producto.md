@@ -36,12 +36,12 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
 ## Innovación
 <table align=center>  
    <tr>  
-  <td colspan=4>Necesidad: descripción</td>
+  <td colspan=4>Necesidad: Buscar rápido trabajadores cercanos y confiables</td>
    </tr> 
    <tr>  
      <th>Característica</th>  
       <th>WorkFlash</th> 
-      <th>Competencia</th>
+      <th>Ayfix</th>
       <th>Competencia</th>
    </tr> 
     <tr> 
@@ -53,6 +53,6 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
  </table>      
  <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3MTEwOTY4LDgxNzQ2MzI2NiwtMTgzMD
-E5NTkwOV19
+eyJoaXN0b3J5IjpbLTE4MDYwNDk2NTAsNjA3MTEwOTY4LDgxNz
+Q2MzI2NiwtMTgzMDE5NTkwOV19
 -->
