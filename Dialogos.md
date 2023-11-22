@@ -7,7 +7,7 @@
   **Sketch (trabajador)** 
 
  
-  **Diálogo proceso**
+  **Diálogo proceso (2 min)**
 
  
  **Diálogo producto (2 min)** 
@@ -21,5 +21,5 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg2NjA1MjNdfQ==
+eyJoaXN0b3J5IjpbLTgyOTcwNjk2OF19
 -->
