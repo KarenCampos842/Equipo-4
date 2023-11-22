@@ -18,7 +18,7 @@ Para las pruebas se reclutarán a 12 personas en total. 6 con el perfil de clien
 Como parte de un proyecto en la universidad, junto a mi equipo, estoy realizando el diseño de una aplicación y requiero probar el prototipo, por lo que quisiera solicitar tu ayuda. 
 La prueba consiste en que el participante realice algunas actividades en la aplicación, responda algunas preguntas respecto a la dificultad de las actividades y conteste un cuestionario de satisfacción. Es una prueba de aproximadamente 15 minutos.
 Los datos nos servirán para saber lo que estamos haciendo bien y lo que podemos mejorar en nuestra aplicación. 
-
+4. Si acepta participar, se deberá agendar una cita para aplicar la prueba de forma presencial. 
 
 **Materiales** 
 
@@ -313,11 +313,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU0MDI4OTIsMTQwNTg2MDU4OCwtMT
-I4MTgyNzkzMiwxNDI2Mzk1OTQxLC0zODU3Njk4MjksMTU4Mzk5
-NTc1LC0xMDE3NzIxODE5LC03MjI3NjIxNDAsLTE3NjA1ODI0Mj
-gsLTI1Nzc5OTg1NywtMTY0NjY4MTgyNCw0ODU2MTA3ODYsNDU2
-NTc4ODQ5LC0xNzEzNjI2ODIwLDg2NjMwMzUyNiwxNjM0NTU3Mj
-c4LDEwNzg5MDQ3OTUsMTA3ODg4MzA0OCw5ODE5MTUyNzcsMTEz
-NzA0MTU1Nl19
+eyJoaXN0b3J5IjpbMTg4ODMwMTA0NywxNDA1ODYwNTg4LC0xMj
+gxODI3OTMyLDE0MjYzOTU5NDEsLTM4NTc2OTgyOSwxNTgzOTk1
+NzUsLTEwMTc3MjE4MTksLTcyMjc2MjE0MCwtMTc2MDU4MjQyOC
+wtMjU3Nzk5ODU3LC0xNjQ2NjgxODI0LDQ4NTYxMDc4Niw0NTY1
+Nzg4NDksLTE3MTM2MjY4MjAsODY2MzAzNTI2LDE2MzQ1NTcyNz
+gsMTA3ODkwNDc5NSwxMDc4ODgzMDQ4LDk4MTkxNTI3NywxMTM3
+MDQxNTU2XX0=
 -->
