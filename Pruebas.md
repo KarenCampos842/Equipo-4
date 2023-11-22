@@ -296,10 +296,10 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
  **Objetivos** 
 1.  Los clientes pueden buscar un oficio/ocupación y visualizar una lista de trabajadores.
 2.  Los clientes pueden visualizar datos del trabajador,  calificaciones y comentarios. 
-3. Los clientes pueden contratar y cancelar un .
+3. Los clientes pueden contratar y cancelar un trabajo.
 4. Los clientes pueden comunicarse con los trabajadores mediante un chat y eliminarlo si así desean.
-5. Los clientes pueden calificar, comentar y reportar a los trabajadores.
-6. Los trabajadores pueden  editar su perfil y cancelar su membresía.
+5. Los clientes pueden finalizar su contrato, calificar, comentar y reportar a los trabajadores.
+6. Los clientes pueden  editar su perfil.
 7. La aplicación es intuitiva y agradable para los usuarios (aplica para clientes y trabajadores).
 
 **Correspondencia entre los objetivos, indicadores y  requisitos**
@@ -550,11 +550,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDI0MjgsMTQ2ODc0NTE3NSw2MzUyND
-EwMzcsLTE0NTUxNDQ4MDksMTAwNTY5MjMyNCwtNjU2MTA3NTA4
-LDIzMTc2NTk0NiwxNDA1ODYwNTg4LC0xMjgxODI3OTMyLDE0Mj
-YzOTU5NDEsLTM4NTc2OTgyOSwxNTgzOTk1NzUsLTEwMTc3MjE4
-MTksLTcyMjc2MjE0MCwtMTc2MDU4MjQyOCwtMjU3Nzk5ODU3LC
-0xNjQ2NjgxODI0LDQ4NTYxMDc4Niw0NTY1Nzg4NDksLTE3MTM2
-MjY4MjBdfQ==
+eyJoaXN0b3J5IjpbLTg0NzgyMjE3LDE0Njg3NDUxNzUsNjM1Mj
+QxMDM3LC0xNDU1MTQ0ODA5LDEwMDU2OTIzMjQsLTY1NjEwNzUw
+OCwyMzE3NjU5NDYsMTQwNTg2MDU4OCwtMTI4MTgyNzkzMiwxND
+I2Mzk1OTQxLC0zODU3Njk4MjksMTU4Mzk5NTc1LC0xMDE3NzIx
+ODE5LC03MjI3NjIxNDAsLTE3NjA1ODI0MjgsLTI1Nzc5OTg1Ny
+wtMTY0NjY4MTgyNCw0ODU2MTA3ODYsNDU2NTc4ODQ5LC0xNzEz
+NjI2ODIwXX0=
 -->
