@@ -31,7 +31,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 - Realizar la siguiente pregunta al participante y anotar la respuesta: Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?
 - Repetir el proceso hasta terminar con las tareas. 
 7.  Anotar comentarios/observaciones del participante sobre la aplicación (preguntar directamente si es necesario). 
-8. Proporcionar el ***cuestionario de satisfacción*** al participante para su resolución. 
+8. Proporcionar el ***Cuestionario de Satisfacción*** al participante para su resolución. 
 9. Agradecer a la persona su participación y despedirse. 
 
 ***Nota:*** Al finalizar con la prueba, el formato que se haya utilizado (1 o 2), ya resuelto, deberá localizarse en el apartado 
@@ -272,22 +272,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
  </table>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Aplicación de las pruebas
 ## Cuestionarios de satisfacción
 ###  Cuestionario
@@ -302,11 +286,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTc2OTgyOSwxNTgzOTk1NzUsLTEwMT
-c3MjE4MTksLTcyMjc2MjE0MCwtMTc2MDU4MjQyOCwtMjU3Nzk5
-ODU3LC0xNjQ2NjgxODI0LDQ4NTYxMDc4Niw0NTY1Nzg4NDksLT
-E3MTM2MjY4MjAsODY2MzAzNTI2LDE2MzQ1NTcyNzgsMTA3ODkw
-NDc5NSwxMDc4ODgzMDQ4LDk4MTkxNTI3NywxMTM3MDQxNTU2LC
-0xNDAxODU4MzY2LDE0MTIzMTQ4MDcsLTIwMzk5MzAzODIsLTMx
-NzU2MzU0N119
+eyJoaXN0b3J5IjpbLTE3MjA4NTY1ODEsLTM4NTc2OTgyOSwxNT
+gzOTk1NzUsLTEwMTc3MjE4MTksLTcyMjc2MjE0MCwtMTc2MDU4
+MjQyOCwtMjU3Nzk5ODU3LC0xNjQ2NjgxODI0LDQ4NTYxMDc4Ni
+w0NTY1Nzg4NDksLTE3MTM2MjY4MjAsODY2MzAzNTI2LDE2MzQ1
+NTcyNzgsMTA3ODkwNDc5NSwxMDc4ODgzMDQ4LDk4MTkxNTI3Ny
+wxMTM3MDQxNTU2LC0xNDAxODU4MzY2LDE0MTIzMTQ4MDcsLTIw
+Mzk5MzAzODJdfQ==
 -->
