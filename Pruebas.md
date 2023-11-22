@@ -3,8 +3,8 @@
 ### Protocolo
 Para las pruebas se reclutarán a 12 personas en total. 6 con el perfil de cliente y 6 con el perfil de trabajador. 
 
-Durante el reclutamiento 
-
+**Durante el reclutamiento** 
+Presentarse como 
 **Materiales** 
 
  - Formato 1 o 2 localizados al final del apartado de Protocolo (impreso o digital). 
@@ -288,11 +288,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjM5NTk0MSwtMzg1NzY5ODI5LDE1OD
-M5OTU3NSwtMTAxNzcyMTgxOSwtNzIyNzYyMTQwLC0xNzYwNTgy
-NDI4LC0yNTc3OTk4NTcsLTE2NDY2ODE4MjQsNDg1NjEwNzg2LD
-Q1NjU3ODg0OSwtMTcxMzYyNjgyMCw4NjYzMDM1MjYsMTYzNDU1
-NzI3OCwxMDc4OTA0Nzk1LDEwNzg4ODMwNDgsOTgxOTE1Mjc3LD
-ExMzcwNDE1NTYsLTE0MDE4NTgzNjYsMTQxMjMxNDgwNywtMjAz
-OTkzMDM4Ml19
+eyJoaXN0b3J5IjpbLTEyMTEwMzUwMTksMTQyNjM5NTk0MSwtMz
+g1NzY5ODI5LDE1ODM5OTU3NSwtMTAxNzcyMTgxOSwtNzIyNzYy
+MTQwLC0xNzYwNTgyNDI4LC0yNTc3OTk4NTcsLTE2NDY2ODE4Mj
+QsNDg1NjEwNzg2LDQ1NjU3ODg0OSwtMTcxMzYyNjgyMCw4NjYz
+MDM1MjYsMTYzNDU1NzI3OCwxMDc4OTA0Nzk1LDEwNzg4ODMwND
+gsOTgxOTE1Mjc3LDExMzcwNDE1NTYsLTE0MDE4NTgzNjYsMTQx
+MjMxNDgwN119
 -->
