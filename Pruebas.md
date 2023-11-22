@@ -296,8 +296,8 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
  **Objetivos** 
 1.  Los clientes pueden buscar un oficio/ocupación, visualizar una lista de trabajadores, su perfil, calificaciones y comentarios. 
 2. Los clientes pueden contratar y cancelar un trabajo.
-3. Los clientes pueden comunicarse con los trabajadores mediante un chat y eliminarlo si así desean.
-4. Los clientes pueden finalizar su contrato, calificar, comentar y reportar a los trabajadores.
+3. Los clientes pueden finalizar su contrato, calificar, comentar y reportar a los trabajadores.
+4. Los clientes pueden comunicarse con los trabajadores mediante un chat y eliminarlo si así desean.
 5. Los clientes pueden  editar su perfil.
 6. La aplicación es intuitiva y agradable para los usuarios (aplica para clientes y trabajadores).
 
@@ -541,7 +541,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDI1MDc1NSwxNDY4NzQ1MTc1LDYzNT
+eyJoaXN0b3J5IjpbMTU1OTk3MzQzNywxNDY4NzQ1MTc1LDYzNT
 I0MTAzNywtMTQ1NTE0NDgwOSwxMDA1NjkyMzI0LC02NTYxMDc1
 MDgsMjMxNzY1OTQ2LDE0MDU4NjA1ODgsLTEyODE4Mjc5MzIsMT
 QyNjM5NTk0MSwtMzg1NzY5ODI5LDE1ODM5OTU3NSwtMTAxNzcy
