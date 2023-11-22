@@ -54,7 +54,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 9. Proporcionar el ***Cuestionario de satisfacción*** al participante para su resolución. 
 10. Agradecer a la persona su participación y despedirse. 
 
-***Nota:*** Al finalizar con la prueba, el formato que se haya utilizado (1 o 2), ya resuelto, deberá colocarse en el apartado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#aplicaci%C3%B3n-de-las-pruebas">Aplicación de las pruebas</a> en
+***Nota:*** Al finalizar con la prueba, el formato que se haya utilizado (1 o 2), ya resuelto, deberá colocarse en el apartado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#aplicaci%C3%B3n-de-las-pruebas">Aplicación de las pruebas</a> 
 
 
 ### Pruebas
@@ -67,7 +67,14 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 
 **Correspondencia entre los objetivos, indicadores y  requisitos**
 
+<table align=center>  
+   <tr>  
+      <th colspan=4>Nombre del responsable de la aplicación</th>  
+     </tr>
+ </table>     
 
+<br>
+<br>
 
 ***Formato 1: Perfil de trabajador***
 
@@ -303,6 +310,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
  </table>
 
 
+
 ### Aplicación de las pruebas
 ## Cuestionarios de satisfacción
 ###  Cuestionario
@@ -317,11 +325,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTAyMzg1NTcsMjMxNzY1OTQ2LDE0MD
-U4NjA1ODgsLTEyODE4Mjc5MzIsMTQyNjM5NTk0MSwtMzg1NzY5
-ODI5LDE1ODM5OTU3NSwtMTAxNzcyMTgxOSwtNzIyNzYyMTQwLC
-0xNzYwNTgyNDI4LC0yNTc3OTk4NTcsLTE2NDY2ODE4MjQsNDg1
-NjEwNzg2LDQ1NjU3ODg0OSwtMTcxMzYyNjgyMCw4NjYzMDM1Mj
-YsMTYzNDU1NzI3OCwxMDc4OTA0Nzk1LDEwNzg4ODMwNDgsOTgx
-OTE1Mjc3XX0=
+eyJoaXN0b3J5IjpbLTY1NjEwNzUwOCwyMzE3NjU5NDYsMTQwNT
+g2MDU4OCwtMTI4MTgyNzkzMiwxNDI2Mzk1OTQxLC0zODU3Njk4
+MjksMTU4Mzk5NTc1LC0xMDE3NzIxODE5LC03MjI3NjIxNDAsLT
+E3NjA1ODI0MjgsLTI1Nzc5OTg1NywtMTY0NjY4MTgyNCw0ODU2
+MTA3ODYsNDU2NTc4ODQ5LC0xNzEzNjI2ODIwLDg2NjMwMzUyNi
+wxNjM0NTU3Mjc4LDEwNzg5MDQ3OTUsMTA3ODg4MzA0OCw5ODE5
+MTUyNzddfQ==
 -->
