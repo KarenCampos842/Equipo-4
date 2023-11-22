@@ -34,7 +34,7 @@ Los datos recabados serán utilizados con propósitos escolares. Nos servirán p
 Para aplicar la prueba realizar lo siguiente: 
 1. Acudir a la cita con la persona. 
 2. Salude a la persona y agradezca su participación. 
-3. Solicitar los datos del participante y anotarlos en el formato (1 o 2): género, edad, ocupación. 
+3. Solicitar los datos del participante y anotarlos en el formato 1 o 2: género, edad, ocupación (si se conocen los datos del participante llenar éste apartado previo a la aplicación de la prueba). 
 4. Explicar brevemente en qué consistirá la prueba (la persona responsable de aplicar la prueba deberá proporcionar el prototipo a la persona). 
 **Guion**
 A continuación te presentaré el prototipo de la aplicación para celular llamada WorkFlash. 
@@ -54,7 +54,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 9. Proporcionar el ***Cuestionario de satisfacción*** al participante para su resolución. 
 10. Agradecer a la persona su participación y despedirse. 
 
-***Nota:*** Al finalizar con la prueba, el formato que se haya utilizado (1 o 2), ya resuelto, deberá localizarse en el apartado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#aplicaci%C3%B3n-de-las-pruebas">Aplicación de las pruebas</a>
+***Nota:*** Al finalizar con la prueba, el formato que se haya utilizado (1 o 2), ya resuelto, deberá colocarse en el apartado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#aplicaci%C3%B3n-de-las-pruebas">Aplicación de las pruebas</a>
 
 
 ### Pruebas
@@ -317,11 +317,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwMjI3MjExLDE0MDU4NjA1ODgsLTEyOD
-E4Mjc5MzIsMTQyNjM5NTk0MSwtMzg1NzY5ODI5LDE1ODM5OTU3
-NSwtMTAxNzcyMTgxOSwtNzIyNzYyMTQwLC0xNzYwNTgyNDI4LC
-0yNTc3OTk4NTcsLTE2NDY2ODE4MjQsNDg1NjEwNzg2LDQ1NjU3
-ODg0OSwtMTcxMzYyNjgyMCw4NjYzMDM1MjYsMTYzNDU1NzI3OC
-wxMDc4OTA0Nzk1LDEwNzg4ODMwNDgsOTgxOTE1Mjc3LDExMzcw
-NDE1NTZdfQ==
+eyJoaXN0b3J5IjpbMTQ0NDYwODQzMCwxNDA1ODYwNTg4LC0xMj
+gxODI3OTMyLDE0MjYzOTU5NDEsLTM4NTc2OTgyOSwxNTgzOTk1
+NzUsLTEwMTc3MjE4MTksLTcyMjc2MjE0MCwtMTc2MDU4MjQyOC
+wtMjU3Nzk5ODU3LC0xNjQ2NjgxODI0LDQ4NTYxMDc4Niw0NTY1
+Nzg4NDksLTE3MTM2MjY4MjAsODY2MzAzNTI2LDE2MzQ1NTcyNz
+gsMTA3ODkwNDc5NSwxMDc4ODgzMDQ4LDk4MTkxNTI3NywxMTM3
+MDQxNTU2XX0=
 -->
