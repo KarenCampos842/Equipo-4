@@ -2,8 +2,8 @@
 ## Pruebas informales[^1]
 ### Protocolo
 Para las pruebas se reclutarán a 12 personas en total. 6 con el perfil de cliente y 6 con el perfil de trabajador. 
-Al reclutar a las personas se les hará saber 
 Para aplicar la prueba realizar lo siguiente: 
+Nota: Durante el reclutamiento se habr
 1. Preséntese
 
 ### Pruebas
@@ -272,7 +272,7 @@ Para aplicar la prueba realizar lo siguiente:
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTc1NTU2OCwtMTY0NjY4MTgyNCw0OD
+eyJoaXN0b3J5IjpbLTI1Nzc5OTg1NywtMTY0NjY4MTgyNCw0OD
 U2MTA3ODYsNDU2NTc4ODQ5LC0xNzEzNjI2ODIwLDg2NjMwMzUy
 NiwxNjM0NTU3Mjc4LDEwNzg5MDQ3OTUsMTA3ODg4MzA0OCw5OD
 E5MTUyNzcsMTEzNzA0MTU1NiwtMTQwMTg1ODM2NiwxNDEyMzE0
