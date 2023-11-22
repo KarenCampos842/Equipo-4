@@ -8,11 +8,11 @@
 
 <table align=center>  
    <tr>  
-      <th colspan=3>Nombre del responsable de la aplicación</th>  
+      <th colspan=4>Nombre del responsable de la aplicación</th>  
       <th colspan=2>Fecha de aplicación</th> 
    </tr> 
     <tr>  
-      <td colspan=3>Nombre</td>  
+      <td colspan=4>Nombre</td>  
        <td colspan=2>d/m/a</td> 
    </tr> 
    <tr>  
@@ -43,6 +43,7 @@
       <td>Regístrate como trabajador en la aplicación e inicia sesión. </td>
        <td>x</td>
        <td>Completada/No completada</td>
+       <td>x</td>
        <td>x min</td>              
    </tr>
    <tr>  
@@ -250,11 +251,11 @@
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM2MjY4MjAsODY2MzAzNTI2LDE2Mz
-Q1NTcyNzgsMTA3ODkwNDc5NSwxMDc4ODgzMDQ4LDk4MTkxNTI3
-NywxMTM3MDQxNTU2LC0xNDAxODU4MzY2LDE0MTIzMTQ4MDcsLT
-IwMzk5MzAzODIsLTMxNzU2MzU0NywtMTkyODQ5MDgwMSwtMTQ3
-NTUxMTYyNSwtMjMyMjg2NjMsODQ4NjUwOTMxLC0xMjUzNjA1ND
-UzLC01MzY4NzYzODgsNTE3MTc3MDcyLDY2MjU0MzQ5NywtNzc1
-ODk3NDY0XX0=
+eyJoaXN0b3J5IjpbLTcwNTU0MzExNSwtMTcxMzYyNjgyMCw4Nj
+YzMDM1MjYsMTYzNDU1NzI3OCwxMDc4OTA0Nzk1LDEwNzg4ODMw
+NDgsOTgxOTE1Mjc3LDExMzcwNDE1NTYsLTE0MDE4NTgzNjYsMT
+QxMjMxNDgwNywtMjAzOTkzMDM4MiwtMzE3NTYzNTQ3LC0xOTI4
+NDkwODAxLC0xNDc1NTExNjI1LC0yMzIyODY2Myw4NDg2NTA5Mz
+EsLTEyNTM2MDU0NTMsLTUzNjg3NjM4OCw1MTcxNzcwNzIsNjYy
+NTQzNDk3XX0=
 -->
