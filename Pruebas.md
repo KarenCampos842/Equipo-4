@@ -184,13 +184,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 <br>
 
 ***Formato 1: Perfil de trabajador***
-**Objetivos** 
-1.  Los trabajadores pueden aceptar, rechazar y cancelar un trabajo/contrato.
-2.  Los trabajadores pueden visualizar calificaciones y comentarios de clientes. 
-3. Los trabajadores pueden comunicarse con sus clientes mediante un chat y eliminarlo si así desean.
-4. Los trabajadores pueden calificar a sus clientes.
-5. Los trabajadores pueden  editar su perfil y cancelar su membresía.
-6. La aplicación es intuitiva y agradable para los usuarios (aplica para clientes y trabajadores).
 
 <table align=center>  
    <tr>  
@@ -300,6 +293,131 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
  <br>
   <br>
  
+ **Objetivos** 
+1.  Los trabajadores pueden aceptar, rechazar y cancelar un trabajo/contrato.
+2.  Los trabajadores pueden visualizar calificaciones y comentarios de clientes. 
+3. Los trabajadores pueden comunicarse con sus clientes mediante un chat y eliminarlo si así desean.
+4. Los trabajadores pueden calificar a sus clientes.
+5. Los trabajadores pueden  editar su perfil y cancelar su membresía.
+6. La aplicación es intuitiva y agradable para los usuarios (aplica para clientes y trabajadores).
+
+**Correspondencia entre los objetivos, indicadores y  requisitos**
+
+<table align=center>  
+   <tr>  
+      <th colspan=2>Objetivo 1</th>  
+     </tr>
+     <tr>  
+      <th>Indicador</th>
+      <th>Requisito</th>    
+     </tr>
+     <tr>  
+      <td>Tarea 1 Completada</td>
+      <td>
+      <li>RF-1. Perfiles. </li>
+      <li>RF-3. Registro del trabajador.</li>
+      <li>RF-5. Creación de contraseña.</li>
+      <li>RF-9. Creación del perfil de trabajador.</li>
+      <li>RF-10. Inicio de sesión.</li>
+      </td>    
+     </tr>
+     <tr>
+     <td>Tarea 4 Completada</td>
+      <td>
+      <li>RF-15. Contratación del servicio.</li>
+      </td>    
+     </tr>
+      <tr>
+     <td>Tarea 7 Completada</td>
+      <td>
+      <li>RF-19. Cancelación del servicio.</li>
+      </td>    
+     </tr>
+      <tr>  
+      <th colspan=2>Objetivo 2</th>  
+     </tr>
+     <tr>  
+      <td>Tarea 2 Completada</td>
+      <td>
+      <li>RF-9. Creación del perfil de trabajador. </li>
+      </td>    
+     </tr>
+     <tr>  
+      <th colspan=2>Objetivo 3</th>  
+     </tr>
+     <tr>  
+      <td>Tarea 5 Completada</td>
+      <td>
+      <li>RF-14. Chat.</li>
+      </td>    
+     </tr>
+      <tr>  
+      <td>Tarea 7 Completada</td>
+      <td>
+      <li>RF-14. Chat.</li>
+      </td>    
+     </tr>
+       <tr>  
+      <th colspan=2>Objetivo 4</th>  
+     </tr>
+     <tr>  
+      <td>Tarea 6 Completada</td>
+      <td>
+      <li>RF-16. Calificación del cliente.</li>
+      </td>    
+     </tr>
+      <tr>  
+      <th colspan=2>Objetivo 5</th>  
+     </tr>
+     <tr>  
+      <td>Tarea 3 Completada</td>
+      <td>
+      <li>RF-22. Modificación de perfil.</li>
+      </td>    
+     </tr>
+      <tr>  
+      <td>Tarea 8 Completada</td>
+      <td>
+      <li>RF-20. Cancelación de la cuenta por parte del trabajador.</li>
+      </td>    
+     </tr>
+      <tr>  
+      <th colspan=2>Objetivo 6</th>  
+     </tr>
+     <tr>  
+      <td>Máximo 1 error por tarea.</td>
+      <td rowspan=4>
+    RNF-27. El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios.
+      </td>    
+     </tr>
+      <tr>  
+      <td>Tareas 1 al 8 completadas en el tiempo esperado</td>
+     </tr>
+      <tr>  
+      <td>Un promedio de máximo 2 para la pregunta:  Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</td>
+     </tr>
+      <tr>  
+      <td><b>Cuestionario de satisfacción</b><br>
+      <em>El promedio de la opción Totalmente de acuerdo o de acuerdo es el mayor:</em>
+      <li>"Me gustaría utilizar este sistema más a menudo". </li>
+      <li>"Creo que el sistema es sencillo y fácil de usar".</li>
+      <li>"Creo que el sistema funciona bien y está bien integrado".</li>
+      <li> "Creo que la mayoría de la gente puede aprender este sistema rápidamente".</li>
+       <li>"Me siento seguro al utilizar este sistema".</li>
+       <br>
+       <em>El promedio de la opción En desacuerdo o Muy en desacuerdo es el mayor:</em>
+          <li>"Me parece que este sistema es más complicado de lo que debería ser". </li>
+           <li>"Necesito apoyo técnico para utilizar este sistema.". </li>
+           <li>"Creo que hay muchas irregularidades en el sistema".</li>
+          <li>"Creo que este sistema requiere mucho tiempo".</li>
+          <li>"Creo que hay muchas cosas que aprender antes de poder empezar a utilizar este sistema".</li>
+      </td>
+     </tr>  
+ </table>     
+
+<br>
+<br>
+
   ***Formato 2: Perfil de cliente***
 
  <table align=center>  
@@ -431,7 +549,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzc3MjAwMCw2MzUyNDEwMzcsLTE0NT
+eyJoaXN0b3J5IjpbMTQ2ODc0NTE3NSw2MzUyNDEwMzcsLTE0NT
 UxNDQ4MDksMTAwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMTc2NTk0
 NiwxNDA1ODYwNTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5NDEsLT
 M4NTc2OTgyOSwxNTgzOTk1NzUsLTEwMTc3MjE4MTksLTcyMjc2
