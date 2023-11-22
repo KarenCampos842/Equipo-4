@@ -150,13 +150,16 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 6</th>  
      </tr>
      <tr>  
-      <td>Máximo de 1 error por tarea.</td>
-      <td rowspan=3>
+      <td>Máximo 1 error por tarea.</td>
+      <td rowspan=4>
     RNF-27. El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios.
       </td>    
      </tr>
       <tr>  
-      <td>Tareas 1-8 completadas en el tiempo esperado</td>
+      <td>Tareas 1 al 8 completadas en el tiempo esperado</td>
+     </tr>
+      <tr>  
+      <td>Un promedio de máximo 2 para la pregunta:  Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</td>
      </tr>
       <tr>  
       <td>Un promedio de máximo 2 para la pregunta:  Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</td>
@@ -408,11 +411,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzOTMzODQzLDYzNTI0MTAzNywtMTQ1NT
-E0NDgwOSwxMDA1NjkyMzI0LC02NTYxMDc1MDgsMjMxNzY1OTQ2
-LDE0MDU4NjA1ODgsLTEyODE4Mjc5MzIsMTQyNjM5NTk0MSwtMz
-g1NzY5ODI5LDE1ODM5OTU3NSwtMTAxNzcyMTgxOSwtNzIyNzYy
-MTQwLC0xNzYwNTgyNDI4LC0yNTc3OTk4NTcsLTE2NDY2ODE4Mj
-QsNDg1NjEwNzg2LDQ1NjU3ODg0OSwtMTcxMzYyNjgyMCw4NjYz
-MDM1MjZdfQ==
+eyJoaXN0b3J5IjpbMTUwNjQ2NTcxNCw2MzUyNDEwMzcsLTE0NT
+UxNDQ4MDksMTAwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMTc2NTk0
+NiwxNDA1ODYwNTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5NDEsLT
+M4NTc2OTgyOSwxNTgzOTk1NzUsLTEwMTc3MjE4MTksLTcyMjc2
+MjE0MCwtMTc2MDU4MjQyOCwtMjU3Nzk5ODU3LC0xNjQ2NjgxOD
+I0LDQ4NTYxMDc4Niw0NTY1Nzg4NDksLTE3MTM2MjY4MjAsODY2
+MzAzNTI2XX0=
 -->
