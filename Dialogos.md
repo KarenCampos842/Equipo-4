@@ -2,13 +2,13 @@
 <h1>Diálogos</h1>
 
   **Sketch (cliente)** 
-   **Traducción** 
+
  
   **Sketch (trabajador)** 
-     **Traducción** 
+
  
   **Diálogo proceso**
-   **Traducción** 
+
  
  **Diálogo producto (2 min)** 
    **Traducción** 
@@ -21,5 +21,5 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzI5MzkwOV19
+eyJoaXN0b3J5IjpbMTg0MTE4MjUzM119
 -->
