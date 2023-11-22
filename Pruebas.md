@@ -9,7 +9,7 @@ Para aplicar la prueba realizar lo siguiente:
 3. Explicar brevemente en qué consistirá la prueba (la persona responsable de aplicar la prueba deberá proporcionar el prototipo a la persona). 
 **Guion**
 A continuación te presentaré el prototipo de la aplicación para celular llamada WorkFlash. 
-Podrás interactuar con el prototipo y realizar actividades específicas que te indicaré en su momento. En la medida de lo posible, intenta completar las actividades sin solicitar ayuda
+Podrás interactuar con el prototipo y realizar actividades específicas que te indicaré en su momento. En la medida de lo posible, intenta completar las actividades sin solicitar ayuda, en su lugar, intenta descubrir cómo utilizar la aplicación. 
 4. Realizar una demostración con el log in (es importante mencionar que para interactuar con los campos para escribir, como la contraseña, es necesario realizar clic sobre el rectángulo hasta que aparezca el texto deseado, una contraseña en este ejemplo). 
 5.  Proporcionar un escenario en el que se utilizará la aplicación: 
 **Para el perfil de trabajador** 
@@ -291,11 +291,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MTk4MTcsLTEwMTc3MjE4MTksLTcyMj
-c2MjE0MCwtMTc2MDU4MjQyOCwtMjU3Nzk5ODU3LC0xNjQ2Njgx
-ODI0LDQ4NTYxMDc4Niw0NTY1Nzg4NDksLTE3MTM2MjY4MjAsOD
-Y2MzAzNTI2LDE2MzQ1NTcyNzgsMTA3ODkwNDc5NSwxMDc4ODgz
-MDQ4LDk4MTkxNTI3NywxMTM3MDQxNTU2LC0xNDAxODU4MzY2LD
-E0MTIzMTQ4MDcsLTIwMzk5MzAzODIsLTMxNzU2MzU0NywtMTky
-ODQ5MDgwMV19
+eyJoaXN0b3J5IjpbMTI1ODExNjI1MywtMTAxNzcyMTgxOSwtNz
+IyNzYyMTQwLC0xNzYwNTgyNDI4LC0yNTc3OTk4NTcsLTE2NDY2
+ODE4MjQsNDg1NjEwNzg2LDQ1NjU3ODg0OSwtMTcxMzYyNjgyMC
+w4NjYzMDM1MjYsMTYzNDU1NzI3OCwxMDc4OTA0Nzk1LDEwNzg4
+ODMwNDgsOTgxOTE1Mjc3LDExMzcwNDE1NTYsLTE0MDE4NTgzNj
+YsMTQxMjMxNDgwNywtMjAzOTkzMDM4MiwtMzE3NTYzNTQ3LC0x
+OTI4NDkwODAxXX0=
 -->
