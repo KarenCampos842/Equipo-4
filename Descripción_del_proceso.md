@@ -130,7 +130,7 @@ Marcar como "closed" sus issues asignados cuando finalicen una actividad.
 
 
 **Actividades**
- - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad (eliminar aquellos que no se puedan probar con lo que se cuenta hasta el momento). Modificar la priorización de los requerimientos. 
+ - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad (eliminar aquellos que no se puedan probar con lo que se cuenta hasta el momento)de . Modificar la priorización de los requerimientos. 
  - **Refinamiento de artefactos:** Modificar los casos de uso (incluir excepciones). 
   
 Utilizar como guía este ejemplo de <a href="https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416">caso de uso</a> [^3]  
@@ -328,11 +328,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODI0NzI0NiwtMjAwNTgxMzQxNSwtMT
-IxMjA1MjI3NCwtMTkzNDIzMDE1LC0yMTAyNTYyNzM5LDg5MTI1
-ODMxLC0xMTY2ODQ5MzE2LDIwNzA5MDM5NSwxNzgxNzE1NTExLD
-g3NDc2MjEwNSwtNDI3NjM0ODcxLDEwNDIwMDUzMzMsMTg0Njc0
-OTk3NSwtMjgzMjA4MTM4LC03NjUyNjQ2MTUsMTk3MzM0MTM1OS
-w5Mjk5NTUzNSwtMTUzMDQ5MDQ1NCwtMTQ3OTcxOTI1NCw2MTM1
-MTk4ODRdfQ==
+eyJoaXN0b3J5IjpbLTE4ODA4OTU2OTksMTUzODI0NzI0NiwtMj
+AwNTgxMzQxNSwtMTIxMjA1MjI3NCwtMTkzNDIzMDE1LC0yMTAy
+NTYyNzM5LDg5MTI1ODMxLC0xMTY2ODQ5MzE2LDIwNzA5MDM5NS
+wxNzgxNzE1NTExLDg3NDc2MjEwNSwtNDI3NjM0ODcxLDEwNDIw
+MDUzMzMsMTg0Njc0OTk3NSwtMjgzMjA4MTM4LC03NjUyNjQ2MT
+UsMTk3MzM0MTM1OSw5Mjk5NTUzNSwtMTUzMDQ5MDQ1NCwtMTQ3
+OTcxOTI1NF19
 -->
