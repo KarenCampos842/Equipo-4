@@ -62,7 +62,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 1.  Los trabajadores pueden aceptar, rechazar y cancelar un trabajo/contrato.
 2.  Los trabajadores pueden visualizar calificaciones y comentarios de clientes. 
 3. Los trabajadores pueden comunicarse con sus clientes mediante un chat y eliminarlo si así desean.
-4. Los trabajadores pueden calificar y reportar a sus clientes.
+4. Los trabajadores pueden calificar a sus clientes.
 5. Los trabajadores pueden  editar su perfil y cancelar su membresía.
 6. La aplicación es intuitiva. 
 
@@ -93,7 +93,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       </td>    
      </tr>
       <tr>
-     <td>Tarea 8 Completada</td>
+     <td>Tarea 7 Completada</td>
       <td>
       <li>RF-19. Cancelación del servicio.</li>
       </td>    
@@ -131,12 +131,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <li>RF-16. Calificación del cliente.</li>
       </td>    
      </tr>
-      <tr>  
-      <td>Tarea 7 Completada</td>
-      <td>
-      <li>RF-14. Chat.</li>
-      </td>    
-     </tr>
+
      
  </table>     
 
@@ -384,11 +379,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1MjQxMDM3LC0xNDU1MTQ0ODA5LDEwMD
-U2OTIzMjQsLTY1NjEwNzUwOCwyMzE3NjU5NDYsMTQwNTg2MDU4
-OCwtMTI4MTgyNzkzMiwxNDI2Mzk1OTQxLC0zODU3Njk4MjksMT
-U4Mzk5NTc1LC0xMDE3NzIxODE5LC03MjI3NjIxNDAsLTE3NjA1
-ODI0MjgsLTI1Nzc5OTg1NywtMTY0NjY4MTgyNCw0ODU2MTA3OD
-YsNDU2NTc4ODQ5LC0xNzEzNjI2ODIwLDg2NjMwMzUyNiwxNjM0
-NTU3Mjc4XX0=
+eyJoaXN0b3J5IjpbNDI4NjIzMjY0LDYzNTI0MTAzNywtMTQ1NT
+E0NDgwOSwxMDA1NjkyMzI0LC02NTYxMDc1MDgsMjMxNzY1OTQ2
+LDE0MDU4NjA1ODgsLTEyODE4Mjc5MzIsMTQyNjM5NTk0MSwtMz
+g1NzY5ODI5LDE1ODM5OTU3NSwtMTAxNzcyMTgxOSwtNzIyNzYy
+MTQwLC0xNzYwNTgyNDI4LC0yNTc3OTk4NTcsLTE2NDY2ODE4Mj
+QsNDg1NjEwNzg2LDQ1NjU3ODg0OSwtMTcxMzYyNjgyMCw4NjYz
+MDM1MjZdfQ==
 -->
