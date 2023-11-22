@@ -63,7 +63,8 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 2.  Los trabajadores pueden visualizar calificaciones y comentarios de clientes. 
 3. Los trabajadores pueden comunicarse con sus clientes.
 4. Los trabajadores pueden  editar su perfil y cancelar su membresía.
-5. La aplicación es intuitiva. 
+5. Los trabajadores pueden calificar y reportar a sus clientes.
+6. La aplicación es intuitiva. 
 
 **Correspondencia entre los objetivos, indicadores y  requisitos**
 
@@ -359,11 +360,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODg4ODIxMDgsMTAwNTY5MjMyNCwtNj
-U2MTA3NTA4LDIzMTc2NTk0NiwxNDA1ODYwNTg4LC0xMjgxODI3
-OTMyLDE0MjYzOTU5NDEsLTM4NTc2OTgyOSwxNTgzOTk1NzUsLT
-EwMTc3MjE4MTksLTcyMjc2MjE0MCwtMTc2MDU4MjQyOCwtMjU3
-Nzk5ODU3LC0xNjQ2NjgxODI0LDQ4NTYxMDc4Niw0NTY1Nzg4ND
-ksLTE3MTM2MjY4MjAsODY2MzAzNTI2LDE2MzQ1NTcyNzgsMTA3
-ODkwNDc5NV19
+eyJoaXN0b3J5IjpbMjU4MjQzOTEyLDEwMDU2OTIzMjQsLTY1Nj
+EwNzUwOCwyMzE3NjU5NDYsMTQwNTg2MDU4OCwtMTI4MTgyNzkz
+MiwxNDI2Mzk1OTQxLC0zODU3Njk4MjksMTU4Mzk5NTc1LC0xMD
+E3NzIxODE5LC03MjI3NjIxNDAsLTE3NjA1ODI0MjgsLTI1Nzc5
+OTg1NywtMTY0NjY4MTgyNCw0ODU2MTA3ODYsNDU2NTc4ODQ5LC
+0xNzEzNjI2ODIwLDg2NjMwMzUyNiwxNjM0NTU3Mjc4LDEwNzg5
+MDQ3OTVdfQ==
 -->
