@@ -3,9 +3,18 @@
 ### Protocolo
 Para las pruebas se reclutarán a 12 personas en total. 6 con el perfil de cliente y 6 con el perfil de trabajador. 
 
-**Durante el reclutamiento** 
-Presentarse como estudiantes de la Licenciatura en Ingeniería de Software (UADY). 
-Solicitar ayuda oar
+** Reclutamiento** 
+
+ 1. Localizar a la persona que cumpla con el perfil: 
+
+| Trabajador |  Cliente|
+|--|--|
+| x | x |
+
+
+2. Presentarse como estudiantes de la Licenciatura en Ingeniería de Software (UADY). 
+3. 3.
+
 
 **Materiales** 
 
@@ -16,26 +25,26 @@ Solicitar ayuda oar
 
 
 Para aplicar la prueba realizar lo siguiente: 
-1. Acudir a la cita con la persona. 
-2. Salude a la persona y agradezca su participación. 
-3. Explicar brevemente en qué consistirá la prueba (la persona responsable de aplicar la prueba deberá proporcionar el prototipo a la persona). 
+5. Acudir a la cita con la persona. 
+6. Salude a la persona y agradezca su participación. 
+7. Explicar brevemente en qué consistirá la prueba (la persona responsable de aplicar la prueba deberá proporcionar el prototipo a la persona). 
 **Guion**
 A continuación te presentaré el prototipo de la aplicación para celular llamada WorkFlash. 
 Podrás interactuar con el prototipo y realizar actividades específicas que te indicaré en su momento. En la medida de lo posible, completa las actividades sin solicitar ayuda, en su lugar, intenta descubrir cómo utilizar la aplicación. 
-4. Realizar una demostración con el log in (es importante mencionar que para interactuar con los campos para escribir, como la contraseña, es necesario realizar clic sobre el rectángulo hasta que aparezca el texto deseado, una contraseña en este ejemplo). 
-5.  Proporcionar un escenario en el que se utilizará la aplicación: 
+8. Realizar una demostración con el log in (es importante mencionar que para interactuar con los campos para escribir, como la contraseña, es necesario realizar clic sobre el rectángulo hasta que aparezca el texto deseado, una contraseña en este ejemplo). 
+9.  Proporcionar un escenario en el que se utilizará la aplicación: 
 **Para el perfil de trabajador** 
 El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres mecánico y quieres usar WorkFlash para darte a conocer y atraer más clientes. 
-6. Aplicar la prueba utilizando el formato 1 (trabajador) o el formato 2 (cliente). 
+10. Aplicar la prueba utilizando el formato 1 (trabajador) o el formato 2 (cliente). 
 - Solicitar al participante realizar la primera tarea.
 -  Activar el cronómetro (detener el cronómetro cuando el participante haya finalizado la tarea) y anotar el tiempo. En caso de que el participante no haya logrado completar la tarea, el tiempo se detendrá hasta que el participante externe no poder realizar la actividad. 
 - Contar y anotar el número de errores que cometió el participante durante la tarea. Igualmente, anotar en el formato cual fue el error. 
 - Marcar como Completada la tarea o No completada, según sea el caso. 
 - Realizar la siguiente pregunta al participante y anotar la respuesta: Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?
 - Repetir el proceso hasta terminar con las tareas. 
-7.  Anotar comentarios/observaciones del participante sobre la aplicación (preguntar directamente si es necesario). 
-8. Proporcionar el ***Cuestionario de satisfacción*** al participante para su resolución. 
-9. Agradecer a la persona su participación y despedirse. 
+11.  Anotar comentarios/observaciones del participante sobre la aplicación (preguntar directamente si es necesario). 
+12. Proporcionar el ***Cuestionario de satisfacción*** al participante para su resolución. 
+13. Agradecer a la persona su participación y despedirse. 
 
 ***Nota:*** Al finalizar con la prueba, el formato que se haya utilizado (1 o 2), ya resuelto, deberá localizarse en el apartado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#aplicaci%C3%B3n-de-las-pruebas">Aplicación de las pruebas</a>
 
@@ -300,11 +309,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4NTkxOTQ1LDE0MDU4NjA1ODgsLTEyOD
-E4Mjc5MzIsMTQyNjM5NTk0MSwtMzg1NzY5ODI5LDE1ODM5OTU3
-NSwtMTAxNzcyMTgxOSwtNzIyNzYyMTQwLC0xNzYwNTgyNDI4LC
-0yNTc3OTk4NTcsLTE2NDY2ODE4MjQsNDg1NjEwNzg2LDQ1NjU3
-ODg0OSwtMTcxMzYyNjgyMCw4NjYzMDM1MjYsMTYzNDU1NzI3OC
-wxMDc4OTA0Nzk1LDEwNzg4ODMwNDgsOTgxOTE1Mjc3LDExMzcw
-NDE1NTZdfQ==
+eyJoaXN0b3J5IjpbMTc5MzQwNTI3OSwxNDA1ODYwNTg4LC0xMj
+gxODI3OTMyLDE0MjYzOTU5NDEsLTM4NTc2OTgyOSwxNTgzOTk1
+NzUsLTEwMTc3MjE4MTksLTcyMjc2MjE0MCwtMTc2MDU4MjQyOC
+wtMjU3Nzk5ODU3LC0xNjQ2NjgxODI0LDQ4NTYxMDc4Niw0NTY1
+Nzg4NDksLTE3MTM2MjY4MjAsODY2MzAzNTI2LDE2MzQ1NTcyNz
+gsMTA3ODkwNDc5NSwxMDc4ODgzMDQ4LDk4MTkxNTI3NywxMTM3
+MDQxNTU2XX0=
 -->
