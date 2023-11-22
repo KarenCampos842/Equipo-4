@@ -152,14 +152,14 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
      <tr>  
       <td>Máximo de 1 error por tarea.</td>
       <td rowspan=3>
-    RNF-27. El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios (colocando imágenes fáciles de entender y simbología básica).
+    RNF-27. El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios.
       </td>    
      </tr>
       <tr>  
       <td>Tareas 1-8 completadas en el tiempo esperado</td>
      </tr>
       <tr>  
-      <td>Tareas 1-8 completadas en el tiempo esperado</td>
+      <td>Promedio Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</td>
      </tr>
      
  </table>     
@@ -408,7 +408,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTM0NzY0NSw2MzUyNDEwMzcsLTE0NT
+eyJoaXN0b3J5IjpbLTQ4NTc2OTU4Nyw2MzUyNDEwMzcsLTE0NT
 UxNDQ4MDksMTAwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMTc2NTk0
 NiwxNDA1ODYwNTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5NDEsLT
 M4NTc2OTgyOSwxNTgzOTk1NzUsLTEwMTc3MjE4MTksLTcyMjc2
