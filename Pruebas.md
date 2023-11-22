@@ -47,7 +47,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 4. Los trabajadores pueden  cancelar su membresía.
 5. La aplicación es intuitiva. 
 
-
 ***Formato 1: Perfil de trabajador***
 
 <table align=center>  
@@ -296,7 +295,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5MzA3OTMwLDE0MDU4NjA1ODgsLTEyOD
+eyJoaXN0b3J5IjpbMjMzODQyMjg0LDE0MDU4NjA1ODgsLTEyOD
 E4Mjc5MzIsMTQyNjM5NTk0MSwtMzg1NzY5ODI5LDE1ODM5OTU3
 NSwtMTAxNzcyMTgxOSwtNzIyNzYyMTQwLC0xNzYwNTgyNDI4LC
 0yNTc3OTk4NTcsLTE2NDY2ODE4MjQsNDg1NjEwNzg2LDQ1NjU3
