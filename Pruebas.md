@@ -5,7 +5,11 @@ Para las pruebas se reclutarán a 12 personas en total. 6 con el perfil de clien
 
 
 **Materiales** 
-Formato 1 o 2 localizados al final del apartado de Protocolo (impreso o digital). 
+
+ - Formato 1 o 2 localizados al final del apartado de Protocolo (impreso o digital). 
+ - Computadora con el prototipo de la aplicación abierto. 
+ - Cronómetro o celular. 
+ - Cuestionario 
 
 
 Para aplicar la prueba realizar lo siguiente: 
@@ -298,11 +302,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjUxNzYzMiwtMTAxNzcyMTgxOSwtNz
-IyNzYyMTQwLC0xNzYwNTgyNDI4LC0yNTc3OTk4NTcsLTE2NDY2
-ODE4MjQsNDg1NjEwNzg2LDQ1NjU3ODg0OSwtMTcxMzYyNjgyMC
-w4NjYzMDM1MjYsMTYzNDU1NzI3OCwxMDc4OTA0Nzk1LDEwNzg4
-ODMwNDgsOTgxOTE1Mjc3LDExMzcwNDE1NTYsLTE0MDE4NTgzNj
-YsMTQxMjMxNDgwNywtMjAzOTkzMDM4MiwtMzE3NTYzNTQ3LC0x
-OTI4NDkwODAxXX0=
+eyJoaXN0b3J5IjpbMTU4Mzk5NTc1LC0xMDE3NzIxODE5LC03Mj
+I3NjIxNDAsLTE3NjA1ODI0MjgsLTI1Nzc5OTg1NywtMTY0NjY4
+MTgyNCw0ODU2MTA3ODYsNDU2NTc4ODQ5LC0xNzEzNjI2ODIwLD
+g2NjMwMzUyNiwxNjM0NTU3Mjc4LDEwNzg5MDQ3OTUsMTA3ODg4
+MzA0OCw5ODE5MTUyNzcsMTEzNzA0MTU1NiwtMTQwMTg1ODM2Ni
+wxNDEyMzE0ODA3LC0yMDM5OTMwMzgyLC0zMTc1NjM1NDcsLTE5
+Mjg0OTA4MDFdfQ==
 -->
