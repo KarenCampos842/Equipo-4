@@ -10,9 +10,10 @@ Para aplicar la prueba realizar lo siguiente:
 **Guion**
 A continuación te presentaré el prototipo de una aplicación para celular llamada WorkFlash. 
 Podrás interactuar con el prototipo y realizar actividades específicas que te indicaré en su momento. 
-**Para el perfil de trabajador** 
+4.  Proporc
+5. **Para el perfil de trabajador** 
 El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres mecánico y quieres usar WorkFlash para darte a conocer y atraer más clientes. 
-(
+
 
 ### Pruebas
 
@@ -280,7 +281,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Mjc4ODY4OCwtNzIyNzYyMTQwLC0xNz
+eyJoaXN0b3J5IjpbMTI5OTM0MDgwOCwtNzIyNzYyMTQwLC0xNz
 YwNTgyNDI4LC0yNTc3OTk4NTcsLTE2NDY2ODE4MjQsNDg1NjEw
 Nzg2LDQ1NjU3ODg0OSwtMTcxMzYyNjgyMCw4NjYzMDM1MjYsMT
 YzNDU1NzI3OCwxMDc4OTA0Nzk1LDEwNzg4ODMwNDgsOTgxOTE1
