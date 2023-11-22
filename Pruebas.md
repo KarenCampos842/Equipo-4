@@ -85,6 +85,13 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <li>RF-10. Inicio de sesión.</li>
       </td>    
      </tr>
+     <tr>
+     <td>Tarea 4 Completada</td>
+      <td>
+      <li>RF-15. Contratación del servicio.</li>
+      </td>    
+     </tr>
+      <tr>
      <td>Tarea 4 Completada</td>
       <td>
       <li>RF-15. Contratación del servicio.</li>
@@ -357,7 +364,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODM2OTMzNTksMTAwNTY5MjMyNCwtNj
+eyJoaXN0b3J5IjpbLTE4ODg3MTcxMDksMTAwNTY5MjMyNCwtNj
 U2MTA3NTA4LDIzMTc2NTk0NiwxNDA1ODYwNTg4LC0xMjgxODI3
 OTMyLDE0MjYzOTU5NDEsLTM4NTc2OTgyOSwxNTgzOTk1NzUsLT
 EwMTc3MjE4MTksLTcyMjc2MjE0MCwtMTc2MDU4MjQyOCwtMjU3
