@@ -15,8 +15,8 @@ Podrás interactuar con el prototipo y realizar actividades específicas que te 
 **Para el perfil de trabajador** 
 El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres mecánico y quieres usar WorkFlash para darte a conocer y atraer más clientes. 
 6. Aplicar la prueba utilizando el formato 1 (trabajador) o el formato 2 (cliente). 
-7.  Solicitar al participante realizar la primera tarea.
-8. 
+- Solicitar al participante realizar la primera tarea.
+-  Activar el cronómetro (detener el cronómetro cuando 
 
 ### Pruebas
 
@@ -284,11 +284,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxMDkyMjE0LC03MjI3NjIxNDAsLTE3Nj
-A1ODI0MjgsLTI1Nzc5OTg1NywtMTY0NjY4MTgyNCw0ODU2MTA3
-ODYsNDU2NTc4ODQ5LC0xNzEzNjI2ODIwLDg2NjMwMzUyNiwxNj
-M0NTU3Mjc4LDEwNzg5MDQ3OTUsMTA3ODg4MzA0OCw5ODE5MTUy
-NzcsMTEzNzA0MTU1NiwtMTQwMTg1ODM2NiwxNDEyMzE0ODA3LC
-0yMDM5OTMwMzgyLC0zMTc1NjM1NDcsLTE5Mjg0OTA4MDEsLTE0
-NzU1MTE2MjVdfQ==
+eyJoaXN0b3J5IjpbLTU5NjE4MDQxMiwtNzIyNzYyMTQwLC0xNz
+YwNTgyNDI4LC0yNTc3OTk4NTcsLTE2NDY2ODE4MjQsNDg1NjEw
+Nzg2LDQ1NjU3ODg0OSwtMTcxMzYyNjgyMCw4NjYzMDM1MjYsMT
+YzNDU1NzI3OCwxMDc4OTA0Nzk1LDEwNzg4ODMwNDgsOTgxOTE1
+Mjc3LDExMzcwNDE1NTYsLTE0MDE4NTgzNjYsMTQxMjMxNDgwNy
+wtMjAzOTkzMDM4MiwtMzE3NTYzNTQ3LC0xOTI4NDkwODAxLC0x
+NDc1NTExNjI1XX0=
 -->
