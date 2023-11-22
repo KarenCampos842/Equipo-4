@@ -163,10 +163,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
      </tr>
       <tr>  
       <td><b>Cuestionario de satisfacción</b><br>
-      <em>El promedio de la opción Totalmente de acuerdo o de acuerdo es el mayor:<
+      <em>El promedio de la opción Totalmente de acuerdo o de acuerdo es el mayor:</em>
       <li>"Me gustaría utilizar este sistema más a menudo." </li>
-      <li>"Me parece que este sistema es más complicado de lo que debería ser." El promedio de la opción En desacuerdo o Muy en desacuerdo es el mayor.</li>
-      <li>"Creo que el sistema es sencillo y fácil de usar." El promedio de la opción Totalmente de acuerdo o de acuerdo es el mayor.</li>
+      <li>"Creo que el sistema es sencillo y fácil de usar</li>
+       <em>El promedio de la opción En desacuerdo o Muy en desacuerdo es el mayor:</em>
+          <li>"Me parece que este sistema es más complicado de lo que debería ser." </li>
       </td>
      </tr>
      
@@ -416,11 +417,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM2MTYxOTgsNjM1MjQxMDM3LC0xND
-U1MTQ0ODA5LDEwMDU2OTIzMjQsLTY1NjEwNzUwOCwyMzE3NjU5
-NDYsMTQwNTg2MDU4OCwtMTI4MTgyNzkzMiwxNDI2Mzk1OTQxLC
-0zODU3Njk4MjksMTU4Mzk5NTc1LC0xMDE3NzIxODE5LC03MjI3
-NjIxNDAsLTE3NjA1ODI0MjgsLTI1Nzc5OTg1NywtMTY0NjY4MT
-gyNCw0ODU2MTA3ODYsNDU2NTc4ODQ5LC0xNzEzNjI2ODIwLDg2
-NjMwMzUyNl19
+eyJoaXN0b3J5IjpbNzI0NDA2MjczLDYzNTI0MTAzNywtMTQ1NT
+E0NDgwOSwxMDA1NjkyMzI0LC02NTYxMDc1MDgsMjMxNzY1OTQ2
+LDE0MDU4NjA1ODgsLTEyODE4Mjc5MzIsMTQyNjM5NTk0MSwtMz
+g1NzY5ODI5LDE1ODM5OTU3NSwtMTAxNzcyMTgxOSwtNzIyNzYy
+MTQwLC0xNzYwNTgyNDI4LC0yNTc3OTk4NTcsLTE2NDY2ODE4Mj
+QsNDg1NjEwNzg2LDQ1NjU3ODg0OSwtMTcxMzYyNjgyMCw4NjYz
+MDM1MjZdfQ==
 -->
