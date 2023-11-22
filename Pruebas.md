@@ -25,7 +25,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 8. Proporcionar el ***cuestionario de satisfacción*** al participante para su resolución. 
 9. Agradecer a la persona su participación y despedirse. 
 
-***Nota:*** Preguntar al participante qué camb
+***Nota:*** El trabajo del responsable de la prueba es 
 
 ### Pruebas
 
@@ -293,11 +293,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA3ODQ5NDYsLTEwMTc3MjE4MTksLT
-cyMjc2MjE0MCwtMTc2MDU4MjQyOCwtMjU3Nzk5ODU3LC0xNjQ2
-NjgxODI0LDQ4NTYxMDc4Niw0NTY1Nzg4NDksLTE3MTM2MjY4Mj
-AsODY2MzAzNTI2LDE2MzQ1NTcyNzgsMTA3ODkwNDc5NSwxMDc4
-ODgzMDQ4LDk4MTkxNTI3NywxMTM3MDQxNTU2LC0xNDAxODU4Mz
-Y2LDE0MTIzMTQ4MDcsLTIwMzk5MzAzODIsLTMxNzU2MzU0Nywt
-MTkyODQ5MDgwMV19
+eyJoaXN0b3J5IjpbLTM3NDIwOTY1NywtMTAxNzcyMTgxOSwtNz
+IyNzYyMTQwLC0xNzYwNTgyNDI4LC0yNTc3OTk4NTcsLTE2NDY2
+ODE4MjQsNDg1NjEwNzg2LDQ1NjU3ODg0OSwtMTcxMzYyNjgyMC
+w4NjYzMDM1MjYsMTYzNDU1NzI3OCwxMDc4OTA0Nzk1LDEwNzg4
+ODMwNDgsOTgxOTE1Mjc3LDExMzcwNDE1NTYsLTE0MDE4NTgzNj
+YsMTQxMjMxNDgwNywtMjAzOTkzMDM4MiwtMzE3NTYzNTQ3LC0x
+OTI4NDkwODAxXX0=
 -->
