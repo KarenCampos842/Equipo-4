@@ -17,6 +17,7 @@ Para las pruebas se reclutarán a 12 personas en total. 6 con el perfil de clien
 **Guion**
 Como parte de un proyecto en la universidad, junto a mi equipo, estoy realizando el diseño de una aplicación y requiero probar el prototipo. 
 La prueba consiste en que el participante realice algunas actividades en la aplicación, responda algunas preguntas respecto a la dificultad de las actividades y conteste un cuestionario de satisfacción. 
+Los datos nos servirán para saber lo que estamos haciendo bien y lo que podemos mejorar en nuestra aplicación. 
 
 **Materiales** 
 
@@ -311,7 +312,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTAyMjg4LDE0MDU4NjA1ODgsLTEyOD
+eyJoaXN0b3J5IjpbNTU5ODA5ODc3LDE0MDU4NjA1ODgsLTEyOD
 E4Mjc5MzIsMTQyNjM5NTk0MSwtMzg1NzY5ODI5LDE1ODM5OTU3
 NSwtMTAxNzcyMTgxOSwtNzIyNzYyMTQwLC0xNzYwNTgyNDI4LC
 0yNTc3OTk4NTcsLTE2NDY2ODE4MjQsNDg1NjEwNzg2LDQ1NjU3
