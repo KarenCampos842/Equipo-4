@@ -62,7 +62,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 1.  Los trabajadores pueden aceptar, rechazar o cancelar un trabajo/contrato.
 2.  Los trabajadores pueden visualizar calificaciones y comentarios de clientes. 
 3. Los trabajadores pueden comunicarse con sus clientes.
-4. Los trabajadores pueden  cancelar su membresía.
+4. Los trabajadores pueden  editar su perfil y cancelar su membresía.
 5. La aplicación es intuitiva. 
 
 **Correspondencia entre los objetivos, indicadores y  requisitos**
@@ -83,6 +83,9 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <li>RF-9. Creación del perfil de trabajador.</li>
       <li>RF-10. Inicio de sesión.</li>
       </td>    
+     </tr>
+      <tr>  
+      <th colspan=2>Objetivo 2</th>  
      </tr>
      <tr>  
       <td>Tarea 2 Completada</td>
@@ -348,11 +351,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1NjI0MzA2LDEwMDU2OTIzMjQsLTY1Nj
-EwNzUwOCwyMzE3NjU5NDYsMTQwNTg2MDU4OCwtMTI4MTgyNzkz
-MiwxNDI2Mzk1OTQxLC0zODU3Njk4MjksMTU4Mzk5NTc1LC0xMD
-E3NzIxODE5LC03MjI3NjIxNDAsLTE3NjA1ODI0MjgsLTI1Nzc5
-OTg1NywtMTY0NjY4MTgyNCw0ODU2MTA3ODYsNDU2NTc4ODQ5LC
-0xNzEzNjI2ODIwLDg2NjMwMzUyNiwxNjM0NTU3Mjc4LDEwNzg5
-MDQ3OTVdfQ==
+eyJoaXN0b3J5IjpbLTE5NTc2NDAyOSwxMDA1NjkyMzI0LC02NT
+YxMDc1MDgsMjMxNzY1OTQ2LDE0MDU4NjA1ODgsLTEyODE4Mjc5
+MzIsMTQyNjM5NTk0MSwtMzg1NzY5ODI5LDE1ODM5OTU3NSwtMT
+AxNzcyMTgxOSwtNzIyNzYyMTQwLC0xNzYwNTgyNDI4LC0yNTc3
+OTk4NTcsLTE2NDY2ODE4MjQsNDg1NjEwNzg2LDQ1NjU3ODg0OS
+wtMTcxMzYyNjgyMCw4NjYzMDM1MjYsMTYzNDU1NzI3OCwxMDc4
+OTA0Nzk1XX0=
 -->
