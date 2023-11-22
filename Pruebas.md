@@ -51,6 +51,7 @@
       <td>Quieres saber que opinan tus clientes de tí. Lee sus comentarios y calificaciones.</td>
        <td>x</td>
        <td>Completada/No completada</td>
+       <td>x</td>
        <td>x min</td>              
    </tr>
     <tr>  
@@ -58,6 +59,7 @@
       <td>Quieres cambiar datos de tu perfil, edítalo.</td>
        <td>x</td>
        <td>Completada/No completada</td>
+       <td>x</td>
        <td>x min</td>              
    </tr>
     <tr>  
@@ -65,6 +67,7 @@
       <td>Se te ha notificado de nuevos trabajos, revisa tus notificaciones, rechaza a Greg Anderson y  acepta a Victoria Robertson. </td>
        <td>x</td>
        <td>Completada/No completada</td>
+       <td>x</td>
        <td>x min</td>              
    </tr>
    <tr>  
@@ -72,6 +75,7 @@
       <td>Revisa tu última conversación con Victoria Robertson. </td>
        <td>x</td>
        <td>Completada/No completada</td>
+       <td>x</td>
        <td>x min</td>              
    </tr>
    <tr>  
@@ -79,6 +83,7 @@
       <td>Ha finalizado tu contrato con Victoria Robertson, califícala.  </td>
        <td>x</td>
        <td>Completada/No completada</td>
+       <td>x</td>
        <td>x min</td>              
    </tr>
    <tr>  
@@ -86,6 +91,7 @@
       <td>Uno de tus clientes no asistió a la reunión que habían programado. Elimina tu chat con Luis Pérez Medina y repórtalo. </td>
        <td>x</td>
        <td>Completada/No completada</td>
+       <td>x</td>
        <td>x min</td>              
    </tr>
    <tr>  
@@ -93,6 +99,7 @@
       <td>Ha surgido un inconveniente y debes de cancelar un trabajo. Cancela tu contrato con Cintia Acosta López.  </td>
        <td>x</td>
        <td>Completada/No completada</td>
+       <td>x</td>
        <td>x min</td>              
    </tr>
     <tr>  
@@ -251,11 +258,11 @@
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTU0MzExNSwtMTcxMzYyNjgyMCw4Nj
-YzMDM1MjYsMTYzNDU1NzI3OCwxMDc4OTA0Nzk1LDEwNzg4ODMw
-NDgsOTgxOTE1Mjc3LDExMzcwNDE1NTYsLTE0MDE4NTgzNjYsMT
-QxMjMxNDgwNywtMjAzOTkzMDM4MiwtMzE3NTYzNTQ3LC0xOTI4
-NDkwODAxLC0xNDc1NTExNjI1LC0yMzIyODY2Myw4NDg2NTA5Mz
-EsLTEyNTM2MDU0NTMsLTUzNjg3NjM4OCw1MTcxNzcwNzIsNjYy
-NTQzNDk3XX0=
+eyJoaXN0b3J5IjpbLTExODYyMDQxMzAsLTE3MTM2MjY4MjAsOD
+Y2MzAzNTI2LDE2MzQ1NTcyNzgsMTA3ODkwNDc5NSwxMDc4ODgz
+MDQ4LDk4MTkxNTI3NywxMTM3MDQxNTU2LC0xNDAxODU4MzY2LD
+E0MTIzMTQ4MDcsLTIwMzk5MzAzODIsLTMxNzU2MzU0NywtMTky
+ODQ5MDgwMSwtMTQ3NTUxMTYyNSwtMjMyMjg2NjMsODQ4NjUwOT
+MxLC0xMjUzNjA1NDUzLC01MzY4NzYzODgsNTE3MTc3MDcyLDY2
+MjU0MzQ5N119
 -->
