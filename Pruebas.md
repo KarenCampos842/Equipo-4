@@ -150,16 +150,13 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 6</th>  
      </tr>
      <tr>  
-      <td>Tarea 3 Completada</td>
-      <td>
+      <td>Máximo de 1 error por tarea.</td>
+      <td ro>
       <li>RF-22. Modificación de perfil.</li>
       </td>    
      </tr>
       <tr>  
       <td>Tareas 1-8 completadas en el tiempo esperado</td>
-      <td>
-      <li>RF-20. Cancelación de la cuenta por parte del trabajador.</li>
-      </td>    
      </tr>
      
  </table>     
@@ -408,7 +405,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDM0NzE3MCw2MzUyNDEwMzcsLTE0NT
+eyJoaXN0b3J5IjpbLTEwMjMyMzU4OSw2MzUyNDEwMzcsLTE0NT
 UxNDQ4MDksMTAwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMTc2NTk0
 NiwxNDA1ODYwNTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5NDEsLT
 M4NTc2OTgyOSwxNTgzOTk1NzUsLTEwMTc3MjE4MTksLTcyMjc2
