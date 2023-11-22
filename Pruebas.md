@@ -34,7 +34,8 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 8. Proporcionar el ***Cuestionario de Satisfacción*** al participante para su resolución. 
 9. Agradecer a la persona su participación y despedirse. 
 
-***Nota:*** Al finalizar con la prueba, el formato que se haya utilizado (1 o 2), ya resuelto, deberá localizarse en el apartado 
+***Nota:*** Al finalizar con la prueba, el formato que se haya utilizado (1 o 2), ya resuelto, deberá localizarse en el apartado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Aplicación de las pruebas</a>
+
 
 ### Pruebas
 
@@ -286,11 +287,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjA4NTY1ODEsLTM4NTc2OTgyOSwxNT
-gzOTk1NzUsLTEwMTc3MjE4MTksLTcyMjc2MjE0MCwtMTc2MDU4
-MjQyOCwtMjU3Nzk5ODU3LC0xNjQ2NjgxODI0LDQ4NTYxMDc4Ni
-w0NTY1Nzg4NDksLTE3MTM2MjY4MjAsODY2MzAzNTI2LDE2MzQ1
-NTcyNzgsMTA3ODkwNDc5NSwxMDc4ODgzMDQ4LDk4MTkxNTI3Ny
-wxMTM3MDQxNTU2LC0xNDAxODU4MzY2LDE0MTIzMTQ4MDcsLTIw
-Mzk5MzAzODJdfQ==
+eyJoaXN0b3J5IjpbMTcxMjUzMDczMSwtMzg1NzY5ODI5LDE1OD
+M5OTU3NSwtMTAxNzcyMTgxOSwtNzIyNzYyMTQwLC0xNzYwNTgy
+NDI4LC0yNTc3OTk4NTcsLTE2NDY2ODE4MjQsNDg1NjEwNzg2LD
+Q1NjU3ODg0OSwtMTcxMzYyNjgyMCw4NjYzMDM1MjYsMTYzNDU1
+NzI3OCwxMDc4OTA0Nzk1LDEwNzg4ODMwNDgsOTgxOTE1Mjc3LD
+ExMzcwNDE1NTYsLTE0MDE4NTgzNjYsMTQxMjMxNDgwNywtMjAz
+OTkzMDM4Ml19
 -->
