@@ -22,9 +22,10 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 - Realizar la siguiente pregunta al participante y anotar la respuesta: Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?
 - Repetir el proceso hasta terminar con las tareas. 
 7.  Anotar comentarios/observaciones del participante sobre la aplicación. 
-8. Proporcionar el ***cuestionario de satisfacción*** al participante para su 
+8. Proporcionar el ***cuestionario de satisfacción*** al participante para su resolución. 
+9. Agradecer a la persona su participación y despedirse. 
 
-***Nota:*** Durante el proceso el responsable de la prueba deberá 
+***Nota:*** Preguntar al participante qué camb
 
 ### Pruebas
 
@@ -292,7 +293,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQwNzI0NjAsLTEwMTc3MjE4MTksLT
+eyJoaXN0b3J5IjpbLTExOTA3ODQ5NDYsLTEwMTc3MjE4MTksLT
 cyMjc2MjE0MCwtMTc2MDU4MjQyOCwtMjU3Nzk5ODU3LC0xNjQ2
 NjgxODI0LDQ4NTYxMDc4Niw0NTY1Nzg4NDksLTE3MTM2MjY4Mj
 AsODY2MzAzNTI2LDE2MzQ1NTcyNzgsMTA3ODkwNDc5NSwxMDc4
