@@ -19,7 +19,6 @@ Como parte de un proyecto en la universidad, junto a mi equipo, estoy realizando
 La aplicación se llama Workflash, una aplicación para celular que pone en contacto a las personas registradas con trabajadores de distintos oficios y ocupaciones cercanos a su ubicación para solicitar su servicio. 
 La prueba consiste en que el participante realice algunas actividades en la aplicación, responda algunas preguntas respecto a la dificultad de las actividades y conteste un cuestionario de satisfacción. Es una prueba de aproximadamente 15 minutos.
 Los datos recabados serán utilizados con propósitos escolares. Nos servirán para saber lo que estamos haciendo bien y lo que podemos mejorar.
-
 ¿Puedo contar con tu participación?
 
 4. Si acepta participar, se deberá agendar una cita para aplicar la prueba de forma presencial. De lo contrario, se buscará otra persona que cumpla el perfil. 
@@ -33,7 +32,7 @@ Los datos recabados serán utilizados con propósitos escolares. Nos servirán p
 
 
 Para aplicar la prueba realizar lo siguiente: 
-5. Acudir a la cita con la persona. 
+1. Acudir a la cita con la persona. 
 6. Salude a la persona y agradezca su participación. 
 7. Explicar brevemente en qué consistirá la prueba (la persona responsable de aplicar la prueba deberá proporcionar el prototipo a la persona). 
 **Guion**
@@ -50,7 +49,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 - Marcar como Completada la tarea o No completada, según sea el caso. 
 - Realizar la siguiente pregunta al participante y anotar la respuesta: Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?
 - Repetir el proceso hasta terminar con las tareas. 
-11.  Anotar comentarios/observaciones del participante sobre la aplicación (preguntar directamente si es necesario). 
+.  Anotar comentarios/observaciones del participante sobre la aplicación (preguntar directamente si es necesario). 
 12. Proporcionar el ***Cuestionario de satisfacción*** al participante para su resolución. 
 13. Agradecer a la persona su participación y despedirse. 
 
@@ -317,7 +316,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjAzNDc2MCwxNDA1ODYwNTg4LC0xMj
+eyJoaXN0b3J5IjpbMTAzNTI2OTMzOCwxNDA1ODYwNTg4LC0xMj
 gxODI3OTMyLDE0MjYzOTU5NDEsLTM4NTc2OTgyOSwxNTgzOTk1
 NzUsLTEwMTc3MjE4MTksLTcyMjc2MjE0MCwtMTc2MDU4MjQyOC
 wtMjU3Nzk5ODU3LC0xNjQ2NjgxODI0LDQ4NTYxMDc4Niw0NTY1
