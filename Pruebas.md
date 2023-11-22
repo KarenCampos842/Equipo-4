@@ -164,9 +164,10 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <tr>  
       <td><b>Cuestionario de satisfacción</b><br>
       <em>El promedio de la opción Totalmente de acuerdo o de acuerdo es el mayor:</em>
-      <li>"Me gustaría utilizar este sistema más a menudo." </li>
-      <li>"Creo que el sistema es sencillo y fácil de usar</li>
-       
+      <li>"Me gustaría utilizar este sistema más a menudo". </li>
+      <li>"Creo que el sistema es sencillo y fácil de usar".</li>
+      <li>"Creo que el sistema funciona bien y está bien integrado".</li>
+       <br>
        <em>El promedio de la opción En desacuerdo o Muy en desacuerdo es el mayor:</em>
           <li>"Me parece que este sistema es más complicado de lo que debería ser." </li>
       </td>
@@ -418,11 +419,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTkwNjU4MDUsNjM1MjQxMDM3LC0xND
-U1MTQ0ODA5LDEwMDU2OTIzMjQsLTY1NjEwNzUwOCwyMzE3NjU5
-NDYsMTQwNTg2MDU4OCwtMTI4MTgyNzkzMiwxNDI2Mzk1OTQxLC
-0zODU3Njk4MjksMTU4Mzk5NTc1LC0xMDE3NzIxODE5LC03MjI3
-NjIxNDAsLTE3NjA1ODI0MjgsLTI1Nzc5OTg1NywtMTY0NjY4MT
-gyNCw0ODU2MTA3ODYsNDU2NTc4ODQ5LC0xNzEzNjI2ODIwLDg2
-NjMwMzUyNl19
+eyJoaXN0b3J5IjpbMTc4NjU0Mjk0OSw2MzUyNDEwMzcsLTE0NT
+UxNDQ4MDksMTAwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMTc2NTk0
+NiwxNDA1ODYwNTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5NDEsLT
+M4NTc2OTgyOSwxNTgzOTk1NzUsLTEwMTc3MjE4MTksLTcyMjc2
+MjE0MCwtMTc2MDU4MjQyOCwtMjU3Nzk5ODU3LC0xNjQ2NjgxOD
+I0LDQ4NTYxMDc4Niw0NTY1Nzg4NDksLTE3MTM2MjY4MjAsODY2
+MzAzNTI2XX0=
 -->
