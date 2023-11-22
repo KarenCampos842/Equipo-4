@@ -3,7 +3,11 @@
 ### Protocolo
 Para las pruebas se reclutarán a 12 personas en total. 6 con el perfil de cliente y 6 con el perfil de trabajador. 
 
-***Nota:*** Para aplicar la prueba será necesario contar con el formato 1 o 2 localizados al final del apartado de Protocolo (puede ser impreso 
+
+**Materiales** 
+Formato 1 o 2 localizados al final del apartado de Protocolo (impreso o digital). 
+
+
 Para aplicar la prueba realizar lo siguiente: 
 1. Acudir a la cita con la persona. 
 2. Salude a la persona y agradezca su participación. 
@@ -294,7 +298,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTU1MTAyMCwtMTAxNzcyMTgxOSwtNz
+eyJoaXN0b3J5IjpbLTQ1MjUxNzYzMiwtMTAxNzcyMTgxOSwtNz
 IyNzYyMTQwLC0xNzYwNTgyNDI4LC0yNTc3OTk4NTcsLTE2NDY2
 ODE4MjQsNDg1NjEwNzg2LDQ1NjU3ODg0OSwtMTcxMzYyNjgyMC
 w4NjYzMDM1MjYsMTYzNDU1NzI3OCwxMDc4OTA0Nzk1LDEwNzg4
