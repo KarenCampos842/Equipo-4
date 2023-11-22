@@ -10,12 +10,13 @@ Para aplicar la prueba realizar lo siguiente:
 **Guion**
 A continuación te presentaré el prototipo de la aplicación para celular llamada WorkFlash. 
 Podrás interactuar con el prototipo y realizar actividades específicas que te indicaré en su momento.
-4. Realizar una demostración con el log in (es importante mencionar que para interactuar con los campos para escribir, como la contraseña, es necesario realizar clic sobre el rectángulo hasta que aparezca una contraseña). 
+4. Realizar una demostración con el log in (es importante mencionar que para interactuar con los campos para escribir, como la contraseña, es necesario realizar clic sobre el rectángulo hasta que aparezca el texto deseado, una contraseña en este ejemplo). 
 5.  Proporcionar un escenario en el que se utilizará la aplicación: 
 **Para el perfil de trabajador** 
 El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres mecánico y quieres usar WorkFlash para darte a conocer y atraer más clientes. 
 6. Aplicar la prueba utilizando el formato 1 (trabajador) o el formato 2 (cliente). 
-7.  Solicitar al participante realizar la primera tarea, activar el cronómetro
+7.  Solicitar al participante realizar la primera tarea.
+8. 
 
 ### Pruebas
 
@@ -283,11 +284,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE3MTc1ODcsLTcyMjc2MjE0MCwtMT
-c2MDU4MjQyOCwtMjU3Nzk5ODU3LC0xNjQ2NjgxODI0LDQ4NTYx
-MDc4Niw0NTY1Nzg4NDksLTE3MTM2MjY4MjAsODY2MzAzNTI2LD
-E2MzQ1NTcyNzgsMTA3ODkwNDc5NSwxMDc4ODgzMDQ4LDk4MTkx
-NTI3NywxMTM3MDQxNTU2LC0xNDAxODU4MzY2LDE0MTIzMTQ4MD
-csLTIwMzk5MzAzODIsLTMxNzU2MzU0NywtMTkyODQ5MDgwMSwt
-MTQ3NTUxMTYyNV19
+eyJoaXN0b3J5IjpbOTcxMDkyMjE0LC03MjI3NjIxNDAsLTE3Nj
+A1ODI0MjgsLTI1Nzc5OTg1NywtMTY0NjY4MTgyNCw0ODU2MTA3
+ODYsNDU2NTc4ODQ5LC0xNzEzNjI2ODIwLDg2NjMwMzUyNiwxNj
+M0NTU3Mjc4LDEwNzg5MDQ3OTUsMTA3ODg4MzA0OCw5ODE5MTUy
+NzcsMTEzNzA0MTU1NiwtMTQwMTg1ODM2NiwxNDEyMzE0ODA3LC
+0yMDM5OTMwMzgyLC0zMTc1NjM1NDcsLTE5Mjg0OTA4MDEsLTE0
+NzU1MTE2MjVdfQ==
 -->
