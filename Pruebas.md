@@ -161,6 +161,7 @@
       <td>Regístrate como cliente e inicia sesión. </td>
        <td>x</td>
        <td>Completada/No completada</td>
+        <td>x</td>
        <td>x min</td>              
    </tr>
    <tr>  
@@ -168,6 +169,7 @@
       <td>Quieres cambiar datos de tu perfil, edítalo.</td>
        <td>x</td>
        <td>Completada/No completada</td>
+        <td>x</td>
        <td>x min</td>              
    </tr>
     <tr>  
@@ -175,6 +177,7 @@
       <td>Tu carro marca un error desconocido en el tablero, necesitas un mecánico. Busca al mecánico Juan Campos Romero, observa su perfil, calificaciones y comentarios.</td>
        <td>x</td>
        <td>Completada/No completada</td>
+        <td>x</td>
        <td>x min</td>              
    </tr>
     <tr>  
@@ -182,6 +185,7 @@
       <td>Inicia un chat con el mecánico Juan Campos Romero, contrata su servicio y regresa a tu perfil. </td>
        <td>x</td>
        <td>Completada/No completada</td>
+        <td>x</td>
        <td>x min</td>              
    </tr>
    <tr>  
@@ -189,6 +193,7 @@
       <td>Revisa tu última conversación con Juan Campos Romero.</td>
        <td>x</td>
        <td>Completada/No completada</td>
+        <td>x</td>
        <td>x min</td>              
    </tr>
    <tr>  
@@ -196,6 +201,7 @@
       <td>Juan Campos Romero ha terminado su trabajo. Finaliza tu contrato con él, realiza un comentario y califícalo. </td>
        <td>x</td>
        <td>Completada/No completada</td>
+        <td>x</td>
        <td>x min</td>              
    </tr>
    <tr>  
@@ -262,11 +268,11 @@
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDM2ODA4MTMsLTE3MTM2MjY4MjAsOD
-Y2MzAzNTI2LDE2MzQ1NTcyNzgsMTA3ODkwNDc5NSwxMDc4ODgz
-MDQ4LDk4MTkxNTI3NywxMTM3MDQxNTU2LC0xNDAxODU4MzY2LD
-E0MTIzMTQ4MDcsLTIwMzk5MzAzODIsLTMxNzU2MzU0NywtMTky
-ODQ5MDgwMSwtMTQ3NTUxMTYyNSwtMjMyMjg2NjMsODQ4NjUwOT
-MxLC0xMjUzNjA1NDUzLC01MzY4NzYzODgsNTE3MTc3MDcyLDY2
-MjU0MzQ5N119
+eyJoaXN0b3J5IjpbNDU2NTc4ODQ5LC0xNzEzNjI2ODIwLDg2Nj
+MwMzUyNiwxNjM0NTU3Mjc4LDEwNzg5MDQ3OTUsMTA3ODg4MzA0
+OCw5ODE5MTUyNzcsMTEzNzA0MTU1NiwtMTQwMTg1ODM2NiwxND
+EyMzE0ODA3LC0yMDM5OTMwMzgyLC0zMTc1NjM1NDcsLTE5Mjg0
+OTA4MDEsLTE0NzU1MTE2MjUsLTIzMjI4NjYzLDg0ODY1MDkzMS
+wtMTI1MzYwNTQ1MywtNTM2ODc2Mzg4LDUxNzE3NzA3Miw2NjI1
+NDM0OTddfQ==
 -->
