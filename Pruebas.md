@@ -107,6 +107,7 @@
       <td>Cancela tu membresía y sal de la aplicación. </td>
        <td>x</td>
        <td>Completada/No completada</td>
+       <td>x</td>
        <td>x min</td>              
    </tr>
    <tr>  
@@ -258,7 +259,7 @@
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODYyMDQxMzAsLTE3MTM2MjY4MjAsOD
+eyJoaXN0b3J5IjpbLTE1Njk0MDY0MTksLTE3MTM2MjY4MjAsOD
 Y2MzAzNTI2LDE2MzQ1NTcyNzgsMTA3ODkwNDc5NSwxMDc4ODgz
 MDQ4LDk4MTkxNTI3NywxMTM3MDQxNTU2LC0xNDAxODU4MzY2LD
 E0MTIzMTQ4MDcsLTIwMzk5MzAzODIsLTMxNzU2MzU0NywtMTky
