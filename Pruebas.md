@@ -16,9 +16,10 @@ Para las pruebas se reclutarán a 12 personas en total. 6 con el perfil de clien
 3. Solicitar la ayuda de la persona:
 **Guion (ejemplo)**
 Como parte de un proyecto en la universidad, junto a mi equipo, estoy realizando el diseño de una aplicación y requiero probar el prototipo, por lo que quisiera solicitar tu ayuda. 
-La prueba consiste en que el participante realice algunas actividades en la aplicación, responda algunas preguntas respecto a la dificultad de las actividades y conteste un cuestionario de satisfacción. Es una prueba de aproximadamente 15 minutos.
-Los datos nos servirán para saber lo que estamos haciendo bien y lo que podemos mejorar.
 La aplicación se llama Workflash, una aplicación para celular que pone en contacto a las personas registradas con trabajadores de distintos oficios y ocupaciones cercanos a su ubicación para solicitar su servicio. 
+La prueba consiste en que el participante realice algunas actividades en la aplicación, responda algunas preguntas respecto a la dificultad de las actividades y conteste un cuestionario de satisfacción. Es una prueba de aproximadamente 15 minutos.
+Los datos recabados serán utilizados con propósitos escolares. Nos servirán para saber lo que estamos haciendo bien y lo que podemos mejorar.
+
 ¿Puedo contar con tu participación?
 
 4. Si acepta participar, se deberá agendar una cita para aplicar la prueba de forma presencial. De lo contrario, se buscará otra persona que cumpla el perfil. 
@@ -316,7 +317,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTMyNjYzOCwxNDA1ODYwNTg4LC0xMj
+eyJoaXN0b3J5IjpbMTQyMjAzNDc2MCwxNDA1ODYwNTg4LC0xMj
 gxODI3OTMyLDE0MjYzOTU5NDEsLTM4NTc2OTgyOSwxNTgzOTk1
 NzUsLTEwMTc3MjE4MTksLTcyMjc2MjE0MCwtMTc2MDU4MjQyOC
 wtMjU3Nzk5ODU3LC0xNjQ2NjgxODI0LDQ4NTYxMDc4Niw0NTY1
