@@ -4,11 +4,11 @@
 Para las pruebas se reclutarán a 12 personas en total. 6 con el perfil de cliente y 6 con el perfil de trabajador. 
 
 Para aplicar la prueba realizar lo siguiente: 
-1. Acudir a la ci con la persona. 
-2. Explicar brevemente en qué consistirá la prueba. 
-Guion: A continuación le presentaré el prototipo de una aplicación para celular llamada WorkFlash. 
-Si se trata de un trabajador:  
-Con ésta aplicación podrás registrarte como trabajador y 
+1. Acudir a la cita con la persona. 
+2. Preséntese con la persona. 
+3. Explicar brevemente en qué consistirá la prueba. 
+Guion: A continuación le presentaré el prototipo de una aplicación para celular llamada WorkFlash. Le indicaré actividades a realizar 
+
 ### Pruebas
 
 ***Formato 1: Perfil de trabajador***
@@ -275,7 +275,7 @@ Con ésta aplicación podrás registrarte como trabajador y
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzc0Nzc1MiwtNzIyNzYyMTQwLC0xNz
+eyJoaXN0b3J5IjpbMTc3Njk1MTg1NSwtNzIyNzYyMTQwLC0xNz
 YwNTgyNDI4LC0yNTc3OTk4NTcsLTE2NDY2ODE4MjQsNDg1NjEw
 Nzg2LDQ1NjU3ODg0OSwtMTcxMzYyNjgyMCw4NjYzMDM1MjYsMT
 YzNDU1NzI3OCwxMDc4OTA0Nzk1LDEwNzg4ODMwNDgsOTgxOTE1
