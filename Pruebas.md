@@ -1,7 +1,8 @@
 # Pruebas
 ## Pruebas informales[^1]
 ### Protocolo
-Para las pruebas se reclutarán a 
+Para las pruebas se reclutarán a 12 personas en total. 6 con el perfil de cliente y 6 con el perfil de trabajador. 
+El método a utilizar será el 
 ### Pruebas
 
 ***Formato 1: Perfil de trabajador***
@@ -268,11 +269,11 @@ Para las pruebas se reclutarán a
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1NTM5MDg5LDQ1NjU3ODg0OSwtMTcxMz
-YyNjgyMCw4NjYzMDM1MjYsMTYzNDU1NzI3OCwxMDc4OTA0Nzk1
-LDEwNzg4ODMwNDgsOTgxOTE1Mjc3LDExMzcwNDE1NTYsLTE0MD
-E4NTgzNjYsMTQxMjMxNDgwNywtMjAzOTkzMDM4MiwtMzE3NTYz
-NTQ3LC0xOTI4NDkwODAxLC0xNDc1NTExNjI1LC0yMzIyODY2My
-w4NDg2NTA5MzEsLTEyNTM2MDU0NTMsLTUzNjg3NjM4OCw1MTcx
-NzcwNzJdfQ==
+eyJoaXN0b3J5IjpbLTIwNDc2ODA4NjcsNDU2NTc4ODQ5LC0xNz
+EzNjI2ODIwLDg2NjMwMzUyNiwxNjM0NTU3Mjc4LDEwNzg5MDQ3
+OTUsMTA3ODg4MzA0OCw5ODE5MTUyNzcsMTEzNzA0MTU1NiwtMT
+QwMTg1ODM2NiwxNDEyMzE0ODA3LC0yMDM5OTMwMzgyLC0zMTc1
+NjM1NDcsLTE5Mjg0OTA4MDEsLTE0NzU1MTE2MjUsLTIzMjI4Nj
+YzLDg0ODY1MDkzMSwtMTI1MzYwNTQ1MywtNTM2ODc2Mzg4LDUx
+NzE3NzA3Ml19
 -->
