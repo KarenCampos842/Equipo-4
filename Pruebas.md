@@ -9,7 +9,7 @@ Para aplicar la prueba realizar lo siguiente:
 3. Explicar brevemente en qué consistirá la prueba (la persona responsable de aplicar la prueba deberá proporcionar el prototipo a la persona). 
 **Guion**
 A continuación te presentaré el prototipo de la aplicación para celular llamada WorkFlash. 
-Podrás interactuar con el prototipo y realizar actividades específicas que te indicaré en su momento.
+Podrás interactuar con el prototipo y realizar actividades específicas que te indicaré en su momento. De ser posible, 
 4. Realizar una demostración con el log in (es importante mencionar que para interactuar con los campos para escribir, como la contraseña, es necesario realizar clic sobre el rectángulo hasta que aparezca el texto deseado, una contraseña en este ejemplo). 
 5.  Proporcionar un escenario en el que se utilizará la aplicación: 
 **Para el perfil de trabajador** 
@@ -22,7 +22,8 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 - Realizar la siguiente pregunta al participante y anotar la respuesta: Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?
 - Repetir el proceso hasta terminar con las tareas. 
 7.  Anotar comentarios/observaciones del participante sobre la aplicación. 
-Nota: 
+
+***Nota:*** Durante el proceso 
 
 ### Pruebas
 
@@ -290,11 +291,11 @@ Nota:
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzI3MzAxLC0xMDE3NzIxODE5LC03Mj
-I3NjIxNDAsLTE3NjA1ODI0MjgsLTI1Nzc5OTg1NywtMTY0NjY4
-MTgyNCw0ODU2MTA3ODYsNDU2NTc4ODQ5LC0xNzEzNjI2ODIwLD
-g2NjMwMzUyNiwxNjM0NTU3Mjc4LDEwNzg5MDQ3OTUsMTA3ODg4
-MzA0OCw5ODE5MTUyNzcsMTEzNzA0MTU1NiwtMTQwMTg1ODM2Ni
-wxNDEyMzE0ODA3LC0yMDM5OTMwMzgyLC0zMTc1NjM1NDcsLTE5
-Mjg0OTA4MDFdfQ==
+eyJoaXN0b3J5IjpbLTM0OTcyNTkxNywtMTAxNzcyMTgxOSwtNz
+IyNzYyMTQwLC0xNzYwNTgyNDI4LC0yNTc3OTk4NTcsLTE2NDY2
+ODE4MjQsNDg1NjEwNzg2LDQ1NjU3ODg0OSwtMTcxMzYyNjgyMC
+w4NjYzMDM1MjYsMTYzNDU1NzI3OCwxMDc4OTA0Nzk1LDEwNzg4
+ODMwNDgsOTgxOTE1Mjc3LDExMzcwNDE1NTYsLTE0MDE4NTgzNj
+YsMTQxMjMxNDgwNywtMjAzOTkzMDM4MiwtMzE3NTYzNTQ3LC0x
+OTI4NDkwODAxXX0=
 -->
