@@ -10,7 +10,7 @@ RF-3. **Registro del trabajador:** Si el usuario ha seleccionado el perfil de tr
 
 RF-4. **Cobro de membresía:**  Cumplido el mes de prueba gratis en la aplicación, el sistema cobrará mensualmente de la tarjeta proporcionada por el trabajador $75 correspondientes a la membresía hasta la cancelación de la cuenta.
 
-RF-5. **Creación de contraseña:** El sistema creará una contraseña y para el cliente o trabajador que será enviada al correo electrónico proporcionado. 
+RF-5. **Creación de contraseña:** El sistema creará una contraseña para el cliente o trabajador que será enviada al correo electrónico proporcionado. 
 
 RF-6. **Comentarios:** El sistema permitirá al cliente comentar sobre la calidad del servicio en el perfil del trabajador.
 
