@@ -3,7 +3,7 @@
 ### Protocolo
 Para las pruebas se reclutarán a 12 personas en total. 6 con el perfil de cliente y 6 con el perfil de trabajador. 
 
-Para 
+Durante el reclutamiento 
 
 **Materiales** 
 
@@ -288,7 +288,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTc0MzQxMSwtMzg1NzY5ODI5LDE1OD
+eyJoaXN0b3J5IjpbMTQyNjM5NTk0MSwtMzg1NzY5ODI5LDE1OD
 M5OTU3NSwtMTAxNzcyMTgxOSwtNzIyNzYyMTQwLC0xNzYwNTgy
 NDI4LC0yNTc3OTk4NTcsLTE2NDY2ODE4MjQsNDg1NjEwNzg2LD
 Q1NjU3ODg0OSwtMTcxMzYyNjgyMCw4NjYzMDM1MjYsMTYzNDU1
