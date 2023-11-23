@@ -329,19 +329,15 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <li> RF-13. Elección del trabajador.</li>
       </td>    
      </tr>
-      <tr>
-     <td>Tarea 7 Completada</td>
-      <td>
-      <li>RF-19. Cancelación del servicio.</li>
-      </td>    
-     </tr>
       <tr>  
       <th colspan=2>Objetivo 2</th>  
      </tr>
      <tr>  
-      <td>Tarea 2 Completada</td>
+      <td>Tarea 4 Completada</td>
       <td>
-      <li>RF-9. Creación del perfil de trabajador. </li>
+       <li>RF-8. Creación del perfil de cliente.</li>
+      <li>RF-14. Chat.</li>
+      RF-15. **Contratación del servicio**
       </td>    
      </tr>
      <tr>  
@@ -543,7 +539,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTQxNzA0MSwxNTU5OTczNDM3LDE0Nj
+eyJoaXN0b3J5IjpbMTc3NTUxNTgzMCwxNTU5OTczNDM3LDE0Nj
 g3NDUxNzUsNjM1MjQxMDM3LC0xNDU1MTQ0ODA5LDEwMDU2OTIz
 MjQsLTY1NjEwNzUwOCwyMzE3NjU5NDYsMTQwNTg2MDU4OCwtMT
 I4MTgyNzkzMiwxNDI2Mzk1OTQxLC0zODU3Njk4MjksMTU4Mzk5
