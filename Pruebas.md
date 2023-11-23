@@ -362,7 +362,18 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
      <tr>  
       <td>Tarea 4 Completada</td>
       <td>
-      <li>RF-16. Calificación del cliente.</li>
+      <li>RF-14. Chat.</li>
+      </td>    
+     </tr>
+      <tr>  
+      <td>Tarea 5 Completada</td>
+      <td>
+    
+      </td>    
+     </tr>
+      <tr>  
+      <td>Tarea 7 Completada</td>
+      <td>
       </td>    
      </tr>
       <tr>  
@@ -540,11 +551,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5OTA3NTksMTI0MDk4NjM1LDE1NTk5Nz
-M0MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcsLTE0NTUxNDQ4MDks
-MTAwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMTc2NTk0NiwxNDA1OD
-YwNTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5NDEsLTM4NTc2OTgy
-OSwxNTgzOTk1NzUsLTEwMTc3MjE4MTksLTcyMjc2MjE0MCwtMT
-c2MDU4MjQyOCwtMjU3Nzk5ODU3LC0xNjQ2NjgxODI0LDQ4NTYx
-MDc4Nl19
+eyJoaXN0b3J5IjpbLTE2OTkzOTU5MDcsMTI0MDk4NjM1LDE1NT
+k5NzM0MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcsLTE0NTUxNDQ4
+MDksMTAwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMTc2NTk0NiwxND
+A1ODYwNTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5NDEsLTM4NTc2
+OTgyOSwxNTgzOTk1NzUsLTEwMTc3MjE4MTksLTcyMjc2MjE0MC
+wtMTc2MDU4MjQyOCwtMjU3Nzk5ODU3LC0xNjQ2NjgxODI0LDQ4
+NTYxMDc4Nl19
 -->
