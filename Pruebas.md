@@ -326,6 +326,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>
        <li>RF-11. Búsqueda.</li>
        <li>RF-12. Filtro.</li>
+       <li> RF-13. Elección del trabajador.</li>
       </td>    
      </tr>
       <tr>
@@ -542,7 +543,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzE2MTcxNCwxNTU5OTczNDM3LDE0Nj
+eyJoaXN0b3J5IjpbLTY0MTQxNzA0MSwxNTU5OTczNDM3LDE0Nj
 g3NDUxNzUsNjM1MjQxMDM3LC0xNDU1MTQ0ODA5LDEwMDU2OTIz
 MjQsLTY1NjEwNzUwOCwyMzE3NjU5NDYsMTQwNTg2MDU4OCwtMT
 I4MTgyNzkzMiwxNDI2Mzk1OTQxLC0zODU3Njk4MjksMTU4Mzk5
