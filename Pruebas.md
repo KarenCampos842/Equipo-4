@@ -331,7 +331,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 1</th>  
      </tr>
      <tr>  
-      <td>Tarea 1 Completada</td>
+      <td>Tarea 1 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
       <li>RF-1. Perfiles. </li>
       <li>RF-2. Registro del cliente.</li>
@@ -339,7 +339,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       </td>    
      </tr>
       <tr>  
-      <td>Tarea 2 Completada</td>
+      <td>Tarea 2 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
       <li>RF-5. Creación de contraseña.</li>
       <li>RF-8. Creación del perfil de cliente.</li>
@@ -351,7 +351,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 2</th>  
      </tr>
      <tr>
-     <td>Tarea 4 Completada</td>
+     <td>Tarea 4 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
        <li>RF-11. Búsqueda.</li>
        <li>RF-12. Filtro.</li>
@@ -362,14 +362,14 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 3</th>  
      </tr>
      <tr>  
-      <td>Tarea 5 Completada</td>
+      <td>Tarea 5 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
        <li>RF-8. Creación del perfil de cliente.</li>
        <li>RF-15. Contratación del servicio.</li>
       </td>    
      </tr>
       <tr>  
-      <td>Tarea 9 Completada</td>
+      <td>Tarea 9 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
        <li>RF-19. Cancelación del servicio.</li>
       </td>    
@@ -378,7 +378,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 4</th>  
      </tr>
      <tr>  
-      <td>Tarea 7 Completada</td>
+      <td>Tarea 7 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
       <li>RF-6. Comentarios.</li>
        <li>RF-7. Calificaciones.</li>
@@ -389,18 +389,18 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 5</th>  
      </tr>
      <tr>  
-      <td>Tarea 5 Completada</td>
+      <td>Tarea 5 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td rowspan=3>
       <li>RF-14. Chat.</li>
       </td>    
      </tr>
       <tr>  
-      <td>Tarea 6 Completada</td>
+      <td>Tarea 6 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
       </td>    
      </tr>
       <tr>  
-      <td>Tarea 8 Completada</td>
+      <td>Tarea 8 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
       </td>    
      </tr>
@@ -408,7 +408,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 6</th>  
      </tr>
      <tr>  
-      <td>Tarea 3 Completada</td>
+      <td>Tarea 3 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
       <li>RF-22. Modificación de perfil.</li>
       </td>    
@@ -581,7 +581,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzYxMDc1OCwtMjAzMzA0NTM2NSwtMT
+eyJoaXN0b3J5IjpbMTcyMTY4NjI3NCwtMjAzMzA0NTM2NSwtMT
 I0NTA1ODMwMiw5NDc2NDIwMzcsMTI0MDk4NjM1LDE1NTk5NzM0
 MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcsLTE0NTUxNDQ4MDksMT
 AwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMTc2NTk0NiwxNDA1ODYw
