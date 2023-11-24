@@ -93,6 +93,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>
       <li>RF-9. Creación del perfil de trabajador.</li>
       <li>RF-10. Inicio de sesión.</li>
+    <li> RF-21. Recuperación de contraseña.</li>
       </td>    
      </tr>
      <tr>
@@ -572,7 +573,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTA4Mzg4ODgsLTEyNDUwNTgzMDIsOT
+eyJoaXN0b3J5IjpbLTIwMzMwNDUzNjUsLTEyNDUwNTgzMDIsOT
 Q3NjQyMDM3LDEyNDA5ODYzNSwxNTU5OTczNDM3LDE0Njg3NDUx
 NzUsNjM1MjQxMDM3LC0xNDU1MTQ0ODA5LDEwMDU2OTIzMjQsLT
 Y1NjEwNzUwOCwyMzE3NjU5NDYsMTQwNTg2MDU4OCwtMTI4MTgy
