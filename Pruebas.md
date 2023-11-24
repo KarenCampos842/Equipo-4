@@ -86,9 +86,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       </td>    
      </tr>
      <tr>  
-      <th colspan=2>Objetivo 2</th>  
-     </tr>
-     <tr>  
       <td>Tarea 2 Completada</td>
       <td>
       <li>RF-9. Creación del perfil de trabajador.</li>
@@ -96,14 +93,17 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
     <li> RF-21. Recuperación de contraseña.</li>
       </td>    
      </tr>
+     <tr>  
+      <th colspan=2>Objetivo 2</th>  
+     </tr>
      <tr>
-     <td>Tarea 4 Completada</td>
+     <td>Tarea 5 Completada</td>
       <td>
       <li>RF-15. Contratación del servicio.</li>
       </td>    
      </tr>
       <tr>
-     <td>Tarea 7 Completada</td>
+     <td>Tarea 8 Completada</td>
       <td>
       <li>RF-19. Cancelación del servicio.</li>
       </td>    
@@ -581,11 +581,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3OTYzNzc4LC0yMDMzMDQ1MzY1LC0xMj
-Q1MDU4MzAyLDk0NzY0MjAzNywxMjQwOTg2MzUsMTU1OTk3MzQz
-NywxNDY4NzQ1MTc1LDYzNTI0MTAzNywtMTQ1NTE0NDgwOSwxMD
-A1NjkyMzI0LC02NTYxMDc1MDgsMjMxNzY1OTQ2LDE0MDU4NjA1
-ODgsLTEyODE4Mjc5MzIsMTQyNjM5NTk0MSwtMzg1NzY5ODI5LD
-E1ODM5OTU3NSwtMTAxNzcyMTgxOSwtNzIyNzYyMTQwLC0xNzYw
-NTgyNDI4XX0=
+eyJoaXN0b3J5IjpbMTA4ODg1NzMwNCwtMjAzMzA0NTM2NSwtMT
+I0NTA1ODMwMiw5NDc2NDIwMzcsMTI0MDk4NjM1LDE1NTk5NzM0
+MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcsLTE0NTUxNDQ4MDksMT
+AwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMTc2NTk0NiwxNDA1ODYw
+NTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5NDEsLTM4NTc2OTgyOS
+wxNTgzOTk1NzUsLTEwMTc3MjE4MTksLTcyMjc2MjE0MCwtMTc2
+MDU4MjQyOF19
 -->
