@@ -67,9 +67,9 @@ RNF-30. El sistema deberá manejar correcta y extensamente los idiomas del Espa�
 
 RNF-31. Se debe de contar en todo momento un respaldo ante desastres en la nube para el sistema en desarrollo.
 
-RNF-321. Cada 2 semanas se deberán de producir reportes gerenciales en los que se mostrará el esfuerzo invertido en cada uno de los componentes del nuevo sistema.
+RNF-32. Cada 2 semanas se deberán de producir reportes gerenciales en los que se mostrará el esfuerzo invertido en cada uno de los componentes del nuevo sistema.
 
-RNF-332. El sistema no mostrará datos personales entre usuarios y trabajadores que no estén incluidos en los perfiles públicos y con previa autorización de ellos.
+RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores que no estén incluidos en los perfiles públicos y con previa autorización de ellos.
 
 
 
@@ -1226,6 +1226,6 @@ RNF-332. El sistema no mostrará datos personales entre usuarios y trabajadores 
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzIzMjYxNTUsLTcxNDI5NDEzNSwtNj
-MyODc4NDk1LC02MTA3MzkwMDddfQ==
+eyJoaXN0b3J5IjpbNjE5NjcxNjY0LC0xNTMyMzI2MTU1LC03MT
+QyOTQxMzUsLTYzMjg3ODQ5NSwtNjEwNzM5MDA3XX0=
 -->
