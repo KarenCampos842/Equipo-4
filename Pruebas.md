@@ -294,12 +294,13 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
   <br>
  
  **Objetivos** 
-1.  Los clientes pueden buscar un oficio/ocupación, visualizar una lista de trabajadores, su perfil, calificaciones y comentarios. 
-2. Los clientes pueden contratar y cancelar un trabajo.
-3. Los clientes pueden finalizar su contrato, calificar, comentar y reportar a los trabajadores.
-4. Los clientes pueden comunicarse con los trabajadores mediante un chat y eliminarlo si así desean.
-5. Los clientes pueden  editar su perfil.
-6. La aplicación es intuitiva y agradable para los usuarios (aplica para clientes y trabajadores).
+1.  El usuario puede registrarse como cliente e iniciar sesión. 
+2. Los clientes pueden buscar un oficio/ocupación, visualizar una lista de trabajadores, su perfil, calificaciones y comentarios. 
+3. Los clientes pueden contratar y cancelar un trabajo.
+4. Los clientes pueden finalizar su contrato, calificar, comentar y reportar a los trabajadores.
+5. Los clientes pueden comunicarse con los trabajadores mediante un chat y eliminarlo si así desean.
+6. Los clientes pueden  editar su perfil.
+7. La aplicación es intuitiva y agradable para los usuarios (aplica para clientes y trabajadores).
 
 **Correspondencia entre los objetivos, indicadores y  requisitos**
 
@@ -544,11 +545,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzIwMTQ2NzEsOTQ3NjQyMDM3LDEyND
-A5ODYzNSwxNTU5OTczNDM3LDE0Njg3NDUxNzUsNjM1MjQxMDM3
-LC0xNDU1MTQ0ODA5LDEwMDU2OTIzMjQsLTY1NjEwNzUwOCwyMz
-E3NjU5NDYsMTQwNTg2MDU4OCwtMTI4MTgyNzkzMiwxNDI2Mzk1
-OTQxLC0zODU3Njk4MjksMTU4Mzk5NTc1LC0xMDE3NzIxODE5LC
-03MjI3NjIxNDAsLTE3NjA1ODI0MjgsLTI1Nzc5OTg1NywtMTY0
-NjY4MTgyNF19
+eyJoaXN0b3J5IjpbMTI1MTcwMTM2OCw5NDc2NDIwMzcsMTI0MD
+k4NjM1LDE1NTk5NzM0MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcs
+LTE0NTUxNDQ4MDksMTAwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMT
+c2NTk0NiwxNDA1ODYwNTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5
+NDEsLTM4NTc2OTgyOSwxNTgzOTk1NzUsLTEwMTc3MjE4MTksLT
+cyMjc2MjE0MCwtMTc2MDU4MjQyOCwtMjU3Nzk5ODU3LC0xNjQ2
+NjgxODI0XX0=
 -->
