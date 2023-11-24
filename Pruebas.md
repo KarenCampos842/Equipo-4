@@ -69,13 +69,21 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 
 **Correspondencia entre los objetivos, indicadores y  requisitos**
 
-<table align=center>  
-   <tr>  
-      <th colspan=2>Objetivo 1</th>  
-     </tr>
+<table align=center> 
      <tr>  
       <th>Indicador</th>
       <th>Requisito</th>    
+     </tr>
+      <tr>  
+      <th colspan=2>Objetivo 1</th>  
+     </tr>
+     <tr>  
+      <td>Tarea 1 Completada</td>
+      <td>
+      <li>RF-1. Perfiles. </li>
+      <li>RF-2. Registro del cliente.</li>
+      <li>RF-5. Creación de contraseña.</li>
+      </td>    
      </tr>
      <tr>  
       <td>Tarea 1 Completada</td>
@@ -564,11 +572,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDYzODI0Niw5NDc2NDIwMzcsMTI0MD
-k4NjM1LDE1NTk5NzM0MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcs
-LTE0NTUxNDQ4MDksMTAwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMT
-c2NTk0NiwxNDA1ODYwNTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5
-NDEsLTM4NTc2OTgyOSwxNTgzOTk1NzUsLTEwMTc3MjE4MTksLT
-cyMjc2MjE0MCwtMTc2MDU4MjQyOCwtMjU3Nzk5ODU3LC0xNjQ2
-NjgxODI0XX0=
+eyJoaXN0b3J5IjpbLTEyODY1MDM5NDcsOTQ3NjQyMDM3LDEyND
+A5ODYzNSwxNTU5OTczNDM3LDE0Njg3NDUxNzUsNjM1MjQxMDM3
+LC0xNDU1MTQ0ODA5LDEwMDU2OTIzMjQsLTY1NjEwNzUwOCwyMz
+E3NjU5NDYsMTQwNTg2MDU4OCwtMTI4MTgyNzkzMiwxNDI2Mzk1
+OTQxLC0zODU3Njk4MjksMTU4Mzk5NTc1LC0xMDE3NzIxODE5LC
+03MjI3NjIxNDAsLTE3NjA1ODI0MjgsLTI1Nzc5OTg1NywtMTY0
+NjY4MTgyNF19
 -->
