@@ -385,12 +385,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       </td>    
      </tr>
       <tr>  
-      <td>Tarea 8 Completada</td>
-      <td>
-      <li>RF-20. Cancelación de la cuenta por parte del trabajador.</li>
-      </td>    
-     </tr>
-      <tr>  
       <th colspan=2>Objetivo 6</th>  
      </tr>
      <tr>  
@@ -550,11 +544,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3NjQyMDM3LDEyNDA5ODYzNSwxNTU5OT
-czNDM3LDE0Njg3NDUxNzUsNjM1MjQxMDM3LC0xNDU1MTQ0ODA5
-LDEwMDU2OTIzMjQsLTY1NjEwNzUwOCwyMzE3NjU5NDYsMTQwNT
-g2MDU4OCwtMTI4MTgyNzkzMiwxNDI2Mzk1OTQxLC0zODU3Njk4
-MjksMTU4Mzk5NTc1LC0xMDE3NzIxODE5LC03MjI3NjIxNDAsLT
-E3NjA1ODI0MjgsLTI1Nzc5OTg1NywtMTY0NjY4MTgyNCw0ODU2
-MTA3ODZdfQ==
+eyJoaXN0b3J5IjpbLTE4NzIwMTQ2NzEsOTQ3NjQyMDM3LDEyND
+A5ODYzNSwxNTU5OTczNDM3LDE0Njg3NDUxNzUsNjM1MjQxMDM3
+LC0xNDU1MTQ0ODA5LDEwMDU2OTIzMjQsLTY1NjEwNzUwOCwyMz
+E3NjU5NDYsMTQwNTg2MDU4OCwtMTI4MTgyNzkzMiwxNDI2Mzk1
+OTQxLC0zODU3Njk4MjksMTU4Mzk5NTc1LC0xMDE3NzIxODE5LC
+03MjI3NjIxNDAsLTE3NjA1ODI0MjgsLTI1Nzc5OTg1NywtMTY0
+NjY4MTgyNF19
 -->
