@@ -46,21 +46,21 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
       <th>Grupos de Facebook</th>
    </tr> 
     <tr> 
-    <td>Poder ver exclusivamente reseñas de personas que hayan adquirido sus servicios</td>  
+    <td>Poder ver exclusivamente reseñas de personas que hayan adquirido sus servicios.</td>  
       <td>X</td> 
       <td> </td> 
       <td></td>     
        <td></td> 
        </tr> 
     <tr> 
-    <td>Poder ofrecer diferentes servicios con experiencias adquiridas empíricamente</td> 
+    <td>Poder ofrecer diferentes servicios con experiencias adquiridas empíricamente.</td> 
     <td>X</td> 
       <td> </td> 
       <td></td>     
        <td>X</td>  
        </tr> 
     <tr> 
-     <td>La posibilidad de filtrar a los trabajadores por disponibilidad al momento y cercanía</td> 
+     <td>La posibilidad de filtrar a los trabajadores por disponibilidad al momento y cercanía.</td> 
     <td>X</td> 
       <td> </td> 
       <td></td>     
@@ -68,28 +68,28 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        </tr> 
         </tr> 
     <tr> 
-     <td>Los clientes cuentan con la seguridad de que los trabajadores fueron verificados con documentos oficiales</td> 
+     <td>Los clientes cuentan con la seguridad de que los trabajadores fueron verificados con documentos oficiales.</td> 
     <td>X</td> 
       <td> </td> 
       <td>X</td>     
        <td></td>  
         </tr> 
     <tr> 
-     <td>Poder reportar a usuarios y trabajadores por cancelaciones o estafas</td> 
+     <td>Poder reportar a usuarios y trabajadores por cancelaciones o estafas.</td> 
     <td>X</td> 
       <td> </td> 
       <td></td>     
        <td></td>  
         </tr> 
     <tr> 
-     <td>Cuenta con ranking por ubicación y calificación</td> 
+     <td>Cuenta con ranking por ubicación y calificación.</td> 
     <td>X</td> 
       <td> </td> 
       <td></td>     
        <td></td>  
         </tr> 
     <tr> 
-     <td>Cuenta con un servicio de karma para beneficiar a los trabajadores y clientes "mejor portados"</td> 
+     <td>Cuenta con un servicio de karma para beneficiar a los trabajadores y clientes "mejor portados".</td> 
     <td>X</td> 
       <td> </td> 
       <td></td>     
@@ -106,7 +106,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
  </table>      
  <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDk1NTIwNywzNTA4NjczMjQsLTE3MD
+eyJoaXN0b3J5IjpbMTIzMDE3ODEyMSwzNTA4NjczMjQsLTE3MD
 Y3ODQ1MzYsLTE4Mzk5NzQ4MDUsLTEzODk3NzcyNzUsLTY3MjIz
 MDM0NCwtMjA5MDE0MzE5MCw2MDcxMTA5NjgsODE3NDYzMjY2LC
 0xODMwMTk1OTA5XX0=
