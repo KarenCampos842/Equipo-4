@@ -96,7 +96,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        <td></td>  
         </tr> 
     <tr> 
-     <td>Se podrán cancelar los servicios por parte tanto de los usuarios como por parte de los trabajadores pero al hacerse 3 veces seguidas se Banearia la cuenta </td> 
+     <td>Se podrán cancelar los servicios </td> 
     <td>X</td> 
       <td> </td> 
       <td></td>     
@@ -106,7 +106,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
  </table>      
  <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDY5NjgzLDM1MDg2NzMyNCwtMTcwNj
+eyJoaXN0b3J5IjpbOTUxMTY3NzgyLDM1MDg2NzMyNCwtMTcwNj
 c4NDUzNiwtMTgzOTk3NDgwNSwtMTM4OTc3NzI3NSwtNjcyMjMw
 MzQ0LC0yMDkwMTQzMTkwLDYwNzExMDk2OCw4MTc0NjMyNjYsLT
 E4MzAxOTU5MDldfQ==
