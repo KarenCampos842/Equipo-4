@@ -80,12 +80,20 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
       <td> </td> 
       <td></td>     
        <td></td>  
+        </tr> 
+    <tr> 
+     <td>Cuenta con ranking por ubicación y calificación</td> 
+    <td>X</td> 
+      <td> </td> 
+      <td></td>     
+       <td></td>  
     <tr> 
    </tr> 
  </table>      
  <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY3ODQ1MzYsLTE4Mzk5NzQ4MDUsLT
-EzODk3NzcyNzUsLTY3MjIzMDM0NCwtMjA5MDE0MzE5MCw2MDcx
-MTA5NjgsODE3NDYzMjY2LC0xODMwMTk1OTA5XX0=
+eyJoaXN0b3J5IjpbLTE0NDQyMDk0ODQsLTE3MDY3ODQ1MzYsLT
+E4Mzk5NzQ4MDUsLTEzODk3NzcyNzUsLTY3MjIzMDM0NCwtMjA5
+MDE0MzE5MCw2MDcxMTA5NjgsODE3NDYzMjY2LC0xODMwMTk1OT
+A5XX0=
 -->
