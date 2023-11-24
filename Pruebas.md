@@ -333,7 +333,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 2</th>  
      </tr>
      <tr>
-     <td>Tarea 3 Completada</td>
+     <td>Tarea 4 Completada</td>
       <td>
        <li>RF-11. Búsqueda.</li>
        <li>RF-12. Filtro.</li>
@@ -499,7 +499,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x min</td>              
    </tr>
     <tr>  
-      <td>4</td> 
+      <td>5</td> 
       <td>Inicia un chat con el mecánico Juan Campos Romero, contrata su servicio y regresa a tu perfil. </td>
        <td>x</td>
        <td>Completada/No completada</td>
@@ -507,7 +507,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x min</td>              
    </tr>
    <tr>  
-      <td>5</td> 
+      <td>6</td> 
       <td>Revisa tu última conversación con Juan Campos Romero.</td>
        <td>x</td>
        <td>Completada/No completada</td>
@@ -515,7 +515,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x min</td>              
    </tr>
    <tr>  
-      <td>6</td> 
+      <td>7</td> 
       <td>Juan Campos Romero ha terminado su trabajo. Finaliza tu contrato con él, realiza un comentario y califícalo. </td>
        <td>x</td>
        <td>Completada/No completada</td>
@@ -523,7 +523,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x min</td>              
    </tr>
    <tr>  
-      <td>7</td> 
+      <td>8</td> 
       <td>Luis Pérez Medina, plomero, no asistió a la reunión que habían programado. Elimina tu chat con él y repórtalo. </td>
        <td>x</td>
        <td>Completada/No completada</td>
@@ -531,7 +531,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x min</td>              
    </tr>
    <tr>  
-      <td>8</td> 
+      <td>9</td> 
       <td>Ha surgido un inconveniente y debes de cancelar uno de tus contratos. Cancela tu contrato con la manicurista Cintia Acosta López y cierra cesión.  </td>
        <td>x</td>
        <td>Completada/No completada</td>
@@ -563,7 +563,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTYyODQyOCw5NDc2NDIwMzcsMTI0MD
+eyJoaXN0b3J5IjpbMTI2OTU3MTUwMiw5NDc2NDIwMzcsMTI0MD
 k4NjM1LDE1NTk5NzM0MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcs
 LTE0NTUxNDQ4MDksMTAwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMT
 c2NTk0NiwxNDA1ODYwNTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5
