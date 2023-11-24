@@ -28,7 +28,7 @@ Los datos recabados serán utilizados con propósitos escolares. Nos servirán p
  - Formato 1 o 2 localizados al final del apartado de Protocolo (impreso o digital). 
  - Computadora con el prototipo de la aplicación abierto. 
  - Cronómetro o celular. 
- - Celular o computadora con el Cuestionario de satisfacción abierto: https://www.questionpro.com/a/SurveyPreview
+ - Celular o computadora con el Cuestionario de satisfacción abierto: https://elika234.questionpro.com/t/AY8KjZ0ocM
 
 
 Para aplicar la prueba realizar lo siguiente: 
@@ -572,7 +572,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY1MDM5NDcsOTQ3NjQyMDM3LDEyND
+eyJoaXN0b3J5IjpbLTEyNDUwNTgzMDIsOTQ3NjQyMDM3LDEyND
 A5ODYzNSwxNTU5OTczNDM3LDE0Njg3NDUxNzUsNjM1MjQxMDM3
 LC0xNDU1MTQ0ODA5LDEwMDU2OTIzMjQsLTY1NjEwNzUwOCwyMz
 E3NjU5NDYsMTQwNTg2MDU4OCwtMTI4MTgyNzkzMiwxNDI2Mzk1
