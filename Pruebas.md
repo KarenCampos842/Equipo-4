@@ -78,7 +78,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 1</th>  
      </tr>
      <tr>  
-      <td>Tarea 1 Completada </td>
+      <td>Tarea 1 (mínimo 4 de  participantes completaron la tarea). </td>
       <td>
        <li>RF-1. Perfiles. </li>
       <li>RF-3. Registro del trabajador.</li>
@@ -86,7 +86,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       </td>    
      </tr>
      <tr>  
-      <td>Tarea 2 Completada</td>
+      <td>Tarea 2 (mínimo 4 participantes completaron la tarea).</td>
       <td>
       <li>RF-9. Creación del perfil de trabajador.</li>
       <li>RF-10. Inicio de sesión.</li>
@@ -581,7 +581,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODMxNTU1NDYsLTIwMzMwNDUzNjUsLT
+eyJoaXN0b3J5IjpbLTIwNzA2MzI1MDUsLTIwMzMwNDUzNjUsLT
 EyNDUwNTgzMDIsOTQ3NjQyMDM3LDEyNDA5ODYzNSwxNTU5OTcz
 NDM3LDE0Njg3NDUxNzUsNjM1MjQxMDM3LC0xNDU1MTQ0ODA5LD
 EwMDU2OTIzMjQsLTY1NjEwNzUwOCwyMzE3NjU5NDYsMTQwNTg2
