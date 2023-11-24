@@ -237,14 +237,14 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>
     <tr>  
       <td>2</td> 
-      <td>Regístrate como trabajador en la aplicación. </td>
+      <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión.</td>
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x</td>
        <td>x min</td>              
    </tr>
    <tr>  
-      <td>2</td> 
+      <td>3</td> 
       <td>Quieres saber que opinan tus clientes de tí. Lee sus comentarios y calificaciones.</td>
        <td>x</td>
        <td>Completada/No completada</td>
@@ -252,7 +252,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x min</td>              
    </tr>
     <tr>  
-      <td>3</td> 
+      <td>4</td> 
       <td>Quieres cambiar datos de tu perfil, edítalo.</td>
        <td>x</td>
        <td>Completada/No completada</td>
@@ -260,7 +260,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x min</td>              
    </tr>
     <tr>  
-      <td>4</td> 
+      <td>5</td> 
       <td>Se te ha notificado de nuevos trabajos, revisa tus notificaciones, rechaza a Greg Anderson y  acepta a Victoria Robertson. </td>
        <td>x</td>
        <td>Completada/No completada</td>
@@ -268,7 +268,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x min</td>              
    </tr>
    <tr>  
-      <td>5</td> 
+      <td>6</td> 
       <td>Revisa tu última conversación con Victoria Robertson. </td>
        <td>x</td>
        <td>Completada/No completada</td>
@@ -276,7 +276,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x min</td>              
    </tr>
    <tr>  
-      <td>6</td> 
+      <td>7</td> 
       <td>Ha finalizado tu contrato con Victoria Robertson, califícala.  </td>
        <td>x</td>
        <td>Completada/No completada</td>
@@ -284,7 +284,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x min</td>              
    </tr>
    <tr>  
-      <td>7</td> 
+      <td>8</td> 
       <td>Uno de tus clientes no asistió a la reunión que habían programado. Elimina tu chat con Luis Pérez Medina y cancela su contrato. </td>
        <td>x</td>
        <td>Completada/No completada</td>
@@ -292,7 +292,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x min</td>              
    </tr>
     <tr>  
-      <td>8</td> 
+      <td>9</td> 
       <td>Cancela tu membresía y sal de la aplicación. </td>
        <td>x</td>
        <td>Completada/No completada</td>
@@ -581,11 +581,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzMwOTgwMywtMjAzMzA0NTM2NSwtMT
-I0NTA1ODMwMiw5NDc2NDIwMzcsMTI0MDk4NjM1LDE1NTk5NzM0
-MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcsLTE0NTUxNDQ4MDksMT
-AwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMTc2NTk0NiwxNDA1ODYw
-NTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5NDEsLTM4NTc2OTgyOS
-wxNTgzOTk1NzUsLTEwMTc3MjE4MTksLTcyMjc2MjE0MCwtMTc2
-MDU4MjQyOF19
+eyJoaXN0b3J5IjpbNDY3OTYzNzc4LC0yMDMzMDQ1MzY1LC0xMj
+Q1MDU4MzAyLDk0NzY0MjAzNywxMjQwOTg2MzUsMTU1OTk3MzQz
+NywxNDY4NzQ1MTc1LDYzNTI0MTAzNywtMTQ1NTE0NDgwOSwxMD
+A1NjkyMzI0LC02NTYxMDc1MDgsMjMxNzY1OTQ2LDE0MDU4NjA1
+ODgsLTEyODE4Mjc5MzIsMTQyNjM5NTk0MSwtMzg1NzY5ODI5LD
+E1ODM5OTU3NSwtMTAxNzcyMTgxOSwtNzIyNzYyMTQwLC0xNzYw
+NTgyNDI4XX0=
 -->
