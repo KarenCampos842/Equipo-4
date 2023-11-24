@@ -326,6 +326,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <li>RF-5. Creación de contraseña.</li>
       <li>RF-8. Creación del perfil de cliente.</li>
       <li>RF-10. Inicio de sesión.</li>
+       <li>RF-21. Recuperación de contraseña.</li>
       </td>    
      </tr>
        <tr>  
@@ -554,11 +555,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxMDYxNjIxLDk0NzY0MjAzNywxMjQwOT
-g2MzUsMTU1OTk3MzQzNywxNDY4NzQ1MTc1LDYzNTI0MTAzNywt
-MTQ1NTE0NDgwOSwxMDA1NjkyMzI0LC02NTYxMDc1MDgsMjMxNz
-Y1OTQ2LDE0MDU4NjA1ODgsLTEyODE4Mjc5MzIsMTQyNjM5NTk0
-MSwtMzg1NzY5ODI5LDE1ODM5OTU3NSwtMTAxNzcyMTgxOSwtNz
-IyNzYyMTQwLC0xNzYwNTgyNDI4LC0yNTc3OTk4NTcsLTE2NDY2
-ODE4MjRdfQ==
+eyJoaXN0b3J5IjpbLTE3NDY4OTAwNTYsOTQ3NjQyMDM3LDEyND
+A5ODYzNSwxNTU5OTczNDM3LDE0Njg3NDUxNzUsNjM1MjQxMDM3
+LC0xNDU1MTQ0ODA5LDEwMDU2OTIzMjQsLTY1NjEwNzUwOCwyMz
+E3NjU5NDYsMTQwNTg2MDU4OCwtMTI4MTgyNzkzMiwxNDI2Mzk1
+OTQxLC0zODU3Njk4MjksMTU4Mzk5NTc1LC0xMDE3NzIxODE5LC
+03MjI3NjIxNDAsLTE3NjA1ODI0MjgsLTI1Nzc5OTg1NywtMTY0
+NjY4MTgyNF19
 -->
