@@ -87,13 +87,20 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
       <td> </td> 
       <td></td>     
        <td></td>  
+        </tr> 
+    <tr> 
+     <td>Cuenta con un servicio de karma para beneficiar a los trabajadores y clientes "mejor portados"</td> 
+    <td>X</td> 
+      <td> </td> 
+      <td></td>     
+       <td></td>  
     <tr> 
    </tr> 
  </table>      
  <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQyMDk0ODQsLTE3MDY3ODQ1MzYsLT
-E4Mzk5NzQ4MDUsLTEzODk3NzcyNzUsLTY3MjIzMDM0NCwtMjA5
-MDE0MzE5MCw2MDcxMTA5NjgsODE3NDYzMjY2LC0xODMwMTk1OT
-A5XX0=
+eyJoaXN0b3J5IjpbMzUwODY3MzI0LC0xNzA2Nzg0NTM2LC0xOD
+M5OTc0ODA1LC0xMzg5Nzc3Mjc1LC02NzIyMzAzNDQsLTIwOTAx
+NDMxOTAsNjA3MTEwOTY4LDgxNzQ2MzI2NiwtMTgzMDE5NTkwOV
+19
 -->
