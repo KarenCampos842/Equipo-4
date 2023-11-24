@@ -118,7 +118,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       </td>    
      </tr>
      <tr>  
-      <th colspan=2>Objetivo 3</th>  
+      <th colspan=2>Objetivo 4</th>  
      </tr>
      <tr>  
       <td>Tarea 5 Completada</td>
@@ -133,7 +133,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       </td>    
      </tr>
        <tr>  
-      <th colspan=2>Objetivo 4</th>  
+      <th colspan=2>Objetivo 5</th>  
      </tr>
      <tr>  
       <td>Tarea 6 Completada</td>
@@ -142,7 +142,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       </td>    
      </tr>
       <tr>  
-      <th colspan=2>Objetivo 5</th>  
+      <th colspan=2>Objetivo 6</th>  
      </tr>
      <tr>  
       <td>Tarea 3 Completada</td>
@@ -157,7 +157,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       </td>    
      </tr>
       <tr>  
-      <th colspan=2>Objetivo 6</th>  
+      <th colspan=2>Objetivo 7</th>  
      </tr>
      <tr>  
       <td>Máximo 1 error por tarea.</td>
@@ -229,7 +229,15 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr> 
     <tr>  
       <td>1</td> 
-      <td>Regístrate como trabajador en la aplicación e inicia sesión. </td>
+      <td>Regístrate como trabajador en la aplicación. </td>
+       <td>x</td>
+       <td>Completada/No completada</td>
+       <td>x</td>
+       <td>x min</td>              
+   </tr>
+    <tr>  
+      <td>2</td> 
+      <td>Regístrate como trabajador en la aplicación. </td>
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x</td>
@@ -573,7 +581,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjcwOTA2OCwtMjAzMzA0NTM2NSwtMT
+eyJoaXN0b3J5IjpbMTYwNzMwOTgwMywtMjAzMzA0NTM2NSwtMT
 I0NTA1ODMwMiw5NDc2NDIwMzcsMTI0MDk4NjM1LDE1NTk5NzM0
 MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcsLTE0NTUxNDQ4MDksMT
 AwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMTc2NTk0NiwxNDA1ODYw
