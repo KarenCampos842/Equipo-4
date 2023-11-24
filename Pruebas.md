@@ -169,7 +169,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>Tareas 1 al 9 completadas en el tiempo esperado.</td>
      </tr>
       <tr>  
-      <td>Un promedio de mínimo 4 para la pregunta:  Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</td>
+      <td>Un promedio de mínimo 3 para la pregunta:  Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</td>
      </tr>
       <tr>  
       <td><b>Cuestionario de satisfacción</b><br>
@@ -417,16 +417,16 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 7</th>  
      </tr>
      <tr>  
-      <td>Máximo 1 error por tarea.</td>
+      <td>Máximo 2 errores por tarea (por participante).</td>
       <td rowspan=4>
     RNF-27. El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios.
       </td>    
      </tr>
       <tr>  
-      <td>Tareas 1 al 8 completadas en el tiempo esperado</td>
+      <td>Tareas 1 al 9 completadas en el tiempo esperado</td>
      </tr>
       <tr>  
-      <td>Un promedio de mínimo 4  para la pregunta:  Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</td>
+      <td>Un promedio de mínimo 3  para la pregunta:  Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</td>
      </tr>
       <tr>  
       <td><b>Cuestionario de satisfacción</b><br>
@@ -581,11 +581,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2OTA0MTEwLC0yMDMzMDQ1MzY1LC0xMj
-Q1MDU4MzAyLDk0NzY0MjAzNywxMjQwOTg2MzUsMTU1OTk3MzQz
-NywxNDY4NzQ1MTc1LDYzNTI0MTAzNywtMTQ1NTE0NDgwOSwxMD
-A1NjkyMzI0LC02NTYxMDc1MDgsMjMxNzY1OTQ2LDE0MDU4NjA1
-ODgsLTEyODE4Mjc5MzIsMTQyNjM5NTk0MSwtMzg1NzY5ODI5LD
-E1ODM5OTU3NSwtMTAxNzcyMTgxOSwtNzIyNzYyMTQwLC0xNzYw
-NTgyNDI4XX0=
+eyJoaXN0b3J5IjpbLTEzMTU1MjY0NzQsLTIwMzMwNDUzNjUsLT
+EyNDUwNTgzMDIsOTQ3NjQyMDM3LDEyNDA5ODYzNSwxNTU5OTcz
+NDM3LDE0Njg3NDUxNzUsNjM1MjQxMDM3LC0xNDU1MTQ0ODA5LD
+EwMDU2OTIzMjQsLTY1NjEwNzUwOCwyMzE3NjU5NDYsMTQwNTg2
+MDU4OCwtMTI4MTgyNzkzMiwxNDI2Mzk1OTQxLC0zODU3Njk4Mj
+ksMTU4Mzk5NTc1LC0xMDE3NzIxODE5LC03MjI3NjIxNDAsLTE3
+NjA1ODI0MjhdfQ==
 -->
