@@ -229,7 +229,8 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr> 
     <tr>  
       <td>1</td> 
-      <td>Regístrate como trabajador en la aplicación. </td>
+      <td>Regístrate como trabajador en la aplicación.<br>
+      Nota: (Zona de trabajo: Mérida, Expiración de tar  </td>
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x</td>
@@ -581,11 +582,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTY4NjI3NCwtMjAzMzA0NTM2NSwtMT
-I0NTA1ODMwMiw5NDc2NDIwMzcsMTI0MDk4NjM1LDE1NTk5NzM0
-MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcsLTE0NTUxNDQ4MDksMT
-AwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMTc2NTk0NiwxNDA1ODYw
-NTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5NDEsLTM4NTc2OTgyOS
-wxNTgzOTk1NzUsLTEwMTc3MjE4MTksLTcyMjc2MjE0MCwtMTc2
-MDU4MjQyOF19
+eyJoaXN0b3J5IjpbMzg3NTEwNTgsMTcyMTY4NjI3NCwtMjAzMz
+A0NTM2NSwtMTI0NTA1ODMwMiw5NDc2NDIwMzcsMTI0MDk4NjM1
+LDE1NTk5NzM0MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcsLTE0NT
+UxNDQ4MDksMTAwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMTc2NTk0
+NiwxNDA1ODYwNTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5NDEsLT
+M4NTc2OTgyOSwxNTgzOTk1NzUsLTEwMTc3MjE4MTksLTcyMjc2
+MjE0MF19
 -->
