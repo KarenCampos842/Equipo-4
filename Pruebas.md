@@ -344,14 +344,14 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 3</th>  
      </tr>
      <tr>  
-      <td>Tarea 4 Completada</td>
+      <td>Tarea 5 Completada</td>
       <td>
        <li>RF-8. Creación del perfil de cliente.</li>
        <li>RF-15. Contratación del servicio.</li>
       </td>    
      </tr>
       <tr>  
-      <td>Tarea 8 Completada</td>
+      <td>Tarea 9 Completada</td>
       <td>
        <li>RF-19. Cancelación del servicio.</li>
       </td>    
@@ -360,7 +360,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 4</th>  
      </tr>
      <tr>  
-      <td>Tarea 6 Completada</td>
+      <td>Tarea 7 Completada</td>
       <td>
       <li>RF-6. Comentarios.</li>
        <li>RF-7. Calificaciones.</li>
@@ -371,7 +371,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 5</th>  
      </tr>
      <tr>  
-      <td>Tarea 4 Completada</td>
+      <td>Tarea 5 Completada</td>
       <td rowspan=3>
       <li>RF-14. Chat.</li>
       </td>    
@@ -563,11 +563,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTU3MTUwMiw5NDc2NDIwMzcsMTI0MD
-k4NjM1LDE1NTk5NzM0MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcs
-LTE0NTUxNDQ4MDksMTAwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMT
-c2NTk0NiwxNDA1ODYwNTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5
-NDEsLTM4NTc2OTgyOSwxNTgzOTk1NzUsLTEwMTc3MjE4MTksLT
-cyMjc2MjE0MCwtMTc2MDU4MjQyOCwtMjU3Nzk5ODU3LC0xNjQ2
-NjgxODI0XX0=
+eyJoaXN0b3J5IjpbNjA5MjQwODQ0LDk0NzY0MjAzNywxMjQwOT
+g2MzUsMTU1OTk3MzQzNywxNDY4NzQ1MTc1LDYzNTI0MTAzNywt
+MTQ1NTE0NDgwOSwxMDA1NjkyMzI0LC02NTYxMDc1MDgsMjMxNz
+Y1OTQ2LDE0MDU4NjA1ODgsLTEyODE4Mjc5MzIsMTQyNjM5NTk0
+MSwtMzg1NzY5ODI5LDE1ODM5OTU3NSwtMTAxNzcyMTgxOSwtNz
+IyNzYyMTQwLC0xNzYwNTgyNDI4LC0yNTc3OTk4NTcsLTE2NDY2
+ODE4MjRdfQ==
 -->
