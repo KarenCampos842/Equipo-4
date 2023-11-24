@@ -78,7 +78,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 1</th>  
      </tr>
      <tr>  
-      <td>Tarea 1 (mínimo 4 de  participantes completaron la tarea). </td>
+      <td>Tarea 1 (mínimo 4 de 6 participantes completaron la tarea). </td>
       <td>
        <li>RF-1. Perfiles. </li>
       <li>RF-3. Registro del trabajador.</li>
@@ -86,7 +86,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       </td>    
      </tr>
      <tr>  
-      <td>Tarea 2 (mínimo 4 participantes completaron la tarea).</td>
+      <td>Tarea 2 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
       <li>RF-9. Creación del perfil de trabajador.</li>
       <li>RF-10. Inicio de sesión.</li>
@@ -97,13 +97,13 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 2</th>  
      </tr>
      <tr>
-     <td>Tarea 5 Completada</td>
+     <td>Tarea 5 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
       <li>RF-15. Contratación del servicio.</li>
       </td>    
      </tr>
       <tr>
-     <td>Tarea 8 Completada</td>
+     <td>Tarea 8 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
       <li>RF-19. Cancelación del servicio.</li>
       </td>    
@@ -112,7 +112,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 3</th>  
      </tr>
      <tr>  
-      <td>Tarea 3 Completada</td>
+      <td>Tarea 3 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
       <li>RF-9. Creación del perfil de trabajador. </li>
       </td>    
@@ -121,13 +121,13 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 4</th>  
      </tr>
      <tr>  
-      <td>Tarea 6 Completada</td>
+      <td>Tarea 6 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
       <li>RF-14. Chat.</li>
       </td>    
      </tr>
       <tr>  
-      <td>Tarea 8 Completada</td>
+      <td>Tarea 8 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
       <li>RF-14. Chat.</li>
       </td>    
@@ -136,7 +136,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 5</th>  
      </tr>
      <tr>  
-      <td>Tarea 7 Completada</td>
+      <td>Tarea 7 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
       <li>RF-16. Calificación del cliente.</li>
       </td>    
@@ -145,13 +145,13 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 6</th>  
      </tr>
      <tr>  
-      <td>Tarea 4 Completada</td>
+      <td>Tarea 4 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
       <li>RF-22. Modificación de perfil.</li>
       </td>    
      </tr>
       <tr>  
-      <td>Tarea 9 Completada</td>
+      <td>Tarea 9 (mínimo 4 de 6 participantes completaron la tarea).</td>
       <td>
       <li>RF-20. Cancelación de la cuenta por parte del trabajador.</li>
       </td>    
@@ -581,11 +581,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA2MzI1MDUsLTIwMzMwNDUzNjUsLT
-EyNDUwNTgzMDIsOTQ3NjQyMDM3LDEyNDA5ODYzNSwxNTU5OTcz
-NDM3LDE0Njg3NDUxNzUsNjM1MjQxMDM3LC0xNDU1MTQ0ODA5LD
-EwMDU2OTIzMjQsLTY1NjEwNzUwOCwyMzE3NjU5NDYsMTQwNTg2
-MDU4OCwtMTI4MTgyNzkzMiwxNDI2Mzk1OTQxLC0zODU3Njk4Mj
-ksMTU4Mzk5NTc1LC0xMDE3NzIxODE5LC03MjI3NjIxNDAsLTE3
-NjA1ODI0MjhdfQ==
+eyJoaXN0b3J5IjpbLTg2MzYxMDc1OCwtMjAzMzA0NTM2NSwtMT
+I0NTA1ODMwMiw5NDc2NDIwMzcsMTI0MDk4NjM1LDE1NTk5NzM0
+MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcsLTE0NTUxNDQ4MDksMT
+AwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMTc2NTk0NiwxNDA1ODYw
+NTg4LC0xMjgxODI3OTMyLDE0MjYzOTU5NDEsLTM4NTc2OTgyOS
+wxNTgzOTk1NzUsLTEwMTc3MjE4MTksLTcyMjc2MjE0MCwtMTc2
+MDU4MjQyOF19
 -->
