@@ -63,13 +63,11 @@ RNF-28.  El sistema no deberá de ocupar más de 500 MB de almacenamiento intern
 
 RNF-29.  Los servicios ofrecidos por los trabajadores deben ser legales (estar dentro de los servicios permitidos por las leyes y lo podremos resolver verificando los servicios ofrecidos continuamente).
 
-RNF-30. El sistema deberá manejar correcta y extensamente los idiomas del Español e Inglés.
+RNF-30. Se debe de contar en todo momento un respaldo ante desastres en la nube para el sistema en desarrollo.
 
-RNF-31. Se debe de contar en todo momento un respaldo ante desastres en la nube para el sistema en desarrollo.
+RNF-31. Cada 2 semanas se deberán de producir reportes gerenciales en los que se mostrará el esfuerzo invertido en cada uno de los componentes del nuevo sistema.
 
-RNF-32. Cada 2 semanas se deberán de producir reportes gerenciales en los que se mostrará el esfuerzo invertido en cada uno de los componentes del nuevo sistema.
-
-RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores que no estén incluidos en los perfiles públicos y con previa autorización de ellos.
+RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores que no estén incluidos en los perfiles públicos y con previa autorización de ellos.
 
 
 
@@ -80,7 +78,7 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 | Must Have| Should Have | Could Have |Won't Have|
 |---------|---------|---------|---------|
-|1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 21, 22, 24, 25, 26, 27, 29, 310, 332|6, 7, 16, 17, 20, 28, 30, 321|23||
+|1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 21, 22, 24, 25, 26, 27, 29, 30, 32|6, 7, 16, 17, 20, 28, 31|23||
 
 
 
@@ -1226,6 +1224,6 @@ RNF-33. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5NjcxNjY0LC0xNTMyMzI2MTU1LC03MT
+eyJoaXN0b3J5IjpbLTIyMTExNTQ4LC0xNTMyMzI2MTU1LC03MT
 QyOTQxMzUsLTYzMjg3ODQ5NSwtNjEwNzM5MDA3XX0=
 -->
