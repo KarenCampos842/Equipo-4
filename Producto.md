@@ -117,7 +117,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
       <th>Grupos de Facebook</th>
    </tr> 
     <tr> 
-    <td>Poder ver exclusivamente reseñas de personas que hayan adquirido sus servicios.</td>  
+    <td>Observar exclusivamente reseñas de personas que hayan adquirido los servicios.</td>  
       <td>X</td> 
       <td> </td> 
       <td></td>     
@@ -156,8 +156,8 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
     </table>      
  <br> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjYyMTAzNTAsMTgxNTI2NDQ2MywzNT
-A4NjczMjQsLTE3MDY3ODQ1MzYsLTE4Mzk5NzQ4MDUsLTEzODk3
-NzcyNzUsLTY3MjIzMDM0NCwtMjA5MDE0MzE5MCw2MDcxMTA5Nj
-gsODE3NDYzMjY2LC0xODMwMTk1OTA5XX0=
+eyJoaXN0b3J5IjpbMTY2ODY3NzMxNCwxODE1MjY0NDYzLDM1MD
+g2NzMyNCwtMTcwNjc4NDUzNiwtMTgzOTk3NDgwNSwtMTM4OTc3
+NzI3NSwtNjcyMjMwMzQ0LC0yMDkwMTQzMTkwLDYwNzExMDk2OC
+w4MTc0NjMyNjYsLTE4MzAxOTU5MDldfQ==
 -->
