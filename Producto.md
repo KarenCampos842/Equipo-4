@@ -103,8 +103,6 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        <td>X</td>  
     <tr> 
    </tr> 
-    <tr> 
-   </tr> 
  </table>      
  <br>
  <table align=center>  
@@ -133,7 +131,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        <td>X</td>  
        </tr> 
     <tr> 
-     <td>La posibilidad de elegir que trabajos realizar (por horario o cercanía).</td> 
+     <td>La posibilidad de elegir que trabajos realizar aceptando las solicitude(por horario o cercanía).</td> 
     <td>X</td> 
       <td> X</td> 
       <td></td>     
@@ -160,16 +158,21 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
       <td> </td> 
       <td></td>     
        <td></td>  
+       </tr> 
     <tr> 
-   </tr> 
+     <td>Chat para acordar precios y horarios con el cliente.</td> 
+    <td>X</td> 
+      <td>X </td> 
+      <td></td>     
+       <td>X</td>  
         </tr> 
     <tr>  
     </table>      
  <br> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5NDk1NjE0LDE0NTU2NTczMDcsMTcwMz
-gyNzkxMCwxODE1MjY0NDYzLDM1MDg2NzMyNCwtMTcwNjc4NDUz
-NiwtMTgzOTk3NDgwNSwtMTM4OTc3NzI3NSwtNjcyMjMwMzQ0LC
-0yMDkwMTQzMTkwLDYwNzExMDk2OCw4MTc0NjMyNjYsLTE4MzAx
-OTU5MDldfQ==
+eyJoaXN0b3J5IjpbMTAzNjU1MDQ1NCwxNDU1NjU3MzA3LDE3MD
+M4Mjc5MTAsMTgxNTI2NDQ2MywzNTA4NjczMjQsLTE3MDY3ODQ1
+MzYsLTE4Mzk5NzQ4MDUsLTEzODk3NzcyNzUsLTY3MjIzMDM0NC
+wtMjA5MDE0MzE5MCw2MDcxMTA5NjgsODE3NDYzMjY2LC0xODMw
+MTk1OTA5XX0=
 -->
