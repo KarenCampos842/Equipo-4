@@ -8,7 +8,7 @@
 
  
   **Diálogo proceso (1:30 min)**
-La idea
+
  
  **Diálogo producto (2 min)** 
 
@@ -21,5 +21,5 @@ La idea
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1MTE5MTY3LC04Mjk3MDY5NjhdfQ==
+eyJoaXN0b3J5IjpbMTA3MTg4MTk0MSwtODI5NzA2OTY4XX0=
 -->
