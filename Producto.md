@@ -68,7 +68,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        </tr> 
         </tr> 
     <tr> 
-     <td>Los clientes cuentan con la seguridad de que los trabajadores fueron verificados con documentos oficiales.</td> 
+     <td>Los clientes cuentan con la seguridad de que los trabajadores fueron verificados con documentos oficiales .</td> 
     <td>X</td> 
       <td> </td> 
       <td>X</td>     
@@ -156,8 +156,8 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
     </table>      
  <br> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzgyNzkxMCwxODE1MjY0NDYzLDM1MD
-g2NzMyNCwtMTcwNjc4NDUzNiwtMTgzOTk3NDgwNSwtMTM4OTc3
-NzI3NSwtNjcyMjMwMzQ0LC0yMDkwMTQzMTkwLDYwNzExMDk2OC
-w4MTc0NjMyNjYsLTE4MzAxOTU5MDldfQ==
+eyJoaXN0b3J5IjpbMTYzODY5ODk0MiwxNzAzODI3OTEwLDE4MT
+UyNjQ0NjMsMzUwODY3MzI0LC0xNzA2Nzg0NTM2LC0xODM5OTc0
+ODA1LC0xMzg5Nzc3Mjc1LC02NzIyMzAzNDQsLTIwOTAxNDMxOT
+AsNjA3MTEwOTY4LDgxNzQ2MzI2NiwtMTgzMDE5NTkwOV19
 -->
