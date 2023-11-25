@@ -34,7 +34,138 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
 ## Usuarios
 
 ## Innovación
+<table align=center>  
+   <tr>  
+  <td colspan=4>Necesidad: Buscar rápido trabajadores o servicios cercanos y confiables.</td>
+   </tr> 
+   <tr>  
+     <th>Característica</th>  
+      <th>WorkFlash</th> 
+      <th>Ayfix</th>
+      <th>Fever</th>
+      <th>Grupos de Facebook</th>
+   </tr> 
+    <tr> 
+    <td>Observar exclusivamente las reseñas de personas que hayan adquirido los servicios de cada trabajador.</td>  
+      <td>X</td> 
+      <td> </td> 
+      <td></td>     
+       <td></td> 
+       </tr> 
+    <tr> 
+    <td>Poder ver disponibilidad de cada trabajador (para adquirir servicios rápidos).</td> 
+    <td>X</td> 
+      <td> </td> 
+      <td></td>     
+       <td>X</td>  
+       </tr> 
+    <tr> 
+     <td>La posibilidad de filtrar a los trabajadores por municipio (cercanía).</td> 
+    <td>X</td> 
+      <td> </td> 
+      <td></td>     
+       <td></td>  
+       </tr> 
+        </tr> 
+    <tr> 
+     <td>Los clientes cuentan con la seguridad de que los trabajadores fueron verificados con documentos oficiales (Cartilla militar o INE).</td> 
+    <td>X</td> 
+      <td> </td> 
+      <td>X</td>     
+       <td></td>  
+        </tr> 
+    <tr> 
+     <td>Poder reportar a trabajadores por incumplimiento de contrato o estafas.</td> 
+    <td>X</td> 
+      <td> </td> 
+      <td>X</td>     
+       <td>X</td>  
+        </tr> 
+    <tr> 
+     <td>Cancelación de las cuentas de trabajadores que hayan cancelado 3 veces seguidas un contrato o presenten 5 reportes.</td> 
+    <td>X</td> 
+      <td> </td> 
+      <td></td>     
+       <td></td>  
+          </tr> 
+    <tr> 
+     <td>Chat para acordar precios y horarios con el trabajador.</td> 
+    <td>X</td> 
+      <td>X </td> 
+      <td></td>     
+       <td>X</td>  
+    <tr> 
+   </tr> 
+ </table>      
+ <br>
+ 
+<table align=center>  
+   <tr> 
+  <td colspan=4>Necesidad: Poder conseguir publicidad y empleo ofreciendo servicios con base a su experiencia empírica.</td>
+   </tr> 
+   <tr>  
+     <th>Característica</th>  
+      <th>WorkFlash</th> 
+      <th>Ayfix</th>
+      <th>Fever</th>
+      <th>Grupos de Facebook</th>
+   </tr> 
+    <tr> 
+    <td>Poder calificar a los clientes por su comportamiento o trato.</td>  
+      <td>X</td> 
+      <td> </td> 
+      <td></td>     
+       <td></td> 
+       </tr> 
+    <tr> 
+    <td>Poder ofrecer diferentes servicios con experiencias adquiridas empíricamente.</td> 
+    <td>X</td> 
+      <td> </td> 
+      <td></td>     
+       <td>X</td>  
+       </tr> 
+    <tr> 
+     <td>La posibilidad de elegir los trabajos a realizar (por horario, cercanía o calificación del cliente) aceptando o rechazando las solicitudes de los clientes .</td> 
+    <td>X</td> 
+      <td> X</td> 
+      <td></td>     
+       <td>X</td>  
+       </tr> 
+        </tr> 
+    <tr> 
+     <td>La posibilidad de diferenciarse de su competencia resaltando sus habilidades en su perfil.</td> 
+    <td>X</td> 
+      <td> </td> 
+      <td></td>     
+       <td>X</td>  
+        </tr> 
+       <td>Eliminación de las cuentas de clientes que cancelen 3 veces seguidas un contrato.</td> 
+    <td>X</td> 
+      <td> </td> 
+      <td></td>     
+       <td></td>  
+       </tr> 
+    <tr> 
+     <td>Chat para acordar precios y horarios con el cliente.</td> 
+    <td>X</td> 
+      <td>X </td> 
+      <td></td>     
+       <td>X</td>  
+        </tr> 
+    <tr>  
+    </table>      
+ <br> 
 
+## Resumen
+WorkFlash es único en el mundo, combina lo mejor de un servicio: que sea rápido, confiable y todo en un solo lugar. ¿Alguna vez te ha pasado que algo indispensable en tu día a día deja de funcionar? ¿Y te urge que regrese a la vida? Pero cuando buscas a alguien para que lo repare se presentan múltiples excusas como: "Ahorita no puedo", "me queda lejos" o simplemente te cambian los precios hasta llegar a caer en una estafa.
+WorkFlash viene a hacer que esos problemas desaparezcan; que el encontrar a un trabajador sea rápido, fácil y confiable con su método de registro de clientes y trabajadores en la que los trabajadores podrán publicitarse, ofrecer sus servicios y obtener empleos en donde antes parecía imposible.
+Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan con sus expectativas, ya sea por rendimiento, cercanía o precio.
+Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio.
+Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3NDYzMjY2LC0xODMwMTk1OTA5XX0=
+eyJoaXN0b3J5IjpbNDM0ODA1MjE4LDE4MDEyMTkxMiwtMTI3OT
+g3NTQ0NSwxNDU1NjU3MzA3LDE3MDM4Mjc5MTAsMTgxNTI2NDQ2
+MywzNTA4NjczMjQsLTE3MDY3ODQ1MzYsLTE4Mzk5NzQ4MDUsLT
+EzODk3NzcyNzUsLTY3MjIzMDM0NCwtMjA5MDE0MzE5MCw2MDcx
+MTA5NjgsODE3NDYzMjY2LC0xODMwMTk1OTA5XX0=
 -->
