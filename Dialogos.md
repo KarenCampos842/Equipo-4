@@ -11,8 +11,8 @@
  ¿Quién no ha pasado por una situación similar a la anterior? Bueno, nosotros sí. Fueron nuestros infortunios lo que nos inspiró a crear WorkFlash. Así, comenzó todo, con un baño desastroso. 
 Después de varias pláticas, diferencias y acuerdos, logramos concretar nuestra idea y poner manos a la obra. 
 Para nuestro proyecto utilizamos la metodología ágil SCRUM como guía y nos apoyamos de diversas herramientas para volver a WorkFlash una realidad, herramientas como GitHub, WhatsApp, Teams, StackEdit y Figma. 
-En GitHub creamos un repositorio con una rama para cada entrega. Dentro de cada rama se crearon archivos para cada sección en la que se dividió el trabajo, y cada integrante creo la propia, desde la cual realizaba podía realizar un pull request para hacer merge con la rama de la entrega correspondiente. 
-Sucedieron muchas cosas durante el proyecto. Aprendimos a utilizar varias de las herramientas en el camino, aprendimos a trabajar como equipo, a equivocarnos y a corregir nuestros errores aún más rápido; y   después de numerosos cambios a los requerimientos, de todas las reuniones diarias de scrum y de las correcciones a las interfaces, WorkFlash se volvió realidad.
+En GitHub creamos un repositorio con una rama para cada entrega. Dentro de cada rama se crearon archivos para cada sección en la que se dividió el trabajo, y cada integrante creo la propia, desde la cual  podía realizar un pull request para hacer merge con la rama de la entrega correspondiente. 
+Sucedieron muchas cosas durante el proyecto. Aprendimos a utilizar varias de las herramientas en el camino, como GitHub,  aprendimos a trabajar como equipo, a equivocarnos y a corregir nuestros errores aún más rápido. En ocaciones y   después de numerosos cambios a los requerimientos, de todas las reuniones diarias de scrum y de las correcciones a las interfaces, WorkFlash se volvió realidad.
 Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resultado. Éste es WorkFlash.
  
  **Diálogo producto (2 min)** 
@@ -26,6 +26,7 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjM5MTY0NywtMTQxMDQ5NDI1MiwtOT
-E1NDYwOTIxLDIwNDY2NDE0NDYsLTgyOTcwNjk2OF19
+eyJoaXN0b3J5IjpbLTIwODkxMTYxOTUsMTcwMjM5MTY0NywtMT
+QxMDQ5NDI1MiwtOTE1NDYwOTIxLDIwNDY2NDE0NDYsLTgyOTcw
+Njk2OF19
 -->
