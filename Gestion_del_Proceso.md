@@ -3,9 +3,10 @@
 ## Bitácora
 **Viernes 17 de noviembre de 2023 (Retrospective)**<br> Durante la reunión se realizó un análisis del desempeño del equipo durante los primeros dos sprints. Cada integrante se comprometió a entregar sus actividades en tiempo y forma. 
 
-**Martes 21 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 23. Hubo un retraso con la actividad innovación. Hansony se comprometió a tenerla lista para el miércoles 22 de noviembre y Karen se comprometió a revisarla el jueves 23. 
+**Martes 21 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 23. Hubo un retraso con la actividad innovación (por enfermedad). Hansony se comprometió a tenerla lista para el jueves 23 de noviembre.
+
 Producto: 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="">Producto.md</a>
 
 Fecha límite: 23/11/2023
 
@@ -343,7 +344,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njk5MTY1NjUsMTc4NDI4NzI5OCw0NT
+eyJoaXN0b3J5IjpbLTE3NTgxNDgxOTksMTc4NDI4NzI5OCw0NT
 QwMTE4MCwtMTI2OTA3NDkyMywxMzMzMjIxMDY5LDM0MjU4MzA3
 LC0xMTI2MzQ3NTU5LDE3MTIwNjAyNTksMTkyMjc2OTE2MywxNT
 c1NzMxODgyLDE3NzU2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3
