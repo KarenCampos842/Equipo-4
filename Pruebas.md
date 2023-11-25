@@ -26,7 +26,7 @@ Los datos recabados serán utilizados con propósitos escolares. Nos servirán p
 **Materiales** 
 
  - Formato 1 o 2 localizados al final del apartado de Protocolo (impreso o digital). 
- - Computadora con el prototipo de la aplicación abierto. 
+ - Computadora con el prototipo de la aplicación abierto: https://www.figma.com/file/WxkTPx8zGQiWg8UpDYWTxF/Dise%C3%B1o-modificado-(WorkFlash)?type=design&node-id=54702%3A25212&mode=design&t=xLKaaMpvV5pZPDRM-1
  - Cronómetro o celular. 
  - Celular o computadora con el Cuestionario de satisfacción abierto: https://elika234.questionpro.com/t/AY8KjZ0ocM
 
@@ -582,11 +582,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDMzNDk2NzQsLTE4NTI2MjY5ODYsLT
-IyMDEyMTUzNiwxNzIxNjg2Mjc0LC0yMDMzMDQ1MzY1LC0xMjQ1
-MDU4MzAyLDk0NzY0MjAzNywxMjQwOTg2MzUsMTU1OTk3MzQzNy
-wxNDY4NzQ1MTc1LDYzNTI0MTAzNywtMTQ1NTE0NDgwOSwxMDA1
-NjkyMzI0LC02NTYxMDc1MDgsMjMxNzY1OTQ2LDE0MDU4NjA1OD
-gsLTEyODE4Mjc5MzIsMTQyNjM5NTk0MSwtMzg1NzY5ODI5LDE1
-ODM5OTU3NV19
+eyJoaXN0b3J5IjpbLTQwMzM4NzkxOSwtMTY0MzM0OTY3NCwtMT
+g1MjYyNjk4NiwtMjIwMTIxNTM2LDE3MjE2ODYyNzQsLTIwMzMw
+NDUzNjUsLTEyNDUwNTgzMDIsOTQ3NjQyMDM3LDEyNDA5ODYzNS
+wxNTU5OTczNDM3LDE0Njg3NDUxNzUsNjM1MjQxMDM3LC0xNDU1
+MTQ0ODA5LDEwMDU2OTIzMjQsLTY1NjEwNzUwOCwyMzE3NjU5ND
+YsMTQwNTg2MDU4OCwtMTI4MTgyNzkzMiwxNDI2Mzk1OTQxLC0z
+ODU3Njk4MjldfQ==
 -->
