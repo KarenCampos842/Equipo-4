@@ -8,7 +8,8 @@
 
  
   **Diálogo proceso (1:30 min)**
-WorkFlash comenzó con una simple plática entre compañeros.  pasó por números cambios a lo largo del camino. 
+WorkFlash comenzó con una simple plática entre compañeros. 
+ pasó por números cambios a lo largo del camino. 
  
  **Diálogo producto (2 min)** 
 
@@ -21,5 +22,5 @@ WorkFlash comenzó con una simple plática entre compañeros.  pasó por número
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODE1Mzg2MiwtODI5NzA2OTY4XX0=
+eyJoaXN0b3J5IjpbNTY4MjQwNDI0LC04Mjk3MDY5NjhdfQ==
 -->
