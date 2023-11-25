@@ -8,7 +8,7 @@
 
  
   **Diálogo proceso (1:30 min)**
-WorkFlash comenzó por situaciones cómo la que acaban de presenciar. Entre más platicábamos 
+  WorkFlash nació gracias a experiencias como la que acaban de presenciar. Entre más platicábamos y compartíamos cómo equipo, m
  
  **Diálogo producto (2 min)** 
 
@@ -21,5 +21,5 @@ WorkFlash comenzó por situaciones cómo la que acaban de presenciar. Entre más
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0MjA1MjIxLC04Mjk3MDY5NjhdfQ==
+eyJoaXN0b3J5IjpbLTEzMTYxOTYzNDUsLTgyOTcwNjk2OF19
 -->
