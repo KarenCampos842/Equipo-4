@@ -172,11 +172,11 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
  <br> 
 
 ## Resumen
-
+WorkFlash es único en el mundo, combina lo mejor de un servicio: rápido, confiable 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk4NzU0NDUsMTQ1NTY1NzMwNywxNz
-AzODI3OTEwLDE4MTUyNjQ0NjMsMzUwODY3MzI0LC0xNzA2Nzg0
-NTM2LC0xODM5OTc0ODA1LC0xMzg5Nzc3Mjc1LC02NzIyMzAzND
-QsLTIwOTAxNDMxOTAsNjA3MTEwOTY4LDgxNzQ2MzI2NiwtMTgz
-MDE5NTkwOV19
+eyJoaXN0b3J5IjpbLTQzMzAxOTg5MSwtMTI3OTg3NTQ0NSwxND
+U1NjU3MzA3LDE3MDM4Mjc5MTAsMTgxNTI2NDQ2MywzNTA4Njcz
+MjQsLTE3MDY3ODQ1MzYsLTE4Mzk5NzQ4MDUsLTEzODk3NzcyNz
+UsLTY3MjIzMDM0NCwtMjA5MDE0MzE5MCw2MDcxMTA5NjgsODE3
+NDYzMjY2LC0xODMwMTk1OTA5XX0=
 -->
