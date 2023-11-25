@@ -250,7 +250,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x</td>
-       <td>x min</td>              
+         <td>x s</td>                       
    </tr>
     <tr>  
       <td>4</td> 
@@ -258,7 +258,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x</td>
-       <td>x min</td>              
+       <td>x s</td>                       
    </tr>
     <tr>  
       <td>5</td> 
@@ -266,7 +266,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x</td>
-       <td>x min</td>              
+       <td>x s</td>                   
    </tr>
    <tr>  
       <td>6</td> 
@@ -274,7 +274,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x</td>
-       <td>x min</td>              
+        <td>x s</td>                    
    </tr>
    <tr>  
       <td>7</td> 
@@ -282,7 +282,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x</td>
-       <td>x min</td>              
+        <td>x s</td>                 
    </tr>
    <tr>  
       <td>8</td> 
@@ -290,7 +290,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x</td>
-       <td>x min</td>              
+     <td>x s</td>                        
    </tr>
     <tr>  
       <td>9</td> 
@@ -298,7 +298,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x</td>
        <td>Completada/No completada</td>
        <td>x</td>
-       <td>x min</td>              
+       <td>x s</td>                
    </tr>
    <tr>  
       <th>Descripción de errores</th>
@@ -491,7 +491,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x</td>
        <td>Completada/No completada</td>
         <td>x</td>
-       <td>x min</td>              
+       <td>x s</td>                    
    </tr>
    <tr>  
       <td>2</td> 
@@ -499,7 +499,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x</td>
        <td>Completada/No completada</td>
         <td>x</td>
-       <td>x min</td>              
+       <td>x s</td>              
    </tr>
    <tr>  
       <td>3</td> 
@@ -507,7 +507,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x</td>
        <td>Completada/No completada</td>
         <td>x</td>
-       <td>x min</td>              
+       <td>x s</td>              
    </tr>
     <tr>  
       <td>4</td> 
@@ -515,7 +515,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x</td>
        <td>Completada/No completada</td>
         <td>x</td>
-       <td>x min</td>              
+       <td>x s</td>              
    </tr>
     <tr>  
       <td>5</td> 
@@ -523,7 +523,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x</td>
        <td>Completada/No completada</td>
         <td>x</td>
-       <td>x min</td>              
+       <td>x s</td>              
    </tr>
    <tr>  
       <td>6</td> 
@@ -531,7 +531,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x</td>
        <td>Completada/No completada</td>
         <td>x</td>
-       <td>x min</td>              
+       <td>x s</td>              
    </tr>
    <tr>  
       <td>7</td> 
@@ -539,7 +539,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x</td>
        <td>Completada/No completada</td>
         <td>x</td>
-       <td>x min</td>              
+       <td>x s</td>              
    </tr>
    <tr>  
       <td>8</td> 
@@ -547,14 +547,14 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>x</td>
        <td>Completada/No completada</td>
         <td>x</td>
-       <td>x min</td>              
+       <td>x s</td>              
    </tr>
    <tr>  
       <td>9</td> 
       <td>Ha surgido un inconveniente y debes de cancelar uno de tus contratos. Cancela tu contrato con la manicurista Cintia Acosta López y cierra cesión.  </td>
        <td>x</td>
        <td>Completada/No completada</td>
-       <td>x min</td>              
+       <td>x s</td>              
    </tr>
    <tr>  
       <th>Descripción de errores</th>
@@ -694,11 +694,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjk3NTM0MywxMDMyMDQwNTQxLC01Mz
-c3MTkxNTgsLTQwMzM4NzkxOSwtMTY0MzM0OTY3NCwtMTg1MjYy
-Njk4NiwtMjIwMTIxNTM2LDE3MjE2ODYyNzQsLTIwMzMwNDUzNj
-UsLTEyNDUwNTgzMDIsOTQ3NjQyMDM3LDEyNDA5ODYzNSwxNTU5
-OTczNDM3LDE0Njg3NDUxNzUsNjM1MjQxMDM3LC0xNDU1MTQ0OD
-A5LDEwMDU2OTIzMjQsLTY1NjEwNzUwOCwyMzE3NjU5NDYsMTQw
-NTg2MDU4OF19
+eyJoaXN0b3J5IjpbLTE0NDYwMDQzMTEsLTUyMjk3NTM0MywxMD
+MyMDQwNTQxLC01Mzc3MTkxNTgsLTQwMzM4NzkxOSwtMTY0MzM0
+OTY3NCwtMTg1MjYyNjk4NiwtMjIwMTIxNTM2LDE3MjE2ODYyNz
+QsLTIwMzMwNDUzNjUsLTEyNDUwNTgzMDIsOTQ3NjQyMDM3LDEy
+NDA5ODYzNSwxNTU5OTczNDM3LDE0Njg3NDUxNzUsNjM1MjQxMD
+M3LC0xNDU1MTQ0ODA5LDEwMDU2OTIzMjQsLTY1NjEwNzUwOCwy
+MzE3NjU5NDZdfQ==
 -->
