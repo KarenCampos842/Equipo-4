@@ -3,7 +3,7 @@
 ## Bitácora
 **Viernes 17 de noviembre de 2023 (Retrospective)**<br> Durante la reunión se realizó un análisis del desempeño del equipo durante los primeros dos sprints.      Cada integrante se comprometió a entregar sus actividades en tiempo y forma. 
 
-**Martes 21 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajao <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>
+**Martes 21 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo. C <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>
 
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>
@@ -344,7 +344,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjcxMzY0MiwxNzg0Mjg3Mjk4LDQ1ND
+eyJoaXN0b3J5IjpbLTYzODc4NDAwMiwxNzg0Mjg3Mjk4LDQ1ND
 AxMTgwLC0xMjY5MDc0OTIzLDEzMzMyMjEwNjksMzQyNTgzMDcs
 LTExMjYzNDc1NTksMTcxMjA2MDI1OSwxOTIyNzY5MTYzLDE1Nz
 U3MzE4ODIsMTc3NTY1MDE5MCwyMDE3MDgwMDc1LDgxODEwMTcw
