@@ -9,7 +9,7 @@
  
   **Diálogo proceso (1:30 min)**
  ¿Quién no ha pasado por una situación similar a la anterior? Bueno, nosotros sí. Fueron nuestras experiencias e infortunios lo que nos inspiró a crear WorkFlash. Así, comenzó todo, con un baño desastroso. Y una vez, que tuvimos la idea, pusimos manos a la obra. 
-Utilizamos diversas herramientas para volver a WorkFlash una realidad, herramientas como GitHub, WhatsApp, Teams, StackEdit y Figma. Aprendimos a utilizar varias de ellas en el camino, aprendimos a trabajar como equipo, y después de numerosos cambios a 
+Utilizamos diversas herramientas para volver a WorkFlash una realidad, herramientas como GitHub, WhatsApp, Teams, StackEdit y Figma. Aprendimos a utilizar varias de ellas en el camino, aprendimos a equivocarnos y a limpiar nuestro desastre, a trabajar como equipo, y después de numerosos cambios a los requerimientos
  
  **Diálogo producto (2 min)** 
 
@@ -22,5 +22,5 @@ Utilizamos diversas herramientas para volver a WorkFlash una realidad, herramien
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTkwNTA3MSwtODI5NzA2OTY4XX0=
+eyJoaXN0b3J5IjpbLTE2MjE2NDUyNTIsLTgyOTcwNjk2OF19
 -->
