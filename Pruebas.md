@@ -607,7 +607,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>0</td>
        <td>Completada</td>
         <td>5</td>
-       <td>0.44 min</td>              
+       <td>0.44 s</td>              
    </tr>
    <tr>  
       <td>2</td> 
@@ -615,7 +615,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>0</td>
        <td>Completada</td>
         <td>5</td>
-       <td>0.23 min</td>              
+       <td>0.23 s</td>              
    </tr>
    <tr>  
       <td>3</td> 
@@ -623,7 +623,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>0</td>
        <td>Completada</td>
         <td>5</td>
-       <td>0.23 min</td>              
+       <td>0.23 s</td>              
    </tr>
     <tr>  
       <td>4</td> 
@@ -631,7 +631,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>1</td>
        <td>Completada</td>
         <td>4</td>
-       <td>1.13 min</td>              
+       <td>67.8 s</td>              
    </tr>
     <tr>  
       <td>5</td> 
@@ -639,7 +639,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>0</td>
        <td>Completada</td>
         <td>5</td>
-       <td>0.23 min</td>              
+       <td>0.23 s</td>              
    </tr>
    <tr>  
       <td>6</td> 
@@ -647,7 +647,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>0</td>
        <td>Completada/No completada</td>
         <td>5</td>
-       <td>0.06 min</td>              
+       <td>0.06 s</td>              
    </tr>
    <tr>  
       <td>7</td> 
@@ -655,7 +655,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>1</td>
        <td>Completada/No completada</td>
         <td>5</td>
-       <td>0.26 min</td>              
+       <td>0.26 s</td>              
    </tr>
    <tr>  
       <td>8</td> 
@@ -694,7 +694,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI2MzEwNiwxMDMyMDQwNTQxLC01Mz
+eyJoaXN0b3J5IjpbLTUyMjk3NTM0MywxMDMyMDQwNTQxLC01Mz
 c3MTkxNTgsLTQwMzM4NzkxOSwtMTY0MzM0OTY3NCwtMTg1MjYy
 Njk4NiwtMjIwMTIxNTM2LDE3MjE2ODYyNzQsLTIwMzMwNDUzNj
 UsLTEyNDUwNTgzMDIsOTQ3NjQyMDM3LDEyNDA5ODYzNSwxNTU5
