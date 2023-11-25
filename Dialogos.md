@@ -10,8 +10,6 @@
   **Diálogo proceso (1:30 min)**
  ¿Quién no ha pasado por una situación similar a la anterior? Bueno, nosotros sí. Fueron nuestros infortunios lo que nos inspiró a crear WorkFlash. Así, comenzó todo, con un baño desastroso. 
 Para nuestro proyecto utilizamos la metodología ágil SCRUM como guía y nos apoyamos de diversas herramientas para volver a WorkFlash una realidad, herramientas como GitHub, WhatsApp, Teams, StackEdit y Figma. 
-Creamos un repositorio y comenzamos a trabajar.  Dentro de la branch de Primera-Entrega en GitHub se crearon archivos para cada sección en la que se dividió el trabajo. Cada miembro del equipo creó su propia rama y trabajó su parte sobre el archivo correspondiente. Una vez que estaba lista la actividad se realizaba un pull request para hacer merge con la rama de Primera-Entrega. Así mismo, se marcaba con ayuda del board de Proyecto_FIS el estado de la actividad (In Progress o Done).
-
 Aprendimos a utilizar varias de ellas en el camino, aprendimos a trabajar como equipo, a equivocarnos y a corregir nuestros errores aún más rápido; y   después de numerosos cambios a los requerimientos, de todas las reuniones diarias de scrum y de las correcciones a las interfaces, WorkFlash se volvió realidad.
  
  **Diálogo producto (2 min)** 
@@ -25,6 +23,6 @@ Aprendimos a utilizar varias de ellas en el camino, aprendimos a trabajar como e
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjYyODM2NCwtMTQxMDQ5NDI1MiwtOT
-E1NDYwOTIxLDIwNDY2NDE0NDYsLTgyOTcwNjk2OF19
+eyJoaXN0b3J5IjpbLTE5MzIwODQ3MDAsLTE0MTA0OTQyNTIsLT
+kxNTQ2MDkyMSwyMDQ2NjQxNDQ2LC04Mjk3MDY5NjhdfQ==
 -->
