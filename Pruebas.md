@@ -612,26 +612,26 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    <tr>  
       <td>2</td> 
       <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión. </td>
-       <td>x</td>
+       <td>0</td>
        <td>Completada</td>
         <td>5</td>
-       <td>x min</td>              
+       <td>0.23 min</td>              
    </tr>
    <tr>  
       <td>3</td> 
       <td>Quieres cambiar datos de tu perfil, edítalo.</td>
-       <td>x</td>
-       <td>Completada/No completada</td>
+       <td>0</td>
+       <td>Completada</td>
         <td>5</td>
-       <td>x min</td>              
+       <td>0.23 min</td>              
    </tr>
     <tr>  
       <td>4</td> 
       <td>Tu carro marca un error desconocido en el tablero, necesitas un mecánico. Busca al mecánico Juan Campos Romero, observa su perfil, calificaciones y comentarios.</td>
-       <td>x</td>
-       <td>Completada/No completada</td>
+       <td>1</td>
+       <td>Completada</td>
         <td>4</td>
-       <td>x min</td>              
+       <td>1.13 min</td>              
    </tr>
     <tr>  
       <td>5</td> 
@@ -694,7 +694,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTY2NzEyOSwtNTM3NzE5MTU4LC00MD
+eyJoaXN0b3J5IjpbMTAzMjA0MDU0MSwtNTM3NzE5MTU4LC00MD
 MzODc5MTksLTE2NDMzNDk2NzQsLTE4NTI2MjY5ODYsLTIyMDEy
 MTUzNiwxNzIxNjg2Mjc0LC0yMDMzMDQ1MzY1LC0xMjQ1MDU4Mz
 AyLDk0NzY0MjAzNywxMjQwOTg2MzUsMTU1OTk3MzQzNywxNDY4
