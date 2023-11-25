@@ -75,7 +75,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        <td></td>  
         </tr> 
     <tr> 
-     <td>Poder reportar a trabajadores por cancelaciones o estafas.</td> 
+     <td>Poder reportar a trabajadores por incumplimiento de contrato o estafas.</td> 
     <td>X</td> 
       <td> </td> 
       <td></td>     
@@ -131,7 +131,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        <td>X</td>  
        </tr> 
     <tr> 
-     <td>La posibilidad de filtrar a los trabajadores por disponibilidad al momento y cercanía.</td> 
+     <td>La posibilidad de filtrar a los trabaja cercanía.</td> 
     <td>X</td> 
       <td> </td> 
       <td></td>     
@@ -146,7 +146,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        <td></td>  
         </tr> 
     <tr> 
-     <td>Poder reportar a usuarios y trabajadores por cancelaciones o estafas.</td> 
+     <td>Poder reportar a usuarios por incumplimiento de contrato o estafas.</td> 
     <td>X</td> 
       <td> </td> 
       <td></td>     
@@ -156,8 +156,8 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
     </table>      
  <br> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4NDU2NDYwLDE4MTUyNjQ0NjMsMzUwOD
-Y3MzI0LC0xNzA2Nzg0NTM2LC0xODM5OTc0ODA1LC0xMzg5Nzc3
-Mjc1LC02NzIyMzAzNDQsLTIwOTAxNDMxOTAsNjA3MTEwOTY4LD
-gxNzQ2MzI2NiwtMTgzMDE5NTkwOV19
+eyJoaXN0b3J5IjpbLTExMzU4Mzc4MDUsMTgxNTI2NDQ2MywzNT
+A4NjczMjQsLTE3MDY3ODQ1MzYsLTE4Mzk5NzQ4MDUsLTEzODk3
+NzcyNzUsLTY3MjIzMDM0NCwtMjA5MDE0MzE5MCw2MDcxMTA5Nj
+gsODE3NDYzMjY2LC0xODMwMTk1OTA5XX0=
 -->
