@@ -554,6 +554,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>Ha surgido un inconveniente y debes de cancelar uno de tus contratos. Cancela tu contrato con la manicurista Cintia Acosta López y cierra cesión.  </td>
        <td>x</td>
        <td>Completada/No completada</td>
+         <td>x</td>
        <td>x s</td>              
    </tr>
    <tr>  
@@ -696,11 +697,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjg0OTY3OCwtNTIyOTc1MzQzLDEwMz
-IwNDA1NDEsLTUzNzcxOTE1OCwtNDAzMzg3OTE5LC0xNjQzMzQ5
-Njc0LC0xODUyNjI2OTg2LC0yMjAxMjE1MzYsMTcyMTY4NjI3NC
-wtMjAzMzA0NTM2NSwtMTI0NTA1ODMwMiw5NDc2NDIwMzcsMTI0
-MDk4NjM1LDE1NTk5NzM0MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMz
-csLTE0NTUxNDQ4MDksMTAwNTY5MjMyNCwtNjU2MTA3NTA4LDIz
-MTc2NTk0Nl19
+eyJoaXN0b3J5IjpbLTEyNDk1MjY1NzcsMTgyNjg0OTY3OCwtNT
+IyOTc1MzQzLDEwMzIwNDA1NDEsLTUzNzcxOTE1OCwtNDAzMzg3
+OTE5LC0xNjQzMzQ5Njc0LC0xODUyNjI2OTg2LC0yMjAxMjE1Mz
+YsMTcyMTY4NjI3NCwtMjAzMzA0NTM2NSwtMTI0NTA1ODMwMiw5
+NDc2NDIwMzcsMTI0MDk4NjM1LDE1NTk5NzM0MzcsMTQ2ODc0NT
+E3NSw2MzUyNDEwMzcsLTE0NTUxNDQ4MDksMTAwNTY5MjMyNCwt
+NjU2MTA3NTA4XX0=
 -->
