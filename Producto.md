@@ -133,9 +133,9 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
     <tr> 
      <td>La posibilidad de elegir que trabajos realizar (por horario o cercanía).</td> 
     <td>X</td> 
-      <td> </td> 
+      <td> X</td> 
       <td></td>     
-       <td></td>  
+       <td>X</td>  
        </tr> 
         </tr> 
     <tr> 
@@ -156,7 +156,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
     </table>      
  <br> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTkzNTMwMiwxODE1MjY0NDYzLDM1MD
+eyJoaXN0b3J5IjpbMTcwMzgyNzkxMCwxODE1MjY0NDYzLDM1MD
 g2NzMyNCwtMTcwNjc4NDUzNiwtMTgzOTk3NDgwNSwtMTM4OTc3
 NzI3NSwtNjcyMjMwMzQ0LC0yMDkwMTQzMTkwLDYwNzExMDk2OC
 w4MTc0NjMyNjYsLTE4MzAxOTU5MDldfQ==
