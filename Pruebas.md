@@ -652,7 +652,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    <tr>  
       <td>7</td> 
       <td>Juan Campos Romero ha terminado su trabajo. Finaliza tu contrato con él, realiza un comentario y califícalo. </td>
-       <td>1</td>
+       <td>0</td>
        <td>Completada/No completada</td>
         <td>5</td>
        <td>0.26 s</td>              
@@ -674,7 +674,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>
    <tr>  
       <th>Descripción de errores</th>
-       <td colspan=5>Oprimió el texto "Busca un oficio/ocupación" en lugar de dar clic cobre el ícono de búsqueda (tarea 4). </td> 
+       <td colspan=5>Oprimió el texto "Busca un oficio/ocupación" en lugar de dar clic cobre el ícono de búsqueda (tarea 4), oprimió la barra de búsqueda, en lugar de quedarse en la pestaña de contratos para levantar el reporte (tarea 8). </td> 
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
@@ -694,11 +694,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMTE0NjAwLC01MjI5NzUzNDMsMTAzMj
-A0MDU0MSwtNTM3NzE5MTU4LC00MDMzODc5MTksLTE2NDMzNDk2
-NzQsLTE4NTI2MjY5ODYsLTIyMDEyMTUzNiwxNzIxNjg2Mjc0LC
-0yMDMzMDQ1MzY1LC0xMjQ1MDU4MzAyLDk0NzY0MjAzNywxMjQw
-OTg2MzUsMTU1OTk3MzQzNywxNDY4NzQ1MTc1LDYzNTI0MTAzNy
-wtMTQ1NTE0NDgwOSwxMDA1NjkyMzI0LC02NTYxMDc1MDgsMjMx
-NzY1OTQ2XX0=
+eyJoaXN0b3J5IjpbOTQxMTU1NTgsLTUyMjk3NTM0MywxMDMyMD
+QwNTQxLC01Mzc3MTkxNTgsLTQwMzM4NzkxOSwtMTY0MzM0OTY3
+NCwtMTg1MjYyNjk4NiwtMjIwMTIxNTM2LDE3MjE2ODYyNzQsLT
+IwMzMwNDUzNjUsLTEyNDUwNTgzMDIsOTQ3NjQyMDM3LDEyNDA5
+ODYzNSwxNTU5OTczNDM3LDE0Njg3NDUxNzUsNjM1MjQxMDM3LC
+0xNDU1MTQ0ODA5LDEwMDU2OTIzMjQsLTY1NjEwNzUwOCwyMzE3
+NjU5NDZdfQ==
 -->
