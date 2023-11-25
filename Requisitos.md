@@ -10,7 +10,7 @@ RF-3. **Registro del trabajador:** Si el usuario ha seleccionado el perfil de tr
 
 RF-4. **Cobro de membresía:**  Cumplido el mes de prueba gratis en la aplicación, el sistema cobrará mensualmente de la tarjeta proporcionada por el trabajador $75 correspondientes a la membresía hasta la cancelación de la cuenta.
 
-RF-5. **Creación de contraseña:** El sistema creará una contraseña y para el cliente o trabajador que será enviada al correo electrónico proporcionado. 
+RF-5. **Creación de contraseña:** El sistema creará una contraseña para el cliente o trabajador que será enviada al correo electrónico proporcionado. 
 
 RF-6. **Comentarios:** El sistema permitirá al cliente comentar sobre la calidad del servicio en el perfil del trabajador.
 
@@ -42,7 +42,7 @@ RF-19. **Cancelación del servicio:** Una vez contratado el servicio, el sistema
 
 RF-20. **Cancelación de la cuenta por parte del trabajador:** El sistema permitirá al usuario la cancelación de su cuenta en cualquier momento.
 
-RF-21. . **Recuperación de contraseña:**  El usuario podrá recuperar su contraseña. El sistema solicitará al usuario un correo al que enviará la contraseña. 
+RF-21. **Recuperación de contraseña:**  El usuario podrá recuperar su contraseña. El sistema solicitará al usuario un correo al que enviará la contraseña. 
 
 RF-22. **Modificación de perfil:** Como cliente, el usuario podrá modificar nombre(s) y apellido(s) y su fotografía. Como trabajador, el usuario podrá modificar nombre(s) y apellido(s), su fotografía, zona de trabajo, número de tarjeta, CVV y fecha de vencimiento de la tarjeta.
 
@@ -1223,7 +1223,4 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^1]:Simões, C. (14 de julio de 2020). MoSCoW. ¿Qué es y cómo priorizar en el desarrollo de tu aplicación? *ITDO*. https://www.itdo.com/blog/moscow-que-es-y-como-priorizar-en-el-desarrollo-de-tu-aplicacion/
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTExNTQ4LC0xNTMyMzI2MTU1LC03MT
-QyOTQxMzUsLTYzMjg3ODQ5NSwtNjEwNzM5MDA3XX0=
--->
+

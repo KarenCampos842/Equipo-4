@@ -130,7 +130,7 @@ Marcar como "closed" sus issues asignados cuando finalicen una actividad.
 
 
 **Actividades**
- - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad (eliminar aquellos que no se puedan probar con lo que se cuenta hasta el momento). Modificar la priorización de los requerimientos. 
+ - **Requerimientos no funcionales:** Modificar los requerimientos para una mayor claridad. Modificar la priorización de los requerimientos. 
  - **Refinamiento de artefactos:** Modificar los casos de uso (incluir excepciones). 
   
 Utilizar como guía este ejemplo de <a href="https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416">caso de uso</a> [^3]  
@@ -224,7 +224,7 @@ Utilizar la siguiente plantilla:
  --Verificar que los indicadores corresponden a los objetivos del principales del producto. 
  --Escribir un protocolo que permita replicar la prueba de forma estandarizada entre los "testers". 
 -Realizar un cuestionario de satisfacción.
- - **Aplicación de pruebas y cuestionario**:  Realizar las pruebas diseñadas con usuarios primarios y aplicar el cuestionario de satisfacción. Cada miembro del equipo realizará las pruebas y el cuestionario con un usuario primario (como equipo se habrá recolectado información de 6 usuarios primarios). 
+ - **Aplicación de pruebas y cuestionario**:  Realizar las pruebas diseñadas con usuarios primarios y aplicar el cuestionario de satisfacción. Cada miembro del equipo realizará las pruebas y el cuestionario con dos usuarios primarios, uno con perfil de cliente y otro con perfil de trabajador (como equipo se habrá recolectado información de 12 usuarios primarios). 
 
  - **Resultados (métricas):** 
 --Analizar los indicadores que permitan verificar si los requerimientos (funcionales y no funcionales) se alcanzaron. 
@@ -279,7 +279,6 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
  -   **Diálogo diferenciadores (1 min):** Describir las características que tiene WorkFlash que la diferencian de otras apps. Lo que ofrece nuestra aplicación que otras no tienen Guiarse de lo escrito en el apartado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Innovación</a>.
  -   **Diálogo interfaz (1 min):** Describir las funcionalidades principales de la app (un recorrido rápido por la aplicación). Utilizar como guía las <a href="https://www.figma.com/file/WxkTPx8zGQiWg8UpDYWTxF/Dise%C3%B1o-modificado-(WorkFlash)?type=design&node-id=11%3A1833&mode=design&t=td8rmplOaTKT1vmg-1">interfaces</a>.
  -  **Diálogo proceso (2 min):** Describir el proceso de desarrollo. 
- -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
  - **Audio:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  Enviar la grabación a Moisés por WhatsApp. 
  -  **Video sketch:** Grabar el sketch.  Enviar el video a Moisés por WhatsApp. 
   
@@ -306,8 +305,10 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
 
 **Actividades:** 
 
- - **Edición demo:** Grabar un video mostrando cómo se debe usar la aplicación. Mostrar la navegación por la aplicación. 
- **- Audio demo:** Grabar el audio en inglés para el demo.
+ - **Edición demo:** Editar el video que muestra cómo utilizar la aplicación. 
+ - **Video demo:** Grabar un video mostrando cómo se debe usar la aplicación. Mostrar la navegación por la aplicación. 
+ - **Audio demo:** Grabar el audio en inglés para el demo.
+ 
 
  **Archivo del trabajo/Resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Demo.md#demo">Demo.md</a>
  
@@ -328,11 +329,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU4MTM0MTUsLTEyMTIwNTIyNzQsLT
-E5MzQyMzAxNSwtMjEwMjU2MjczOSw4OTEyNTgzMSwtMTE2Njg0
-OTMxNiwyMDcwOTAzOTUsMTc4MTcxNTUxMSw4NzQ3NjIxMDUsLT
-QyNzYzNDg3MSwxMDQyMDA1MzMzLDE4NDY3NDk5NzUsLTI4MzIw
-ODEzOCwtNzY1MjY0NjE1LDE5NzMzNDEzNTksOTI5OTU1MzUsLT
-E1MzA0OTA0NTQsLTE0Nzk3MTkyNTQsNjEzNTE5ODg0LC0xMTU2
-MzQ0NDUwXX0=
+eyJoaXN0b3J5IjpbLTQ3NTkyMTM1NiwxNTM4MjQ3MjQ2LC0yMD
+A1ODEzNDE1LC0xMjEyMDUyMjc0LC0xOTM0MjMwMTUsLTIxMDI1
+NjI3MzksODkxMjU4MzEsLTExNjY4NDkzMTYsMjA3MDkwMzk1LD
+E3ODE3MTU1MTEsODc0NzYyMTA1LC00Mjc2MzQ4NzEsMTA0MjAw
+NTMzMywxODQ2NzQ5OTc1LC0yODMyMDgxMzgsLTc2NTI2NDYxNS
+wxOTczMzQxMzU5LDkyOTk1NTM1LC0xNTMwNDkwNDU0LC0xNDc5
+NzE5MjU0XX0=
 -->

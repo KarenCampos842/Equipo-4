@@ -1,7 +1,7 @@
 ﻿<center><h1>Gestión del Proceso</h1></center>
 
 ## Bitácora
-**Viernes 17 de noviembre de 2023 (Retrospective)**<br> Durante la reunión se realizó un análisis del desempeño del equipo durante los primeros dos sprints.      Cada integrante se comprometió a entregar sus actividades en tiempo y forma. 
+**Viernes 17 de noviembre de 2023 (Retrospective)**<br> Durante la reunión se realizó un análisis del desempeño del equipo durante los primeros dos sprints. Cada integrante se comprometió a entregar sus actividades en tiempo y forma. 
 
 **Sábado 18 de noviembre de 2023 (Sprint planning meeting)**<br> Durante la reunión se establecieron las distintas actividades para el último sprint, las cuales Karen acordó redactar en el archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>
 
@@ -10,6 +10,32 @@ Producto:
 
 Fecha límite: 18/11/2023
 
+**Martes 21 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 23. Hubo un retraso con la actividad innovación (por enfermedad). Hansony se comprometió a tenerla lista para el jueves 23 de noviembre.
+Por otro lado, cómo resultado de la reunión con el profesor Luis Basto se decidió realizar una encuesta después de finalizar el daily scrum para decidir si el video de la entrega se haría en inglés o en español.
+
+Producto: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>
+
+Fecha límite: 23/11/2023
+
+**Miércoles 22 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 23. Así mismo, Karen acordó reunirse con Asaf el día jueves para explicarle cómo se aplicarían las pruebas dado a que no podría reunirse el viernes 24 con el resto del equipo. 
+
+Producto: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
+
+Fecha límite: 23/11/2023
+
+**Jueves 23 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 23. Hansony finalizó la actividad innovación como se había acordado. Karen y Hansony acordaron revisar la actividad durante la reunión del viernes 24. 
+Producto: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
+
+Fecha límite: 23/11/2023
+
+**Viernes 24 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 26 (Listado Final de Requerimientos_Diagrama y Requerimientos no funcionales).
+Producto: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
+
+Fecha límite: 26/11/2023
 
 
 ## Sprint Backlog
@@ -172,13 +198,6 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
         <td>Terminada</td>     
    </tr>
      <tr>  
-      <td>Traducción (Asaf)</td>  
-        <td>Alto</td>
-        <td>18/11/2023</td>
-       <td>27/11/2023</td>
-        <td>Terminada</td>     
-   </tr>
-     <tr>  
       <td>Edición del video (Moisés)</td>  
         <td>Alto</td>
         <td>18/11/2023</td>
@@ -304,6 +323,13 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
        <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
+     <tr>  
+      <td>Video demo (Asaf)</td>  
+        <td>Alto</td>
+        <td>27/11/2023</td>
+       <td>27/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
      <tr>
     <td>Audio demo (Asaf)</td>  
         <td>Alto</td>
@@ -336,11 +362,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0MDExODAsLTEyNjkwNzQ5MjMsMTMzMz
-IyMTA2OSwzNDI1ODMwNywtMTEyNjM0NzU1OSwxNzEyMDYwMjU5
-LDE5MjI3NjkxNjMsMTU3NTczMTg4MiwxNzc1NjUwMTkwLDIwMT
-cwODAwNzUsODE4MTAxNzA0LC0zNjMyNTY4NzYsLTIwMjk5Mjc0
-MTEsMTE3OTAzMzU0NSwtMjE0NDA1MTUzNiwxNzgzNzgxOTc2LD
-M2ODQ5NzIwMywyMDA4OTQ0MDcwLDE2ODg4MzMxNDgsMTk3NDc2
-OTk3NV19
+eyJoaXN0b3J5IjpbMTgyODA5ODA0OCwxNzg0Mjg3Mjk4LDQ1ND
+AxMTgwLC0xMjY5MDc0OTIzLDEzMzMyMjEwNjksMzQyNTgzMDcs
+LTExMjYzNDc1NTksMTcxMjA2MDI1OSwxOTIyNzY5MTYzLDE1Nz
+U3MzE4ODIsMTc3NTY1MDE5MCwyMDE3MDgwMDc1LDgxODEwMTcw
+NCwtMzYzMjU2ODc2LC0yMDI5OTI3NDExLDExNzkwMzM1NDUsLT
+IxNDQwNTE1MzYsMTc4Mzc4MTk3NiwzNjg0OTcyMDMsMjAwODk0
+NDA3MF19
 -->
