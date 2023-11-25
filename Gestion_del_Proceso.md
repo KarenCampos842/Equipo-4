@@ -31,11 +31,11 @@ Producto:
 
 Fecha límite: 23/11/2023
 
-**Viernes 24 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 26.
+**Viernes 24 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 26 (Listado Final de Requerimientos_Diagrama y Requerimientos no funcionales).
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
 
-Fecha límite: 23/11/2023
+Fecha límite: 26/11/2023
 
 
 ## Sprint Backlog
@@ -362,7 +362,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTUzMTQ1NywxNzg0Mjg3Mjk4LDQ1ND
+eyJoaXN0b3J5IjpbMTgyODA5ODA0OCwxNzg0Mjg3Mjk4LDQ1ND
 AxMTgwLC0xMjY5MDc0OTIzLDEzMzMyMjEwNjksMzQyNTgzMDcs
 LTExMjYzNDc1NTksMTcxMjA2MDI1OSwxOTIyNzY5MTYzLDE1Nz
 U3MzE4ODIsMTc3NTY1MDE5MCwyMDE3MDgwMDc1LDgxODEwMTcw
