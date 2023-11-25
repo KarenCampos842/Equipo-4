@@ -68,7 +68,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        </tr> 
         </tr> 
     <tr> 
-     <td>Los clientes cuentan con la seguridad de que los trabajadores fueron verificados con documentos oficiales (INE).</td> 
+     <td>Los clientes cuentan con la seguridad de que los trabajadores fueron verificados con documentos oficiales (Cartilla militar o INE).</td> 
     <td>X</td> 
       <td> </td> 
       <td>X</td>     
@@ -82,14 +82,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        <td>X</td>  
         </tr> 
     <tr> 
-     <td>Cuenta con ranking semanal de mejores calificados.</td> 
-    <td>X</td> 
-      <td> </td> 
-      <td></td>     
-       <td></td>  
-        </tr> 
-    <tr> 
-     <td>Sanciones para las cuentas que cancelen 3 veces seguidas o presenten 5 reportes.</td> 
+     <td>Cancelación de las cuentas de trabajadores que hayan cancelado 3 veces seguidas un contrato o presenten 5 reportes.</td> 
     <td>X</td> 
       <td> </td> 
       <td></td>     
@@ -132,7 +125,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        <td>X</td>  
        </tr> 
     <tr> 
-     <td>La posibilidad de elegir que trabajos realizar (por horario o cercanía) aceptando las solicitudes de chat.</td> 
+     <td>La posibilidad de elegir los trabajos a realizar (por horario, cercanía o calificación del cliente) aceptando o rechazando las solicitudes de los clientes .</td> 
     <td>X</td> 
       <td> X</td> 
       <td></td>     
@@ -140,21 +133,13 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        </tr> 
         </tr> 
     <tr> 
-     <td>Poder subir imágenes de sus trabajos ya realizados (se almacenan en su perfil).</td> 
+     <td>La posibilidad de diferenciarse de su competencia resaltando sus habilidades en su perfil.</td> 
     <td>X</td> 
       <td> </td> 
       <td></td>     
        <td>X</td>  
         </tr> 
-    <tr> 
-     <td>Poder reportar a usuarios por incumplimiento de contrato o estafas.</td> 
-    <td>X</td> 
-      <td> </td> 
-      <td></td>     
-       <td></td>  
-        </tr> 
-    <tr> 
-       <td>Sanciones para las cuentas que cancelen 3 veces seguidas o presenten 5 reportes.</td> 
+       <td>Eliminación de las cuentas de clientes que cancelen 3 veces seguidas un contrato.</td> 
     <td>X</td> 
       <td> </td> 
       <td></td>     
@@ -172,10 +157,10 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
  <br> 
 
 ## Resumen
-WorkFlash es único en el mundo, combina lo mejor de un servicio: que sea rápido, confiable y todo en un solo lugar. ¿Alguna vez te ha pasado que algo indispensable en tu día a día deja de funcionar? ¿Y te urge que regrese a la vida? Pero cuando buscas a alguien para que lo repare se presentan múltiples excusas como: "Ahorita no puedo", "Me queda lejos" o simplemente te cambian los precios hasta llegar a caer en una estafa o que simplemente no conoces a nadie.
-Pues WorkFlash viene a hacer que esos problemas desaparezcan, que el encontrar a un trabajador sea rápido, fácil y confiable, con su método de registro de clientes y trabajadores en la que los trabajadores podrán publicitarse, poder ofrecer sus servicios y obtener empleos en donde antes parecía imposible.
-Donde los clientes puedan encontrar a trabajadores que cumplan con sus expectativas, ya sea por rendimiento, cercanía o precio.
-Contamos con un chat para poder agendar y acordar fechas y precios y poder cerrar el contrato del servicio.
+WorkFlash es único en el mundo, combina lo mejor de un servicio: que sea rápido, confiable y todo en un solo lugar. ¿Alguna vez te ha pasado que algo indispensable en tu día a día deja de funcionar? ¿Y te urge que regrese a la vida? Pero cuando buscas a alguien para que lo repare se presentan múltiples excusas como: "Ahorita no puedo", "me queda lejos" o simplemente te cambian los precios hasta llegar a caer en una estafa.
+WorkFlash viene a hacer que esos problemas desaparezcan; que el encontrar a un trabajador sea rápido, fácil y confiable con su método de registro de clientes y trabajadores en la que los trabajadores podrán publicitarse, ofrecer sus servicios y obtener empleos en donde antes parecía imposible.
+Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan con sus expectativas, ya sea por rendimiento, cercanía o precio.
+Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio.
 Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDM0ODA1MjE4LDE4MDEyMTkxMiwtMTI3OT
