@@ -674,7 +674,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>
    <tr>  
       <th>Descripción de errores</th>
-       <td colspan=5>Ejemplo: Oprimió la foto de perfil del mecánico en lugar de dar clic en el ícono (tarea 3). </td> 
+       <td colspan=5>Oprimió el texto "Busca un oficio/ocupación en lugar de dar clic cobre el ícono de búsqueda (tarea 3). </td> 
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
@@ -694,11 +694,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjA0MDU0MSwtNTM3NzE5MTU4LC00MD
-MzODc5MTksLTE2NDMzNDk2NzQsLTE4NTI2MjY5ODYsLTIyMDEy
-MTUzNiwxNzIxNjg2Mjc0LC0yMDMzMDQ1MzY1LC0xMjQ1MDU4Mz
-AyLDk0NzY0MjAzNywxMjQwOTg2MzUsMTU1OTk3MzQzNywxNDY4
-NzQ1MTc1LDYzNTI0MTAzNywtMTQ1NTE0NDgwOSwxMDA1NjkyMz
-I0LC02NTYxMDc1MDgsMjMxNzY1OTQ2LDE0MDU4NjA1ODgsLTEy
-ODE4Mjc5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE4MDE2NzY5MzIsMTAzMjA0MDU0MSwtNT
+M3NzE5MTU4LC00MDMzODc5MTksLTE2NDMzNDk2NzQsLTE4NTI2
+MjY5ODYsLTIyMDEyMTUzNiwxNzIxNjg2Mjc0LC0yMDMzMDQ1Mz
+Y1LC0xMjQ1MDU4MzAyLDk0NzY0MjAzNywxMjQwOTg2MzUsMTU1
+OTk3MzQzNywxNDY4NzQ1MTc1LDYzNTI0MTAzNywtMTQ1NTE0ND
+gwOSwxMDA1NjkyMzI0LC02NTYxMDc1MDgsMjMxNzY1OTQ2LDE0
+MDU4NjA1ODhdfQ==
 -->
