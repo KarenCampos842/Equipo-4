@@ -139,11 +139,11 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        </tr> 
         </tr> 
     <tr> 
-     <td>Poder subir imágenes de sus trabajos ya realizados que se almacenan en su perfil.</td> 
+     <td>Poder subir imágenes de sus trabajos ya realizados (se almacenan en su perfil).</td> 
     <td>X</td> 
       <td> </td> 
-      <td>X</td>     
-       <td></td>  
+      <td></td>     
+       <td>X</td>  
         </tr> 
     <tr> 
      <td>Poder reportar a usuarios por incumplimiento de contrato o estafas.</td> 
@@ -156,7 +156,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
     </table>      
  <br> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTg4MjY1MCwxODE1MjY0NDYzLDM1MD
+eyJoaXN0b3J5IjpbLTIwOTUwNDI1NCwxODE1MjY0NDYzLDM1MD
 g2NzMyNCwtMTcwNjc4NDUzNiwtMTgzOTk3NDgwNSwtMTM4OTc3
 NzI3NSwtNjcyMjMwMzQ0LC0yMDkwMTQzMTkwLDYwNzExMDk2OC
 w4MTc0NjMyNjYsLTE4MzAxOTU5MDldfQ==
