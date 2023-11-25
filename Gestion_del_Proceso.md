@@ -172,13 +172,6 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
         <td>Terminada</td>     
    </tr>
      <tr>  
-      <td>Traducción (Asaf)</td>  
-        <td>Alto</td>
-        <td>18/11/2023</td>
-       <td>27/11/2023</td>
-        <td>Terminada</td>     
-   </tr>
-     <tr>  
       <td>Edición del video (Moisés)</td>  
         <td>Alto</td>
         <td>18/11/2023</td>
@@ -304,6 +297,13 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
        <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
+     <tr>  
+      <td>Video demo (Asaf)</td>  
+        <td>Alto</td>
+        <td>27/11/2023</td>
+       <td>27/11/2023</td>
+        <td>Terminada</td>     
+   </tr>
      <tr>
     <td>Audio demo (Asaf)</td>  
         <td>Alto</td>
@@ -336,11 +336,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0MDExODAsLTEyNjkwNzQ5MjMsMTMzMz
-IyMTA2OSwzNDI1ODMwNywtMTEyNjM0NzU1OSwxNzEyMDYwMjU5
-LDE5MjI3NjkxNjMsMTU3NTczMTg4MiwxNzc1NjUwMTkwLDIwMT
-cwODAwNzUsODE4MTAxNzA0LC0zNjMyNTY4NzYsLTIwMjk5Mjc0
-MTEsMTE3OTAzMzU0NSwtMjE0NDA1MTUzNiwxNzgzNzgxOTc2LD
-M2ODQ5NzIwMywyMDA4OTQ0MDcwLDE2ODg4MzMxNDgsMTk3NDc2
-OTk3NV19
+eyJoaXN0b3J5IjpbMTc4NDI4NzI5OCw0NTQwMTE4MCwtMTI2OT
+A3NDkyMywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMTI2MzQ3NTU5
+LDE3MTIwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMxODgyLDE3Nz
+U2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3MDQsLTM2MzI1Njg3
+NiwtMjAyOTkyNzQxMSwxMTc5MDMzNTQ1LC0yMTQ0MDUxNTM2LD
+E3ODM3ODE5NzYsMzY4NDk3MjAzLDIwMDg5NDQwNzAsMTY4ODgz
+MzE0OF19
 -->
