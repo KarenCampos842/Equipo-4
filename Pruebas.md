@@ -636,18 +636,18 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
     <tr>  
       <td>5</td> 
       <td>Inicia un chat con el mecánico Juan Campos Romero, contrata su servicio y regresa a tu perfil. </td>
-       <td>x</td>
-       <td>Completada/No completada</td>
+       <td>0</td>
+       <td>Completada</td>
         <td>5</td>
-       <td>x min</td>              
+       <td>0.23 min</td>              
    </tr>
    <tr>  
       <td>6</td> 
       <td>Revisa tu última conversación con Juan Campos Romero.</td>
-       <td>x</td>
+       <td>0</td>
        <td>Completada/No completada</td>
         <td>5</td>
-       <td>x min</td>              
+       <td>0.6 min</td>              
    </tr>
    <tr>  
       <td>7</td> 
@@ -674,7 +674,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>
    <tr>  
       <th>Descripción de errores</th>
-       <td colspan=5>Oprimió el texto "Busca un oficio/ocupación en lugar de dar clic cobre el ícono de búsqueda (tarea 3). </td> 
+       <td colspan=5>Oprimió el texto "Busca un oficio/ocupación" en lugar de dar clic cobre el ícono de búsqueda (tarea 4). </td> 
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
@@ -694,11 +694,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE2NzY5MzIsMTAzMjA0MDU0MSwtNT
-M3NzE5MTU4LC00MDMzODc5MTksLTE2NDMzNDk2NzQsLTE4NTI2
-MjY5ODYsLTIyMDEyMTUzNiwxNzIxNjg2Mjc0LC0yMDMzMDQ1Mz
-Y1LC0xMjQ1MDU4MzAyLDk0NzY0MjAzNywxMjQwOTg2MzUsMTU1
-OTk3MzQzNywxNDY4NzQ1MTc1LDYzNTI0MTAzNywtMTQ1NTE0ND
-gwOSwxMDA1NjkyMzI0LC02NTYxMDc1MDgsMjMxNzY1OTQ2LDE0
-MDU4NjA1ODhdfQ==
+eyJoaXN0b3J5IjpbLTI0MTcwNDgyLDEwMzIwNDA1NDEsLTUzNz
+cxOTE1OCwtNDAzMzg3OTE5LC0xNjQzMzQ5Njc0LC0xODUyNjI2
+OTg2LC0yMjAxMjE1MzYsMTcyMTY4NjI3NCwtMjAzMzA0NTM2NS
+wtMTI0NTA1ODMwMiw5NDc2NDIwMzcsMTI0MDk4NjM1LDE1NTk5
+NzM0MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcsLTE0NTUxNDQ4MD
+ksMTAwNTY5MjMyNCwtNjU2MTA3NTA4LDIzMTc2NTk0NiwxNDA1
+ODYwNTg4XX0=
 -->
