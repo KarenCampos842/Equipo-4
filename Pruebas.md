@@ -418,7 +418,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
      </tr>
      <tr>  
       <td>Máximo 2 errores por tarea (por participante).</td>
-      <td rowspan=4>
+      <td rowspan=3>
     RNF-27. El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios.
       </td>    
      </tr>
@@ -696,11 +696,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA2NDk4MjksLTEyNDk1MjY1NzcsMT
-gyNjg0OTY3OCwtNTIyOTc1MzQzLDEwMzIwNDA1NDEsLTUzNzcx
-OTE1OCwtNDAzMzg3OTE5LC0xNjQzMzQ5Njc0LC0xODUyNjI2OT
-g2LC0yMjAxMjE1MzYsMTcyMTY4NjI3NCwtMjAzMzA0NTM2NSwt
-MTI0NTA1ODMwMiw5NDc2NDIwMzcsMTI0MDk4NjM1LDE1NTk5Nz
-M0MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcsLTE0NTUxNDQ4MDks
-MTAwNTY5MjMyNF19
+eyJoaXN0b3J5IjpbLTIwNDE4NzcyODYsLTE1NzA2NDk4MjksLT
+EyNDk1MjY1NzcsMTgyNjg0OTY3OCwtNTIyOTc1MzQzLDEwMzIw
+NDA1NDEsLTUzNzcxOTE1OCwtNDAzMzg3OTE5LC0xNjQzMzQ5Nj
+c0LC0xODUyNjI2OTg2LC0yMjAxMjE1MzYsMTcyMTY4NjI3NCwt
+MjAzMzA0NTM2NSwtMTI0NTA1ODMwMiw5NDc2NDIwMzcsMTI0MD
+k4NjM1LDE1NTk5NzM0MzcsMTQ2ODc0NTE3NSw2MzUyNDEwMzcs
+LTE0NTUxNDQ4MDldfQ==
 -->
