@@ -96,11 +96,11 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        <td></td>  
           </tr> 
     <tr> 
-     <td>Chat para acordar precios y hor.</td> 
+     <td>Chat para acordar precios y horarios con el trabajador.</td> 
     <td>X</td> 
-      <td> </td> 
+      <td>X </td> 
       <td></td>     
-       <td></td>  
+       <td>X</td>  
     <tr> 
    </tr> 
     <tr> 
@@ -167,9 +167,9 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
     </table>      
  <br> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDYwODc5MSwxNDU1NjU3MzA3LDE3MD
-M4Mjc5MTAsMTgxNTI2NDQ2MywzNTA4NjczMjQsLTE3MDY3ODQ1
-MzYsLTE4Mzk5NzQ4MDUsLTEzODk3NzcyNzUsLTY3MjIzMDM0NC
-wtMjA5MDE0MzE5MCw2MDcxMTA5NjgsODE3NDYzMjY2LC0xODMw
-MTk1OTA5XX0=
+eyJoaXN0b3J5IjpbNDI5NDk1NjE0LDE0NTU2NTczMDcsMTcwMz
+gyNzkxMCwxODE1MjY0NDYzLDM1MDg2NzMyNCwtMTcwNjc4NDUz
+NiwtMTgzOTk3NDgwNSwtMTM4OTc3NzI3NSwtNjcyMjMwMzQ0LC
+0yMDkwMTQzMTkwLDYwNzExMDk2OCw4MTc0NjMyNjYsLTE4MzAx
+OTU5MDldfQ==
 -->
