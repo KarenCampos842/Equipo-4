@@ -279,7 +279,6 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
  -   **Diálogo diferenciadores (1 min):** Describir las características que tiene WorkFlash que la diferencian de otras apps. Lo que ofrece nuestra aplicación que otras no tienen Guiarse de lo escrito en el apartado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Innovación</a>.
  -   **Diálogo interfaz (1 min):** Describir las funcionalidades principales de la app (un recorrido rápido por la aplicación). Utilizar como guía las <a href="https://www.figma.com/file/WxkTPx8zGQiWg8UpDYWTxF/Dise%C3%B1o-modificado-(WorkFlash)?type=design&node-id=11%3A1833&mode=design&t=td8rmplOaTKT1vmg-1">interfaces</a>.
  -  **Diálogo proceso (2 min):** Describir el proceso de desarrollo. 
- -  **Traducción:** Traducir los diálogos de todos los integrantes del equipo (español a inglés). 
  - **Audio:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  Enviar la grabación a Moisés por WhatsApp. 
  -  **Video sketch:** Grabar el sketch.  Enviar el video a Moisés por WhatsApp. 
   
@@ -306,7 +305,7 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
 
 **Actividades:** 
 
- - **Edición demo:** Edit
+ - **Edición demo:** Editar el video que muestra cómo utilizar la aplicación. 
  - **Video demo:** Grabar un video mostrando cómo se debe usar la aplicación. Mostrar la navegación por la aplicación. 
  - **Audio demo:** Grabar el audio en inglés para el demo.
  
@@ -330,11 +329,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzMTkwNzM3LDE1MzgyNDcyNDYsLTIwMD
-U4MTM0MTUsLTEyMTIwNTIyNzQsLTE5MzQyMzAxNSwtMjEwMjU2
-MjczOSw4OTEyNTgzMSwtMTE2Njg0OTMxNiwyMDcwOTAzOTUsMT
-c4MTcxNTUxMSw4NzQ3NjIxMDUsLTQyNzYzNDg3MSwxMDQyMDA1
-MzMzLDE4NDY3NDk5NzUsLTI4MzIwODEzOCwtNzY1MjY0NjE1LD
-E5NzMzNDEzNTksOTI5OTU1MzUsLTE1MzA0OTA0NTQsLTE0Nzk3
-MTkyNTRdfQ==
+eyJoaXN0b3J5IjpbLTQ3NTkyMTM1NiwxNTM4MjQ3MjQ2LC0yMD
+A1ODEzNDE1LC0xMjEyMDUyMjc0LC0xOTM0MjMwMTUsLTIxMDI1
+NjI3MzksODkxMjU4MzEsLTExNjY4NDkzMTYsMjA3MDkwMzk1LD
+E3ODE3MTU1MTEsODc0NzYyMTA1LC00Mjc2MzQ4NzEsMTA0MjAw
+NTMzMywxODQ2NzQ5OTc1LC0yODMyMDgxMzgsLTc2NTI2NDYxNS
+wxOTczMzQxMzU5LDkyOTk1NTM1LC0xNTMwNDkwNDU0LC0xNDc5
+NzE5MjU0XX0=
 -->
