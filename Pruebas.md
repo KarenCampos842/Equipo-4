@@ -588,9 +588,9 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=3>Tipo de usuario</th>           
    </tr> 
     <tr>  
-      <td>x</td>  
-       <td>x</td>
-      <td>x</td>
+      <td>Femenino</td>  
+       <td>47</td>
+      <td>Administradora</td>
       <td colspan=3>primario (cliente)</td>  
    </tr> 
      <tr>  
@@ -645,7 +645,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>6</td> 
       <td>Revisa tu última conversación con Juan Campos Romero.</td>
        <td>0</td>
-       <td>Completada/No completada</td>
+       <td>Completada</td>
         <td>5</td>
        <td>0.06 s</td>              
    </tr>
@@ -653,7 +653,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>7</td> 
       <td>Juan Campos Romero ha terminado su trabajo. Finaliza tu contrato con él, realiza un comentario y califícalo. </td>
        <td>0</td>
-       <td>Completada/No completada</td>
+       <td>Completada</td>
         <td>5</td>
        <td>0.26 s</td>              
    </tr>
@@ -670,7 +670,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>Ha surgido un inconveniente y debes de cancelar uno de tus contratos. Cancela tu contrato con la manicurista Cintia Acosta López y cierra cesión.  </td>
        <td>0</td>
        <td>Completada</td>
-        <td>0</td>
+        <td>5</td>
        <td>0.21 s</td>              
    </tr>
    <tr>  
@@ -696,7 +696,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDgzNjg2MSwtNTIyOTc1MzQzLDEwMz
+eyJoaXN0b3J5IjpbMTgyNjg0OTY3OCwtNTIyOTc1MzQzLDEwMz
 IwNDA1NDEsLTUzNzcxOTE1OCwtNDAzMzg3OTE5LC0xNjQzMzQ5
 Njc0LC0xODUyNjI2OTg2LC0yMjAxMjE1MzYsMTcyMTY4NjI3NC
 wtMjAzMzA0NTM2NSwtMTI0NTA1ODMwMiw5NDc2NDIwMzcsMTI0
