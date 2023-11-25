@@ -176,9 +176,9 @@ WorkFlash es único en el mundo, combina lo mejor de un servicio: que sea rápid
 Pues WorkFlash viene a hacer que esos problemas desaparezcan, que el encontrar a un trabajador sea rápido, fácil y confiable, con su método de registro de clientes y trabajadores en la que los trabajadores podrán publicitarse, poder ofrecer sus servicios y obtener empleos en donde antes parecía imposible.
 Donde los clientes puedan encontrar a trabajadores que cumplan con sus expectativas, ya sea por rendimiento, cercanía o precio.
 Contamos con un chat para poder agendar y acordar fechas y precios y poder cerrar el contrato del servicio.
-Con WorkFlash trabajar nunca fue tan fácil yresolv
+Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwMDA2ODE5LDE4MDEyMTkxMiwtMTI3OT
+eyJoaXN0b3J5IjpbNDM0ODA1MjE4LDE4MDEyMTkxMiwtMTI3OT
 g3NTQ0NSwxNDU1NjU3MzA3LDE3MDM4Mjc5MTAsMTgxNTI2NDQ2
 MywzNTA4NjczMjQsLTE3MDY3ODQ1MzYsLTE4Mzk5NzQ4MDUsLT
 EzODk3NzcyNzUsLTY3MjIzMDM0NCwtMjA5MDE0MzE5MCw2MDcx
