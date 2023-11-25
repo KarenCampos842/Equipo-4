@@ -105,9 +105,57 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
    </tr> 
  </table>      
  <br>
+ <table align=center>  
+   <tr>  
+  <td colspan=4>Necesidad: Buscar rápido trabajadores o servicios cercanos y confiables.</td>
+   </tr> 
+   <tr>  
+     <th>Característica</th>  
+      <th>WorkFlash</th> 
+      <th>Ayfix</th>
+      <th>Fever</th>
+      <th>Grupos de Facebook</th>
+   </tr> 
+    <tr> 
+    <td>Poder ver exclusivamente reseñas de personas que hayan adquirido sus servicios.</td>  
+      <td>X</td> 
+      <td> </td> 
+      <td></td>     
+       <td></td> 
+       </tr> 
+    <tr> 
+    <td>Poder ofrecer diferentes servicios con experiencias adquiridas empíricamente.</td> 
+    <td>X</td> 
+      <td> </td> 
+      <td></td>     
+       <td>X</td>  
+       </tr> 
+    <tr> 
+     <td>La posibilidad de filtrar a los trabajadores por disponibilidad al momento y cercanía.</td> 
+    <td>X</td> 
+      <td> </td> 
+      <td></td>     
+       <td></td>  
+       </tr> 
+        </tr> 
+    <tr> 
+     <td>Los clientes cuentan con la seguridad de que los trabajadores fueron verificados con documentos oficiales.</td> 
+    <td>X</td> 
+      <td> </td> 
+      <td>X</td>     
+       <td></td>  
+        </tr> 
+    <tr> 
+     <td>Poder reportar a usuarios y trabajadores por cancelaciones o estafas.</td> 
+    <td>X</td> 
+      <td> </td> 
+      <td></td>     
+       <td></td>  
+        </tr> 
+    <tr> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTI2NDQ2MywzNTA4NjczMjQsLTE3MD
-Y3ODQ1MzYsLTE4Mzk5NzQ4MDUsLTEzODk3NzcyNzUsLTY3MjIz
-MDM0NCwtMjA5MDE0MzE5MCw2MDcxMTA5NjgsODE3NDYzMjY2LC
-0xODMwMTk1OTA5XX0=
+eyJoaXN0b3J5IjpbMTE4MTMwNjUxMCwxODE1MjY0NDYzLDM1MD
+g2NzMyNCwtMTcwNjc4NDUzNiwtMTgzOTk3NDgwNSwtMTM4OTc3
+NzI3NSwtNjcyMjMwMzQ0LC0yMDkwMTQzMTkwLDYwNzExMDk2OC
+w4MTc0NjMyNjYsLTE4MzAxOTU5MDldfQ==
 -->
