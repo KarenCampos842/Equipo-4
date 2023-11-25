@@ -306,8 +306,10 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
 
 **Actividades:** 
 
- - **Edición demo:** Grabar un video mostrando cómo se debe usar la aplicación. Mostrar la navegación por la aplicación. 
- **- Audio demo:** Grabar el audio en inglés para el demo.
+ - **Edición demo:** Edit
+ - **Video demo:** Grabar un video mostrando cómo se debe usar la aplicación. Mostrar la navegación por la aplicación. 
+ - **Audio demo:** Grabar el audio en inglés para el demo.
+ 
 
  **Archivo del trabajo/Resultado:** <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Demo.md#demo">Demo.md</a>
  
@@ -328,11 +330,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE4NjU0NDIsMTUzODI0NzI0NiwtMj
-AwNTgxMzQxNSwtMTIxMjA1MjI3NCwtMTkzNDIzMDE1LC0yMTAy
-NTYyNzM5LDg5MTI1ODMxLC0xMTY2ODQ5MzE2LDIwNzA5MDM5NS
-wxNzgxNzE1NTExLDg3NDc2MjEwNSwtNDI3NjM0ODcxLDEwNDIw
-MDUzMzMsMTg0Njc0OTk3NSwtMjgzMjA4MTM4LC03NjUyNjQ2MT
-UsMTk3MzM0MTM1OSw5Mjk5NTUzNSwtMTUzMDQ5MDQ1NCwtMTQ3
-OTcxOTI1NF19
+eyJoaXN0b3J5IjpbNjUzMTkwNzM3LDE1MzgyNDcyNDYsLTIwMD
+U4MTM0MTUsLTEyMTIwNTIyNzQsLTE5MzQyMzAxNSwtMjEwMjU2
+MjczOSw4OTEyNTgzMSwtMTE2Njg0OTMxNiwyMDcwOTAzOTUsMT
+c4MTcxNTUxMSw4NzQ3NjIxMDUsLTQyNzYzNDg3MSwxMDQyMDA1
+MzMzLDE4NDY3NDk5NzUsLTI4MzIwODEzOCwtNzY1MjY0NjE1LD
+E5NzMzNDEzNTksOTI5OTU1MzUsLTE1MzA0OTA0NTQsLTE0Nzk3
+MTkyNTRdfQ==
 -->
