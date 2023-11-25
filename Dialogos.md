@@ -8,7 +8,8 @@
 
  
   **Diálogo proceso (1:30 min)**
-  ¿Quién no ha pasado por una situación similar a la anterior? Bueno, nosotros sí. Fueron nuestras experiencias e infortunios lo que nos inspiró a crear WorkFlash. Así, comenzó todo, con un baño de
+ ¿Quién no ha pasado por una situación similar a la anterior? Bueno, nosotros sí. Fueron nuestras experiencias e infortunios lo que nos inspiró a crear WorkFlash. Así, comenzó todo, con un baño desastroso, una tubería rota, un jardín descuidado. 
+Una vez, que tuvimos la idea, 
  
  **Diálogo producto (2 min)** 
 
@@ -21,5 +22,5 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTQ4NTgwMSwtODI5NzA2OTY4XX0=
+eyJoaXN0b3J5IjpbLTU2ODcyODU0NiwtODI5NzA2OTY4XX0=
 -->
