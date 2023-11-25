@@ -605,8 +605,8 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>1</td> 
       <td>Regístrate como cliente en la aplicación. </td>
        <td>x</td>
-       <td>Completada/No completada</td>
-        <td>x</td>
+       <td>Completada</td>
+        <td>5</td>
        <td>x min</td>              
    </tr>
    <tr>  
@@ -614,7 +614,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión. </td>
        <td>x</td>
        <td>Completada/No completada</td>
-        <td>x</td>
+        <td>5</td>
        <td>x min</td>              
    </tr>
    <tr>  
@@ -622,7 +622,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>Quieres cambiar datos de tu perfil, edítalo.</td>
        <td>x</td>
        <td>Completada/No completada</td>
-        <td>x</td>
+        <td>5</td>
        <td>x min</td>              
    </tr>
     <tr>  
@@ -630,7 +630,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>Tu carro marca un error desconocido en el tablero, necesitas un mecánico. Busca al mecánico Juan Campos Romero, observa su perfil, calificaciones y comentarios.</td>
        <td>x</td>
        <td>Completada/No completada</td>
-        <td>x</td>
+        <td>4</td>
        <td>x min</td>              
    </tr>
     <tr>  
@@ -694,11 +694,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzcxOTE1OCwtNDAzMzg3OTE5LC0xNj
-QzMzQ5Njc0LC0xODUyNjI2OTg2LC0yMjAxMjE1MzYsMTcyMTY4
-NjI3NCwtMjAzMzA0NTM2NSwtMTI0NTA1ODMwMiw5NDc2NDIwMz
-csMTI0MDk4NjM1LDE1NTk5NzM0MzcsMTQ2ODc0NTE3NSw2MzUy
-NDEwMzcsLTE0NTUxNDQ4MDksMTAwNTY5MjMyNCwtNjU2MTA3NT
-A4LDIzMTc2NTk0NiwxNDA1ODYwNTg4LC0xMjgxODI3OTMyLDE0
-MjYzOTU5NDFdfQ==
+eyJoaXN0b3J5IjpbNjk5NDI5NTMsLTUzNzcxOTE1OCwtNDAzMz
+g3OTE5LC0xNjQzMzQ5Njc0LC0xODUyNjI2OTg2LC0yMjAxMjE1
+MzYsMTcyMTY4NjI3NCwtMjAzMzA0NTM2NSwtMTI0NTA1ODMwMi
+w5NDc2NDIwMzcsMTI0MDk4NjM1LDE1NTk5NzM0MzcsMTQ2ODc0
+NTE3NSw2MzUyNDEwMzcsLTE0NTUxNDQ4MDksMTAwNTY5MjMyNC
+wtNjU2MTA3NTA4LDIzMTc2NTk0NiwxNDA1ODYwNTg4LC0xMjgx
+ODI3OTMyXX0=
 -->
