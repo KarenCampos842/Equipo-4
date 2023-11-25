@@ -11,8 +11,7 @@ Producto:
 Fecha límite: 18/11/2023
 
 **Martes 21 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 23. Hubo un retraso con la actividad innovación (por enfermedad). Hansony se comprometió a tenerla lista para el jueves 23 de noviembre.
-Por otro lado, cómo resultado de la reunión con el profesor Luis Basto se decidió realizar una encuesta después de finalizar el daily scrum para decidir si el video de la entrega se haría en inglés o en español. El acuerdo fue realizarlo en español y asignar una actividad a Asaf para compensar la actividad de traducción que ya no sería necesaria realizar (la nueva ac. 
-
+Por otro lado, cómo resultado de la reunión con el profesor Luis Basto se decidió realizar una encuesta después de finalizar el daily scrum para decidir si el video de la entrega se haría en inglés o en español. El acuerdo fue realizarlo en español y asignar una actividad (Video demo) a Asaf para compensar la actividad de traducción que ya no sería necesaria.
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>
 
@@ -362,11 +361,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3NzkwODU2LDE4MjgwOTgwNDgsMTc4ND
-I4NzI5OCw0NTQwMTE4MCwtMTI2OTA3NDkyMywxMzMzMjIxMDY5
-LDM0MjU4MzA3LC0xMTI2MzQ3NTU5LDE3MTIwNjAyNTksMTkyMj
-c2OTE2MywxNTc1NzMxODgyLDE3NzU2NTAxOTAsMjAxNzA4MDA3
-NSw4MTgxMDE3MDQsLTM2MzI1Njg3NiwtMjAyOTkyNzQxMSwxMT
-c5MDMzNTQ1LC0yMTQ0MDUxNTM2LDE3ODM3ODE5NzYsMzY4NDk3
-MjAzXX0=
+eyJoaXN0b3J5IjpbMTU2MzE1Njk4MywxODI4MDk4MDQ4LDE3OD
+QyODcyOTgsNDU0MDExODAsLTEyNjkwNzQ5MjMsMTMzMzIyMTA2
+OSwzNDI1ODMwNywtMTEyNjM0NzU1OSwxNzEyMDYwMjU5LDE5Mj
+I3NjkxNjMsMTU3NTczMTg4MiwxNzc1NjUwMTkwLDIwMTcwODAw
+NzUsODE4MTAxNzA0LC0zNjMyNTY4NzYsLTIwMjk5Mjc0MTEsMT
+E3OTAzMzU0NSwtMjE0NDA1MTUzNiwxNzgzNzgxOTc2LDM2ODQ5
+NzIwM119
 -->
