@@ -39,7 +39,7 @@ Para aplicar la prueba realizar lo siguiente:
 **Guion**
 A continuación te presentaré el prototipo de la aplicación para celular llamada WorkFlash. 
 Podrás interactuar con el prototipo y realizar actividades específicas que te indicaré en su momento. En la medida de lo posible, completa las actividades sin solicitar ayuda, en su lugar, intenta descubrir cómo utilizar la aplicación. 
-5. Realizar una demostración con el log in (es importante mencionar que para interactuar con los campos para escribir, como la contraseña, es necesario realizar clic sobre el rectángulo hasta que aparezca el texto deseado, una contraseña en este ejemplo). 
+5. Es importante mencionar que para interactuar con los campos para escribir, como la contraseña, es necesario realizar clic sobre el rectángulo hasta que aparezca el texto deseado, una contraseña en este ejemplo. 
 6.  Proporcionar un escenario en el que se utilizará la aplicación: 
 **Para el perfil de trabajador** 
 El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres mecánico y quieres usar WorkFlash para darte a conocer y atraer más clientes. 
@@ -582,11 +582,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzM4NzkxOSwtMTY0MzM0OTY3NCwtMT
-g1MjYyNjk4NiwtMjIwMTIxNTM2LDE3MjE2ODYyNzQsLTIwMzMw
-NDUzNjUsLTEyNDUwNTgzMDIsOTQ3NjQyMDM3LDEyNDA5ODYzNS
-wxNTU5OTczNDM3LDE0Njg3NDUxNzUsNjM1MjQxMDM3LC0xNDU1
-MTQ0ODA5LDEwMDU2OTIzMjQsLTY1NjEwNzUwOCwyMzE3NjU5ND
-YsMTQwNTg2MDU4OCwtMTI4MTgyNzkzMiwxNDI2Mzk1OTQxLC0z
-ODU3Njk4MjldfQ==
+eyJoaXN0b3J5IjpbMjA4MzgxMDk4NiwtNDAzMzg3OTE5LC0xNj
+QzMzQ5Njc0LC0xODUyNjI2OTg2LC0yMjAxMjE1MzYsMTcyMTY4
+NjI3NCwtMjAzMzA0NTM2NSwtMTI0NTA1ODMwMiw5NDc2NDIwMz
+csMTI0MDk4NjM1LDE1NTk5NzM0MzcsMTQ2ODc0NTE3NSw2MzUy
+NDEwMzcsLTE0NTUxNDQ4MDksMTAwNTY5MjMyNCwtNjU2MTA3NT
+A4LDIzMTc2NTk0NiwxNDA1ODYwNTg4LC0xMjgxODI3OTMyLDE0
+MjYzOTU5NDFdfQ==
 -->
