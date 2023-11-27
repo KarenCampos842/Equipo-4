@@ -537,8 +537,8 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>Juan Campos Romero ha terminado su trabajo. Finaliza tu contrato con él, realiza un comentario y califícalo. </td>
        <td>0</td>
        <td>Completada</td>
-        <td></td>
-       <td>x s</td>              
+        <td>4</td>
+       <td>60s</td>              
    </tr>
    <tr>  
       <td>8</td> 
@@ -696,11 +696,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk1NjM0MzMsLTc0MjM5MTUzNywtNz
-I4ODcyOTkzLC02NTE2NjA4MzEsLTE4ODI5NTgzNDYsOTA3NTM3
-NzU5LDIxNzc1OTUwNiwxMjQ5NDU3ODEyLDk1OTk1MjkwNSwtMT
-U3MDY0OTgyOSwtMjA0MTg3NzI4NiwtMTI0OTUyNjU3NywxODI2
-ODQ5Njc4LC01MjI5NzUzNDMsMTAzMjA0MDU0MSwtNTM3NzE5MT
-U4LC00MDMzODc5MTksLTE2NDMzNDk2NzQsLTE4NTI2MjY5ODYs
-LTIyMDEyMTUzNl19
+eyJoaXN0b3J5IjpbOTM4NDYzOTA3LC03NDIzOTE1MzcsLTcyOD
+g3Mjk5MywtNjUxNjYwODMxLC0xODgyOTU4MzQ2LDkwNzUzNzc1
+OSwyMTc3NTk1MDYsMTI0OTQ1NzgxMiw5NTk5NTI5MDUsLTE1Nz
+A2NDk4MjksLTIwNDE4NzcyODYsLTEyNDk1MjY1NzcsMTgyNjg0
+OTY3OCwtNTIyOTc1MzQzLDEwMzIwNDA1NDEsLTUzNzcxOTE1OC
+wtNDAzMzg3OTE5LC0xNjQzMzQ5Njc0LC0xODUyNjI2OTg2LC0y
+MjAxMjE1MzZdfQ==
 -->
