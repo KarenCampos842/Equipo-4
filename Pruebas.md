@@ -9,7 +9,7 @@ Para las pruebas se reclutarán a 12 personas en total. 6 con el perfil de clien
 
 | Trabajador |  Cliente|
 |--|--|
-| x | x |
+| x | xMiguel Nava | Andrea Loria |
 
 
 2. Presentarse como estudiantes de la Licenciatura en Ingeniería de Software (en caso de conocer al participante, es suficiente con un saludo). 
@@ -695,11 +695,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5OTUyOTA1LC0xNTcwNjQ5ODI5LC0yMD
-QxODc3Mjg2LC0xMjQ5NTI2NTc3LDE4MjY4NDk2NzgsLTUyMjk3
-NTM0MywxMDMyMDQwNTQxLC01Mzc3MTkxNTgsLTQwMzM4NzkxOS
-wtMTY0MzM0OTY3NCwtMTg1MjYyNjk4NiwtMjIwMTIxNTM2LDE3
-MjE2ODYyNzQsLTIwMzMwNDUzNjUsLTEyNDUwNTgzMDIsOTQ3Nj
-QyMDM3LDEyNDA5ODYzNSwxNTU5OTczNDM3LDE0Njg3NDUxNzUs
-NjM1MjQxMDM3XX0=
+eyJoaXN0b3J5IjpbMTI0OTQ1NzgxMiw5NTk5NTI5MDUsLTE1Nz
+A2NDk4MjksLTIwNDE4NzcyODYsLTEyNDk1MjY1NzcsMTgyNjg0
+OTY3OCwtNTIyOTc1MzQzLDEwMzIwNDA1NDEsLTUzNzcxOTE1OC
+wtNDAzMzg3OTE5LC0xNjQzMzQ5Njc0LC0xODUyNjI2OTg2LC0y
+MjAxMjE1MzYsMTcyMTY4NjI3NCwtMjAzMzA0NTM2NSwtMTI0NT
+A1ODMwMiw5NDc2NDIwMzcsMTI0MDk4NjM1LDE1NTk5NzM0Mzcs
+MTQ2ODc0NTE3NV19
 -->
