@@ -471,9 +471,9 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=3>Tipo de usuario</th>           
    </tr> 
     <tr>  
-      <td>x</td>  
-       <td>x</td>
-      <td>x</td>
+      <td>Femenino</td>  
+       <td>28</td>
+      <td>Abogada</td>
       <td colspan=3>primario (cliente)</td>  
    </tr> 
      <tr>  
@@ -696,11 +696,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODg3Mjk5MywtNjUxNjYwODMxLC0xOD
-gyOTU4MzQ2LDkwNzUzNzc1OSwyMTc3NTk1MDYsMTI0OTQ1Nzgx
-Miw5NTk5NTI5MDUsLTE1NzA2NDk4MjksLTIwNDE4NzcyODYsLT
-EyNDk1MjY1NzcsMTgyNjg0OTY3OCwtNTIyOTc1MzQzLDEwMzIw
-NDA1NDEsLTUzNzcxOTE1OCwtNDAzMzg3OTE5LC0xNjQzMzQ5Nj
-c0LC0xODUyNjI2OTg2LC0yMjAxMjE1MzYsMTcyMTY4NjI3NCwt
-MjAzMzA0NTM2NV19
+eyJoaXN0b3J5IjpbLTc0MjM5MTUzNywtNzI4ODcyOTkzLC02NT
+E2NjA4MzEsLTE4ODI5NTgzNDYsOTA3NTM3NzU5LDIxNzc1OTUw
+NiwxMjQ5NDU3ODEyLDk1OTk1MjkwNSwtMTU3MDY0OTgyOSwtMj
+A0MTg3NzI4NiwtMTI0OTUyNjU3NywxODI2ODQ5Njc4LC01MjI5
+NzUzNDMsMTAzMjA0MDU0MSwtNTM3NzE5MTU4LC00MDMzODc5MT
+ksLTE2NDMzNDk2NzQsLTE4NTI2MjY5ODYsLTIyMDEyMTUzNiwx
+NzIxNjg2Mjc0XX0=
 -->
