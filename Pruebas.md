@@ -303,7 +303,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    <tr>  
       <th>Descripción de errores</th>
        <td colspan=5>Ejemplo: Oprimió el botón de contratos en lugar de notificaciones (tarea 4).
-       Hice el mismo experimento con alguien mas joven y se adapto mas rapido el trabajor con quien hice el experimento se desespero, la cancelacion de membresia fue una d    </td> 
+       Hice el mismo experimento con alguien mas joven y se adapto mas rapido el trabajor con quien hice el experimento se desespero, en la de eliminar chat fue    </td> 
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
@@ -696,11 +696,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjI2MzM1OTMsLTY1MTY2MDgzMSwtMT
-g4Mjk1ODM0Niw5MDc1Mzc3NTksMjE3NzU5NTA2LDEyNDk0NTc4
-MTIsOTU5OTUyOTA1LC0xNTcwNjQ5ODI5LC0yMDQxODc3Mjg2LC
-0xMjQ5NTI2NTc3LDE4MjY4NDk2NzgsLTUyMjk3NTM0MywxMDMy
-MDQwNTQxLC01Mzc3MTkxNTgsLTQwMzM4NzkxOSwtMTY0MzM0OT
-Y3NCwtMTg1MjYyNjk4NiwtMjIwMTIxNTM2LDE3MjE2ODYyNzQs
-LTIwMzMwNDUzNjVdfQ==
+eyJoaXN0b3J5IjpbMTg3NTQyNjQzNCwtNjUxNjYwODMxLC0xOD
+gyOTU4MzQ2LDkwNzUzNzc1OSwyMTc3NTk1MDYsMTI0OTQ1Nzgx
+Miw5NTk5NTI5MDUsLTE1NzA2NDk4MjksLTIwNDE4NzcyODYsLT
+EyNDk1MjY1NzcsMTgyNjg0OTY3OCwtNTIyOTc1MzQzLDEwMzIw
+NDA1NDEsLTUzNzcxOTE1OCwtNDAzMzg3OTE5LC0xNjQzMzQ5Nj
+c0LC0xODUyNjI2OTg2LC0yMjAxMjE1MzYsMTcyMTY4NjI3NCwt
+MjAzMzA0NTM2NV19
 -->
