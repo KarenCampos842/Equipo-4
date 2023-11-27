@@ -543,8 +543,8 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    <tr>  
       <td>8</td> 
       <td>Luis Pérez Medina, plomero, no asistió a la reunión que habían programado. Elimina tu chat con él y repórtalo. </td>
-       <td>x</td>
-       <td>Completada/No completada</td>
+       <td>0</td>
+       <td>Completada</td>
         <td>x</td>
        <td>x s</td>              
    </tr>
@@ -696,11 +696,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4NDYzOTA3LC03NDIzOTE1MzcsLTcyOD
-g3Mjk5MywtNjUxNjYwODMxLC0xODgyOTU4MzQ2LDkwNzUzNzc1
-OSwyMTc3NTk1MDYsMTI0OTQ1NzgxMiw5NTk5NTI5MDUsLTE1Nz
-A2NDk4MjksLTIwNDE4NzcyODYsLTEyNDk1MjY1NzcsMTgyNjg0
-OTY3OCwtNTIyOTc1MzQzLDEwMzIwNDA1NDEsLTUzNzcxOTE1OC
-wtNDAzMzg3OTE5LC0xNjQzMzQ5Njc0LC0xODUyNjI2OTg2LC0y
-MjAxMjE1MzZdfQ==
+eyJoaXN0b3J5IjpbMTExMDAwODMwMSwtNzQyMzkxNTM3LC03Mj
+g4NzI5OTMsLTY1MTY2MDgzMSwtMTg4Mjk1ODM0Niw5MDc1Mzc3
+NTksMjE3NzU5NTA2LDEyNDk0NTc4MTIsOTU5OTUyOTA1LC0xNT
+cwNjQ5ODI5LC0yMDQxODc3Mjg2LC0xMjQ5NTI2NTc3LDE4MjY4
+NDk2NzgsLTUyMjk3NTM0MywxMDMyMDQwNTQxLC01Mzc3MTkxNT
+gsLTQwMzM4NzkxOSwtMTY0MzM0OTY3NCwtMTg1MjYyNjk4Niwt
+MjIwMTIxNTM2XX0=
 -->
