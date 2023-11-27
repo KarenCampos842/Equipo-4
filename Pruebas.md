@@ -302,7 +302,8 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>
    <tr>  
       <th>Descripción de errores</th>
-       <td colspan=5>Ejemplo: Oprimió el botón de contratos en lugar de notificaciones (tarea 4)</td> 
+       <td colspan=5>Ejemplo: Oprimió el botón de contratos en lugar de notificaciones (tarea 4).
+       </td> 
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
@@ -695,7 +696,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzI3Njc3NSw5MDc1Mzc3NTksMjE3Nz
+eyJoaXN0b3J5IjpbMTgyMjI2NDY5Nyw5MDc1Mzc3NTksMjE3Nz
 U5NTA2LDEyNDk0NTc4MTIsOTU5OTUyOTA1LC0xNTcwNjQ5ODI5
 LC0yMDQxODc3Mjg2LC0xMjQ5NTI2NTc3LDE4MjY4NDk2NzgsLT
 UyMjk3NTM0MywxMDMyMDQwNTQxLC01Mzc3MTkxNTgsLTQwMzM4
