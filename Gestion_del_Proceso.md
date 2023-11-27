@@ -37,7 +37,7 @@ Producto:
 Fecha límite: 26/11/2023
 
 **Lunes 27 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 27 (los diálogos y audios para el video que restaban y la actividad Correspondencia con los requisitos). Por otra parte, se acordó mover la fecha del resto de las actividades a terminar el 27 para el 28. 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>
 
 Fecha límite: 28/11/2023
 
@@ -289,56 +289,49 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
       <td>Diálogo Interfaz (Asaf)</td>  
         <td>Bajo</td>
         <td>26/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
    </tr>
   <tr>  
       <td>Audio_Diálogo Interfaz (Asaf)</td>  
         <td>Bajo</td>
         <td>26/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
    </tr>     
      <tr>
       <td>Resultados métricas (Hansony)</td>  
         <td>Alto</td>
         <td>26/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
      </tr>
      <tr>
       <td>Resultados interfaz (Carlos)</td>  
         <td>Alto</td>
         <td>26/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
      </tr>  
-    <tr>
-    <td>Correspondencia con los Requisitos (Hansony)</td>  
-        <td>Medio</td>
-        <td>26/11/2023</td>
-       <td>27/11/2023</td>
-        <td>Terminada</td>     
-     </tr> 
     <tr>
     <td>Evolución de las Interfaces de Usuario (Carlos)</td>  
         <td>Medio</td>
         <td>26/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
    </tr>
      <tr>  
       <td>Video demo (Asaf)</td>  
         <td>Alto</td>
         <td>27/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
    </tr>
      <tr>
     <td>Audio demo (Asaf)</td>  
         <td>Alto</td>
         <td>27/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
    </tr>
      <tr>
@@ -366,11 +359,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3ODY0NzcxLC0xMDEyNDczMjYwLDE4Mj
-gwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4MCwtMTI2OTA3NDky
-MywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMTI2MzQ3NTU5LDE3MT
-IwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMxODgyLDE3NzU2NTAx
-OTAsMjAxNzA4MDA3NSw4MTgxMDE3MDQsLTM2MzI1Njg3NiwtMj
-AyOTkyNzQxMSwxMTc5MDMzNTQ1LC0yMTQ0MDUxNTM2LDE3ODM3
-ODE5NzZdfQ==
+eyJoaXN0b3J5IjpbMTM3NjIyODA2NSwtMTAxMjQ3MzI2MCwxOD
+I4MDk4MDQ4LDE3ODQyODcyOTgsNDU0MDExODAsLTEyNjkwNzQ5
+MjMsMTMzMzIyMTA2OSwzNDI1ODMwNywtMTEyNjM0NzU1OSwxNz
+EyMDYwMjU5LDE5MjI3NjkxNjMsMTU3NTczMTg4MiwxNzc1NjUw
+MTkwLDIwMTcwODAwNzUsODE4MTAxNzA0LC0zNjMyNTY4NzYsLT
+IwMjk5Mjc0MTEsMTE3OTAzMzU0NSwtMjE0NDA1MTUzNiwxNzgz
+NzgxOTc2XX0=
 -->
