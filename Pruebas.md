@@ -487,16 +487,16 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
     <tr>  
       <td>1</td> 
       <td>Regístrate como cliente en la aplicación. </td>
-       <td>x</td>
-       <td>Completada/No completada</td>
-        <td>x</td>
-       <td>x s</td>                    
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>10s</td>                    
    </tr>
    <tr>  
       <td>2</td> 
       <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión. </td>
-       <td>x</td>
-       <td>Completada/No completada</td>
+       <td>1</td>
+       <td>Completada</td>
         <td>x</td>
        <td>x s</td>              
    </tr>
@@ -696,11 +696,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MjM5MTUzNywtNzI4ODcyOTkzLC02NT
-E2NjA4MzEsLTE4ODI5NTgzNDYsOTA3NTM3NzU5LDIxNzc1OTUw
-NiwxMjQ5NDU3ODEyLDk1OTk1MjkwNSwtMTU3MDY0OTgyOSwtMj
-A0MTg3NzI4NiwtMTI0OTUyNjU3NywxODI2ODQ5Njc4LC01MjI5
-NzUzNDMsMTAzMjA0MDU0MSwtNTM3NzE5MTU4LC00MDMzODc5MT
-ksLTE2NDMzNDk2NzQsLTE4NTI2MjY5ODYsLTIyMDEyMTUzNiwx
-NzIxNjg2Mjc0XX0=
+eyJoaXN0b3J5IjpbMTQ2MzY4MzUzNCwtNzQyMzkxNTM3LC03Mj
+g4NzI5OTMsLTY1MTY2MDgzMSwtMTg4Mjk1ODM0Niw5MDc1Mzc3
+NTksMjE3NzU5NTA2LDEyNDk0NTc4MTIsOTU5OTUyOTA1LC0xNT
+cwNjQ5ODI5LC0yMDQxODc3Mjg2LC0xMjQ5NTI2NTc3LDE4MjY4
+NDk2NzgsLTUyMjk3NTM0MywxMDMyMDQwNTQxLC01Mzc3MTkxNT
+gsLTQwMzM4NzkxOSwtMTY0MzM0OTY3NCwtMTg1MjYyNjk4Niwt
+MjIwMTIxNTM2XX0=
 -->
