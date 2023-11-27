@@ -3,7 +3,7 @@
 
   **Sketch (cliente)** 
   
-   “Una persona se sube a su auto y ve que no arranca” 
+  <br> “Una persona se sube a su auto y ve que no arranca” 
 
 Persona 1:  creo que se echó a perder 
 
