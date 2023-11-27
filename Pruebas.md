@@ -568,6 +568,122 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 
 
 ### Aplicación de las pruebas
+ 
+ <table align=center>  
+   <tr>  
+      <th colspan=4>Nombre del responsable de la aplicación</th>  
+      <th colspan=2>Fecha de aplicación</th> 
+   </tr> 
+    <tr>  
+      <td colspan=4>Nombre</td>  
+       <td colspan=2>d/m/a</td> 
+   </tr> 
+   <tr>  
+      <th colspan=6>Datos del participante</td> 
+   </tr> 
+    <tr>  
+      <th>Género</th>  
+      <th>Edad</th>
+      <th>Ocupación</th>     
+      <th colspan=3>Tipo de usuario</th>           
+   </tr> 
+    <tr>  
+      <td>x</td>  
+       <td>x</td>
+      <td>x</td>
+      <td colspan=3>primario (trabajador)</td>  
+   </tr> 
+     <tr>  
+      <th>Número de tarea</th> 
+     <th>Descripción</th>
+     <th>Número de errores</th>
+     <th>Éxito de tarea</th>
+    <th>Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</th>
+     <th>Tiempo</th>   
+   </tr> 
+    <tr>  
+      <td>1</td> 
+      <td>Regístrate como trabajador en la aplicación.<br>
+      Nota: (Zona de trabajo: Mérida, Expiración de tarjeta: mes 11, año 2025).  </td>
+       <td>x</td>
+       <td>Completada/No completada</td>
+       <td>x</td>
+        <td>x s</td>            
+   </tr>
+    <tr>  
+      <td>2</td> 
+      <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión.</td>
+       <td>x</td>
+       <td>Completada/No completada</td>
+       <td>x</td>
+        <td>x s</td>                          
+   </tr>
+   <tr>  
+      <td>3</td> 
+      <td>Quieres saber que opinan tus clientes de tí. Lee sus comentarios y calificaciones.</td>
+       <td>x</td>
+       <td>Completada/No completada</td>
+       <td>x</td>
+         <td>x s</td>                       
+   </tr>
+    <tr>  
+      <td>4</td> 
+      <td>Quieres cambiar datos de tu perfil, edítalo.</td>
+       <td>x</td>
+       <td>Completada/No completada</td>
+       <td>x</td>
+       <td>x s</td>                       
+   </tr>
+    <tr>  
+      <td>5</td> 
+      <td>Se te ha notificado de nuevos trabajos, revisa tus notificaciones, acepta a Victoria Robertson y rechaza a Greg Anderson. </td>
+       <td>x</td>
+       <td>Completada/No completada</td>
+       <td>x</td>
+       <td>x s</td>                   
+   </tr>
+   <tr>  
+      <td>6</td> 
+      <td>Revisa tu última conversación con Victoria Robertson. </td>
+       <td>x</td>
+       <td>Completada/No completada</td>
+       <td>x</td>
+        <td>x s</td>                    
+   </tr>
+   <tr>  
+      <td>7</td> 
+      <td>Ha finalizado tu contrato con Victoria Robertson, califícala.  </td>
+       <td>x</td>
+       <td>Completada/No completada</td>
+       <td>x</td>
+        <td>x s</td>                 
+   </tr>
+   <tr>  
+      <td>8</td> 
+      <td>Uno de tus clientes no asistió a la reunión que habían programado. Cancela tu contrato con Luis Pérez Medina y elimina su chat. </td>
+       <td>x</td>
+       <td>Completada/No completada</td>
+       <td>x</td>
+     <td>x s</td>                        
+   </tr>
+    <tr>  
+      <td>9</td> 
+      <td>Cancela tu membresía y sal de la aplicación. </td>
+       <td>x</td>
+       <td>Completada/No completada</td>
+       <td>x</td>
+       <td>x s</td>                
+   </tr>
+   <tr>  
+      <th>Descripción de errores</th>
+       <td colspan=5>Ejemplo: Oprimió el botón de contratos en lugar de notificaciones (tarea 4)</td> 
+   </tr>  
+    <tr>  
+      <th>Comentarios/Observaciones</th>
+       <td colspan=5>x</td> 
+   </tr>
+ </table>
+ 
  <table align=center>  
    <tr>  
       <th colspan=4>Nombre del responsable de la aplicación</th>  
@@ -681,6 +797,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td colspan=5>"Cambiar el signo + por otro símbolo para hacer más comprensible que al dar clic se desplegarán las opciones de contratar, reportar y cancelar. El signo + hace pensar que al dar clic se agregará otro contrato". <br>"El diseño me gustó".</td> 
    </tr>
  </table>
+ 
 
 ## Cuestionarios de satisfacción
 ###  Cuestionario
@@ -695,11 +812,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5OTUyOTA1LC0xNTcwNjQ5ODI5LC0yMD
-QxODc3Mjg2LC0xMjQ5NTI2NTc3LDE4MjY4NDk2NzgsLTUyMjk3
-NTM0MywxMDMyMDQwNTQxLC01Mzc3MTkxNTgsLTQwMzM4NzkxOS
-wtMTY0MzM0OTY3NCwtMTg1MjYyNjk4NiwtMjIwMTIxNTM2LDE3
-MjE2ODYyNzQsLTIwMzMwNDUzNjUsLTEyNDUwNTgzMDIsOTQ3Nj
-QyMDM3LDEyNDA5ODYzNSwxNTU5OTczNDM3LDE0Njg3NDUxNzUs
-NjM1MjQxMDM3XX0=
+eyJoaXN0b3J5IjpbMTM4MDU5NjM4MSw5NTk5NTI5MDUsLTE1Nz
+A2NDk4MjksLTIwNDE4NzcyODYsLTEyNDk1MjY1NzcsMTgyNjg0
+OTY3OCwtNTIyOTc1MzQzLDEwMzIwNDA1NDEsLTUzNzcxOTE1OC
+wtNDAzMzg3OTE5LC0xNjQzMzQ5Njc0LC0xODUyNjI2OTg2LC0y
+MjAxMjE1MzYsMTcyMTY4NjI3NCwtMjAzMzA0NTM2NSwtMTI0NT
+A1ODMwMiw5NDc2NDIwMzcsMTI0MDk4NjM1LDE1NTk5NzM0Mzcs
+MTQ2ODc0NTE3NV19
 -->
