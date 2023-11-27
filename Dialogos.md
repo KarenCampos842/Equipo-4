@@ -2,7 +2,53 @@
 <h1>Diálogos</h1>
 
   **Sketch (cliente)** 
+   “Una persona se sube a su auto y ve que no arranca” 
 
+Persona 1:  creo que se echó a perder 
+
+  “La persona 1 llama a un amigo “  
+
+“Suena el teléfono” 
+
+  “el amigo contesta” 
+
+Persona 1: Hola amigo 
+
+Amigo: hola bro que paso 
+
+Persona 1: Oye conoces algún mecánico 
+
+Amigo: no bro espera voy a preguntarle a alguien 
+
+  “amigo llama a un amigo “  
+
+  “Suena el teléfono” 
+
+  “el amigo2 contesta” 
+
+Amigo: oye conoces a algún mecánico 
+
+Amigo2: no bro espera voy a preguntarle a alguien 
+
+  “amigo2 llama a un amigo “  
+
+  “Suena el teléfono” 
+
+  “el amigo3 contesta” 
+
+Amigo2: oye conoces a algún mecánico 
+
+Amigo3: no bro no tengo auto 
+
+Narrador: ya no busquen más porque ahora con WorkFlash todo es más fácil 
+
+  “Persona1 abre WorkFlash y contrata a un mecánico” 
+
+  “el mecánico repara su auto” 
+
+Mecánico: ya está listo  
+
+Persona1: Gracias a WorkFash 
  
   **Sketch (trabajador)** 
 
