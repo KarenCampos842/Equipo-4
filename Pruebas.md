@@ -274,15 +274,15 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>5</td>
        <td>Completada</td>
        <td>3</td>
-        <td>x s</td>                    
+        <td>5 min</td>                    
    </tr>
    <tr>  
       <td>7</td> 
       <td>Ha finalizado tu contrato con Victoria Robertson, califícala.  </td>
-       <td>x</td>
-       <td>Completada/No completada</td>
-       <td>x</td>
-        <td>x s</td>                 
+       <td>0</td>
+       <td>Completada</td>
+       <td>5</td>
+        <td>10s</td>                 
    </tr>
    <tr>  
       <td>8</td> 
@@ -695,11 +695,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjU2MjgxNyw5MDc1Mzc3NTksMjE3Nz
-U5NTA2LDEyNDk0NTc4MTIsOTU5OTUyOTA1LC0xNTcwNjQ5ODI5
-LC0yMDQxODc3Mjg2LC0xMjQ5NTI2NTc3LDE4MjY4NDk2NzgsLT
-UyMjk3NTM0MywxMDMyMDQwNTQxLC01Mzc3MTkxNTgsLTQwMzM4
-NzkxOSwtMTY0MzM0OTY3NCwtMTg1MjYyNjk4NiwtMjIwMTIxNT
-M2LDE3MjE2ODYyNzQsLTIwMzMwNDUzNjUsLTEyNDUwNTgzMDIs
-OTQ3NjQyMDM3XX0=
+eyJoaXN0b3J5IjpbNDg4ODg3MjE5LDkwNzUzNzc1OSwyMTc3NT
+k1MDYsMTI0OTQ1NzgxMiw5NTk5NTI5MDUsLTE1NzA2NDk4Mjks
+LTIwNDE4NzcyODYsLTEyNDk1MjY1NzcsMTgyNjg0OTY3OCwtNT
+IyOTc1MzQzLDEwMzIwNDA1NDEsLTUzNzcxOTE1OCwtNDAzMzg3
+OTE5LC0xNjQzMzQ5Njc0LC0xODUyNjI2OTg2LC0yMjAxMjE1Mz
+YsMTcyMTY4NjI3NCwtMjAzMzA0NTM2NSwtMTI0NTA1ODMwMiw5
+NDc2NDIwMzddfQ==
 -->
