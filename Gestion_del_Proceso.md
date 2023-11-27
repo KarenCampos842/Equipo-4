@@ -240,65 +240,72 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
     <td>Aplicación de pruebas y cuestionario (Karen)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>26/11/2023</td>
+       <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
     <tr>
     <td>Aplicación de pruebas y cuestionario (Asaf)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>26/11/2023</td>
+       <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
     <tr>
     <td>Aplicación de pruebas y cuestionario (Hansony)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>26/11/2023</td>
+       <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
    <tr>
     <td>Aplicación de pruebas y cuestionario (Carlos)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>26/11/2023</td>
+       <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
    <tr>
     <td>Aplicación de pruebas y cuestionario (Moisés)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>26/11/2023</td>
+       <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
     <tr>
     <td>Aplicación de pruebas y cuestionario (Brandon)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>26/11/2023</td>
+       <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
-    <tr>
-    <td>Modificación interfaces (Karen)</td>  
-        <td>Alto</td>
+      <tr>
+    <td>Correspondencia con los Requisitos (Hansony)</td>  
+        <td>Medio</td>
         <td>26/11/2023</td>
        <td>27/11/2023</td>
         <td>Terminada</td>     
-     </tr>
+     </tr> 
       <tr>  
       <td>Diálogo Interfaz (Asaf)</td>  
         <td>Bajo</td>
         <td>26/11/2023</td>
-       <td>28/11/2023</td>
+       <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
   <tr>  
       <td>Audio_Diálogo Interfaz (Asaf)</td>  
         <td>Bajo</td>
         <td>26/11/2023</td>
-       <td>28/11/2023</td>
+       <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>     
+    <tr>
+    <td>Modificación interfaces (Karen)</td>  
+        <td>Alto</td>
+        <td>26/11/2023</td>
+       <td>28/11/2023</td>
+        <td>Terminada</td>     
+     </tr>
      <tr>
       <td>Resultados métricas (Hansony)</td>  
         <td>Alto</td>
@@ -359,7 +366,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjIyODA2NSwtMTAxMjQ3MzI2MCwxOD
+eyJoaXN0b3J5IjpbMTUyNzI0ODQwOCwtMTAxMjQ3MzI2MCwxOD
 I4MDk4MDQ4LDE3ODQyODcyOTgsNDU0MDExODAsLTEyNjkwNzQ5
 MjMsMTMzMzIyMTA2OSwzNDI1ODMwNywtMTEyNjM0NzU1OSwxNz
 EyMDYwMjU5LDE5MjI3NjkxNjMsMTU3NTczMTg4MiwxNzc1NjUw
