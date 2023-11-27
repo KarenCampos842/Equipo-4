@@ -36,7 +36,7 @@ Producto:
 
 Fecha límite: 26/11/2023
 
-**Lunes 27 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 27 (los diálogos y audios para el video que restaban, y  la aplicación de las pruebas). En el caso de las pruebas y de las actividades de Resultados se aumentó un día más para su finalización (hasta el 27 de noviembre). 
+**Lunes 27 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 27 (los diálogos y audios para el video que restaban y ). En el caso de las pruebas y de las actividades de Resultados interfaz, Resultados métricas y Evolución de las interfácez se aumentó un día más para su finalización (hasta el 27 de noviembre). 
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
 
@@ -367,7 +367,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTk5MTkxNywtMTAxMjQ3MzI2MCwxOD
+eyJoaXN0b3J5IjpbMTE3OTAzMTQyMCwtMTAxMjQ3MzI2MCwxOD
 I4MDk4MDQ4LDE3ODQyODcyOTgsNDU0MDExODAsLTEyNjkwNzQ5
 MjMsMTMzMzIyMTA2OSwzNDI1ODMwNywtMTEyNjM0NzU1OSwxNz
 EyMDYwMjU5LDE5MjI3NjkxNjMsMTU3NTczMTg4MiwxNzc1NjUw
