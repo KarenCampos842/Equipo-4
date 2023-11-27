@@ -2,6 +2,7 @@
 <h1>Diálogos</h1>
 
   **Sketch (cliente)** 
+  
    “Una persona se sube a su auto y ve que no arranca” 
 
 Persona 1:  creo que se echó a perder 
