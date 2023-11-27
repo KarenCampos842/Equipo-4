@@ -560,7 +560,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th>Descripción de errores</th>
        <td colspan=5> Oprimió la foto de perfil del mecánico en lugar de dar clic en el ícono (tarea 3).
        no vio que al bajar podia contratarlo(tarea 5).
-       cancelar el contrato fue u </td> 
+       cancelar el contrato fue una de las que se dificulto porque no sabia si al eliminar se cancelaba el contrato en automático(tarea 9) </td> 
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
@@ -698,7 +698,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDg2Njk3MSwyMTE4NDI0OTMzLC03ND
+eyJoaXN0b3J5IjpbLTE4MzQ5MTM2OSwyMTE4NDI0OTMzLC03ND
 IzOTE1MzcsLTcyODg3Mjk5MywtNjUxNjYwODMxLC0xODgyOTU4
 MzQ2LDkwNzUzNzc1OSwyMTc3NTk1MDYsMTI0OTQ1NzgxMiw5NT
 k5NTI5MDUsLTE1NzA2NDk4MjksLTIwNDE4NzcyODYsLTEyNDk1
