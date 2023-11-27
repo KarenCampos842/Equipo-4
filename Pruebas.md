@@ -560,7 +560,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th>Descripción de errores</th>
        <td colspan=5> Oprimió la foto de perfil del mecánico en lugar de dar clic en el ícono (tarea 3).
        no vio que al bajar podia contratarlo(tarea 5).
-        </td> 
+       cancelar el contrato fue u </td> 
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
@@ -698,11 +698,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTAxNjYxNjAsMjExODQyNDkzMywtNz
-QyMzkxNTM3LC03Mjg4NzI5OTMsLTY1MTY2MDgzMSwtMTg4Mjk1
-ODM0Niw5MDc1Mzc3NTksMjE3NzU5NTA2LDEyNDk0NTc4MTIsOT
-U5OTUyOTA1LC0xNTcwNjQ5ODI5LC0yMDQxODc3Mjg2LC0xMjQ5
-NTI2NTc3LDE4MjY4NDk2NzgsLTUyMjk3NTM0MywxMDMyMDQwNT
-QxLC01Mzc3MTkxNTgsLTQwMzM4NzkxOSwtMTY0MzM0OTY3NCwt
-MTg1MjYyNjk4Nl19
+eyJoaXN0b3J5IjpbLTczNDg2Njk3MSwyMTE4NDI0OTMzLC03ND
+IzOTE1MzcsLTcyODg3Mjk5MywtNjUxNjYwODMxLC0xODgyOTU4
+MzQ2LDkwNzUzNzc1OSwyMTc3NTk1MDYsMTI0OTQ1NzgxMiw5NT
+k5NTI5MDUsLTE1NzA2NDk4MjksLTIwNDE4NzcyODYsLTEyNDk1
+MjY1NzcsMTgyNjg0OTY3OCwtNTIyOTc1MzQzLDEwMzIwNDA1ND
+EsLTUzNzcxOTE1OCwtNDAzMzg3OTE5LC0xNjQzMzQ5Njc0LC0x
+ODUyNjI2OTg2XX0=
 -->
