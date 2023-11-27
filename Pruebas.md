@@ -497,8 +497,8 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión. </td>
        <td>1</td>
        <td>Completada</td>
-        <td>x</td>
-       <td>x s</td>              
+        <td>3</td>
+       <td>10s</td>              
    </tr>
    <tr>  
       <td>3</td> 
@@ -696,7 +696,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzY4MzUzNCwtNzQyMzkxNTM3LC03Mj
+eyJoaXN0b3J5IjpbMTQwMDIzNjEyNCwtNzQyMzkxNTM3LC03Mj
 g4NzI5OTMsLTY1MTY2MDgzMSwtMTg4Mjk1ODM0Niw5MDc1Mzc3
 NTksMjE3NzU5NTA2LDEyNDk0NTc4MTIsOTU5OTUyOTA1LC0xNT
 cwNjQ5ODI5LC0yMDQxODc3Mjg2LC0xMjQ5NTI2NTc3LDE4MjY4
