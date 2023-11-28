@@ -55,7 +55,7 @@ Persona1: Gracias a WorkFash
 
  
   **Diálogo proceso (1:30 min)**
- ¿Quién no ha pasado por una situación similar a la anterior? Bueno, nosotros sí. Fueron nuestros infortunios los que nos inspiraron para crear WorkFlash. Así, comenzó todo, con un baño desastroso. 
+ ¿Quién no ha pasado por una situación similar a la anterior? Bueno, nosotros sí. Fueron nuestros infortunios los que nos inspiraron para crear WorkFlash. Así, comenzó todo.
 Después de varias pláticas y pláticas, diferencias y acuerdos, logramos concretar nuestra idea y poner manos a la obra. 
 Para nuestro proyecto utilizamos la metodología ágil SCRUM como guía y nos apoyamos de diversas herramientas para volver a WorkFlash una realidad, herramientas como GitHub, WhatsApp, Teams, StackEdit y Figma. 
 En GitHub creamos un repositorio con una rama para cada entrega. Dentro de cada rama se crearon archivos para cada sección en la que se dividió el trabajo, y cada integrante creo la propia, desde la cual  podía realizar un pull request para hacer merge con la rama de la entrega correspondiente. 
@@ -70,10 +70,4 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
  
 **Diálogo interfaz (1 min)**
 
- 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDE1MDk4NSwxNDQ5MDMwNjgxLDE3MD
-IzOTE2NDcsLTE0MTA0OTQyNTIsLTkxNTQ2MDkyMSwyMDQ2NjQx
-NDQ2LC04Mjk3MDY5NjhdfQ==
--->

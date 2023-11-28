@@ -36,6 +36,11 @@ Producto:
 
 Fecha límite: 26/11/2023
 
+**Lunes 27 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 27 (los diálogos y audios para el video que restaban y la actividad Correspondencia con los requisitos). Por otra parte, se acordó mover la fecha del resto de las actividades a terminar el 27 para el 28. 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>
+
+Fecha límite: 28/11/2023
+
 
 ## Sprint Backlog
 Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/SegundTercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
@@ -235,51 +240,51 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
     <td>Aplicación de pruebas y cuestionario (Karen)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>26/11/2023</td>
+       <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
     <tr>
     <td>Aplicación de pruebas y cuestionario (Asaf)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>26/11/2023</td>
+       <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
     <tr>
     <td>Aplicación de pruebas y cuestionario (Hansony)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>26/11/2023</td>
+       <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
    <tr>
     <td>Aplicación de pruebas y cuestionario (Carlos)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>26/11/2023</td>
+       <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
    <tr>
     <td>Aplicación de pruebas y cuestionario (Moisés)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>26/11/2023</td>
+       <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
     <tr>
     <td>Aplicación de pruebas y cuestionario (Brandon)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>26/11/2023</td>
+       <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>
-    <tr>
-    <td>Modificación interfaces (Karen)</td>  
-        <td>Alto</td>
+      <tr>
+    <td>Correspondencia con los Requisitos (Hansony)</td>  
+        <td>Medio</td>
         <td>26/11/2023</td>
        <td>27/11/2023</td>
         <td>Terminada</td>     
-     </tr>
+     </tr> 
       <tr>  
       <td>Diálogo Interfaz (Asaf)</td>  
         <td>Bajo</td>
@@ -294,46 +299,46 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
        <td>27/11/2023</td>
         <td>Terminada</td>     
    </tr>     
+    <tr>
+    <td>Modificación interfaces (Karen)</td>  
+        <td>Alto</td>
+        <td>26/11/2023</td>
+       <td>28/11/2023</td>
+        <td>Terminada</td>     
+     </tr>
      <tr>
       <td>Resultados métricas (Hansony)</td>  
         <td>Alto</td>
         <td>26/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
      </tr>
      <tr>
       <td>Resultados interfaz (Carlos)</td>  
         <td>Alto</td>
         <td>26/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
      </tr>  
-    <tr>
-    <td>Correspondencia con los Requisitos (Hansony)</td>  
-        <td>Medio</td>
-        <td>26/11/2023</td>
-       <td>27/11/2023</td>
-        <td>Terminada</td>     
-     </tr> 
     <tr>
     <td>Evolución de las Interfaces de Usuario (Carlos)</td>  
         <td>Medio</td>
         <td>26/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
    </tr>
      <tr>  
       <td>Video demo (Asaf)</td>  
         <td>Alto</td>
         <td>27/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
    </tr>
      <tr>
     <td>Audio demo (Asaf)</td>  
         <td>Alto</td>
         <td>27/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
    </tr>
      <tr>
@@ -361,11 +366,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzE1Njk4MywxODI4MDk4MDQ4LDE3OD
-QyODcyOTgsNDU0MDExODAsLTEyNjkwNzQ5MjMsMTMzMzIyMTA2
-OSwzNDI1ODMwNywtMTEyNjM0NzU1OSwxNzEyMDYwMjU5LDE5Mj
-I3NjkxNjMsMTU3NTczMTg4MiwxNzc1NjUwMTkwLDIwMTcwODAw
-NzUsODE4MTAxNzA0LC0zNjMyNTY4NzYsLTIwMjk5Mjc0MTEsMT
-E3OTAzMzU0NSwtMjE0NDA1MTUzNiwxNzgzNzgxOTc2LDM2ODQ5
-NzIwM119
+eyJoaXN0b3J5IjpbMTUyNzI0ODQwOCwtMTAxMjQ3MzI2MCwxOD
+I4MDk4MDQ4LDE3ODQyODcyOTgsNDU0MDExODAsLTEyNjkwNzQ5
+MjMsMTMzMzIyMTA2OSwzNDI1ODMwNywtMTEyNjM0NzU1OSwxNz
+EyMDYwMjU5LDE5MjI3NjkxNjMsMTU3NTczMTg4MiwxNzc1NjUw
+MTkwLDIwMTcwODAwNzUsODE4MTAxNzA0LC0zNjMyNTY4NzYsLT
+IwMjk5Mjc0MTEsMTE3OTAzMzU0NSwtMjE0NDA1MTUzNiwxNzgz
+NzgxOTc2XX0=
 -->
