@@ -1228,10 +1228,10 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    <tr>  
       <td>6</td> 
       <td>Revisa tu última conversación con Victoria Robertson. </td>
-       <td>5</td>
+       <td>0</td>
        <td>Completada</td>
-       <td>3</td>
-        <td>5 min</td>                    
+       <td>4</td>
+        <td>60s</td>                    
    </tr>
    <tr>  
       <td>7</td> 
@@ -1244,18 +1244,18 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    <tr>  
       <td>8</td> 
       <td>Uno de tus clientes no asistió a la reunión que habían programado. Cancela tu contrato con Luis Pérez Medina y elimina su chat. </td>
-       <td>5</td>
+       <td>0</td>
        <td>Completada</td>
-       <td>3</td>
-     <td>3 min</td>                        
+       <td>5</td>
+     <td>30s</td>                        
    </tr>
     <tr>  
       <td>9</td> 
       <td>Cancela tu membresía y sal de la aplicación. </td>
-       <td>3</td>
+       <td>0</td>
        <td>Completada</td>
-       <td>3</td>
-       <td>1 min</td>                
+       <td>4</td>
+       <td>46s</td>                
    </tr>
    <tr>  
       <th>Descripción de errores</th>
@@ -1397,6 +1397,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc5MTY5NDQsLTgxMDA2NDI1OSw1OD
+eyJoaXN0b3J5IjpbLTIwMjQyMDU0NTIsLTgxMDA2NDI1OSw1OD
 gyMDc5OTEsLTE2ODU4NzI4MzUsLTkwNzU1NDUyNl19
 -->
