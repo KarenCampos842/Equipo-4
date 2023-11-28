@@ -1263,7 +1263,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
-       <td colspan=5>Se le facilitó al cliente porque está acostumbrada a la tecnología y a éste tipo de interfaces.</td> 
+       <td colspan=5>"Cuando iba a eliminar el contrato y lo seleccionaba, creo que la opción debería ser directa y no en la pesataña de arriba, mejor dónde está el nombre de la persona."</td> 
    </tr>
  </table>
 
@@ -1281,5 +1281,5 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjAzNTU1MywtOTA3NTU0NTI2XX0=
+eyJoaXN0b3J5IjpbLTE2ODU4NzI4MzUsLTkwNzU1NDUyNl19
 -->
