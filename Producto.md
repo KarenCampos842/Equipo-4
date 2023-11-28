@@ -163,9 +163,10 @@ Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan co
 Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio.
 Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0ODA1MjE4LDE4MDEyMTkxMiwtMTI3OT
-g3NTQ0NSwxNDU1NjU3MzA3LDE3MDM4Mjc5MTAsMTgxNTI2NDQ2
-MywzNTA4NjczMjQsLTE3MDY3ODQ1MzYsLTE4Mzk5NzQ4MDUsLT
-EzODk3NzcyNzUsLTY3MjIzMDM0NCwtMjA5MDE0MzE5MCw2MDcx
-MTA5NjgsODE3NDYzMjY2LC0xODMwMTk1OTA5XX0=
+eyJoaXN0b3J5IjpbNjgwMjI2NDM0LDQzNDgwNTIxOCwxODAxMj
+E5MTIsLTEyNzk4NzU0NDUsMTQ1NTY1NzMwNywxNzAzODI3OTEw
+LDE4MTUyNjQ0NjMsMzUwODY3MzI0LC0xNzA2Nzg0NTM2LC0xOD
+M5OTc0ODA1LC0xMzg5Nzc3Mjc1LC02NzIyMzAzNDQsLTIwOTAx
+NDMxOTAsNjA3MTEwOTY4LDgxNzQ2MzI2NiwtMTgzMDE5NTkwOV
+19
 -->
