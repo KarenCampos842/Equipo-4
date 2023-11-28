@@ -1191,7 +1191,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>1</td>
        <td>Completada</td>
         <td>4</td>
-       <td>20s</td>                    
+       <td>75s</td>                    
    </tr>
    <tr>  
       <td>2</td> 
@@ -1199,7 +1199,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>0</td>
        <td>Completada</td>
         <td>5</td>
-       <td>30s</td>              
+       <td>20s</td>              
    </tr>
    <tr>  
       <td>3</td> 
@@ -1259,8 +1259,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>
    <tr>  
       <th>Descripción de errores</th>
-       <td colspan=5> Oprimió la foto de perfil del mecánico en lugar de dar clic en el ícono (tarea 3).<br> No vio que al bajar podia contratarlo(tarea 5).
-       <br>Cancelar el contrato fue una de las que se dificultó porque no sabia si al eliminar se cancelaba el contrato en automático(tarea 9) </td> 
+       <td colspan=5> Trato de inicia </td> 
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
@@ -1282,5 +1281,5 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY0OTk4NjksLTkwNzU1NDUyNl19
+eyJoaXN0b3J5IjpbNDE2NDQxNDk0LC05MDc1NTQ1MjZdfQ==
 -->
