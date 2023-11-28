@@ -1188,7 +1188,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
     <tr>  
       <td>1</td> 
       <td>Regístrate como cliente en la aplicación. </td>
-       <td>0</td>
+       <td>1</td>
        <td>Completada</td>
         <td>5</td>
        <td>10s</td>                    
@@ -1212,7 +1212,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
     <tr>  
       <td>4</td> 
       <td>Tu carro marca un error desconocido en el tablero, necesitas un mecánico. Busca al mecánico Juan Campos Romero, observa su perfil, calificaciones y comentarios.</td>
-       <td>0</td>
+       <td>1</td>
        <td>Completada</td>
         <td>4</td>
        <td>30s</td>              
@@ -1220,7 +1220,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
     <tr>  
       <td>5</td> 
       <td>Inicia un chat con el mecánico Juan Campos Romero, contrata su servicio y regresa a tu perfil. </td>
-       <td>2</td>
+       <td>0</td>
        <td>Completada</td>
         <td>4</td>
        <td>60s</td>              
@@ -1236,7 +1236,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    <tr>  
       <td>7</td> 
       <td>Juan Campos Romero ha terminado su trabajo. Finaliza tu contrato con él, realiza un comentario y califícalo. </td>
-       <td>0</td>
+       <td>1</td>
        <td>Completada</td>
         <td>4</td>
        <td>60s</td>              
@@ -1252,7 +1252,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    <tr>  
       <td>9</td> 
       <td>Ha surgido un inconveniente y debes de cancelar uno de tus contratos. Cancela tu contrato con la manicurista Cintia Acosta López y cierra cesión.</td>
-       <td>4</td>
+       <td>0</td>
        <td>Completada</td>
          <td>3</td>
        <td>300 s</td>              
@@ -1282,5 +1282,5 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODUzNzQwOCwtOTA3NTU0NTI2XX0=
+eyJoaXN0b3J5IjpbMTc2ODIwMDUxNywtOTA3NTU0NTI2XX0=
 -->
