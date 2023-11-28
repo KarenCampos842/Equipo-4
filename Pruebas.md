@@ -1172,8 +1172,8 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr> 
     <tr>  
       <td>Masculino</td>  
-       <td>58</td>
-      <td>plomero</td>
+       <td>38</td>
+      <td>Profesor</td>
       <td colspan=3>primario (trabajador)</td>  
    </tr> 
      <tr>  
@@ -1397,6 +1397,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4MjA3OTkxLC0xNjg1ODcyODM1LC05MD
-c1NTQ1MjZdfQ==
+eyJoaXN0b3J5IjpbLTgxMDA2NDI1OSw1ODgyMDc5OTEsLTE2OD
+U4NzI4MzUsLTkwNzU1NDUyNl19
 -->
