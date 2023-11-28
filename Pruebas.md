@@ -1199,7 +1199,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>0</td>
        <td>Completada</td>
         <td>5</td>
-       <td>10s</td>              
+       <td>30s</td>              
    </tr>
    <tr>  
       <td>3</td> 
@@ -1207,7 +1207,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>1</td>
        <td>Completada</td>
         <td>4</td>
-       <td>10s</td>              
+       <td>92s</td>              
    </tr>
     <tr>  
       <td>4</td> 
@@ -1215,7 +1215,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>1</td>
        <td>Completada</td>
         <td>4</td>
-       <td>30s</td>              
+       <td>22s</td>              
    </tr>
     <tr>  
       <td>5</td> 
@@ -1223,7 +1223,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>0</td>
        <td>Completada</td>
         <td>5</td>
-       <td>60s</td>              
+       <td>31s</td>              
    </tr>
    <tr>  
       <td>6</td> 
@@ -1231,7 +1231,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>0</td>
        <td>Completada</td>
         <td>5</td>
-       <td>45s</td>              
+       <td>58s</td>              
    </tr>
    <tr>  
       <td>7</td> 
@@ -1239,7 +1239,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td>1</td>
        <td>Completada</td>
         <td>4</td>
-       <td>60s</td>              
+       <td>36s</td>              
    </tr>
    <tr>  
       <td>8</td> 
@@ -1282,5 +1282,5 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODgyNjY5MywtOTA3NTU0NTI2XX0=
+eyJoaXN0b3J5IjpbLTk5MzgyNjI4MywtOTA3NTU0NTI2XX0=
 -->
