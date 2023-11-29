@@ -275,7 +275,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
     <td>Aplicación de pruebas y cuestionario (Brandon)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
    </tr>
       <tr>
@@ -366,11 +366,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzI0ODQwOCwtMTAxMjQ3MzI2MCwxOD
-I4MDk4MDQ4LDE3ODQyODcyOTgsNDU0MDExODAsLTEyNjkwNzQ5
-MjMsMTMzMzIyMTA2OSwzNDI1ODMwNywtMTEyNjM0NzU1OSwxNz
-EyMDYwMjU5LDE5MjI3NjkxNjMsMTU3NTczMTg4MiwxNzc1NjUw
-MTkwLDIwMTcwODAwNzUsODE4MTAxNzA0LC0zNjMyNTY4NzYsLT
-IwMjk5Mjc0MTEsMTE3OTAzMzU0NSwtMjE0NDA1MTUzNiwxNzgz
-NzgxOTc2XX0=
+eyJoaXN0b3J5IjpbMTEwNjg0MTAxNSwxNTI3MjQ4NDA4LC0xMD
+EyNDczMjYwLDE4MjgwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4
+MCwtMTI2OTA3NDkyMywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMT
+I2MzQ3NTU5LDE3MTIwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMx
+ODgyLDE3NzU2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3MDQsLT
+M2MzI1Njg3NiwtMjAyOTkyNzQxMSwxMTc5MDMzNTQ1LC0yMTQ0
+MDUxNTM2XX0=
 -->
