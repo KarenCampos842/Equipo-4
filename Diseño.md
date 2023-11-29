@@ -16,17 +16,18 @@
 | Nombre de la ventana | Número de requerimiento |
 |--|--|
 | registro_cliente (1-4) | 2, 5, 10 |
-| registro_trabajador (1-6) | 3, 4, 5, 10,  |
-| inicio_cliente | 2, 5 |
-| inicio_trabajador | 2, 5 |
+| registro_trabajador (1-6) | 3, 4, 5  |
+| inicio_cliente | 10 |
+| inicio_trabajador | 10 |
 | registro | 1 |
 | recuperación_cuenta | 2, 5 |
 | Permiso de ubicación | 2, 5 |
-| cliente (1-16) | 8 |
+| cliente (1-16) | 11,  |
 | trabajador (1-10)| 9 |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxMDA1MjYsLTE2OTc1NDQ1NDIsLTE0NT
-E0NjQyODIsLTIxODYxMTgxNCwyMDA3MDA5NjI2XX0=
+eyJoaXN0b3J5IjpbODc4ODIwMDY5LDU5MTAwNTI2LC0xNjk3NT
+Q0NTQyLC0xNDUxNDY0MjgyLC0yMTg2MTE4MTQsMjAwNzAwOTYy
+Nl19
 -->
