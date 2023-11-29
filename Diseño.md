@@ -15,19 +15,19 @@
 ## Correspondencia con los requisitos 
 | Nombre de la ventana | Número de requerimiento |
 |--|--|
-| registro_cliente (1-4) | 2, 5, 10 |
-| registro_trabajador (1-6) | 3, 4, 5  |
+| registro_cliente (1-4) | 2, 5 |
+| registro_trabajador (1-6) | 3, 4 |
 | inicio_cliente | 10 |
 | inicio_trabajador | 10 |
 | registro | 1 |
 | recuperación_cuenta | 21 |
 | Permiso de ubicación | 2, 3 |
-| cliente (1-16) | 6, 7, 8, 11, 12, 13, 14, 15, 17, 22 |
-| trabajador (1-10)| 7, 9, 14, 15, 16, 18, 20, 21, 22 |
+| cliente (1-16) | 6, 7, 8, 11, 12, 13, 14, 15, 17, 19, 22 |
+| trabajador (1-10)| 7, 9, 14, 15, 16, 18, 19, 20, 21, 22 |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjI4Mjk5LDU5MTAwNTI2LC0xNjk3NT
-Q0NTQyLC0xNDUxNDY0MjgyLC0yMTg2MTE4MTQsMjAwNzAwOTYy
-Nl19
+eyJoaXN0b3J5IjpbLTE0Mjc0Nzk5Nyw1OTEwMDUyNiwtMTY5Nz
+U0NDU0MiwtMTQ1MTQ2NDI4MiwtMjE4NjExODE0LDIwMDcwMDk2
+MjZdfQ==
 -->
