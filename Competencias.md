@@ -1,7 +1,13 @@
 <h1 id="competencias">Competencias</h1>
 
 ## Competencias genéricas
+La carrera de Ingeniería de Software requiere una combinación de habilidades técnicas, cognitivas y sociales para tener éxito en el campo. Aquí hay una lista de competencias genéricas importantes para un ingeniero de software:
 
+1.  **Habilidades Técnicas:**
+    
+    -   **Programación:** Dominio de múltiples lenguajes de programación y capacidad para escribir código limpio y eficiente.
+    -   **Diseño de Software:** Capacidad para crear arquitecturas de software sólidas y escalables.
+    -   **Conocimiento de Herramientas y Tecnologías:** Familiaridad con frameworks, herramientas de desarrollo, sistemas operativos y tecnologías emergentes.
 ## Competencias específicas
 
 ## Crítica constructiva del curso
@@ -25,5 +31,5 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjU1NDQ2MywyMDQ1MjcwOTA3XX0=
+eyJoaXN0b3J5IjpbLTcxNTA2NDk4OSwyMDQ1MjcwOTA3XX0=
 -->
