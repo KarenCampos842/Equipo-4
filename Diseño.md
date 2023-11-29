@@ -15,18 +15,18 @@
 ## Correspondencia con los requisitos 
 | Nombre de la ventana | Número de requerimiento |
 |--|--|
-| registro_cliente (1-4) | 2, 5, 1 |
-| registro_trabajador (1-6) | 3,4,5 |
+| registro_cliente (1-4) | 2, 5, 10 |
+| registro_trabajador (1-6) | 3, 4, 5, 10,  |
 | inicio_cliente | 2, 5 |
 | inicio_trabajador | 2, 5 |
 | registro | 1 |
 | recuperación_cuenta | 2, 5 |
 | Permiso de ubicación | 2, 5 |
-| cliente (1-16) | 2, 5 |
-| trabajador (1-10)| 2, 5 |
+| cliente (1-16) | 8 |
+| trabajador (1-10)| 9 |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwMTMzNDQ0LC0xNjk3NTQ0NTQyLC0xND
-UxNDY0MjgyLC0yMTg2MTE4MTQsMjAwNzAwOTYyNl19
+eyJoaXN0b3J5IjpbNTkxMDA1MjYsLTE2OTc1NDQ1NDIsLTE0NT
+E0NjQyODIsLTIxODYxMTgxNCwyMDA3MDA5NjI2XX0=
 -->
