@@ -928,16 +928,16 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    <tr>  
       <th colspan=6>Datos del participante</td> 
    </tr> 
-    <tr>  
-      <th>Masculino</th>  
-      <th>18</th>
-      <th>Estudiante(Foraneo)</th>     
+     <tr>  
+      <th>Género</th>  
+      <th>Edad</th>
+      <th>Ocupación</th>     
       <th colspan=3>Tipo de usuario</th>           
    </tr> 
     <tr>  
-      <td>x</td>  
-       <td>x</td>
-      <td>x</td>
+      <td>Masculino</td>  
+       <td>18</td>
+      <td>Estudiante</td>
       <td colspan=3>primario (cliente)</td>  
    </tr> 
      <tr>  
