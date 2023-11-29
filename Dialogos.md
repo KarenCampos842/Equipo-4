@@ -64,7 +64,7 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
  
  **Diálogo producto (2 min)** 
  
-Andar en búsqueda de un mecánico, un plomero o electricista u otro tipo de trabajadores, puede c
+Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trabajadores, puede volverse una tarea muy tardada, ya lo hemos visto, incluso cuando crees que lo tienes resuelto, la persona 
 
  
 **Diálogo diferenciadores (1:30 min)** 
@@ -74,6 +74,6 @@ Andar en búsqueda de un mecánico, un plomero o electricista u otro tipo de tra
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2NDk1MDE5LC03NTkwMzMyODgsMTM4MT
+eyJoaXN0b3J5IjpbNTU0OTY1MTExLC03NTkwMzMyODgsMTM4MT
 IzMzE3Ml19
 -->
