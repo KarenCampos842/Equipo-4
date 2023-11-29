@@ -240,35 +240,35 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
     <td>Aplicación de pruebas y cuestionario (Karen)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
    </tr>
     <tr>
     <td>Aplicación de pruebas y cuestionario (Asaf)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
    </tr>
     <tr>
     <td>Aplicación de pruebas y cuestionario (Hansony)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
    </tr>
    <tr>
     <td>Aplicación de pruebas y cuestionario (Carlos)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
    </tr>
    <tr>
     <td>Aplicación de pruebas y cuestionario (Moisés)</td>  
         <td>Alto</td>
         <td>24/11/2023</td>
-       <td>27/11/2023</td>
+       <td>28/11/2023</td>
         <td>Terminada</td>     
    </tr>
     <tr>
@@ -278,7 +278,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
        <td>28/11/2023</td>
         <td>Terminada</td>     
    </tr>
-      <tr>
+    <tr>
     <td>Correspondencia con los Requisitos (Hansony)</td>  
         <td>Medio</td>
         <td>26/11/2023</td>
@@ -366,11 +366,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjg0MTAxNSwxNTI3MjQ4NDA4LC0xMD
-EyNDczMjYwLDE4MjgwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4
-MCwtMTI2OTA3NDkyMywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMT
-I2MzQ3NTU5LDE3MTIwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMx
-ODgyLDE3NzU2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3MDQsLT
-M2MzI1Njg3NiwtMjAyOTkyNzQxMSwxMTc5MDMzNTQ1LC0yMTQ0
-MDUxNTM2XX0=
+eyJoaXN0b3J5IjpbMTk2NDUwNjEyLDE1MjcyNDg0MDgsLTEwMT
+I0NzMyNjAsMTgyODA5ODA0OCwxNzg0Mjg3Mjk4LDQ1NDAxMTgw
+LC0xMjY5MDc0OTIzLDEzMzMyMjEwNjksMzQyNTgzMDcsLTExMj
+YzNDc1NTksMTcxMjA2MDI1OSwxOTIyNzY5MTYzLDE1NzU3MzE4
+ODIsMTc3NTY1MDE5MCwyMDE3MDgwMDc1LDgxODEwMTcwNCwtMz
+YzMjU2ODc2LC0yMDI5OTI3NDExLDExNzkwMzM1NDUsLTIxNDQw
+NTE1MzZdfQ==
 -->
