@@ -15,10 +15,10 @@
 ## Correspondencia con los requisitos 
 | Nombre de la ventana | Número de requerimiento |
 |--|--|
-| x | x |
+| registro_cliente |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE0NjQyODIsLTIxODYxMTgxNCwyMD
-A3MDA5NjI2XX0=
+eyJoaXN0b3J5IjpbMTAzMjg5MjY2OCwtMTQ1MTQ2NDI4MiwtMj
+E4NjExODE0LDIwMDcwMDk2MjZdfQ==
 -->
