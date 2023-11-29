@@ -72,7 +72,7 @@ La Ingeniería de Software implica competencias específicas en áreas técnicas
     
     -   Actitud de aprendizaje constante para mantenerse al día con las nuevas tecnologías y tendencias en ingeniería de software.
     -   Adaptabilidad para enfrentar cambios en los requisitos del proyecto y el entorno tecnológico.
-a
+
 Estas competencias específicas son esenciales para los ingenieros de software y pueden variar según el área de especialización, la industria y el contexto específico del trabajo.
 
 ## Crítica constructiva del curso
@@ -96,7 +96,7 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI1OTE3MzQsOTcyNzQ4NDgzLDk3Mj
-c0ODQ4MywxMjA2NTYyMTcsMTY5NDI1ODQ0NywyMDQ1MjcwOTA3
-XX0=
+eyJoaXN0b3J5IjpbOTcyNzQ4NDgzLDk3Mjc0ODQ4Myw5NzI3ND
+g0ODMsMTIwNjU2MjE3LDE2OTQyNTg0NDcsMjA0NTI3MDkwN119
+
 -->
