@@ -308,42 +308,42 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
     <td>Modificación interfaces (Karen)</td>  
         <td>Alto</td>
         <td>26/11/2023</td>
-       <td>28/11/2023</td>
+       <td>29/11/2023</td>
         <td>Terminada</td>     
      </tr>
      <tr>
       <td>Resultados métricas (Hansony)</td>  
         <td>Alto</td>
         <td>26/11/2023</td>
-       <td>28/11/2023</td>
+       <td>29/11/2023</td>
         <td>Terminada</td>     
      </tr>
      <tr>
       <td>Resultados interfaz (Carlos)</td>  
         <td>Alto</td>
         <td>26/11/2023</td>
-       <td>28/11/2023</td>
+       <td>29/11/2023</td>
         <td>Terminada</td>     
      </tr>  
     <tr>
     <td>Evolución de las Interfaces de Usuario (Carlos)</td>  
         <td>Medio</td>
         <td>26/11/2023</td>
-       <td>28/11/2023</td>
+       <td>29/11/2023</td>
         <td>Terminada</td>     
    </tr>
      <tr>  
       <td>Video demo (Asaf)</td>  
         <td>Alto</td>
         <td>27/11/2023</td>
-       <td>28/11/2023</td>
+       <td>29/11/2023</td>
         <td>Terminada</td>     
    </tr>
      <tr>
     <td>Audio demo (Asaf)</td>  
         <td>Alto</td>
         <td>27/11/2023</td>
-       <td>28/11/2023</td>
+       <td>29/11/2023</td>
         <td>Terminada</td>     
    </tr>
      <tr>
@@ -371,7 +371,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkxNTE0NjcsMTUyNzI0ODQwOCwtMT
+eyJoaXN0b3J5IjpbLTE0NTAyODk4OTcsMTUyNzI0ODQwOCwtMT
 AxMjQ3MzI2MCwxODI4MDk4MDQ4LDE3ODQyODcyOTgsNDU0MDEx
 ODAsLTEyNjkwNzQ5MjMsMTMzMzIyMTA2OSwzNDI1ODMwNywtMT
 EyNjM0NzU1OSwxNzEyMDYwMjU5LDE5MjI3NjkxNjMsMTU3NTcz
