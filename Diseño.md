@@ -15,10 +15,13 @@
 ## Correspondencia con los requisitos 
 | Nombre de la ventana | Número de requerimiento |
 |--|--|
-| registro_cliente | 2,  |
+| registro_cliente | 2, 5 |
+| registro_trabajador | 2, 5 |
+| registro_cliente | 2, 5 |
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTM3NTIxOCwtMTQ1MTQ2NDI4MiwtMj
-E4NjExODE0LDIwMDcwMDk2MjZdfQ==
+eyJoaXN0b3J5IjpbNzY1MzkzMywtMTQ1MTQ2NDI4MiwtMjE4Nj
+ExODE0LDIwMDcwMDk2MjZdfQ==
 -->
