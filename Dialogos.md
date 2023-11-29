@@ -64,7 +64,7 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
  
  **Diálogo producto (2 min)** 
  
-Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trabajador, puede volverse una tarea bastante tardada, especialmente cuando no sabes donde buscar, ya lo hemos visto, incluso cuando crees que lo tienes resuelto, la persona con la que quedaste simplemente podría optar por no presentarse. Pero no todo es negativo, así como 
+Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trabajador, puede volverse una tarea bastante tardada, especialmente cuando no sabes donde buscar, ya lo hemos visto, incluso cuando crees que lo tienes resuelto, la persona con la que quedaste simplemente podría optar por no presentarse. Y a todo esto, ¿acaso podríamos de alguna manera facilitar todo este proceso?, por su puesto, permitanme hablarles de Work
 
  
 **Diálogo diferenciadores (1:30 min)** 
@@ -74,6 +74,6 @@ Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI2NTkyNTMsLTc1OTAzMzI4OCwxMz
-gxMjMzMTcyXX0=
+eyJoaXN0b3J5IjpbMTIxMTQ5NTczNSwtNzU5MDMzMjg4LDEzOD
+EyMzMxNzJdfQ==
 -->
