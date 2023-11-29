@@ -32,6 +32,48 @@ La carrera de Ingeniería de Software requiere una combinación de habilidades t
 
 Estas competencias genéricas son fundamentales para el éxito en la Ingeniería de Software y pueden variar en su énfasis dependiendo de la especialización, el entorno laboral y las demandas específicas de la industria.
 ## Competencias específicas
+La Ingeniería de Software implica competencias específicas en áreas técnicas, de gestión y habilidades interpersonales. Aquí hay una lista más detallada de competencias específicas para los ingenieros de software:
+
+1.  **Desarrollo de Software:**
+    
+    -   Dominio de lenguajes de programación como Java, Python, C++, entre otros.
+    -   Conocimiento profundo de estructuras de datos y algoritmos.
+    -   Experiencia en el diseño y desarrollo de arquitecturas de software escalables y seguras.
+    -   Familiaridad con el desarrollo web, móvil y de aplicaciones.
+2.  **Principios y Métodos de Ingeniería de Software:**
+    
+    -   Comprensión de los principios de diseño de software (DRY, SOLID, etc.).
+    -   Experiencia en el uso de patrones de diseño.
+    -   Conocimiento de metodologías ágiles (Scrum, Kanban) y capacidad para aplicarlas en el desarrollo de software.
+3.  **Gestión de Proyectos y Herramientas de Desarrollo:**
+    
+    -   Experiencia en el uso de herramientas de control de versiones como Git.
+    -   Conocimiento de herramientas de gestión de proyectos como Jira, Trello, etc.
+    -   Habilidad para trabajar con metodologías de desarrollo como DevOps.
+4.  **Pruebas y Aseguramiento de la Calidad:**
+    
+    -   Competencia en técnicas de prueba de software (pruebas unitarias, de integración, funcionales, etc.).
+    -   Conocimiento de herramientas de pruebas automatizadas.
+5.  **Diseño y Arquitectura de Software:**
+    
+    -   Capacidad para diseñar sistemas robustos y escalables.
+    -   Comprensión de patrones de arquitectura (MVC, microservicios, etc.).
+    -   Experiencia en el diseño de bases de datos y optimización de consultas.
+6.  **Seguridad Informática:**
+    
+    -   Conocimiento de principios de seguridad de la información.
+    -   Capacidad para implementar prácticas de seguridad en el desarrollo de software.
+7.  **Habilidades Interpersonales:**
+    
+    -   Comunicación efectiva con equipos multidisciplinarios.
+    -   Habilidad para trabajar en equipo y resolver problemas colaborativamente.
+    -   Capacidad para explicar conceptos técnicos de forma clara y comprensible.
+8.  **Aprendizaje Continuo y Adaptabilidad:**
+    
+    -   Actitud de aprendizaje constante para mantenerse al día con las nuevas tecnologías y tendencias en ingeniería de software.
+    -   Adaptabilidad para enfrentar cambios en los requisitos del proyecto y el entorno tecnológico.
+
+Estas competencias específicas son esenciales para los ingenieros de software y pueden variar según el área de especialización, la industria y el contexto específico del trabajo.
 
 ## Crítica constructiva del curso
 La materia de “fundamentos de ingeniería de software” perteneciente al primer semestre y tiene el objetivo de analizar las principales características, métodos, procedimientos y buenas prácticas, utilizados en el proceso de desarrollo y gestión del software, cuenta con 5 unidades: 
@@ -54,6 +96,6 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDI1ODQ0NywxNjk0MjU4NDQ3LDIwND
-UyNzA5MDddfQ==
+eyJoaXN0b3J5IjpbOTcyNzQ4NDgzLDE2OTQyNTg0NDcsMjA0NT
+I3MDkwN119
 -->
