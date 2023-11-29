@@ -20,14 +20,14 @@
 | inicio_cliente | 10 |
 | inicio_trabajador | 10 |
 | registro | 1 |
-| recuperación_cuenta | 2, 5 |
+| recuperación_cuenta | 21 |
 | Permiso de ubicación | 2, 5 |
-| cliente (1-16) | 11,  |
+| cliente (1-16) | 11, 12, 13, 14, 15, 17, 22 |
 | trabajador (1-10)| 9 |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4ODIwMDY5LDU5MTAwNTI2LC0xNjk3NT
-Q0NTQyLC0xNDUxNDY0MjgyLC0yMTg2MTE4MTQsMjAwNzAwOTYy
-Nl19
+eyJoaXN0b3J5IjpbLTE5MDIyODQyODcsNTkxMDA1MjYsLTE2OT
+c1NDQ1NDIsLTE0NTE0NjQyODIsLTIxODYxMTgxNCwyMDA3MDA5
+NjI2XX0=
 -->
