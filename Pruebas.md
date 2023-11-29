@@ -921,7 +921,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Fecha de aplicación</th> 
    </tr> 
     <tr>  
-      <td colspan=4>Carlos romero</td>  
+      <td colspan=4>Carlos Emmanuel Romero Poot</td>  
        <td colspan=2>29/11/2023</td> 
    </tr> 
    <tr>  
