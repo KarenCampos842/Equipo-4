@@ -63,6 +63,7 @@ Sucedieron muchas cosas durante el proyecto. Aprendimos a utilizar varias de las
 Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resultado. Éste es WorkFlash.
  
  **Diálogo producto (2 min)** 
+ 
 
  
 **Diálogo diferenciadores (1:30 min)** 
@@ -72,5 +73,5 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTIzMzE3Ml19
+eyJoaXN0b3J5IjpbLTc1OTAzMzI4OCwxMzgxMjMzMTcyXX0=
 -->
