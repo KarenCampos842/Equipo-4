@@ -799,7 +799,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>
  </table>
 
- // carlos p
  <table align=center>  
    <tr>  
       <th colspan=4>Nombre del responsable de la aplicación</th>  
