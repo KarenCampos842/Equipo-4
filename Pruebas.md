@@ -1015,7 +1015,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    <tr>  
       <td>9</td> 
       <td>Ha surgido un inconveniente y debes de cancelar uno de tus contratos. Cancela tu contrato con la manicurista Cintia Acosta López y cierra cesión.  </td>
-       <td>x</td>
+       <td>0</td>
        <td>Completada</td>
          <td>5</td>
        <td>19 s</td>              
