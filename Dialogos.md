@@ -64,7 +64,7 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
  
  **Diálogo producto (2 min)** 
  
- 
+ Tomarse la molestia de andar en búsqueda de un mecánico, un plomero o electric
 
  
 **Diálogo diferenciadores (1:30 min)** 
@@ -74,6 +74,6 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzMzMzI2OCwtNzU5MDMzMjg4LDEzOD
+eyJoaXN0b3J5IjpbMTU4Mjc4MzM1MSwtNzU5MDMzMjg4LDEzOD
 EyMzMxNzJdfQ==
 -->
