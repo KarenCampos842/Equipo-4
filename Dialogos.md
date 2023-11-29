@@ -64,7 +64,7 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
  
  **Diálogo producto (2 min)** 
  
- Encontrar un mécanico?
+ ¿Encontrar un mecánico, plomero, electricista o cualquier ele ?, 
 
  
 **Diálogo diferenciadores (1:30 min)** 
@@ -74,6 +74,6 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTQ1OTc0NywtNzU5MDMzMjg4LDEzOD
+eyJoaXN0b3J5IjpbLTg2MTM3ODg5OCwtNzU5MDMzMjg4LDEzOD
 EyMzMxNzJdfQ==
 -->
