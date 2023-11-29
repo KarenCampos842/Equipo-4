@@ -22,11 +22,11 @@
 | registro | 2, 5 |
 | recuperación_cuenta | 2, 5 |
 | Permiso de ubicación | 2, 5 |
-| cliente | 2, 5 |
-| registro_cliente | 2, 5 |
+| cliente (1-16) | 2, 5 |
+| trabajador (1-10)| 2, 5 |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwODAzMzA4LC0xNDUxNDY0MjgyLC0yMT
-g2MTE4MTQsMjAwNzAwOTYyNl19
+eyJoaXN0b3J5IjpbLTE2OTc1NDQ1NDIsLTE0NTE0NjQyODIsLT
+IxODYxMTgxNCwyMDA3MDA5NjI2XX0=
 -->
