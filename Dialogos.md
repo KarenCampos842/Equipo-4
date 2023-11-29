@@ -14,12 +14,12 @@
 
  
 **Diálogo diferenciadores (1 min)** 
-Workflash es único en el mundo, combina lo mejor de un servicio: que sea rápido, confiable y todo e
+Workflash es único en el mundo, combina lo mejor de un servicio: que sea rápido, confiable y todo en un solo lugar
  
 **Diálogo interfaz (1 min)**
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExNjk3NTc0LC04Mjk3MDY5NjhdfQ==
+eyJoaXN0b3J5IjpbLTU5MzU1Mzk0OSwtODI5NzA2OTY4XX0=
 -->
