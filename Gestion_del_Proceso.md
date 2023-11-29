@@ -37,7 +37,7 @@ Producto:
 Fecha límite: 26/11/2023
 
 **Lunes 27 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 27 (los diálogos y audios para el video que restaban y la actividad Correspondencia con los requisitos). Por otra parte, se acordó mover la fecha del resto de las actividades a terminar el 27 para el 28. 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Demo.md#dem">Diseño.md</a>
 
 Fecha límite: 28/11/2023
 
@@ -371,11 +371,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTAyODk4OTcsMTUyNzI0ODQwOCwtMT
-AxMjQ3MzI2MCwxODI4MDk4MDQ4LDE3ODQyODcyOTgsNDU0MDEx
-ODAsLTEyNjkwNzQ5MjMsMTMzMzIyMTA2OSwzNDI1ODMwNywtMT
-EyNjM0NzU1OSwxNzEyMDYwMjU5LDE5MjI3NjkxNjMsMTU3NTcz
-MTg4MiwxNzc1NjUwMTkwLDIwMTcwODAwNzUsODE4MTAxNzA0LC
-0zNjMyNTY4NzYsLTIwMjk5Mjc0MTEsMTE3OTAzMzU0NSwtMjE0
-NDA1MTUzNl19
+eyJoaXN0b3J5IjpbLTQwMDA3NTA3MiwxNTI3MjQ4NDA4LC0xMD
+EyNDczMjYwLDE4MjgwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4
+MCwtMTI2OTA3NDkyMywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMT
+I2MzQ3NTU5LDE3MTIwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMx
+ODgyLDE3NzU2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3MDQsLT
+M2MzI1Njg3NiwtMjAyOTkyNzQxMSwxMTc5MDMzNTQ1LC0yMTQ0
+MDUxNTM2XX0=
 -->
