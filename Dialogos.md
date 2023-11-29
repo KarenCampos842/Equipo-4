@@ -64,7 +64,7 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
  
  **Diálogo producto (2 min)** 
  
- Tomarse la molestia de andar en búsqueda de un mecánico, un plomero o electric
+Tomarse la molestia de andar en búsqueda de un mecánico, un plomero o electricista o cualquier persona que 
 
  
 **Diálogo diferenciadores (1:30 min)** 
@@ -74,6 +74,6 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Mjc4MzM1MSwtNzU5MDMzMjg4LDEzOD
-EyMzMxNzJdfQ==
+eyJoaXN0b3J5IjpbLTE4NDAyNzI3MjcsLTc1OTAzMzI4OCwxMz
+gxMjMzMTcyXX0=
 -->
