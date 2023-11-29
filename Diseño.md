@@ -22,12 +22,12 @@
 | registro | 1 |
 | recuperación_cuenta | 21 |
 | Permiso de ubicación | 2, 5 |
-| cliente (1-16) | 11, 12, 13, 14, 15, 17, 22 |
-| trabajador (1-10)| 16, 18, 20, 21, 22 |
+| cliente (1-16) | 6, 7, 8, 11, 12, 13, 14, 15, 17, 22 |
+| trabajador (1-10)| 7, 9, 14, 16, 18, 20, 21, 22 |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxMjE3MzQ1LDU5MTAwNTI2LC0xNjk3NT
-Q0NTQyLC0xNDUxNDY0MjgyLC0yMTg2MTE4MTQsMjAwNzAwOTYy
-Nl19
+eyJoaXN0b3J5IjpbMTIyODQ1ODEyNyw1OTEwMDUyNiwtMTY5Nz
+U0NDU0MiwtMTQ1MTQ2NDI4MiwtMjE4NjExODE0LDIwMDcwMDk2
+MjZdfQ==
 -->
