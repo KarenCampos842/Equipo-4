@@ -276,9 +276,9 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
  - **Sketch:** Realizar los diálogos para el sketch. Los personajes principales serán el cliente y el trabajador. 
 El sketch consistirá en dos situaciones, una dónde se represente el problema/necesidad que pretende suplir WorkFlash  y otra final en dónde la situación se haya resuelto utilizando la aplicación (**3 minutos**).  
  - **Diálogo producto (2 min):** Describir el producto (en qué consiste WorkFlash, a quiénes va dirigido, beneficios, etc.).  Guiarse de lo escrito en el archivo  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Producto.md</a>  
- -   **Diálogo diferenciadores (1 min):** Describir las características que tiene WorkFlash que la diferencian de otras apps. Lo que ofrece nuestra aplicación que otras no tienen Guiarse de lo escrito en el apartado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Innovación</a>.
+ -   **Diálogo diferenciadores (1:30 min):** Describir las características que tiene WorkFlash que la diferencian de otras apps. Lo que ofrece nuestra aplicación que otras no tienen Guiarse de lo escrito en el apartado <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Innovación</a>.
  -   **Diálogo interfaz (1 min):** Describir las funcionalidades principales de la app (un recorrido rápido por la aplicación). Utilizar como guía las <a href="https://www.figma.com/file/WxkTPx8zGQiWg8UpDYWTxF/Dise%C3%B1o-modificado-(WorkFlash)?type=design&node-id=11%3A1833&mode=design&t=td8rmplOaTKT1vmg-1">interfaces</a>.
- -  **Diálogo proceso (2 min):** Describir el proceso de desarrollo. 
+ -  **Diálogo proceso (1:30 min):** Describir el proceso de desarrollo. 
  - **Audio:** Grabar los audios de los diálogos (cada integrante graba su audio correspondiente).  Enviar la grabación a Moisés por WhatsApp. 
  -  **Video sketch:** Grabar el sketch.  Enviar el video a Moisés por WhatsApp. 
   
@@ -329,11 +329,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTkyMTM1NiwxNTM4MjQ3MjQ2LC0yMD
-A1ODEzNDE1LC0xMjEyMDUyMjc0LC0xOTM0MjMwMTUsLTIxMDI1
-NjI3MzksODkxMjU4MzEsLTExNjY4NDkzMTYsMjA3MDkwMzk1LD
-E3ODE3MTU1MTEsODc0NzYyMTA1LC00Mjc2MzQ4NzEsMTA0MjAw
-NTMzMywxODQ2NzQ5OTc1LC0yODMyMDgxMzgsLTc2NTI2NDYxNS
-wxOTczMzQxMzU5LDkyOTk1NTM1LC0xNTMwNDkwNDU0LC0xNDc5
-NzE5MjU0XX0=
+eyJoaXN0b3J5IjpbLTE0NjQyMzE1MjUsLTQ3NTkyMTM1NiwxNT
+M4MjQ3MjQ2LC0yMDA1ODEzNDE1LC0xMjEyMDUyMjc0LC0xOTM0
+MjMwMTUsLTIxMDI1NjI3MzksODkxMjU4MzEsLTExNjY4NDkzMT
+YsMjA3MDkwMzk1LDE3ODE3MTU1MTEsODc0NzYyMTA1LC00Mjc2
+MzQ4NzEsMTA0MjAwNTMzMywxODQ2NzQ5OTc1LC0yODMyMDgxMz
+gsLTc2NTI2NDYxNSwxOTczMzQxMzU5LDkyOTk1NTM1LC0xNTMw
+NDkwNDU0XX0=
 -->

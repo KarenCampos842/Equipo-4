@@ -2,26 +2,74 @@
 <h1>Diálogos</h1>
 
   **Sketch (cliente)** 
+  
+  <br> “Una persona se sube a su auto y ve que no arranca” 
 
+Persona 1:  creo que se echó a perder 
+
+  “La persona 1 llama a un amigo “  
+
+“Suena el teléfono” 
+
+  “el amigo contesta” 
+
+Persona 1: Hola amigo 
+
+Amigo: hola bro que paso 
+
+Persona 1: Oye conoces algún mecánico 
+
+Amigo: no bro espera voy a preguntarle a alguien 
+
+  “amigo llama a un amigo “  
+
+  “Suena el teléfono” 
+
+  “el amigo2 contesta” 
+
+Amigo: oye conoces a algún mecánico 
+
+Amigo2: no bro espera voy a preguntarle a alguien 
+
+  “amigo2 llama a un amigo “  
+
+  “Suena el teléfono” 
+
+  “el amigo3 contesta” 
+
+Amigo2: oye conoces a algún mecánico 
+
+Amigo3: no bro no tengo auto 
+
+Narrador: ya no busquen más porque ahora con WorkFlash todo es más fácil 
+
+  “Persona1 abre WorkFlash y contrata a un mecánico” 
+
+  “el mecánico repara su auto” 
+
+Mecánico: ya está listo  
+
+Persona1: Gracias a WorkFash 
  
   **Sketch (trabajador)** 
 
  
-  **Diálogo proceso (2 min)**
-
+  **Diálogo proceso (1:30 min)**
+ ¿Quién no ha pasado por una situación similar a la anterior? Bueno, nosotros sí. Fueron nuestros infortunios los que nos inspiraron para crear WorkFlash. Así, comenzó todo.
+Después de varias pláticas y pláticas, diferencias y acuerdos, logramos concretar nuestra idea y poner manos a la obra. 
+Para nuestro proyecto utilizamos la metodología ágil SCRUM como guía y nos apoyamos de diversas herramientas para volver a WorkFlash una realidad, herramientas como GitHub, WhatsApp, Teams, StackEdit y Figma. 
+En GitHub creamos un repositorio con una rama para cada entrega. Dentro de cada rama se crearon archivos para cada sección en la que se dividió el trabajo, y cada integrante creo la propia, desde la cual  podía realizar un pull request para hacer merge con la rama de la entrega correspondiente. 
+Sucedieron muchas cosas durante el proyecto. Aprendimos a utilizar varias de las herramientas en el camino, como GitHub,  aprendimos a trabajar como equipo, a equivocarnos y a corregir nuestros errores aún más rápido. En ocasiones parecía que todo lo que hacíamos estaba mal y otras era todo lo contrario y después de frustraciones y tropiezos, de numerosos cambios a los requerimientos, después de todas las reuniones diarias de scrum y de las correcciones a las interfaces, WorkFlash se volvió realidad.
+Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resultado. Éste es WorkFlash.
  
  **Diálogo producto (2 min)** 
 
  
-**Diálogo diferenciadores (1 min)** 
+**Diálogo diferenciadores (1:30 min)** 
 Workflash es único en el mundo, combina lo mejor de un servicio: que sea rápido, confiable y todo en un solo lugar. ¿Alguna vez no te ha pasado que algo indispensable en tu día a día deja de funcionar? ¿Y te urge que regrese a la vida? Pero cuando buscas a alguien para que lo repare se presentan múltiples excusas como: "Ahorita no puedo", "me queda lejos" o simplemente te cambian los precios hasta llegar a caer en una estafa. WorkFlash viene a hacer que esos problemas desaparezcan; que el encontrar a un trabajador sea rápido, fácil y confiable con su método de registro de clientes y trabajadores en la que los trabajadores podrán publicitarse, ofrecer sus servicios y obtener empleos en donde antes parecía imposible. Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan con sus expectativas, ya sea por rendimiento, cercanía o precio. Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio. Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas... tampoco.
+
  
 **Diálogo interfaz (1 min)**
 
- 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDA5ODc5MywtMjQwNzAzODQzLDE1MT
-U3NzA0NjIsMTc5OTg5NTE3NSwtNTkzNTUzOTQ5LC04Mjk3MDY5
-NjhdfQ==
 -->

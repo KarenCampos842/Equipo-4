@@ -156,17 +156,9 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
     </table>      
  <br> 
 
-## Resumen
+
 WorkFlash es único en el mundo, combina lo mejor de un servicio: que sea rápido, confiable y todo en un solo lugar. ¿Alguna vez te ha pasado que algo indispensable en tu día a día deja de funcionar? ¿Y te urge que regrese a la vida? Pero cuando buscas a alguien para que lo repare se presentan múltiples excusas como: "Ahorita no puedo", "me queda lejos" o simplemente te cambian los precios hasta llegar a caer en una estafa.
 WorkFlash viene a hacer que esos problemas desaparezcan; que el encontrar a un trabajador sea rápido, fácil y confiable con su método de registro de clientes y trabajadores en la que los trabajadores podrán publicitarse, ofrecer sus servicios y obtener empleos en donde antes parecía imposible.
 Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan con sus expectativas, ya sea por rendimiento, cercanía o precio.
 Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio.
-Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwNDQwMjg5LDQzNDgwNTIxOCwxODAxMj
-E5MTIsLTEyNzk4NzU0NDUsMTQ1NTY1NzMwNywxNzAzODI3OTEw
-LDE4MTUyNjQ0NjMsMzUwODY3MzI0LC0xNzA2Nzg0NTM2LC0xOD
-M5OTc0ODA1LC0xMzg5Nzc3Mjc1LC02NzIyMzAzNDQsLTIwOTAx
-NDMxOTAsNjA3MTEwOTY4LDgxNzQ2MzI2NiwtMTgzMDE5NTkwOV
-19
--->
+Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco
