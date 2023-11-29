@@ -60,11 +60,11 @@ Después de varias pláticas y pláticas, diferencias y acuerdos, logramos concr
 Para nuestro proyecto utilizamos la metodología ágil SCRUM como guía y nos apoyamos de diversas herramientas para volver a WorkFlash una realidad, herramientas como GitHub, WhatsApp, Teams, StackEdit y Figma. 
 En GitHub creamos un repositorio con una rama para cada entrega. Dentro de cada rama se crearon archivos para cada sección en la que se dividió el trabajo, y cada integrante creo la propia, desde la cual  podía realizar un pull request para hacer merge con la rama de la entrega correspondiente. 
 Sucedieron muchas cosas durante el proyecto. Aprendimos a utilizar varias de las herramientas en el camino, como GitHub,  aprendimos a trabajar como equipo, a equivocarnos y a corregir nuestros errores aún más rápido. En ocasiones parecía que todo lo que hacíamos estaba mal y otras era todo lo contrario y después de frustraciones y tropiezos, de numerosos cambios a los requerimientos, después de todas las reuniones diarias de scrum y de las correcciones a las interfaces, WorkFlash se volvió realidad.
-Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resultado. Éste es WorkFlash.
+Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resultado.
  
  **Diálogo producto (2 min)** 
  
-Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trabajador, puede volverse una tarea bastante tardada, especialmente cuando no sabes donde buscar, ya lo hemos visto, incluso cuando crees que lo tienes resuelto, la persona con la que quedaste simplemente podría optar por no presentarse. Y a todo esto, ¿acaso podríamos de alguna manera facilitar todo este proceso?, por su puesto, permitanme hablarles de Work
+Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trabajador, puede volverse una tarea bastante tardada, especialmente cuando no sabes donde buscar, ya lo hemos visto, incluso cuando crees que lo tienes resuelto, la persona con la que quedaste simplemente podría optar por no presentarse. Y a todo esto, ¿acaso podríamos de alguna manera facilitar todo este proceso?, por su puesto, permítanme hablarles de nuestro producto. Wokflash es una aplicación para dispositivos móviles que funciona como  
 
  
 **Diálogo diferenciadores (1:30 min)** 
@@ -74,6 +74,6 @@ Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTQ5NTczNSwtNzU5MDMzMjg4LDEzOD
+eyJoaXN0b3J5IjpbLTI3NjQwMTgxMSwtNzU5MDMzMjg4LDEzOD
 EyMzMxNzJdfQ==
 -->
