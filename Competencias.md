@@ -13,6 +13,24 @@ La carrera de Ingeniería de Software requiere una combinación de habilidades t
   2.   **Pensamiento Analítico y Resolución de Problemas:**
 -   **Habilidad para Resolver Problemas:** Capacidad para descomponer problemas complejos en partes más simples y encontrar soluciones efectivas.
 -  **Pensamiento Lógico:** Razonamiento lógico y habilidades analíticas para abordar desafíos técnicos.
+1.  **Gestión de Proyectos y Metodologías Ágiles:**
+    
+    -   **Metodologías Ágiles:** Comprender y aplicar metodologías ágiles como Scrum, Kanban, entre otras, para la gestión eficiente de proyectos.
+    -   **Gestión del Tiempo:** Capacidad para priorizar tareas, establecer plazos y trabajar de manera eficiente.
+2.  **Comunicación y Trabajo en Equipo:**
+    
+    -   **Habilidades de Comunicación:** Capacidad para expresar ideas técnicas de manera clara y comprensible tanto a colegas no técnicos como a equipos de desarrollo.
+    -   **Colaboración:** Trabajar efectivamente en equipos multidisciplinarios y comunicarse de manera colaborativa.
+3.  **Aprendizaje Continuo y Adaptabilidad:**
+    
+    -   **Curiosidad y Sed de Aprendizaje:** Actitud proactiva para aprender nuevas tecnologías y métodos de desarrollo.
+    -   **Adaptabilidad:** Capacidad para adaptarse a cambios rápidos en los requisitos del proyecto y en el panorama tecnológico.
+4.  **Ética y Responsabilidad Profesional:**
+    
+    -   **Ética:** Conciencia ética en la toma de decisiones relacionadas con la seguridad, la privacidad y el uso responsable de la tecnología.
+    -   **Responsabilidad:** Compromiso con la calidad del trabajo y la entrega oportuna de soluciones.
+
+Estas competencias genéricas son fundamentales para el éxito en la Ingeniería de Software y pueden variar en su énfasis dependiendo de la especialización, el entorno laboral y las demandas específicas de la industria.
 ## Competencias específicas
 
 ## Crítica constructiva del curso
@@ -36,5 +54,5 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Mjc1OTgzNSwyMDQ1MjcwOTA3XX0=
+eyJoaXN0b3J5IjpbMTY5NDI1ODQ0NywyMDQ1MjcwOTA3XX0=
 -->
