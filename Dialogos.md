@@ -64,7 +64,8 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
  
  **Diálogo producto (2 min)** 
  
-Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trabajador, puede volverse una tarea bastante tardada, especialmente cuando no sabes donde buscar, ya lo hemos visto, incluso cuando crees que lo tienes resuelto, la persona con la que quedaste simplemente podría optar por no presentarse. Y a todo esto, ¿acaso podríamos de alguna manera facilitar todo este proceso?, por su puesto, permítanme hablarles de nuestro producto. Wokflash es una aplicación para dispositivos móviles que conecta a clientes con trabajadores de diversos oficios, facilitando el proceso de búsqueda y contratación para los clientes y por su puesto ofreciéndole a  los proveedores de servicios múlti
+Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trabajador, puede volverse una tarea bastante tardada, especialmente cuando no sabes donde buscar, ya lo hemos visto, incluso cuando crees que lo tienes resuelto, la persona con la que quedaste simplemente podría optar por no presentarse. Y a todo esto, ¿acaso podríamos de alguna manera facilitar todo este proceso?, por su puesto, permítanme hablarles de nuestro producto. Wokflash es una aplicación para dispositivos móviles que conecta a clientes con trabajadores de diversos oficios, facilitando el proceso de búsqueda y contratación para los clientes y por su puesto ofreciéndole a  los proveedores de servicios un medio por el cual obtener más visualización.
+Del mismo modo en el que tenemos a clientes y trabajadores, tambien tenemos un tipo de cuen
 
  
 **Diálogo diferenciadores (1:30 min)** 
@@ -74,6 +75,6 @@ Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1OTgzNjAyLC03NTkwMzMyODgsMTM4MT
+eyJoaXN0b3J5IjpbOTMyNjM0NTg1LC03NTkwMzMyODgsMTM4MT
 IzMzE3Ml19
 -->
