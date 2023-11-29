@@ -64,8 +64,8 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
  
  **Diálogo producto (2 min)** 
  
-Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trabajador, puede volverse una tarea bastante tardada, especialmente cuando no sabes donde buscar, ya lo hemos visto, incluso cuando crees que lo tienes resuelto, la persona con la que quedaste simplemente podría optar por no presentarse. Y a todo esto, ¿acaso podríamos de alguna manera facilitar todo este proceso?, por su puesto, permítanme hablarles de nuestro producto. Wokflash es una aplicación para dispositivos móviles que conecta a clientes con trabajadores de diversos oficios, facilitando el proceso de búsqueda y contratación para los clientes y por su puesto ofreciéndole a  los proveedores de servicios un medio por el cual obtener más visualización.
-Del mismo modo en el que tenemos a clientes y trabajadores, tambien tenemos un tipo de cuen
+Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trabajador, puede volverse una tarea bastante tardada, especialmente cuando no sabes donde buscar, ya lo hemos visto, incluso cuando crees que lo tienes resuelto, la persona con la que quedaste simplemente podría optar por no presentarse. Y a todo esto, ¿acaso podríamos de alguna manera facilitar todo este proceso?, por su puesto, permítanme hablarles de nuestro producto. Wokflash es una aplicación para dispositivos móviles que conecta a clientes con trabajadores de diversos oficios, facilitando el proceso de búsqueda y contratación y por su puesto ofreciéndole a  los proveedores de servicios un medio por el cual obtener más visibilidad que en un mótodo de promoción tradicional.
+En esta aplicación los usuarios pueden registrarse como clientes o como trabajadores, e
 
  
 **Diálogo diferenciadores (1:30 min)** 
@@ -75,6 +75,6 @@ Del mismo modo en el que tenemos a clientes y trabajadores, tambien tenemos un t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyNjM0NTg1LC03NTkwMzMyODgsMTM4MT
-IzMzE3Ml19
+eyJoaXN0b3J5IjpbLTEzNDk3NTA3MTgsLTc1OTAzMzI4OCwxMz
+gxMjMzMTcyXX0=
 -->
