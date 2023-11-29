@@ -911,11 +911,125 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
-       <td colspan=5>Tiene bonitos colores</td> 
+       <td colspan=5>Tiene un buen diseño</td> 
    </tr>
  </table>
  <br>
-  <br>
+ 
+ <table align=center>  
+   <tr>  
+      <th colspan=4>Nombre del responsable de la aplicación</th>  
+      <th colspan=2>Fecha de aplicación</th> 
+   </tr> 
+    <tr>  
+      <td colspan=4>Carlos romero</td>  
+       <td colspan=2>29/11/2023</td> 
+   </tr> 
+   <tr>  
+      <th colspan=6>Datos del participante</td> 
+   </tr> 
+    <tr>  
+      <th>Masculino</th>  
+      <th>18</th>
+      <th>Estudiante(Foraneo)</th>     
+      <th colspan=3>Tipo de usuario</th>           
+   </tr> 
+    <tr>  
+      <td>x</td>  
+       <td>x</td>
+      <td>x</td>
+      <td colspan=3>primario (cliente)</td>  
+   </tr> 
+     <tr>  
+      <th>Número de tarea</th> 
+     <th>Descripción</th>
+     <th>Número de errores</th>
+     <th>Éxito de tarea</th>
+      <th>Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</th>   
+     <th>Tiempo</th>   
+   </tr> 
+    <tr>  
+      <td>1</td> 
+      <td>Regístrate como cliente en la aplicación. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>60  s</td>                    
+   </tr>
+   <tr>  
+      <td>2</td> 
+      <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>40 s</td>              
+   </tr>
+   <tr>  
+      <td>3</td> 
+      <td>Quieres cambiar datos de tu perfil, edítalo.</td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>21 s</td>              
+   </tr>
+    <tr>  
+      <td>4</td> 
+      <td>Tu carro marca un error desconocido en el tablero, necesitas un mecánico. Busca al mecánico Juan Campos Romero, observa su perfil, calificaciones y comentarios.</td>
+       <td>1</td>
+       <td>Completada</td>
+        <td>4</td>
+       <td>72 s</td>              
+   </tr>
+    <tr>  
+      <td>5</td> 
+      <td>Inicia un chat con el mecánico Juan Campos Romero, contrata su servicio y regresa a tu perfil. </td>
+       <td>0</td>
+       <td>Completada/No completada</td>
+        <td>5</td>
+       <td>17 s</td>              
+   </tr>
+   <tr>  
+      <td>6</td> 
+      <td>Revisa tu última conversación con Juan Campos Romero.</td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>10 s</td>              
+   </tr>
+   <tr>  
+      <td>7</td> 
+      <td>Juan Campos Romero ha terminado su trabajo. Finaliza tu contrato con él, realiza un comentario y califícalo. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>3</td>
+       <td>16 s</td>              
+   </tr>
+   <tr>  
+      <td>8</td> 
+      <td>Luis Pérez Medina, plomero, no asistió a la reunión que habían programado. Elimina tu chat con él y repórtalo. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>23 s</td>              
+   </tr>
+   <tr>  
+      <td>9</td> 
+      <td>Ha surgido un inconveniente y debes de cancelar uno de tus contratos. Cancela tu contrato con la manicurista Cintia Acosta López y cierra cesión.  </td>
+       <td>x</td>
+       <td>Completada</td>
+         <td>5</td>
+       <td>19 s</td>              
+   </tr>
+   <tr>  
+      <th>Descripción de errores</th>
+       <td colspan=5> No encontraba la barra de búsqueda y se fue a la parte de contratos (tarea 4). </td> 
+   </tr>  
+    <tr>  
+      <th>Comentarios/Observaciones</th>
+       <td colspan=5>Deberían tener una barra de búsqueda más visible </td> 
+   </tr>
+ </table>
+
  
 
 ## Cuestionarios de satisfacción
