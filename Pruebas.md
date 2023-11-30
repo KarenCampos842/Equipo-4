@@ -1610,8 +1610,240 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
     <tr>  
       <th>Comentarios/Observaciones</th>
        <td colspan=5>Deberían tener una barra de búsqueda más visible </td> 
-   </tr>
- </table>
+   </tr>
+ </table>
+
+<table align=center>  
+   <tr>  
+      <th colspan=4>Nombre del responsable de la aplicación</th>  
+      <th colspan=2>Fecha de aplicación</th> 
+   </tr> 
+    <tr>  
+      <td colspan=4>Campos García Karen Elizabeth</td>  
+       <td colspan=2>27/11/2023</td> 
+   </tr> 
+   <tr>  
+      <th colspan=6>Datos del participante</td> 
+   </tr> 
+    <tr>  
+      <th>Género</th>  
+      <th>Edad</th>
+      <th>Ocupación</th>     
+      <th colspan=3>Tipo de usuario</th>           
+   </tr> 
+    <tr>  
+      <td>Masculino</td>  
+       <td>48</td>
+      <td>Mecánico</td>
+      <td colspan=3>primario (trabajador)</td>  
+   </tr> 
+     <tr>  
+      <th>Número de tarea</th> 
+     <th>Descripción</th>
+     <th>Número de errores</th>
+     <th>Éxito de tarea</th>
+    <th>Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</th>
+     <th>Tiempo</th>   
+   </tr> 
+    <tr>  
+      <td>1</td> 
+      <td>Regístrate como trabajador en la aplicación.<br>
+      Nota: (Zona de trabajo: Mérida, Expiración de tarjeta: mes 11, año 2025).  </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>5</td>
+        <td>141 s</td>            
+   </tr>
+    <tr>  
+      <td>2</td> 
+      <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión.</td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>5</td>
+        <td>33.89 s</td>                          
+   </tr>
+   <tr>  
+      <td>3</td> 
+      <td>Quieres saber que opinan tus clientes de tí. Lee sus comentarios y calificaciones.</td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>5</td>
+         <td>13.30 s</td>                       
+   </tr>
+    <tr>  
+      <td>4</td> 
+      <td>Quieres cambiar datos de tu perfil, edítalo.</td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>5</td>
+       <td>13.72 s</td>                       
+   </tr>
+    <tr>  
+      <td>5</td> 
+      <td>Se te ha notificado de nuevos trabajos, revisa tus notificaciones, acepta a Victoria Robertson y rechaza a Greg Anderson. </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>5</td>
+       <td>33.26 s</td>                   
+   </tr>
+   <tr>  
+      <td>6</td> 
+      <td>Revisa tu última conversación con Victoria Robertson. </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>5</td>
+        <td>13 s</td>                    
+   </tr>
+   <tr>  
+      <td>7</td> 
+      <td>Ha finalizado tu contrato con Victoria Robertson, califícala.  </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>5</td>
+        <td>63 s</td>                 
+   </tr>
+   <tr>  
+      <td>8</td> 
+      <td>Uno de tus clientes no asistió a la reunión que habían programado. Cancela tu contrato con Luis Pérez Medina y elimina su chat. </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>5</td>
+     <td>25 s</td>                        
+   </tr>
+    <tr>  
+      <td>9</td> 
+      <td>Cancela tu membresía y sal de la aplicación. </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>5</td>
+       <td>27.84 s</td>                
+   </tr>
+   <tr>  
+      <th>Descripción de errores</th>
+       <td colspan=5>No cometió errores. </td> 
+   </tr>  
+    <tr>  
+      <th>Comentarios/Observaciones</th>
+       <td colspan=5>"Me gustó el diseño de la aplicación, "Creo que una vez familiarizándote con la aplicación es muy sencillo". </td> 
+   </tr>
+ </table>
+<br> 
+<br> 
+ <table align=center>  
+   <tr>  
+      <th colspan=4>Nombre del responsable de la aplicación</th>  
+      <th colspan=2>Fecha de aplicación</th> 
+   </tr> 
+    <tr>  
+      <td colspan=4> Campos García Karen Elizabeth</td>  
+       <td colspan=2>25/11/2023</td> 
+   </tr> 
+   <tr>  
+      <th colspan=6>Datos del participante</td> 
+   </tr> 
+    <tr>  
+      <th>Género</th>  
+      <th>Edad</th>
+      <th>Ocupación</th>     
+      <th colspan=3>Tipo de usuario</th>           
+   </tr> 
+    <tr>  
+      <td>Femenino</td>  
+       <td>47</td>
+      <td>Administradora</td>
+      <td colspan=3>primario (cliente)</td>  
+   </tr> 
+     <tr>  
+      <th>Número de tarea</th> 
+     <th>Descripción</th>
+     <th>Número de errores</th>
+     <th>Éxito de tarea</th>
+      <th>Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</th>   
+     <th>Tiempo</th>   
+   </tr> 
+    <tr>  
+      <td>1</td> 
+      <td>Regístrate como cliente en la aplicación. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>0.44 s</td>              
+   </tr>
+   <tr>  
+      <td>2</td> 
+      <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>0.23 s</td>              
+   </tr>
+   <tr>  
+      <td>3</td> 
+      <td>Quieres cambiar datos de tu perfil, edítalo.</td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>0.23 s</td>              
+   </tr>
+    <tr>  
+      <td>4</td> 
+      <td>Tu carro marca un error desconocido en el tablero, necesitas un mecánico. Busca al mecánico Juan Campos Romero, observa su perfil, calificaciones y comentarios.</td>
+       <td>1</td>
+       <td>Completada</td>
+        <td>4</td>
+       <td>67.8 s</td>              
+   </tr>
+    <tr>  
+      <td>5</td> 
+      <td>Inicia un chat con el mecánico Juan Campos Romero, contrata su servicio y regresa a tu perfil. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>0.23 s</td>              
+   </tr>
+   <tr>  
+      <td>6</td> 
+      <td>Revisa tu última conversación con Juan Campos Romero.</td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>0.06 s</td>              
+   </tr>
+   <tr>  
+      <td>7</td> 
+      <td>Juan Campos Romero ha terminado su trabajo. Finaliza tu contrato con él, realiza un comentario y califícalo. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>0.26 s</td>              
+   </tr>
+   <tr>  
+      <td>8</td> 
+      <td>Luis Pérez Medina, plomero, no asistió a la reunión que habían programado. Elimina tu chat con él y repórtalo. </td>
+       <td>1</td>
+       <td>Completada</td>
+        <td>5</td>
+         <td>0.48 s</td>                         
+   </tr>
+   <tr>  
+      <td>9</td> 
+      <td>Ha surgido un inconveniente y debes de cancelar uno de tus contratos. Cancela tu contrato con la manicurista Cintia Acosta López y cierra cesión.  </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>0.21 s</td>              
+   </tr>
+   <tr>  
+      <th>Descripción de errores</th>
+       <td colspan=5>Oprimió el texto "Busca un oficio/ocupación" en lugar de dar clic cobre el ícono de búsqueda (tarea 4). <br>Oprimió la barra de búsqueda en lugar de quedarse en la pestaña de contratos para levantar el reporte (tarea 8). </td> 
+   </tr>  
+    <tr>  
+      <th>Comentarios/Observaciones</th>
+       <td colspan=5>"Cambiar el signo + por otro símbolo para hacer más comprensible que al dar clic se desplegarán las opciones de contratar, reportar y cancelar. El signo + hace pensar que al dar clic se agregará otro contrato". <br>"El diseño me gustó".</td> 
+   </tr>
+ </table>
+ <br>
+ <br>
 
 ## Cuestionarios de satisfacción
 ###  Cuestionario
@@ -1626,5 +1858,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY4NTEyMThdfQ==
+eyJoaXN0b3J5IjpbLTIwMDc3MzgwNDIsLTE0MTY4NTEyMThdfQ
+==
 -->
