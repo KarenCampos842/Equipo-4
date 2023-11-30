@@ -1836,11 +1836,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>
    <tr>  
       <th>Descripción de errores</th>
-       <td colspan=5>Cometió 3 errores, No pudo regresar a su perfil después de haber contratado el servicio, Seleccionó un icono erróneo al tratar de buscar al trabajador y se le complicó como finalizar el contrato . </td> 
+       <td colspan=5>Cometió 3 errores, No pudo regresar a su perfil después de haber contratado el servicio, Seleccionó un icono erróneo al tratar de buscar al trabajador y se le complicó buscar como finalizar el contrato . </td> 
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
-       <td colspan=5>"Cambiar el signo + por otro símbolo para hacer más comprensible que al dar clic se desplegarán las opciones de contratar, reportar y cancelar. El signo + hace pensar que al dar clic se agregará otro contrato". <br>"El diseño me gustó".</td> 
+       <td colspan=5>"Hay que implementar un icono de busqueda como una lupa o una barra y cuando trataba de regresar a mi perfil, solo iba al del trabajador y salia como si no se hubiera contratado, hay que".</td> 
    </tr>
  </table>
  <br>
@@ -1859,7 +1859,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDA2NTc3NSw3NTkzMjM2MjEsLTIxMT
-cyNjYyOCw5Nzk1OTY5OTMsNjcwMjE4OTIsLTE0MTY4NTEyMThd
-fQ==
+eyJoaXN0b3J5IjpbMTU3NDcyNzAzMywtOTEwMDY1Nzc1LDc1OT
+MyMzYyMSwtMjExNzI2NjI4LDk3OTU5Njk5Myw2NzAyMTg5Miwt
+MTQxNjg1MTIxOF19
 -->
