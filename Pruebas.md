@@ -1725,8 +1725,239 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>
  </table>
 <br>
-
-## Cuestionarios de satisfacción
+<br>
+<table align=center>  
+   <tr>  
+      <th colspan=4>Nombre del responsable de la aplicación</th>  
+      <th colspan=2>Fecha de aplicación</th> 
+   </tr> 
+    <tr>  
+      <td colspan=4>Maldonado Medina Hansony de Jesús</td>  
+       <td colspan=2>29/11/2023</td> 
+   </tr> 
+   <tr>  
+      <th colspan=6>Datos del participante</td> 
+   </tr> 
+    <tr>  
+      <th>Género</th>  
+      <th>Edad</th>
+      <th>Ocupación</th>     
+      <th colspan=3>Tipo de usuario</th>           
+   </tr> 
+    <tr>  
+      <td>Masculino</td>  
+       <td>56</td>
+      <td>Gerente</td>
+      <td colspan=3>Primario (Trabajador)</td>  
+   </tr> 
+     <tr>  
+      <th>Número de tarea</th> 
+     <th>Descripción</th>
+     <th>Número de errores</th>
+     <th>Éxito de tarea</th>
+    <th>Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</th>
+     <th>Tiempo</th>   
+   </tr> 
+    <tr>  
+      <td>1</td> 
+      <td>Regístrate como trabajador en la aplicación.<br>
+      Nota: (Zona de trabajo: Mérida, Expiración de tarjeta: mes 11, año 2025).  </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>3</td>
+        <td>189 s</td>            
+   </tr>
+    <tr>  
+      <td>2</td> 
+      <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión.</td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>4</td>
+        <td>51 s</td>                          
+   </tr>
+   <tr>  
+      <td>3</td> 
+      <td>Quieres saber que opinan tus clientes de tí. Lee sus comentarios y calificaciones.</td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>5</td>
+         <td>25 s</td>                       
+   </tr>
+    <tr>  
+      <td>4</td> 
+      <td>Quieres cambiar datos de tu perfil, edítalo.</td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>4</td>
+       <td>23 s</td>                       
+   </tr>
+    <tr>  
+      <td>5</td> 
+      <td>Se te ha notificado de nuevos trabajos, revisa tus notificaciones, acepta a Victoria Robertson y rechaza a Greg Anderson. </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>5</td>
+       <td>41.19 s</td>                   
+   </tr>
+   <tr>  
+      <td>6</td> 
+      <td>Revisa tu última conversación con Victoria Robertson. </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>4</td>
+        <td>27 s</td>                    
+   </tr>
+   <tr>  
+      <td>7</td> 
+      <td>Ha finalizado tu contrato con Victoria Robertson, califícala.  </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>4</td>
+        <td>53 s</td>                 
+   </tr>
+   <tr>  
+      <td>8</td> 
+      <td>Uno de tus clientes no asistió a la reunión que habían programado. Cancela tu contrato con Luis Pérez Medina y elimina su chat. </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>3</td>
+     <td>25 s</td>                        
+   </tr>
+    <tr>  
+      <td>9</td> 
+      <td>Cancela tu membresía y sal de la aplicación. </td>
+       <td>2</td>
+       <td>No Completada</td>
+       <td>1</td>
+       <td>46 s</td>                
+   </tr>
+   <tr>  
+      <th>Descripción de errores</th>
+       <td colspan=5>Cometió 2 errores, se equivocó al querer cancelar la suscripción y salió de la aplicación sin cancelarla. (Tarea 9) </td> 
+   </tr>  
+    <tr>  
+      <th>Comentarios/Observaciones</th>
+       <td colspan=5>"Me gustó el diseño de la aplicación. Estuvo bien la experiencia, me recordó a varias aplicaciones que tengo, aunque en algunas partes si me confundían". </td> 
+   </tr>
+ </table>
+<br> 
+<br> 
+ <table align=center>  
+   <tr>  
+      <th colspan=4>Nombre del responsable de la aplicación</th>  
+      <th colspan=2>Fecha de aplicación</th> 
+   </tr> 
+    <tr>  
+      <td colspan=4> Maldonado Medina Hansony de Jesús</td>  
+       <td colspan=2>28/11/2023</td> 
+   </tr> 
+   <tr>  
+      <th colspan=6>Datos del participante</td> 
+   </tr> 
+    <tr>  
+      <th>Género</th>  
+      <th>Edad</th>
+      <th>Ocupación</th>     
+      <th colspan=3>Tipo de usuario</th>           
+   </tr> 
+    <tr>  
+      <td>Femenino</td>  
+       <td>55</td>
+      <td>Maestra</td>
+      <td colspan=3>Primario (Cliente)</td>  
+   </tr> 
+     <tr>  
+      <th>Número de tarea</th> 
+     <th>Descripción</th>
+     <th>Número de errores</th>
+     <th>Éxito de tarea</th>
+      <th>Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</th>   
+     <th>Tiempo</th>   
+   </tr> 
+    <tr>  
+      <td>1</td> 
+      <td>Regístrate como cliente en la aplicación. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>4</td>
+       <td>49 s</td>              
+   </tr>
+   <tr>  
+      <td>2</td> 
+      <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>29 s</td>              
+   </tr>
+   <tr>  
+      <td>3</td> 
+      <td>Quieres cambiar datos de tu perfil, edítalo.</td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>4</td>
+       <td>38 s</td>              
+   </tr>
+    <tr>  
+      <td>4</td> 
+      <td>Tu carro marca un error desconocido en el tablero, necesitas un mecánico. Busca al mecánico Juan Campos Romero, observa su perfil, calificaciones y comentarios.</td>
+       <td>1</td>
+       <td>Completada</td>
+        <td>2</td>
+       <td>109 s</td>              
+   </tr>
+    <tr>  
+      <td>5</td> 
+      <td>Inicia un chat con el mecánico Juan Campos Romero, contrata su servicio y regresa a tu perfil. </td>
+       <td>1</td>
+       <td>No Completada</td>
+        <td>5</td>
+       <td>56 s</td>              
+   </tr>
+   <tr>  
+      <td>6</td> 
+      <td>Revisa tu última conversación con Juan Campos Romero.</td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>4</td>
+       <td>17 s</td>              
+   </tr>
+   <tr>  
+      <td>7</td> 
+      <td>Juan Campos Romero ha terminado su trabajo. Finaliza tu contrato con él, realiza un comentario y califícalo. </td>
+       <td>1</td>
+       <td>Completada</td>
+        <td>3</td>
+       <td>48 s</td>              
+   </tr>
+   <tr>  
+      <td>8</td> 
+      <td>Luis Pérez Medina, plomero, no asistió a la reunión que habían programado. Elimina tu chat con él y repórtalo. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>4</td>
+         <td>72 s</td>                         
+   </tr>
+   <tr>  
+      <td>9</td> 
+      <td>Ha surgido un inconveniente y debes de cancelar uno de tus contratos. Cancela tu contrato con la manicurista Cintia Acosta López y cierra sesión.  </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>4</td>
+       <td>38 s</td>              
+   </tr>
+   <tr>  
+      <th>Descripción de errores</th>
+       <td colspan=5>Cometió 3 errores, No pudo regresar a su perfil después de haber contratado el servicio (Tarea 5), Seleccionó un icono erróneo al tratar de buscar al trabajador (Tarea 4) y se le complicó buscar como finalizar el contrato (Tarea 7). </td> 
+   </tr>  
+    <tr>  
+      <th>Comentarios/Observaciones</th>
+       <td colspan=5>"Hay que implementar un icono de búsqueda como una lupa o una barra y cuando trataba de regresar a mi perfil, solo iba al del trabajador y salía como si no se hubiera contratado, pero el diseño estaba bonito".</td> 
+   </tr>
+ </table>
+ <br>
+ <br>
+ ## Cuestionarios de satisfacción
 ###  Cuestionario
 ### Aplicación del cuestionario
 ## Resultados
@@ -1738,7 +1969,3 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjI2MTg5LDE1MDQ3OTgxNDYsLTE0MT
-Y4NTEyMThdfQ==
--->
