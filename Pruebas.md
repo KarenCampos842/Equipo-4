@@ -1828,11 +1828,11 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>
    <tr>  
       <td>9</td> 
-      <td>Ha surgido un inconveniente y debes de cancelar uno de tus contratos. Cancela tu contrato con la manicurista Cintia Acosta López y cierra cesión.  </td>
+      <td>Ha surgido un inconveniente y debes de cancelar uno de tus contratos. Cancela tu contrato con la manicurista Cintia Acosta López y cierra sesión.  </td>
        <td>0</td>
        <td>Completada</td>
-        <td>5</td>
-       <td>0.21 s</td>              
+        <td>4</td>
+       <td>38 s</td>              
    </tr>
    <tr>  
       <th>Descripción de errores</th>
@@ -1859,7 +1859,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzEyNDkxMCw3NTkzMjM2MjEsLTIxMT
+eyJoaXN0b3J5IjpbMjAxNTUxMDA3MSw3NTkzMjM2MjEsLTIxMT
 cyNjYyOCw5Nzk1OTY5OTMsNjcwMjE4OTIsLTE0MTY4NTEyMThd
 fQ==
 -->
