@@ -64,8 +64,8 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
  
  **Diálogo producto (2 min)** 
  
-Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trabajador, puede volverse una tarea bastante tardada, especialmente cuando no sabes donde buscar, ya lo hemos visto, incluso cuando crees que lo tienes resuelto, la persona con la que quedaste simplemente podría optar por no presentarse. Y a todo esto, ¿acaso podríamos de alguna manera facilitar todo este proceso?, por su puesto, permítanme hablarles de nuestro producto. Wokflash es una aplicación para dispositivos móviles que conecta a clientes con trabajadores de diversos oficios, facilitando el proceso de búsqueda y contratación y por su puesto ofreciéndole a  los proveedores de servicios un medio por el cual obtener más visibilidad que en un mótodo de promoción tradicional.
-En esta aplicación los usuarios pueden registrarse como clientes o como trabajadores, para los clientes ofrecemos múltiples características, como la posibilidad de filtrar sus búsqueda por cercanía
+Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trabajador, puede volverse una tarea bastante tardada, especialmente cuando no sabes donde buscar, ya lo hemos visto, incluso cuando crees que lo tienes resuelto, la persona con la que quedaste simplemente podría optar por no presentarse. Y a todo esto, ¿acaso podríamos de alguna manera facilitar todo este proceso?, por su puesto, permítanme hablarles de nuestro producto. Wokflash es una aplicación para dispositivos móviles que conecta a clientes con trabajadores de diversos oficios, facilitando el proceso de búsqueda, contratación y por su puesto ofreciéndole a  los proveedores de servicios un medio por el cual obtener más visibilidad que en un método de promoción tradicional.
+En esta aplicación los usuarios pueden registrarse como clientes o como trabajadores, para los primeros ofrecemos múltiples características, como la posibilidad de filtrar la búsqueda por cercanía, además 
 
  
 **Diálogo diferenciadores (1:30 min)** 
@@ -75,6 +75,6 @@ En esta aplicación los usuarios pueden registrarse como clientes o como trabaja
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc1NTk1MjEsLTc1OTAzMzI4OCwxMz
-gxMjMzMTcyXX0=
+eyJoaXN0b3J5IjpbLTEyOTk2NTgzNzksLTE0Nzc1NTk1MjEsLT
+c1OTAzMzI4OCwxMzgxMjMzMTcyXX0=
 -->
