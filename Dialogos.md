@@ -65,7 +65,7 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
  **Diálogo producto (2 min)** 
  
 Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trabajador, puede volverse una tarea bastante tardada, especialmente cuando no sabes donde buscar, ya lo hemos visto, incluso cuando crees que lo tienes resuelto, la persona con la que quedaste simplemente podría optar por no presentarse. Y a todo esto, ¿acaso podríamos de alguna manera facilitar todo este proceso?, por su puesto, permítanme hablarles de nuestro producto. Wokflash es una aplicación para dispositivos móviles que conecta a clientes con trabajadores de diversos oficios, facilitando el proceso de búsqueda, contratación y por su puesto ofreciéndole a  los proveedores de servicios un medio por el cual obtener más visibilidad que en un método de promoción tradicional.
-En esta aplicación los usuarios pueden registrarse como clientes o como trabajadores, los primeros, tienen la posibilidad de filtrar mediante la búsqueda a aquellos perfiles de trabajadores que más se ajuste a sus necesidades y presupuesto, además, de manera sencilla podrá iniciar una conversación con la persona, para acordar todos los detalles del contrato y al final de un trabajo, el cliente podrá puntuar y comentar su valoración sobre el servicio, sirviendo de referencia para futuros clientes que busquen la mejor opción para su situación.
+En esta aplicación los usuarios pueden registrarse como clientes o como trabajadores, los primeros, tienen la posibilidad de filtrar mediante la búsqueda a aquellos perfiles de trabajadores que más se ajuste a sus necesidades y de manera sencilla podrá iniciar una conversación con la persona, para acordar todos los detalles del contrato y al final de un trabajo, el cliente podrá puntuar y comentar su valoración sobre el servicio, sirviendo de referencia para futuros clientes que busquen la mejor opción para su situación.
 Para los trabajadores, ofrecemos muchas ventajas que pueden ser útiles al momento de promocionarse, como incluir en su perfil su experiencia y destacar los trabajos que realiza y los que no. Además de toda la información relacionada con su negocio.
 EL modelo de negocio de Workflash está definido por un cobro por membresía para los trabajadores. De está manera podemos poner a su disposición un soporte eficiente. Por otro lado, hacemos énfasis en que la seguridad de los usuarios es muy importante para nosotros, por esa razon los usuarios que hagan mal uso de la aplicación pueden ser reportados y en dado caso, baneados.
  
@@ -76,6 +76,7 @@ EL modelo de negocio de Workflash está definido por un cobro por membresía par
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzYyNjE4LDEzOTI4MTA2MzYsLTE0Nz
-c1NTk1MjEsLTc1OTAzMzI4OCwxMzgxMjMzMTcyXX0=
+eyJoaXN0b3J5IjpbMjM1MzE4Mjk2LDE5NzM2MjYxOCwxMzkyOD
+EwNjM2LC0xNDc3NTU5NTIxLC03NTkwMzMyODgsMTM4MTIzMzE3
+Ml19
 -->
