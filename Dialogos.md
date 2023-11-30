@@ -67,7 +67,7 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
 Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trabajador, puede volverse una tarea bastante tardada, especialmente cuando no sabes donde buscar, ya lo hemos visto, incluso cuando crees que lo tienes resuelto, la persona con la que quedaste simplemente podría optar por no presentarse. Y a todo esto, ¿acaso podríamos de alguna manera facilitar todo este proceso?, por su puesto, permítanme hablarles de nuestro producto. Wokflash es una aplicación para dispositivos móviles que conecta a clientes con trabajadores de diversos oficios, facilitando el proceso de búsqueda, contratación y por su puesto ofreciéndole a  los proveedores de servicios un medio por el cual obtener más visibilidad que en un método de promoción tradicional.
 En esta aplicación los usuarios pueden registrarse como clientes o como trabajadores, los primeros, tienen la posibilidad de filtrar mediante la búsqueda a aquellos perfiles de trabajadores que más se ajuste a sus necesidades y presupuesto, además, de manera sencilla podrá iniciar una conversación con la persona, para acordar todos los detalles del contrato y al final de un trabajo, el cliente podrá puntuar y comentar su valoración sobre el servicio, sirviendo de referencia para futuros clientes que busquen la mejor opción para su situación.
 Para los trabajadores, ofrecemos muchas ventajas que pueden ser útiles al momento de promocionarse, como incluir en su perfil su experiencia y destacar los trabajos que realiza y los que no. Además de, por supuesto toda la información relacionada con su negocio.
-EL modelo de negocio de Workflash está definido por un cob
+EL modelo de negocio de Workflash está definido por un cobro por membresía para los trabajadores. De está manera podremos poner a su disposición un soporte 
 
  
 **Diálogo diferenciadores (1:30 min)** 
@@ -77,6 +77,6 @@ EL modelo de negocio de Workflash está definido por un cob
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1NDYzNzU3LC0xNDc3NTU5NTIxLC03NT
-kwMzMyODgsMTM4MTIzMzE3Ml19
+eyJoaXN0b3J5IjpbLTQ1MDkyMjA2MywtMTQ3NzU1OTUyMSwtNz
+U5MDMzMjg4LDEzODEyMzMxNzJdfQ==
 -->
