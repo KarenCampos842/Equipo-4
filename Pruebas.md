@@ -1725,7 +1725,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
-       <td colspan=5>"Me gustó el diseño de la aplicación, "Creo que una vez familiarizándote con la aplicación es muy sencillo". </td> 
+       <td colspan=5>"Me gustó el diseño de la aplicación, "Estuvo bien la experiencia, me recordó a varias aplicaciones que tengo, aunque en algunas partes si me confundían". </td> 
    </tr>
  </table>
 <br> 
@@ -1859,6 +1859,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5ODg3MTQ5LDk3OTU5Njk5Myw2NzAyMT
-g5MiwtMTQxNjg1MTIxOF19
+eyJoaXN0b3J5IjpbLTIxMTcyNjYyOCw5Nzk1OTY5OTMsNjcwMj
+E4OTIsLTE0MTY4NTEyMThdfQ==
 -->
