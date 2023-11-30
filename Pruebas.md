@@ -1750,9 +1750,9 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr> 
     <tr>  
       <td>Femenino</td>  
-       <td>47</td>
-      <td>Administradora</td>
-      <td colspan=3>primario (cliente)</td>  
+       <td>55</td>
+      <td>Maestra</td>
+      <td colspan=3>Primario (Cliente)</td>  
    </tr> 
      <tr>  
       <th>Número de tarea</th> 
@@ -1767,8 +1767,8 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>Regístrate como cliente en la aplicación. </td>
        <td>0</td>
        <td>Completada</td>
-        <td>5</td>
-       <td>0.44 s</td>              
+        <td>4</td>
+       <td>49 s</td>              
    </tr>
    <tr>  
       <td>2</td> 
@@ -1859,6 +1859,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTcyNjYyOCw5Nzk1OTY5OTMsNjcwMj
-E4OTIsLTE0MTY4NTEyMThdfQ==
+eyJoaXN0b3J5IjpbLTIwNDA0MTU3ODAsLTIxMTcyNjYyOCw5Nz
+k1OTY5OTMsNjcwMjE4OTIsLTE0MTY4NTEyMThdfQ==
 -->
