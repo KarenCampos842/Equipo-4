@@ -1840,7 +1840,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
-       <td colspan=5>"Hay que implementar un icono de busqueda como una lupa o una barra y cuando trataba de regresar a mi perfil, solo iba al del trabajador y salia como si no se hubiera contratado, hay que".</td> 
+       <td colspan=5>"Hay que implementar un icono de búsqueda como una lupa o una barra y cuando trataba de regresar a mi perfil, solo iba al del trabajador y salía como si no se hubiera contratado, pero el diseño estaba bonito".</td> 
    </tr>
  </table>
  <br>
@@ -1859,7 +1859,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDcyNzAzMywtOTEwMDY1Nzc1LDc1OT
+eyJoaXN0b3J5IjpbMTU3NDU4MDQ4NCwtOTEwMDY1Nzc1LDc1OT
 MyMzYyMSwtMjExNzI2NjI4LDk3OTU5Njk5Myw2NzAyMTg5Miwt
 MTQxNjg1MTIxOF19
 -->
