@@ -912,7 +912,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
-       <td colspan=5>normalmente los adultos se guian mas por las primeras 3 letras no terminar de leer las cosas y no se molestan en intentarlo creo que lo mejor es poner dibujitos para mas intuitivo </td> 
+       <td colspan=5>"Normalmente los adultos se guían más por las primeras 3 letras, no terminan de leer las cosas y no se molestan en intentarlo, creo que lo mejor es poner dibujitos para mas intuitivo". </td> 
    </tr>
  </table>
  <br>
@@ -1739,6 +1739,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTQ1NjkxNSwxNTA0Nzk4MTQ2LC0xND
-E2ODUxMjE4XX0=
+eyJoaXN0b3J5IjpbMTk5NjI2MTg5LDE1MDQ3OTgxNDYsLTE0MT
+Y4NTEyMThdfQ==
 -->
