@@ -1798,7 +1798,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>5</td> 
       <td>Inicia un chat con el mecánico Juan Campos Romero, contrata su servicio y regresa a tu perfil. </td>
        <td>1</td>
-       <td>Completada</td>
+       <td>No Completada</td>
         <td>5</td>
        <td>56 s</td>              
    </tr>
@@ -1836,7 +1836,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>
    <tr>  
       <th>Descripción de errores</th>
-       <td colspan=5>Cometió 3 errores,  . </td> 
+       <td colspan=5>Cometió 3 errores, No pudo regresar a su perfil después de haber contratado el servicio,  . </td> 
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
@@ -1859,7 +1859,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjMxMTA2OTgsNzU5MzIzNjIxLC0yMT
+eyJoaXN0b3J5IjpbLTEyNDI1Mzk3ODAsNzU5MzIzNjIxLC0yMT
 E3MjY2MjgsOTc5NTk2OTkzLDY3MDIxODkyLC0xNDE2ODUxMjE4
 XX0=
 -->
