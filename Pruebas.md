@@ -1612,7 +1612,8 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
        <td colspan=5>Deberían tener una barra de búsqueda más visible </td> 
    </tr>
  </table>
-
+<br>
+<br>
 <table align=center>  
    <tr>  
       <th colspan=4>Nombre del responsable de la aplicación</th>  
@@ -1858,5 +1859,5 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzcwNzIxOSwtMTQxNjg1MTIxOF19
+eyJoaXN0b3J5IjpbLTQyNzg1NTk3MSwtMTQxNjg1MTIxOF19
 -->
