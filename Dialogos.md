@@ -66,7 +66,7 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
  
 Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trabajador, puede volverse una tarea bastante tardada, especialmente cuando no sabes donde buscar, ya lo hemos visto, incluso cuando crees que lo tienes resuelto, la persona con la que quedaste simplemente podría optar por no presentarse. Y a todo esto, ¿acaso podríamos de alguna manera facilitar todo este proceso?, por su puesto, permítanme hablarles de nuestro producto. Wokflash es una aplicación para dispositivos móviles que conecta a clientes con trabajadores de diversos oficios, facilitando el proceso de búsqueda, contratación y por su puesto ofreciéndole a  los proveedores de servicios un medio por el cual obtener más visibilidad que en un método de promoción tradicional.
 En esta aplicación los usuarios pueden registrarse como clientes o como trabajadores, los primeros, tienen la posibilidad de filtrar mediante la búsqueda a aquellos perfiles de trabajadores que más se ajuste a sus necesidades y presupuesto, además, de manera sencilla podrá iniciar una conversación con la persona, para acordar todos los detalles del contrato y al final de un trabajo, el cliente podrá puntuar y comentar su valoración sobre el servicio, sirviendo de referencia para futuros clientes que busquen la mejor opción para su situación.
-Para los trabajadores, ofrecemos muchas ventajas que pueden ser útiles al momento de promocionarse 
+Para los trabajadores, ofrecemos muchas ventajas que pueden ser útiles al momento de promocionarse, como incluir en su perfil la información de l
 
  
 **Diálogo diferenciadores (1:30 min)** 
@@ -76,6 +76,6 @@ Para los trabajadores, ofrecemos muchas ventajas que pueden ser útiles al momen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDc4NTIyLC0xNDc3NTU5NTIxLC03NT
+eyJoaXN0b3J5IjpbMTU5MzU3NjkwLC0xNDc3NTU5NTIxLC03NT
 kwMzMyODgsMTM4MTIzMzE3Ml19
 -->
