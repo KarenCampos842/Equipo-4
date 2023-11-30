@@ -1836,7 +1836,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>
    <tr>  
       <th>Descripción de errores</th>
-       <td colspan=5>Oprimió el texto "Busca un oficio/ocupación" en lugar de dar clic cobre el ícono de búsqueda (tarea 4). <br>Oprimió la barra de búsqueda en lugar de quedarse en la pestaña de contratos para levantar el reporte (tarea 8). </td> 
+       <td colspan=5>Cometió 3 errores,  . </td> 
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
@@ -1859,7 +1859,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTUxMDA3MSw3NTkzMjM2MjEsLTIxMT
-cyNjYyOCw5Nzk1OTY5OTMsNjcwMjE4OTIsLTE0MTY4NTEyMThd
-fQ==
+eyJoaXN0b3J5IjpbLTEwMjMxMTA2OTgsNzU5MzIzNjIxLC0yMT
+E3MjY2MjgsOTc5NTk2OTkzLDY3MDIxODkyLC0xNDE2ODUxMjE4
+XX0=
 -->
