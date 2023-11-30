@@ -1700,24 +1700,24 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>Ha finalizado tu contrato con Victoria Robertson, califícala.  </td>
        <td>0</td>
        <td>Completada</td>
-       <td>5</td>
-        <td>63 s</td>                 
+       <td>4</td>
+        <td>53 s</td>                 
    </tr>
    <tr>  
       <td>8</td> 
       <td>Uno de tus clientes no asistió a la reunión que habían programado. Cancela tu contrato con Luis Pérez Medina y elimina su chat. </td>
-       <td>0</td>
+       <td>1</td>
        <td>Completada</td>
-       <td>5</td>
+       <td>3</td>
      <td>25 s</td>                        
    </tr>
     <tr>  
       <td>9</td> 
       <td>Cancela tu membresía y sal de la aplicación. </td>
-       <td>0</td>
-       <td>Completada</td>
-       <td>5</td>
-       <td>27.84 s</td>                
+       <td>1</td>
+       <td>No Completada</td>
+       <td>2</td>
+       <td>46 s</td>                
    </tr>
    <tr>  
       <th>Descripción de errores</th>
@@ -1859,5 +1859,5 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MDUxMDE4LC0xNDE2ODUxMjE4XX0=
+eyJoaXN0b3J5IjpbMTUwNjkxMjU1MywtMTQxNjg1MTIxOF19
 -->
