@@ -1791,16 +1791,16 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>Tu carro marca un error desconocido en el tablero, necesitas un mecánico. Busca al mecánico Juan Campos Romero, observa su perfil, calificaciones y comentarios.</td>
        <td>1</td>
        <td>Completada</td>
-        <td>4</td>
-       <td>67.8 s</td>              
+        <td>2</td>
+       <td>109 s</td>              
    </tr>
     <tr>  
       <td>5</td> 
       <td>Inicia un chat con el mecánico Juan Campos Romero, contrata su servicio y regresa a tu perfil. </td>
-       <td>0</td>
+       <td>1</td>
        <td>Completada</td>
         <td>5</td>
-       <td>0.23 s</td>              
+       <td>56 s</td>              
    </tr>
    <tr>  
       <td>6</td> 
@@ -1859,6 +1859,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjYwODU2MSwtMjExNzI2NjI4LDk3OT
-U5Njk5Myw2NzAyMTg5MiwtMTQxNjg1MTIxOF19
+eyJoaXN0b3J5IjpbNzU5MzIzNjIxLC0yMTE3MjY2MjgsOTc5NT
+k2OTkzLDY3MDIxODkyLC0xNDE2ODUxMjE4XX0=
 -->
