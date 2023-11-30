@@ -65,8 +65,8 @@ Pero, ya les he hablado suficiente del camino, ahora, les presentaremos el resul
  **Diálogo producto (2 min)** 
  
 Andar en búsqueda de un mecánico, un plomero, electricista u otro tipo de trabajador, puede volverse una tarea bastante tardada, especialmente cuando no sabes donde buscar, ya lo hemos visto, incluso cuando crees que lo tienes resuelto, la persona con la que quedaste simplemente podría optar por no presentarse. Y a todo esto, ¿acaso podríamos de alguna manera facilitar todo este proceso?, por su puesto, permítanme hablarles de nuestro producto. Wokflash es una aplicación para dispositivos móviles que conecta a clientes con trabajadores de diversos oficios, facilitando el proceso de búsqueda, contratación y por su puesto ofreciéndole a  los proveedores de servicios un medio por el cual obtener más visibilidad que en un método de promoción tradicional.
-En esta aplicación los usuarios pueden registrarse como clientes o como trabajadores, los primeros, tienen la posibilidad de filtrar mediante la búsqueda a aquellos perfiles de proveedores de servicios que más se ajuste a sus necesidades y presupuesto, además, de manera sencilla podrá iniciar una conversación con la persona, para acordar todos los detalles del contrato.
-Para los trabajadores, ofrecemos muchas ventajas que pueden ser útiles al momento de p
+En esta aplicación los usuarios pueden registrarse como clientes o como trabajadores, los primeros, tienen la posibilidad de filtrar mediante la búsqueda a aquellos perfiles de trabajadores que más se ajuste a sus necesidades y presupuesto, además, de manera sencilla podrá iniciar una conversación con la persona, para acordar todos los detalles del contrato y al final de un trabajo, el cliente podrá puntuar y comentar en el perfil del proveedor de servicios 
+Para los trabajadores, ofrecemos muchas ventajas que pueden ser útiles al momento de promocionarse 
 
  
 **Diálogo diferenciadores (1:30 min)** 
@@ -76,6 +76,6 @@ Para los trabajadores, ofrecemos muchas ventajas que pueden ser útiles al momen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ4MDUyMjQsLTE0Nzc1NTk1MjEsLT
+eyJoaXN0b3J5IjpbLTEzNTA5ODU5MzEsLTE0Nzc1NTk1MjEsLT
 c1OTAzMzI4OCwxMzgxMjMzMTcyXX0=
 -->
