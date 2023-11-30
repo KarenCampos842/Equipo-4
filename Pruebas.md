@@ -1714,18 +1714,18 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
     <tr>  
       <td>9</td> 
       <td>Cancela tu membresía y sal de la aplicación. </td>
-       <td>1</td>
+       <td>2</td>
        <td>No Completada</td>
        <td>1</td>
        <td>46 s</td>                
    </tr>
    <tr>  
       <th>Descripción de errores</th>
-       <td colspan=5>Cometió 2 errores, se equivocó al querer cancelar la suscripción y salió de la aplicación sin cancelarla. </td> 
+       <td colspan=5>Cometió 2 errores, se equivocó al querer cancelar la suscripción y salió de la aplicación sin cancelarla. (Tarea 9) </td> 
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
-       <td colspan=5>"Me gustó el diseño de la aplicación, "Estuvo bien la experiencia, me recordó a varias aplicaciones que tengo, aunque en algunas partes si me confundían". </td> 
+       <td colspan=5>"Me gustó el diseño de la aplicación. Estuvo bien la experiencia, me recordó a varias aplicaciones que tengo, aunque en algunas partes si me confundían". </td> 
    </tr>
  </table>
 <br> 
@@ -1836,7 +1836,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>
    <tr>  
       <th>Descripción de errores</th>
-       <td colspan=5>Cometió 3 errores, No pudo regresar a su perfil después de haber contratado el servicio, Seleccionó un icono erróneo al tratar de buscar al trabajador y se le complicó buscar como finalizar el contrato . </td> 
+       <td colspan=5>Cometió 3 errores, No pudo regresarT a su perfil después de haber contratado el servicio(, Seleccionó un icono erróneo al tratar de buscar al trabajador y se le complicó buscar como finalizar el contrato . </td> 
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
@@ -1859,7 +1859,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTExODQ3MCwxNTc0NTgwNDg0LC05MT
-AwNjU3NzUsNzU5MzIzNjIxLC0yMTE3MjY2MjgsOTc5NTk2OTkz
-LDY3MDIxODkyLC0xNDE2ODUxMjE4XX0=
+eyJoaXN0b3J5IjpbMTI3MDc5ODU2MiwxODI1MTE4NDcwLDE1Nz
+Q1ODA0ODQsLTkxMDA2NTc3NSw3NTkzMjM2MjEsLTIxMTcyNjYy
+OCw5Nzk1OTY5OTMsNjcwMjE4OTIsLTE0MTY4NTEyMThdfQ==
 -->
