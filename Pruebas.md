@@ -1807,24 +1807,24 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <td>Revisa tu última conversación con Juan Campos Romero.</td>
        <td>0</td>
        <td>Completada</td>
-        <td>5</td>
-       <td>0.06 s</td>              
+        <td>4</td>
+       <td>17 s</td>              
    </tr>
    <tr>  
       <td>7</td> 
       <td>Juan Campos Romero ha terminado su trabajo. Finaliza tu contrato con él, realiza un comentario y califícalo. </td>
-       <td>0</td>
+       <td>1</td>
        <td>Completada</td>
-        <td>5</td>
-       <td>0.26 s</td>              
+        <td>3</td>
+       <td>48 s</td>              
    </tr>
    <tr>  
       <td>8</td> 
       <td>Luis Pérez Medina, plomero, no asistió a la reunión que habían programado. Elimina tu chat con él y repórtalo. </td>
-       <td>1</td>
+       <td>0</td>
        <td>Completada</td>
-        <td>5</td>
-         <td>0.48 s</td>                         
+        <td>4</td>
+         <td>72 s</td>                         
    </tr>
    <tr>  
       <td>9</td> 
@@ -1859,6 +1859,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MzIzNjIxLC0yMTE3MjY2MjgsOTc5NT
-k2OTkzLDY3MDIxODkyLC0xNDE2ODUxMjE4XX0=
+eyJoaXN0b3J5IjpbMTExNzEyNDkxMCw3NTkzMjM2MjEsLTIxMT
+cyNjYyOCw5Nzk1OTY5OTMsNjcwMjE4OTIsLTE0MTY4NTEyMThd
+fQ==
 -->
