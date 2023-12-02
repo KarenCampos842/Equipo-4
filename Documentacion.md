@@ -43,11 +43,15 @@
  - [x] Los cambios realizados en la lista de requerimientos funcionales y no funcionales  se encuentran documentados. 
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#cambios-realizados">Evidencia</a>
  - [x] La fecha y el responsable de cada uno de los cambios en los requerimientos se encuentra documentada. 
- <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#cambios-realizados">Evidencia</a>
+ <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#fecha-y-responsable-de-los-cambios">Evidencia</a>
  - [x] La lista de requerimientos se encuentra versionada. 
+  <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#versionescambios-reflejadosentregas-versiones-actualizadas">Evidencia</a>
  - [x] Únicamente los cambios aprobados están reflejados en la línea base. 
+ <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#versionescambios-reflejadosentregas-versiones-actualizadas">Evidencia</a>
  - [x] Únicamente se han entregado las versiones actualizadas de los requerimientos. 
+ <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#versionescambios-reflejadosentregas-versiones-actualizadas">Evidencia</a>
  - [x] Actualmente se está trabajando sobre la versión actualizada de la lista de requerimientos. 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#versionescambios-reflejadosentregas-versiones-actualizadas">Evidencia</a>
 
 #### Artefacto 2: Casos de uso
 
@@ -66,7 +70,7 @@
  - [x] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDc5NzI3MSwtMjgxOTI4MDg1LDE5Mj
+eyJoaXN0b3J5IjpbMTI2MTY1NzQ5MiwtMjgxOTI4MDg1LDE5Mj
 A2NjMzMzcsMTg4ODQyNzAyMiwxMDY1MDg1MTk2LC0xNDU3MTgw
 MjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNzk2NjA0OCw1Nj
 k1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3LDE4MDg1NTY3
