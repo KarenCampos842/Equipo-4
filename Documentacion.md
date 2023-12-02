@@ -71,16 +71,19 @@
  - [x] La fecha y el responsable de cada uno de los cambios en los casos de uso se encuentra documentada. 
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#fecha-y-responsable-de-los-cambios-1">Evidencia</a>
  - [x] Los casos de uso se encuentran versionados. 
- <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#fecha-y-responsable-de-los-cambios-1">Evidencia</a>
+ <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#versionescambios-reflejadosentregas-versiones-actualizadas-1">Evidencia</a>
  - [x] Únicamente los cambios aprobados están reflejados en la línea base. 
+  <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#versionescambios-reflejadosentregas-versiones-actualizadas-1">Evidencia</a>
  - [x] Únicamente se han entregado las versiones actualizadas de los los casos de uso. 
+  <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#versionescambios-reflejadosentregas-versiones-actualizadas-1">Evidencia</a>
  - [x] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
+  <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwNTYyNjkwLC0yODE5MjgwODUsMTkyMD
-Y2MzMzNywxODg4NDI3MDIyLDEwNjUwODUxOTYsLTE0NTcxODAy
-MywtNTEyOTQ2NDIzLDU0NTExNDM5NywyMDA3OTY2MDQ4LDU2OT
-UwNzY0OSwtNTQ2NTU3Mzk5LC03NzQzODg2ODcsMTgwODU1Njcy
-NywxMTUwODk4NjAwLC0xNTE1ODA4NTM1LC0xODc0MDIxNTQ4LD
-IyNzg1NTE1OF19
+eyJoaXN0b3J5IjpbLTkxNTg1NzkxNSwtMjgxOTI4MDg1LDE5Mj
+A2NjMzMzcsMTg4ODQyNzAyMiwxMDY1MDg1MTk2LC0xNDU3MTgw
+MjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNzk2NjA0OCw1Nj
+k1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3LDE4MDg1NTY3
+MjcsMTE1MDg5ODYwMCwtMTUxNTgwODUzNSwtMTg3NDAyMTU0OC
+wyMjc4NTUxNThdfQ==
 -->
