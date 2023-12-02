@@ -96,9 +96,13 @@ Estado de la solicitud/implementación
 
 #### Segunda entrega: 
 #107: <a href="https://github.com/KarenCampos842/Equipo-4/pull/107">Solicitud</a>, <a href="https://github.com/KarenCampos842/Equipo-4/pull/107/files">Cambios</a>
+
 #110: <a href="https://github.com/KarenCampos842/Equipo-4/pull/110">Solicitud</a>, <a href="https://github.com/KarenCampos842/Equipo-4/pull/110/files">Cambios</a>
+
 #111: <a href="https://github.com/KarenCampos842/Equipo-4/pull/111">Solicitud</a>, <a href="https://github.com/KarenCampos842/Equipo-4/pull/111/files">Cambios</a>
+
 #112: <a href="https://github.com/KarenCampos842/Equipo-4/pull/112">Solicitud</a>, <a href="https://github.com/KarenCampos842/Equipo-4/pull/112/files#diff-e725d7fe988491f4ec0ffdb8c1">Cambios</a>
+
 #117: <a href="https://github.com/KarenCampos842/Equipo-4/pull/117">Solicitud</a>, <a href="https://github.com/KarenCampos842/Equipo-4/pull/117/files#diff-e725d7fe988491f4ec0ffdb8c15ca36a461bb362d9fcc2421b92902e7d813bc5">Cambios</a>
 
 **Responsable de aceptar cambios**: Campos García Karen Elizabeth (KarenCampos842)
@@ -153,5 +157,5 @@ Estado de la solicitud/implementación (#117): <a href="https://github.com/Karen
 
 #### Tercera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#casos-de-uso">Requisitos.md</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDQ4ODEwNCwxMzQ3MjkwMTJdfQ==
+eyJoaXN0b3J5IjpbNTkwMTgwMTkyLDEzNDcyOTAxMl19
 -->
