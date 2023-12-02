@@ -67,17 +67,20 @@
  - [x] El estado de la implementación de los cambios aprobados se encuentra documentada.
     <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#estado-de-solicitudes-e-implementaci%C3%B3n-1">Evidencia</a>
  - [x] Los cambios realizados en los casos de uso se encuentran documentados. 
+    <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#cambios-realizados-1">Evidencia</a>
  - [x] La fecha y el responsable de cada uno de los cambios en los casos de uso se encuentra documentada. 
+  <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#fecha-y-responsable-de-los-cambios-1">Evidencia</a>
  - [x] Los casos de uso se encuentran versionados. 
+ <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#fecha-y-responsable-de-los-cambios-1">Evidencia</a>
  - [x] Únicamente los cambios aprobados están reflejados en la línea base. 
  - [x] Únicamente se han entregado las versiones actualizadas de los los casos de uso. 
  - [x] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQ5NjYwNDAsLTI4MTkyODA4NSwxOT
-IwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5NiwtMTQ1NzE4
-MDIzLC01MTI5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5NjYwNDgsNT
-Y5NTA3NjQ5LC01NDY1NTczOTksLTc3NDM4ODY4NywxODA4NTU2
-NzI3LDExNTA4OTg2MDAsLTE1MTU4MDg1MzUsLTE4NzQwMjE1ND
-gsMjI3ODU1MTU4XX0=
+eyJoaXN0b3J5IjpbNTMwNTYyNjkwLC0yODE5MjgwODUsMTkyMD
+Y2MzMzNywxODg4NDI3MDIyLDEwNjUwODUxOTYsLTE0NTcxODAy
+MywtNTEyOTQ2NDIzLDU0NTExNDM5NywyMDA3OTY2MDQ4LDU2OT
+UwNzY0OSwtNTQ2NTU3Mzk5LC03NzQzODg2ODcsMTgwODU1Njcy
+NywxMTUwODk4NjAwLC0xNTE1ODA4NTM1LC0xODc0MDIxNTQ4LD
+IyNzg1NTE1OF19
 -->
