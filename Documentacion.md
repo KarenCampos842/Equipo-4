@@ -31,10 +31,12 @@
 
  - [ ] Se estableció una línea base. 
  - [ ] Las solicitudes de cambio de los requerimientos funcionales se encuentran documentadas.
+ - [ ] Existe un responsable de aceptar o rechazar los cambios en 
  - [ ] La razón de cada uno de los cambios en los requerimientos se encuentra documentada. 
- - [ ] 
+ - [ ] Los 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODU1NjcyNywxMTUwODk4NjAwLC0xNT
-E1ODA4NTM1LC0xODc0MDIxNTQ4LDIyNzg1NTE1OF19
+eyJoaXN0b3J5IjpbOTkwMTE0NjA0LDE4MDg1NTY3MjcsMTE1MD
+g5ODYwMCwtMTUxNTgwODUzNSwtMTg3NDAyMTU0OCwyMjc4NTUx
+NThdfQ==
 -->
