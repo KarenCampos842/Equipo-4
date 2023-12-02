@@ -30,9 +30,10 @@
 #### Artefacto 1: Lista de requerimientos funcionales
 
  - [ ] Se estableció una línea base 
- - [ ] Las solicitudes 
+ - [ ] Las solicitudes de cambio de los requerimientos funcionales se encuentran documentadas.
+ - [ ] La razón de 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4ODY3NzMxLDExNTA4OTg2MDAsLTE1MT
-U4MDg1MzUsLTE4NzQwMjE1NDgsMjI3ODU1MTU4XX0=
+eyJoaXN0b3J5IjpbMjA1Njk0Nzc0MSwxMTUwODk4NjAwLC0xNT
+E1ODA4NTM1LC0xODc0MDIxNTQ4LDIyNzg1NTE1OF19
 -->
