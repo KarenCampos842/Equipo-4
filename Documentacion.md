@@ -33,7 +33,7 @@
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos-funcionales">Requerimientos_línea base.md</a>
  
  - [x] Las solicitudes de cambio de los requerimientos funcionales se encuentran documentadas.
-  <a href="https://github.com/KarenCampos842/Equipo-4/pull/107">Solicitudes de cambio</a>
+  <a href="https://github.com/KarenCampos842/Equipo-4/pull/169/commits/957be21faeea1e3e083f5b1fd6def4cd333b1170">Solicitud de cambio_Tercera-Entrega</a>
  - [x] Existe un responsable de aceptar o rechazar los cambios en la lista de requerimientos funcionales. 
  - [ ] La razón de cada uno de los cambios en los requerimientos y/o el rechazo de ellos se encuentra documentada. 
  - [x] El estado de todas las solicitudes de cambio se encuentra documentada.
@@ -49,7 +49,7 @@
 
  - [x] Se estableció una línea base. 
  - [x] Las solicitudes de cambio de los casos de uso se encuentran documentadas.
-   <a href="https://github.com/KarenCampos842/Equipo-4/pull/169/commits/957be21faeea1e3e083f5b1fd6def4cd333b1170">Solicitud de cambio tercera entrega</a>
+   <a href="https://github.com/KarenCampos842/Equipo-4/pull/107">Solicitudes de cambio</a>
  - [x] Existe un responsable de aceptar o rechazar los cambios en los casos de uso. 
  - [ ] La razón de cada uno de los cambios en los casos de uso y/o el rechazo de ellos se encuentra documentada. 
  - [x] El estado de todas las solicitudes de cambio se encuentra documentada.
@@ -62,9 +62,9 @@
  - [x] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjUxMjAxNCwxMDY1MDg1MTk2LC0xND
-U3MTgwMjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNzk2NjA0
-OCw1Njk1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3LDE4MD
-g1NTY3MjcsMTE1MDg5ODYwMCwtMTUxNTgwODUzNSwtMTg3NDAy
-MTU0OCwyMjc4NTUxNThdfQ==
+eyJoaXN0b3J5IjpbLTE4NjE2OTkwNDQsMTA2NTA4NTE5NiwtMT
+Q1NzE4MDIzLC01MTI5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5NjYw
+NDgsNTY5NTA3NjQ5LC01NDY1NTczOTksLTc3NDM4ODY4NywxOD
+A4NTU2NzI3LDExNTA4OTg2MDAsLTE1MTU4MDg1MzUsLTE4NzQw
+MjE1NDgsMjI3ODU1MTU4XX0=
 -->
