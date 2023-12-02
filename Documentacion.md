@@ -55,10 +55,10 @@
  - [ ] Los casos de uso se encuentran versionados. 
  - [ ] Únicamente los cambios aprobados están reflejados en la línea base. 
  - [ ] Únicamente se han entregado las versiones actualizadas de los los casos de uso. 
- - [ ] En cada entrega, existe una correspondencia entre los requerim
+ - [ ] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [ ] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTI2ODQ4NSw1NDUxMTQzOTcsMjAwNz
+eyJoaXN0b3J5IjpbLTUxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNz
 k2NjA0OCw1Njk1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3
 LDE4MDg1NTY3MjcsMTE1MDg5ODYwMCwtMTUxNTgwODUzNSwtMT
 g3NDAyMTU0OCwyMjc4NTUxNThdfQ==
