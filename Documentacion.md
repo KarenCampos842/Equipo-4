@@ -15,7 +15,7 @@
  Entrada: Seleccionar la opción para registrarse como trabajador. 
 
  - **RF-3. Registro del trabajador:**
-Salida: Mostrar en pantalla 
+Salida: Mostrar en pantalla los campos de nombre(s), ap
 
 
 
@@ -92,11 +92,11 @@ Salida: Mostrar en pantalla
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQ4MTA5MTgsMTMzODM2MTUzMiwtMz
-Y4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTkyODA4NSwxOTIwNjYz
-MzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5NiwtMTQ1NzE4MDIzLC
-01MTI5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5NjYwNDgsNTY5NTA3
-NjQ5LC01NDY1NTczOTksLTc3NDM4ODY4NywxODA4NTU2NzI3LD
-ExNTA4OTg2MDAsLTE1MTU4MDg1MzUsLTE4NzQwMjE1NDgsMjI3
-ODU1MTU4XX0=
+eyJoaXN0b3J5IjpbMTk5MjczMTI3NCwxMzM4MzYxNTMyLC0zNj
+gwMTQ4NzUsLTkxNTg1NzkxNSwtMjgxOTI4MDg1LDE5MjA2NjMz
+MzcsMTg4ODQyNzAyMiwxMDY1MDg1MTk2LC0xNDU3MTgwMjMsLT
+UxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNzk2NjA0OCw1Njk1MDc2
+NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3LDE4MDg1NTY3MjcsMT
+E1MDg5ODYwMCwtMTUxNTgwODUzNSwtMTg3NDAyMTU0OCwyMjc4
+NTUxNThdfQ==
 -->
