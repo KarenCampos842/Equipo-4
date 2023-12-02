@@ -37,9 +37,10 @@
  - [ ] La fecha y el responsable de cada uno de los cambios en los requerimientos se encuentra documentada. 
  - [ ] La lista de requerimientos funcionales se encuentra versionada. 
  - [ ] Los entregables han sido las versiones actualizadas de la lista de requerimientos. 
+ - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTU4NzM5MiwtNzc0Mzg4Njg3LDE4MD
+eyJoaXN0b3J5IjpbLTM3OTA0ODk4NSwtNzc0Mzg4Njg3LDE4MD
 g1NTY3MjcsMTE1MDg5ODYwMCwtMTUxNTgwODUzNSwtMTg3NDAy
 MTU0OCwyMjc4NTUxNThdfQ==
 -->
