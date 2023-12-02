@@ -30,14 +30,14 @@
 #### Artefacto 1: Lista de requerimientos funcionales y no funcionales
 
  - [x] Se estableció una línea base. 
- - [x] Las solicitudes de cambio de los requerimientos funcionales y no funciona se encuentran documentadas.
- - [x] Existe un responsable de aceptar o rechazar los cambios en la lista de requerimientos funcionales. 
+ - [x] Las solicitudes de cambio de los requerimientos funcionales y no funcionales se encuentran documentadas.
+ - [x] Existe un responsable de aceptar o rechazar los cambios en la lista de requerimientos funcionales y no funcionales. 
  - [ ] La razón de cada uno de los cambios en los requerimientos y/o el rechazo de ellos se encuentra documentada. 
  - [x] El estado de todas las solicitudes de cambio se encuentra documentada.
  - [x] El estado de la implementación de los cambios aprobados se encuentra documentada.
- - [x] Los cambios realizados en la lista de requerimientos funcionales se encuentran documentados. 
+ - [x] Los cambios realizados en la lista de requerimientos funcionales y no funcionales  se encuentran documentados. 
  - [x] La fecha y el responsable de cada uno de los cambios en los requerimientos se encuentra documentada. 
- - [x] La lista de requerimientos funcionales se encuentra versionada. 
+ - [x] La lista de requerimientos se encuentra versionada. 
  - [x] Únicamente los cambios aprobados están reflejados en la línea base. 
  - [x] Únicamente se han entregado las versiones actualizadas de los requerimientos. 
  - [x] Actualmente se está trabajando sobre la versión actualizada de la lista de requerimientos. 
@@ -59,7 +59,7 @@
  - [x] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjgyNTczMCwxOTIwNjYzMzM3LDE4OD
+eyJoaXN0b3J5IjpbLTI4MTkyODA4NSwxOTIwNjYzMzM3LDE4OD
 g0MjcwMjIsMTA2NTA4NTE5NiwtMTQ1NzE4MDIzLC01MTI5NDY0
 MjMsNTQ1MTE0Mzk3LDIwMDc5NjYwNDgsNTY5NTA3NjQ5LC01ND
 Y1NTczOTksLTc3NDM4ODY4NywxODA4NTU2NzI3LDExNTA4OTg2
