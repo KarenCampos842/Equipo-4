@@ -10,7 +10,8 @@
 **Trabajador**
 
 -   RF-1. Perfiles.
-Entrada: Sel
+Entrada: Seleccionar la opción para registrarse. 
+Salida: Mostrar e
 
 
 
@@ -88,11 +89,11 @@ Entrada: Sel
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTkxMzM1MSwxMzM4MzYxNTMyLC0zNj
-gwMTQ4NzUsLTkxNTg1NzkxNSwtMjgxOTI4MDg1LDE5MjA2NjMz
-MzcsMTg4ODQyNzAyMiwxMDY1MDg1MTk2LC0xNDU3MTgwMjMsLT
-UxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNzk2NjA0OCw1Njk1MDc2
-NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3LDE4MDg1NTY3MjcsMT
-E1MDg5ODYwMCwtMTUxNTgwODUzNSwtMTg3NDAyMTU0OCwyMjc4
-NTUxNThdfQ==
+eyJoaXN0b3J5IjpbODY2OTMzODcwLDEzMzgzNjE1MzIsLTM2OD
+AxNDg3NSwtOTE1ODU3OTE1LC0yODE5MjgwODUsMTkyMDY2MzMz
+NywxODg4NDI3MDIyLDEwNjUwODUxOTYsLTE0NTcxODAyMywtNT
+EyOTQ2NDIzLDU0NTExNDM5NywyMDA3OTY2MDQ4LDU2OTUwNzY0
+OSwtNTQ2NTU3Mzk5LC03NzQzODg2ODcsMTgwODU1NjcyNywxMT
+UwODk4NjAwLC0xNTE1ODA4NTM1LC0xODc0MDIxNTQ4LDIyNzg1
+NTE1OF19
 -->
