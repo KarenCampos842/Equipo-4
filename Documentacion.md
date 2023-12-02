@@ -28,8 +28,8 @@
 > **Tema:** *Elige dos artefactos que se generaron como parte del proceso de tu proyecto y realiza una audit oría de la gestión de la configuración del software, indicando si se llevó a cabo su configuración y versionamiento. A continuación, presenta un informe detallado al respecto. Nota:el objetivo es que realicen la actividad de auditoria a través de preguntas tipo checklist, en el cual vean la importancia de la gestión de la configuración.*
 
 #### Artefacto 1: Lista de requerimientos funcionales
-
+Se estableció una línea base 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDg5ODYwMCwtMTUxNTgwODUzNSwtMT
-g3NDAyMTU0OCwyMjc4NTUxNThdfQ==
+eyJoaXN0b3J5IjpbMjExMjA3MDI4OSwxMTUwODk4NjAwLC0xNT
+E1ODA4NTM1LC0xODc0MDIxNTQ4LDIyNzg1NTE1OF19
 -->
