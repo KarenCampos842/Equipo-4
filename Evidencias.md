@@ -62,11 +62,15 @@ Estado de la solicitud/implementación
 **Responsable de los cambios:** Maldonado Medina Hansony de Jesús (HansoHpc)
 
 #67: <a href="https://github.com/KarenCampos842/Equipo-4/pull/67">Responsable/Fecha</a>
+
 **Fecha:** 27 de septiembre de 2023
+
 **Responsable de los cambios:** Romero Poot Carlos Emmanuel (CarlosRomero123)
 
 #68:  <a href="https://github.com/KarenCampos842/Equipo-4/pull/68">Responsable/Fecha</a>
+
 **Fecha:** 28 de septiembre de 2023
+
 **Responsable de los cambios:** Romero Poot Carlos Emmanuel (CarlosRomero123)
 
 ### Versiones/Cambios reflejados/Entregas (versiones actualizadas)
@@ -149,5 +153,5 @@ Estado de la solicitud/implementación (#117): <a href="https://github.com/Karen
 
 #### Tercera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#casos-de-uso">Requisitos.md</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjgwOTgzMiwxMzQ3MjkwMTJdfQ==
+eyJoaXN0b3J5IjpbLTI4NDQ4ODEwNCwxMzQ3MjkwMTJdfQ==
 -->
