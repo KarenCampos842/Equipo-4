@@ -46,8 +46,8 @@
 
 
 ## Sprint planning (third sprint) 
-### Duración del sprint: 12 días
-**(18/11/2023) - (29/11/2023)**
+### Duración del sprint: 20 días
+**(18/11/2023) - (29/11/2023) / (1/12/2023)-(8/12/2023)**
 
 ***NOTA:*** Se encontrarán archivos para cada sección en la que el trabajo está dividido (se dividió acorde a la lista de cotejo) en la branch de Tercera-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Tercera-Entrega. 
 Marcar como "closed" sus issues asignados cuando finalicen una actividad. 
@@ -329,11 +329,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQyMzE1MjUsLTQ3NTkyMTM1NiwxNT
-M4MjQ3MjQ2LC0yMDA1ODEzNDE1LC0xMjEyMDUyMjc0LC0xOTM0
-MjMwMTUsLTIxMDI1NjI3MzksODkxMjU4MzEsLTExNjY4NDkzMT
-YsMjA3MDkwMzk1LDE3ODE3MTU1MTEsODc0NzYyMTA1LC00Mjc2
-MzQ4NzEsMTA0MjAwNTMzMywxODQ2NzQ5OTc1LC0yODMyMDgxMz
-gsLTc2NTI2NDYxNSwxOTczMzQxMzU5LDkyOTk1NTM1LC0xNTMw
-NDkwNDU0XX0=
+eyJoaXN0b3J5IjpbLTIyNzU5NDY5NywtMTQ2NDIzMTUyNSwtND
+c1OTIxMzU2LDE1MzgyNDcyNDYsLTIwMDU4MTM0MTUsLTEyMTIw
+NTIyNzQsLTE5MzQyMzAxNSwtMjEwMjU2MjczOSw4OTEyNTgzMS
+wtMTE2Njg0OTMxNiwyMDcwOTAzOTUsMTc4MTcxNTUxMSw4NzQ3
+NjIxMDUsLTQyNzYzNDg3MSwxMDQyMDA1MzMzLDE4NDY3NDk5Nz
+UsLTI4MzIwODEzOCwtNzY1MjY0NjE1LDE5NzMzNDEzNTksOTI5
+OTU1MzVdfQ==
 -->
