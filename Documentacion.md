@@ -1,29 +1,13 @@
 # Documentación
 
-## Unidad 2
+## Métodos de estimación
 
-> **Tema:** *Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos. Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.*
+> **Tema:** *Con respecto al proyecto que estás llevando a cabo, realiza una estimación que abarque el esfuerzo requerido, los costes asociados (incluyendo la asignación de salarios acorde a las funciones y experiencia de cada miembro del equipo, indique la referencia utilizada para el cálculo de los salarios ) y el tiempo necesario. Para ello, emplea la técnica de puntos de función basada en el método COSMIC y aplícala a un sprint de tu elección.*
 
 ### Información
+x
 
-Los requisitos son una parte muy importante en el proceso de desarrollo de software porque son la base de los acuerdos entre los involucrados.
-
-En un proyecto de desarrollo de software, la parte de la obtención de requisitos se ha convertido en toda una disciplina que recibe el nombre de Ingeniería de Requerimientos, desempeñarse en ella requiere de un amplio conocimiento y habilidades técnicas y sociales, pues gran parte de este proceso implica la interacción con personas que tienen conocimientos distintos en el área de las tecnologías de la información. Lo que demanda una alta capacidad para interpretar la información.
-
-Podemos destacar tres habilidades en la parte técnica que son indispensables para esta disciplina, las cuales son: el análisis, la modelización y el desarrollo de Software. 
-
-Análisis: Antes de cualquier cosa se deben cimentar las bases del proyecto y es aquí donde la capacidad de extraer información, comprenderla y traducirla en información técnica, son indispensables para el desarrollo del proyecto, pues el analista se enfrentará a diversos perfiles de clientes con necesidades distintas, y a partir de la información que ellos proporcionen se debe de hacer una evaluación de los alcances y restricciones que implica.
-
-Modelización: Adoptar un modelo de desarrollo no es una tarea fácil, pues esto implica tener un amplio conocimiento en gestión de proyectos y habilidades distintas, para conseguir los mejores resultados es necesario que se adopten las técnicas y prácticas más adecuadas para el proyecto, pues de esta manera se garantizará la creación de un producto de calidad con un estructura adecuada, para ello es necesario aplicar técnicas como la estimación que requieren de ciertas habilidades matemáticas.
-
-Desarrollo de Software: Es evidente que para poder dimensionar los desafíos y oportunidades en el proceso de Ingeniería de Requerimientos, es necesario tener un amplio conocimiento en tecnologías de la información, que permitan realizar estimaciones basadas en fórmulas matemáticas y el expertiz del propio profesional, todo esto hará posible tener un mejor control sobre las implicaciones que tiene el proceso de desarrollo del software.
-
-Además de lo antes mencionado, podemos ejemplificar en nuestro equipo de trabajo la primera habilidad que es el análisis, para definir los alcances y limitaciones de nuestro producto de software hemos hecho una amplia tarea de análisis basado en nuestra experiencia y en la traducción de funciones prácticas de un software en especificaciones técnicas que luego usamos para la generación de requisitos, a pesar de no haber tenido una amplia formación en este aspecto, haciendo énfasis en el usuario final pudimos extraer lo que necesitabamos.
-
----
-
-
-> **Tema:** *Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
+> **Tema:** *Aplica el WBS para las historias de usuario o casos de uso en un sprint de tu elección y contempla que los paquetes de trabajo contengan : idWBS, nombre, duración, costo estimado*
 
 ### Información
 
@@ -515,5 +499,5 @@ Yepply.(2023). ¿Cuáles son las Habilidades más demandadas de los Desarrollado
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3ODU1MTU4XX0=
+eyJoaXN0b3J5IjpbNTI1MzYwNTMsMjI3ODU1MTU4XX0=
 -->
