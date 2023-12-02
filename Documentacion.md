@@ -15,7 +15,8 @@
  Entrada: Seleccionar la opción para registrarse como trabajador. 
 
  - **RF-3. Registro del trabajador:**
-Salida: Mostrar en pantalla los campos de nombre(s), apellido materno, apellido paterno,  apellido materno y correo. 
+Salida: Mostrar en pantalla los campos nombre(s), apellido materno, apellido paterno,  apellido materno y correo. 
+Escritura:
 
 
 
@@ -92,7 +93,7 @@ Salida: Mostrar en pantalla los campos de nombre(s), apellido materno, apellido 
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDgxNzkyOTUsMTMzODM2MTUzMiwtMz
+eyJoaXN0b3J5IjpbLTEyMTc5MzEwNTgsMTMzODM2MTUzMiwtMz
 Y4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTkyODA4NSwxOTIwNjYz
 MzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5NiwtMTQ1NzE4MDIzLC
 01MTI5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5NjYwNDgsNTY5NTA3
