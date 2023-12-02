@@ -42,9 +42,23 @@
  - [ ] Únicamente se han entregado las versiones actualizadas de los requerimientos. 
  - [ ] Actualmente se está trabajando sobre la versión actualizada de la lista de requerimientos. 
 
+#### Artefacto 1: Lista de requerimientos funcionales
+
+ - [ ] Se estableció una línea base. 
+ - [ ] Las solicitudes de cambio de los casos de uso se encuentran documentadas.
+ - [ ] Existe un responsable de aceptar o rechazar los cambios en los casos de uso. 
+ - [ ] La razón de cada uno de los cambios en los casos de uso y/o el rechazo de ellos se encuentra documentada. 
+ - [ ] El estado de todas las solicitudes de cambio se encuentra documentada.
+ - [ ] El estado de la implementación de los cambios aprobados se encuentra documentada.
+ - [ ] Los cambios realizados en los casos de uso se encuentran documentados. 
+ - [ ] La fecha y el responsable de cada uno de los cambios en los requerimientos se encuentra documentada. 
+ - [ ] La lista de requerimientos funcionales se encuentra versionada. 
+ - [ ] Únicamente los cambios aprobados están reflejados en la línea base. 
+ - [ ] Únicamente se han entregado las versiones actualizadas de los requerimientos. 
+ - [ ] Actualmente se está trabajando sobre la versión actualizada de la lista de requerimientos. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzk2NjA0OCw1Njk1MDc2NDksLTU0Nj
-U1NzM5OSwtNzc0Mzg4Njg3LDE4MDg1NTY3MjcsMTE1MDg5ODYw
-MCwtMTUxNTgwODUzNSwtMTg3NDAyMTU0OCwyMjc4NTUxNThdfQ
-==
+eyJoaXN0b3J5IjpbLTg2NTkxNDQ5NCwyMDA3OTY2MDQ4LDU2OT
+UwNzY0OSwtNTQ2NTU3Mzk5LC03NzQzODg2ODcsMTgwODU1Njcy
+NywxMTUwODk4NjAwLC0xNTE1ODA4NTM1LC0xODc0MDIxNTQ4LD
+IyNzg1NTE1OF19
 -->
