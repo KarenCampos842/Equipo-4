@@ -30,9 +30,11 @@
 #### Artefacto 1: Lista de requerimientos funcionales y no funcionales
 
  - [x] Se estableció una línea base. 
- <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos">Evidencia</a>
+ <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#l%C3%ADnea-base">Evidencia</a>
  - [x] Las solicitudes de cambio de los requerimientos funcionales y no funcionales se encuentran documentadas.
+  <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#solicitudes-de-cambioresponsable-de-aceptar-los-cambios">Evidencia</a>
  - [x] Existe un responsable de aceptar o rechazar los cambios en la lista de requerimientos funcionales y no funcionales. 
+ <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#solicitudes-de-cambioresponsable-de-aceptar-los-cambios">Evidencia</a>
  - [ ] La razón de cada uno de los cambios en los requerimientos y/o el rechazo de ellos se encuentra documentada. 
  - [x] El estado de todas las solicitudes de cambio se encuentra documentada.
  - [x] El estado de la implementación de los cambios aprobados se encuentra documentada.
@@ -60,10 +62,10 @@
  - [x] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Mjc5ODIzMiwtMjgxOTI4MDg1LDE5Mj
-A2NjMzMzcsMTg4ODQyNzAyMiwxMDY1MDg1MTk2LC0xNDU3MTgw
-MjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNzk2NjA0OCw1Nj
-k1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3LDE4MDg1NTY3
-MjcsMTE1MDg5ODYwMCwtMTUxNTgwODUzNSwtMTg3NDAyMTU0OC
-wyMjc4NTUxNThdfQ==
+eyJoaXN0b3J5IjpbLTEwODk3MTk3OTcsLTI4MTkyODA4NSwxOT
+IwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5NiwtMTQ1NzE4
+MDIzLC01MTI5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5NjYwNDgsNT
+Y5NTA3NjQ5LC01NDY1NTczOTksLTc3NDM4ODY4NywxODA4NTU2
+NzI3LDExNTA4OTg2MDAsLTE1MTU4MDg1MzUsLTE4NzQwMjE1ND
+gsMjI3ODU1MTU4XX0=
 -->
