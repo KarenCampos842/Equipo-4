@@ -55,11 +55,11 @@
  - [ ] Los casos de uso se encuentran versionados. 
  - [ ] Únicamente los cambios aprobados están reflejados en la línea base. 
  - [ ] Únicamente se han entregado las versiones actualizadas de los los casos de uso. 
- - [ ] Existe una correspondencia 
+ - [ ] La versión
  - [ ] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1MTE0Mzk3LDIwMDc5NjYwNDgsNTY5NT
-A3NjQ5LC01NDY1NTczOTksLTc3NDM4ODY4NywxODA4NTU2NzI3
-LDExNTA4OTg2MDAsLTE1MTU4MDg1MzUsLTE4NzQwMjE1NDgsMj
-I3ODU1MTU4XX0=
+eyJoaXN0b3J5IjpbLTU4NzA3ODkzMyw1NDUxMTQzOTcsMjAwNz
+k2NjA0OCw1Njk1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3
+LDE4MDg1NTY3MjcsMTE1MDg5ODYwMCwtMTUxNTgwODUzNSwtMT
+g3NDAyMTU0OCwyMjc4NTUxNThdfQ==
 -->
