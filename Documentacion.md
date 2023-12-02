@@ -30,9 +30,9 @@
 #### Artefacto 1: Lista de requerimientos funcionales
 
  - [ ] Se estableció una línea base 
- - [ ] s
+ - [ ] Las solicitudes 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyNTIxNTk0LDExNTA4OTg2MDAsLTE1MT
+eyJoaXN0b3J5IjpbMzc4ODY3NzMxLDExNTA4OTg2MDAsLTE1MT
 U4MDg1MzUsLTE4NzQwMjE1NDgsMjI3ODU1MTU4XX0=
 -->
