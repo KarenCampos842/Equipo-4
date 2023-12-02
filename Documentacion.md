@@ -30,7 +30,7 @@
 #### Artefacto 1: Lista de requerimientos funcionales y no funcionales
 
  - [x] Se estableció una línea base. 
- - [x] Las solicitudes de cambio de los requerimientos funcionales se encuentran documentadas.
+ - [x] Las solicitudes de cambio de los requerimientos funcionales y no funciona se encuentran documentadas.
  - [x] Existe un responsable de aceptar o rechazar los cambios en la lista de requerimientos funcionales. 
  - [ ] La razón de cada uno de los cambios en los requerimientos y/o el rechazo de ellos se encuentra documentada. 
  - [x] El estado de todas las solicitudes de cambio se encuentra documentada.
@@ -59,9 +59,10 @@
  - [x] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDY2MzMzNywxODg4NDI3MDIyLDEwNj
-UwODUxOTYsLTE0NTcxODAyMywtNTEyOTQ2NDIzLDU0NTExNDM5
-NywyMDA3OTY2MDQ4LDU2OTUwNzY0OSwtNTQ2NTU3Mzk5LC03Nz
-QzODg2ODcsMTgwODU1NjcyNywxMTUwODk4NjAwLC0xNTE1ODA4
-NTM1LC0xODc0MDIxNTQ4LDIyNzg1NTE1OF19
+eyJoaXN0b3J5IjpbLTQyMjgyNTczMCwxOTIwNjYzMzM3LDE4OD
+g0MjcwMjIsMTA2NTA4NTE5NiwtMTQ1NzE4MDIzLC01MTI5NDY0
+MjMsNTQ1MTE0Mzk3LDIwMDc5NjYwNDgsNTY5NTA3NjQ5LC01ND
+Y1NTczOTksLTc3NDM4ODY4NywxODA4NTU2NzI3LDExNTA4OTg2
+MDAsLTE1MTU4MDg1MzUsLTE4NzQwMjE1NDgsMjI3ODU1MTU4XX
+0=
 -->
