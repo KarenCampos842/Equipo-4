@@ -26,7 +26,9 @@ Estado de la solicitud/implementación (#109): <a href="https://github.com/Karen
 #### Primera Entrega
 Estado de la solicitud/implementación
 #169:  <a href="https://github.com/KarenCampos842/Equipo-4/pulls?q=51">Closed (Approved)/Merged </a>
+
 #67: <a href="https://github.com/KarenCampos842/Equipo-4/pulls?q=67">Closed (Approved)/Merged </a>
+
 #68: <a href="https://github.com/KarenCampos842/Equipo-4/pulls?q=68">Closed (Approved)/Merged </a>
 
 ### Cambios realizados
@@ -35,20 +37,28 @@ Estado de la solicitud/implementación
 #### Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md#evoluci%C3%B3n-del-producto">Cambios resumidos</a>, <a href="https://github.com/KarenCampos842/Equipo-4/pull/109/commits/f6f97f6d3f32b32d596afac806acc9c8249815">Cambios</a>
 #### Primera entrega: 
 #51: <a href="https://github.com/KarenCampos842/Equipo-4/pull/51/commits/698980869e324447c4efa221b6950a780baffe90">Cambios</a>
+
 #67: <a href="https://github.com/KarenCampos842/Equipo-4/pull/67/files">Cambios</a>
+
 #68:  <a href="https://github.com/KarenCampos842/Equipo-4/pull/68/files">Cambios</a>
 
 ### Fecha y responsable de los cambios
 
 #### Tercera entrega (#169): <a href="https://github.com/KarenCampos842/Equipo-4/pull/169/commits/957be21faeea1e3e083f5b1fd6def4cd333b1170">Responsable/Fecha</a> 
 **Fecha:** 26 de noviembre de 2023
+
 **Responsable de los cambios:** Maldonado Medina Hansony de Jesús (HansoHpc)
+
 #### Segunda entrega  (#109): <a href="https://github.com/KarenCampos842/Equipo-4/pull/109">Responsable/Fecha</a>
 **Fecha:** 29 de octubre de 2023
+
 **Responsable de los cambios:** Maldonado Medina Hansony de Jesús (HansoHpc)
+
 #### Primera entrega:
 #51:<a href="https://github.com/KarenCampos842/Equipo-4/pull/51">Responsable/Fecha</a>
+
 **Fecha:** 24 de septiembre de 2023
+
 **Responsable de los cambios:** Maldonado Medina Hansony de Jesús (HansoHpc)
 
 #67: <a href="https://github.com/KarenCampos842/Equipo-4/pull/67">Responsable/Fecha</a>
@@ -139,5 +149,5 @@ Estado de la solicitud/implementación (#117): <a href="https://github.com/Karen
 
 #### Tercera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#casos-de-uso">Requisitos.md</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjE0Mzk4OCwxMzQ3MjkwMTJdfQ==
+eyJoaXN0b3J5IjpbLTM1NjgwOTgzMiwxMzQ3MjkwMTJdfQ==
 -->
