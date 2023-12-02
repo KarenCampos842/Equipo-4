@@ -36,11 +36,11 @@
  - [ ] Los cambios realizados en la lista de requerimientos funcionales se encuentran documentados. 
  - [ ] La fecha y el responsable de cada uno de los cambios en los requerimientos se encuentra documentada. 
  - [ ] La lista de requerimientos funcionales se encuentra versionada. 
- - [ ] Únicamente los cambios aprobados han pasado a la línea base. 
+ - [ ] Únicamente los cambios aprobados están reflejados en la línea base. 
  - [ ] Actualmente se está trabajando sobre la versión actualizada de la lista de requerimientos. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTgxOTEwMCwtNTQ2NTU3Mzk5LC03Nz
+eyJoaXN0b3J5IjpbLTk4ODM2OTQwNywtNTQ2NTU3Mzk5LC03Nz
 QzODg2ODcsMTgwODU1NjcyNywxMTUwODk4NjAwLC0xNTE1ODA4
 NTM1LC0xODc0MDIxNTQ4LDIyNzg1NTE1OF19
 -->
