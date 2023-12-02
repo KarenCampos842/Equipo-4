@@ -2,10 +2,10 @@
 
 ## Métodos de estimación
 
+### Estimación
+
 > **Tema:** *Con respecto al proyecto que estás llevando a cabo, realiza una estimación que abarque el esfuerzo requerido, los costes asociados (incluyendo la asignación de salarios acorde a las funciones y experiencia de cada miembro del equipo, indique la referencia utilizada para el cálculo de los salarios ) y el tiempo necesario. Para ello, emplea la técnica de puntos de función basada en el método COSMIC y aplícala a un sprint de tu elección.*
 
-### Información
-x
 
 ### WBS
 
@@ -307,5 +307,5 @@ Yepply.(2023). ¿Cuáles son las Habilidades más demandadas de los Desarrollado
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjIxMTgyMywyMjc4NTUxNThdfQ==
+eyJoaXN0b3J5IjpbLTE4NzQwMjE1NDgsMjI3ODU1MTU4XX0=
 -->
