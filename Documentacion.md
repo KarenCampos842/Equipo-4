@@ -29,14 +29,14 @@
 
 #### Artefacto 1: Lista de requerimientos funcionales
 
- - [ ] Se estableció una línea base. 
- - [ ] Las solicitudes de cambio de los requerimientos funcionales se encuentran documentadas.
- - [ ] Existe un responsable de aceptar o rechazar los cambios en la lista de requerimientos funcionales. 
+ - [x] Se estableció una línea base. 
+ - [x] Las solicitudes de cambio de los requerimientos funcionales se encuentran documentadas.
+ - [x] Existe un responsable de aceptar o rechazar los cambios en la lista de requerimientos funcionales. 
  - [ ] La razón de cada uno de los cambios en los requerimientos y/o el rechazo de ellos se encuentra documentada. 
- - [ ] El estado de todas las solicitudes de cambio se encuentra documentada.
- - [ ] El estado de la implementación de los cambios aprobados se encuentra documentada.
- - [ ] Los cambios realizados en la lista de requerimientos funcionales se encuentran documentados. 
- - [ ] La fecha y el responsable de cada uno de los cambios en los requerimientos se encuentra documentada. 
+ - [x] El estado de todas las solicitudes de cambio se encuentra documentada.
+ - [x] El estado de la implementación de los cambios aprobados se encuentra documentada.
+ - [x] Los cambios realizados en la lista de requerimientos funcionales se encuentran documentados. 
+ - [x] La fecha y el responsable de cada uno de los cambios en los requerimientos se encuentra documentada. 
  - [ ] La lista de requerimientos funcionales se encuentra versionada. 
  - [ ] Únicamente los cambios aprobados están reflejados en la línea base. 
  - [ ] Únicamente se han entregado las versiones actualizadas de los requerimientos. 
@@ -58,8 +58,8 @@
  - [ ] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [ ] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNz
-k2NjA0OCw1Njk1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3
-LDE4MDg1NTY3MjcsMTE1MDg5ODYwMCwtMTUxNTgwODUzNSwtMT
-g3NDAyMTU0OCwyMjc4NTUxNThdfQ==
+eyJoaXN0b3J5IjpbLTY3NzEzNzE1MSwtNTEyOTQ2NDIzLDU0NT
+ExNDM5NywyMDA3OTY2MDQ4LDU2OTUwNzY0OSwtNTQ2NTU3Mzk5
+LC03NzQzODg2ODcsMTgwODU1NjcyNywxMTUwODk4NjAwLC0xNT
+E1ODA4NTM1LC0xODc0MDIxNTQ4LDIyNzg1NTE1OF19
 -->
