@@ -51,14 +51,14 @@
  - [ ] El estado de todas las solicitudes de cambio se encuentra documentada.
  - [ ] El estado de la implementación de los cambios aprobados se encuentra documentada.
  - [ ] Los cambios realizados en los casos de uso se encuentran documentados. 
- - [ ] La fecha y el responsable de cada uno de los cambios en los requerimientos se encuentra documentada. 
- - [ ] La lista de requerimientos funcionales se encuentra versionada. 
+ - [ ] La fecha y el responsable de cada uno de los cambios en los casos de uso se encuentra documentada. 
+ - [ ] Los casos de uso se encuentran versionados. 
  - [ ] Únicamente los cambios aprobados están reflejados en la línea base. 
- - [ ] Únicamente se han entregado las versiones actualizadas de los requerimientos. 
- - [ ] Actualmente se está trabajando sobre la versión actualizada de la lista de requerimientos. 
+ - [ ] Únicamente se han entregado las versiones actualizadas de los los casos de uso. 
+ - [ ] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTkxNDQ5NCwyMDA3OTY2MDQ4LDU2OT
-UwNzY0OSwtNTQ2NTU3Mzk5LC03NzQzODg2ODcsMTgwODU1Njcy
-NywxMTUwODk4NjAwLC0xNTE1ODA4NTM1LC0xODc0MDIxNTQ4LD
-IyNzg1NTE1OF19
+eyJoaXN0b3J5IjpbLTE5MzI4MDQxODIsMjAwNzk2NjA0OCw1Nj
+k1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3LDE4MDg1NTY3
+MjcsMTE1MDg5ODYwMCwtMTUxNTgwODUzNSwtMTg3NDAyMTU0OC
+wyMjc4NTUxNThdfQ==
 -->
