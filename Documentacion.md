@@ -7,25 +7,24 @@
 ### Información
 x
 
+### WBS
+
 > **Tema:** *Aplica el WBS para las historias de usuario o casos de uso en un sprint de tu elección y contempla que los paquetes de trabajo contengan : idWBS, nombre, duración, costo estimado*
 
-### Información
-
-x
 
 
 > **Tema:** *Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad)*
 
 ### Información
 
----
 
 > **Tema:** *Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
 
 ### Información
 x
 
----
+## Calidad
+
 > **Tema:** *Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias mínimas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras*
 
 ### Información
@@ -308,5 +307,5 @@ Yepply.(2023). ¿Cuáles son las Habilidades más demandadas de los Desarrollado
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMDkwMjI2LDIyNzg1NTE1OF19
+eyJoaXN0b3J5IjpbLTI3NjIxMTgyMywyMjc4NTUxNThdfQ==
 -->
