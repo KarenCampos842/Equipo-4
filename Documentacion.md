@@ -9,7 +9,10 @@
 
 **Trabajador**
 
-RF-1. **Perfiles:** El sistema permitirá al usuario seleccionar un perfil (cliente o trabajador), con el cuál iniciará su registro a la aplicación.
+-   RF-1. Perfiles.
+
+
+
 
 
 ### WBS
@@ -85,10 +88,10 @@ RF-1. **Perfiles:** El sistema permitirá al usuario seleccionar un perfil (clie
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjI2OTY4OTUsLTM2ODAxNDg3NSwtOT
-E1ODU3OTE1LC0yODE5MjgwODUsMTkyMDY2MzMzNywxODg4NDI3
-MDIyLDEwNjUwODUxOTYsLTE0NTcxODAyMywtNTEyOTQ2NDIzLD
-U0NTExNDM5NywyMDA3OTY2MDQ4LDU2OTUwNzY0OSwtNTQ2NTU3
-Mzk5LC03NzQzODg2ODcsMTgwODU1NjcyNywxMTUwODk4NjAwLC
-0xNTE1ODA4NTM1LC0xODc0MDIxNTQ4LDIyNzg1NTE1OF19
+eyJoaXN0b3J5IjpbMTMzODM2MTUzMiwtMzY4MDE0ODc1LC05MT
+U4NTc5MTUsLTI4MTkyODA4NSwxOTIwNjYzMzM3LDE4ODg0Mjcw
+MjIsMTA2NTA4NTE5NiwtMTQ1NzE4MDIzLC01MTI5NDY0MjMsNT
+Q1MTE0Mzk3LDIwMDc5NjYwNDgsNTY5NTA3NjQ5LC01NDY1NTcz
+OTksLTc3NDM4ODY4NywxODA4NTU2NzI3LDExNTA4OTg2MDAsLT
+E1MTU4MDg1MzUsLTE4NzQwMjE1NDgsMjI3ODU1MTU4XX0=
 -->
