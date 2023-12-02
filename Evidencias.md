@@ -110,10 +110,15 @@ Estado de la solicitud/implementación
 ### Estado de solicitudes e implementación
 #### Segunda Entrega
 Estado de la solicitud/implementación (#107): <a href="https://github.com/KarenCampos842/Equipo-4/pulls?q=107">Closed (rejected)/Unmerged</a>
+
 Estado de la solicitud/implementación (#110): <a href="https://github.com/KarenCampos842/Equipo-4/pulls?q=110">Closed (Approved)/Merged</a>
+
 Estado de la solicitud/implementación (#111): <a href="https://github.com/KarenCampos842/Equipo-4/pulls?q=111">Closed (Approved)/Merged</a>
+
 Estado de la solicitud/implementación (#112): <a href="https://github.com/KarenCampos842/Equipo-4/pulls?q=112">Closed (Approved)/Merged</a>
+
 Estado de la solicitud/implementación (#113): <a href="https://github.com/KarenCampos842/Equipo-4/pulls?q=113">Closed (Approved)/Merged</a>
+
 Estado de la solicitud/implementación (#117): <a href="https://github.com/KarenCampos842/Equipo-4/pulls?q=117+">Closed (rejected)/Unmerged</a>
 
 ### Cambios realizados
@@ -122,29 +127,41 @@ Estado de la solicitud/implementación (#117): <a href="https://github.com/Karen
 #### Segunda entrega: 
 
 #110: <a href="https://github.com/KarenCampos842/Equipo-4/pull/110/files">Cambios</a>
+
 #111:  <a href="https://github.com/KarenCampos842/Equipo-4/pull/111/files">Cambios</a>
+
 #112: <a href="https://github.com/KarenCampos842/Equipo-4/pull/112/files#diff-e725d7fe988491f4ec0ffdb8c1">Cambios</a>
 
 ### Fecha y responsable de los cambios
 
 #107: <a href="https://github.com/KarenCampos842/Equipo-4/pull/107">Fecha/Responsable</a>
+
 **Fecha:** 30 de octubre de 2023
+
 **Responsable de los cambios:** Romero Poot Carlos Emmanuel (CarlosRomero123)
 
 #110: <a href="https://github.com/KarenCampos842/Equipo-4/pull/110">Fecha/Responsable</a>
+
 **Fecha:** 30 de octubre de 2023
+
 **Responsable de los cambios:** Maldonado Medina Hansony de Jesús (HansoHpc)
 
 #111: <a href="https://github.com/KarenCampos842/Equipo-4/pull/111">Fecha/Responsable</a>
+
 **Fecha:** 3 de noviembre de 2023
+
 **Responsable de los cambios:** Romero Poot Carlos Emmanuel (CarlosRomero123)
 
 #112: <a href="https://github.com/KarenCampos842/Equipo-4/pull/112">Fecha/Responsable</a>
+
 **Fecha:** 4 de noviembre de 2023
+
 **Responsable de los cambios:** Suárez Balam Brandon Emmanuel (brandsz)
 
 #117: <a href="https://github.com/KarenCampos842/Equipo-4/pull/117">Fecha/Responsable</a>
+
 **Fecha:** 11 de noviembre de 2023
+
 **Responsable de los cambios:** Rubén Moisés Loria Pech (Wuapatada)
 
 ### Versiones/Cambios reflejados/Entregas (versiones actualizadas)
@@ -157,5 +174,5 @@ Estado de la solicitud/implementación (#117): <a href="https://github.com/Karen
 
 #### Tercera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#casos-de-uso">Requisitos.md</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwMTgwMTkyLDEzNDcyOTAxMl19
+eyJoaXN0b3J5IjpbNjIxMTY3OTU4LDEzNDcyOTAxMl19
 -->
