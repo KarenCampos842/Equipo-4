@@ -16,7 +16,8 @@
 
  - **RF-3. Registro del trabajador:**
 Salida: Mostrar en pantalla los campos nombre(s), apellido materno, apellido paterno,  apellido materno y correo. 
-Escritura:
+Entrada: Ingresar nombre(s). 
+Lectura: Leer nombres
 
 
 
@@ -93,11 +94,11 @@ Escritura:
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc5MzEwNTgsMTMzODM2MTUzMiwtMz
-Y4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTkyODA4NSwxOTIwNjYz
-MzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5NiwtMTQ1NzE4MDIzLC
-01MTI5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5NjYwNDgsNTY5NTA3
-NjQ5LC01NDY1NTczOTksLTc3NDM4ODY4NywxODA4NTU2NzI3LD
-ExNTA4OTg2MDAsLTE1MTU4MDg1MzUsLTE4NzQwMjE1NDgsMjI3
-ODU1MTU4XX0=
+eyJoaXN0b3J5IjpbNTgxNTg2NjE5LDEzMzgzNjE1MzIsLTM2OD
+AxNDg3NSwtOTE1ODU3OTE1LC0yODE5MjgwODUsMTkyMDY2MzMz
+NywxODg4NDI3MDIyLDEwNjUwODUxOTYsLTE0NTcxODAyMywtNT
+EyOTQ2NDIzLDU0NTExNDM5NywyMDA3OTY2MDQ4LDU2OTUwNzY0
+OSwtNTQ2NTU3Mzk5LC03NzQzODg2ODcsMTgwODU1NjcyNywxMT
+UwODk4NjAwLC0xNTE1ODA4NTM1LC0xODc0MDIxNTQ4LDIyNzg1
+NTE1OF19
 -->
