@@ -11,210 +11,19 @@ x
 
 ### Información
 
-Ambas herramientas son útiles para la extracción y organización de requerimientos por lo que a primera instancia podrían parecer iguales, aunque no es el caso. 
+x
 
-**Diferencias**
-<table align=center> 
- <tr>  
- <th>Historias de usuario</th>  
- <th>Casos de uso</th>  
-</tr>  
-<tr>  
-<td>Se suelen elaborar antes de los casos de uso. </td>  
-<td>Se suelen elaborar después de las historias de usuario.</td>  
-</tr> 
- <tr> 
-  <td>Comunes en las metodologías ágiles. </td> 
-   <td>No se suelen ver en metodologías ágiles.</td> 
-  </tr>  
-  <tr>  
-  <td>Propósito: Describir brevemente una característica del software desde la perspectiva, generalmente, del usuario o cliente.</td>  
-  <td>Propósito: Describir la secuencia de interacciones entre el sistema y un agente externo (por ejemplo, el usuario final) para una funcionalidad específica.</td> 
-  </tr> 
-  <tr> 
-  <td>Enfoque en encontrar la necesidad de una funcionalidad para el usuario (para qué).</td> 
-   <td>Enfoque en describir detalladamente las interacciones software-agente externo para suplir una necesidad.</td> 
-  </tr>
-  <tr> 
-  <td>No contienen lenguaje técnico, son fáciles de leer, y comprensibles para personas fuera del proyecto. </td> 
-   <td>Suelen contener lenguaje técnico y ser más complejas de leer.</td> 
-  </tr>
-   <tr> 
-  <td>Son breves.</td> 
-   <td>Son más largos.</td> 
-  </tr> 
-    <tr> 
-  <td>
-Suelen tener un id, un título que represente el objetivo, una descripción, criterios de aceptación, prioridad y estimación.
-<br><br>Estructura usual de la descripción:
-  <ul>
-  <li> Como <b>Usuario</b></li>
-  <li> Quiero <b>objetivo</b></li>
-  <li> Para que <b>motivo</b></li>
-   </ul>
-  Existen historias de usuario que representan el happy flow y el unhappy flow. 
-  </td> 
-   <td>En general se componen de un identificador , un título el objetivo, las precondiciones ha satisfacer previo a iniciar, descripción breve del propósito del caso, una lista de pasos que muestren las interacciones entre los agentes externos y el sistema (happy flow), las postcondiciones (estado del sistema después de ejecutarse el caso de uso) y excepciones (unhappy flow).</td> 
-  </tr>                 
-  </table>
 
-**Cuándo usarlos**
-
-Historias de usuario
-
- - Durante la planificación: Las historias de usuario se realizan con base en los requerimientos y con ellas se puede dividir el trabajo a los diferentes miembros del equipo. 
- - Al elaborar el product backlog.
- - Durante reuniones con el cliente.
- - Cuando los requerimientos no son claros.
-
-**Casos de uso**
-
- - Previo a realizar el diseño de interfaces y entrar en la fase de implementación. 
- - Como guía al realizar pruebas. 
-
-Son posibles formas de usar éstas herramientas, aunque no es una regla. Habrá equipos que opten únicamente por utilizar historias de usuario, casos de uso o ambos. 
-Generalmente, las historias de usuario al ser más breves, permiten iniciar antes el proyecto y refinarlas después. 
-
-**Ejemplo**
-Para nuestro proyecto elaboramos historias de usuario  para tener una idea general de lo que se buscaba lograr y cómo herramienta para la asignación de actividades. Posterior a las historias de usuario, realizamos casos de uso para ver a detalle las interacciones entre el software  y los agentes externos y así avanzar con algo más claro al diseño de interfaces. 
-
-Ejemplo de historia de usuario: 
-
-<table align=center>  
-   <tr>  
-      <th>Historia de usuario #3</th>  
-      <th>Autenticación</th> 
-   </tr> 
-    <tr>  
-      <td><b>Como</b></td>  
-       <td> usuario de WorkFlash</td> 
-   </tr> 
-    <tr>  
-      <td><b>Quiero</b></td>  
-       <td> poder autenticarme en la aplicación</td> 
-   </tr> 
-     <tr>  
-      <td><b>Para</b></td>  
-       <td> acceder a los beneficios de WorkFlash.</td> 
-   </tr> 
-  <tr>  
-      <td><b>Criterios de aceptación</b></td>  
-       <td> 
-           <ul>
-                <li>Comprobar que el correo y contraseña introducidos existan en la base de datos.</li>
-                  <li>Comprobar que la contraseña corresponda al correo introducido.</li>
-                <li>Comprobar que el usuario ha aceptado compartir su ubicación con WorkFlash.</li>
-           </ul>
-     </td> 
-   </tr>
- </table>      
- 
-<br>
-Ejemplo de caso de uso
-
-<br>
-
-<table  align=center>
-<tr>
-<th>CU-06</th>
-<th  colspan="2">Búsqueda y filtro </th></tr>
-<tr>
-<td><b>Versión</b></td>
-<td  colspan="2">1.0 (29/10/2023)</td>
-</tr>
-<tr>
-<td><b>Precondición</b></td>
-<td  colspan="2">El cliente se ha registrado como cliente. </td>
-</tr>
-<tr>
-<td><b>Descripción</b></td>
-<td  colspan="2">El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio y filtrará las opciones con criterios de calificación y ubicació</td>
-</tr>
-<tr>
-<td  rowspan="5"><b>Secuencia normal</b></td>
-<td><b>Paso</b></td>
-<td><b>Acción</b></td>
-</tr>
-<tr>
-<td>1</td>
-<td>El cliente ingresa el nombre de un oficio </td>
-</tr>
-<tr>
-<td>2</td>
-<td>El sistema despliega una lista de oficios </td>
-</tr>
-<tr>
-<td>3</td>
-<td>El cliente selecciona el trabajo que desea contratar</td>
-</tr>
-<tr>
-<td>4</td>
-<td>El sistema organiza los resultados de búsqueda y crea una <br> lista de trabajadores con algunos de sus datos</td>
-</tr>
-<tr>
-<td><b>Postcondición</b></td>
-<td  colspan="2">El usuario es libre de seleccionar con quien quiere trabajar </td>
-</tr>
-<tr>
-<td  rowspan="3"><b>Excepciones</b></td>
-<td><b>Paso</b></td>
-<td><b>Acción</b></td>
-</tr>
-<tr>
-<td> 1 </td>
-<td>Si el oficio buscado no está dado de alta  en la base de datos, el sistema notifica al usuario que no encuentra el oficio buscado.</td>
-</tr>
-</table>
-
-<br>
-    
----
-
-> **Tema:** *Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
+> **Tema:** *Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad)*
 
 ### Información
-Uno de los métodos asociados a la interfaz de usuario es el método de evaluación heurística. Esta técnica implica tener a expertos en usabilidad revisando la interfaz en busca de posibles problemas de diseño. Los expertos aplican un conjunto de principios (llamados heurísticas) establecidos por Jakob Nielsen u otros especialistas en UX para identificar y solucionar problemas de usabilidad.
-
- 
-Por ejemplo, podrían evaluar la consistencia de la interfaz, la correspondencia entre el sistema y el mundo real, la flexibilidad y eficiencia del uso, entre otros criterios. Este método suele involucrar a varios revisores que examinan la interfaz por separado y luego consolidan sus hallazgos para generar una lista de problemas y posibles soluciones.
-
-Al finalizar, se proporciona un informe detallado con recomendaciones para mejorar la usabilidad de la interfaz, lo que permite realizar ajustes y optimizaciones antes del lanzamiento del producto.
 
 ---
 
 > **Tema:** *Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
 
 ### Información
-
-El inicio de las pruebas depende mucho del proyecto y la metodología usada. En las metodologías tradicionales las pruebas se hacen después de la etapa de desarrollo. 
-existen 2 tipos de pruevas las dinamicas y las estaticas.
-las pruebas dinamicas son las que se hacen mientras el codigo esta en ejecucion esta se realiza en una etapa mas avanzada del ciclo de vida  y las estaticas se centran en la prevencion de errores sometiendo a revicion la documentacion y los artefactos.
-Las técnicas estáticas son técnicas que nos ayudan a la prevención de errores desde una etapa temprana del ciclo de vida por medio de las revisiones, reduciendo el tiempo y el coste del proyecto 
-
-Existen varios tipos de revisiones entre ellas: 
-La inspeccion o revisión técnica formal (RTF), esta es una actividad de control de calidad 	basada en examinar documentos de forma visual para detectar defectos. 
-
-- El primer paso es seleccionar a los participantes, distribuir los roles, agendar la reunión o las reuniones y repartir los documentos a revisar. 
-
-	Roles: 
-
-	- Revisor: el encargado de detectar las anomalías. 
-
-	- Escriba: registra por escrito los acontecimientos más importantes de la revisión e incorporar todos los defectos en una lista. 
-
-	- Moderador: este es el responsable de la revisión y se encarga de mediar entre los diferentes puntos de vista. 
-
-	- Autor: la persona responsable de crear el material revisado. 
-
-- El siguiente paso es la lectura del material se realiza de manera individual, cada integrante del equipo analiza el material para comprenderlo y encontrar y anotar posibles defectos. 
-
-- Lo siguiente es la reunión, donde el autor hace una introducción del material para después recorrer el material y que cada revisor comente sus observaciones.                                                   Al final de la reunión se deberá decidir si se acepta el material sin modificar o se rechaza y se manda a corrección, cuando se llegue a un acuerdo se firma el registro del escriba para 	indicar la 
-  participación del miembro y confirmar el acuerdo. 
-
-- El registro del escriba se agrega como parte del registro histórico del proyecto y también se agrega un reporte sobre las conclusiones de la reunión.
-
-Esta no es la unica forma de hacer reviciones pero si la mas formal y recomendada en el caso de nuestro equipo usamos otra tecnica de revicion llamada revicion informal en la cual no se documenta el proceso y es  usada en las metodologias agiles, esta se basa en someter a revicion el matarial en una reunion con el autor y los demas integrantes del equipo para encontrar errores y coregirlos de forma rapida.
-aunque debido a la falta de documentacion es dificil saber que tan efectivo es y es mas recomendable hacer reviciones formales.
+x
 
 ---
 > **Tema:** *Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias mínimas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras*
@@ -499,5 +308,5 @@ Yepply.(2023). ¿Cuáles son las Habilidades más demandadas de los Desarrollado
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1MzYwNTMsMjI3ODU1MTU4XX0=
+eyJoaXN0b3J5IjpbODcwMDkwMjI2LDIyNzg1NTE1OF19
 -->
