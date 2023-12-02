@@ -27,7 +27,7 @@
 
 > **Tema:** *Elige dos artefactos que se generaron como parte del proceso de tu proyecto y realiza una audit oría de la gestión de la configuración del software, indicando si se llevó a cabo su configuración y versionamiento. A continuación, presenta un informe detallado al respecto. Nota:el objetivo es que realicen la actividad de auditoria a través de preguntas tipo checklist, en el cual vean la importancia de la gestión de la configuración.*
 
-#### Artefacto 1: Lista de requerimientos funcionales
+#### Artefacto 1: Lista de requerimientos funcionales y no funcionales
 
  - [x] Se estableció una línea base. 
  - [x] Las solicitudes de cambio de los requerimientos funcionales se encuentran documentadas.
@@ -59,9 +59,9 @@
  - [x] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODQyNzAyMiwxMDY1MDg1MTk2LC0xND
-U3MTgwMjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNzk2NjA0
-OCw1Njk1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3LDE4MD
-g1NTY3MjcsMTE1MDg5ODYwMCwtMTUxNTgwODUzNSwtMTg3NDAy
-MTU0OCwyMjc4NTUxNThdfQ==
+eyJoaXN0b3J5IjpbMTkyMDY2MzMzNywxODg4NDI3MDIyLDEwNj
+UwODUxOTYsLTE0NTcxODAyMywtNTEyOTQ2NDIzLDU0NTExNDM5
+NywyMDA3OTY2MDQ4LDU2OTUwNzY0OSwtNTQ2NTU3Mzk5LC03Nz
+QzODg2ODcsMTgwODU1NjcyNywxMTUwODk4NjAwLC0xNTE1ODA4
+NTM1LC0xODc0MDIxNTQ4LDIyNzg1NTE1OF19
 -->
