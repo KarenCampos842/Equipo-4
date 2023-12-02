@@ -51,14 +51,16 @@
  - [x] Únicamente se han entregado las versiones actualizadas de los requerimientos. 
  <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#versionescambios-reflejadosentregas-versiones-actualizadas">Evidencia</a>
  - [x] Actualmente se está trabajando sobre la versión actualizada de la lista de requerimientos. 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#versionescambios-reflejadosentregas-versiones-actualizadas">Evidencia</a>
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#versi%C3%B3n-actualizada">Evidencia</a>
 
 #### Artefacto 2: Casos de uso
 
  - [x] Se estableció una línea base. 
+ <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#l%C3%ADnea-base-1">Evidencia</a>
  - [x] Las solicitudes de cambio de los casos de uso se encuentran documentadas.
-   <a href="https://github.com/KarenCampos842/Equipo-4/pull/107">Solicitudes de cambio</a>
- - [x] Existe un responsable de aceptar o rechazar los cambios en los casos de uso. 
+   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#solicitudes-de-cambioresponsable-de-aceptar-los-cambios-1">Evidencia</a>
+ - [x] Existe un responsable de aceptar o rechazar los cambios en los casos de uso.
+   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#solicitudes-de-cambioresponsable-de-aceptar-los-cambios-1">Evidencia</a> 
  - [ ] La razón de cada uno de los cambios en los casos de uso y/o el rechazo de ellos se encuentra documentada. 
  - [x] El estado de todas las solicitudes de cambio se encuentra documentada.
  - [x] El estado de la implementación de los cambios aprobados se encuentra documentada.
@@ -70,10 +72,10 @@
  - [x] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTY1NzQ5MiwtMjgxOTI4MDg1LDE5Mj
-A2NjMzMzcsMTg4ODQyNzAyMiwxMDY1MDg1MTk2LC0xNDU3MTgw
-MjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNzk2NjA0OCw1Nj
-k1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3LDE4MDg1NTY3
-MjcsMTE1MDg5ODYwMCwtMTUxNTgwODUzNSwtMTg3NDAyMTU0OC
-wyMjc4NTUxNThdfQ==
+eyJoaXN0b3J5IjpbMjMwNjgyNCwtMjgxOTI4MDg1LDE5MjA2Nj
+MzMzcsMTg4ODQyNzAyMiwxMDY1MDg1MTk2LC0xNDU3MTgwMjMs
+LTUxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNzk2NjA0OCw1Njk1MD
+c2NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3LDE4MDg1NTY3Mjcs
+MTE1MDg5ODYwMCwtMTUxNTgwODUzNSwtMTg3NDAyMTU0OCwyMj
+c4NTUxNThdfQ==
 -->
