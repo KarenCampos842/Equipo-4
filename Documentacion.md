@@ -37,19 +37,19 @@
  - [x] El estado de la implementación de los cambios aprobados se encuentra documentada.
  - [x] Los cambios realizados en la lista de requerimientos funcionales se encuentran documentados. 
  - [x] La fecha y el responsable de cada uno de los cambios en los requerimientos se encuentra documentada. 
- - [ ] La lista de requerimientos funcionales se encuentra versionada. 
- - [ ] Únicamente los cambios aprobados están reflejados en la línea base. 
- - [ ] Únicamente se han entregado las versiones actualizadas de los requerimientos. 
- - [ ] Actualmente se está trabajando sobre la versión actualizada de la lista de requerimientos. 
+ - [x] La lista de requerimientos funcionales se encuentra versionada. 
+ - [x] Únicamente los cambios aprobados están reflejados en la línea base. 
+ - [x] Únicamente se han entregado las versiones actualizadas de los requerimientos. 
+ - [x] Actualmente se está trabajando sobre la versión actualizada de la lista de requerimientos. 
 
 #### Artefacto 2: Casos de uso
 
- - [ ] Se estableció una línea base. 
- - [ ] Las solicitudes de cambio de los casos de uso se encuentran documentadas.
- - [ ] Existe un responsable de aceptar o rechazar los cambios en los casos de uso. 
+ - [x] Se estableció una línea base. 
+ - [x] Las solicitudes de cambio de los casos de uso se encuentran documentadas.
+ - [x] Existe un responsable de aceptar o rechazar los cambios en los casos de uso. 
  - [ ] La razón de cada uno de los cambios en los casos de uso y/o el rechazo de ellos se encuentra documentada. 
- - [ ] El estado de todas las solicitudes de cambio se encuentra documentada.
- - [ ] El estado de la implementación de los cambios aprobados se encuentra documentada.
+ - [x] El estado de todas las solicitudes de cambio se encuentra documentada.
+ - [x] El estado de la implementación de los cambios aprobados se encuentra documentada.
  - [ ] Los cambios realizados en los casos de uso se encuentran documentados. 
  - [ ] La fecha y el responsable de cada uno de los cambios en los casos de uso se encuentra documentada. 
  - [ ] Los casos de uso se encuentran versionados. 
@@ -58,8 +58,8 @@
  - [ ] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [ ] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzEzNzE1MSwtNTEyOTQ2NDIzLDU0NT
-ExNDM5NywyMDA3OTY2MDQ4LDU2OTUwNzY0OSwtNTQ2NTU3Mzk5
-LC03NzQzODg2ODcsMTgwODU1NjcyNywxMTUwODk4NjAwLC0xNT
-E1ODA4NTM1LC0xODc0MDIxNTQ4LDIyNzg1NTE1OF19
+eyJoaXN0b3J5IjpbLTIwMDg2MTM5NzUsLTUxMjk0NjQyMyw1ND
+UxMTQzOTcsMjAwNzk2NjA0OCw1Njk1MDc2NDksLTU0NjU1NzM5
+OSwtNzc0Mzg4Njg3LDE4MDg1NTY3MjcsMTE1MDg5ODYwMCwtMT
+UxNTgwODUzNSwtMTg3NDAyMTU0OCwyMjc4NTUxNThdfQ==
 -->
