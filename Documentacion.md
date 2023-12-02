@@ -42,7 +42,7 @@
  - [ ] Únicamente se han entregado las versiones actualizadas de los requerimientos. 
  - [ ] Actualmente se está trabajando sobre la versión actualizada de la lista de requerimientos. 
 
-#### Artefacto 1: Lista de requerimientos funcionales
+#### Artefacto 2: Casos de uso
 
  - [ ] Se estableció una línea base. 
  - [ ] Las solicitudes de cambio de los casos de uso se encuentran documentadas.
@@ -55,10 +55,11 @@
  - [ ] Los casos de uso se encuentran versionados. 
  - [ ] Únicamente los cambios aprobados están reflejados en la línea base. 
  - [ ] Únicamente se han entregado las versiones actualizadas de los los casos de uso. 
+ - [ ] Existe una correspondencia 
  - [ ] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI4MDQxODIsMjAwNzk2NjA0OCw1Nj
-k1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3LDE4MDg1NTY3
-MjcsMTE1MDg5ODYwMCwtMTUxNTgwODUzNSwtMTg3NDAyMTU0OC
-wyMjc4NTUxNThdfQ==
+eyJoaXN0b3J5IjpbNTQ1MTE0Mzk3LDIwMDc5NjYwNDgsNTY5NT
+A3NjQ5LC01NDY1NTczOTksLTc3NDM4ODY4NywxODA4NTU2NzI3
+LDExNTA4OTg2MDAsLTE1MTU4MDg1MzUsLTE4NzQwMjE1NDgsMj
+I3ODU1MTU4XX0=
 -->
