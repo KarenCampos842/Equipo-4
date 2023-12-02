@@ -12,13 +12,14 @@
 > **Tema:** *Aplica el WBS para las historias de usuario o casos de uso en un sprint de tu elección y contempla que los paquetes de trabajo contengan : idWBS, nombre, duración, costo estimado*
 
 
-
+### Diagrama Grantt
 > **Tema:** *Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad)*
 
-### Información
+## Calidad
 
+### C
 
-> **Tema:** *Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando*
+> **Tema:** *Compara los modelos de calidad propuestos por McCall y Boehm, identifica y lista sus características escenciales y reflexiona sobr e cuál de estos dos modelos sería más adecuado para aplicar en tu proy ecto de desarrollo de software. Justifica tu elección.*
 
 ### Información
 x
@@ -307,5 +308,6 @@ Yepply.(2023). ¿Cuáles son las Habilidades más demandadas de los Desarrollado
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQwMjE1NDgsMjI3ODU1MTU4XX0=
+eyJoaXN0b3J5IjpbLTE4OTExMzkwOTEsLTE4NzQwMjE1NDgsMj
+I3ODU1MTU4XX0=
 -->
