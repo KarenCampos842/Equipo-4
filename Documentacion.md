@@ -37,9 +37,13 @@
  <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#solicitudes-de-cambioresponsable-de-aceptar-los-cambios">Evidencia</a>
  - [ ] La razón de cada uno de los cambios en los requerimientos y/o el rechazo de ellos se encuentra documentada. 
  - [x] El estado de todas las solicitudes de cambio se encuentra documentada.
+ <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#estado-de-solicitudes-e-implementaci%C3%B3n">Evidencia</a>
  - [x] El estado de la implementación de los cambios aprobados se encuentra documentada.
+  <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#estado-de-solicitudes-e-implementaci%C3%B3n">Evidencia</a>
  - [x] Los cambios realizados en la lista de requerimientos funcionales y no funcionales  se encuentran documentados. 
+  <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#cambios-realizados">Evidencia</a>
  - [x] La fecha y el responsable de cada uno de los cambios en los requerimientos se encuentra documentada. 
+ <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#cambios-realizados">Evidencia</a>
  - [x] La lista de requerimientos se encuentra versionada. 
  - [x] Únicamente los cambios aprobados están reflejados en la línea base. 
  - [x] Únicamente se han entregado las versiones actualizadas de los requerimientos. 
@@ -62,10 +66,10 @@
  - [x] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODk3MTk3OTcsLTI4MTkyODA4NSwxOT
-IwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5NiwtMTQ1NzE4
-MDIzLC01MTI5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5NjYwNDgsNT
-Y5NTA3NjQ5LC01NDY1NTczOTksLTc3NDM4ODY4NywxODA4NTU2
-NzI3LDExNTA4OTg2MDAsLTE1MTU4MDg1MzUsLTE4NzQwMjE1ND
-gsMjI3ODU1MTU4XX0=
+eyJoaXN0b3J5IjpbLTIyMDc5NzI3MSwtMjgxOTI4MDg1LDE5Mj
+A2NjMzMzcsMTg4ODQyNzAyMiwxMDY1MDg1MTk2LC0xNDU3MTgw
+MjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNzk2NjA0OCw1Nj
+k1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3LDE4MDg1NTY3
+MjcsMTE1MDg5ODYwMCwtMTUxNTgwODUzNSwtMTg3NDAyMTU0OC
+wyMjc4NTUxNThdfQ==
 -->
