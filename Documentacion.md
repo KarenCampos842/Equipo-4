@@ -33,10 +33,11 @@
  - [ ] Las solicitudes de cambio de los requerimientos funcionales se encuentran documentadas.
  - [ ] Existió un responsable de aceptar o rechazar los cambios en la lista de requerimientos funcionales. 
  - [ ] La razón de cada uno de los cambios en los requerimientos o el rechazo de ellos, se encuentra documentada. 
- - [ ] Los 
+ - [ ] La fecha y el responsable de cada uno de los cambios en los requerimientos se encuentra documentada. 
+ - [ ] 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjc1MzA0NSwxODA4NTU2NzI3LDExNT
-A4OTg2MDAsLTE1MTU4MDg1MzUsLTE4NzQwMjE1NDgsMjI3ODU1
-MTU4XX0=
+eyJoaXN0b3J5IjpbOTY4NjUyLDE4MDg1NTY3MjcsMTE1MDg5OD
+YwMCwtMTUxNTgwODUzNSwtMTg3NDAyMTU0OCwyMjc4NTUxNThd
+fQ==
 -->
