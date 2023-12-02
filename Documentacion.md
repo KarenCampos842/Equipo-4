@@ -49,7 +49,7 @@
 
  - [x] Se estableció una línea base. 
  - [x] Las solicitudes de cambio de los casos de uso se encuentran documentadas.
-   <a href="https://github.com/KarenCampos842/Equipo-4/pull/107">Solicitudes de cambio</a>
+   <a href="https://github.com/KarenCampos842/Equipo-4/pull/169/commits/957be21faeea1e3e083f5b1fd6def4cd333b1170">Solicitud de cambio tercera entrega</a>
  - [x] Existe un responsable de aceptar o rechazar los cambios en los casos de uso. 
  - [ ] La razón de cada uno de los cambios en los casos de uso y/o el rechazo de ellos se encuentra documentada. 
  - [x] El estado de todas las solicitudes de cambio se encuentra documentada.
@@ -62,9 +62,9 @@
  - [x] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTA4NTE5NiwtMTQ1NzE4MDIzLC01MT
-I5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5NjYwNDgsNTY5NTA3NjQ5
-LC01NDY1NTczOTksLTc3NDM4ODY4NywxODA4NTU2NzI3LDExNT
-A4OTg2MDAsLTE1MTU4MDg1MzUsLTE4NzQwMjE1NDgsMjI3ODU1
-MTU4XX0=
+eyJoaXN0b3J5IjpbMjA2MjUxMjAxNCwxMDY1MDg1MTk2LC0xND
+U3MTgwMjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNzk2NjA0
+OCw1Njk1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4Njg3LDE4MD
+g1NTY3MjcsMTE1MDg5ODYwMCwtMTUxNTgwODUzNSwtMTg3NDAy
+MTU0OCwyMjc4NTUxNThdfQ==
 -->
