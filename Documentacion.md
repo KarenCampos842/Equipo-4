@@ -30,6 +30,7 @@
 #### Artefacto 1: Lista de requerimientos funcionales
 
  - [x] Se estableció una línea base. 
+ <a><"html
  - [x] Las solicitudes de cambio de los requerimientos funcionales se encuentran documentadas.
  - [x] Existe un responsable de aceptar o rechazar los cambios en la lista de requerimientos funcionales. 
  - [ ] La razón de cada uno de los cambios en los requerimientos y/o el rechazo de ellos se encuentra documentada. 
@@ -58,8 +59,9 @@
  - [x] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTcxODAyMywtNTEyOTQ2NDIzLDU0NT
-ExNDM5NywyMDA3OTY2MDQ4LDU2OTUwNzY0OSwtNTQ2NTU3Mzk5
-LC03NzQzODg2ODcsMTgwODU1NjcyNywxMTUwODk4NjAwLC0xNT
-E1ODA4NTM1LC0xODc0MDIxNTQ4LDIyNzg1NTE1OF19
+eyJoaXN0b3J5IjpbNTE0MDA4NDk1LC0xNDU3MTgwMjMsLTUxMj
+k0NjQyMyw1NDUxMTQzOTcsMjAwNzk2NjA0OCw1Njk1MDc2NDks
+LTU0NjU1NzM5OSwtNzc0Mzg4Njg3LDE4MDg1NTY3MjcsMTE1MD
+g5ODYwMCwtMTUxNTgwODUzNSwtMTg3NDAyMTU0OCwyMjc4NTUx
+NThdfQ==
 -->
