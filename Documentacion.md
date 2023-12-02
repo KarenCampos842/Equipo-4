@@ -51,15 +51,15 @@
  - [x] El estado de todas las solicitudes de cambio se encuentra documentada.
  - [x] El estado de la implementación de los cambios aprobados se encuentra documentada.
  - [ ] Los cambios realizados en los casos de uso se encuentran documentados. 
- - [ ] La fecha y el responsable de cada uno de los cambios en los casos de uso se encuentra documentada. 
- - [ ] Los casos de uso se encuentran versionados. 
- - [ ] Únicamente los cambios aprobados están reflejados en la línea base. 
- - [ ] Únicamente se han entregado las versiones actualizadas de los los casos de uso. 
- - [ ] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
- - [ ] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
+ - [x] La fecha y el responsable de cada uno de los cambios en los casos de uso se encuentra documentada. 
+ - [x] Los casos de uso se encuentran versionados. 
+ - [x] Únicamente los cambios aprobados están reflejados en la línea base. 
+ - [x] Únicamente se han entregado las versiones actualizadas de los los casos de uso. 
+ - [x] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
+ - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg2MTM5NzUsLTUxMjk0NjQyMyw1ND
-UxMTQzOTcsMjAwNzk2NjA0OCw1Njk1MDc2NDksLTU0NjU1NzM5
-OSwtNzc0Mzg4Njg3LDE4MDg1NTY3MjcsMTE1MDg5ODYwMCwtMT
-UxNTgwODUzNSwtMTg3NDAyMTU0OCwyMjc4NTUxNThdfQ==
+eyJoaXN0b3J5IjpbLTE0NTcxODAyMywtNTEyOTQ2NDIzLDU0NT
+ExNDM5NywyMDA3OTY2MDQ4LDU2OTUwNzY0OSwtNTQ2NTU3Mzk5
+LC03NzQzODg2ODcsMTgwODU1NjcyNywxMTUwODk4NjAwLC0xNT
+E1ODA4NTM1LC0xODc0MDIxNTQ4LDIyNzg1NTE1OF19
 -->
