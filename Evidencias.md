@@ -166,7 +166,7 @@ Estado de la solicitud/implementación (#117): <a href="https://github.com/Karen
 
 ### Versiones/Cambios reflejados/Entregas (versiones actualizadas)
 
-#### Tercera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#casos-de-uso">Requisitos.md</a>
+#### Tercera entrega (N: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#casos-de-uso">Requisitos.md</a>
 
 #### Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#casos-de-uso">Requisitos.md</a>
 
@@ -174,5 +174,5 @@ Estado de la solicitud/implementación (#117): <a href="https://github.com/Karen
 
 #### Tercera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#casos-de-uso">Requisitos.md</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxMTY3OTU4LDEzNDcyOTAxMl19
+eyJoaXN0b3J5IjpbNTI5OTU0MTM0LDEzNDcyOTAxMl19
 -->
