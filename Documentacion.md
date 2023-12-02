@@ -34,7 +34,7 @@
  - [ ] Existe un responsable de aceptar o rechazar los cambios en la lista de requerimientos funcionales. 
  - [ ] La razón de cada uno de los cambios en los requerimientos y/o el rechazo de ellos se encuentra documentada. 
  - [ ] El estado de todas las solicitudes de cambio se encuentra documentada.
- - [ ] • Estado de la implementaci´on de los cambios aprobados
+ - [ ] El estado de la implementación de los cambios aprobados se encuentra documentada.
  - [ ] Los cambios realizados en la lista de requerimientos funcionales se encuentran documentados. 
  - [ ] La fecha y el responsable de cada uno de los cambios en los requerimientos se encuentra documentada. 
  - [ ] La lista de requerimientos funcionales se encuentra versionada. 
@@ -43,8 +43,7 @@
  - [ ] Actualmente se está trabajando sobre la versión actualizada de la lista de requerimientos. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI1Nzc1MjUsNTY5NTA3NjQ5LC01ND
-Y1NTczOTksLTc3NDM4ODY4NywxODA4NTU2NzI3LDExNTA4OTg2
-MDAsLTE1MTU4MDg1MzUsLTE4NzQwMjE1NDgsMjI3ODU1MTU4XX
-0=
+eyJoaXN0b3J5IjpbNTg3ODU4MzA0LDU2OTUwNzY0OSwtNTQ2NT
+U3Mzk5LC03NzQzODg2ODcsMTgwODU1NjcyNywxMTUwODk4NjAw
+LC0xNTE1ODA4NTM1LC0xODc0MDIxNTQ4LDIyNzg1NTE1OF19
 -->
