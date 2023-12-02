@@ -7,11 +7,12 @@
 > **Tema:** *Con respecto al proyecto que estás llevando a cabo, realiza una estimación que abarque el esfuerzo requerido, los costes asociados (incluyendo la asignación de salarios acorde a las funciones y experiencia de cada miembro del equipo, indique la referencia utilizada para el cálculo de los salarios ) y el tiempo necesario. Para ello, emplea la técnica de puntos de función basada en el método COSMIC y aplícala a un sprint de tu elección.*
 
 
-**Trabajador**
+**Perfil de trabajador**
 
 -   RF-1. Perfiles.
 Entrada: Seleccionar la opción para registrarse. 
-Salida: Mostrar e
+Salida: Mostrar en pantalla las opciones para registrarse como trabajador o cliente. 
+Entrada: Seleccionar la opción para registrarse como trabajador. 
 
 
 
@@ -89,11 +90,11 @@ Salida: Mostrar e
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2OTMzODcwLDEzMzgzNjE1MzIsLTM2OD
-AxNDg3NSwtOTE1ODU3OTE1LC0yODE5MjgwODUsMTkyMDY2MzMz
-NywxODg4NDI3MDIyLDEwNjUwODUxOTYsLTE0NTcxODAyMywtNT
-EyOTQ2NDIzLDU0NTExNDM5NywyMDA3OTY2MDQ4LDU2OTUwNzY0
-OSwtNTQ2NTU3Mzk5LC03NzQzODg2ODcsMTgwODU1NjcyNywxMT
-UwODk4NjAwLC0xNTE1ODA4NTM1LC0xODc0MDIxNTQ4LDIyNzg1
-NTE1OF19
+eyJoaXN0b3J5IjpbLTIxMzU2NDE2NDMsMTMzODM2MTUzMiwtMz
+Y4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTkyODA4NSwxOTIwNjYz
+MzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5NiwtMTQ1NzE4MDIzLC
+01MTI5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5NjYwNDgsNTY5NTA3
+NjQ5LC01NDY1NTczOTksLTc3NDM4ODY4NywxODA4NTU2NzI3LD
+ExNTA4OTg2MDAsLTE1MTU4MDg1MzUsLTE4NzQwMjE1NDgsMjI3
+ODU1MTU4XX0=
 -->
