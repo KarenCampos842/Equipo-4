@@ -21,14 +21,15 @@ Entrada: Ingresar apellido paterno.
 Entrada: Ingresar apellido materno. 
 Entrada: Ingresar correo. 
 Entrada: Seleccionar guardar datos y continuar. 
-Escritura: Crear un registro con los nombre(s)  del usuario con perfil de trabajador. 
-Escritura: Crear un registro con el apellido paterno  del usuario con perfil de trabajador. 
-Escritura: Crear un registro con el apellido materno del usuario con perfil de trabajador. 
-Escritura: Crear un registro con el correo  del usuario de perfil de trabajador (llave). 
+Escritura: Crear un registro en la base de datos con los nombre(s)  del usuario con perfil de trabajador. 
+Escritura: Crear un registro en la base de datos con el apellido paterno  del usuario con perfil de trabajador. 
+Escritura: Crear un registro en la base de datos con el apellido materno del usuario con perfil de trabajador. 
+Escritura: Crear un registro en la base de datos con el correo  del usuario de perfil de trabajador (llave). 
 Salida: Mostrar en ventana la opción para seleccionar una identificación oficial de registro (Cartilla Militar o INE) y el espacio para cargar una fotografía actual. 
 Entrada: Seleccionar una opción de identificación oficial (Cartilla Militar/INE). 
-Entrada: Carga de documentos de identificación oficial  (Cartilla Militar/INE). 
-Escritura: Crear un registro con el documento de identificación oficial del usuario (Cartilla Militar/INE). 
+Entrada: Carga de documento de identificación oficial  (Cartilla Militar/INE). 
+Escritura: Crear un registro  en la base de datos con el documento de identificación oficial del usuario (Cartilla Militar/INE). 
+
 
 
 ### WBS
@@ -104,7 +105,7 @@ Escritura: Crear un registro con el documento de identificación oficial del usu
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0OTUxOTkyLDU3NDU5NTI3NiwxNzY5ND
+eyJoaXN0b3J5IjpbMjc0MzEwNDY4LDU3NDU5NTI3NiwxNzY5ND
 I0MDExLDU4MTU4NjYxOSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUs
 LTkxNTg1NzkxNSwtMjgxOTI4MDg1LDE5MjA2NjMzMzcsMTg4OD
 QyNzAyMiwxMDY1MDg1MTk2LC0xNDU3MTgwMjMsLTUxMjk0NjQy
