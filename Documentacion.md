@@ -72,7 +72,9 @@ Entrada: Ingresar una descripción sobre los trabajos que realiza como trabajado
 
 Entrada: Seleccionar la opción de guardar cambios y continuar. 
 
-Escr
+Escritura: Crear un registro en la base de datos con el trabajo/ocupación que el usuario halla seleccionado. 
+
+Escritura: Crear un registro en la base de datos con la zona de trabajo que el usuario halla seleccionado. 
 
 
 ### WBS
@@ -148,11 +150,11 @@ Escr
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTAzMzIwMjEsMTkzMjYyMDE5MSwtMT
-cxMDczNDU3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2
-MTksMTMzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLT
-I4MTkyODA4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4
-NTE5NiwtMTQ1NzE4MDIzLC01MTI5NDY0MjMsNTQ1MTE0Mzk3LD
-IwMDc5NjYwNDgsNTY5NTA3NjQ5LC01NDY1NTczOTksLTc3NDM4
-ODY4N119
+eyJoaXN0b3J5IjpbMTM4MDgyMTE2NSwxOTMyNjIwMTkxLC0xNz
+EwNzM0NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLDU4MTU4NjYx
+OSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1NzkxNSwtMj
+gxOTI4MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwxMDY1MDg1
+MTk2LC0xNDU3MTgwMjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMj
+AwNzk2NjA0OCw1Njk1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4
+Njg3XX0=
 -->
