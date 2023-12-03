@@ -78,7 +78,8 @@ Escritura: Crear un registro en la base de datos de la zona de trabajo que el us
 
 Escritura: Crear un registro en la base de datos del teléfono del usuario. 
 
-Escritura: Crear un registro en la base de datos de la descripción trabajo que el usuario halla seleccionado. 
+Escritura: Crear un registro en la base de datos de la descripción sobre los servicios que ofrece el usuario como trabajador. 
+
 
 
 ### WBS
@@ -154,11 +155,11 @@ Escritura: Crear un registro en la base de datos de la descripción trabajo que 
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzU0NzMxNCwxOTMyNjIwMTkxLC0xNz
-EwNzM0NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLDU4MTU4NjYx
-OSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1NzkxNSwtMj
-gxOTI4MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwxMDY1MDg1
-MTk2LC0xNDU3MTgwMjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMj
-AwNzk2NjA0OCw1Njk1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4
-Njg3XX0=
+eyJoaXN0b3J5IjpbODQ2MjMwNDU4LDE5MzI2MjAxOTEsLTE3MT
+A3MzQ1NzksNTc0NTk1Mjc2LDE3Njk0MjQwMTEsNTgxNTg2NjE5
+LDEzMzgzNjE1MzIsLTM2ODAxNDg3NSwtOTE1ODU3OTE1LC0yOD
+E5MjgwODUsMTkyMDY2MzMzNywxODg4NDI3MDIyLDEwNjUwODUx
+OTYsLTE0NTcxODAyMywtNTEyOTQ2NDIzLDU0NTExNDM5NywyMD
+A3OTY2MDQ4LDU2OTUwNzY0OSwtNTQ2NTU3Mzk5LC03NzQzODg2
+ODddfQ==
 -->
