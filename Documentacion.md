@@ -113,11 +113,13 @@ Entrada: Seleccionar la opción de aceptar términos y condiciones.
 
 Entrada: Seleccionar la opción de continuar. 
 
-Proceso funcional: Creación de contraseña.
+***Proceso funcional:*** Creación de contraseña.
 
 Lectura: Leer el correo del usuario guardado en base de datos. 
 
-Sa
+Salida: Enviar al correo del usuario una contraseña generada automáticamente.  
+
+
 
 ### WBS
 
@@ -192,7 +194,7 @@ Sa
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTY0NDAwOCwxMDkyMzMyOTAzLDI5OT
+eyJoaXN0b3J5IjpbMjAyMDA3NzI5MCwxMDkyMzMyOTAzLDI5OT
 Y2MzIzNCwtMTQwNDQ3MTUyNywxOTMyNjIwMTkxLC0xNzEwNzM0
 NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLDU4MTU4NjYxOSwxMz
 M4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1NzkxNSwtMjgxOTI4
