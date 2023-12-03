@@ -52,7 +52,7 @@ Escritura: Crear un registro en la base de datos del documento de identificació
 
 Escritura: Crear un registro en la base de datos de la fotografía actual del usuario. 
 
-Salida: Mostrar en pantalla las opciones para seleccionar un oficio/ocupación, una zona de trabajo, los campos de teléfono y descripción de trabajo y la opción para guardar cambios y continuar. 
+Salida: Mostrar en pantalla las opciones para seleccionar un oficio/ocupación, una zona de trabajo, los campos de teléfono y de descripción sobre los servicios que ofrece el usuario como trabajador,  y la opción para guardar cambios y continuar. 
 
 Entrada: Seleccionar la opción para elegir un oficio/ocupación. 
 
@@ -68,7 +68,7 @@ Entrada: Seleccionar una opción de la lista desplegada.
 
 Entrada: Ingresar un teléfono. 
 
-Entrada: Ingresar una descripción sobre los trabajos que realiza como trabajador. 
+Entrada: Ingresar una descripción sobre los servicios que ofrece el usuario como trabajador. 
 
 Entrada: Seleccionar la opción de guardar cambios y continuar. 
 
@@ -78,7 +78,7 @@ Escritura: Crear un registro en la base de datos de la zona de trabajo que el us
 
 Escritura: Crear un registro en la base de datos del teléfono del usuario. 
 
-Escritura: Crear un registro en la base de datos con la zona de trabajo que el usuario halla seleccionado. 
+Escritura: Crear un registro en la base de datos de la descripción trabajo que el usuario halla seleccionado. 
 
 
 ### WBS
@@ -154,11 +154,11 @@ Escritura: Crear un registro en la base de datos con la zona de trabajo que el u
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAyOTU3NTAsMTkzMjYyMDE5MSwtMT
-cxMDczNDU3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2
-MTksMTMzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLT
-I4MTkyODA4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4
-NTE5NiwtMTQ1NzE4MDIzLC01MTI5NDY0MjMsNTQ1MTE0Mzk3LD
-IwMDc5NjYwNDgsNTY5NTA3NjQ5LC01NDY1NTczOTksLTc3NDM4
-ODY4N119
+eyJoaXN0b3J5IjpbMTU2MzU0NzMxNCwxOTMyNjIwMTkxLC0xNz
+EwNzM0NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLDU4MTU4NjYx
+OSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1NzkxNSwtMj
+gxOTI4MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwxMDY1MDg1
+MTk2LC0xNDU3MTgwMjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMj
+AwNzk2NjA0OCw1Njk1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4
+Njg3XX0=
 -->
