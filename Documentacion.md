@@ -91,7 +91,11 @@ Salida: Mostrar en pantalla una lista con los 12 meses del año.
 
 Entrada: Seleccionar una opción de la lista desplegada.  
 
-Entrada: Seleccionar la opción para elegir 
+Entrada: Seleccionar la opción para elegir el años de expiración de la tarjeta. 
+
+Salida. Mostrar en pantalla una lista con los años disponibles.
+
+Entrada: Seleccionar una opción de la lista desplegada. 
 
 
 ### WBS
@@ -167,11 +171,11 @@ Entrada: Seleccionar la opción para elegir
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzMzU2MTM1LDEwOTIzMzI5MDMsMjk5Nj
-YzMjM0LC0xNDA0NDcxNTI3LDE5MzI2MjAxOTEsLTE3MTA3MzQ1
-NzksNTc0NTk1Mjc2LDE3Njk0MjQwMTEsNTgxNTg2NjE5LDEzMz
-gzNjE1MzIsLTM2ODAxNDg3NSwtOTE1ODU3OTE1LC0yODE5Mjgw
-ODUsMTkyMDY2MzMzNywxODg4NDI3MDIyLDEwNjUwODUxOTYsLT
-E0NTcxODAyMywtNTEyOTQ2NDIzLDU0NTExNDM5NywyMDA3OTY2
-MDQ4XX0=
+eyJoaXN0b3J5IjpbLTEwNDA4Nzk2NTcsMTA5MjMzMjkwMywyOT
+k2NjMyMzQsLTE0MDQ0NzE1MjcsMTkzMjYyMDE5MSwtMTcxMDcz
+NDU3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2MTksMT
+MzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTky
+ODA4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5Ni
+wtMTQ1NzE4MDIzLC01MTI5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5
+NjYwNDhdfQ==
 -->
