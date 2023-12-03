@@ -122,9 +122,7 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
 
 **Puntos de función COSMIC:** 2 CFP.
 
-
-
-
+**Puntos de función COSMIC del sprint:** 53 CFP.
 
 
 ### WBS
@@ -200,11 +198,11 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjgxMDk3OCwtMTIwNDYwODM4NCwtMj
-EyNTg4MTEyNywxMDkyMzMyOTAzLDI5OTY2MzIzNCwtMTQwNDQ3
-MTUyNywxOTMyNjIwMTkxLC0xNzEwNzM0NTc5LDU3NDU5NTI3Ni
-wxNzY5NDI0MDExLDU4MTU4NjYxOSwxMzM4MzYxNTMyLC0zNjgw
-MTQ4NzUsLTkxNTg1NzkxNSwtMjgxOTI4MDg1LDE5MjA2NjMzMz
-csMTg4ODQyNzAyMiwxMDY1MDg1MTk2LC0xNDU3MTgwMjMsLTUx
-Mjk0NjQyM119
+eyJoaXN0b3J5IjpbLTE1MTgwMTk3ODYsLTEyMDQ2MDgzODQsLT
+IxMjU4ODExMjcsMTA5MjMzMjkwMywyOTk2NjMyMzQsLTE0MDQ0
+NzE1MjcsMTkzMjYyMDE5MSwtMTcxMDczNDU3OSw1NzQ1OTUyNz
+YsMTc2OTQyNDAxMSw1ODE1ODY2MTksMTMzODM2MTUzMiwtMzY4
+MDE0ODc1LC05MTU4NTc5MTUsLTI4MTkyODA4NSwxOTIwNjYzMz
+M3LDE4ODg0MjcwMjIsMTA2NTA4NTE5NiwtMTQ1NzE4MDIzLC01
+MTI5NDY0MjNdfQ==
 -->
