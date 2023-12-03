@@ -28,10 +28,11 @@ Escritura: Crear un registro en la base de datos con el correo  del usuario de p
 Salida: Mostrar en ventana la opción para seleccionar una identificación oficial de registro (Cartilla Militar o INE) y el espacio para cargar una fotografía actual. 
 Entrada: Seleccionar una opción de identificación oficial (Cartilla Militar/INE). 
 Entrada: Cargar un documento de identificación oficial  (Cartilla Militar/INE). 
-Escritura: Crear un registro en la base de datos con el documento de identificación oficial del usuario (Cartilla Militar/INE). 
 Entrada: Cargar una fotografía actual.
+Entrada: Seleccionar guardar datos y continuar. 
 Escritura: Crear un registro en la base de datos con el documento de identificación oficial del usuario (Cartilla Militar/INE). 
-
+Escritura: Crear un registro en la base de datos con la fotografía actual del usuario. 
+Salida: 
 
 ### WBS
 
@@ -106,7 +107,7 @@ Escritura: Crear un registro en la base de datos con el documento de identificac
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTYyMjg0MTQsNTc0NTk1Mjc2LDE3Nj
+eyJoaXN0b3J5IjpbLTE3MTA3MzQ1NzksNTc0NTk1Mjc2LDE3Nj
 k0MjQwMTEsNTgxNTg2NjE5LDEzMzgzNjE1MzIsLTM2ODAxNDg3
 NSwtOTE1ODU3OTE1LC0yODE5MjgwODUsMTkyMDY2MzMzNywxOD
 g4NDI3MDIyLDEwNjUwODUxOTYsLTE0NTcxODAyMywtNTEyOTQ2
