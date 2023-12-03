@@ -113,13 +113,18 @@ Entrada: Seleccionar la opción de aceptar términos y condiciones.
 
 Entrada: Seleccionar la opción de continuar. 
 
-Salida: Mostrar en pantalla el correo al que se ha enviado la contraseña del usuario y la opción para iniciar seci
-
 ***Proceso funcional:*** Creación de contraseña.
 
 Lectura: Leer el correo del usuario guardado en base de datos. 
 
 Salida: Enviar al correo del usuario una contraseña generada automáticamente.  
+
+***Proceso funcional:*** Iniciar sesión.
+
+Salida: Mostrar en pantalla el correo al que se ha enviado la contraseña del usuario y la opción para iniciar sesión. 
+
+
+
 
 
 
@@ -196,7 +201,7 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTM2MTMyNCwxMDkyMzMyOTAzLDI5OT
+eyJoaXN0b3J5IjpbMTU2ODY3ODI4MSwxMDkyMzMyOTAzLDI5OT
 Y2MzIzNCwtMTQwNDQ3MTUyNywxOTMyNjIwMTkxLC0xNzEwNzM0
 NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLDU4MTU4NjYxOSwxMz
 M4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1NzkxNSwtMjgxOTI4
