@@ -20,10 +20,11 @@ Entrada: Ingresar nombre(s).
 Entrada: Ingresar apellido paterno. 
 Entrada: Ingresar apellido materno. 
 Entrada: Ingresar correo. 
+L
 Escritura: Crear un registro con los nombre(s) para el usuario con perfil de trabajador. 
 Escritura: Crear un registro con el apellido paterno para el usuario con perfil de trabajador. 
 Escritura: Crear un registro con el apellido materno para el usuario con perfil de trabajador. 
-Escritura: Crear un registro d correo para el usuario con perfil de trabajador. 
+Escritura: Crear un registro con el correo para el usuario con perfil de trabajador. 
 
 
 
@@ -100,11 +101,11 @@ Escritura: Crear un registro d correo para el usuario con perfil de trabajador.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MzEwNjkyMiwxNzY5NDI0MDExLDU4MT
-U4NjYxOSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1Nzkx
-NSwtMjgxOTI4MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwxMD
-Y1MDg1MTk2LC0xNDU3MTgwMjMsLTUxMjk0NjQyMyw1NDUxMTQz
-OTcsMjAwNzk2NjA0OCw1Njk1MDc2NDksLTU0NjU1NzM5OSwtNz
-c0Mzg4Njg3LDE4MDg1NTY3MjcsMTE1MDg5ODYwMCwtMTUxNTgw
-ODUzNV19
+eyJoaXN0b3J5IjpbLTEwNDQ1ODkzNTksMTc2OTQyNDAxMSw1OD
+E1ODY2MTksMTMzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5
+MTUsLTI4MTkyODA4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMjIsMT
+A2NTA4NTE5NiwtMTQ1NzE4MDIzLC01MTI5NDY0MjMsNTQ1MTE0
+Mzk3LDIwMDc5NjYwNDgsNTY5NTA3NjQ5LC01NDY1NTczOTksLT
+c3NDM4ODY4NywxODA4NTU2NzI3LDExNTA4OTg2MDAsLTE1MTU4
+MDg1MzVdfQ==
 -->
