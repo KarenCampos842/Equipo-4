@@ -9,7 +9,7 @@
 
 **Perfil de trabajador**
 
-***Proceso funcional:*** Registrarse como trabajador en la aplicación.
+***Proceso funcional:*** Dar de alta en la aplicación un usuario con perfil de trabajador. 
 
  Entrada: Seleccionar la opción para registrarse. 
  
@@ -119,22 +119,6 @@ Lectura: Leer el correo del usuario guardado en base de datos.
 
 Salida: Enviar al correo del usuario una contraseña generada automáticamente.  
 
-***Proceso funcional:*** Iniciar sesión.
-
-Salida: Mostrar en pantalla el correo al que se ha enviado la contraseña del usuario y la opción para iniciar sesión. 
-
-Entrada: Seleccionar la opción de iniciar sesión.
-
-Salida: Mostrar en pantalla la ventana del log in.
-
-Entrada: Ingresar el correo proporcionado durante el registro. 
-
-Entrada: Ingresar la contraseña proporcionada. 
-
-Entrada: Seleccionar la opción de iniciar sesión.
-
-Lectura: Leer el correo y la contraseña ingresada, buscarla en la base de datos.  
-
 
 
 
@@ -215,11 +199,11 @@ Lectura: Leer el correo y la contraseña ingresada, buscarla en la base de datos
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjU4ODExMjcsMTA5MjMzMjkwMywyOT
-k2NjMyMzQsLTE0MDQ0NzE1MjcsMTkzMjYyMDE5MSwtMTcxMDcz
-NDU3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2MTksMT
-MzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTky
-ODA4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5Ni
-wtMTQ1NzE4MDIzLC01MTI5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5
-NjYwNDhdfQ==
+eyJoaXN0b3J5IjpbLTE5NTEzMzI1MjcsLTIxMjU4ODExMjcsMT
+A5MjMzMjkwMywyOTk2NjMyMzQsLTE0MDQ0NzE1MjcsMTkzMjYy
+MDE5MSwtMTcxMDczNDU3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMS
+w1ODE1ODY2MTksMTMzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4
+NTc5MTUsLTI4MTkyODA4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMj
+IsMTA2NTA4NTE5NiwtMTQ1NzE4MDIzLC01MTI5NDY0MjMsNTQ1
+MTE0Mzk3XX0=
 -->
