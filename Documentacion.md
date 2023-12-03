@@ -52,7 +52,11 @@ Escritura: Crear un registro en la base de datos con el documento de identificac
 
 Escritura: Crear un registro en la base de datos con la fotografía actual del usuario. 
 
-Salida: Mostrar en pantalla las opciones para seleccionar un oficio/ocupación y zona de trabajo, y los campos de teléfono y descripción de trabajo. 
+Salida: Mostrar en pantalla las opciones para seleccionar un oficio/ocupación, una zona de trabajo, y los campos de teléfono y descripción de trabajo. 
+
+Entrada: Seleccionar la opción para elegir un oficio/ocupación. 
+
+Salida: Mostrar en pantalla una 
 
 
 ### WBS
@@ -128,11 +132,11 @@ Salida: Mostrar en pantalla las opciones para seleccionar un oficio/ocupación y
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjYyMDE5MSwtMTcxMDczNDU3OSw1Nz
-Q1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2MTksMTMzODM2MTUz
-MiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTkyODA4NSwxOT
-IwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5NiwtMTQ1NzE4
-MDIzLC01MTI5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5NjYwNDgsNT
-Y5NTA3NjQ5LC01NDY1NTczOTksLTc3NDM4ODY4NywxODA4NTU2
-NzI3XX0=
+eyJoaXN0b3J5IjpbLTEzMDA5NDIwNTgsMTkzMjYyMDE5MSwtMT
+cxMDczNDU3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2
+MTksMTMzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLT
+I4MTkyODA4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4
+NTE5NiwtMTQ1NzE4MDIzLC01MTI5NDY0MjMsNTQ1MTE0Mzk3LD
+IwMDc5NjYwNDgsNTY5NTA3NjQ5LC01NDY1NTczOTksLTc3NDM4
+ODY4N119
 -->
