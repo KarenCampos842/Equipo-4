@@ -25,7 +25,7 @@ Escritura: Crear un registro con los nombre(s)  del usuario con perfil de trabaj
 Escritura: Crear un registro con el apellido paterno  del usuario con perfil de trabajador. 
 Escritura: Crear un registro con el apellido materno del usuario con perfil de trabajador. 
 Escritura: Crear un registro con el correo  del usuario de perfil de trabajador (llave). 
-Salida: Mostrar en ventana las opciones para seleccionar una identificación oficial para registrarse.
+Salida: Mostrar en ventana las opciones para seleccionar una identificación oficial de registro (Cartilla Militar o INE) y el espacio para cargar una fotografía actual. 
 
 
 ### WBS
@@ -101,11 +101,11 @@ Salida: Mostrar en ventana las opciones para seleccionar una identificación ofi
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0NTk1Mjc2LDE3Njk0MjQwMTEsNTgxNT
-g2NjE5LDEzMzgzNjE1MzIsLTM2ODAxNDg3NSwtOTE1ODU3OTE1
-LC0yODE5MjgwODUsMTkyMDY2MzMzNywxODg4NDI3MDIyLDEwNj
-UwODUxOTYsLTE0NTcxODAyMywtNTEyOTQ2NDIzLDU0NTExNDM5
-NywyMDA3OTY2MDQ4LDU2OTUwNzY0OSwtNTQ2NTU3Mzk5LC03Nz
-QzODg2ODcsMTgwODU1NjcyNywxMTUwODk4NjAwLC0xNTE1ODA4
-NTM1XX0=
+eyJoaXN0b3J5IjpbLTE4MDU0MTg3ODcsNTc0NTk1Mjc2LDE3Nj
+k0MjQwMTEsNTgxNTg2NjE5LDEzMzgzNjE1MzIsLTM2ODAxNDg3
+NSwtOTE1ODU3OTE1LC0yODE5MjgwODUsMTkyMDY2MzMzNywxOD
+g4NDI3MDIyLDEwNjUwODUxOTYsLTE0NTcxODAyMywtNTEyOTQ2
+NDIzLDU0NTExNDM5NywyMDA3OTY2MDQ4LDU2OTUwNzY0OSwtNT
+Q2NTU3Mzk5LC03NzQzODg2ODcsMTgwODU1NjcyNywxMTUwODk4
+NjAwXX0=
 -->
