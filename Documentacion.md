@@ -52,7 +52,7 @@ Escritura: Crear un registro en la base de datos con el documento de identificac
 
 Escritura: Crear un registro en la base de datos con la fotografía actual del usuario. 
 
-Salida: Mostrar en pantalla las opciones para seleccionar un oficio/ocupación, una zona de trabajo, y los campos de teléfono y descripción de trabajo. 
+Salida: Mostrar en pantalla las opciones para seleccionar un oficio/ocupación, una zona de trabajo, los campos de teléfono y descripción de trabajo y la opción para guardar cambios y continuar. 
 
 Entrada: Seleccionar la opción para elegir un oficio/ocupación. 
 
@@ -66,9 +66,11 @@ Salida: Mostrar en pantalla una lista de todos las zonas de trabajo disponibles 
 
 Entrada: Seleccionar una opción de la lista desplegada.  
 
-Entrada: Ingresar un teléfono en el campo de teléfono. 
+Entrada: Ingresar un teléfono. 
 
 Entrada: Ingresar una descripción sobre los trabajos que realiza como trabajador. 
+
+Entrada
 
 
 ### WBS
@@ -144,7 +146,7 @@ Entrada: Ingresar una descripción sobre los trabajos que realiza como trabajado
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzkzNjMwNywxOTMyNjIwMTkxLC0xNz
+eyJoaXN0b3J5IjpbMTE1Nzg2NTU2MCwxOTMyNjIwMTkxLC0xNz
 EwNzM0NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLDU4MTU4NjYx
 OSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1NzkxNSwtMj
 gxOTI4MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwxMDY1MDg1
