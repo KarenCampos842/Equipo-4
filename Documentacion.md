@@ -87,7 +87,9 @@ Entrada: Ingresar CVV.
 
 Entrada: Seleccionar la opción para elegir el mes de expiración de la tarjeta. 
 
-Salida: Mostrar en pantalla una lista para  
+Salida: Mostrar en pantalla una lista con los 12 meses del año. 
+
+Entrada: Seleccionar una opción de la lista desplegada.  
 
 
 ### WBS
@@ -163,7 +165,7 @@ Salida: Mostrar en pantalla una lista para
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDM4NjY4NSwxMDkyMzMyOTAzLDI5OT
+eyJoaXN0b3J5IjpbMTA3ODk3NzgyNSwxMDkyMzMyOTAzLDI5OT
 Y2MzIzNCwtMTQwNDQ3MTUyNywxOTMyNjIwMTkxLC0xNzEwNzM0
 NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLDU4MTU4NjYxOSwxMz
 M4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1NzkxNSwtMjgxOTI4
