@@ -18,7 +18,7 @@
 
 **RF-3. Registro del trabajador:**
 
-Salida: Mostrar en pantalla los campos nombre(s), apellido materno, apellido paterno,  apellido materno y correo. 
+Salida: Mostrar en pantalla los campos nombre(s), apellido materno, apellido paterno,  apellido materno, correo y la opción para guardar cambios y continuar. 
 
 Entrada: Ingresar nombre(s). 
 
@@ -38,7 +38,7 @@ Escritura: Crear un registro en la base de datos con el apellido materno del usu
 
 Escritura: Crear un registro en la base de datos con el correo  del usuario de perfil de trabajador (llave). 
 
-Salida: Mostrar en pantalla la opción para seleccionar una identificación oficial de registro (Cartilla Militar o INE) y el espacio para cargar una fotografía actual. 
+Salida: Mostrar en pantalla la opción para seleccionar una identificación oficial de registro (Cartilla Militar o INE), el espacio para cargar una fotografía actual y la opción para guardar cambios y continuar. 
 
 Entrada: Seleccionar una opción de identificación oficial (Cartilla Militar/INE). 
 
@@ -70,7 +70,9 @@ Entrada: Ingresar un teléfono.
 
 Entrada: Ingresar una descripción sobre los trabajos que realiza como trabajador. 
 
-Entrada
+Entrada: Seleccionar la opción de guardar cambios y continuar. 
+
+Escr
 
 
 ### WBS
@@ -146,11 +148,11 @@ Entrada
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Nzg2NTU2MCwxOTMyNjIwMTkxLC0xNz
-EwNzM0NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLDU4MTU4NjYx
-OSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1NzkxNSwtMj
-gxOTI4MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwxMDY1MDg1
-MTk2LC0xNDU3MTgwMjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMj
-AwNzk2NjA0OCw1Njk1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4
-Njg3XX0=
+eyJoaXN0b3J5IjpbLTEzNTAzMzIwMjEsMTkzMjYyMDE5MSwtMT
+cxMDczNDU3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2
+MTksMTMzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLT
+I4MTkyODA4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4
+NTE5NiwtMTQ1NzE4MDIzLC01MTI5NDY0MjMsNTQ1MTE0Mzk3LD
+IwMDc5NjYwNDgsNTY5NTA3NjQ5LC01NDY1NTczOTksLTc3NDM4
+ODY4N119
 -->
