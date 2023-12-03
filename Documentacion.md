@@ -79,7 +79,7 @@ Escritura: Crear un registro en la base de datos del teléfono del usuario.
 
 Escritura: Crear un registro en la base de datos de la descripción sobre los servicios que ofrece el usuario como trabajador. 
 
-Salida: Mostrar en pantalla los campos de número de tarjeta y CVV, y las opciones para elegir mes y año de expiración de la tarjeta.
+Salida: Mostrar en pantalla los campos de número de tarjeta y CVV,  las opciones para seleccionar mes y año de expiración de la tarjeta.
 
 Entrada: Ingresar un número de tarjeta. 
 
@@ -171,7 +171,7 @@ Entrada: Seleccionar una opción de la lista desplegada.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA4Nzk2NTcsMTA5MjMzMjkwMywyOT
+eyJoaXN0b3J5IjpbLTE4ODgzODc0NDIsMTA5MjMzMjkwMywyOT
 k2NjMyMzQsLTE0MDQ0NzE1MjcsMTkzMjYyMDE5MSwtMTcxMDcz
 NDU3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2MTksMT
 MzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTky
