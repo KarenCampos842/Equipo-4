@@ -99,7 +99,13 @@ Entrada: Seleccionar una opción de la lista desplegada.
 
 Entrada: Seleccionar la opción de guardar cambios y continuar. 
 
-Escritura: Crear un registro en la base 
+Escritura: Crear un registro en la base de datos del número de tarjeta del usuario. 
+
+Escritura: Crear un registro en la base de datos del CVV de la tarjeta del usuario. 
+
+Escritura: Crear un registro en la base de datos del mes de expiración de la tarjeta del usuario. 
+
+Escritura: Crear un registro en la base de datos del año de expiración de la tarjeta del usuario. 
 
 ### WBS
 
@@ -174,11 +180,11 @@ Escritura: Crear un registro en la base
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTcyMDI4NywxMDkyMzMyOTAzLDI5OT
-Y2MzIzNCwtMTQwNDQ3MTUyNywxOTMyNjIwMTkxLC0xNzEwNzM0
-NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLDU4MTU4NjYxOSwxMz
-M4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1NzkxNSwtMjgxOTI4
-MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwxMDY1MDg1MTk2LC
-0xNDU3MTgwMjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNzk2
-NjA0OF19
+eyJoaXN0b3J5IjpbLTE1NjY0NjQxNTQsMTA5MjMzMjkwMywyOT
+k2NjMyMzQsLTE0MDQ0NzE1MjcsMTkzMjYyMDE5MSwtMTcxMDcz
+NDU3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2MTksMT
+MzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTky
+ODA4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5Ni
+wtMTQ1NzE4MDIzLC01MTI5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5
+NjYwNDhdfQ==
 -->
