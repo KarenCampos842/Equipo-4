@@ -25,7 +25,7 @@ Escritura: Crear un registro con los nombre(s)  del usuario con perfil de trabaj
 Escritura: Crear un registro con el apellido paterno  del usuario con perfil de trabajador. 
 Escritura: Crear un registro con el apellido materno del usuario con perfil de trabajador. 
 Escritura: Crear un registro con el correo  del usuario de perfil de trabajador (llave). 
-Salida: 
+Salida: Mostrar en ventana las opciones para seleccionar una identificación oficial para registrarse.
 
 
 ### WBS
@@ -101,11 +101,11 @@ Salida:
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTY3NzE0MSwxNzY5NDI0MDExLDU4MT
-U4NjYxOSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1Nzkx
-NSwtMjgxOTI4MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwxMD
-Y1MDg1MTk2LC0xNDU3MTgwMjMsLTUxMjk0NjQyMyw1NDUxMTQz
-OTcsMjAwNzk2NjA0OCw1Njk1MDc2NDksLTU0NjU1NzM5OSwtNz
-c0Mzg4Njg3LDE4MDg1NTY3MjcsMTE1MDg5ODYwMCwtMTUxNTgw
-ODUzNV19
+eyJoaXN0b3J5IjpbNTc0NTk1Mjc2LDE3Njk0MjQwMTEsNTgxNT
+g2NjE5LDEzMzgzNjE1MzIsLTM2ODAxNDg3NSwtOTE1ODU3OTE1
+LC0yODE5MjgwODUsMTkyMDY2MzMzNywxODg4NDI3MDIyLDEwNj
+UwODUxOTYsLTE0NTcxODAyMywtNTEyOTQ2NDIzLDU0NTExNDM5
+NywyMDA3OTY2MDQ4LDU2OTUwNzY0OSwtNTQ2NTU3Mzk5LC03Nz
+QzODg2ODcsMTgwODU1NjcyNywxMTUwODk4NjAwLC0xNTE1ODA4
+NTM1XX0=
 -->
