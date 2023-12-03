@@ -18,10 +18,6 @@
 
 **RF-3. Registro del trabajador:**
 
-Salida: Mostrar en pantalla top navbar con opciones para volver a la página anterior y a la ventana del log in. 
-
-Entrada: Seleccionar la opción 
-
 Salida: Mostrar en pantalla los campos nombre(s), apellido materno, apellido paterno,  apellido materno, correo y la opción para guardar cambios y continuar. 
 
 Entrada: Ingresar nombre(s). 
@@ -159,11 +155,11 @@ Escritura: Crear un registro en la base de datos de la descripción sobre los se
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjMzMjkwMywyOTk2NjMyMzQsLTE0MD
-Q0NzE1MjcsMTkzMjYyMDE5MSwtMTcxMDczNDU3OSw1NzQ1OTUy
-NzYsMTc2OTQyNDAxMSw1ODE1ODY2MTksMTMzODM2MTUzMiwtMz
-Y4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTkyODA4NSwxOTIwNjYz
-MzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5NiwtMTQ1NzE4MDIzLC
-01MTI5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5NjYwNDgsNTY5NTA3
-NjQ5XX0=
+eyJoaXN0b3J5IjpbODQ2MjMwNDU4LDEwOTIzMzI5MDMsMjk5Nj
+YzMjM0LC0xNDA0NDcxNTI3LDE5MzI2MjAxOTEsLTE3MTA3MzQ1
+NzksNTc0NTk1Mjc2LDE3Njk0MjQwMTEsNTgxNTg2NjE5LDEzMz
+gzNjE1MzIsLTM2ODAxNDg3NSwtOTE1ODU3OTE1LC0yODE5Mjgw
+ODUsMTkyMDY2MzMzNywxODg4NDI3MDIyLDEwNjUwODUxOTYsLT
+E0NTcxODAyMywtNTEyOTQ2NDIzLDU0NTExNDM5NywyMDA3OTY2
+MDQ4XX0=
 -->
