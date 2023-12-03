@@ -30,13 +30,13 @@ Entrada: Ingresar correo.
 
 Entrada: Seleccionar guardar datos y continuar. 
 
-Escritura: Crear un registro en la base de datos con los nombre(s)  del usuario con perfil de trabajador. 
+Escritura: Crear un registro en la base de datos de los nombre(s)  del usuario con perfil de trabajador. 
 
-Escritura: Crear un registro en la base de datos con el apellido paterno  del usuario con perfil de trabajador. 
+Escritura: Crear un registro en la base de datos del apellido paterno  del usuario con perfil de trabajador. 
 
-Escritura: Crear un registro en la base de datos con el apellido materno del usuario con perfil de trabajador. 
+Escritura: Crear un registro en la base de datos del apellido materno del usuario con perfil de trabajador. 
 
-Escritura: Crear un registro en la base de datos con el correo  del usuario de perfil de trabajador (llave). 
+Escritura: Crear un registro en la base de datos del correo  del usuario de perfil de trabajador (llave). 
 
 Salida: Mostrar en pantalla la opción para seleccionar una identificación oficial de registro (Cartilla Militar o INE), el espacio para cargar una fotografía actual y la opción para guardar cambios y continuar. 
 
@@ -48,9 +48,9 @@ Entrada: Cargar una fotografía actual.
 
 Entrada: Seleccionar guardar datos y continuar. 
 
-Escritura: Crear un registro en la base de datos con el documento de identificación oficial del usuario (Cartilla Militar/INE). 
+Escritura: Crear un registro en la base de datos del documento de identificación oficial del usuario (Cartilla Militar/INE). 
 
-Escritura: Crear un registro en la base de datos con la fotografía actual del usuario. 
+Escritura: Crear un registro en la base de datos de la fotografía actual del usuario. 
 
 Salida: Mostrar en pantalla las opciones para seleccionar un oficio/ocupación, una zona de trabajo, los campos de teléfono y descripción de trabajo y la opción para guardar cambios y continuar. 
 
@@ -72,9 +72,11 @@ Entrada: Ingresar una descripción sobre los trabajos que realiza como trabajado
 
 Entrada: Seleccionar la opción de guardar cambios y continuar. 
 
-Escritura: Crear un registro en la base de datos con el trabajo/ocupación que el usuario halla seleccionado. 
+Escritura: Crear un registro en la base de datos del trabajo/ocupación que el usuario halla seleccionado. 
 
-Escritura: Crear un registro en la base de datos con la zona de trabajo que el usuario halla seleccionado. 
+Escritura: Crear un registro en la base de datos de la zona de trabajo que el usuario halla seleccionado. 
+
+Escritura: Crear un registro en la base de datos de la zona de trabajo que el usuario halla seleccionado. 
 
 
 ### WBS
@@ -150,11 +152,11 @@ Escritura: Crear un registro en la base de datos con la zona de trabajo que el u
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDgyMTE2NSwxOTMyNjIwMTkxLC0xNz
-EwNzM0NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLDU4MTU4NjYx
-OSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1NzkxNSwtMj
-gxOTI4MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwxMDY1MDg1
-MTk2LC0xNDU3MTgwMjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMj
-AwNzk2NjA0OCw1Njk1MDc2NDksLTU0NjU1NzM5OSwtNzc0Mzg4
-Njg3XX0=
+eyJoaXN0b3J5IjpbNjQ5MjIyMjIxLDE5MzI2MjAxOTEsLTE3MT
+A3MzQ1NzksNTc0NTk1Mjc2LDE3Njk0MjQwMTEsNTgxNTg2NjE5
+LDEzMzgzNjE1MzIsLTM2ODAxNDg3NSwtOTE1ODU3OTE1LC0yOD
+E5MjgwODUsMTkyMDY2MzMzNywxODg4NDI3MDIyLDEwNjUwODUx
+OTYsLTE0NTcxODAyMywtNTEyOTQ2NDIzLDU0NTExNDM5NywyMD
+A3OTY2MDQ4LDU2OTUwNzY0OSwtNTQ2NTU3Mzk5LC03NzQzODg2
+ODddfQ==
 -->
