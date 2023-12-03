@@ -85,7 +85,9 @@ Entrada: Ingresar un número de tarjeta.
 
 Entrada: Ingresar CVV. 
 
-Entrada: Seleccionar la opción para elegir mes de expiración de la tarjeta. 
+Entrada: Seleccionar la opción para elegir el mes de expiración de la tarjeta. 
+
+Salida: Mostrar en pantalla una lista para  
 
 
 ### WBS
@@ -161,11 +163,11 @@ Entrada: Seleccionar la opción para elegir mes de expiración de la tarjeta.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjYxNDY2NDUsMTA5MjMzMjkwMywyOT
-k2NjMyMzQsLTE0MDQ0NzE1MjcsMTkzMjYyMDE5MSwtMTcxMDcz
-NDU3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2MTksMT
-MzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTky
-ODA4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5Ni
-wtMTQ1NzE4MDIzLC01MTI5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5
-NjYwNDhdfQ==
+eyJoaXN0b3J5IjpbLTUzNDM4NjY4NSwxMDkyMzMyOTAzLDI5OT
+Y2MzIzNCwtMTQwNDQ3MTUyNywxOTMyNjIwMTkxLC0xNzEwNzM0
+NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLDU4MTU4NjYxOSwxMz
+M4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1NzkxNSwtMjgxOTI4
+MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwxMDY1MDg1MTk2LC
+0xNDU3MTgwMjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNzk2
+NjA0OF19
 -->
