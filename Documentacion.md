@@ -130,6 +130,7 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
 > **Tema:** *Aplica el WBS para las historias de usuario o casos de uso en un sprint de tu elección y contempla que los paquetes de trabajo contengan : idWBS, nombre, duración, costo estimado*
 
 
+
 ### Diagrama Grantt
 > **Tema:** *Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad)*
 
@@ -198,11 +199,11 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTgwMTk3ODYsLTEyMDQ2MDgzODQsLT
-IxMjU4ODExMjcsMTA5MjMzMjkwMywyOTk2NjMyMzQsLTE0MDQ0
-NzE1MjcsMTkzMjYyMDE5MSwtMTcxMDczNDU3OSw1NzQ1OTUyNz
-YsMTc2OTQyNDAxMSw1ODE1ODY2MTksMTMzODM2MTUzMiwtMzY4
-MDE0ODc1LC05MTU4NTc5MTUsLTI4MTkyODA4NSwxOTIwNjYzMz
-M3LDE4ODg0MjcwMjIsMTA2NTA4NTE5NiwtMTQ1NzE4MDIzLC01
-MTI5NDY0MjNdfQ==
+eyJoaXN0b3J5IjpbLTE3MTk2ODQ0NDQsLTE1MTgwMTk3ODYsLT
+EyMDQ2MDgzODQsLTIxMjU4ODExMjcsMTA5MjMzMjkwMywyOTk2
+NjMyMzQsLTE0MDQ0NzE1MjcsMTkzMjYyMDE5MSwtMTcxMDczND
+U3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2MTksMTMz
+ODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTkyOD
+A4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5Niwt
+MTQ1NzE4MDIzXX0=
 -->
