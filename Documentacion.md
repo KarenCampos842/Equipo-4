@@ -91,6 +91,8 @@ Salida: Mostrar en pantalla una lista con los 12 meses del año.
 
 Entrada: Seleccionar una opción de la lista desplegada.  
 
+Entrada: Seleccionar la opción para elegir 
+
 
 ### WBS
 
@@ -165,11 +167,11 @@ Entrada: Seleccionar una opción de la lista desplegada.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODk3NzgyNSwxMDkyMzMyOTAzLDI5OT
-Y2MzIzNCwtMTQwNDQ3MTUyNywxOTMyNjIwMTkxLC0xNzEwNzM0
-NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLDU4MTU4NjYxOSwxMz
-M4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1NzkxNSwtMjgxOTI4
-MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwxMDY1MDg1MTk2LC
-0xNDU3MTgwMjMsLTUxMjk0NjQyMyw1NDUxMTQzOTcsMjAwNzk2
-NjA0OF19
+eyJoaXN0b3J5IjpbNzMzMzU2MTM1LDEwOTIzMzI5MDMsMjk5Nj
+YzMjM0LC0xNDA0NDcxNTI3LDE5MzI2MjAxOTEsLTE3MTA3MzQ1
+NzksNTc0NTk1Mjc2LDE3Njk0MjQwMTEsNTgxNTg2NjE5LDEzMz
+gzNjE1MzIsLTM2ODAxNDg3NSwtOTE1ODU3OTE1LC0yODE5Mjgw
+ODUsMTkyMDY2MzMzNywxODg4NDI3MDIyLDEwNjUwODUxOTYsLT
+E0NTcxODAyMywtNTEyOTQ2NDIzLDU0NTExNDM5NywyMDA3OTY2
+MDQ4XX0=
 -->
