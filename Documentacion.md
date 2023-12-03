@@ -79,7 +79,7 @@ Escritura: Crear un registro en la base de datos del teléfono del usuario.
 
 Escritura: Crear un registro en la base de datos de la descripción sobre los servicios que ofrece el usuario como trabajador. 
 
-
+Mostrar en pantalla los campos de número de tarjeta, CVV, 
 
 ### WBS
 
@@ -154,7 +154,7 @@ Escritura: Crear un registro en la base de datos de la descripción sobre los se
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNzg4NDgyLDEwOTIzMzI5MDMsMjk5Nj
+eyJoaXN0b3J5IjpbLTI0ODkyMDY2LDEwOTIzMzI5MDMsMjk5Nj
 YzMjM0LC0xNDA0NDcxNTI3LDE5MzI2MjAxOTEsLTE3MTA3MzQ1
 NzksNTc0NTk1Mjc2LDE3Njk0MjQwMTEsNTgxNTg2NjE5LDEzMz
 gzNjE1MzIsLTM2ODAxNDg3NSwtOTE1ODU3OTE1LC0yODE5Mjgw
