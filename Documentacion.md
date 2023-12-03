@@ -20,9 +20,11 @@ Entrada: Ingresar nombre(s).
 Entrada: Ingresar apellido paterno. 
 Entrada: Ingresar apellido materno. 
 Entrada: Ingresar correo. 
-Escritura: Crear un registro de nombre(s) para el usuario con perfil de trabajador. 
-Escritura: Crear un registro de apellido paterno para el usuario con perfil de trabajador. 
-Escritura: Crear un registro de apellido materno para el usuario con perfil de trabajador. 
+Escritura: Crear un registro con los nombre(s) para el usuario con perfil de trabajador. 
+Escritura: Crear un registro con el apellido paterno para el usuario con perfil de trabajador. 
+Escritura: Crear un registro con el apellido materno para el usuario con perfil de trabajador. 
+Escritura: Crear un registro d correo para el usuario con perfil de trabajador. 
+
 
 
 ### WBS
@@ -98,7 +100,7 @@ Escritura: Crear un registro de apellido materno para el usuario con perfil de t
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTA1NDM5NiwxNzY5NDI0MDExLDU4MT
+eyJoaXN0b3J5IjpbLTI3MzEwNjkyMiwxNzY5NDI0MDExLDU4MT
 U4NjYxOSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1Nzkx
 NSwtMjgxOTI4MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwxMD
 Y1MDg1MTk2LC0xNDU3MTgwMjMsLTUxMjk0NjQyMyw1NDUxMTQz
