@@ -112,13 +112,15 @@ Entrada: Seleccionar la opción de aceptar términos y condiciones.
 
 Entrada: Seleccionar la opción de continuar. 
 
+**Puntos de función COSMIC:** 51 CFP.
+
 ***Proceso funcional:*** Creación de contraseña.
 
 Lectura: Leer el correo del usuario guardado en base de datos. 
 
 Salida: Enviar al correo del usuario una contraseña generada automáticamente.  
 
-**Puntos de función COSMIC:** 9 CFP.
+**Puntos de función COSMIC:** 2 CFP.
 
 
 
@@ -198,11 +200,11 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ2MDgzODQsLTIxMjU4ODExMjcsMT
-A5MjMzMjkwMywyOTk2NjMyMzQsLTE0MDQ0NzE1MjcsMTkzMjYy
-MDE5MSwtMTcxMDczNDU3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMS
-w1ODE1ODY2MTksMTMzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4
-NTc5MTUsLTI4MTkyODA4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMj
-IsMTA2NTA4NTE5NiwtMTQ1NzE4MDIzLC01MTI5NDY0MjMsNTQ1
-MTE0Mzk3XX0=
+eyJoaXN0b3J5IjpbLTYwMjgxMDk3OCwtMTIwNDYwODM4NCwtMj
+EyNTg4MTEyNywxMDkyMzMyOTAzLDI5OTY2MzIzNCwtMTQwNDQ3
+MTUyNywxOTMyNjIwMTkxLC0xNzEwNzM0NTc5LDU3NDU5NTI3Ni
+wxNzY5NDI0MDExLDU4MTU4NjYxOSwxMzM4MzYxNTMyLC0zNjgw
+MTQ4NzUsLTkxNTg1NzkxNSwtMjgxOTI4MDg1LDE5MjA2NjMzMz
+csMTg4ODQyNzAyMiwxMDY1MDg1MTk2LC0xNDU3MTgwMjMsLTUx
+Mjk0NjQyM119
 -->
