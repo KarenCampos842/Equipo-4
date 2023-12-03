@@ -62,6 +62,12 @@ Entrada: Seleccionar una opción de la lista desplegada.
 
 Entrada: Seleccionar la opción para elegir una zona de trabajo. 
 
+Salida: Mostrar en pantalla una lista de todos las zonas de trabajo disponibles (municipios de Yucatán). 
+
+Entrada: Seleccionar una opción de la lista desplegada.  
+
+Entrada: Escri
+
 
 ### WBS
 
@@ -136,7 +142,7 @@ Entrada: Seleccionar la opción para elegir una zona de trabajo.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM1ODkwMDcsMTkzMjYyMDE5MSwtMT
+eyJoaXN0b3J5IjpbLTE4MzQxMDk0MzMsMTkzMjYyMDE5MSwtMT
 cxMDczNDU3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2
 MTksMTMzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLT
 I4MTkyODA4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4
