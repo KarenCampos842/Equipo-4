@@ -6,6 +6,8 @@
 
 > **Tema:** *Con respecto al proyecto que estás llevando a cabo, realiza una estimación que abarque el esfuerzo requerido, los costes asociados (incluyendo la asignación de salarios acorde a las funciones y experiencia de cada miembro del equipo, indique la referencia utilizada para el cálculo de los salarios ) y el tiempo necesario. Para ello, emplea la técnica de puntos de función basada en el método COSMIC y aplícala a un sprint de tu elección.*
 
+**Procesos funcionales para el sprint:** 
+
 ***Proceso funcional:*** Dar de alta en la aplicación un usuario con perfil de trabajador. 
 
  Entrada: Seleccionar la opción para registrarse. 
@@ -116,7 +118,7 @@ Lectura: Leer el correo del usuario guardado en base de datos.
 
 Salida: Enviar al correo del usuario una contraseña generada automáticamente.  
 
-
+**Puntos de función COSMIC:** 9 CFP.
 
 
 
@@ -196,11 +198,11 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTQzODcyMiwtMjEyNTg4MTEyNywxMD
-kyMzMyOTAzLDI5OTY2MzIzNCwtMTQwNDQ3MTUyNywxOTMyNjIw
-MTkxLC0xNzEwNzM0NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLD
-U4MTU4NjYxOSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1
-NzkxNSwtMjgxOTI4MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMi
-wxMDY1MDg1MTk2LC0xNDU3MTgwMjMsLTUxMjk0NjQyMyw1NDUx
-MTQzOTddfQ==
+eyJoaXN0b3J5IjpbLTEyMDQ2MDgzODQsLTIxMjU4ODExMjcsMT
+A5MjMzMjkwMywyOTk2NjMyMzQsLTE0MDQ0NzE1MjcsMTkzMjYy
+MDE5MSwtMTcxMDczNDU3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMS
+w1ODE1ODY2MTksMTMzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4
+NTc5MTUsLTI4MTkyODA4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMj
+IsMTA2NTA4NTE5NiwtMTQ1NzE4MDIzLC01MTI5NDY0MjMsNTQ1
+MTE0Mzk3XX0=
 -->
