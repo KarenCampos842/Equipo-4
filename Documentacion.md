@@ -133,7 +133,7 @@ Entrada: Ingresar la contraseña proporcionada.
 
 Entrada: Seleccionar la opción de iniciar sesión.
 
-Lectura: Leer el correo y la contraseña ingresada en la base de datos.  
+Lectura: Leer el correo y la contraseña ingresada, buscarla en la base de datos.  
 
 
 
@@ -215,7 +215,7 @@ Lectura: Leer el correo y la contraseña ingresada en la base de datos.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTYyOTkzMzgsMTA5MjMzMjkwMywyOT
+eyJoaXN0b3J5IjpbLTIxMjU4ODExMjcsMTA5MjMzMjkwMywyOT
 k2NjMyMzQsLTE0MDQ0NzE1MjcsMTkzMjYyMDE5MSwtMTcxMDcz
 NDU3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2MTksMT
 MzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTky
