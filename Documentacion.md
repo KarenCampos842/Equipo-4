@@ -32,7 +32,7 @@ Entrada: Cargar una fotografía actual.
 Entrada: Seleccionar guardar datos y continuar. 
 Escritura: Crear un registro en la base de datos con el documento de identificación oficial del usuario (Cartilla Militar/INE). 
 Escritura: Crear un registro en la base de datos con la fotografía actual del usuario. 
-Salida: 
+Salida: Mostrar en pantalla
 
 ### WBS
 
@@ -107,11 +107,11 @@ Salida:
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA3MzQ1NzksNTc0NTk1Mjc2LDE3Nj
-k0MjQwMTEsNTgxNTg2NjE5LDEzMzgzNjE1MzIsLTM2ODAxNDg3
-NSwtOTE1ODU3OTE1LC0yODE5MjgwODUsMTkyMDY2MzMzNywxOD
-g4NDI3MDIyLDEwNjUwODUxOTYsLTE0NTcxODAyMywtNTEyOTQ2
-NDIzLDU0NTExNDM5NywyMDA3OTY2MDQ4LDU2OTUwNzY0OSwtNT
-Q2NTU3Mzk5LC03NzQzODg2ODcsMTgwODU1NjcyNywxMTUwODk4
-NjAwXX0=
+eyJoaXN0b3J5IjpbLTExMDc1NTE1NTksLTE3MTA3MzQ1NzksNT
+c0NTk1Mjc2LDE3Njk0MjQwMTEsNTgxNTg2NjE5LDEzMzgzNjE1
+MzIsLTM2ODAxNDg3NSwtOTE1ODU3OTE1LC0yODE5MjgwODUsMT
+kyMDY2MzMzNywxODg4NDI3MDIyLDEwNjUwODUxOTYsLTE0NTcx
+ODAyMywtNTEyOTQ2NDIzLDU0NTExNDM5NywyMDA3OTY2MDQ4LD
+U2OTUwNzY0OSwtNTQ2NTU3Mzk5LC03NzQzODg2ODcsMTgwODU1
+NjcyN119
 -->
