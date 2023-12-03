@@ -155,9 +155,9 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
  - [x] Existe un responsable de aceptar o rechazar los cambios en la lista de requerimientos funcionales y no funcionales. 
  <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#solicitudes-de-cambioresponsable-de-aceptar-los-cambios">Evidencia</a>
  - [ ] La razón de cada uno de los cambios en los requerimientos y/o el rechazo de ellos se encuentra documentada. 
- - [x] El estado de todas las solicitudes de cambio se encuentra documentada.
+ - [x] El estado de todas las solicitudes de cambio se encuentra documentado.
  <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#estado-de-solicitudes-e-implementaci%C3%B3n">Evidencia</a>
- - [x] El estado de la implementación de los cambios aprobados se encuentra documentada.
+ - [x] El estado de la implementación de los cambios aprobados se encuentra documentado.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#estado-de-solicitudes-e-implementaci%C3%B3n">Evidencia</a>
  - [x] Los cambios realizados en la lista de requerimientos funcionales y no funcionales  se encuentran documentados. 
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#cambios-realizados">Evidencia</a>
@@ -181,9 +181,9 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
  - [x] Existe un responsable de aceptar o rechazar los cambios en los casos de uso.
    <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#solicitudes-de-cambioresponsable-de-aceptar-los-cambios-1">Evidencia</a> 
  - [ ] La razón de cada uno de los cambios en los casos de uso y/o el rechazo de ellos se encuentra documentada. 
- - [x] El estado de todas las solicitudes de cambio se encuentra documentada.
+ - [x] El estado de todas las solicitudes de cambio se encuentra documentado.
    <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#estado-de-solicitudes-e-implementaci%C3%B3n-1">Evidencia</a>
- - [x] El estado de la implementación de los cambios aprobados se encuentra documentada.
+ - [x] El estado de la implementación de los cambios aprobados se encuentra documentado.
     <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#estado-de-solicitudes-e-implementaci%C3%B3n-1">Evidencia</a>
  - [x] Los cambios realizados en los casos de uso se encuentran documentados. 
     <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evidencias.md#cambios-realizados-1">Evidencia</a>
@@ -199,11 +199,11 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTk2ODQ0NDQsLTE1MTgwMTk3ODYsLT
-EyMDQ2MDgzODQsLTIxMjU4ODExMjcsMTA5MjMzMjkwMywyOTk2
-NjMyMzQsLTE0MDQ0NzE1MjcsMTkzMjYyMDE5MSwtMTcxMDczND
-U3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2MTksMTMz
-ODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTkyOD
-A4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5Niwt
-MTQ1NzE4MDIzXX0=
+eyJoaXN0b3J5IjpbLTk5NjMxNDcxNiwtMTcxOTY4NDQ0NCwtMT
+UxODAxOTc4NiwtMTIwNDYwODM4NCwtMjEyNTg4MTEyNywxMDky
+MzMyOTAzLDI5OTY2MzIzNCwtMTQwNDQ3MTUyNywxOTMyNjIwMT
+kxLC0xNzEwNzM0NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLDU4
+MTU4NjYxOSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1Nz
+kxNSwtMjgxOTI4MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwx
+MDY1MDg1MTk2XX0=
 -->
