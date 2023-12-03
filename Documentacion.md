@@ -56,7 +56,11 @@ Salida: Mostrar en pantalla las opciones para seleccionar un oficio/ocupación, 
 
 Entrada: Seleccionar la opción para elegir un oficio/ocupación. 
 
-Salida: Mostrar en pantalla una 
+Salida: Mostrar en pantalla una lista de todos los oficios/ocupaciones disponibles. 
+
+Entrada: Seleccionar una opción de la lista desplegada.  
+
+Entrada: Seleccionar la opción para elegir una zona de trabajo. 
 
 
 ### WBS
@@ -132,7 +136,7 @@ Salida: Mostrar en pantalla una
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA5NDIwNTgsMTkzMjYyMDE5MSwtMT
+eyJoaXN0b3J5IjpbLTEyODM1ODkwMDcsMTkzMjYyMDE5MSwtMT
 cxMDczNDU3OSw1NzQ1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2
 MTksMTMzODM2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLT
 I4MTkyODA4NSwxOTIwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4
