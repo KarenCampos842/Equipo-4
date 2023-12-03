@@ -27,7 +27,8 @@ Escritura: Crear un registro con el apellido materno del usuario con perfil de t
 Escritura: Crear un registro con el correo  del usuario de perfil de trabajador (llave). 
 Salida: Mostrar en ventana la opción para seleccionar una identificación oficial de registro (Cartilla Militar o INE) y el espacio para cargar una fotografía actual. 
 Entrada: Seleccionar una opción de identificación oficial (Cartilla Militar/INE). 
-Entrada: Carga de documetn
+Entrada: Carga de documentos de identificación oficial  (Cartilla Militar/INE). 
+Escritura: Crear un registro con el documento de identificación oficial del usuario (Cartilla Militar/INE). 
 
 
 ### WBS
@@ -103,11 +104,11 @@ Entrada: Carga de documetn
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTA1OTM0OTEsNTc0NTk1Mjc2LDE3Nj
-k0MjQwMTEsNTgxNTg2NjE5LDEzMzgzNjE1MzIsLTM2ODAxNDg3
-NSwtOTE1ODU3OTE1LC0yODE5MjgwODUsMTkyMDY2MzMzNywxOD
-g4NDI3MDIyLDEwNjUwODUxOTYsLTE0NTcxODAyMywtNTEyOTQ2
-NDIzLDU0NTExNDM5NywyMDA3OTY2MDQ4LDU2OTUwNzY0OSwtNT
-Q2NTU3Mzk5LC03NzQzODg2ODcsMTgwODU1NjcyNywxMTUwODk4
-NjAwXX0=
+eyJoaXN0b3J5IjpbMjc0OTUxOTkyLDU3NDU5NTI3NiwxNzY5ND
+I0MDExLDU4MTU4NjYxOSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUs
+LTkxNTg1NzkxNSwtMjgxOTI4MDg1LDE5MjA2NjMzMzcsMTg4OD
+QyNzAyMiwxMDY1MDg1MTk2LC0xNDU3MTgwMjMsLTUxMjk0NjQy
+Myw1NDUxMTQzOTcsMjAwNzk2NjA0OCw1Njk1MDc2NDksLTU0Nj
+U1NzM5OSwtNzc0Mzg4Njg3LDE4MDg1NTY3MjcsMTE1MDg5ODYw
+MF19
 -->
