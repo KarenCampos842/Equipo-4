@@ -17,11 +17,12 @@
  - **RF-3. Registro del trabajador:**
 Salida: Mostrar en pantalla los campos nombre(s), apellido materno, apellido paterno,  apellido materno y correo. 
 Entrada: Ingresar nombre(s). 
-Entrada: Ingresar apellido materno. 
 Entrada: Ingresar apellido paterno. 
+Entrada: Ingresar apellido materno. 
 Entrada: Ingresar correo. 
 Escritura: Crear un registro de nombre(s) para el usuario con perfil de trabajador. 
-
+Escritura: Crear un registro de apellido paterno para el usuario con perfil de trabajador. 
+Escritura: Crear un registro de apellido materno para el usuario con perfil de trabajador. 
 
 
 ### WBS
@@ -97,11 +98,11 @@ Escritura: Crear un registro de nombre(s) para el usuario con perfil de trabajad
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTQyNDAxMSw1ODE1ODY2MTksMTMzOD
-M2MTUzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTkyODA4
-NSwxOTIwNjYzMzM3LDE4ODg0MjcwMjIsMTA2NTA4NTE5NiwtMT
-Q1NzE4MDIzLC01MTI5NDY0MjMsNTQ1MTE0Mzk3LDIwMDc5NjYw
-NDgsNTY5NTA3NjQ5LC01NDY1NTczOTksLTc3NDM4ODY4NywxOD
-A4NTU2NzI3LDExNTA4OTg2MDAsLTE1MTU4MDg1MzUsLTE4NzQw
-MjE1NDhdfQ==
+eyJoaXN0b3J5IjpbMTIwNTA1NDM5NiwxNzY5NDI0MDExLDU4MT
+U4NjYxOSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1Nzkx
+NSwtMjgxOTI4MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwxMD
+Y1MDg1MTk2LC0xNDU3MTgwMjMsLTUxMjk0NjQyMyw1NDUxMTQz
+OTcsMjAwNzk2NjA0OCw1Njk1MDc2NDksLTU0NjU1NzM5OSwtNz
+c0Mzg4Njg3LDE4MDg1NTY3MjcsMTE1MDg5ODYwMCwtMTUxNTgw
+ODUzNV19
 -->
