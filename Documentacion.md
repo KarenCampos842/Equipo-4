@@ -9,30 +9,51 @@
 
 **Perfil de trabajador**
 
- -   **RF-1. Perfiles:**
+**RF-1. Perfiles:**
  Entrada: Seleccionar la opción para registrarse. 
+ 
  Salida: Mostrar en pantalla las opciones para registrarse como trabajador o cliente.
+ 
  Entrada: Seleccionar la opción para registrarse como trabajador. 
 
- - **RF-3. Registro del trabajador:**
+**RF-3. Registro del trabajador:**
+
 Salida: Mostrar en pantalla los campos nombre(s), apellido materno, apellido paterno,  apellido materno y correo. 
+
 Entrada: Ingresar nombre(s). 
+
 Entrada: Ingresar apellido paterno. 
+
 Entrada: Ingresar apellido materno. 
+
 Entrada: Ingresar correo. 
+
 Entrada: Seleccionar guardar datos y continuar. 
+
 Escritura: Crear un registro en la base de datos con los nombre(s)  del usuario con perfil de trabajador. 
+
 Escritura: Crear un registro en la base de datos con el apellido paterno  del usuario con perfil de trabajador. 
+
 Escritura: Crear un registro en la base de datos con el apellido materno del usuario con perfil de trabajador. 
+
 Escritura: Crear un registro en la base de datos con el correo  del usuario de perfil de trabajador (llave). 
-Salida: Mostrar en ventana la opción para seleccionar una identificación oficial de registro (Cartilla Militar o INE) y el espacio para cargar una fotografía actual. 
+
+Salida: Mostrar en pantalla la opción para seleccionar una identificación oficial de registro (Cartilla Militar o INE) y el espacio para cargar una fotografía actual. 
+
 Entrada: Seleccionar una opción de identificación oficial (Cartilla Militar/INE). 
-Entrada: Cargar un documento de identificación oficial  (Cartilla Militar/INE). 
+
+Entrada: Cargar un documento de identificación oficial  (Cartilla Militar/INE).
+ 
 Entrada: Cargar una fotografía actual.
+
 Entrada: Seleccionar guardar datos y continuar. 
+
 Escritura: Crear un registro en la base de datos con el documento de identificación oficial del usuario (Cartilla Militar/INE). 
+
 Escritura: Crear un registro en la base de datos con la fotografía actual del usuario. 
-Salida: Mostrar en pantalla
+
+Salida: Mostrar en pantalla las opciones para seleccionar 
+
 
 ### WBS
 
@@ -107,7 +128,7 @@ Salida: Mostrar en pantalla
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDc1NTE1NTksLTE3MTA3MzQ1NzksNT
+eyJoaXN0b3J5IjpbLTE4MTA1MDYzMjcsLTE3MTA3MzQ1NzksNT
 c0NTk1Mjc2LDE3Njk0MjQwMTEsNTgxNTg2NjE5LDEzMzgzNjE1
 MzIsLTM2ODAxNDg3NSwtOTE1ODU3OTE1LC0yODE5MjgwODUsMT
 kyMDY2MzMzNywxODg4NDI3MDIyLDEwNjUwODUxOTYsLTE0NTcx
