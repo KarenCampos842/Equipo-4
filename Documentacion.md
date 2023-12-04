@@ -146,6 +146,37 @@ Este modelo propone una jerarquía de niveles, en forma de un árbol con tres ra
 
 
 
+McCall
+
+El modelo fue escrito por Richards y Walters en 1977, se basa en reflejar perspectivas del desarrollador y del usuario e Identifica los atributos clave desde el punto de vista del usuario llamado factores de calidad y los divide en 3: 
+
+- Revisión (Habilidad para ser cambiado)
+
+- Operación (Características de Operativas) 
+
+- Transición (Adaptabilidad a un nuevo ambiente)
+
+Los factores de calidad se miden atreves de métricas que se calculan de forma dicotómica las cuales se contestan por una o varias personas por lo que esto puede implicar subjetividad.
+
+<table>
+ <tr> 
+   <td>Ventajas</td> 
+  <td>Desventajas</td> 
+ </tr>
+
+  <tr> 
+   <td>Relación directa entre los desarrolladores y usuarios. </td> 
+  <td>La subjetividad. </td> 
+ </tr>
+
+  <tr> 
+   <td>En foque en el producto final y la opinión del usuario. </td> 
+  <td>No siempre existe una relación perfectamente lineal entre los valores métricos y las características que se quieren medir. </td> 
+ </tr>
+</table>
+
+ 
+
 ## Configuración
 
 ###  Auditoría
@@ -204,12 +235,14 @@ Este modelo propone una jerarquía de niveles, en forma de un árbol con tres ra
  - [x] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjMxNDcxNiwtMTcxOTY4NDQ0NCwtMT
-UxODAxOTc4NiwtMTIwNDYwODM4NCwtMjEyNTg4MTEyNywxMDky
-MzMyOTAzLDI5OTY2MzIzNCwtMTQwNDQ3MTUyNywxOTMyNjIwMT
-kxLC0xNzEwNzM0NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLDU4
-MTU4NjYxOSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1Nz
-kxNSwtMjgxOTI4MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwx
-MDY1MDg1MTk2XX0=
--->
+
+---
+**Referencias**
+
+ales.(2018).Modelo McCall. https://modelomccalladsi.blogspot.com/2018/03/el-modelo-de-mccall.html
+
+JORGE JAIR MORENO.(26 de marzo de 2010).Exploración de Modelos y Estándares de calidad para el producto software. https://revistas.uis.edu.co/index.php/revistauisingenierias/article/view/1055/1434
+
+PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un proyecto de software.* PMOinformatica.com. http://www.pmoinformatica.com/2018/03/ejemplos-de-estimacion-de-costos-de-un-proyecto-de-software-COSMIC.html
+
+
