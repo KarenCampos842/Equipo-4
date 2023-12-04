@@ -247,5 +247,5 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjAwMjI3MTVdfQ==
+eyJoaXN0b3J5IjpbLTk0Nzk1NzQwMl19
 -->
