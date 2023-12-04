@@ -7,11 +7,17 @@
 
 **Roles:
 Scrum Master: (Senior)** Moises Loria
+<br> 
 **Tester/QA: (Senior)** Carlos Romero
+<br> 
 **Developer: (Senior)** Hansony Maldonado
+<br> 
 **Developer: (Intermedio)** Brandon Suarez
+<br> 
 **UI/UX Designer: (Senior)** Kendrick Cárdenas
+<br> 
 **Product manager: (Senior)** Karen Campos
+<br> 
 
 Velocidad del Equipo en trabajos anteriores = (Suma Total de Puntos Cósmicos Completados)​ / (Número Total de Sprints)
 V.P.M = 120/2 = 60 = La velocidad del equipo es de hacer 60 puntos Cósmicos en 1 sprint de 2 semanas.
@@ -279,7 +285,7 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTU1MTYyNiwtMTU2MDg5MDAyMSwtMT
+eyJoaXN0b3J5IjpbMTUzNzY2ODMxNiwtMTU2MDg5MDAyMSwtMT
 A5OTA4MTIxMyw1NDM4NDg0NjIsNzYxNjQ1OTkxLDEwNjM1NDE4
 OCwtMTM4MDExNjI1LC05OTQ2MjgzODksLTE3MjAwMjI3MTVdfQ
 ==
