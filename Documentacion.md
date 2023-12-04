@@ -128,7 +128,7 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
 ### WBS
 > **Tema:** *Aplica el WBS para las historias de usuario o casos de uso en un sprint de tu elección y contempla que los paquetes de trabajo contengan : idWBS, nombre, duración, costo estimado*
 <br>
-![wbs1](https://github.com/KarenCampos842/Equipo-4/assets/143466135/334d21ac-6441-43c5-ae61-ce6878007c78)
+![wbs1](https://github.com/KarenCampos842/Equipo-4/assets/143466135/fac4654c-fe56-4c89-acc3-2b9546dcfc26)
 <br>
 ![wbs2](https://github.com/KarenCampos842/Equipo-4/assets/143466135/ea35136e-5c21-454e-8dbb-8841f774dda8)
 
