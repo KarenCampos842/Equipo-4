@@ -5,12 +5,12 @@
 ### Estimación
 
 **Roles:
-Scrum Master:** (Moises Loria)
-Tester/QA:
-Developer:
+Scrum Master:** Moises Loria
+**Tester/QA: 
+Developer: (Senior) Hansony Mldon
 Developer:
 UI/UX Designer:
-Product manager:
+Product manager:**
 Velocidad Promedio del Equipo= (Suma Total de Puntos Cósmicos Completados)​ / (Número Total de Sprints)
 
 
@@ -257,7 +257,7 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTczODYyOCw3NjE2NDU5OTEsMTA2Mz
-U0MTg4LC0xMzgwMTE2MjUsLTk5NDYyODM4OSwtMTcyMDAyMjcx
-NV19
+eyJoaXN0b3J5IjpbMjIwMzk2MjQyLDc2MTY0NTk5MSwxMDYzNT
+QxODgsLTEzODAxMTYyNSwtOTk0NjI4Mzg5LC0xNzIwMDIyNzE1
+XX0=
 -->
