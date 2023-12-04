@@ -3,8 +3,59 @@
 ## Métodos de estimación
 
 ### Estimación
-
 > **Tema:** *Con respecto al proyecto que estás llevando a cabo, realiza una estimación que abarque el esfuerzo requerido, los costes asociados (incluyendo la asignación de salarios acorde a las funciones y experiencia de cada miembro del equipo, indique la referencia utilizada para el cálculo de los salarios ) y el tiempo necesario. Para ello, emplea la técnica de puntos de función basada en el método COSMIC y aplícala a un sprint de tu elección.*
+
+**Roles:
+<br> 
+Scrum Master: (Senior)** Moises Loria
+<br> 
+**Tester/QA: (Senior)** Carlos Romero
+<br> 
+**Developer: (Senior)** Hansony Maldonado
+<br> 
+**Developer: (Intermedio)** Brandon Suarez
+<br> 
+**UI/UX Designer: (Senior)** Kendrick Cárdenas
+<br> 
+**Product manager: (Senior)** Karen Campos
+<br> 
+
+Velocidad del Equipo en trabajos anteriores = (Suma Total de Puntos Cósmicos Completados)​ / (Número Total de Sprints)
+<br> 
+V.P.M = 120/2 = 60 = La velocidad del equipo es de hacer 60 puntos Cósmicos en 1 sprint de 2 semanas.
+
+Capacidad del equipo =Velocidad del Equipo×Número de Sprints Necesarios
+<br> 
+C.E= 60 × 1= La capacidad del equipo es 60 puntos cósmicos por 1 sprint de 2 semanas.
+<br> 
+
+Esfuerzo = 53 puntos Cósmicos.
+<br> 
+
+Cantidad de tiempo requerido (sprints) = (Velocidad del equipo) / (Cantidad de puntos cósmicos)
+<br> 
+C.T.R = 60 / 53 = 0.8833 sprint = La cantidad de tiempo requerido es de 1 Sprint de 2 semanas (basándonos en trabajos anteriores del equipo)
+
+Compensación por Punto Cósmicos =(Compensación Total Deseada)​ / (Puntos Cósmicos) 
+<br> 
+C.P= 90,100 / 53 = 1700 pesos por punto cósmico
+
+Salario del Trabajador por el sprint=Compensación por Punto Cósmico × Puntos Cósmicos que Contribuye el Trabajador
+<br> 
+Salario Hansony: 1700 × 11 = $18,700
+<br> 
+Salario Brandon: 1700 × 5 = $8,500
+<br> 
+Salario Moises: 1700 × 10 = $17,000
+<br> 
+Salario Karen: 1700 × 8 = $13,600
+<br> 
+Salario Carlos: 1700 × 10 = $17,000 
+<br> 
+Salario Kendrick: 1700 × 9 = $15,300
+
+
+
 
 **Procesos funcionales para el sprint:** 
 
@@ -247,8 +298,3 @@ JORGE JAIR MORENO.(26 de marzo de 2010).Exploración de Modelos y Estándares de
 
 PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un proyecto de software.* PMOinformatica.com. http://www.pmoinformatica.com/2018/03/ejemplos-de-estimacion-de-costos-de-un-proyecto-de-software-COSMIC.html
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjI5NjI1Myw0NzIwNTQ4NjMsLTk0Nz
-k1NzQwMl19
--->
