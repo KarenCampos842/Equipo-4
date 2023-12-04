@@ -9,14 +9,16 @@ Scrum Master: (Senior)** Moises Loria
 **Tester/QA: (Senior)** Carlos Romero
 **Developer: (Senior)** Hansony Maldonado
 **Developer: (Intermedio)** Brandon Suarez
-**UI/UX Designer: (Senior)** Kendrick Cardenas
+**UI/UX Designer: (Senior)** Kendrick Cárdenas
 **Product manager: (Senior)** Karen Campos
 
 Velocidad del Equipo en trabajos anteriores = (Suma Total de Puntos Cósmicos Completados)​ / (Número Total de Sprints)
 V.P.M = 120/2 = 60 = La velocidad del equipo es de hacer 60 puntos Cosmic en 1 sprint de 2 semanas.
 
 Capacidad del equipo =Velocidad del Equipo×Número de Sprints Necesarios
-C.E= 
+C.E= 60 × 1= 60 puntos cosmic por 1 sprint de 2 semanas.
+
+
 
 
 > **Tema:** *Con respecto al proyecto que estás llevando a cabo, realiza una estimación que abarque el esfuerzo requerido, los costes asociados (incluyendo la asignación de salarios acorde a las funciones y experiencia de cada miembro del equipo, indique la referencia utilizada para el cálculo de los salarios ) y el tiempo necesario. Para ello, emplea la técnica de puntos de función basada en el método COSMIC y aplícala a un sprint de tu elección.*
@@ -262,7 +264,7 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDY2NjY3LC0xMDk5MDgxMjEzLDU0Mz
+eyJoaXN0b3J5IjpbNTA2MjA5MDM2LC0xMDk5MDgxMjEzLDU0Mz
 g0ODQ2Miw3NjE2NDU5OTEsMTA2MzU0MTg4LC0xMzgwMTE2MjUs
 LTk5NDYyODM4OSwtMTcyMDAyMjcxNV19
 -->
