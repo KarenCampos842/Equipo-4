@@ -26,7 +26,7 @@ V.P.M = 120/2 = 60 = La velocidad del equipo es de hacer 60 puntos Cósmicos en 
 
 Capacidad del equipo =Velocidad del Equipo×Número de Sprints Necesarios
 <br> 
-C.E= 60 × 1= 60 puntos cósmicos por 1 sprint de 2 semanas.
+C.E= 60 × 1= La capacidad del equipo es 60 puntos cósmicos por 1 sprint de 2 semanas.
 <br> 
 
 Esfuerzo = 53 puntos Cósmicos.
@@ -34,7 +34,7 @@ Esfuerzo = 53 puntos Cósmicos.
 
 Cantidad de tiempo requerido (sprints) = (Velocidad del equipo) / (Cantidad de puntos cósmicos)
 <br> 
-C.T.R = 60 / 53 = 0.8833 sprint = 1 Sprint de 2 semanas (basándonos en trabajos anteriores del equipo)
+C.T.R = 60 / 53 = 0.8833 sprint = La cantidad de tiempo requerido es de 1 Sprint de 2 semanas (basándonos en trabajos anteriores del equipo)
 
 Compensación por Punto Cósmicos =(Compensación Total Deseada)​ / (Puntos Cósmicos) 
 <br> 
@@ -298,7 +298,8 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxNzQyMzgsLTE1NjA4OTAwMjEsLTEwOT
-kwODEyMTMsNTQzODQ4NDYyLDc2MTY0NTk5MSwxMDYzNTQxODgs
-LTEzODAxMTYyNSwtOTk0NjI4Mzg5LC0xNzIwMDIyNzE1XX0=
+eyJoaXN0b3J5IjpbOTM2MDQyOTIwLDc4MTc0MjM4LC0xNTYwOD
+kwMDIxLC0xMDk5MDgxMjEzLDU0Mzg0ODQ2Miw3NjE2NDU5OTEs
+MTA2MzU0MTg4LC0xMzgwMTE2MjUsLTk5NDYyODM4OSwtMTcyMD
+AyMjcxNV19
 -->
