@@ -26,7 +26,7 @@ C.T.R = 60 / 53 = 0.8833 sprint = 1 Sprint
 Compensación por Punto Cósmicos =(Compensación Total Deseada)​ / (Puntos Cósmicos) 
 C.P= 90,100 / 53 = 1700 pesos por punto cósmico
 
-Salario del Trabajador=Compensación por Punto Cósmico × Puntos Cósmicos que Contribuye el Trabajador
+Salario del Trabajador por el sprint=Compensación por Punto Cósmico × Puntos Cósmicos que Contribuye el Trabajador
 Salario Hansony: 1700 × 11 = $18,700
 Salario Brandon: 1700 × 5 = $8,500
 Salario Moises: 1700 × 10 = $17,000
@@ -278,7 +278,7 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDQ2ODI3LC0xMDk5MDgxMjEzLDU0Mz
-g0ODQ2Miw3NjE2NDU5OTEsMTA2MzU0MTg4LC0xMzgwMTE2MjUs
-LTk5NDYyODM4OSwtMTcyMDAyMjcxNV19
+eyJoaXN0b3J5IjpbLTE1NjA4OTAwMjEsLTEwOTkwODEyMTMsNT
+QzODQ4NDYyLDc2MTY0NTk5MSwxMDYzNTQxODgsLTEzODAxMTYy
+NSwtOTk0NjI4Mzg5LC0xNzIwMDIyNzE1XX0=
 -->
