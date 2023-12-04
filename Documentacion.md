@@ -3,6 +3,7 @@
 ## Métodos de estimación
 
 ### Estimación
+> **Tema:** *Con respecto al proyecto que estás llevando a cabo, realiza una estimación que abarque el esfuerzo requerido, los costes asociados (incluyendo la asignación de salarios acorde a las funciones y experiencia de cada miembro del equipo, indique la referencia utilizada para el cálculo de los salarios ) y el tiempo necesario. Para ello, emplea la técnica de puntos de función basada en el método COSMIC y aplícala a un sprint de tu elección.*
 
 **Roles:
 Scrum Master: (Senior)** Moises Loria
@@ -35,7 +36,7 @@ Salario Carlos: 1700 × 10 = $17,000
 Salario Kendrick: 1700 × 9 = $15,300
 
 
-> **Tema:** *Con respecto al proyecto que estás llevando a cabo, realiza una estimación que abarque el esfuerzo requerido, los costes asociados (incluyendo la asignación de salarios acorde a las funciones y experiencia de cada miembro del equipo, indique la referencia utilizada para el cálculo de los salarios ) y el tiempo necesario. Para ello, emplea la técnica de puntos de función basada en el método COSMIC y aplícala a un sprint de tu elección.*
+
 
 **Procesos funcionales para el sprint:** 
 
@@ -278,8 +279,8 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ2MTYwMDgsLTE1NjA4OTAwMjEsLT
-EwOTkwODEyMTMsNTQzODQ4NDYyLDc2MTY0NTk5MSwxMDYzNTQx
-ODgsLTEzODAxMTYyNSwtOTk0NjI4Mzg5LC0xNzIwMDIyNzE1XX
-0=
+eyJoaXN0b3J5IjpbMTQ0OTU1MTYyNiwtMTU2MDg5MDAyMSwtMT
+A5OTA4MTIxMyw1NDM4NDg0NjIsNzYxNjQ1OTkxLDEwNjM1NDE4
+OCwtMTM4MDExNjI1LC05OTQ2MjgzODksLTE3MjAwMjI3MTVdfQ
+==
 -->
