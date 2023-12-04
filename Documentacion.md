@@ -133,17 +133,9 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
 ### Diagrama Grantt
 > **Tema:** *Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad)*
 ![WhatsApp Image 2023-12-04 at 12 01 02 AM](https://github.com/KarenCampos842/Equipo-4/assets/143466135/ed484fcc-3093-4229-9d45-9e64052c0b51)
-
-<br>
 ![WhatsApp Image 2023-12-04 at 12 01 02 AM (1)](https://github.com/KarenCampos842/Equipo-4/assets/143466135/25317446-7084-4db6-8276-eca4422536e9)
-
-<br>
 ![WhatsApp Image 2023-12-04 at 12 01 03 AM](https://github.com/KarenCampos842/Equipo-4/assets/143466135/8ef3a197-d4df-488a-9904-3ff8ad121170)
-
-<br>
 ![WhatsApp Image 2023-12-04 at 12 01 03 AM (1)](https://github.com/KarenCampos842/Equipo-4/assets/143466135/6d861796-5b58-4edf-a221-406980711fd9)
-
-<br>
 ![WhatsApp Image 2023-12-04 at 12 01 03 AM (2)](https://github.com/KarenCampos842/Equipo-4/assets/143466135/b50618b7-55d5-4601-95d7-c83f4efd7e70)
 
 ## Calidad
