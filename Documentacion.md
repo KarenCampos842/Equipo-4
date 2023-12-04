@@ -12,8 +12,8 @@ Scrum Master: (Senior)** Moises Loria
 **UI/UX Designer: (Senior)** Kendrick Cardenas
 **Product manager: (Senior)** Karen Campos
 
-Velocidad Promedio del Equipo= (Suma Total de Puntos Cósmicos Completados)​ / (Número Total de Sprints)
-V.P.M = 60/53 = 0.88333 sprints = 1 sprint
+Velocidad Promedio del Equipo en trabajos anteriores = (Suma Total de Puntos Cósmicos Completados)​ / (Número Total de Sprints)
+V.P.M = 60/53 = 0.88333 sprints = 1 sprint de 2 semanas
 
 
 > **Tema:** *Con respecto al proyecto que estás llevando a cabo, realiza una estimación que abarque el esfuerzo requerido, los costes asociados (incluyendo la asignación de salarios acorde a las funciones y experiencia de cada miembro del equipo, indique la referencia utilizada para el cálculo de los salarios ) y el tiempo necesario. Para ello, emplea la técnica de puntos de función basada en el método COSMIC y aplícala a un sprint de tu elección.*
@@ -259,7 +259,7 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Nzk3ODQ1MCw3NjE2NDU5OTEsMTA2Mz
-U0MTg4LC0xMzgwMTE2MjUsLTk5NDYyODM4OSwtMTcyMDAyMjcx
-NV19
+eyJoaXN0b3J5IjpbNTQzODQ4NDYyLDc2MTY0NTk5MSwxMDYzNT
+QxODgsLTEzODAxMTYyNSwtOTk0NjI4Mzg5LC0xNzIwMDIyNzE1
+XX0=
 -->
