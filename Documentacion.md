@@ -189,7 +189,7 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
 ![WhatsApp Image 2023-12-04 at 12 01 03 AM (1)](https://github.com/KarenCampos842/Equipo-4/assets/143466135/6d861796-5b58-4edf-a221-406980711fd9)
 ![WhatsApp Image 2023-12-04 at 12 01 03 AM (2)](https://github.com/KarenCampos842/Equipo-4/assets/143466135/b50618b7-55d5-4601-95d7-c83f4efd7e70)
 
-https://moisesloriapechs-team.monday.com/boards/5617034606/views/123254998
+
 
 ## Calidad
 
