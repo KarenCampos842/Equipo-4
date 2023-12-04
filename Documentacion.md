@@ -130,7 +130,7 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
 <br>
 ![wbs1](https://github.com/KarenCampos842/Equipo-4/assets/143466135/fac4654c-fe56-4c89-acc3-2b9546dcfc26)
 <br>
-![wbs2](https://github.com/KarenCampos842/Equipo-4/assets/143466135/ea35136e-5c21-454e-8dbb-8841f774dda8)
+![wbs](https://github.com/KarenCampos842/Equipo-4/assets/143466135/ea35136e-5c21-454e-8dbb-8841f774dda8)
 
 ### Diagrama Grantt
 > **Tema:** *Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad)*
@@ -258,5 +258,5 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDQ4MjcyNl19
+eyJoaXN0b3J5IjpbMjMzNDgyNTEyLC04NDQ0ODI3MjZdfQ==
 -->
