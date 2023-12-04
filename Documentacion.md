@@ -6,6 +6,7 @@
 > **Tema:** *Con respecto al proyecto que estás llevando a cabo, realiza una estimación que abarque el esfuerzo requerido, los costes asociados (incluyendo la asignación de salarios acorde a las funciones y experiencia de cada miembro del equipo, indique la referencia utilizada para el cálculo de los salarios ) y el tiempo necesario. Para ello, emplea la técnica de puntos de función basada en el método COSMIC y aplícala a un sprint de tu elección.*
 
 **Roles:
+<br> 
 Scrum Master: (Senior)** Moises Loria
 <br> 
 **Tester/QA: (Senior)** Carlos Romero
@@ -297,8 +298,7 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzYxNDYwNiwtMTU2MDg5MDAyMSwtMT
-A5OTA4MTIxMyw1NDM4NDg0NjIsNzYxNjQ1OTkxLDEwNjM1NDE4
-OCwtMTM4MDExNjI1LC05OTQ2MjgzODksLTE3MjAwMjI3MTVdfQ
-==
+eyJoaXN0b3J5IjpbNzgxNzQyMzgsLTE1NjA4OTAwMjEsLTEwOT
+kwODEyMTMsNTQzODQ4NDYyLDc2MTY0NTk5MSwxMDYzNTQxODgs
+LTEzODAxMTYyNSwtOTk0NjI4Mzg5LC0xNzIwMDIyNzE1XX0=
 -->
