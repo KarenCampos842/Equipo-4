@@ -128,6 +128,7 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
 ### WBS
 
 ![wbs1](https://github.com/KarenCampos842/Equipo-4/assets/143466135/449db6ea-e663-4e55-98bb-76007e9cdbec)
+<br>
 ![wbs2](https://github.com/KarenCampos842/Equipo-4/assets/143466135/ea35136e-5c21-454e-8dbb-8841f774dda8)
 
 ### Diagrama Grantt
