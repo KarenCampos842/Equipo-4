@@ -23,8 +23,8 @@ Esfuerzo = 53 puntos Cósmicos.
 Cantidad de tiempo requerido (sprints) = (Velocidad del equipo) / (Cantidad de puntos cósmicos)
 C.T.R = 60 / 53 = 0.8833 sprint = 1 Sprint
 
-Compensación por Punto Cósmicos= (Puntos Cósmicos) / (Compensación Total Deseada)​
-C.P= 53
+Compensación por Punto Cósmicos =(Compensación Total Deseada)​ / (Puntos Cósmicos) 
+C.P= 90,100 / 53 = 1700 pesos por punto cósmico
 
 
 > **Tema:** *Con respecto al proyecto que estás llevando a cabo, realiza una estimación que abarque el esfuerzo requerido, los costes asociados (incluyendo la asignación de salarios acorde a las funciones y experiencia de cada miembro del equipo, indique la referencia utilizada para el cálculo de los salarios ) y el tiempo necesario. Para ello, emplea la técnica de puntos de función basada en el método COSMIC y aplícala a un sprint de tu elección.*
@@ -270,7 +270,7 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjY4OTY4NjMsLTEwOTkwODEyMTMsNT
+eyJoaXN0b3J5IjpbLTE5MDQ4NzQzMTUsLTEwOTkwODEyMTMsNT
 QzODQ4NDYyLDc2MTY0NTk5MSwxMDYzNTQxODgsLTEzODAxMTYy
 NSwtOTk0NjI4Mzg5LC0xNzIwMDIyNzE1XX0=
 -->
