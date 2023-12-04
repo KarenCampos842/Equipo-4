@@ -18,10 +18,12 @@ V.P.M = 120/2 = 60 = La velocidad del equipo es de hacer 60 puntos Cosmic en 1 s
 Capacidad del equipo =Velocidad del Equipo×Número de Sprints Necesarios
 C.E= 60 × 1= 60 puntos cosmic por 1 sprint de 2 semanas.
 
-
+Esfuerzo = 53 puntos Cosmic.
 
 Cantidad de tiempo requerido (sprints) = (Velocidad del equipo) / (Cantidad de puntos cosmicos)
 C.T.R = 60 / 53 = 0.8833 sprint = 1 Sprint
+
+
 
 
 > **Tema:** *Con respecto al proyecto que estás llevando a cabo, realiza una estimación que abarque el esfuerzo requerido, los costes asociados (incluyendo la asignación de salarios acorde a las funciones y experiencia de cada miembro del equipo, indique la referencia utilizada para el cálculo de los salarios ) y el tiempo necesario. Para ello, emplea la técnica de puntos de función basada en el método COSMIC y aplícala a un sprint de tu elección.*
@@ -267,7 +269,7 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgwNzAwMDgsLTEwOTkwODEyMTMsNT
-QzODQ4NDYyLDc2MTY0NTk5MSwxMDYzNTQxODgsLTEzODAxMTYy
-NSwtOTk0NjI4Mzg5LC0xNzIwMDIyNzE1XX0=
+eyJoaXN0b3J5IjpbLTYzMTU5ODg5NSwtMTA5OTA4MTIxMyw1ND
+M4NDg0NjIsNzYxNjQ1OTkxLDEwNjM1NDE4OCwtMTM4MDExNjI1
+LC05OTQ2MjgzODksLTE3MjAwMjI3MTVdfQ==
 -->
