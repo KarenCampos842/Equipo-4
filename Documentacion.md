@@ -126,13 +126,24 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
 
 
 ### WBS
-
-![wbs1](https://github.com/KarenCampos842/Equipo-4/assets/143466135/449db6ea-e663-4e55-98bb-76007e9cdbec)
+> **Tema:** *Aplica el WBS para las historias de usuario o casos de uso en un sprint de tu elección y contempla que los paquetes de trabajo contengan : idWBS, nombre, duración, costo estimado*
+<br>
+![wbs1](https://github.com/KarenCampos842/Equipo-4/assets/143466135/577f2232-18ec-4d34-8cc6-2880029bc05c)
 <br>
 ![wbs2](https://github.com/KarenCampos842/Equipo-4/assets/143466135/ea35136e-5c21-454e-8dbb-8841f774dda8)
 
 ### Diagrama Grantt
 > **Tema:** *Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad)*
+<br>
+![WhatsApp Image 2023-12-04 at 12 01 02 AM](https://github.com/KarenCampos842/Equipo-4/assets/143466135/430bfa3c-cbb4-47a0-b5fc-8f612e93542f)
+> <br>
+![WhatsApp Image 2023-12-04 at 12 01 02 AM (1)](https://github.com/KarenCampos842/Equipo-4/assets/143466135/25317446-7084-4db6-8276-eca4422536e9)
+> <br>
+![WhatsApp Image 2023-12-04 at 12 01 03 AM](https://github.com/KarenCampos842/Equipo-4/assets/143466135/8ef3a197-d4df-488a-9904-3ff8ad121170)
+> <br>
+![WhatsApp Image 2023-12-04 at 12 01 03 AM (1)](https://github.com/KarenCampos842/Equipo-4/assets/143466135/6d861796-5b58-4edf-a221-406980711fd9)
+<br>
+![WhatsApp Image 2023-12-04 at 12 01 03 AM (2)](https://github.com/KarenCampos842/Equipo-4/assets/143466135/b50618b7-55d5-4601-95d7-c83f4efd7e70)
 
 ## Calidad
 
