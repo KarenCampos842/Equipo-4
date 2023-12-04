@@ -134,6 +134,8 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
 ### Diagrama Grantt
 > **Tema:** *Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad)*
 
+https://moisesloriapechs-team.monday.com/boards/5617034606/views/123254998
+
 ## Calidad
 
 ###  Comparación
@@ -247,5 +249,6 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMDU0ODYzLC05NDc5NTc0MDJdfQ==
+eyJoaXN0b3J5IjpbLTk2MjI5NjI1Myw0NzIwNTQ4NjMsLTk0Nz
+k1NzQwMl19
 -->
