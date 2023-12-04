@@ -232,14 +232,15 @@ Los factores de calidad se miden atreves de métricas que se calculan de forma d
 
 ---
 **Referencias**
+
 PMOinformatica. (12 de marzo de 2018). Ejemplos de estimación de costos de un proyecto de software. PMOinformatica.com. http://www.pmoinformatica.com/2018/03/ejemplos-de-estimacion-de-costos-de-un-proyecto-de-software-COSMIC.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTgwOTAzMCwtOTk2MzE0NzE2LC0xNz
-E5Njg0NDQ0LC0xNTE4MDE5Nzg2LC0xMjA0NjA4Mzg0LC0yMTI1
-ODgxMTI3LDEwOTIzMzI5MDMsMjk5NjYzMjM0LC0xNDA0NDcxNT
-I3LDE5MzI2MjAxOTEsLTE3MTA3MzQ1NzksNTc0NTk1Mjc2LDE3
-Njk0MjQwMTEsNTgxNTg2NjE5LDEzMzgzNjE1MzIsLTM2ODAxND
-g3NSwtOTE1ODU3OTE1LC0yODE5MjgwODUsMTkyMDY2MzMzNywx
-ODg4NDI3MDIyXX0=
+eyJoaXN0b3J5IjpbNzU0NzI1MzYsLTk5NjMxNDcxNiwtMTcxOT
+Y4NDQ0NCwtMTUxODAxOTc4NiwtMTIwNDYwODM4NCwtMjEyNTg4
+MTEyNywxMDkyMzMyOTAzLDI5OTY2MzIzNCwtMTQwNDQ3MTUyNy
+wxOTMyNjIwMTkxLC0xNzEwNzM0NTc5LDU3NDU5NTI3NiwxNzY5
+NDI0MDExLDU4MTU4NjYxOSwxMzM4MzYxNTMyLC0zNjgwMTQ4Nz
+UsLTkxNTg1NzkxNSwtMjgxOTI4MDg1LDE5MjA2NjMzMzcsMTg4
+ODQyNzAyMl19
 -->
