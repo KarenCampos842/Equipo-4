@@ -21,7 +21,7 @@ C.E= 60 × 1= 60 puntos cósmicos por 1 sprint de 2 semanas.
 Esfuerzo = 53 puntos Cósmicos.
 
 Cantidad de tiempo requerido (sprints) = (Velocidad del equipo) / (Cantidad de puntos cósmicos)
-C.T.R = 60 / 53 = 0.8833 sprint = 1 Sprint
+C.T.R = 60 / 53 = 0.8833 sprint = 1 Sprint de 2 semanas (basándonos en trabajos anteriores del equipo)
 
 Compensación por Punto Cósmicos =(Compensación Total Deseada)​ / (Puntos Cósmicos) 
 C.P= 90,100 / 53 = 1700 pesos por punto cósmico
@@ -278,7 +278,8 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA4OTAwMjEsLTEwOTkwODEyMTMsNT
-QzODQ4NDYyLDc2MTY0NTk5MSwxMDYzNTQxODgsLTEzODAxMTYy
-NSwtOTk0NjI4Mzg5LC0xNzIwMDIyNzE1XX0=
+eyJoaXN0b3J5IjpbLTE5ODQ2MTYwMDgsLTE1NjA4OTAwMjEsLT
+EwOTkwODEyMTMsNTQzODQ4NDYyLDc2MTY0NTk5MSwxMDYzNTQx
+ODgsLTEzODAxMTYyNSwtOTk0NjI4Mzg5LC0xNzIwMDIyNzE1XX
+0=
 -->
