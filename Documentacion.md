@@ -229,8 +229,13 @@ Los factores de calidad se miden atreves de métricas que se calculan de forma d
  - [x] Existe una correspondencia entre los requerimientos y los casos de uso entregados.
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
+
+---
+**Referencias**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAyNjIzOTAsLTk5NjMxNDcxNiwtMT
+eyJoaXN0b3J5IjpbLTIwMzE1ODcxMDQsLTk5NjMxNDcxNiwtMT
 cxOTY4NDQ0NCwtMTUxODAxOTc4NiwtMTIwNDYwODM4NCwtMjEy
 NTg4MTEyNywxMDkyMzMyOTAzLDI5OTY2MzIzNCwtMTQwNDQ3MT
 UyNywxOTMyNjIwMTkxLC0xNzEwNzM0NTc5LDU3NDU5NTI3Niwx
