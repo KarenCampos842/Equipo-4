@@ -139,6 +139,12 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
 ###  Comparación
 
 > **Tema:** *Compara los modelos de calidad propuestos por McCall y Boehm, identifica y lista sus características escenciales y reflexiona sobr e cuál de estos dos modelos sería más adecuado para aplicar en tu proy ecto de desarrollo de software. Justifica tu elección.*
+> 
+**Boehm**
+Este modelo propone una jerarquía de niveles, en forma de un árbol con tres ramas principales, que permiten que el software sea de utilidad: Portabilidad, Facilidad de Uso y Facilidad de Mantenimiento. Se estructura en tres niveles: Aplicaciones primarias, Construcciones Intermedias (factores) y Construcciones Primitivas, y finalmente las Métricas que determinan los valores para los criterios ![image](https://github.com/KarenCampos842/Equipo-4/assets/143106788/e0508fd7-6387-4f59-9484-9249b45576d4)
+
+
+
 
 McCall
 
@@ -233,18 +239,10 @@ Los factores de calidad se miden atreves de métricas que se calculan de forma d
 ---
 **Referencias**
 
-PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un proyecto de software.* PMOinformatica.com. http://www.pmoinformatica.com/2018/03/ejemplos-de-estimacion-de-costos-de-un-proyecto-de-software-COSMIC.html
+ales.(2018).Modelo McCall. https://modelomccalladsi.blogspot.com/2018/03/el-modelo-de-mccall.html
 
 JORGE JAIR MORENO.(26 de marzo de 2010).Exploración de Modelos y Estándares de calidad para el producto software. https://revistas.uis.edu.co/index.php/revistauisingenierias/article/view/1055/1434
 
-ales.(2018).Modelo McCall. https://modelomccalladsi.blogspot.com/2018/03/el-modelo-de-mccall.html
+PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un proyecto de software.* PMOinformatica.com. http://www.pmoinformatica.com/2018/03/ejemplos-de-estimacion-de-costos-de-un-proyecto-de-software-COSMIC.html
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzY0NDYxMSwtMjA5NDg2NTcwLC05OT
-YzMTQ3MTYsLTE3MTk2ODQ0NDQsLTE1MTgwMTk3ODYsLTEyMDQ2
-MDgzODQsLTIxMjU4ODExMjcsMTA5MjMzMjkwMywyOTk2NjMyMz
-QsLTE0MDQ0NzE1MjcsMTkzMjYyMDE5MSwtMTcxMDczNDU3OSw1
-NzQ1OTUyNzYsMTc2OTQyNDAxMSw1ODE1ODY2MTksMTMzODM2MT
-UzMiwtMzY4MDE0ODc1LC05MTU4NTc5MTUsLTI4MTkyODA4NSwx
-OTIwNjYzMzM3XX0=
--->
+
