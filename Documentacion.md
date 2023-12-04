@@ -6,7 +6,7 @@
 Velocidad Promedio del Equipo= 
 (Suma Total de Puntos Cósmicos Completados)​ 
 ______________________________________________,
-                  (Número Total de Sprints)
+    ............              (Número Total de Sprints)
 
 > **Tema:** *Con respecto al proyecto que estás llevando a cabo, realiza una estimación que abarque el esfuerzo requerido, los costes asociados (incluyendo la asignación de salarios acorde a las funciones y experiencia de cada miembro del equipo, indique la referencia utilizada para el cálculo de los salarios ) y el tiempo necesario. Para ello, emplea la técnica de puntos de función basada en el método COSMIC y aplícala a un sprint de tu elección.*
 
@@ -251,6 +251,7 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxNjQ1OTkxLDEwNjM1NDE4OCwtMTM4MD
-ExNjI1LC05OTQ2MjgzODksLTE3MjAwMjI3MTVdfQ==
+eyJoaXN0b3J5IjpbLTEyNDg1MTQzOTMsNzYxNjQ1OTkxLDEwNj
+M1NDE4OCwtMTM4MDExNjI1LC05OTQ2MjgzODksLTE3MjAwMjI3
+MTVdfQ==
 -->
