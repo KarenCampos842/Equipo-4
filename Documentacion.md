@@ -159,13 +159,13 @@ Los factores de calidad se miden atreves de métricas que se calculan de forma d
  </tr>
 
   <tr> 
-   <td>Relación directa entre los desarrolladores y usuarios </td> 
-  <td>La subjetividad </td> 
+   <td>Relación directa entre los desarrolladores y usuarios. </td> 
+  <td>La subjetividad. </td> 
  </tr>
 
   <tr> 
-   <td>En foque en el producto final y la opinión del usuario </td> 
-  <td>No siempre existe una relación perfectamente lineal entre los valores métricos y las características que se quieren medir </td> 
+   <td>En foque en el producto final y la opinión del usuario. </td> 
+  <td>No siempre existe una relación perfectamente lineal entre los valores métricos y las características que se quieren medir. </td> 
  </tr>
 </table>
 
@@ -234,6 +234,10 @@ Los factores de calidad se miden atreves de métricas que se calculan de forma d
 **Referencias**
 
 PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un proyecto de software.* PMOinformatica.com. http://www.pmoinformatica.com/2018/03/ejemplos-de-estimacion-de-costos-de-un-proyecto-de-software-COSMIC.html
+
+JORGE JAIR MORENO.(26 de marzo de 2010).Exploración de Modelos y Estándares de calidad para el producto software. https://revistas.uis.edu.co/index.php/revistauisingenierias/article/view/1055/1434
+
+ales.(2018).Modelo McCall. https://modelomccalladsi.blogspot.com/2018/03/el-modelo-de-mccall.html
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwOTQ4NjU3MCwtOTk2MzE0NzE2LC0xNz
