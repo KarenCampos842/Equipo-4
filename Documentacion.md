@@ -232,14 +232,14 @@ Los factores de calidad se miden atreves de métricas que se calculan de forma d
 
 ---
 **Referencias**
-
+(12 de marzo de 2018). Ejemplos de estimación de costos de un proyecto de software. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE1ODcxMDQsLTk5NjMxNDcxNiwtMT
-cxOTY4NDQ0NCwtMTUxODAxOTc4NiwtMTIwNDYwODM4NCwtMjEy
-NTg4MTEyNywxMDkyMzMyOTAzLDI5OTY2MzIzNCwtMTQwNDQ3MT
-UyNywxOTMyNjIwMTkxLC0xNzEwNzM0NTc5LDU3NDU5NTI3Niwx
-NzY5NDI0MDExLDU4MTU4NjYxOSwxMzM4MzYxNTMyLC0zNjgwMT
-Q4NzUsLTkxNTg1NzkxNSwtMjgxOTI4MDg1LDE5MjA2NjMzMzcs
-MTg4ODQyNzAyMl19
+eyJoaXN0b3J5IjpbNTExNDUxODAzLC05OTYzMTQ3MTYsLTE3MT
+k2ODQ0NDQsLTE1MTgwMTk3ODYsLTEyMDQ2MDgzODQsLTIxMjU4
+ODExMjcsMTA5MjMzMjkwMywyOTk2NjMyMzQsLTE0MDQ0NzE1Mj
+csMTkzMjYyMDE5MSwtMTcxMDczNDU3OSw1NzQ1OTUyNzYsMTc2
+OTQyNDAxMSw1ODE1ODY2MTksMTMzODM2MTUzMiwtMzY4MDE0OD
+c1LC05MTU4NTc5MTUsLTI4MTkyODA4NSwxOTIwNjYzMzM3LDE4
+ODg0MjcwMjJdfQ==
 -->
