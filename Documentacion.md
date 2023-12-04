@@ -35,10 +35,15 @@ C.P= 90,100 / 53 = 1700 pesos por punto cósmico
 
 Salario del Trabajador por el sprint=Compensación por Punto Cósmico × Puntos Cósmicos que Contribuye el Trabajador
 Salario Hansony: 1700 × 11 = $18,700
+<br> 
 Salario Brandon: 1700 × 5 = $8,500
+<br> 
 Salario Moises: 1700 × 10 = $17,000
+<br> 
 Salario Karen: 1700 × 8 = $13,600
+<br> 
 Salario Carlos: 1700 × 10 = $17,000 
+<br> 
 Salario Kendrick: 1700 × 9 = $15,300
 
 
@@ -285,7 +290,7 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzY2ODMxNiwtMTU2MDg5MDAyMSwtMT
+eyJoaXN0b3J5IjpbMTM3MDI3MjA1NCwtMTU2MDg5MDAyMSwtMT
 A5OTA4MTIxMyw1NDM4NDg0NjIsNzYxNjQ1OTkxLDEwNjM1NDE4
 OCwtMTM4MDExNjI1LC05OTQ2MjgzODksLTE3MjAwMjI3MTVdfQ
 ==
