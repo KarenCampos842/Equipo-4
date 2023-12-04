@@ -132,7 +132,6 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
 ![wbs2](https://github.com/KarenCampos842/Equipo-4/assets/143466135/ac163133-cc09-42e2-bd9d-831bea46d0bd)
 ### Diagrama Grantt
 > **Tema:** *Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad)*
-<br>
 ![WhatsApp Image 2023-12-04 at 12 01 02 AM](https://github.com/KarenCampos842/Equipo-4/assets/143466135/ed484fcc-3093-4229-9d45-9e64052c0b51)
 <br>
 ![WhatsApp Image 2023-12-04 at 12 01 02 AM (1)](https://github.com/KarenCampos842/Equipo-4/assets/143466135/25317446-7084-4db6-8276-eca4422536e9)
