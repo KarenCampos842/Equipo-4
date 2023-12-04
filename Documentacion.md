@@ -20,17 +20,23 @@ Scrum Master: (Senior)** Moises Loria
 <br> 
 
 Velocidad del Equipo en trabajos anteriores = (Suma Total de Puntos Cósmicos Completados)​ / (Número Total de Sprints)
+<br> 
 V.P.M = 120/2 = 60 = La velocidad del equipo es de hacer 60 puntos Cósmicos en 1 sprint de 2 semanas.
 
 Capacidad del equipo =Velocidad del Equipo×Número de Sprints Necesarios
+<br> 
 C.E= 60 × 1= 60 puntos cósmicos por 1 sprint de 2 semanas.
+<br> 
 
 Esfuerzo = 53 puntos Cósmicos.
+<br> 
 
 Cantidad de tiempo requerido (sprints) = (Velocidad del equipo) / (Cantidad de puntos cósmicos)
+<br> 
 C.T.R = 60 / 53 = 0.8833 sprint = 1 Sprint de 2 semanas (basándonos en trabajos anteriores del equipo)
 
 Compensación por Punto Cósmicos =(Compensación Total Deseada)​ / (Puntos Cósmicos) 
+<br> 
 C.P= 90,100 / 53 = 1700 pesos por punto cósmico
 
 Salario del Trabajador por el sprint=Compensación por Punto Cósmico × Puntos Cósmicos que Contribuye el Trabajador
@@ -290,8 +296,7 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDI3MjA1NCwtMTU2MDg5MDAyMSwtMT
-A5OTA4MTIxMyw1NDM4NDg0NjIsNzYxNjQ1OTkxLDEwNjM1NDE4
-OCwtMTM4MDExNjI1LC05OTQ2MjgzODksLTE3MjAwMjI3MTVdfQ
-==
+eyJoaXN0b3J5IjpbMTg1NDQ0Njc4LC0xNTYwODkwMDIxLC0xMD
+k5MDgxMjEzLDU0Mzg0ODQ2Miw3NjE2NDU5OTEsMTA2MzU0MTg4
+LC0xMzgwMTE2MjUsLTk5NDYyODM4OSwtMTcyMDAyMjcxNV19
 -->
