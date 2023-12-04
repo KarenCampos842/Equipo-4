@@ -298,3 +298,6 @@ JORGE JAIR MORENO.(26 de marzo de 2010).Exploración de Modelos y Estándares de
 
 PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un proyecto de software.* PMOinformatica.com. http://www.pmoinformatica.com/2018/03/ejemplos-de-estimacion-de-costos-de-un-proyecto-de-software-COSMIC.html
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk4MjUyOTc4NF19
+-->
