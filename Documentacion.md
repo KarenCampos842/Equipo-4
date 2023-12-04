@@ -230,11 +230,11 @@ Los factores de calidad se miden atreves de métricas que se calculan de forma d
  - [x] Actualmente se está trabajando sobre la versión actualizada de los casos de uso.
   <a href="https://github.com/KarenCampos842/Equipo-4/blob/PD-3/Evid">Evidencia</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjMxNDcxNiwtMTcxOTY4NDQ0NCwtMT
-UxODAxOTc4NiwtMTIwNDYwODM4NCwtMjEyNTg4MTEyNywxMDky
-MzMyOTAzLDI5OTY2MzIzNCwtMTQwNDQ3MTUyNywxOTMyNjIwMT
-kxLC0xNzEwNzM0NTc5LDU3NDU5NTI3NiwxNzY5NDI0MDExLDU4
-MTU4NjYxOSwxMzM4MzYxNTMyLC0zNjgwMTQ4NzUsLTkxNTg1Nz
-kxNSwtMjgxOTI4MDg1LDE5MjA2NjMzMzcsMTg4ODQyNzAyMiwx
-MDY1MDg1MTk2XX0=
+eyJoaXN0b3J5IjpbLTE3NTAyNjIzOTAsLTk5NjMxNDcxNiwtMT
+cxOTY4NDQ0NCwtMTUxODAxOTc4NiwtMTIwNDYwODM4NCwtMjEy
+NTg4MTEyNywxMDkyMzMyOTAzLDI5OTY2MzIzNCwtMTQwNDQ3MT
+UyNywxOTMyNjIwMTkxLC0xNzEwNzM0NTc5LDU3NDU5NTI3Niwx
+NzY5NDI0MDExLDU4MTU4NjYxOSwxMzM4MzYxNTMyLC0zNjgwMT
+Q4NzUsLTkxNTg1NzkxNSwtMjgxOTI4MDg1LDE5MjA2NjMzMzcs
+MTg4ODQyNzAyMl19
 -->
