@@ -140,6 +140,37 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
 
 > **Tema:** *Compara los modelos de calidad propuestos por McCall y Boehm, identifica y lista sus características escenciales y reflexiona sobr e cuál de estos dos modelos sería más adecuado para aplicar en tu proy ecto de desarrollo de software. Justifica tu elección.*
 
+McCall
+
+El modelo fue escrito por Richards y Walters en 1977, se basa en reflejar perspectivas del desarrollador y del usuario e Identifica los atributos clave desde el punto de vista del usuario llamado factores de calidad y los divide en 3: 
+
+- Revisión (Habilidad para ser cambiado)
+
+- Operación (Características de Operativas) 
+
+- Transición (Adaptabilidad a un nuevo ambiente)
+
+Los factores de calidad se miden atreves de métricas que se calculan de forma dicotómica las cuales se contestan por una o varias personas por lo que esto puede implicar subjetividad.
+
+<table>
+ <tr> 
+   <td>Ventajas</td> 
+  <td>Desventajas</td> 
+ </tr>
+
+  <tr> 
+   <td>Relación directa entre los desarrolladores y usuarios </td> 
+  <td>La subjetividad </td> 
+ </tr>
+
+  <tr> 
+   <td>En foque en el producto final y la opinión del usuario </td> 
+  <td>No siempre existe una relación perfectamente lineal entre los valores métricos y las características que se quieren medir </td> 
+ </tr>
+</table>
+
+ 
+
 ## Configuración
 
 ###  Auditoría
