@@ -175,7 +175,7 @@ Los factores de calidad se miden atreves de métricas que se calculan de forma d
  </tr>
 </table>
 
- 
+ Los dos modelos son muy similares pero el mejor para el proyecto sería el Boehm debido a su facilidad de uso lo que lo arria las cosas más agiles y la forma cualitativa en la que mide la calidad del software haciéndolo más objetivo que si usuramos McCall. 
 
 ## Configuración
 
