@@ -3,7 +3,7 @@
 ## Métodos de estimación
 
 ### Estimación
-
+Velocidad Promedio del Equipo=(Número Total de Sprints)/(Suma Total de Puntos Cósmicos Completados)​
 
 > **Tema:** *Con respecto al proyecto que estás llevando a cabo, realiza una estimación que abarque el esfuerzo requerido, los costes asociados (incluyendo la asignación de salarios acorde a las funciones y experiencia de cada miembro del equipo, indique la referencia utilizada para el cálculo de los salarios ) y el tiempo necesario. Para ello, emplea la técnica de puntos de función basada en el método COSMIC y aplícala a un sprint de tu elección.*
 
@@ -248,6 +248,6 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODAxMTYyNSwtOTk0NjI4Mzg5LC0xNz
-IwMDIyNzE1XX0=
+eyJoaXN0b3J5IjpbLTE3NDQ5NTIyNjYsLTEzODAxMTYyNSwtOT
+k0NjI4Mzg5LC0xNzIwMDIyNzE1XX0=
 -->
