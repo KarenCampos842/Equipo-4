@@ -144,13 +144,13 @@ McCall
 
 El modelo fue escrito por Richards y Walters en 1977, se basa en reflejar perspectivas del desarrollador y del usuario e Identifica los atributos clave desde el punto de vista del usuario llamado factores de calidad y los divide en 3: 
 
-Revisión (Habilidad para ser cambiado) 
+- Revisión (Habilidad para ser cambiado)
 
-Operación (Características de Operativas) 
+- Operación (Características de Operativas) 
 
-Transición (Adaptabilidad a un nuevo ambiente) 
+- Transición (Adaptabilidad a un nuevo ambiente)
 
-Los factores de calidad se miden atreves de métricas que se calculan de forma dicotómica las cuales se contestan por una o varias personas por lo que esto puede implicar subjetividad. 
+Los factores de calidad se miden atreves de métricas que se calculan de forma dicotómica las cuales se contestan por una o varias personas por lo que esto puede implicar subjetividad.
 
 <table>
  <tr> 
