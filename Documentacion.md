@@ -178,12 +178,14 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
 
 ### WBS
 
-> **Tema:** *Aplica el WBS para las historias de usuario o casos de uso en un sprint de tu elección y contempla que los paquetes de trabajo contengan : idWBS, nombre, duración, costo estimado*
-
-
+![wbs1](https://github.com/KarenCampos842/Equipo-4/assets/143466135/449db6ea-e663-4e55-98bb-76007e9cdbec)
+<br>
+![wbs2](https://github.com/KarenCampos842/Equipo-4/assets/143466135/ea35136e-5c21-454e-8dbb-8841f774dda8)
 
 ### Diagrama Grantt
 > **Tema:** *Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad)*
+
+https://moisesloriapechs-team.monday.com/boards/5617034606/views/123254998
 
 ## Calidad
 
@@ -226,7 +228,7 @@ Los factores de calidad se miden atreves de métricas que se calculan de forma d
  </tr>
 </table>
 
- 
+ Los dos modelos son muy similares pero el mejor para el proyecto sería el Boehm debido a su facilidad de uso lo que lo arria las cosas más agiles y la forma cualitativa en la que mide la calidad del software haciéndolo más objetivo que si usuramos McCall. 
 
 ## Configuración
 
@@ -296,10 +298,3 @@ JORGE JAIR MORENO.(26 de marzo de 2010).Exploración de Modelos y Estándares de
 
 PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un proyecto de software.* PMOinformatica.com. http://www.pmoinformatica.com/2018/03/ejemplos-de-estimacion-de-costos-de-un-proyecto-de-software-COSMIC.html
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2MDQyOTIwLDc4MTc0MjM4LC0xNTYwOD
-kwMDIxLC0xMDk5MDgxMjEzLDU0Mzg0ODQ2Miw3NjE2NDU5OTEs
-MTA2MzU0MTg4LC0xMzgwMTE2MjUsLTk5NDYyODM4OSwtMTcyMD
-AyMjcxNV19
--->
