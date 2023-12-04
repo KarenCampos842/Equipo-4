@@ -6,11 +6,11 @@
 
 **Roles:
 Scrum Master:** Moises Loria
-**Tester/QA: Carlos Romero
-Developer: (Senior) ** Hansony Maldonado
-Developer: (Intermedio) Brandon Suarez
-UI/UX Designer:
-Product manager: Karen Campos
+**Tester/QA:** Carlos Romero
+**Developer: (Senior)** Hansony Maldonado
+**Developer: (Intermedio)** Brandon Suarez
+**UI/UX Designer:** Kendrick Cardenas
+**Product manager:** Karen Campos
 Velocidad Promedio del Equipo= (Suma Total de Puntos Cósmicos Completados)​ / (Número Total de Sprints)
 
 
@@ -257,7 +257,7 @@ PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDMwNTU2NCw3NjE2NDU5OTEsMTA2Mz
+eyJoaXN0b3J5IjpbLTI4NzMzNjkyNCw3NjE2NDU5OTEsMTA2Mz
 U0MTg4LC0xMzgwMTE2MjUsLTk5NDYyODM4OSwtMTcyMDAyMjcx
 NV19
 -->
