@@ -127,11 +127,8 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
 
 ### WBS
 > **Tema:** *Aplica el WBS para las historias de usuario o casos de uso en un sprint de tu elección y contempla que los paquetes de trabajo contengan : idWBS, nombre, duración, costo estimado*
-<br>
 ![wbs1](https://github.com/KarenCampos842/Equipo-4/assets/143466135/fac4654c-fe56-4c89-acc3-2b9546dcfc26)
-<br>
 ![wbs2](https://github.com/KarenCampos842/Equipo-4/assets/143466135/ac163133-cc09-42e2-bd9d-831bea46d0bd)
-
 ### Diagrama Grantt
 > **Tema:** *Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad)*
 <br>
