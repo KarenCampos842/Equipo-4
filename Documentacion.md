@@ -177,13 +177,17 @@ Salida: Enviar al correo del usuario una contraseña generada automáticamente.
 
 
 ### WBS
-
-![wbs1](https://github.com/KarenCampos842/Equipo-4/assets/143466135/449db6ea-e663-4e55-98bb-76007e9cdbec)
-<br>
-![wbs2](https://github.com/KarenCampos842/Equipo-4/assets/143466135/ea35136e-5c21-454e-8dbb-8841f774dda8)
-
+> **Tema:** *Aplica el WBS para las historias de usuario o casos de uso en un sprint de tu elección y contempla que los paquetes de trabajo contengan : idWBS, nombre, duración, costo estimado*
+![wbs1](https://github.com/KarenCampos842/Equipo-4/assets/143466135/fac4654c-fe56-4c89-acc3-2b9546dcfc26)
+> <br>
+![wbs2](https://github.com/KarenCampos842/Equipo-4/assets/143466135/ac163133-cc09-42e2-bd9d-831bea46d0bd)
 ### Diagrama Grantt
 > **Tema:** *Presenta un diagrama de Gantt de la planeación y calendarización de las actividades llevadas a cabo en un sprint de tu elección (considera hitos, fecha iniciales y finales para las actividades, así como los responsables de cada actividad)*
+![WhatsApp Image 2023-12-04 at 12 01 02 AM](https://github.com/KarenCampos842/Equipo-4/assets/143466135/ed484fcc-3093-4229-9d45-9e64052c0b51)
+![WhatsApp Image 2023-12-04 at 12 01 02 AM (1)](https://github.com/KarenCampos842/Equipo-4/assets/143466135/25317446-7084-4db6-8276-eca4422536e9)
+![WhatsApp Image 2023-12-04 at 12 01 03 AM](https://github.com/KarenCampos842/Equipo-4/assets/143466135/8ef3a197-d4df-488a-9904-3ff8ad121170)
+![WhatsApp Image 2023-12-04 at 12 01 03 AM (1)](https://github.com/KarenCampos842/Equipo-4/assets/143466135/6d861796-5b58-4edf-a221-406980711fd9)
+![WhatsApp Image 2023-12-04 at 12 01 03 AM (2)](https://github.com/KarenCampos842/Equipo-4/assets/143466135/b50618b7-55d5-4601-95d7-c83f4efd7e70)
 
 https://moisesloriapechs-team.monday.com/boards/5617034606/views/123254998
 
@@ -298,6 +302,5 @@ JORGE JAIR MORENO.(26 de marzo de 2010).Exploración de Modelos y Estándares de
 
 PMOinformatica. (12 de marzo de 2018). *Ejemplos de estimación de costos de un proyecto de software.* PMOinformatica.com. http://www.pmoinformatica.com/2018/03/ejemplos-de-estimacion-de-costos-de-un-proyecto-de-software-COSMIC.html
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjUyOTc4NF19
--->
+
+
