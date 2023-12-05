@@ -53,8 +53,7 @@ Producto:
 
 Fecha límite: 30/11/2023
 
-**Jueves 30 de noviembre de 2023**<br> Durante la reunión Karen informó haber concluido la actividad Modificación de Interfaces. Por otra parte, dado a la extensión de tiempo para la finalización del proyecto, se reprogramaron las actividades Diálogo Interfaz, Audio_Diálogo Interfaz, Resultados interfaz, 
-
+**Jueves 30 de noviembre de 2023**<br> Durante la reunión Karen informó haber concluido la actividad Modificación de Interfaces. Por otra parte, dado a la extensión de tiempo para la finalización del proyecto, se reprogramaron las actividades de Diálogo Interfaz, Audio_Diálogo Interfaz, Resultados interfaz, Evolución de las Interfaces de Usuario, Resultados métricas, Video demo, Audio demo, Edición demo y Refinamiento de artefactos.
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>
 
@@ -385,7 +384,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4MjE3NjEyLC0xNzc4Mzk2ODg3LC0xMD
+eyJoaXN0b3J5IjpbODM3MDE4MDQ1LC0xNzc4Mzk2ODg3LC0xMD
 I2MTM0NjMzLC00MDAwNzUwNzIsMTUyNzI0ODQwOCwtMTAxMjQ3
 MzI2MCwxODI4MDk4MDQ4LDE3ODQyODcyOTgsNDU0MDExODAsLT
 EyNjkwNzQ5MjMsMTMzMzIyMTA2OSwzNDI1ODMwNywtMTEyNjM0
