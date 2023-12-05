@@ -301,28 +301,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
        <td>30/11/2023</td>
         <td>Terminada</td>     
      </tr>
-     <tr>
-      <td>Resultados métricas (Hansony)</td>  
-        <td>Alto</td>
-        <td>5/12/2023</td>
-       <td>8/12/2023</td>
-        <td>Terminada</td>     
-     </tr>
-     <tr>
-      <td>Resultados interfaz (Carlos)</td>  
-        <td>Alto</td>
-        <td>2/11/2023</td>
-       <td>29/11/2023</td>
-        <td>Terminada</td>     
-     </tr>  
-    <tr>
-    <td>Evolución de las Interfaces de Usuario (Carlos)</td>  
-        <td>Medio</td>
-        <td>5/12/2023</td>
-       <td>7/12/2023</td>
-        <td>Terminada</td>     
-   </tr>
-   <tr>  
+     <tr>  
       <td>Diálogo Interfaz (Asaf)</td>  
         <td>Bajo</td>
         <td>5/12/2023</td>
@@ -336,6 +315,27 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
        <td>6/12/2023</td>
         <td>Terminada</td>     
    </tr>     
+     <tr>
+      <td>Resultados interfaz (Carlos)</td>  
+        <td>Alto</td>
+        <td>5/12/2023</td>
+       <td>7/12/2023</td>
+        <td>Terminada</td>     
+     </tr>  
+    <tr>
+    <td>Evolución de las Interfaces de Usuario (Carlos)</td>  
+        <td>Medio</td>
+        <td>5/12/2023</td>
+       <td>7/12/2023</td>
+        <td>Terminada</td>     
+   </tr>
+    <tr>
+      <td>Resultados métricas (Hansony)</td>  
+        <td>Alto</td>
+        <td>5/12/2023</td>
+       <td>8/12/2023</td>
+        <td>Terminada</td>     
+     </tr>
      <tr>  
       <td>Video demo (Asaf)</td>  
         <td>Alto</td>
@@ -375,11 +375,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTM1OTEzNywtMTc3ODM5Njg4NywtMT
-AyNjEzNDYzMywtNDAwMDc1MDcyLDE1MjcyNDg0MDgsLTEwMTI0
-NzMyNjAsMTgyODA5ODA0OCwxNzg0Mjg3Mjk4LDQ1NDAxMTgwLC
-0xMjY5MDc0OTIzLDEzMzMyMjEwNjksMzQyNTgzMDcsLTExMjYz
-NDc1NTksMTcxMjA2MDI1OSwxOTIyNzY5MTYzLDE1NzU3MzE4OD
-IsMTc3NTY1MDE5MCwyMDE3MDgwMDc1LDgxODEwMTcwNCwtMzYz
-MjU2ODc2XX0=
+eyJoaXN0b3J5IjpbODkxODkzNjcyLC0xNzc4Mzk2ODg3LC0xMD
+I2MTM0NjMzLC00MDAwNzUwNzIsMTUyNzI0ODQwOCwtMTAxMjQ3
+MzI2MCwxODI4MDk4MDQ4LDE3ODQyODcyOTgsNDU0MDExODAsLT
+EyNjkwNzQ5MjMsMTMzMzIyMTA2OSwzNDI1ODMwNywtMTEyNjM0
+NzU1OSwxNzEyMDYwMjU5LDE5MjI3NjkxNjMsMTU3NTczMTg4Mi
+wxNzc1NjUwMTkwLDIwMTcwODAwNzUsODE4MTAxNzA0LC0zNjMy
+NTY4NzZdfQ==
 -->
