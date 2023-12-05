@@ -41,10 +41,9 @@ Fecha límite: 26/11/2023
 
 Fecha límite: 28/11/2023
 
-**Martes 28 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 28. Por otra parte, se acordó mover la fecha de la actividad r 28 para el 30. 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>
-
-Fecha límite: 29/11/2023
+**Martes 28 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 28 (aplicación de las pruebas). Por otra parte, se acordó mover la fecha de la actividad Modificación de Interfaces del día 28 para el 30. 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
+Fecha límite: 39/11/2023
 
 **Miércoles 29 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 30. Por otra parte, se acordó mover la fecha del resto de las actividades a terminar el 28 para el 30. 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>
@@ -375,7 +374,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4NDUxMjY2LC0xNzc4Mzk2ODg3LC0xMD
+eyJoaXN0b3J5IjpbNzYyODA5ODM2LC0xNzc4Mzk2ODg3LC0xMD
 I2MTM0NjMzLC00MDAwNzUwNzIsMTUyNzI0ODQwOCwtMTAxMjQ3
 MzI2MCwxODI4MDk4MDQ4LDE3ODQyODcyOTgsNDU0MDExODAsLT
 EyNjkwNzQ5MjMsMTMzMzIyMTA2OSwzNDI1ODMwNywtMTEyNjM0
