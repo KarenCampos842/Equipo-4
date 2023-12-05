@@ -54,8 +54,8 @@ Producto:
 
 Fecha límite: 30/11/2023
 
-**Jueves 30 de noviembre de 2023**<br> Durante la reunión Karen informó haber concluido la actividad Modificación de Interfaces. Por otra parte, dado a la extensión de tiempo para la finalización del proyecto y la adición de nuevas actividades, se extendió la fecha límite de las actividades con fecha de finalización de 30 de noviembre, las cuáles son las siguientes: Diálogo Interfaz, Audio_Diálogo Interfaz, Resultados interfaz, Evolución de las Interfaces de Usuario, Resultados métricas, Video demo, Audio demo, Edición demo, Corrección de redacción,  Refinamiento de artefactos y Edición del video. 
-De igual forma, se abrió la actividad de Descripción de Descripción del proceso, Gestión del proceso, 
+**Jueves 30 de noviembre de 2023**<br> Durante la reunión Karen informó haber concluido la actividad Modificación de Interfaces. Por otra parte, dado a la extensión de tiempo para la finalización del proyecto y la adición de nuevas actividades, se extendió la fecha límite de las actividades con fecha de finalización de 30 de noviembre para inicios de diciembre, las cuáles son las siguientes: Diálogo Interfaz, Audio_Diálogo Interfaz, Resultados interfaz, Evolución de las Interfaces de Usuario, Resultados métricas, Video demo, Audio demo, Edición demo, Corrección de redacción,  Refinamiento de artefactos y Edición del video. 
+Por otro lado, se reabrieron las actividades de Descripción de Descripción del proceso, Gestión del proceso y Métrica de contribución debido a la anexión de una nueva actividad. 
 
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>
@@ -387,7 +387,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzA2MTA5NywtMTc3ODM5Njg4NywtMT
+eyJoaXN0b3J5IjpbMjAyOTI2NTYxOCwtMTc3ODM5Njg4NywtMT
 AyNjEzNDYzMywtNDAwMDc1MDcyLDE1MjcyNDg0MDgsLTEwMTI0
 NzMyNjAsMTgyODA5ODA0OCwxNzg0Mjg3Mjk4LDQ1NDAxMTgwLC
 0xMjY5MDc0OTIzLDEzMzMyMjEwNjksMzQyNTgzMDcsLTExMjYz
