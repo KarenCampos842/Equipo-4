@@ -318,22 +318,22 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
     <tr>
     <td>Evolución de las Interfaces de Usuario (Carlos)</td>  
         <td>Medio</td>
-        <td>26/11/2023</td>
-       <td>29/11/2023</td>
+        <td>5/12/2023</td>
+       <td>8/12/2023</td>
         <td>Terminada</td>     
    </tr>
      <tr>  
       <td>Video demo (Asaf)</td>  
         <td>Alto</td>
-        <td>27/11/2023</td>
-       <td>29/11/2023</td>
+        <td>5/12/2023</td>
+       <td>8/12/2023</td>
         <td>Terminada</td>     
    </tr>
      <tr>
     <td>Audio demo (Asaf)</td>  
         <td>Alto</td>
-        <td>27/11/2023</td>
-       <td>2/11/2023</td>
+        <td>5/12/2023</td>
+       <td>8/12/2023</td>
         <td>Terminada</td>     
    </tr>
      <tr>
@@ -361,11 +361,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwNTE1Njg5LC0xNzc4Mzk2ODg3LC0xMD
-I2MTM0NjMzLC00MDAwNzUwNzIsMTUyNzI0ODQwOCwtMTAxMjQ3
-MzI2MCwxODI4MDk4MDQ4LDE3ODQyODcyOTgsNDU0MDExODAsLT
-EyNjkwNzQ5MjMsMTMzMzIyMTA2OSwzNDI1ODMwNywtMTEyNjM0
-NzU1OSwxNzEyMDYwMjU5LDE5MjI3NjkxNjMsMTU3NTczMTg4Mi
-wxNzc1NjUwMTkwLDIwMTcwODAwNzUsODE4MTAxNzA0LC0zNjMy
-NTY4NzZdfQ==
+eyJoaXN0b3J5IjpbOTE1MjA1NzAsLTE3NzgzOTY4ODcsLTEwMj
+YxMzQ2MzMsLTQwMDA3NTA3MiwxNTI3MjQ4NDA4LC0xMDEyNDcz
+MjYwLDE4MjgwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4MCwtMT
+I2OTA3NDkyMywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMTI2MzQ3
+NTU5LDE3MTIwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMxODgyLD
+E3NzU2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3MDQsLTM2MzI1
+Njg3Nl19
 -->
