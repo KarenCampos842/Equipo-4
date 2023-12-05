@@ -10,7 +10,7 @@ Producto:
 
 Fecha límite: 18/11/2023
 
-**Martes 21 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 23. Hubo un retraso con la actividad innovación (por enfermedad). Hansony se comprometió a tenerla lista para el jueves 23 de noviembre. Igualmente, hubo un retraso con la actividad Usuarios de Brandon, de la cual se modificó la fecha para el 29 de noviembre. 
+**Martes 21 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 23. Hubo un retraso con la actividad innovación (por enfermedad). Hansony se comprometió a tenerla lista para el jueves 23 de noviembre. 
 Por otro lado, cómo resultado de la reunión con el profesor Luis Basto se decidió realizar una encuesta después de finalizar el daily scrum para decidir si el video de la entrega se haría en inglés o en español. El acuerdo fue realizarlo en español y asignar una actividad (Video demo) a Asaf para compensar la actividad de traducción que ya no sería necesaria.
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>
@@ -36,7 +36,7 @@ Producto:
 
 Fecha límite: 26/11/2023
 
-**Lunes 27 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 27 (los diálogos y audios para el video que restaban y la actividad Correspondencia con los requisitos). Por otra parte, se acordó mover la fecha del resto de las actividades a terminar el 27 para el 28. 
+**Lunes 27 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 27 (actividad Correspondencia con los requisitos). Por otra parte, se acordó mover la fecha del resto de las actividades a terminar el 27 para el 28. 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Demo.md#dem">Diseño.md</a>
 
 Fecha límite: 28/11/2023
@@ -371,7 +371,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjU5NDIzMjksLTQwMDA3NTA3MiwxNT
+eyJoaXN0b3J5IjpbLTEwMjYxMzQ2MzMsLTQwMDA3NTA3MiwxNT
 I3MjQ4NDA4LC0xMDEyNDczMjYwLDE4MjgwOTgwNDgsMTc4NDI4
 NzI5OCw0NTQwMTE4MCwtMTI2OTA3NDkyMywxMzMzMjIxMDY5LD
 M0MjU4MzA3LC0xMTI2MzQ3NTU5LDE3MTIwNjAyNTksMTkyMjc2
