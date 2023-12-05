@@ -387,6 +387,13 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
        <td>8/12/2023</td>
         <td>Terminada</td>     
    </tr>
+   <tr>
+    <td>Artefactos Scrum (Brandon)</td>  
+        <td>Alto</td>
+        <td>5/12/2023</td>
+       <td>9/12/2023</td>
+        <td>Terminada</td>     
+   </tr>
   <tr>  
       <td colspan=3><strong>Total de actividades</strong></td>  
        <td colspan=2>42</td>
@@ -405,7 +412,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDY1MDgwNCwtMTc0NTgwNTU4MiwtMT
+eyJoaXN0b3J5IjpbLTU0NDY2NjAwMCwtMTc0NTgwNTU4MiwtMT
 UyNjIwOTg4OCwtMTc3ODM5Njg4NywtMTAyNjEzNDYzMywtNDAw
 MDc1MDcyLDE1MjcyNDg0MDgsLTEwMTI0NzMyNjAsMTgyODA5OD
 A0OCwxNzg0Mjg3Mjk4LDQ1NDAxMTgwLC0xMjY5MDc0OTIzLDEz
