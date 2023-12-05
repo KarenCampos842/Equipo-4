@@ -55,7 +55,7 @@ Fecha límite: 28/11/2023
 **Miércoles 29 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 30 (Modificación de Interfaces, Diálogo Interfaz, Audio_Diálogo Interfaz, Resultados interfaz, Evolución de las Interfaces de Usuario, Resultados métricas, Video demo, Audio demo, Edición demo, Corrección de redacción,  Refinamiento de artefactos y Edición del video). 
 
 Producto: 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, 
 
 Fecha límite: 30/11/2023
 
@@ -394,11 +394,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTMxMTM4NCwtMTUyNjIwOTg4OCwtMT
-c3ODM5Njg4NywtMTAyNjEzNDYzMywtNDAwMDc1MDcyLDE1Mjcy
-NDg0MDgsLTEwMTI0NzMyNjAsMTgyODA5ODA0OCwxNzg0Mjg3Mj
-k4LDQ1NDAxMTgwLC0xMjY5MDc0OTIzLDEzMzMyMjEwNjksMzQy
-NTgzMDcsLTExMjYzNDc1NTksMTcxMjA2MDI1OSwxOTIyNzY5MT
-YzLDE1NzU3MzE4ODIsMTc3NTY1MDE5MCwyMDE3MDgwMDc1LDgx
-ODEwMTcwNF19
+eyJoaXN0b3J5IjpbNjk2NjA5NDg0LC0xNTI2MjA5ODg4LC0xNz
+c4Mzk2ODg3LC0xMDI2MTM0NjMzLC00MDAwNzUwNzIsMTUyNzI0
+ODQwOCwtMTAxMjQ3MzI2MCwxODI4MDk4MDQ4LDE3ODQyODcyOT
+gsNDU0MDExODAsLTEyNjkwNzQ5MjMsMTMzMzIyMTA2OSwzNDI1
+ODMwNywtMTEyNjM0NzU1OSwxNzEyMDYwMjU5LDE5MjI3NjkxNj
+MsMTU3NTczMTg4MiwxNzc1NjUwMTkwLDIwMTcwODAwNzUsODE4
+MTAxNzA0XX0=
 -->
