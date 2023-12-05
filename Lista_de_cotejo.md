@@ -103,7 +103,7 @@
    <tr>
   <td>Artefactos Scrum</td>
   <td>De acuerdo a las sesiones de Sergio Franco y los conceptos adicionales presentados, presentar de forma explícita un ejemplo de DoD (Definition of Done).   El ejemplo basado en tu proyecto final debe incluir de forma explícita las características para que sea considerado un DoD de calidad. Utiliza la siguiente referencia como base para crear el DoD para un incremento del proyecto final (preferentemente de la última entrega). https://www.scrum.org/learning-series/definition-done/what-is-the-definition-of-done-</td>
-<br>Tercera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Artefactos_Scrum.md#artefactos-scrum">Artefactos Scrum</a></td>
+<td>Tercera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Artefactos_Scrum.md#artefactos-scrum">Artefactos Scrum</a></td>
   <td></td>
  </tr>
    <tr>
