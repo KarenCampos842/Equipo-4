@@ -60,7 +60,7 @@ Producto:
 Fecha límite: 30/11/2023
 
 **Jueves 30 de noviembre de 2023**<br> Durante la reunión Karen informó haber concluido la actividad Modificación de Interfaces. Por otra parte, dado a la extensión de tiempo para la finalización del proyecto y la adición de nuevas actividades, se extendió la fecha límite de las actividades con fecha de finalización de 30 de noviembre para inicios de diciembre, las cuáles son las siguientes: Diálogo Interfaz, Audio_Diálogo Interfaz, Resultados interfaz, Evolución de las Interfaces de Usuario, Resultados métricas, Video demo, Audio demo, Edición demo, Corrección de redacción,  Refinamiento de artefactos y Edición del video. 
-Por otro lado, se reabrieron las actividades de Descripción de Descripción del proceso, Gestión del proceso y Métrica de contribución debido a la anexión de una nueva actividad. 
+Por otro lado, se reabrieron las actividades de  Descripción del proceso, Gestión del proceso y Métrica de contribución debido a la anexión de una nueva actividad. 
 
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>
@@ -394,11 +394,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjYyMDk4ODgsLTE3NzgzOTY4ODcsLT
-EwMjYxMzQ2MzMsLTQwMDA3NTA3MiwxNTI3MjQ4NDA4LC0xMDEy
-NDczMjYwLDE4MjgwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4MC
-wtMTI2OTA3NDkyMywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMTI2
-MzQ3NTU5LDE3MTIwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMxOD
-gyLDE3NzU2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3MDQsLTM2
-MzI1Njg3Nl19
+eyJoaXN0b3J5IjpbMTgxOTMxMTM4NCwtMTUyNjIwOTg4OCwtMT
+c3ODM5Njg4NywtMTAyNjEzNDYzMywtNDAwMDc1MDcyLDE1Mjcy
+NDg0MDgsLTEwMTI0NzMyNjAsMTgyODA5ODA0OCwxNzg0Mjg3Mj
+k4LDQ1NDAxMTgwLC0xMjY5MDc0OTIzLDEzMzMyMjEwNjksMzQy
+NTgzMDcsLTExMjYzNDc1NTksMTcxMjA2MDI1OSwxOTIyNzY5MT
+YzLDE1NzU3MzE4ODIsMTc3NTY1MDE5MCwyMDE3MDgwMDc1LDgx
+ODEwMTcwNF19
 -->
