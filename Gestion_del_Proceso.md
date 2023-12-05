@@ -12,6 +12,7 @@ Fecha límite: 18/11/2023
 
 **Martes 21 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 23. Hubo un retraso con la actividad innovación (por enfermedad). Hansony se comprometió a tenerla lista para el jueves 23 de noviembre. 
 Por otro lado, cómo resultado de la reunión con el profesor Luis Basto se decidió realizar una encuesta después de finalizar el daily scrum para decidir si el video de la entrega se haría en inglés o en español. El acuerdo fue realizarlo en español y asignar una actividad (Video demo) a Asaf para compensar la actividad de traducción que ya no sería necesaria.
+
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>
 
@@ -25,24 +26,28 @@ Producto:
 Fecha límite: 23/11/2023
 
 **Jueves 23 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 23. Hansony finalizó la actividad innovación como se había acordado. Karen y Hansony acordaron revisar la actividad durante la reunión del viernes 24. 
+
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
 
 Fecha límite: 23/11/2023
 
 **Viernes 24 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 26 (Listado Final de Requerimientos_Diagrama y Requerimientos no funcionales). Así mismo, Karen se reunió con el equipo para explicar cómo se realizarían las pruebas y verificar con el equipo los formatos utilizados, los indicadores y las métricas a utilizar. 
+
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
 
 Fecha límite: 26/11/2023
 
 **Lunes 27 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 27 (actividad Correspondencia con los requisitos). Por otra parte, se acordó mover la fecha del resto de las actividades a terminar el 27 para el 28. 
+
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Demo.md#dem">Diseño.md</a>
 
 Fecha límite: 28/11/2023
 
 **Martes 28 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 28 (aplicación de las pruebas). Por otra parte, se acordó mover la fecha de la actividad Modificación de Interfaces del día 28 para el 30. 
+
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
 Fecha límite: 28/11/2023
@@ -389,11 +394,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzU5MDc5OCwtMTc3ODM5Njg4NywtMT
-AyNjEzNDYzMywtNDAwMDc1MDcyLDE1MjcyNDg0MDgsLTEwMTI0
-NzMyNjAsMTgyODA5ODA0OCwxNzg0Mjg3Mjk4LDQ1NDAxMTgwLC
-0xMjY5MDc0OTIzLDEzMzMyMjEwNjksMzQyNTgzMDcsLTExMjYz
-NDc1NTksMTcxMjA2MDI1OSwxOTIyNzY5MTYzLDE1NzU3MzE4OD
-IsMTc3NTY1MDE5MCwyMDE3MDgwMDc1LDgxODEwMTcwNCwtMzYz
-MjU2ODc2XX0=
+eyJoaXN0b3J5IjpbLTE1MjYyMDk4ODgsLTE3NzgzOTY4ODcsLT
+EwMjYxMzQ2MzMsLTQwMDA3NTA3MiwxNTI3MjQ4NDA4LC0xMDEy
+NDczMjYwLDE4MjgwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4MC
+wtMTI2OTA3NDkyMywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMTI2
+MzQ3NTU5LDE3MTIwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMxOD
+gyLDE3NzU2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3MDQsLTM2
+MzI1Njg3Nl19
 -->
