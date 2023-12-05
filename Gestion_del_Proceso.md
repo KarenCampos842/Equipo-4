@@ -232,13 +232,6 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
         <td>Terminada</td>     
    </tr>
     <tr>  
-      <td>Refinamiento de artefactos (Brandon)</td> 
-      <td>Alto</td>
-        <td>21/11/2023</td>
-       <td>23/11/2023</td>
-         <td>Terminada</td>     
-   </tr> 
-    <tr>  
       <td>Listado Final de Requerimientos_Diagrama (Carlos)</td> 
       <td>Alto</td>
         <td>21/11/2023</td>
@@ -301,6 +294,13 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
        <td>30/11/2023</td>
         <td>Terminada</td>     
      </tr>
+     <tr>  
+      <td>Refinamiento de artefactos (Brandon)</td> 
+      <td>Alto</td>
+        <td>21/11/2023</td>
+       <td>23/11/2023</td>
+         <td>Terminada</td>     
+   </tr> 
      <tr>  
       <td>Diálogo Interfaz (Asaf)</td>  
         <td>Bajo</td>
@@ -375,11 +375,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU4MjAwMzMsLTE3NzgzOTY4ODcsLT
-EwMjYxMzQ2MzMsLTQwMDA3NTA3MiwxNTI3MjQ4NDA4LC0xMDEy
-NDczMjYwLDE4MjgwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4MC
-wtMTI2OTA3NDkyMywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMTI2
-MzQ3NTU5LDE3MTIwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMxOD
-gyLDE3NzU2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3MDQsLTM2
-MzI1Njg3Nl19
+eyJoaXN0b3J5IjpbMTEzNTY5ODk3LC0xNzc4Mzk2ODg3LC0xMD
+I2MTM0NjMzLC00MDAwNzUwNzIsMTUyNzI0ODQwOCwtMTAxMjQ3
+MzI2MCwxODI4MDk4MDQ4LDE3ODQyODcyOTgsNDU0MDExODAsLT
+EyNjkwNzQ5MjMsMTMzMzIyMTA2OSwzNDI1ODMwNywtMTEyNjM0
+NzU1OSwxNzEyMDYwMjU5LDE5MjI3NjkxNjMsMTU3NTczMTg4Mi
+wxNzc1NjUwMTkwLDIwMTcwODAwNzUsODE4MTAxNzA0LC0zNjMy
+NTY4NzZdfQ==
 -->
