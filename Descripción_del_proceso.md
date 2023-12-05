@@ -243,7 +243,8 @@ Utilizar la siguiente plantilla:
 
 **Responsable**
 
-1.*Campos García Karen Elizabeth:* Sección Proceso e
+1.*Campos García Karen Elizabeth:* Sección Proceso excepto Artefactos Scrum.
+2. *Suárez Balam Brandon Emmanuel:* Artefactos Scrum.
 
 **Actividades**
  - **Descripción del proceso:** Describir de forma clara en un documento el tamaño del sprint, planeación, actividades, responsables, roles y resultados.
@@ -256,6 +257,9 @@ Utilizar la siguiente plantilla:
  -- Realizar una tabla **(sprint backlog)** que contenga las actividades a realizar durante el sprint, responsables, el estado de la tarea (terminada, en curso), fecha de inicio, fechas límite de entrega y nivel de cada actividad (bajo, medio, alto).
  - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, medio, alto).  
 Elaborar una métrica que contenga las actividades de las 3 entregas. 
+
+ - List item
+
  - **Organización y Documentación del Repositorio:** Crear los siguientes archivos en formato StackEdit en la branch de "*Tercera-Entrega*" del repositorio del equipo (Equipo-4): Producto, Requisitos, Diseño, Pruebas, Presentación del avance, Diálogos, Competencias, Descripción del proceso, Gestión del proceso, Métrica de contribución, Demo, Artefactos_Scrum y Lista de cotejo. 
  
  **Archivo del trabajo/Resultado:**  
@@ -265,11 +269,11 @@ Elaborar una métrica que contenga las actividades de las 3 entregas.
 ### *Sección "Presentación del avance"*
 **Responsables**
  1.*Campos García Karen Elizabeth:* Diálogo proceso y Audio. 
- 2.  *Cárdenas Rojas Kendrick Asaf:* Diálogo interfaz, Audio y Traducción. 
-3. *Maldonado Medina Hansony de Jesús:* Diálogo diferenciadores y Audio. 
-4. *Romero Poot Carlos Emmanuel:* Sketch (personaje: cliente) y Video sketch.
- 5. *Rubén Moisés Loria Pech:* Edición del video, Sketch (personaje: trabajador) y Video sketch.
- 6. *Suárez Balam Brandon Emmanuel:* Diálogo producto y Audio. 
+ -  *Cárdenas Rojas Kendrick Asaf:* Diálogo interfaz, Audio y Traducción. 
+ - *Maldonado Medina Hansony de Jesús:* Diálogo diferenciadores y Audio. 
+ - *Romero Poot Carlos Emmanuel:* Sketch (personaje: cliente) y Video sketch.
+ - *Rubén Moisés Loria Pech:* Edición del video, Sketch (personaje: trabajador) y Video sketch.
+ - *Suárez Balam Brandon Emmanuel:* Diálogo producto y Audio. 
 
  **Actividades**
  - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
@@ -329,7 +333,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Nzg1OTc2NCwtMjI3NTk0Njk3LC0xND
+eyJoaXN0b3J5IjpbMTUzNzAyODczOSwtMjI3NTk0Njk3LC0xND
 Y0MjMxNTI1LC00NzU5MjEzNTYsMTUzODI0NzI0NiwtMjAwNTgx
 MzQxNSwtMTIxMjA1MjI3NCwtMTkzNDIzMDE1LC0yMTAyNTYyNz
 M5LDg5MTI1ODMxLC0xMTY2ODQ5MzE2LDIwNzA5MDM5NSwxNzgx
