@@ -55,7 +55,7 @@ Fecha límite: 28/11/2023
 **Miércoles 29 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 30 (Modificación de Interfaces, Diálogo Interfaz, Audio_Diálogo Interfaz, Resultados interfaz, Evolución de las Interfaces de Usuario, Resultados métricas, Video demo, Audio demo, Edición demo, Corrección de redacción,  Refinamiento de artefactos y Edición del video). 
 
 Producto: 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>,<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#mejoras-a-las-interfaces">Mejoras a las interfaces</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#evoluci%C3%B3n-de-las-interfaces-de-usuario">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#evoluci%C3%B3n-de-las-interfaces-de-usuario">Diseño.md</a>, 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>,<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#mejoras-a-las-interfaces">Mejoras a las interfaces</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#evoluci%C3%B3n-de-las-interfaces-de-usuario">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#m%C3%A9tricas2">Pruebas.md </a>, 
 
 Fecha límite: 30/11/2023
 
@@ -394,11 +394,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzNjU4MzMzLC0xNzQ1ODA1NTgyLC0xNT
-I2MjA5ODg4LC0xNzc4Mzk2ODg3LC0xMDI2MTM0NjMzLC00MDAw
-NzUwNzIsMTUyNzI0ODQwOCwtMTAxMjQ3MzI2MCwxODI4MDk4MD
-Q4LDE3ODQyODcyOTgsNDU0MDExODAsLTEyNjkwNzQ5MjMsMTMz
-MzIyMTA2OSwzNDI1ODMwNywtMTEyNjM0NzU1OSwxNzEyMDYwMj
-U5LDE5MjI3NjkxNjMsMTU3NTczMTg4MiwxNzc1NjUwMTkwLDIw
-MTcwODAwNzVdfQ==
+eyJoaXN0b3J5IjpbLTE5MDQ3NDcyNTEsLTE3NDU4MDU1ODIsLT
+E1MjYyMDk4ODgsLTE3NzgzOTY4ODcsLTEwMjYxMzQ2MzMsLTQw
+MDA3NTA3MiwxNTI3MjQ4NDA4LC0xMDEyNDczMjYwLDE4MjgwOT
+gwNDgsMTc4NDI4NzI5OCw0NTQwMTE4MCwtMTI2OTA3NDkyMywx
+MzMzMjIxMDY5LDM0MjU4MzA3LC0xMTI2MzQ3NTU5LDE3MTIwNj
+AyNTksMTkyMjc2OTE2MywxNTc1NzMxODgyLDE3NzU2NTAxOTAs
+MjAxNzA4MDA3NV19
 -->
