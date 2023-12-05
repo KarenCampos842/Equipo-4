@@ -258,7 +258,7 @@ Utilizar la siguiente plantilla:
  - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, medio, alto).  
 Elaborar una métrica que contenga las actividades de las 3 entregas. 
 
- - List item
+ - **Artefactos Scrum:** De acuerdo a las sesiones de Sergio Franco y los conceptos adicionales presentados, presentar de forma explícita un ejemplo de DoD (Definition of Done). El ejemplo basado en el proyecto final debe incluir de forma explícita las características para que sea considerado un DoD de calidad. Utiliza la siguiente referencia como base para crear el DoD para un incremento del proyecto final (preferentemente de la última entrega). https://www.scrum.org/learning-series/definition-done/what-is-the-definition-of-done-
 
  - **Organización y Documentación del Repositorio:** Crear los siguientes archivos en formato StackEdit en la branch de "*Tercera-Entrega*" del repositorio del equipo (Equipo-4): Producto, Requisitos, Diseño, Pruebas, Presentación del avance, Diálogos, Competencias, Descripción del proceso, Gestión del proceso, Métrica de contribución, Demo, Artefactos_Scrum y Lista de cotejo. 
  
@@ -333,7 +333,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzAyODczOSwtMjI3NTk0Njk3LC0xND
+eyJoaXN0b3J5IjpbMTc0MDE0MDc1OSwtMjI3NTk0Njk3LC0xND
 Y0MjMxNTI1LC00NzU5MjEzNTYsMTUzODI0NzI0NiwtMjAwNTgx
 MzQxNSwtMTIxMjA1MjI3NCwtMTkzNDIzMDE1LC0yMTAyNTYyNz
 M5LDg5MTI1ODMxLC0xMTY2ODQ5MzE2LDIwNzA5MDM5NSwxNzgx
