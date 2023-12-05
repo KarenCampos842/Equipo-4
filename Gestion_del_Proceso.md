@@ -304,14 +304,14 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
      <tr>
       <td>Resultados métricas (Hansony)</td>  
         <td>Alto</td>
-        <td>26/11/2023</td>
-       <td>29/11/2023</td>
+        <td>5/12/2023</td>
+       <td>8/12/2023</td>
         <td>Terminada</td>     
      </tr>
      <tr>
       <td>Resultados interfaz (Carlos)</td>  
         <td>Alto</td>
-        <td>26/11/2023</td>
+        <td>2/11/2023</td>
        <td>29/11/2023</td>
         <td>Terminada</td>     
      </tr>  
@@ -319,7 +319,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
     <td>Evolución de las Interfaces de Usuario (Carlos)</td>  
         <td>Medio</td>
         <td>5/12/2023</td>
-       <td>8/12/2023</td>
+       <td>7/12/2023</td>
         <td>Terminada</td>     
    </tr>
    <tr>  
@@ -375,7 +375,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzQ3MzM5OCwtMTc3ODM5Njg4NywtMT
+eyJoaXN0b3J5IjpbMTA2MTM1OTEzNywtMTc3ODM5Njg4NywtMT
 AyNjEzNDYzMywtNDAwMDc1MDcyLDE1MjcyNDg0MDgsLTEwMTI0
 NzMyNjAsMTgyODA5ODA0OCwxNzg0Mjg3Mjk4LDQ1NDAxMTgwLC
 0xMjY5MDc0OTIzLDEzMzMyMjEwNjksMzQyNTgzMDcsLTExMjYz
