@@ -95,7 +95,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
       <td>Corrección de redacción (Brandon)</td>  
        <td>Alto</td> 
        <td>18/11/2023</td>
-       <td>27/11/2023</td>
+       <td>7/12/2023</td>
         <td>Terminada</td>    
    </tr> 
    <tr>  
@@ -375,11 +375,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzA4Nzk4OSwtMTc3ODM5Njg4NywtMT
-AyNjEzNDYzMywtNDAwMDc1MDcyLDE1MjcyNDg0MDgsLTEwMTI0
-NzMyNjAsMTgyODA5ODA0OCwxNzg0Mjg3Mjk4LDQ1NDAxMTgwLC
-0xMjY5MDc0OTIzLDEzMzMyMjEwNjksMzQyNTgzMDcsLTExMjYz
-NDc1NTksMTcxMjA2MDI1OSwxOTIyNzY5MTYzLDE1NzU3MzE4OD
-IsMTc3NTY1MDE5MCwyMDE3MDgwMDc1LDgxODEwMTcwNCwtMzYz
-MjU2ODc2XX0=
+eyJoaXN0b3J5IjpbLTEyODU2Mzg5NDQsLTE3NzgzOTY4ODcsLT
+EwMjYxMzQ2MzMsLTQwMDA3NTA3MiwxNTI3MjQ4NDA4LC0xMDEy
+NDczMjYwLDE4MjgwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4MC
+wtMTI2OTA3NDkyMywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMTI2
+MzQ3NTU5LDE3MTIwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMxOD
+gyLDE3NzU2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3MDQsLTM2
+MzI1Njg3Nl19
 -->
