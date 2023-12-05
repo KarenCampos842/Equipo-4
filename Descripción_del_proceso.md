@@ -243,7 +243,7 @@ Utilizar la siguiente plantilla:
 
 **Responsable**
 
-*Campos García Karen Elizabeth:* Sección Proceso.
+1.*Campos García Karen Elizabeth:* Sección Proceso e
 
 **Actividades**
  - **Descripción del proceso:** Describir de forma clara en un documento el tamaño del sprint, planeación, actividades, responsables, roles y resultados.
@@ -256,7 +256,7 @@ Utilizar la siguiente plantilla:
  -- Realizar una tabla **(sprint backlog)** que contenga las actividades a realizar durante el sprint, responsables, el estado de la tarea (terminada, en curso), fecha de inicio, fechas límite de entrega y nivel de cada actividad (bajo, medio, alto).
  - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, medio, alto).  
 Elaborar una métrica que contenga las actividades de las 3 entregas. 
- - **Organización y Documentación del Repositorio:** Crear los siguientes archivos en formato StackEdit en la branch de "*Tercera-Entrega*" del repositorio del equipo (Equipo-4): Producto, Requisitos, Diseño, Pruebas, Presentación del avance, Diálogos, Competencias, Descripción del proceso, Gestión del proceso, Métrica de contribución, Demo y Lista de cotejo. 
+ - **Organización y Documentación del Repositorio:** Crear los siguientes archivos en formato StackEdit en la branch de "*Tercera-Entrega*" del repositorio del equipo (Equipo-4): Producto, Requisitos, Diseño, Pruebas, Presentación del avance, Diálogos, Competencias, Descripción del proceso, Gestión del proceso, Métrica de contribución, Demo, Artefactos_Scrum y Lista de cotejo. 
  
  **Archivo del trabajo/Resultado:**  
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>  , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a> <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Competencias.md#competencias">Competencias.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Demo.md#demo">Demo.md</a>
@@ -329,7 +329,7 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzUyNDgyNywtMjI3NTk0Njk3LC0xND
+eyJoaXN0b3J5IjpbLTg3Nzg1OTc2NCwtMjI3NTk0Njk3LC0xND
 Y0MjMxNTI1LC00NzU5MjEzNTYsMTUzODI0NzI0NiwtMjAwNTgx
 MzQxNSwtMTIxMjA1MjI3NCwtMTkzNDIzMDE1LC0yMTAyNTYyNz
 M5LDg5MTI1ODMxLC0xMTY2ODQ5MzE2LDIwNzA5MDM5NSwxNzgx
