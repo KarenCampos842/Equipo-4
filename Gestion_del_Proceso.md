@@ -53,7 +53,7 @@ Producto:
 
 Fecha límite: 30/11/2023
 
-**Jueves 30 de noviembre de 2023**<br> Durante la reunión Karen informó haber concluido la actividad Modificación de Interfaces. Este 
+**Jueves 30 de noviembre de 2023**<br> Durante la reunión Karen informó haber concluido la actividad Modificación de Interfaces. Por otra parte, dado a la extensión de tiempo para la finalización del proyecto, se reprogramaron las actividades 
 
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>
@@ -385,11 +385,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1MjYwMDA0LC0xNzc4Mzk2ODg3LC0xMD
-I2MTM0NjMzLC00MDAwNzUwNzIsMTUyNzI0ODQwOCwtMTAxMjQ3
-MzI2MCwxODI4MDk4MDQ4LDE3ODQyODcyOTgsNDU0MDExODAsLT
-EyNjkwNzQ5MjMsMTMzMzIyMTA2OSwzNDI1ODMwNywtMTEyNjM0
-NzU1OSwxNzEyMDYwMjU5LDE5MjI3NjkxNjMsMTU3NTczMTg4Mi
-wxNzc1NjUwMTkwLDIwMTcwODAwNzUsODE4MTAxNzA0LC0zNjMy
-NTY4NzZdfQ==
+eyJoaXN0b3J5IjpbMTYzMTE5Njc2MiwtMTc3ODM5Njg4NywtMT
+AyNjEzNDYzMywtNDAwMDc1MDcyLDE1MjcyNDg0MDgsLTEwMTI0
+NzMyNjAsMTgyODA5ODA0OCwxNzg0Mjg3Mjk4LDQ1NDAxMTgwLC
+0xMjY5MDc0OTIzLDEzMzMyMjEwNjksMzQyNTgzMDcsLTExMjYz
+NDc1NTksMTcxMjA2MDI1OSwxOTIyNzY5MTYzLDE1NzU3MzE4OD
+IsMTc3NTY1MDE5MCwyMDE3MDgwMDc1LDgxODEwMTcwNCwtMzYz
+MjU2ODc2XX0=
 -->
