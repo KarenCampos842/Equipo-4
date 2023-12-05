@@ -76,7 +76,7 @@
   <td></td>
  </tr>
   <tr>
-  <th rowspan="4">Proceso (mejorado)</th>
+  <th rowspan="5">Proceso (mejorado)</th>
   <td>Descripción del Proceso</td>
   <td>Se cuenta con evidencia explícita de (los) sprints: el tamaño del sprint, planeación, actividades, responsables, roles, resultados. Existen cambios significativos del proceso a lo largo del desarrollo del producto?</td>
   <td>Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción del Proceso</a>
@@ -98,6 +98,12 @@
   <td>Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Metrica_de_Contribucion.md#m%C3%A9trica-de-contribuci%C3%B3n-individual">Métrica de Contribución Individual</a>
  <br>Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Metrica_de_Contribucion.md#m%C3%A9trica-de-contribuci%C3%B3n-individual">Métrica de Contribución Individual</a>
   <br>Tercera Entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Metrica_de_Contribucion.md#m%C3%A9trica-de-contribuci%C3%B3n-individual-3-entregas">Métrica de Contribución Individual</a></td>
+  <td></td>
+ </tr>
+   <tr>
+  <td>Artefactos Scrum</td>
+  <td>De acuerdo a las sesiones de Sergio Franco y los conceptos adicionales presentados, presentar de forma explícita un ejemplo de DoD (Definition of Done).   El ejemplo basado en tu proyecto final debe incluir de forma explícita las características para que sea considerado un DoD de calidad. Utiliza la siguiente referencia como base para crear el DoD para un incremento del proyecto final (preferentemente de la última entrega). https://www.scrum.org/learning-series/definition-done/what-is-the-definition-of-done-</td>
+<br>Tercera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Artefactos_Scrum.md#artefactos-scrum">Artefactos Scrum</a></td>
   <td></td>
  </tr>
    <tr>
