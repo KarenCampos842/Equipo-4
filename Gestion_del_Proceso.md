@@ -55,7 +55,7 @@ Fecha límite: 28/11/2023
 **Miércoles 29 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 30 (Modificación de Interfaces, Diálogo Interfaz, Audio_Diálogo Interfaz, Resultados interfaz, Evolución de las Interfaces de Usuario, Resultados métricas, Video demo, Audio demo, Edición demo, Corrección de redacción,  Refinamiento de artefactos y Edición del video). 
 
 Producto: 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>,<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#mejoras-a-las-interfaces">Mejoras a las interfaces</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#evoluci%C3%B3n-de-las-interfaces-de-usuario">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#m%C3%A9tricas2">Pruebas.md </a>, 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>,<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#mejoras-a-las-interfaces">Mejoras a las interfaces</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#evoluci%C3%B3n-de-las-interfaces-de-usuario">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#m%C3%A9tricas2">Pruebas.md </a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Demo.md#demo">Demo.md </a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion.md </a>, 
 
 Fecha límite: 30/11/2023
 
@@ -394,11 +394,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQ3NDcyNTEsLTE3NDU4MDU1ODIsLT
-E1MjYyMDk4ODgsLTE3NzgzOTY4ODcsLTEwMjYxMzQ2MzMsLTQw
-MDA3NTA3MiwxNTI3MjQ4NDA4LC0xMDEyNDczMjYwLDE4MjgwOT
-gwNDgsMTc4NDI4NzI5OCw0NTQwMTE4MCwtMTI2OTA3NDkyMywx
-MzMzMjIxMDY5LDM0MjU4MzA3LC0xMTI2MzQ3NTU5LDE3MTIwNj
-AyNTksMTkyMjc2OTE2MywxNTc1NzMxODgyLDE3NzU2NTAxOTAs
-MjAxNzA4MDA3NV19
+eyJoaXN0b3J5IjpbMTM3NjY3MzIwMSwtMTc0NTgwNTU4MiwtMT
+UyNjIwOTg4OCwtMTc3ODM5Njg4NywtMTAyNjEzNDYzMywtNDAw
+MDc1MDcyLDE1MjcyNDg0MDgsLTEwMTI0NzMyNjAsMTgyODA5OD
+A0OCwxNzg0Mjg3Mjk4LDQ1NDAxMTgwLC0xMjY5MDc0OTIzLDEz
+MzMyMjEwNjksMzQyNTgzMDcsLTExMjYzNDc1NTksMTcxMjA2MD
+I1OSwxOTIyNzY5MTYzLDE1NzU3MzE4ODIsMTc3NTY1MDE5MCwy
+MDE3MDgwMDc1XX0=
 -->
