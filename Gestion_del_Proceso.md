@@ -10,7 +10,7 @@ Producto:
 
 Fecha límite: 18/11/2023
 
-**Martes 21 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 23. Hubo un retraso con la actividad innovación (por enfermedad). Hansony se comprometió a tenerla lista para el jueves 23 de noviembre.
+**Martes 21 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 23. Hubo un retraso con la actividad innovación (por enfermedad). Hansony se comprometió a tenerla lista para el jueves 23 de noviembre. Igualmente, hubo un retraso con la actividad Usuarios de Brandon, de la cual se modificó la fecha para el 29 de noviembre. 
 Por otro lado, cómo resultado de la reunión con el profesor Luis Basto se decidió realizar una encuesta después de finalizar el daily scrum para decidir si el video de la entrega se haría en inglés o en español. El acuerdo fue realizarlo en español y asignar una actividad (Video demo) a Asaf para compensar la actividad de traducción que ya no sería necesaria.
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>
@@ -371,11 +371,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDA3NTA3MiwxNTI3MjQ4NDA4LC0xMD
-EyNDczMjYwLDE4MjgwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4
-MCwtMTI2OTA3NDkyMywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMT
-I2MzQ3NTU5LDE3MTIwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMx
-ODgyLDE3NzU2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3MDQsLT
-M2MzI1Njg3NiwtMjAyOTkyNzQxMSwxMTc5MDMzNTQ1LC0yMTQ0
-MDUxNTM2XX0=
+eyJoaXN0b3J5IjpbLTE2NjU5NDIzMjksLTQwMDA3NTA3MiwxNT
+I3MjQ4NDA4LC0xMDEyNDczMjYwLDE4MjgwOTgwNDgsMTc4NDI4
+NzI5OCw0NTQwMTE4MCwtMTI2OTA3NDkyMywxMzMzMjIxMDY5LD
+M0MjU4MzA3LC0xMTI2MzQ3NTU5LDE3MTIwNjAyNTksMTkyMjc2
+OTE2MywxNTc1NzMxODgyLDE3NzU2NTAxOTAsMjAxNzA4MDA3NS
+w4MTgxMDE3MDQsLTM2MzI1Njg3NiwtMjAyOTkyNzQxMSwxMTc5
+MDMzNTQ1XX0=
 -->
