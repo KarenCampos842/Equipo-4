@@ -72,7 +72,7 @@ Fecha límite: 30/11/2023
 Fecha límite: 5/12/2023
 
 **Jueves 30 de noviembre de 2023**<br> 
-Durante la reunión Karen informó al equipo que ya se encontraba disponible la descripción de la actividad anexada "Artefactos Scrum" en <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> y mencionó que la métrica de contribución estaba casi finalizada. 
+Durante la reunión Karen informó al equipo que ya se encontraba disponible la descripción de la actividad anexada "Artefactos Scrum" en <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, así como su archivo en el repositorio. También, mencionó que la métrica de contribución estaba casi finalizada. 
 Por otro lado, se repasaron las fechas de las actividades que restan del proyecto (Diálogo Interfaz, Audio_Diálogo Interfaz, Resultados interfaz, Evolución de las Interfaces de Usuario, Resultados métricas, Video demo, Audio demo, Edición demo, Corrección de redacción,  Refinamiento de artefactos y Edición del video). 
 
 Producto: 
@@ -405,11 +405,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTgyNTQ1OTcsLTE3NDU4MDU1ODIsLT
-E1MjYyMDk4ODgsLTE3NzgzOTY4ODcsLTEwMjYxMzQ2MzMsLTQw
-MDA3NTA3MiwxNTI3MjQ4NDA4LC0xMDEyNDczMjYwLDE4MjgwOT
-gwNDgsMTc4NDI4NzI5OCw0NTQwMTE4MCwtMTI2OTA3NDkyMywx
-MzMzMjIxMDY5LDM0MjU4MzA3LC0xMTI2MzQ3NTU5LDE3MTIwNj
-AyNTksMTkyMjc2OTE2MywxNTc1NzMxODgyLDE3NzU2NTAxOTAs
-MjAxNzA4MDA3NV19
+eyJoaXN0b3J5IjpbMTc5MDY1MDgwNCwtMTc0NTgwNTU4MiwtMT
+UyNjIwOTg4OCwtMTc3ODM5Njg4NywtMTAyNjEzNDYzMywtNDAw
+MDc1MDcyLDE1MjcyNDg0MDgsLTEwMTI0NzMyNjAsMTgyODA5OD
+A0OCwxNzg0Mjg3Mjk4LDQ1NDAxMTgwLC0xMjY5MDc0OTIzLDEz
+MzMyMjEwNjksMzQyNTgzMDcsLTExMjYzNDc1NTksMTcxMjA2MD
+I1OSwxOTIyNzY5MTYzLDE1NzU3MzE4ODIsMTc3NTY1MDE5MCwy
+MDE3MDgwMDc1XX0=
 -->
