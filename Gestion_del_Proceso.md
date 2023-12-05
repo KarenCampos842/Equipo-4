@@ -54,7 +54,8 @@ Producto:
 
 Fecha límite: 30/11/2023
 
-**Jueves 30 de noviembre de 2023**<br> Durante la reunión Karen informó haber concluido la actividad Modificación de Interfaces. Por otra parte, dado a la extensión de tiempo para la finalización del proyecto y la adición de nuevas actividades, se extendió la fecha límite de las actividades con fecha de finalización de 30 de noviembre, las cuáles son las siguientes: Diálogo Interfaz, Audio_Diálogo Interfaz, Resultados interfaz, Evolución de las Interfaces de Usuario, Resultados métricas, Video demo, Audio demo, Edición demo, Corrección de redacción,  Refinamiento de artefactos y Edición del video.
+**Jueves 30 de noviembre de 2023**<br> Durante la reunión Karen informó haber concluido la actividad Modificación de Interfaces. Por otra parte, dado a la extensión de tiempo para la finalización del proyecto y la adición de nuevas actividades, se extendió la fecha límite de las actividades con fecha de finalización de 30 de noviembre, las cuáles son las siguientes: Diálogo Interfaz, Audio_Diálogo Interfaz, Resultados interfaz, Evolución de las Interfaces de Usuario, Resultados métricas, Video demo, Audio demo, Edición demo, Corrección de redacción,  Refinamiento de artefactos y Edición del video. 
+De igual forma, se abrió la actividad de Descripción de Descripción del proceso, Gestión del proceso, 
 
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>
@@ -386,11 +387,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE5MTk4MDcsLTE3NzgzOTY4ODcsLT
-EwMjYxMzQ2MzMsLTQwMDA3NTA3MiwxNTI3MjQ4NDA4LC0xMDEy
-NDczMjYwLDE4MjgwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4MC
-wtMTI2OTA3NDkyMywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMTI2
-MzQ3NTU5LDE3MTIwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMxOD
-gyLDE3NzU2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3MDQsLTM2
-MzI1Njg3Nl19
+eyJoaXN0b3J5IjpbMTA0MzA2MTA5NywtMTc3ODM5Njg4NywtMT
+AyNjEzNDYzMywtNDAwMDc1MDcyLDE1MjcyNDg0MDgsLTEwMTI0
+NzMyNjAsMTgyODA5ODA0OCwxNzg0Mjg3Mjk4LDQ1NDAxMTgwLC
+0xMjY5MDc0OTIzLDEzMzMyMjEwNjksMzQyNTgzMDcsLTExMjYz
+NDc1NTksMTcxMjA2MDI1OSwxOTIyNzY5MTYzLDE1NzU3MzE4OD
+IsMTc3NTY1MDE5MCwyMDE3MDgwMDc1LDgxODEwMTcwNCwtMzYz
+MjU2ODc2XX0=
 -->
