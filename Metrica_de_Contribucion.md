@@ -45,8 +45,8 @@ Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primer
  </table>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA3NzAxNTIsMTEyNTczOTM0MCwxND
-c3NTkyMTM3LC0xMTA5NjI0MjE3LDY2OTYxNjg1OCwtNjQ4ODYy
-MzcsMTEwODMzNDc1MSwxOTA3NjExODQ1LC03MTM5MzM5MzNdfQ
-==
+eyJoaXN0b3J5IjpbLTM3MDU3OTI4MiwtMTUyMDc3MDE1MiwxMT
+I1NzM5MzQwLDE0Nzc1OTIxMzcsLTExMDk2MjQyMTcsNjY5NjE2
+ODU4LC02NDg4NjIzNywxMTA4MzM0NzUxLDE5MDc2MTE4NDUsLT
+cxMzkzMzkzM119
 -->
