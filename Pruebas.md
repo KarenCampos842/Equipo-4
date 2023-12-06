@@ -1957,6 +1957,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 ## Cuestionarios de satisfacción
 ###  Cuestionario
 ### Aplicación del cuestionario
+![Captura de pantalla 2023-12-06 162907.png](https://github.com/KarenCampos842/EGIT/blob/main/Captura%20de%20pantalla%202023-12-06%20162907.png)
 ## Resultados
 ### Métricas[^2]
 ### Mejoras a las interfaces 
@@ -1968,5 +1969,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjM5NjYwMCwxNDA0MDI5NTQ3XX0=
+eyJoaXN0b3J5IjpbLTEyODE5NzY5ODEsMTM3MjM5NjYwMCwxND
+A0MDI5NTQ3XX0=
 -->
