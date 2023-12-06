@@ -84,7 +84,8 @@ Fecha límite: 5/12/2023
 **Miércoles 6 diciembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 6 de diciembre (Diálogo Interfaz y Audio_Diálogo Interfaz ). 
 
 Producto: 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>
+
 Fecha límite: 6/12/2023
 
 ## Sprint Backlog
@@ -418,7 +419,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1MzMxNjg2LC04Mjc1MjY5MzgsLTE3ND
+eyJoaXN0b3J5IjpbNzUwMzY5MzA1LC04Mjc1MjY5MzgsLTE3ND
 U4MDU1ODIsLTE1MjYyMDk4ODgsLTE3NzgzOTY4ODcsLTEwMjYx
 MzQ2MzMsLTQwMDA3NTA3MiwxNTI3MjQ4NDA4LC0xMDEyNDczMj
 YwLDE4MjgwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4MCwtMTI2
