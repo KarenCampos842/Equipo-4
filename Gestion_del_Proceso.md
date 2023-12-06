@@ -81,11 +81,11 @@ Producto:
 
 Fecha límite: 5/12/2023
 
-**Miércoles 6 diciembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 6 de diciembre (aplicación de las pruebas). Por otra parte, se acordó mover la fecha de la actividad Modificación de Interfaces del día 28 para el 30. 
+**Miércoles 6 diciembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 6 de diciembre (Diálogo Interfaz y Audio_Diálogo Interfaz ). 
 
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
-Fecha límite: 28/11/2023
+Fecha límite: 6/12/2023
 
 ## Sprint Backlog
 Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/SegundTercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
@@ -418,11 +418,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDAyOTkyODMsLTgyNzUyNjkzOCwtMT
-c0NTgwNTU4MiwtMTUyNjIwOTg4OCwtMTc3ODM5Njg4NywtMTAy
-NjEzNDYzMywtNDAwMDc1MDcyLDE1MjcyNDg0MDgsLTEwMTI0Nz
-MyNjAsMTgyODA5ODA0OCwxNzg0Mjg3Mjk4LDQ1NDAxMTgwLC0x
-MjY5MDc0OTIzLDEzMzMyMjEwNjksMzQyNTgzMDcsLTExMjYzND
-c1NTksMTcxMjA2MDI1OSwxOTIyNzY5MTYzLDE1NzU3MzE4ODIs
-MTc3NTY1MDE5MF19
+eyJoaXN0b3J5IjpbNDA1MzMxNjg2LC04Mjc1MjY5MzgsLTE3ND
+U4MDU1ODIsLTE1MjYyMDk4ODgsLTE3NzgzOTY4ODcsLTEwMjYx
+MzQ2MzMsLTQwMDA3NTA3MiwxNTI3MjQ4NDA4LC0xMDEyNDczMj
+YwLDE4MjgwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4MCwtMTI2
+OTA3NDkyMywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMTI2MzQ3NT
+U5LDE3MTIwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMxODgyLDE3
+NzU2NTAxOTBdfQ==
 -->
