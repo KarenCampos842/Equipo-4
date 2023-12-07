@@ -30,7 +30,29 @@
 
 ## Competencias específicas
 
+1.  **Desarrollo de Software:**
 
+-   Destacaron en este aspecto Moisés y Hansony debido a sus conocimientos previos que les facilitaron el aprendizaje.
+
+2.  **Principios y Métodos de Ingeniería de Software:**
+
+-   Brandon destacó en la metodología al liderar la actividad de Scrum, aunque todos participamos en la investigación de diferentes metodologías.
+
+3.  **Gestión de Proyectos y Herramientas de Desarrollo:**
+
+-   Karen demostró mayor dominio en GitHub y gestionó eficientemente el proyecto y las herramientas de desarrollo.
+
+4.  **Pruebas y Aseguramiento de la Calidad:**
+
+-   Todos aportamos en la realización de pruebas funcionales, practicándolas para identificar errores y posibles modificaciones.
+
+5.  **Diseño y Arquitectura de Software:**
+
+-   Todos contribuimos en el diseño de interfaces y en la arquitectura del software.
+
+6.  **Seguridad Informática:**
+
+-   Tuvimos ciertos conocimientos en seguridad, destacando especialmente en la implementación de medidas de seguridad en la base de datos para evitar posibles problemas.
 
 ## Crítica constructiva del curso
 La materia de “fundamentos de ingeniería de software” perteneciente al primer semestre y tiene el objetivo de analizar las principales características, métodos, procedimientos y buenas prácticas, utilizados en el proceso de desarrollo y gestión del software, cuenta con 5 unidades: 
@@ -53,8 +75,8 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQ0NTQzNTUsMjAzMDY4OTc5NCw2MT
-A1MDA0MywtMTI4MTAxOTAxOCw1NDY3MzcwMjksOTcyNzQ4NDgz
-LDk3Mjc0ODQ4Myw5NzI3NDg0ODMsMTIwNjU2MjE3LDE2OTQyNT
-g0NDcsMjA0NTI3MDkwN119
+eyJoaXN0b3J5IjpbNjA3MjEzNDMzLDIwMzA2ODk3OTQsNjEwNT
+AwNDMsLTEyODEwMTkwMTgsNTQ2NzM3MDI5LDk3Mjc0ODQ4Myw5
+NzI3NDg0ODMsOTcyNzQ4NDgzLDEyMDY1NjIxNywxNjk0MjU4ND
+Q3LDIwNDUyNzA5MDddfQ==
 -->
