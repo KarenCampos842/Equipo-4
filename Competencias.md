@@ -20,7 +20,7 @@ La carrera de Ingeniería de Software requiere una combinación de habilidades t
 2.  **Comunicación y Trabajo en Equipo:**
     
     -   **Habilidades de Comunicación:** esto todos pudimos hacerlo ya que cuando hubo un problema en alguna actividad pudimos expresarlo y tratarlo con los demas los que nos facilito la comunicación
-    -   **Colaboración:** eso
+    -   **Colaboración:** esto igual el equipo lo logramos con mucha facilidad ya que si se nos dama facil la habilidad de comunicación se nos daba facil la colaboración
 3.  **Aprendizaje Continuo y Adaptabilidad:**
     
     -   **Curiosidad y Sed de Aprendizaje:** Actitud proactiva para aprender nuevas tecnologías y métodos de desarrollo.
@@ -96,7 +96,7 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjE2MDUzOCw5NzI3NDg0ODMsOTcyNz
+eyJoaXN0b3J5IjpbMTAzMDEwNzcxNyw5NzI3NDg0ODMsOTcyNz
 Q4NDgzLDk3Mjc0ODQ4MywxMjA2NTYyMTcsMTY5NDI1ODQ0Nywy
 MDQ1MjcwOTA3XX0=
 -->
