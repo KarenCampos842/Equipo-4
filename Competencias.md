@@ -50,11 +50,7 @@
     
     -esto como ya lo mencionamos fue facil para nosotros porque supimos comunicarnos y resolver problemas y mas importante explicar el problema lo que la mayoría a veces no puede hacer 
 8.  **Aprendizaje Continuo y Adaptabilidad:**
-    
-    -   Actitud de aprendizaje constante para mantenerse al día con las nuevas tecnologías y tendencias en ingeniería de software.
-    -   Adaptabilidad para enfrentar cambios en los requisitos del proyecto y el entorno tecnológico.
-
-Estas competencias específicas son esenciales para los ingenieros de software y pueden variar según el área de especialización, la industria y el contexto específico del trabajo.
+    todos igual en esta parte fuimos facilmente adaptables y principalmente hansony y moises ya que ellos tenian conociminetos de lengau 
 
 ## Crítica constructiva del curso
 La materia de “fundamentos de ingeniería de software” perteneciente al primer semestre y tiene el objetivo de analizar las principales características, métodos, procedimientos y buenas prácticas, utilizados en el proceso de desarrollo y gestión del software, cuenta con 5 unidades: 
@@ -77,7 +73,7 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTE2MDk1Niw2MTA1MDA0MywtMTI4MT
+eyJoaXN0b3J5IjpbLTQ0MDA3MDc3OSw2MTA1MDA0MywtMTI4MT
 AxOTAxOCw1NDY3MzcwMjksOTcyNzQ4NDgzLDk3Mjc0ODQ4Myw5
 NzI3NDg0ODMsMTIwNjU2MjE3LDE2OTQyNTg0NDcsMjA0NTI3MD
 kwN119
