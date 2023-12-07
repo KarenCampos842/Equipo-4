@@ -48,7 +48,7 @@
     esto tuvimos algunos conocimiento de seguridad pero en donde destacamos fue en la base de datos ya que con eso pulimos la seguridad para que no pete la maquina o el usuario
 7.  **Habilidades Interpersonales:**
     
-    esto  
+    -esto como 
 8.  **Aprendizaje Continuo y Adaptabilidad:**
     
     -   Actitud de aprendizaje constante para mantenerse al día con las nuevas tecnologías y tendencias en ingeniería de software.
@@ -77,7 +77,8 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwNTAwNDMsLTEyODEwMTkwMTgsNTQ2Nz
-M3MDI5LDk3Mjc0ODQ4Myw5NzI3NDg0ODMsOTcyNzQ4NDgzLDEy
-MDY1NjIxNywxNjk0MjU4NDQ3LDIwNDUyNzA5MDddfQ==
+eyJoaXN0b3J5IjpbLTExNDIzODc3OTYsNjEwNTAwNDMsLTEyOD
+EwMTkwMTgsNTQ2NzM3MDI5LDk3Mjc0ODQ4Myw5NzI3NDg0ODMs
+OTcyNzQ4NDgzLDEyMDY1NjIxNywxNjk0MjU4NDQ3LDIwNDUyNz
+A5MDddfQ==
 -->
