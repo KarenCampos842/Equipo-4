@@ -42,11 +42,10 @@
     las pruebas funcionalidades todos aportamos ya que en la actividad de pruebas todos practicamos estas pruebas al publico para conocer errores o modificaciones que podíamos hacer
 5.  **Diseño y Arquitectura de Software:**
     
-    esto todos pudimos hacerlo ya que todos participamos en las interfaces y  
+    esto todos pudimos hacerlo ya que todos participamos en las interfaces y  en la arquitectura del software 
 6.  **Seguridad Informática:**
     
-    -   Conocimiento de principios de seguridad de la información.
-    -   Capacidad para implementar prácticas de seguridad en el desarrollo de software.
+    esto tuvimos algunos conoccimineto de seguridad p
 7.  **Habilidades Interpersonales:**
     
     -   Comunicación efectiva con equipos multidisciplinarios.
@@ -80,7 +79,7 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODEwMTkwMTgsNTQ2NzM3MDI5LDk3Mj
-c0ODQ4Myw5NzI3NDg0ODMsOTcyNzQ4NDgzLDEyMDY1NjIxNywx
-Njk0MjU4NDQ3LDIwNDUyNzA5MDddfQ==
+eyJoaXN0b3J5IjpbLTE3MTQwMTMxNDIsLTEyODEwMTkwMTgsNT
+Q2NzM3MDI5LDk3Mjc0ODQ4Myw5NzI3NDg0ODMsOTcyNzQ4NDgz
+LDEyMDY1NjIxNywxNjk0MjU4NDQ3LDIwNDUyNzA5MDddfQ==
 -->
