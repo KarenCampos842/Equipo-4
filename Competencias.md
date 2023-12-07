@@ -39,7 +39,7 @@
     en esta parte tuvo mas dominio Karen ya que el sabia mas al git hub y gracias a ella podia gestionar el proyecto y las herramientas de desarrollo 
 4.  **Pruebas y Aseguramiento de la Calidad:**
     
-    las pruebas funcionalidades todos aportamos ya que en la actividad de pruebas todos practicamos estas pruebas 
+    las pruebas funcionalidades todos aportamos ya que en la actividad de pruebas todos practicamos estas pruebas al publico para conocer errores o modificaciones que podíamos hacer
 5.  **Diseño y Arquitectura de Software:**
     
     -   Capacidad para diseñar sistemas robustos y escalables.
@@ -82,7 +82,7 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzAyNDQyOSw5NzI3NDg0ODMsOTcyNz
-Q4NDgzLDk3Mjc0ODQ4MywxMjA2NTYyMTcsMTY5NDI1ODQ0Nywy
-MDQ1MjcwOTA3XX0=
+eyJoaXN0b3J5IjpbNTQ2NzM3MDI5LDk3Mjc0ODQ4Myw5NzI3ND
+g0ODMsOTcyNzQ4NDgzLDEyMDY1NjIxNywxNjk0MjU4NDQ3LDIw
+NDUyNzA5MDddfQ==
 -->
