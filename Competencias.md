@@ -36,11 +36,10 @@
     -   Metodología destaco Brandon ya que el hizo la actividad del srcum y eso lo ayudo mucho aunque como anteriormente dije todos ayudamos a investigar las diferentes tipo de metodología
 3.  **Gestión de Proyectos y Herramientas de Desarrollo:**
     
-    en 
+    en esta parte tuvo mas dominio Karen ya que el sabia mas al git hub y gracias a ella podia gestionar el proyecto y las herramientas de desarrollo 
 4.  **Pruebas y Aseguramiento de la Calidad:**
     
-    -   Competencia en técnicas de prueba de software (pruebas unitarias, de integración, funcionales, etc.).
-    -   Conocimiento de herramientas de pruebas automatizadas.
+    las pruebas funcionalidades todos aportamos ya que en la actividad de pruebas todos practicamos estas pruebas 
 5.  **Diseño y Arquitectura de Software:**
     
     -   Capacidad para diseñar sistemas robustos y escalables.
@@ -83,7 +82,7 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjEyMTM1NjEsOTcyNzQ4NDgzLDk3Mj
-c0ODQ4Myw5NzI3NDg0ODMsMTIwNjU2MjE3LDE2OTQyNTg0NDcs
-MjA0NTI3MDkwN119
+eyJoaXN0b3J5IjpbLTc0MzAyNDQyOSw5NzI3NDg0ODMsOTcyNz
+Q4NDgzLDk3Mjc0ODQ4MywxMjA2NTYyMTcsMTY5NDI1ODQ0Nywy
+MDQ1MjcwOTA3XX0=
 -->
