@@ -1,79 +1,56 @@
 <h1 id="competencias">Competencias</h1>
 
 ## Competencias genéricas
-La carrera de Ingeniería de Software requiere una combinación de habilidades técnicas, cognitivas y sociales para tener éxito en el campo. Aquí hay una lista de competencias genéricas importantes para un ingeniero de software:
+
 
 1.  **Habilidades Técnicas:**
     
-    -   **Programación:** Dominio de múltiples lenguajes de programación y capacidad para escribir código limpio y eficiente.
-    -   **Diseño de Software:** Capacidad para crear arquitecturas de software sólidas y escalables.
-    -   **Conocimiento de Herramientas y Tecnologías:** Familiaridad con frameworks, herramientas de desarrollo, sistemas operativos y tecnologías emergentes.
+    -   **Programación:** tuvimos dominio del lenguaje en las pruebas que estuvimos haciendo cuando hicimos descripción del producto
+    -   **Diseño de Software:** tuvimos la capacidad de diseñar la interfaz del software cuando hicimos descripción del producto aqui tuvieron mas dominio del tema Carlos, Karen y Hansony
+    -   **Conocimiento de Herramientas y Tecnologías:** por obvias razones todos tuvimos conocimiento del framework ya que trabajamos en ellos todos unos en otras areas mas que otros y por eso destacaran en alguna actividad
   
 
   2.   **Pensamiento Analítico y Resolución de Problemas:**
--   **Habilidad para Resolver Problemas:** Capacidad para descomponer problemas complejos en partes más simples y encontrar soluciones efectivas.
--  **Pensamiento Lógico:** Razonamiento lógico y habilidades analíticas para abordar desafíos técnicos.
+-   **Habilidad para Resolver Problemas:** Aqui es donde karen resalto mas porque gracias a ella se resolvieron problemas que iban  surgiendo en la marcha y ella gracias a ser la capitana pudimos resolver las cosas
+-  **Pensamiento Lógico:** El pensamiento técnico sin duda  uno que tuvo ventaja en eso fue Brandon ya que en la evolución del producto fue e que destaco gracias ello el sobre llevo el proyecto con el pensamiento lógico
 1.  **Gestión de Proyectos y Metodologías Ágiles:**
     
-    -   **Metodologías Ágiles:** Comprender y aplicar metodologías ágiles como Scrum, Kanban, entre otras, para la gestión eficiente de proyectos.
-    -   **Gestión del Tiempo:** Capacidad para priorizar tareas, establecer plazos y trabajar de manera eficiente.
+    -   **Metodologías Ágiles:** en los artefactos de Srcum destaco igual brandon ya que el fue que desarrollo esta tarea aunque no podemos quitar los meritos a los demas que investigaron sobre el metodo
+    -   **Gestión del Tiempo:** Karen fue la gestora del tiempo ya que ella como capitana reparto tareas y puso tiempos
 2.  **Comunicación y Trabajo en Equipo:**
     
-    -   **Habilidades de Comunicación:** Capacidad para expresar ideas técnicas de manera clara y comprensible tanto a colegas no técnicos como a equipos de desarrollo.
-    -   **Colaboración:** Trabajar efectivamente en equipos multidisciplinarios y comunicarse de manera colaborativa.
+    -   **Habilidades de Comunicación:** esto todos pudimos hacerlo ya que cuando hubo un problema en alguna actividad pudimos expresarlo y tratarlo con los demas los que nos facilito la comunicación
+    -   **Colaboración:** esto igual el equipo lo logramos con mucha facilidad ya que si se nos dama facil la habilidad de comunicación se nos daba facil la colaboración
 3.  **Aprendizaje Continuo y Adaptabilidad:**
     
-    -   **Curiosidad y Sed de Aprendizaje:** Actitud proactiva para aprender nuevas tecnologías y métodos de desarrollo.
-    -   **Adaptabilidad:** Capacidad para adaptarse a cambios rápidos en los requisitos del proyecto y en el panorama tecnológico.
-4.  **Ética y Responsabilidad Profesional:**
-    
-    -   **Ética:** Conciencia ética en la toma de decisiones relacionadas con la seguridad, la privacidad y el uso responsable de la tecnología.
-    -   **Responsabilidad:** Compromiso con la calidad del trabajo y la entrega oportuna de soluciones.
+    -   **Curiosidad y Sed de Aprendizaje:** por parte de todos tuvimos proactivos porque entre todos nos pusimos a investigar sobre en que lenguaje podíamos hacerlo y los diferentes tipo de metodología que podíamos utilizar
+    -   **Adaptabilidad:** esto fue un poco complicado y a la vez no fue mucho mas facil algunos que otros adaptarse ya que algunos no conocían muchos lenguajes
 
-Estas competencias genéricas son fundamentales para el éxito en la Ingeniería de Software y pueden variar en su énfasis dependiendo de la especialización, el entorno laboral y las demandas específicas de la industria.
 ## Competencias específicas
-La Ingeniería de Software implica competencias específicas en áreas técnicas, de gestión y habilidades interpersonales. Aquí hay una lista más detallada de competencias específicas para los ingenieros de software:
 
 1.  **Desarrollo de Software:**
     
-    -   Dominio de lenguajes de programación como Java, Python, C++, entre otros.
-    -   Conocimiento profundo de estructuras de datos y algoritmos.
-    -   Experiencia en el diseño y desarrollo de arquitecturas de software escalables y seguras.
-    -   Familiaridad con el desarrollo web, móvil y de aplicaciones.
+    el dominio de lenguaje todos tuvieron eso pero los que destacaron fueron moises y hansony ya que ellos tenían conocimiento previos y se les hizo mas fácil aprender o hacer cualquier cosa
 2.  **Principios y Métodos de Ingeniería de Software:**
     
-    -   Comprensión de los principios de diseño de software (DRY, SOLID, etc.).
-    -   Experiencia en el uso de patrones de diseño.
-    -   Conocimiento de metodologías ágiles (Scrum, Kanban) y capacidad para aplicarlas en el desarrollo de software.
+    -   Metodología destaco Brandon ya que el hizo la actividad del srcum y eso lo ayudo mucho aunque como anteriormente dije todos ayudamos a investigar las diferentes tipo de metodología
 3.  **Gestión de Proyectos y Herramientas de Desarrollo:**
     
-    -   Experiencia en el uso de herramientas de control de versiones como Git.
-    -   Conocimiento de herramientas de gestión de proyectos como Jira, Trello, etc.
-    -   Habilidad para trabajar con metodologías de desarrollo como DevOps.
+    en esta parte tuvo mas dominio Karen ya que el sabia mas al git hub y gracias a ella podia gestionar el proyecto y las herramientas de desarrollo 
 4.  **Pruebas y Aseguramiento de la Calidad:**
     
-    -   Competencia en técnicas de prueba de software (pruebas unitarias, de integración, funcionales, etc.).
-    -   Conocimiento de herramientas de pruebas automatizadas.
+    las pruebas funcionalidades todos aportamos ya que en la actividad de pruebas todos practicamos estas pruebas al publico para conocer errores o modificaciones que podíamos hacer
 5.  **Diseño y Arquitectura de Software:**
     
-    -   Capacidad para diseñar sistemas robustos y escalables.
-    -   Comprensión de patrones de arquitectura (MVC, microservicios, etc.).
-    -   Experiencia en el diseño de bases de datos y optimización de consultas.
+    esto todos pudimos hacerlo ya que todos participamos en las interfaces y  en la arquitectura del software 
 6.  **Seguridad Informática:**
     
-    -   Conocimiento de principios de seguridad de la información.
-    -   Capacidad para implementar prácticas de seguridad en el desarrollo de software.
+    esto tuvimos algunos conocimiento de seguridad pero en donde destacamos fue en la base de datos ya que con eso pulimos la seguridad para que no pete la maquina o el usuario
 7.  **Habilidades Interpersonales:**
     
-    -   Comunicación efectiva con equipos multidisciplinarios.
-    -   Habilidad para trabajar en equipo y resolver problemas colaborativamente.
-    -   Capacidad para explicar conceptos técnicos de forma clara y comprensible.
+    -esto como ya lo mencionamos fue facil para nosotros porque supimos comunicarnos y resolver problemas y mas importante explicar el problema lo que la mayoría a veces no puede hacer 
 8.  **Aprendizaje Continuo y Adaptabilidad:**
-    
-    -   Actitud de aprendizaje constante para mantenerse al día con las nuevas tecnologías y tendencias en ingeniería de software.
-    -   Adaptabilidad para enfrentar cambios en los requisitos del proyecto y el entorno tecnológico.
-
-Estas competencias específicas son esenciales para los ingenieros de software y pueden variar según el área de especialización, la industria y el contexto específico del trabajo.
+    todos igual en esta parte fuimos fácilmente adaptables y principalmente hansony y moises ya que ellos tenían conocimientos de lenguajes de programación asi que adaptarse a cualquier lenguaje fue facil para ellos la adaptabilidad de cambios fue facil igual para todos ya que todos supimos como hacerlo aunque unos destacaron mas que otros pero en general todos pudieron adaptarse a algún cambio que teníamos en mente o que era necesario para le programa
 
 ## Crítica constructiva del curso
 La materia de “fundamentos de ingeniería de software” perteneciente al primer semestre y tiene el objetivo de analizar las principales características, métodos, procedimientos y buenas prácticas, utilizados en el proceso de desarrollo y gestión del software, cuenta con 5 unidades: 
@@ -96,7 +73,8 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyNzQ4NDgzLDk3Mjc0ODQ4Myw5NzI3ND
-g0ODMsMTIwNjU2MjE3LDE2OTQyNTg0NDcsMjA0NTI3MDkwN119
-
+eyJoaXN0b3J5IjpbMjAzMDY4OTc5NCw2MTA1MDA0MywtMTI4MT
+AxOTAxOCw1NDY3MzcwMjksOTcyNzQ4NDgzLDk3Mjc0ODQ4Myw5
+NzI3NDg0ODMsMTIwNjU2MjE3LDE2OTQyNTg0NDcsMjA0NTI3MD
+kwN119
 -->
