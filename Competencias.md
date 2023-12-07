@@ -30,12 +30,10 @@
 
 1.  **Desarrollo de Software:**
     
-    el dominio de lenguaje todos tuvieron eso pero los que destacaron fueron moises y hansony ya que ellos tenian 
+    el dominio de lenguaje todos tuvieron eso pero los que destacaron fueron moises y hansony ya que ellos tenían conocimiento previos y se les hizo mas fácil aprender o hacer cualquier cosa
 2.  **Principios y Métodos de Ingeniería de Software:**
     
-    -   Comprensión de los principios de diseño de software (DRY, SOLID, etc.).
-    -   Experiencia en el uso de patrones de diseño.
-    -   Conocimiento de metodologías ágiles (Scrum, Kanban) y capacidad para aplicarlas en el desarrollo de software.
+    -   Metolodia destaco Brandom ya que el hizo la actividad del srcum y eso lo ayudo mucho aunque como anteriormente dije tod
 3.  **Gestión de Proyectos y Herramientas de Desarrollo:**
     
     -   Experiencia en el uso de herramientas de control de versiones como Git.
@@ -87,7 +85,7 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjIyNzM2Nyw5NzI3NDg0ODMsOTcyNz
-Q4NDgzLDk3Mjc0ODQ4MywxMjA2NTYyMTcsMTY5NDI1ODQ0Nywy
-MDQ1MjcwOTA3XX0=
+eyJoaXN0b3J5IjpbMzY0OTQwNTY0LDk3Mjc0ODQ4Myw5NzI3ND
+g0ODMsOTcyNzQ4NDgzLDEyMDY1NjIxNywxNjk0MjU4NDQ3LDIw
+NDUyNzA5MDddfQ==
 -->
