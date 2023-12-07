@@ -11,7 +11,7 @@ La carrera de Ingeniería de Software requiere una combinación de habilidades t
   
 
   2.   **Pensamiento Analítico y Resolución de Problemas:**
--   **Habilidad para Resolver Problemas:** Aqui 
+-   **Habilidad para Resolver Problemas:** Aqui es donde karen resalto mas porque gracias a ella se resolvieron problemas que iban  surgiendo en la marcha y ella gracias a ser la capitana pudimos resolver las cosas
 -  **Pensamiento Lógico:** Razonamiento lógico y habilidades analíticas para abordar desafíos técnicos.
 1.  **Gestión de Proyectos y Metodologías Ágiles:**
     
@@ -96,7 +96,7 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE2MzQ0NTIsOTcyNzQ4NDgzLDk3Mj
-c0ODQ4Myw5NzI3NDg0ODMsMTIwNjU2MjE3LDE2OTQyNTg0NDcs
-MjA0NTI3MDkwN119
+eyJoaXN0b3J5IjpbLTUwMTE4NDMsOTcyNzQ4NDgzLDk3Mjc0OD
+Q4Myw5NzI3NDg0ODMsMTIwNjU2MjE3LDE2OTQyNTg0NDcsMjA0
+NTI3MDkwN119
 -->
