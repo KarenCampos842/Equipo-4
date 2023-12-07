@@ -24,13 +24,8 @@ La carrera de Ingeniería de Software requiere una combinación de habilidades t
 3.  **Aprendizaje Continuo y Adaptabilidad:**
     
     -   **Curiosidad y Sed de Aprendizaje:** por parte de todos tuvimos proactivos porque entre todos nos pusimos a investigar sobre en que lenguaje podíamos hacerlo y los diferentes tipo de metodología que podíamos utilizar
-    -   **Adaptabilidad:** esto fue un poco complicado y a la vez no fue mucho mas facil 
-4.  **Ética y Responsabilidad Profesional:**
-    
-    -   **Ética:** Conciencia ética en la toma de decisiones relacionadas con la seguridad, la privacidad y el uso responsable de la tecnología.
-    -   **Responsabilidad:** Compromiso con la calidad del trabajo y la entrega oportuna de soluciones.
+    -   **Adaptabilidad:** esto fue un poco complicado y a la vez no fue mucho mas facil algunos que otros adaptarse ya que algunos no conocían muchos lenguajes
 
-Estas competencias genéricas son fundamentales para el éxito en la Ingeniería de Software y pueden variar en su énfasis dependiendo de la especialización, el entorno laboral y las demandas específicas de la industria.
 ## Competencias específicas
 La Ingeniería de Software implica competencias específicas en áreas técnicas, de gestión y habilidades interpersonales. Aquí hay una lista más detallada de competencias específicas para los ingenieros de software:
 
@@ -96,7 +91,7 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjIzMjU1Nyw5NzI3NDg0ODMsOTcyNz
+eyJoaXN0b3J5IjpbMTMzOTE1MDcwMyw5NzI3NDg0ODMsOTcyNz
 Q4NDgzLDk3Mjc0ODQ4MywxMjA2NTYyMTcsMTY5NDI1ODQ0Nywy
 MDQ1MjcwOTA3XX0=
 -->
