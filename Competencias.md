@@ -5,7 +5,7 @@ La carrera de Ingeniería de Software requiere una combinación de habilidades t
 
 1.  **Habilidades Técnicas:**
     
-    -   **Programación:** Dominio de múltiples lenguajes de programación y capacidad para escribir código limpio y eficiente.
+    -   **Programación:** Do
     -   **Diseño de Software:** Capacidad para crear arquitecturas de software sólidas y escalables.
     -   **Conocimiento de Herramientas y Tecnologías:** Familiaridad con frameworks, herramientas de desarrollo, sistemas operativos y tecnologías emergentes.
   
@@ -96,7 +96,7 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyNzQ4NDgzLDk3Mjc0ODQ4Myw5NzI3ND
-g0ODMsMTIwNjU2MjE3LDE2OTQyNTg0NDcsMjA0NTI3MDkwN119
-
+eyJoaXN0b3J5IjpbLTUwNDUzOTQzLDk3Mjc0ODQ4Myw5NzI3ND
+g0ODMsOTcyNzQ4NDgzLDEyMDY1NjIxNywxNjk0MjU4NDQ3LDIw
+NDUyNzA5MDddfQ==
 -->
