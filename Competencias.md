@@ -23,7 +23,7 @@ La carrera de Ingeniería de Software requiere una combinación de habilidades t
     -   **Colaboración:** esto igual el equipo lo logramos con mucha facilidad ya que si se nos dama facil la habilidad de comunicación se nos daba facil la colaboración
 3.  **Aprendizaje Continuo y Adaptabilidad:**
     
-    -   **Curiosidad y Sed de Aprendizaje:** Actitud proactiva para aprender nuevas tecnologías y métodos de desarrollo.
+    -   **Curiosidad y Sed de Aprendizaje:** por parte de todos tuvimos proactivos porque entre todos nos pusimos a investigar sobre en que lenguaje podíamos hacerlo y los diferentes tipo de metodología que podíamos utilizar
     -   **Adaptabilidad:** Capacidad para adaptarse a cambios rápidos en los requisitos del proyecto y en el panorama tecnológico.
 4.  **Ética y Responsabilidad Profesional:**
     
@@ -96,7 +96,7 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDEwNzcxNyw5NzI3NDg0ODMsOTcyNz
-Q4NDgzLDk3Mjc0ODQ4MywxMjA2NTYyMTcsMTY5NDI1ODQ0Nywy
-MDQ1MjcwOTA3XX0=
+eyJoaXN0b3J5IjpbLTcwOTMyOTg3LDk3Mjc0ODQ4Myw5NzI3ND
+g0ODMsOTcyNzQ4NDgzLDEyMDY1NjIxNywxNjk0MjU4NDQ3LDIw
+NDUyNzA5MDddfQ==
 -->
