@@ -42,9 +42,7 @@
     las pruebas funcionalidades todos aportamos ya que en la actividad de pruebas todos practicamos estas pruebas al publico para conocer errores o modificaciones que podíamos hacer
 5.  **Diseño y Arquitectura de Software:**
     
-    -   Capacidad para diseñar sistemas robustos y escalables.
-    -   Comprensión de patrones de arquitectura (MVC, microservicios, etc.).
-    -   Experiencia en el diseño de bases de datos y optimización de consultas.
+    esto todos pudimos hacerlo ya que todos participamos en las interfaces y  
 6.  **Seguridad Informática:**
     
     -   Conocimiento de principios de seguridad de la información.
@@ -82,7 +80,7 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2NzM3MDI5LDk3Mjc0ODQ4Myw5NzI3ND
-g0ODMsOTcyNzQ4NDgzLDEyMDY1NjIxNywxNjk0MjU4NDQ3LDIw
-NDUyNzA5MDddfQ==
+eyJoaXN0b3J5IjpbLTEyODEwMTkwMTgsNTQ2NzM3MDI5LDk3Mj
+c0ODQ4Myw5NzI3NDg0ODMsOTcyNzQ4NDgzLDEyMDY1NjIxNywx
+Njk0MjU4NDQ3LDIwNDUyNzA5MDddfQ==
 -->
