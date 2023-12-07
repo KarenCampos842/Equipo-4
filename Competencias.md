@@ -45,12 +45,10 @@
     esto todos pudimos hacerlo ya que todos participamos en las interfaces y  en la arquitectura del software 
 6.  **Seguridad Informática:**
     
-    esto tuvimos algunos conoccimineto de seguridad p
+    esto tuvimos algunos conocimiento de seguridad pero en donde destacamos fue en la base de datos ya que con eso pulimos la seguridad para que no pete la maquina o el usuario
 7.  **Habilidades Interpersonales:**
     
-    -   Comunicación efectiva con equipos multidisciplinarios.
-    -   Habilidad para trabajar en equipo y resolver problemas colaborativamente.
-    -   Capacidad para explicar conceptos técnicos de forma clara y comprensible.
+    esto  
 8.  **Aprendizaje Continuo y Adaptabilidad:**
     
     -   Actitud de aprendizaje constante para mantenerse al día con las nuevas tecnologías y tendencias en ingeniería de software.
@@ -79,7 +77,7 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQwMTMxNDIsLTEyODEwMTkwMTgsNT
-Q2NzM3MDI5LDk3Mjc0ODQ4Myw5NzI3NDg0ODMsOTcyNzQ4NDgz
-LDEyMDY1NjIxNywxNjk0MjU4NDQ3LDIwNDUyNzA5MDddfQ==
+eyJoaXN0b3J5IjpbNjEwNTAwNDMsLTEyODEwMTkwMTgsNTQ2Nz
+M3MDI5LDk3Mjc0ODQ4Myw5NzI3NDg0ODMsOTcyNzQ4NDgzLDEy
+MDY1NjIxNywxNjk0MjU4NDQ3LDIwNDUyNzA5MDddfQ==
 -->
