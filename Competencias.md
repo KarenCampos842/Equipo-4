@@ -5,26 +5,32 @@
 
 1.  **Habilidades Técnicas:**
     
-    -   **Programación:** tuvimos dominio del lenguaje en las pruebas que estuvimos haciendo cuando hicimos descripción del producto
-    -   **Diseño de Software:** tuvimos la capacidad de diseñar la interfaz del software cuando hicimos descripción del producto aqui tuvieron mas dominio del tema Carlos, Karen y Hansony
-    -   **Conocimiento de Herramientas y Tecnologías:** por obvias razones todos tuvimos conocimiento del framework ya que trabajamos en ellos todos unos en otras areas mas que otros y por eso destacaran en alguna actividad
+    -   **Programación:** tuvimos Demostramos habilidad en el dominio del lenguaje duranten las pruebas que estuvimos haciendo cuando hicimos descripción delde producto.
+    -   **Diseño de Software:** t Tuvimos la capacidad de diseñar la interfaz del software cuando hicimos descripción del producto aqui tuvieron mas dominio del tema, destacando en este aspecto Carlos, Karen y Hansony.
+    -   **Conocimiento de Herramientas y Tecnologías:** por obvias razones t Todos tuvimos conocimiento del framework ya que trabajamos en ellos todos unos en otras areas mas que otros y por eso destacaran en alguna actividad
   
 
-  2.   **Pensamiento Analítico y Resolución de Problemas:**
--   **Habilidad para Resolver Problemas:** Aqui es donde karen resalto mas porque gracias a ella se resolvieron problemas que iban  surgiendo en la marcha y ella gracias a ser la capitana pudimos resolver las cosas
--  **Pensamiento Lógico:** El pensamiento técnico sin duda  uno que tuvo ventaja en eso fue Brandon ya que en la evolución del producto fue e que destaco gracias ello el sobre llevo el proyecto con el pensamiento lógico
-1.  **Gestión de Proyectos y Metodologías Ágiles:**
+  , con ciertas especializaciones en diferentes áreas.
+2.   **Pensamiento Analítico y Resolución de Problemas:**
     
-    -   **Metodologías Ágiles:** en los artefactos de Srcum destaco igual brandon ya que el fue que desarrollo esta tarea aunque no podemos quitar los meritos a los demas que investigaron sobre el metodo
-    -   **Gestión del Tiempo:** Karen fue la gestora del tiempo ya que ella como capitana reparto tareas y puso tiempos
-2.  **Comunicación y Trabajo en Equipo:**
+    -   **Habilidad para Resolver Problemas:** Aqui es donde karen resalto mas porque gracias a ella se Karen resaltó al resolvieron problemas que iban  surgiendo en la marcha y ella gracias a ser la capitana pudimos resolver las cosas
+surgieron durante el desarrollo, siendo fundamental en su rol de capitana.
+    -  ** Pensamiento Lógico:** El pensamiento técnico sin duda  uno que tuvo ventaja en eso fue Brandon ya que en la evolución del producto fue e que destaco gracias ello el sobre llevo el proyecto con el pensamiento lógico
+1 Brandon destacó en el pensamiento lógico, manejando de manera efectiva la evolución del producto.
+3.  **Gestión de Proyectos y Metodologías Ágiles:**
     
-    -   **Habilidades de Comunicación:** esto todos pudimos hacerlo ya que cuando hubo un problema en alguna actividad pudimos expresarlo y tratarlo con los demas los que nos facilito la comunicación
-    -   **Colaboración:** esto igual el equipo lo logramos con mucha facilidad ya que si se nos dama facil la habilidad de comunicación se nos daba facil la colaboración
-3.  **Aprendizaje Continuo y Adaptabilidad:**
+    -   **Metodologías Ágiles:** en los artefactos de Srcum destaco igual brandon ya que el fue que desarrollo esta tarea aunque no podemos quitar los meritos a los demas que investigaron sobre el Brandon se destacó en el desarrollo de artefactos Scrum, siendo fundamental en la implementación de esta metodología.
+    -   **Gestión del Tiempo:** Karen fuelideró la gestoraión del tiempo ya que ella como capitana repart, asignando tareas y puso tiempos
+2estableciendo plazos.
+4.  **Comunicación y Trabajo en Equipo:**
     
-    -   **Curiosidad y Sed de Aprendizaje:** por parte de todos tuvimos proactivos porque entre todos nos pusimos a investigar sobre en que lenguaje podíamos hacerlo y los diferentes tipo de metodología que podíamos utilizar
-    -   **Adaptabilidad:** esto fue un poco complicado y a la vez no fue mucho mas facil algunos que otros adaptarse ya que algunos no conocían muchos lenguajes
+    -   **Habilidades de Comunicación:** esto t Todos pudimos hacerlo ya que cuando hubo un problema en alguna actividad pudimos expresarlo y tratarlo con los demas los que nosexpresar problemas y discutir soluciones, facilitando la comunicación en el equipo.
+    -   **Colaboración:** esto igual el equipo lo logramos con mucha facilidad y El equipo colaboró eficazmente gracias a qnue si se nos dama facil lastras habilidades de comunicación se nos daba facil la colaboración
+3.
+5.  **Aprendizaje Continuo y Adaptabilidad:**
+    
+    -   **Curiosidad y Sed de Aprendizaje:** por parte de todos tuvimos proactivos porque entre todos nos pusimos Todos mostramos proactividad al investigar sobre en que lenguaje podíamos hacerlo y los diferentes tipo de metodología que podíamos utilizars y metodologías para el proyecto.
+    -   **Adaptabilidad:** esto fue un poco comp Se experimentó cierta variabilicdado y a la vez no fue mucho mas facil algunos que otros adaptarse ya que algunos no conocían mucho en la adaptabilidad debido a la diversidad en el conocimiento de los diferentes lenguajes.
 
 ## Competencias específicas
 
@@ -73,8 +79,8 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDY4OTc5NCw2MTA1MDA0MywtMTI4MT
-AxOTAxOCw1NDY3MzcwMjksOTcyNzQ4NDgzLDk3Mjc0ODQ4Myw5
-NzI3NDg0ODMsMTIwNjU2MjE3LDE2OTQyNTg0NDcsMjA0NTI3MD
-kwN119
+eyJoaXN0b3J5IjpbMjkxMjc4NjU5LDIwMzA2ODk3OTQsNjEwNT
+AwNDMsLTEyODEwMTkwMTgsNTQ2NzM3MDI5LDk3Mjc0ODQ4Myw5
+NzI3NDg0ODMsOTcyNzQ4NDgzLDEyMDY1NjIxNywxNjk0MjU4ND
+Q3LDIwNDUyNzA5MDddfQ==
 -->
