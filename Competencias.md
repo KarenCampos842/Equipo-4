@@ -16,10 +16,10 @@ La carrera de Ingeniería de Software requiere una combinación de habilidades t
 1.  **Gestión de Proyectos y Metodologías Ágiles:**
     
     -   **Metodologías Ágiles:** en los artefactos de Srcum destaco igual brandon ya que el fue que desarrollo esta tarea aunque no podemos quitar los meritos a los demas que investigaron sobre el metodo
-    -   **Gestión del Tiempo:** Karen fue la gestora del tiempo ya que ella como capitana reparto tareas y puso tiem
+    -   **Gestión del Tiempo:** Karen fue la gestora del tiempo ya que ella como capitana reparto tareas y puso tiempos
 2.  **Comunicación y Trabajo en Equipo:**
     
-    -   **Habilidades de Comunicación:** Capacidad para expresar ideas técnicas de manera clara y comprensible tanto a colegas no técnicos como a equipos de desarrollo.
+    -   **Habilidades de Comunicación:** esto todos pudimos hacerlo ya que cuando hubo un problema en alguna actividad pudimos expresarlo y tratarlo con los demas lo que nos hizo facil 
     -   **Colaboración:** Trabajar efectivamente en equipos multidisciplinarios y comunicarse de manera colaborativa.
 3.  **Aprendizaje Continuo y Adaptabilidad:**
     
@@ -96,7 +96,7 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTQ3NjI4Niw5NzI3NDg0ODMsOTcyNz
+eyJoaXN0b3J5IjpbMTEyMzYxNDM3OSw5NzI3NDg0ODMsOTcyNz
 Q4NDgzLDk3Mjc0ODQ4MywxMjA2NTYyMTcsMTY5NDI1ODQ0Nywy
 MDQ1MjcwOTA3XX0=
 -->
