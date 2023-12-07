@@ -33,12 +33,10 @@
     el dominio de lenguaje todos tuvieron eso pero los que destacaron fueron moises y hansony ya que ellos tenían conocimiento previos y se les hizo mas fácil aprender o hacer cualquier cosa
 2.  **Principios y Métodos de Ingeniería de Software:**
     
-    -   Metolodia destaco Brandom ya que el hizo la actividad del srcum y eso lo ayudo mucho aunque como anteriormente dije tod
+    -   Metodología destaco Brandon ya que el hizo la actividad del srcum y eso lo ayudo mucho aunque como anteriormente dije todos ayudamos a investigar las diferentes tipo de metodología
 3.  **Gestión de Proyectos y Herramientas de Desarrollo:**
     
-    -   Experiencia en el uso de herramientas de control de versiones como Git.
-    -   Conocimiento de herramientas de gestión de proyectos como Jira, Trello, etc.
-    -   Habilidad para trabajar con metodologías de desarrollo como DevOps.
+    en 
 4.  **Pruebas y Aseguramiento de la Calidad:**
     
     -   Competencia en técnicas de prueba de software (pruebas unitarias, de integración, funcionales, etc.).
@@ -85,7 +83,7 @@ En conclusión, la planeación didacta está bien ejecutada y las actividades re
 
 UADY. (2016). *Plan de Estudios de la Licenciatura en Ingeniería de Software.* https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0OTQwNTY0LDk3Mjc0ODQ4Myw5NzI3ND
-g0ODMsOTcyNzQ4NDgzLDEyMDY1NjIxNywxNjk0MjU4NDQ3LDIw
-NDUyNzA5MDddfQ==
+eyJoaXN0b3J5IjpbLTEzNjEyMTM1NjEsOTcyNzQ4NDgzLDk3Mj
+c0ODQ4Myw5NzI3NDg0ODMsMTIwNjU2MjE3LDE2OTQyNTg0NDcs
+MjA0NTI3MDkwN119
 -->
