@@ -1,15 +1,10 @@
-# ﻿Métrica de contribución individual (3 entregas)
+# Equipo-4
 
- Ir al archivo para ver especificaciones de las actividades:<br>
-Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Metrica_de_Contribucion.md#m%C3%A9trica-de-contribuci%C3%B3n-individual">Metrica_de_Contribucion.md</a> 
-<br>Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Gestion_del_Proceso.md#sprint-backlog">Gestión_del_proceso.md</a> 
-<br>Tercera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Gestion_del_Proceso.md#sprint-backlog">Gestión_del_proceso.md</a> 
- <br>
 
 <table align=center>  
    <tr>  
       <th>Nombre</th>  
-      <th>Porcentaje de contribución</th> 
+      <th>Porcentaje de Contribución en todo el Proyecto</th> 
       <th>Porcentaje de contribución de acuerdo el nivel</th>  
    </tr> 
     <tr>  
@@ -43,10 +38,3 @@ Primera entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primer
        <td> Alto: 8/43= 18.6%<br>Medio: 3/23= 13.04%<br>Bajo: 4/23=17.39%</td>       
    </tr> 
  </table>
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDU3OTI4MiwtMTUyMDc3MDE1MiwxMT
-I1NzM5MzQwLDE0Nzc1OTIxMzcsLTExMDk2MjQyMTcsNjY5NjE2
-ODU4LC02NDg4NjIzNywxMTA4MzM0NzUxLDE5MDc2MTE4NDUsLT
-cxMzkzMzkzM119
--->

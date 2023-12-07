@@ -10,8 +10,9 @@ Producto:
 
 Fecha límite: 18/11/2023
 
-**Martes 21 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 23. Hubo un retraso con la actividad innovación (por enfermedad). Hansony se comprometió a tenerla lista para el jueves 23 de noviembre.
+**Martes 21 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 23. Hubo un retraso con la actividad innovación (por enfermedad). Hansony se comprometió a tenerla lista para el jueves 23 de noviembre. 
 Por otro lado, cómo resultado de la reunión con el profesor Luis Basto se decidió realizar una encuesta después de finalizar el daily scrum para decidir si el video de la entrega se haría en inglés o en español. El acuerdo fue realizarlo en español y asignar una actividad (Video demo) a Asaf para compensar la actividad de traducción que ya no sería necesaria.
+
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>
 
@@ -25,27 +26,67 @@ Producto:
 Fecha límite: 23/11/2023
 
 **Jueves 23 de noviembre de 2023 (Daily Scrum)**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 23. Hansony finalizó la actividad innovación como se había acordado. Karen y Hansony acordaron revisar la actividad durante la reunión del viernes 24. 
+
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
 
 Fecha límite: 23/11/2023
 
 **Viernes 24 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 26 (Listado Final de Requerimientos_Diagrama y Requerimientos no funcionales). Así mismo, Karen se reunió con el equipo para explicar cómo se realizarían las pruebas y verificar con el equipo los formatos utilizados, los indicadores y las métricas a utilizar. 
+
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
 
 Fecha límite: 26/11/2023
 
-**Lunes 27 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 27 (los diálogos y audios para el video que restaban y la actividad Correspondencia con los requisitos). Por otra parte, se acordó mover la fecha del resto de las actividades a terminar el 27 para el 28. 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Demo.md#dem">Diseño.md</a>
+**Lunes 27 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 27 (actividad Correspondencia con los requisitos). Por otra parte, se acordó mover la fecha del resto de las actividades a terminar el 27 para el 28. 
+
+Producto: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
 
 Fecha límite: 28/11/2023
 
-**Martes 28 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 28. Por otra parte, se acordó mover la fecha del resto de las actividades a terminar el 28 para el 29. 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>
+**Martes 28 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 28 (aplicación de las pruebas). Por otra parte, se acordó mover la fecha de la actividad Modificación de Interfaces del día 28 para el 30. 
 
-Fecha límite: 29/11/2023
+Producto: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>
+Fecha límite: 28/11/2023
 
+**Miércoles 29 de noviembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 30 (Modificación de Interfaces, Diálogo Interfaz, Audio_Diálogo Interfaz, Resultados interfaz, Evolución de las Interfaces de Usuario, Resultados métricas, Video demo, Audio demo, Edición demo, Corrección de redacción,  Refinamiento de artefactos y Edición del video). 
+
+Producto: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>,<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#mejoras-a-las-interfaces">Mejoras a las interfaces</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#evoluci%C3%B3n-de-las-interfaces-de-usuario">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#m%C3%A9tricas2">Pruebas.md </a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Demo.md#demo">Demo.md </a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md </a> 
+
+Fecha límite: 30/11/2023
+
+**Jueves 30 de noviembre de 2023**<br> Durante la reunión Karen informó haber concluido la actividad Modificación de Interfaces. Por otra parte, dado a la extensión de tiempo para la finalización del proyecto y la adición de nuevas actividades, se extendió la fecha límite de las actividades con fecha de finalización de 30 de noviembre para inicios de diciembre, las cuáles son las siguientes: Diálogo Interfaz, Audio_Diálogo Interfaz, Resultados interfaz, Evolución de las Interfaces de Usuario, Resultados métricas, Video demo, Audio demo, Edición demo, Corrección de redacción,  Refinamiento de artefactos y Edición del video. 
+Por otro lado, se reabrieron las actividades de  Descripción del proceso, Gestión del proceso y Métrica de contribución debido a la anexión de una nueva actividad. 
+
+Producto: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>
+
+Fecha límite: 30/11/2023
+
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Metrica_de_Contribucion.md#m%C3%A9trica-de-contribuci%C3%B3n-individual-3-entregas">Metrica_de_Contribucion.md</a>
+
+Fecha límite: 5/12/2023
+
+**Jueves 30 de noviembre de 2023**<br> 
+Durante la reunión Karen informó al equipo que ya se encontraba disponible la descripción de la actividad anexada "Artefactos Scrum" en <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, así como su archivo en el repositorio. También, mencionó que la métrica de contribución estaba casi finalizada. 
+Por otro lado, se repasaron las fechas de las actividades que restan del proyecto (Diálogo Interfaz, Audio_Diálogo Interfaz, Resultados interfaz, Evolución de las Interfaces de Usuario, Resultados métricas, Video demo, Audio demo, Edición demo, Corrección de redacción,  Refinamiento de artefactos,  Edición del video y Artefactos Scrum). 
+
+Producto: 
+
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Metrica_de_Contribucion.md#m%C3%A9trica-de-contribuci%C3%B3n-individual-3-entregas">Metrica_de_Contribucion.md</a>
+
+Fecha límite: 5/12/2023
+
+**Miércoles 6 diciembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 6 de diciembre (Diálogo Interfaz y Audio_Diálogo Interfaz ). 
+
+Producto: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>
+
+Fecha límite: 6/12/2023
 
 ## Sprint Backlog
 Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/SegundTercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
@@ -63,35 +104,35 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
       <td>Organización y documentación del repositorio (Karen)</td>  
        <td>Bajo</td>
          <td>18/11/2023</td>
-       <td>18/11/2023</td>
+       <td>5/12/2023</td>
          <td>Terminada</td>       
    </tr> 
     <tr> 
       <td>Descripción del proceso (Karen)</td>  
        <td>Alto</td>
          <td>18/11/2023</td>
-       <td>18/11/2023</td>
+       <td>5/12/2023</td>
          <td>Terminada</td>       
    </tr>
      <tr> 
       <td>Gestión del proceso (Karen)</td>  
        <td>Alto</td>
          <td>18/11/2023</td>
-       <td>29/11/2023</td>
+       <td>9/12/2023</td>
          <td>Terminada</td>       
    </tr>
     <tr> 
       <td>Métrica de contribución (Karen)</td>  
        <td>Alto</td>
          <td>18/11/2023</td>
-       <td>29/11/2023</td>
+       <td>5/12/2023</td>
          <td>Terminada</td>       
    </tr>   
     <tr>  
       <td>Corrección de redacción (Brandon)</td>  
        <td>Alto</td> 
        <td>18/11/2023</td>
-       <td>27/11/2023</td>
+       <td>8/12/2023</td>
         <td>Terminada</td>    
    </tr> 
    <tr>  
@@ -210,7 +251,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
       <td>Edición del video (Moisés)</td>  
         <td>Alto</td>
         <td>18/11/2023</td>
-       <td>29/11/2023</td>
+       <td>9/12/2023</td>
         <td>Terminada</td>     
    </tr>                  
     <tr>  
@@ -227,13 +268,6 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
        <td>23/11/2023</td>
         <td>Terminada</td>     
    </tr>
-    <tr>  
-      <td>Refinamiento de artefactos (Brandon)</td> 
-      <td>Alto</td>
-        <td>21/11/2023</td>
-       <td>23/11/2023</td>
-         <td>Terminada</td>     
-   </tr> 
     <tr>  
       <td>Listado Final de Requerimientos_Diagrama (Carlos)</td> 
       <td>Alto</td>
@@ -290,76 +324,90 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
        <td>27/11/2023</td>
         <td>Terminada</td>     
      </tr> 
-      <tr>  
+    <tr>
+    <td>Modificación interfaces (Karen)</td>  
+        <td>Alto</td>
+        <td>26/11/2023</td>
+       <td>30/11/2023</td>
+        <td>Terminada</td>     
+     </tr>
+     <tr>  
+      <td>Refinamiento de artefactos (Brandon)</td> 
+      <td>Alto</td>
+        <td>26/11/2023</td>
+       <td>8/12/2023</td>
+         <td>Terminada</td>     
+   </tr> 
+     <tr>  
       <td>Diálogo Interfaz (Asaf)</td>  
         <td>Bajo</td>
-        <td>26/11/2023</td>
-       <td>27/11/2023</td>
+        <td>30/12/2023</td>
+       <td>6/12/2023</td>
         <td>Terminada</td>     
    </tr>
   <tr>  
       <td>Audio_Diálogo Interfaz (Asaf)</td>  
         <td>Bajo</td>
-        <td>26/11/2023</td>
-       <td>27/11/2023</td>
+        <td>30/12/2023</td>
+       <td>6/12/2023</td>
         <td>Terminada</td>     
    </tr>     
-    <tr>
-    <td>Modificación interfaces (Karen)</td>  
-        <td>Alto</td>
-        <td>26/11/2023</td>
-       <td>29/11/2023</td>
-        <td>Terminada</td>     
-     </tr>
-     <tr>
-      <td>Resultados métricas (Hansony)</td>  
-        <td>Alto</td>
-        <td>26/11/2023</td>
-       <td>29/11/2023</td>
-        <td>Terminada</td>     
-     </tr>
      <tr>
       <td>Resultados interfaz (Carlos)</td>  
         <td>Alto</td>
-        <td>26/11/2023</td>
-       <td>29/11/2023</td>
+        <td>30/12/2023</td>
+       <td>7/12/2023</td>
         <td>Terminada</td>     
      </tr>  
     <tr>
     <td>Evolución de las Interfaces de Usuario (Carlos)</td>  
         <td>Medio</td>
-        <td>26/11/2023</td>
-       <td>29/11/2023</td>
+        <td>30/12/2023</td>
+       <td>7/12/2023</td>
         <td>Terminada</td>     
    </tr>
+    <tr>
+      <td>Resultados métricas (Hansony)</td>  
+        <td>Alto</td>
+        <td>28/12/2023</td>
+       <td>8/12/2023</td>
+        <td>Terminada</td>     
+     </tr>
      <tr>  
       <td>Video demo (Asaf)</td>  
         <td>Alto</td>
-        <td>27/11/2023</td>
-       <td>29/11/2023</td>
+        <td>30/12/2023</td>
+       <td>8/12/2023</td>
         <td>Terminada</td>     
    </tr>
      <tr>
     <td>Audio demo (Asaf)</td>  
         <td>Alto</td>
-        <td>27/11/2023</td>
-       <td>29/11/2023</td>
+        <td>30/12/2023</td>
+       <td>8/12/2023</td>
         <td>Terminada</td>     
    </tr>
      <tr>
     <td>Edición demo (Asaf)</td>  
         <td>Alto</td>
-        <td>27/11/2023</td>
-       <td>29/11/2023</td>
+        <td>30/12/2023</td>
+       <td>8/12/2023</td>
+        <td>Terminada</td>     
+   </tr>
+   <tr>
+    <td>Artefactos Scrum (Brandon)</td>  
+        <td>Alto</td>
+        <td>5/12/2023</td>
+       <td>9/12/2023</td>
         <td>Terminada</td>     
    </tr>
   <tr>  
       <td colspan=3><strong>Total de actividades</strong></td>  
-       <td colspan=2>42</td>
+       <td colspan=2>43</td>
    </tr> 
    <tr>  
       <td colspan=3><strong>Total de actividades de nivel alto</strong></td>  
-       <td colspan=2>21</td>
+       <td colspan=2>22</td>
    </tr> 
    <tr>  
       <td colspan=3><strong>Total de actividades de nivel medio</strong></td>  
@@ -371,11 +419,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDA3NTA3MiwxNTI3MjQ4NDA4LC0xMD
-EyNDczMjYwLDE4MjgwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4
-MCwtMTI2OTA3NDkyMywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMT
-I2MzQ3NTU5LDE3MTIwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMx
-ODgyLDE3NzU2NTAxOTAsMjAxNzA4MDA3NSw4MTgxMDE3MDQsLT
-M2MzI1Njg3NiwtMjAyOTkyNzQxMSwxMTc5MDMzNTQ1LC0yMTQ0
-MDUxNTM2XX0=
+eyJoaXN0b3J5IjpbNzUwMzY5MzA1LC04Mjc1MjY5MzgsLTE3ND
+U4MDU1ODIsLTE1MjYyMDk4ODgsLTE3NzgzOTY4ODcsLTEwMjYx
+MzQ2MzMsLTQwMDA3NTA3MiwxNTI3MjQ4NDA4LC0xMDEyNDczMj
+YwLDE4MjgwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4MCwtMTI2
+OTA3NDkyMywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMTI2MzQ3NT
+U5LDE3MTIwNjAyNTksMTkyMjc2OTE2MywxNTc1NzMxODgyLDE3
+NzU2NTAxOTBdfQ==
 -->

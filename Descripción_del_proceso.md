@@ -46,8 +46,8 @@
 
 
 ## Sprint planning (third sprint) 
-### Duración del sprint: 12 días
-**(18/11/2023) - (29/11/2023)**
+### Duración del sprint: 18 días
+**(18/11/2023) - (30/11/2023) / (5/12/2023)-(9/12/2023)**
 
 ***NOTA:*** Se encontrarán archivos para cada sección en la que el trabajo está dividido (se dividió acorde a la lista de cotejo) en la branch de Tercera-Entrega.  Cada uno creará su propia rama y trabajará su parte sobre el archivo correspondiente. Una vez que esté lista la actividad deberá hacer un pull request para hacer merge con la rama de Tercera-Entrega. 
 Marcar como "closed" sus issues asignados cuando finalicen una actividad. 
@@ -243,7 +243,8 @@ Utilizar la siguiente plantilla:
 
 **Responsable**
 
-*Campos García Karen Elizabeth:* Sección Proceso.
+1.*Campos García Karen Elizabeth:* Sección Proceso excepto Artefactos Scrum.
+2. *Suárez Balam Brandon Emmanuel:* Artefactos Scrum.
 
 **Actividades**
  - **Descripción del proceso:** Describir de forma clara en un documento el tamaño del sprint, planeación, actividades, responsables, roles y resultados.
@@ -256,20 +257,23 @@ Utilizar la siguiente plantilla:
  -- Realizar una tabla **(sprint backlog)** que contenga las actividades a realizar durante el sprint, responsables, el estado de la tarea (terminada, en curso), fecha de inicio, fechas límite de entrega y nivel de cada actividad (bajo, medio, alto).
  - **Métrica de contribución individual:** Elaborar  una métrica (basada en la división del 100% por entrega) de actividades/tareas/responsabilidades según se haya definido la medida de contribución acorde con el nivel de dificultad y contribución de las actividades (bajo, medio, alto).  
 Elaborar una métrica que contenga las actividades de las 3 entregas. 
- - **Organización y Documentación del Repositorio:** Crear los siguientes archivos en formato StackEdit en la branch de "*Tercera-Entrega*" del repositorio del equipo (Equipo-4): Producto, Requisitos, Diseño, Pruebas, Presentación del avance, Diálogos, Competencias, Descripción del proceso, Gestión del proceso, Métrica de contribución, Demo y Lista de cotejo. 
+
+ - **Artefactos Scrum:** De acuerdo a las sesiones de Sergio Franco y los conceptos adicionales presentados, presentar de forma explícita un ejemplo de DoD (Definition of Done). El ejemplo basado en el proyecto final debe incluir de forma explícita las características para que sea considerado un DoD de calidad. Utiliza la siguiente referencia como base para crear el DoD para un incremento del proyecto final (preferentemente de la última entrega). https://www.scrum.org/learning-series/definition-done/what-is-the-definition-of-done-
+
+ - **Organización y Documentación del Repositorio:** Crear los siguientes archivos en formato StackEdit en la branch de "*Tercera-Entrega*" del repositorio del equipo (Equipo-4): Producto, Requisitos, Diseño, Pruebas, Presentación del avance, Diálogos, Competencias, Descripción del proceso, Gestión del proceso, Métrica de contribución, Demo, Artefactos_Scrum y Lista de cotejo. 
  
  **Archivo del trabajo/Resultado:**  
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#producto">Producto.md</a>  , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#dise%C3%B1o">Diseño.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#pruebas">Pruebas.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Presentacion_del_avance.md#presentaci%C3%B3n-del-avance">Presentacion_del_avance.md, </a> <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Competencias.md#competencias">Competencias.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Demo.md#demo">Demo.md</a>
- , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Gestion_del_Proceso.md#gesti%C3%B3n-del-proceso">Gestion_del_Proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Metrica_de_Contribucion.md#m%C3%A9trica-de-contribuci%C3%B3n-individual">Metrica_de_Contribucion.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Lista_de_cotejo.md">Lista_de_cotejo.md</a>.
+ , <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Gestion_del_Proceso.md#gesti%C3%B3n-del-proceso">Gestion_del_Proceso.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Metrica_de_Contribucion.md#m%C3%A9trica-de-contribuci%C3%B3n-individual">Metrica_de_Contribucion.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Artefactos_Scrum.md#artefactos-scrum">Artefactos_Scrum.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Lista_de_cotejo.md">Lista_de_cotejo.md</a>.
  
 ### *Sección "Presentación del avance"*
 **Responsables**
  1.*Campos García Karen Elizabeth:* Diálogo proceso y Audio. 
- 2.  *Cárdenas Rojas Kendrick Asaf:* Diálogo interfaz, Audio y Traducción. 
-3. *Maldonado Medina Hansony de Jesús:* Diálogo diferenciadores y Audio. 
-4. *Romero Poot Carlos Emmanuel:* Sketch (personaje: cliente) y Video sketch.
+ 2. *Cárdenas Rojas Kendrick Asaf:* Diálogo interfaz, Audio y Traducción. 
+ 3. *Maldonado Medina Hansony de Jesús:* Diálogo diferenciadores y Audio. 
+ 4. *Romero Poot Carlos Emmanuel:* Sketch (personaje: cliente) y Video sketch.
  5. *Rubén Moisés Loria Pech:* Edición del video, Sketch (personaje: trabajador) y Video sketch.
- 6. *Suárez Balam Brandon Emmanuel:* Diálogo producto y Audio. 
+ 6. Suárez Balam Brandon Emmanuel:* Diálogo producto y Audio. 
 
  **Actividades**
  - **Edición del video:** Realizar un video de 10 minutos presentando  el desarrollo del proyecto.
@@ -329,11 +333,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQyMzE1MjUsLTQ3NTkyMTM1NiwxNT
-M4MjQ3MjQ2LC0yMDA1ODEzNDE1LC0xMjEyMDUyMjc0LC0xOTM0
-MjMwMTUsLTIxMDI1NjI3MzksODkxMjU4MzEsLTExNjY4NDkzMT
-YsMjA3MDkwMzk1LDE3ODE3MTU1MTEsODc0NzYyMTA1LC00Mjc2
-MzQ4NzEsMTA0MjAwNTMzMywxODQ2NzQ5OTc1LC0yODMyMDgxMz
-gsLTc2NTI2NDYxNSwxOTczMzQxMzU5LDkyOTk1NTM1LC0xNTMw
-NDkwNDU0XX0=
+eyJoaXN0b3J5IjpbMTg2ODUxNzQ3OSwtMjI3NTk0Njk3LC0xND
+Y0MjMxNTI1LC00NzU5MjEzNTYsMTUzODI0NzI0NiwtMjAwNTgx
+MzQxNSwtMTIxMjA1MjI3NCwtMTkzNDIzMDE1LC0yMTAyNTYyNz
+M5LDg5MTI1ODMxLC0xMTY2ODQ5MzE2LDIwNzA5MDM5NSwxNzgx
+NzE1NTExLDg3NDc2MjEwNSwtNDI3NjM0ODcxLDEwNDIwMDUzMz
+MsMTg0Njc0OTk3NSwtMjgzMjA4MTM4LC03NjUyNjQ2MTUsMTk3
+MzM0MTM1OV19
 -->
