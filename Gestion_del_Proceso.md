@@ -88,7 +88,7 @@ Producto:
 
 Fecha límite: 6/12/2023
 
-**Jueves 7 diciembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 7 de diciembre (Diálogo Interfaz y Audio_Diálogo Interfaz ). 
+**Jueves 7 diciembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 7 de diciembre (Resultados interfaz y Evolución de las Interfaces de Usuario). 
 
 Producto: 
 <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>
@@ -426,11 +426,11 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYyMjEzMjcsNzUwMzY5MzA1LC04Mj
-c1MjY5MzgsLTE3NDU4MDU1ODIsLTE1MjYyMDk4ODgsLTE3Nzgz
-OTY4ODcsLTEwMjYxMzQ2MzMsLTQwMDA3NTA3MiwxNTI3MjQ4ND
-A4LC0xMDEyNDczMjYwLDE4MjgwOTgwNDgsMTc4NDI4NzI5OCw0
-NTQwMTE4MCwtMTI2OTA3NDkyMywxMzMzMjIxMDY5LDM0MjU4Mz
-A3LC0xMTI2MzQ3NTU5LDE3MTIwNjAyNTksMTkyMjc2OTE2Mywx
-NTc1NzMxODgyXX0=
+eyJoaXN0b3J5IjpbMTMxOTM5Nzc4MSw3NTAzNjkzMDUsLTgyNz
+UyNjkzOCwtMTc0NTgwNTU4MiwtMTUyNjIwOTg4OCwtMTc3ODM5
+Njg4NywtMTAyNjEzNDYzMywtNDAwMDc1MDcyLDE1MjcyNDg0MD
+gsLTEwMTI0NzMyNjAsMTgyODA5ODA0OCwxNzg0Mjg3Mjk4LDQ1
+NDAxMTgwLC0xMjY5MDc0OTIzLDEzMzMyMjEwNjksMzQyNTgzMD
+csLTExMjYzNDc1NTksMTcxMjA2MDI1OSwxOTIyNzY5MTYzLDE1
+NzU3MzE4ODJdfQ==
 -->
