@@ -91,9 +91,9 @@ Fecha límite: 6/12/2023
 **Jueves 7 diciembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 7 de diciembre (Resultados interfaz y Evolución de las Interfaces de Usuario). 
 
 Producto: 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dialogos.md#di%C3%A1logos">Dialogos.md</a>
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#mejoras-a-las-interfaces">Mejoras a las interfaces (Resultados interfaz)</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#evoluci%C3%B3n-de-las-interfaces-de-usuario">Diseño.md</a>
 
-Fecha límite: 6/12/2023
+Fecha límite: 7/12/2023
 
 ## Sprint Backlog
 Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/SegundTercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
@@ -426,7 +426,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTM5Nzc4MSw3NTAzNjkzMDUsLTgyNz
+eyJoaXN0b3J5IjpbLTM4NTA5MzQ1OCw3NTAzNjkzMDUsLTgyNz
 UyNjkzOCwtMTc0NTgwNTU4MiwtMTUyNjIwOTg4OCwtMTc3ODM5
 Njg4NywtMTAyNjEzNDYzMywtNDAwMDc1MDcyLDE1MjcyNDg0MD
 gsLTEwMTI0NzMyNjAsMTgyODA5ODA0OCwxNzg0Mjg3Mjk4LDQ1
