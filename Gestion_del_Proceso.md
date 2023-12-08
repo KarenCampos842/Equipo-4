@@ -98,7 +98,9 @@ Fecha límite: 7/12/2023
 ## Sprint Backlog
 Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/SegundTercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
 
-Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
+ **Duración del sprint:** 18 días
+**(18/11/2023) - (30/11/2023) / (5/12/2023)-(9/12/2023)**
+
 <table align=center>  
    <tr>  
       <th>Actividades y responsables</th>  
@@ -426,7 +428,7 @@ Duración del sprint: 12 días (18/11/2023) - (29/11/2023)
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTA5MzQ1OCw3NTAzNjkzMDUsLTgyNz
+eyJoaXN0b3J5IjpbLTg5OTA2Mjg2NCw3NTAzNjkzMDUsLTgyNz
 UyNjkzOCwtMTc0NTgwNTU4MiwtMTUyNjIwOTg4OCwtMTc3ODM5
 Njg4NywtMTAyNjEzNDYzMywtNDAwMDc1MDcyLDE1MjcyNDg0MD
 gsLTEwMTI0NzMyNjAsMTgyODA5ODA0OCwxNzg0Mjg3Mjk4LDQ1
