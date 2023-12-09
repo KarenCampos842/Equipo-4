@@ -471,8 +471,8 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 | 4 | 18.84s |t≤37.68s |
 | 5 | 23.32s |t≤46.64s |
 | 6 | 8.47s |t≤16.94s |
-| 7 | 20.39s |t≤41.82s |
-| 8 | 11.46s |t≤22.92s |
+| 7 | 20.39s |t≤40.78s |
+| 8 | 19.63s |t≤39.26s |
 | 9 | 11.05s |t≤22.1s |
 
 <br>
@@ -2008,7 +2008,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDUwNzA5NiwyMTAxNTgyMDIsLTE1NT
-E1Mzc1MzIsNDAzMTQ4MDIyLDQwMzEzMzEyMCwtMTgxMzk5MzUz
-Nyw2MTU4MDM0NF19
+eyJoaXN0b3J5IjpbLTE2NzQ1Mjg0ODgsMjEwMTU4MjAyLC0xNT
+UxNTM3NTMyLDQwMzE0ODAyMiw0MDMxMzMxMjAsLTE4MTM5OTM1
+MzcsNjE1ODAzNDRdfQ==
 -->
