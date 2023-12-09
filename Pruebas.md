@@ -156,7 +156,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 7</th>  
      </tr>
      <tr>  
-      <td>Máximo 2 errores por tarea (por participante).</td>
+      <td>Máximo 2 errores por tarea (por participante). En</td>
       <td rowspan=4>
     RNF-27. El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios.
       </td>    
@@ -2008,6 +2008,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE1Mzc1MzIsNDAzMTQ4MDIyLDQwMz
-EzMzEyMCwtMTgxMzk5MzUzNyw2MTU4MDM0NF19
+eyJoaXN0b3J5IjpbMzQyOTk5NTUzLC0xNTUxNTM3NTMyLDQwMz
+E0ODAyMiw0MDMxMzMxMjAsLTE4MTM5OTM1MzcsNjE1ODAzNDRd
+fQ==
 -->
