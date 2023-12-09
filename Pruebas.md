@@ -196,7 +196,7 @@ Tiempo esperado: El promedio de los tiempos de cada tarea no excede el doble del
 | 1 | 67.8s |
 | 2 | 16.28s |
 | 3 | 10.73s |
-| 4 | 10.73s |
+| 4 | 30.74s |
 
 
 ***Formato 1: Perfil de trabajador***
@@ -1982,6 +1982,6 @@ Tiempo esperado: El promedio de los tiempos de cada tarea no excede el doble del
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDU4ODc1NSwtMTgxMzk5MzUzNyw2MT
+eyJoaXN0b3J5IjpbMTA2NTY2NzI0OCwtMTgxMzk5MzUzNyw2MT
 U4MDM0NF19
 -->
