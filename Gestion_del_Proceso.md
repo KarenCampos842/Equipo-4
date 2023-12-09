@@ -98,7 +98,7 @@ Fecha límite: 7/12/2023
 **Viernes 8 diciembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 8 de diciembre (Corrección de redacción, Resultados métricas, Video demo, Edición demo, Artefactos Scrum). 
 
 Producto: 
-<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#mejoras-a-las-interfaces">Mejoras a las interfaces (Resultados interfaz)</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#evoluci%C3%B3n-de-las-interfaces-de-usuario">Diseño.md</a>
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#resultados">Resultados</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Demo.md#demo">Demo.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Artefactos_Scrum.md#artefactos-scrum">Demo.md</a>
 
 Fecha límite: 7/12/2023
 
@@ -435,11 +435,11 @@ Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/SegundTer
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjY5ODk1OSwtODk5MDYyODY0LDc1MD
-M2OTMwNSwtODI3NTI2OTM4LC0xNzQ1ODA1NTgyLC0xNTI2MjA5
-ODg4LC0xNzc4Mzk2ODg3LC0xMDI2MTM0NjMzLC00MDAwNzUwNz
-IsMTUyNzI0ODQwOCwtMTAxMjQ3MzI2MCwxODI4MDk4MDQ4LDE3
-ODQyODcyOTgsNDU0MDExODAsLTEyNjkwNzQ5MjMsMTMzMzIyMT
-A2OSwzNDI1ODMwNywtMTEyNjM0NzU1OSwxNzEyMDYwMjU5LDE5
-MjI3NjkxNjNdfQ==
+eyJoaXN0b3J5IjpbMTIwMDg2ODU5NSwxMzcyNjk4OTU5LC04OT
+kwNjI4NjQsNzUwMzY5MzA1LC04Mjc1MjY5MzgsLTE3NDU4MDU1
+ODIsLTE1MjYyMDk4ODgsLTE3NzgzOTY4ODcsLTEwMjYxMzQ2Mz
+MsLTQwMDA3NTA3MiwxNTI3MjQ4NDA4LC0xMDEyNDczMjYwLDE4
+MjgwOTgwNDgsMTc4NDI4NzI5OCw0NTQwMTE4MCwtMTI2OTA3ND
+kyMywxMzMzMjIxMDY5LDM0MjU4MzA3LC0xMTI2MzQ3NTU5LDE3
+MTIwNjAyNTldfQ==
 -->
