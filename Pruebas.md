@@ -193,9 +193,9 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 
 El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tabla a continuación:
 
-| Tarea |Tiempo base|
-|--|--|
-| 1 | 67.8s |
+| Tarea |Tiempo base| Tiempo esperado|
+|--|--|--|
+| 1 | 67.8s | 1 |
 | 2 | 16.28s |
 | 3 | 10.73s |
 | 4 | 30.64s |
@@ -1989,6 +1989,6 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzgxNTc3NzUsLTE4MTM5OTM1MzcsNj
-E1ODAzNDRdfQ==
+eyJoaXN0b3J5IjpbNzE0Mzc1OTMxLC0xODEzOTkzNTM3LDYxNT
+gwMzQ0XX0=
 -->
