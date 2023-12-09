@@ -189,11 +189,12 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 <br>
 <br>
 
-Tiempo esperado: El promedio de los tiempos de cada tarea no excede el doble del tiempo en la presente tabla
+Tiempo esperado: El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tabla a con
 
 | Tarea |Tiempo|
 |--|--|
-| 1 |  |
+| 1 | 67.8s |
+| 2 | 16.28s |
 
 
 ***Formato 1: Perfil de trabajador***
@@ -1979,5 +1980,6 @@ Tiempo esperado: El promedio de los tiempos de cada tarea no excede el doble del
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM5OTM1MzcsNjE1ODAzNDRdfQ==
+eyJoaXN0b3J5IjpbLTI3OTU1NzkzMCwtMTgxMzk5MzUzNyw2MT
+U4MDM0NF19
 -->
