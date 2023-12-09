@@ -95,6 +95,13 @@ Producto:
 
 Fecha límite: 7/12/2023
 
+**Viernes 8 diciembre de 2023**<br> Durante la reunión se revisó el avance del trabajo programado para finalizar el día 8 de diciembre (Resultados interfaz y Evolución de las Interfaces de Usuario). 
+
+Producto: 
+<a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Pruebas.md#mejoras-a-las-interfaces">Mejoras a las interfaces (Resultados interfaz)</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Dise%C3%B1o.md#evoluci%C3%B3n-de-las-interfaces-de-usuario">Diseño.md</a>
+
+Fecha límite: 7/12/2023
+
 ## Sprint Backlog
 Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/SegundTercera-Entrega/Descripci%C3%B3n_del_proceso.md#descripci%C3%B3n-del-proceso">Descripción_del_proceso.md</a> para ver especificaciones de las actividades.
 
@@ -428,11 +435,11 @@ Ir al archivo <a href="https://github.com/KarenCampos842/Equipo-4/blob/SegundTer
    </tr>  
   </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTA2Mjg2NCw3NTAzNjkzMDUsLTgyNz
-UyNjkzOCwtMTc0NTgwNTU4MiwtMTUyNjIwOTg4OCwtMTc3ODM5
-Njg4NywtMTAyNjEzNDYzMywtNDAwMDc1MDcyLDE1MjcyNDg0MD
-gsLTEwMTI0NzMyNjAsMTgyODA5ODA0OCwxNzg0Mjg3Mjk4LDQ1
-NDAxMTgwLC0xMjY5MDc0OTIzLDEzMzMyMjEwNjksMzQyNTgzMD
-csLTExMjYzNDc1NTksMTcxMjA2MDI1OSwxOTIyNzY5MTYzLDE1
-NzU3MzE4ODJdfQ==
+eyJoaXN0b3J5IjpbLTUyNDAzMTg2NSwtODk5MDYyODY0LDc1MD
+M2OTMwNSwtODI3NTI2OTM4LC0xNzQ1ODA1NTgyLC0xNTI2MjA5
+ODg4LC0xNzc4Mzk2ODg3LC0xMDI2MTM0NjMzLC00MDAwNzUwNz
+IsMTUyNzI0ODQwOCwtMTAxMjQ3MzI2MCwxODI4MDk4MDQ4LDE3
+ODQyODcyOTgsNDU0MDExODAsLTEyNjkwNzQ5MjMsMTMzMzIyMT
+A2OSwzNDI1ODMwNywtMTEyNjM0NzU1OSwxNzEyMDYwMjU5LDE5
+MjI3NjkxNjNdfQ==
 -->
