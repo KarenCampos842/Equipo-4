@@ -600,7 +600,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
-       <td colspan="2">1.0 (29/10/2023)</td> 
+       <td colspan="2">2.0 (09/12/2023)</td> 
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
@@ -711,7 +711,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
-       <td colspan="2">1.0 (29/10/2023)</td> 
+       <td colspan="2">2.0 (09/12/2023)</td> 
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
@@ -818,7 +818,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
-       <td colspan="2">1.0 (30/10/2023)</td> 
+       <td colspan="2">2.0 (09/12/2023)</td> 
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
@@ -1646,7 +1646,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTIwOTQ5Nyw2OTE5NDMzODcsOTEzNT
-c5Mzk1LDQ5MjE2OTcwLDEzODQxODkxNDgsMTM4NDE4OTE0OCwt
-MTAwNDI2NTcxMiwxNzc3Mjc4MzQ3XX0=
+eyJoaXN0b3J5IjpbLTE0MDM4NTUwMjAsNjkxOTQzMzg3LDkxMz
+U3OTM5NSw0OTIxNjk3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgs
+LTEwMDQyNjU3MTIsMTc3NzI3ODM0N119
 -->
