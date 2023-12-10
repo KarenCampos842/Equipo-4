@@ -1399,14 +1399,14 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td> 1 </td>
-<td>No se pueden seleccionar más de dos trabajadores a las vez.</td>
+<td>No se pueden realizar búsquedas de más de 50 caracteres.</td>
 </tr>
   <tr>
     </tr> 
     </tr> 
       <tr>  
-  <td>3</td> 
-   <td>El cliente no puede abrir el chat sin antes haber visto el perfil completo.</td> 
+  <td>2</td> 
+   <td>No se pueden seleccionar más de dos trabajadores a las vez.</td> 
    </tr> 
     </tr>
   <tr>  
@@ -1416,7 +1416,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr>
     <tr>  
   <td>4</td> 
-   <td>El cliente no puede abrir el chat sin antes haber visto el perfil completo.</td> 
+   <td>El ctrabaja</td> 
    </tr> 
     </tr>
     <tr>  
@@ -1561,7 +1561,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDk4Nzc0NSw5MTM1NzkzOTUsNDkyMT
+eyJoaXN0b3J5IjpbMTMyMzA1NzIwMCw5MTM1NzkzOTUsNDkyMT
 Y5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0MjY1NzEy
 LDE3NzcyNzgzNDddfQ==
 -->
