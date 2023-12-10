@@ -1629,6 +1629,70 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </table>
 
 <br>
+
+<table align=center>  
+   <tr>
+     <th>CU-13</th>  
+      <th colspan="2">Finalización del contrato</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (09/12/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">Debe haber un contrato activo entre trabajador y cliente.</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El cliente podrá indicar si su servicio se realizó y concluyó correctamente.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="4"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El trabajador visualiza una pantalla donde puede cerrar su contrato.</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>El cliente podrá calificar mediante una puntuación definida por 5 estrellas el nivel de satisfacción que tuvo en cuanto al servicio.</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>El cliente pude comentar sus resultados.</td> 
+   </tr> 
+   </tr> 
+<td><b>Postcondición</b></td>
+<td  colspan="2">El contrató se finalizará solo después de haber concluido los pasos previos.</td>
+</tr>
+<tr>
+<td  rowspan="9"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>El trabajador no puede salir de la pantalla sin antes haber cerrado el contrato.</td>
+</tr>
+  <tr>
+    </tr> 
+    </tr> 
+      <tr>  
+  <td>2</td> 
+   <td>No se puede seleccionar media estrella.</td> 
+   </tr> 
+    </tr>
+  <tr>  
+  <td>3</td> 
+   <td>No se puede terminar el contrato sin que antes el cliente haya dejado su comentario.</td> 
+
+</table>
+
+<br>
  
  </table> 
 <table align=center>  
@@ -1763,7 +1827,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzE5Mzk0NywzNTU0ODQ3MzEsMTIzMj
+eyJoaXN0b3J5IjpbLTk4MzYxNTE5MCwzNTU0ODQ3MzEsMTIzMj
 c1NTE5NiwtNzg0MjI3OTY5LDY5MTk0MzM4Nyw5MTM1NzkzOTUs
 NDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0Mj
 Y1NzEyLDE3NzcyNzgzNDddfQ==
