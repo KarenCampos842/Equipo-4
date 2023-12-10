@@ -1496,7 +1496,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr>
     <tr>  
   <td>4</td> 
-   <td>El trabajador no puede restaurar un trabajo que </td> 
+   <td>El trabajador no puede restaurar un trabajo que ha rechazado.</td> 
 
 </table>
 
@@ -1635,7 +1635,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODM1NzE1NiwtNzg0MjI3OTY5LDY5MT
+eyJoaXN0b3J5IjpbMTIzMjc1NTE5NiwtNzg0MjI3OTY5LDY5MT
 k0MzM4Nyw5MTM1NzkzOTUsNDkyMTY5NzAsMTM4NDE4OTE0OCwx
 Mzg0MTg5MTQ4LC0xMDA0MjY1NzEyLDE3NzcyNzgzNDddfQ==
 -->
