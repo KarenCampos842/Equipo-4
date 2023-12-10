@@ -719,6 +719,24 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
  - Si el correo o el número de teléfono ya están registrados en el sistema no se podrá proceder.
  - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
  - Si no acepta los términos y condiciones no podrá avanzar
+
+<td><b>Postcondición</b></td>  
+       <td colspan="2">x</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td>  
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>x</td> 
+  </tr>     
+  <tr>  
+  <td>E.1</td> 
+   <td>x</td> 
+  </tr>          
+ </table>
  
  </table>                
   <br>    
@@ -1275,6 +1293,6 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNz
-c3Mjc4MzQ3XX0=
+eyJoaXN0b3J5IjpbMTk3Nzc2MjY3MywxMzg0MTg5MTQ4LC0xMD
+A0MjY1NzEyLDE3NzcyNzgzNDddfQ==
 -->
