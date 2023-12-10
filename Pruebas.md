@@ -2019,6 +2019,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 **Cantidad de errores cometidos como clientes**
 **![](https://lh7-us.googleusercontent.com/KBqPWKmToFTVY3HrAQD8HMSZHqoyDFVPkMOaGedPfq0pq5mQs8-RE45unNr0DZMO91ZU_PaT5b1G-Lx0FRh9ZvohUu-rWqat6PZwi9JIzC5AtXiE0CrmBJPoFb8D6pdHK93tqfO1heUZumOBLSxuyJM)**
 <br>
+
 ### Mejoras a las interfaces 
 
 | Nombre de la ventana | Cambio | Descripción|
@@ -2028,7 +2029,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDUzMTI0OCwxOTA0NTk4Mzg1LC0xNj
+eyJoaXN0b3J5IjpbLTQ2OTA5ODk3OCwxOTA0NTk4Mzg1LC0xNj
 AwODYyMDY2LDIxMDE1ODIwMiwtMTU1MTUzNzUzMiw0MDMxNDgw
 MjIsNDAzMTMzMTIwLC0xODEzOTkzNTM3LDYxNTgwMzQ0XX0=
 -->
