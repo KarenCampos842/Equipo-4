@@ -800,31 +800,46 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        </td> 
     </tr> 
      <tr>  
-      <td  rowspan="2"><b>Excepciones</b></td>
+      <td  rowspan="5"><b>Excepciones</b></td>
 <td><b>Paso</b></td>
 <td><b>Acción</b></td>
   </tr> 
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>Introducir un usuario inexistence impedirá el inicio de sesión.
-- La contraseña introducida deberá ser correcta para el usuario </td> 
+   <td>Introducir un usuario inexistence impedirá el inicio de sesión.</td> 
    </tr> 
     </tr> 
   <tr> 
   </tr> 
     </tr> 
   <tr>  
-  <td>1</td> 
-   <td>Introducir un usuario inexistence impedirá el inicio de sesión.
-- La contraseña introducida deberá ser correcta para el usuario </td> 
+  <td>2</td> 
+   <td>La contraseña introducida deberá ser correcta para el usuario.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+   </tr> 
+    </tr> 
+  <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>La contraseña introducida deberá ser correcta para el usuario introducido, en caso de escribirla incorrectamente no se podrá iniciar sesión.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>Si no se introducen caracteres válidos el sistema no no permitirá realizar el inicio de sesión.</td> 
    </tr> 
     </tr> 
   <tr> 
 </table>
-
--  introducido, en caso de escribirla incorrectamente no se podrá iniciar sesión.
-- Si no se introducen caracteres válidos el sistema no no permitirá realizar el inicio de sesión.
 
 <br>
 
@@ -1280,7 +1295,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzMzQ5ODgwLDQ5MjE2OTcwLDEzODQxOD
-kxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3
-XX0=
+eyJoaXN0b3J5IjpbLTMzMTMwMzcwOSw0OTIxNjk3MCwxMzg0MT
+g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
+N119
 -->
