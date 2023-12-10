@@ -611,7 +611,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema deberá registrar a todo trabajador con éxito, siendo rápido y eficiente.</td> 
    </tr> 
      <tr>  
-      <td rowspan="8"><b>Secuencia normal</b></td>
+      <td rowspan="9"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -660,13 +660,12 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        </td> 
     </tr> 
      <tr> 
-<td  rowspan="2"><b>Excepciones</b></td>
+<td  rowspan="3"><b>Excepciones</b></td>
 <td><b>Paso</b></td>
 <td><b>Acción</b></td>
 </tr>
 <td>1</td>
 <td>- Si la identificación oficial y la fotografía no coinciden no podrá proceder el registro.</td>
-<tr>
 </table>
 
 
@@ -1240,6 +1239,6 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxMDQ0MTQxLDEzODQxODkxNDgsMTM4ND
-E4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3XX0=
+eyJoaXN0b3J5IjpbMTU2Njc0NTY4OSwxMzg0MTg5MTQ4LDEzOD
+QxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0N119
 -->
