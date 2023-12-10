@@ -1281,7 +1281,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr>
     <tr>  
   <td>4</td> 
-   <td>El cliente no podrá intentar seleccionar dos perfiles a la vez.</td> 
+   <td>El cliente solo podrá ingresar al perfil del usuario si le da click al icono de perfil.</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -1525,7 +1525,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU0ODQyNTgsOTEzNTc5Mzk1LDQ5Mj
-E2OTcwLDEzODQxODkxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcx
-MiwxNzc3Mjc4MzQ3XX0=
+eyJoaXN0b3J5IjpbODU5MDk5MDUxLDkxMzU3OTM5NSw0OTIxNj
+k3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIs
+MTc3NzI3ODM0N119
 -->
