@@ -1461,12 +1461,12 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>El trabajador acepta o rechaza hazar el trabajo.</td> 
+   <td>El trabajador acepta o rechaza el trabajo.</td> 
    </tr> 
    </tr> 
   <tr>  
   <td>4</td> 
-   <td>El trabajador recibe una notificación de que tiene un nuevo mensaje.</td> 
+   <td>El cliente es notificado sobre la aceptación o rechazo de su trabajo.</td> 
    </tr> 
     </tr> 
   <tr>  
@@ -1646,7 +1646,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjcwMjM5NjEsNjkxOTQzMzg3LDkxMz
-U3OTM5NSw0OTIxNjk3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgs
-LTEwMDQyNjU3MTIsMTc3NzI3ODM0N119
+eyJoaXN0b3J5IjpbLTc4NDIyNzk2OSw2OTE5NDMzODcsOTEzNT
+c5Mzk1LDQ5MjE2OTcwLDEzODQxODkxNDgsMTM4NDE4OTE0OCwt
+MTAwNDI2NTcxMiwxNzc3Mjc4MzQ3XX0=
 -->
