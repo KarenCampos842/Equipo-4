@@ -753,7 +753,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr>
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">No será posible cambiar ni el nombre, ni el correo electrónico.
+       <td colspan="2">No se podrá volver a registrar una cuenta con el mismo correo electr
        </tr> 
        </td> 
     </tr> 
@@ -1343,7 +1343,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODk0OTcyMyw0OTIxNjk3MCwxMzg0MT
+eyJoaXN0b3J5IjpbMTA0MTU2NzY4Niw0OTIxNjk3MCwxMzg0MT
 g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
 N119
 -->
