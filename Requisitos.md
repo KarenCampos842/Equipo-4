@@ -665,7 +665,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <td><b>Acción</b></td>
 </tr>
 <td>1</td>
-<td>- Si la identificación oficial y la fotografía no coinciden no podrá proceder el registro.</td>
+<td>Si la identificación oficial y la fotografía no coinciden no podrá proceder el registro.</td>
   </tr> 
     </tr> 
   <tr>  
@@ -753,7 +753,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr>
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">No se podrá volver a registrar una cuenta con el mismo correo electr
+       <td colspan="2">No se podrá volver a registrar una cuenta con el mismo correo electrónico.
        </tr> 
        </td> 
     </tr> 
@@ -765,7 +765,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>Introducir un usuario inexistence impedirá el inicio de sesión.</td> 
+   <td>EL sistema no le permitirá al usuario intentar colocar sus sitema si el correo electrónico no se encuentra en la base de datos.</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -1343,7 +1343,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTU2NzY4Niw0OTIxNjk3MCwxMzg0MT
-g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
-N119
+eyJoaXN0b3J5IjpbLTE1NDIyMDM3NzcsNDkyMTY5NzAsMTM4ND
+E4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0MjY1NzEyLDE3NzcyNzgz
+NDddfQ==
 -->
