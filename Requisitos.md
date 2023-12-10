@@ -1268,7 +1268,13 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>2</td> 
-   <td>El usuario no podrá </td> 
+   <td>La lista estará limitada a los oficios relacionados con las primeras letras que escriba el usuario.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    <tr>  
+  <td>3</td> 
+   <td>La lista estará limitada a los oficios relacionados con las primeras letras que escriba el usuario.</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -1512,7 +1518,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDI1NDc3NzAsOTEzNTc5Mzk1LDQ5Mj
+eyJoaXN0b3J5IjpbLTE3ODYxNTQxMDcsOTEzNTc5Mzk1LDQ5Mj
 E2OTcwLDEzODQxODkxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcx
 MiwxNzc3Mjc4MzQ3XX0=
 -->
