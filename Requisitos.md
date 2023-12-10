@@ -1907,29 +1907,15 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
       <tr>  
   <td>3</td> 
-   <td>Si el correo electrónico al que se le intenta enviar el enlace de restablecimiento de contraseña no existe en la base de datos como previamente registrado, se le avisará al usuario que dicho correo electrónico no está registrado.</td> 
+   <td>No se podrá aceptar una nueva contraseña idéntica a la anterior. </td> 
    </tr> 
     </tr>
 
 </table>
 
- 
-</tr> 
-  <tr>  
-      <td><b>Postcondición</b></td>  
-       <td colspan="2">
-       </tr> 
-       </td> 
-    </tr> 
-     <tr>  
-      <td rowspan="4"><b>Excepciones</b></td>
-     <tr>  
-   <td>
+<br>
 
-- 
-- 
-- No se podrá aceptar una nueva contraseña idéntica a la anterior.
- </table>
+- </table>
  
    ### Diagrama de caso de uso
    ![enter image description here](https://github-production-user-asset-6210df.s3.amazonaws.com/143464988/280605824-a27ef423-58d7-4dd6-83d8-1661b4117367.jpg)
@@ -1946,8 +1932,8 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2MjcyNjU4LDM1NTQ4NDczMSwxMjMyNz
-U1MTk2LC03ODQyMjc5NjksNjkxOTQzMzg3LDkxMzU3OTM5NSw0
-OTIxNjk3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgsLTEwMDQyNj
-U3MTIsMTc3NzI3ODM0N119
+eyJoaXN0b3J5IjpbLTExNTI2MDYxNTcsMzU1NDg0NzMxLDEyMz
+I3NTUxOTYsLTc4NDIyNzk2OSw2OTE5NDMzODcsOTEzNTc5Mzk1
+LDQ5MjE2OTcwLDEzODQxODkxNDgsMTM4NDE4OTE0OCwtMTAwND
+I2NTcxMiwxNzc3Mjc4MzQ3XX0=
 -->
