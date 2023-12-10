@@ -686,7 +686,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>4</td> 
-   <td> - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.</td> 
+   <td>Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -694,7 +694,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>5</td> 
-   <td> - Si no acepta los términos y condiciones no podrá avanzar.</td> 
+   <td>Si no acepta los términos y condiciones no podrá avanzar.</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -1261,6 +1261,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MT
-g5MTQ4LC0xMDA0MjY1NzEyLDE3NzcyNzgzNDddfQ==
+eyJoaXN0b3J5IjpbMzczMzkzODMwLDQ5MjE2OTcwLDEzODQxOD
+kxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3
+XX0=
 -->
