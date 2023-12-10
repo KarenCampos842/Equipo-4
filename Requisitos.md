@@ -1565,6 +1565,70 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </table>
 
 <br>
+
+<table align=center>  
+   <tr>
+     <th>CU-12</th>  
+      <th colspan="2">Finalización del contrato</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (09/12/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El trabajador debió haber recibido un contrato del cliente</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El cliente podrá indicar si su servicio se realizó y concluyó correctamente.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="4"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El trabajador visualiza una pantalla donde puede calificar al cliente.</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>El trabajador selecciona una determinada cantidad de estrellas.</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>El trabajador confirma su calificación.</td> 
+   </tr> 
+   </tr> 
+<td><b>Postcondición</b></td>
+<td  colspan="2">Trabajador califica al cliente.</td>
+</tr>
+<tr>
+<td  rowspan="9"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>El trabajador no puede salir de la pantalla sin antes haber dejado una calificación..</td>
+</tr>
+  <tr>
+    </tr> 
+    </tr> 
+      <tr>  
+  <td>2</td> 
+   <td>No se puede seleccionar media estrella.</td> 
+   </tr> 
+    </tr>
+  <tr>  
+  <td>3</td> 
+   <td>No se puede confirmado una calificación sin haber seleccionado nada. </td> 
+
+</table>
+
+<br>
  
  </table> 
 <table align=center>  
@@ -1699,8 +1763,8 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTM0MTI0NSwzNTU0ODQ3MzEsMTIzMj
-c1NTE5NiwtNzg0MjI3OTY5LDY5MTk0MzM4Nyw5MTM1NzkzOTUs
-NDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0Mj
-Y1NzEyLDE3NzcyNzgzNDddfQ==
+eyJoaXN0b3J5IjpbLTEzNjU2Njk1MjgsMzU1NDg0NzMxLDEyMz
+I3NTUxOTYsLTc4NDIyNzk2OSw2OTE5NDMzODcsOTEzNTc5Mzk1
+LDQ5MjE2OTcwLDEzODQxODkxNDgsMTM4NDE4OTE0OCwtMTAwND
+I2NTcxMiwxNzc3Mjc4MzQ3XX0=
 -->
