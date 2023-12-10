@@ -1159,7 +1159,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>Introducir un usuario inexistence impedirá el inicio de sesión.</td> 
+   <td>Solo se le permite al usuario seleccionar una única imagen de su galería.</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -1167,7 +1167,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>2</td> 
-   <td>La contraseña introducida deberá ser correcta para el usuario.</td> 
+   <td>El usuario no puede cambiar su imagen de perfil múltiples veces.</td> 
    </tr> 
     </tr> 
   <tr>
@@ -1193,16 +1193,6 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr> 
 </table>
 
-
-
-
-
-
-
-- Solo se le permite al usuario seleccionar una única imagen de su galería.
-- El usuario no puede cambiar su imagen de perfil múltiples veces.
-
- 
  <br>
 
 <table  align=center>
@@ -1496,7 +1486,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzI2NjI3MSw0OTIxNjk3MCwxMzg0MT
-g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
-N119
+eyJoaXN0b3J5IjpbMjgyNDg5NjQyLDQ5MjE2OTcwLDEzODQxOD
+kxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3
+XX0=
 -->
