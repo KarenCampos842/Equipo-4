@@ -2035,7 +2035,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
       <li>RF-2. Registro del cliente.</li>
       <li>RF-5. Creación de contraseña.</li>
       </td>  
-      <td>6/6 personas cumplieron la tarea por lo que los requisitos , 2 y 5 fueron exitosos.</td>
+      <td>6/6 personas cumplieron la tarea por lo que los requisitos 1, 2 y 5 fueron exitosos</td>
       <td>  
      </tr>
       <tr>  
@@ -2046,7 +2046,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
       <li>RF-10. Inicio de sesión.</li>
        <li>RF-21. Recuperación de contraseña.</li>
       </td>  
-      <td>6/6 personas cumplieron la tarea por lo que los requisitos 1, 2 y 5 fueron exitosos.</td>
+      <td>6/6 personas cumplieron la tarea por lo que los requisitos 5, 8, 10 y 21 fueron exitosos..</td>
       <td>    
      </tr>
        <tr>  
@@ -2059,6 +2059,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
        <li>RF-12. Filtro.</li>
        <li> RF-13. Elección del trabajador.</li>
       </td>    
+       <td>6/6 personas cumplieron la tarea por lo que los requisitos 1, 2 y 5 fueron exitosos</td>
      </tr>
       <tr>  
       <th colspan=2>Objetivo 3</th>  
@@ -2156,7 +2157,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzg3NDQyOSwxMDE2Mzk4NiwtMTYxNz
+eyJoaXN0b3J5IjpbLTk1OTU3NDI1OSwxMDE2Mzk4NiwtMTYxNz
 cyNzEyNSwtNDY5MDk4OTc4LDE5MDQ1OTgzODUsLTE2MDA4NjIw
 NjYsMjEwMTU4MjAyLC0xNTUxNTM3NTMyLDQwMzE0ODAyMiw0MD
 MxMzMxMjAsLTE4MTM5OTM1MzcsNjE1ODAzNDRdfQ==
