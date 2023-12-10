@@ -600,7 +600,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
-       <td colspan="2">1.0 (29/10/2023)</td> 
+       <td colspan="2">2.0 (09/12/2023)</td> 
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
@@ -611,7 +611,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema deberá registrar a todo trabajador con éxito, siendo rápido y eficiente.</td> 
    </tr> 
      <tr>  
-      <td rowspan="15"><b>Secuencia normal</b></td>
+      <td rowspan="9"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -655,21 +655,53 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real
+       <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real.
        </tr> 
        </td> 
     </tr> 
-     <tr>  
-      <td rowspan="4"><b>Excepciones</b></td>
-     <tr>  
-   <td>
+     <tr> 
+<td  rowspan="9"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<td>1</td>
+<td>Si la identificación oficial y la fotografía no coinciden no podrá proceder el registro.</td>
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>2</td> 
+   <td>Si la tarjeta no contiene fondos suficientes, tendrá que ingresar otra o meterle fondos a la tarjeta.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    </tr> 
+    </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>Si el correo o el número de teléfono ya están registrados en el sistema no se podrá proceder.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+    </tr> 
+    </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+    </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td>Si no acepta los términos y condiciones no podrá avanzar.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+</table>
 
-- Si la identificación oficial y la fotografía no coinciden no podrá proceder el registro.
- - Si la tarjeta no contiene fondos suficientes, tendrá que ingresar otra o meterle fondos a la tarjeta.
- - Si el correo o el número de teléfono ya están registrados en el sistema no se podrá proceder.
- - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
- - Si no acepta los términos y condiciones no podrá avanzar
- 
+<br>
+
  </table>                
   <br>    
 <table align=center>  
@@ -679,18 +711,18 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
-       <td colspan="2">1.0 (29/10/2023)</td> 
+       <td colspan="2">2.0 (09/12/2023)</td> 
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El usuario deberá de contar con un correo electrónico, una contraseña y también no haberse registrado antes</td> 
+       <td colspan="2">El usuario deberá de contar con un correo electrónico, una contraseña y también no haberse registrado antes.</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
        <td colspan="2">El sistema deberá registrar a todo usuario con éxito, siendo rápido y eficiente.</td> 
    </tr> 
      <tr>  
-      <td rowspan="9"><b>Secuencia normal</b></td>
+      <td rowspan="6"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -700,33 +732,93 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>Debe seleccionar en el icono de cliente</td> 
+   <td>Debe seleccionar en el icono de cliente.</td> 
   </tr>
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: Su nombre completo, un correo electrónico y un número de teléfono. Una vez llenado los datos correctos, le da en el botón de "Continuar"</td> 
+   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: Su nombre completo, un correo electrónico y un número de teléfono. Una vez llenado los datos correctos, le da en el botón de "Continuar".</td> 
    </tr> 
    </tr> 
   <tr>  
   <td>4</td> 
-   <td> Posteriormente se le mostrarán los términos y condiciones que debe aceptar y dar en continuar para seguir concluir con su registro</td> 
+   <td>Posteriormente se le mostrarán los términos y condiciones que debe aceptar y dar en continuar para seguir concluir con su registro.</td> 
    </tr> 
     </tr> 
   <tr>  
   <td>5</td> 
    <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.</td>
+      </tr> 
+   </tr> 
+  <tr>
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">No se podrá volver a registrar una cuenta con el mismo correo electrónico.
+       </tr> 
+       </td> 
+    </tr> 
+     <tr>  
+      <td  rowspan="14"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>EL sistema no le permitirá al usuario intentar introducir una contraseña si el correo electrónico no se encuentra en la base de datos.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>2</td> 
+   <td>El usuario no puede registrase con dos perfiles (trabajador/cliente) a la vez.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+   </tr> 
+    </tr> 
+  <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>El sistema no le permitirá al usuario continuar si no rellena los campos obligatorios correspondientes.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>Si no se aceptan los términos y condiciones, el sistema no le permitirá al usuario continuar.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+  <tr>
+    <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td>El usuario no podrá intentar iniciar sesión con su correo electrónico sin antes haber recibido sus respectivos datos.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+</table>
 
 <br>
 
 <table align=center>  
    <tr>
-     <th>CU-3</th>  
+     <th>CU-03</th>  
       <th colspan="2">Auntentificación</th>  
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
-       <td colspan="2">1.0 (30/10/2023)</td> 
+       <td colspan="2">2.0 (09/12/2023)</td> 
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
@@ -737,7 +829,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema deberá autentificar rápidamente al usuario en caso de que sus datos sean correctos.</td> 
    </tr> 
      <tr>  
-      <td rowspan="15"><b>Secuencia normal</b></td>
+      <td rowspan="4"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -763,24 +855,57 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        </td> 
     </tr> 
      <tr>  
-      <td rowspan="4"><b>Excepciones</b></td>
-     <tr>  
-   <td>
+      <td  rowspan="10"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>Introducir un usuario inexistence impedirá el inicio de sesión.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>2</td> 
+   <td>La contraseña introducida deberá ser correcta para el usuario.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+   </tr> 
+    </tr> 
+  <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>La contraseña introducida deberá ser correcta para el usuario introducido, en caso de escribirla incorrectamente no se podrá iniciar sesión.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>Si no se introducen caracteres válidos el sistema no no permitirá realizar el inicio de sesión.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+</table>
 
--  Introducir un usuario inexistence impedirá el inicio de sesión.
-- La contraseña introducida deberá ser correcta para el usuario introducido, en caso de escribirla incorrectamente no se podrá iniciar sesión.
-- Si no se introducen caracteres válidos el sistema no no permitirá realizar el inicio de sesión.
- </table>
 <br>
 
 <table align=center>  
    <tr>
-     <th>CU-4</th>  
+     <th>CU-04</th>  
       <th colspan="2">Perfil de trabajador</th>  
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
-       <td colspan="2">1.0 (04/11/2023)</td> 
+       <td colspan="2">2.0 (09/12/2023)</td> 
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
@@ -791,13 +916,13 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema debe permitir al usuario trabajador visualizar su perfil y realizar ciertas modificar ciertos parámetros del mismo.</td> 
    </tr> 
      <tr>  
-      <td rowspan="16"><b>Secuencia normal</b></td>
+      <td rowspan="13"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El usuario accede al menu de su perfil a través de un botón en la pantalla principal</td> 
+   <td>El usuario accede al menú de su perfil a través de un botón en la pantalla principal</td> 
   </tr>     
   <tr>  
   <td>2</td> 
@@ -846,24 +971,125 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr>  
   <td>12</td> 
    <td>El usuario presiona el botón de editar la fecha de vencimiento (mes, año) de la tarjeta de crédito, cambia los valores y le da a confirmar.</td> 
+    </tr> 
    </tr> 
+  <tr>
   <tr>  
       <td><b>Postcondición</b></td>  
        <td colspan="2">El usuario no podrá modíficar la información de su perfil consecutivamente por más de 2 veces.
-      </td> 
- </tr>  
- <tr>  
-  <td rowspan="2"><b>Excepciones</b></td>
- </tr>  
- <tr>
-  <td>
-
- - El usuario no podrá editar ni el correo, ni su nombre de usuario, ni su oficio.
-- El usuario no puede cambiar su imagen de perfil múltiples veces.
-</td> 
-</tr>  
+       </tr> 
+       </td> 
+    </tr> 
+     <tr>  
+      <td  rowspan="39"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El usuario no podrá editar ni el correo, ni su nombre de usuario, ni su oficio.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>2</td> 
+   <td>El usuario no puede cambiar su imagen de perfil múltiples veces.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+   </tr> 
+    </tr> 
+  <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>El usuario no podrá elegir una fotografía con uns resolución inferior a 800x800px.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>No se pueden seleccionar más de dos imágenes a la vez.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+  <tr>
+    <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td>El usuario no podrá continuar sin antes haber seleccionado una imagen, o bien, habiéndosela tomado.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+   <tr>
+  <tr>
+    <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>6</td> 
+   <td>El usuario no puede cambiar la calificación de su perfil.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    <tr>
+    <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>7</td> 
+   <td>El usuario no puede confirmar un número telefónico identico al anterior. </td> 
+   </tr> 
+    </tr> 
+  <tr>
+    </tr> 
+    </tr> 
+  <tr>  
+  <td>8</td> 
+   <td>El usuario no puede confirmar una dirección idéntica a la anterior. </td> 
+   </tr> 
+    </tr> 
+  <tr>
+  <tr>  
+  <td>9</td> 
+   <td>El usuario no puede introducir guardar un trabajo sin información.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+   <tr>
+  <tr>  
+  <td>10</td> 
+   <td>El usuario no puede confirmar un número de tarjeta idéntico al anterior. </td> 
+   </tr> 
+    </tr> 
+  <tr> 
+   <tr> 
+   <tr>
+  <tr>  
+  <td>11</td> 
+   <td>El usuario no puede cambiar los parámetros más de 2 veces consecutivas.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+   <tr> 
+   <tr> 
+   <tr>
+  <tr>  
+  <td>12</td> 
+   <td>El usuario no puede introducir valores que no sean los números o letras permisibles.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
 </table>
- 
 
 <br>
 
@@ -874,7 +1100,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
-       <td colspan="2">1.0 (03/11/2023)</td> 
+       <td colspan="2">2.0 (09/12/2023)</td> 
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
@@ -885,7 +1111,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema debe permitir al usuario visualizar su perfil y realizar ciertas modificar ciertos parámetros del mismo.</td> 
    </tr> 
      <tr>  
-      <td rowspan="15"><b>Secuencia normal</b></td>
+      <td rowspan="7"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -915,8 +1141,10 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>6</td> 
-   <td>El usuario observa su correo electrónico y calificación debajo de la imagen de perfil.</td> 
-</tr> 
+   <td>El usuario observa su correo electrónico y calificación debajo de la imagen de perfil.</td>
+   </tr> 
+   </tr> 
+  <tr>
   <tr>  
       <td><b>Postcondición</b></td>  
        <td colspan="2">No será posible cambiar ni el nombre, ni el correo electrónico.
@@ -924,14 +1152,65 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        </td> 
     </tr> 
      <tr>  
-      <td rowspan="4"><b>Excepciones</b></td>
-     <tr>  
-   <td>
+      <td  rowspan="16"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El usuario no podrá editar ni el correo, ni su nombre de usuario.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>2</td> 
+   <td>El usuario no puede cambiar su imagen de perfil múltiples veces.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+   </tr> 
+    </tr> 
+  <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>El usuario no podrá elegir una fotografía con uns resolución inferior a 800x800px.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>4</td> 
+   <td> No se pueden seleccionar más de dos imágenes a la vez.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    <tr>
+    <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td>El usuario no podrá continuar sin antes haber seleccionado una imagen, o bien, habiéndosela tomado.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    </tr> 
+    </tr> 
+  <tr>  
+  <td>6</td> 
+   <td>El usuario no puede cambiar la calificación de su perfil.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+</table>
 
-- Solo se le permite al usuario seleccionar una única imagen de su galería.
-- El usuario no puede cambiar su imagen de perfil múltiples veces.
- </table>
- 
  <br>
 
 <table  align=center>
@@ -940,7 +1219,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <th  colspan="2">Búsqueda y filtro </th></tr>
 <tr>
 <td><b>Versión</b></td>
-<td  colspan="2">1.0 (29/10/2023)</td>
+<td  colspan="2">2.0 (09/12/2023)</td>
 </tr>
 <tr>
 <td><b>Precondición</b></td>
@@ -948,7 +1227,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td><b>Descripción</b></td>
-<td  colspan="2">El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio y filtrará las opciones con criterios de calificación y ubicació</td>
+<td  colspan="2">El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio y filtrará las opciones con criterios de calificación y ubicación.</td>
 </tr>
 <tr>
 <td  rowspan="5"><b>Secuencia normal</b></td>
@@ -957,26 +1236,26 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td>1</td>
-<td>El cliente ingresa el nombre de un oficio </td>
+<td>El cliente ingresa el nombre de un oficio.</td>
 </tr>
 <tr>
 <td>2</td>
-<td>El sistema despliega una lista de oficios </td>
+<td>El sistema despliega una lista de oficios.</td>
 </tr>
 <tr>
 <td>3</td>
-<td>El cliente selecciona el trabajo que desea contratar</td>
+<td>El cliente selecciona el trabajo que desea contratar.</td>
 </tr>
 <tr>
 <td>4</td>
-<td>El sistema organiza los resultados de búsqueda y crea una <br> lista de trabajadores con algunos de sus datos</td>
+<td>El sistema organiza los resultados de búsqueda y crea una <br> lista de trabajadores con algunos de sus datos.</td>
 </tr>
 <tr>
 <td><b>Postcondición</b></td>
-<td  colspan="2">El usuario es libre de seleccionar con quien quiere trabajar </td>
+<td  colspan="2">El usuario es libre de seleccionar con quien quiere trabajar.</td>
 </tr>
 <tr>
-<td  rowspan="3"><b>Excepciones</b></td>
+<td  rowspan="13"><b>Excepciones</b></td>
 <td><b>Paso</b></td>
 <td><b>Acción</b></td>
 </tr>
@@ -984,8 +1263,29 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <td> 1 </td>
 <td>Si el oficio buscado no está dado de alta  en la base de datos, el sistema notifica al usuario que no encuentra el oficio buscado.</td>
 </tr>
+  <tr>
+    </tr> 
+    </tr> 
+  <tr>  
+  <td>2</td> 
+   <td>La lista estará limitada a los oficios relacionados con las primeras letras que escriba el usuario.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    <tr>  
+  <td>3</td> 
+   <td>El cliente no podrá intentar seleccionar dos perfiles a la vez.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+  <tr>
+    <tr>  
+  <td>4</td> 
+   <td>El cliente solo podrá ingresar al perfil del usuario si le da click al icono de perfil.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
 </table>
-
 <br>
 
 <table align=center>
@@ -995,7 +1295,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td><b>Versión</b></td>
-<td  colspan="2">1.0 (29/10/2023)</td>
+<td  colspan="2">2.0 (09/12/2023)</td>
 </tr>
 <tr>
 <td><b>Precondición</b></td>
@@ -1012,25 +1312,33 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td>1</td>
-<td>El cliente selecciona un trabajador </td>
+<td>El cliente selecciona un trabajador.</td>
 </tr>
 <tr>
 <td>2</td>
-<td>El sistema abre el perfil del trabajador y despliegan las opciones de chat y contratar servicio </td>
+<td>El sistema abre el perfil del trabajador y despliegan las opciones de chat y contratar servicio.</td>
 </tr>
 <tr>
 <td><b>Postcondición</b></td>
-<td  colspan="2">El trabajador y el usuario se ponen en contacto </td>
+<td  colspan="2">El trabajador y el usuario se ponen en contacto.</td>
 </tr>
 <tr>
-<td  rowspan="2"><b>Excepciones</b></td>
+<td  rowspan="4"><b>Excepciones</b></td>
 <td><b>Paso</b></td>
 <td><b>Acción</b></td>
 </tr>
 <tr>
-<td  rowspan="3">  </td>
-<td  >  </td>
+<td> 1 </td>
+<td>No se pueden seleccionar más de dos trabajadores a las vez.</td>
 </tr>
+  <tr>
+    </tr> 
+    </tr> 
+  <tr>  
+  <td>2</td> 
+   <td>El cliente no puede abrir el chat sin antes haber visto el perfil completo.</td> 
+   </tr> 
+    </tr>
 </table>
 
 <br>
@@ -1042,7 +1350,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
-       <td colspan="2">1.0 (29/10/2023)</td> 
+       <td colspan="2">2.0 (09/12/2023)</td> 
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
@@ -1053,13 +1361,13 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema deberá contar con un chat entre usuarios y trabajadores para agendar fechas, horarios y costos del servicio.</td> 
    </tr> 
      <tr>  
-      <td rowspan="9"><b>Secuencia normal</b></td>
+      <td rowspan="6"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El usuario debe buscar el servicio que desea obtener</td> 
+   <td>El usuario debe buscar el servicio que desea obtener.</td> 
   </tr>     
   <tr>  
   <td>2</td> 
@@ -1078,19 +1386,185 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>5</td> 
-   <td>El trabajador envía un mensaje y el cliente es notificado.</td> 
+   <td>El trabajador envía un mensaje y el cliente es notificado.</td>
+ </tr>
+<tr>
+<td><b>Postcondición</b></td>
+<td  colspan="2">Cliente y trabajador se ponen en contacto.</td>
+</tr>
+<tr>
+<td  rowspan="9"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>No se pueden realizar búsquedas de más de 50 caracteres.</td>
+</tr>
+  <tr>
+    </tr> 
+    </tr> 
+      <tr>  
+  <td>2</td> 
+   <td>No se pueden seleccionar más de dos trabajadores a las vez.</td> 
+   </tr> 
+    </tr>
   <tr>  
-      <td><b>Postcondición</b></td>  
-       <td colspan="2">Cliente y trabajador se ponen en contacto.
-       </tr> 
-       </td> 
-       </tr> 
-     <tr>  
-      <td rowspan="4"><b>Excepciones</b></td>
-   <tr>  
-   <td>
+  <td>3</td> 
+   <td>El cliente no puede abrir el chat sin antes haber visto el perfil completo.</td> 
+   </tr> 
+    </tr>
+    <tr>  
+  <td>4</td> 
+   <td>El trabajador solo puede marcar como vistos mensajes nuevos.</td> 
+   </tr> 
+    </tr>
+    <tr>  
+  <td>5</td> 
+   <td>El trabajador no puede enviar mensajes cortos consecutivamente.</td> 
+   </tr> 
+    </tr>
+</table>
 
  <br>
+
+<table align=center>  
+   <tr>
+     <th>CU-10</th>  
+      <th colspan="2">Aceptación del trabajo</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (09/12/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El usuario registrado como cliente ya debió previamente haber escogido al trabajador.</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El trabajador decide si aceptar un trabajo o no.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="5"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El trabajador debe entrar en la pestaña correspondiente para ver sus contratos.</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>El trabajador visualiza nombre(s) y apellido(s), ubicación y calificación del cliente.</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>El trabajador acepta o rechaza el trabajo.</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>El cliente es notificado sobre la aceptación o rechazo de su trabajo.</td> 
+   </tr> 
+    </tr>
+<td><b>Postcondición</b></td>
+<td  colspan="2">Cliente y trabajador se ponen en contacto.</td>
+</tr>
+<tr>
+<td  rowspan="9"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>No se puede ver notificaciones eliminadas.</td>
+</tr>
+  <tr>
+    </tr> 
+    </tr> 
+      <tr>  
+  <td>2</td> 
+   <td>No se puede ver perfiles de clientes que no han solicitado un contrato.</td> 
+   </tr> 
+    </tr>
+  <tr>  
+  <td>3</td> 
+   <td>No se puede rechazar al cliente sin antes revisar el perfil.</td> 
+   </tr> 
+    </tr>
+    <tr>  
+  <td>4</td> 
+   <td>El trabajador no puede restaurar un trabajo que ha rechazado.</td> 
+
+</table>
+
+<br>
+
+<table align=center>  
+   <tr>
+     <th>CU-11</th>  
+      <th colspan="2">Calificar cliente</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (09/12/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El trabajador debió haber recibido un contrato del cliente</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El trabajador puede calificar al cliente.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="4"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El trabajador visualiza una pantalla donde puede calificar al cliente.</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>El trabajador selecciona una determinada cantidad de estrellas.</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>El trabajador confirma su calificación.</td> 
+   </tr> 
+   </tr> 
+<td><b>Postcondición</b></td>
+<td  colspan="2">Trabajador califica al cliente.</td>
+</tr>
+<tr>
+<td  rowspan="9"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>El trabajador no puede salir de la pantalla sin antes haber dejado una calificación..</td>
+</tr>
+  <tr>
+    </tr> 
+    </tr> 
+      <tr>  
+  <td>2</td> 
+   <td>No se puede seleccionar media estrella.</td> 
+   </tr> 
+    </tr>
+  <tr>  
+  <td>3</td> 
+   <td>No se puede confirmado una calificación sin haber seleccionado nada. </td> 
+
+</table>
+
+<br>
  
  </table> 
 <table align=center>  
@@ -1224,3 +1698,9 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk5OTM0MTI0NSwzNTU0ODQ3MzEsMTIzMj
+c1NTE5NiwtNzg0MjI3OTY5LDY5MTk0MzM4Nyw5MTM1NzkzOTUs
+NDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0Mj
+Y1NzEyLDE3NzcyNzgzNDddfQ==
+-->

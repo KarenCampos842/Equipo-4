@@ -2,15 +2,10 @@
 
 ## Evolución del producto
 
-Desde la última actualización, WorkFlash ha recibido una serie de reestructuraciones que lo hacen más viable como producto, para empezar, podemos destacar que hemos ideado una nueva manera de monetización basada en una suscripción, como alternativa a la primera propuesta de colocar anuncios, esto debido a que los mismos pueden para generar ingresos considerables deben ser colocados en cantidad y esto podría resultar no grato para los usuarios que en consecuencia podrían optar por abandonar la aplicación. Con el nuevo modelo basado en suscripciones mensuales únicamente para los usuarios registrados como proveedores de servicios, garantizamos que los clientes puedan disfrutar de una experiencia de navegación mucho más limpia y al mismo tiempo podemos ofrecerles a los proveedores de servicios más beneficios.
-
-Por otro lado hemos hecho una reestructuración en la forma en la que los usuarios serían valorados, para la primera entrega, habíamos considerado que solo los proveedores de servicios/trabajadores podrían ser puntuados mediante un ranking en base a 5 estrellas, sin embargo, decidimos que de esta manera podrían darse casos de clientes que hagan mal uso de la aplicación y por consiguiente generan conflictos, al puntuar también a los clientes, podemos saber mejor la reputación de las partes involucradas para los acuerdos.
-
-Agregamos un método que les ofrece a los usuarios un método mediante el cual pueden cambiar su contraseña, en caso de olvido.
-
-Definimos que en la búsqueda de servicios, los resultados serán mostrados con base en un área cercana al usuario, segmentada por municipios.
-
-Además de todo lo anterior, hemos hecho modificaciones en los artefactos agregando historias de usuario con las que no contábamos en la primera entrega y casos de uso más detallados.
+En comparación con la segunda entrega, en está última no han habido demasiado cambios, sin embargo, podemos detallar aquellos que si fueron importantes. 
+Empezamos por la corrección y mejora de artefactos. Si bien ya estaban listos, al momento de la implementación del prototipo consideramos que algunas cosas no tenían demasiada congruencia, por lo que decidimos modificar los artefactos, haciendo algunas correcciones en las excepciones de los casos de uso. De esta manera nos hemos asegurado que el producto refleje de manera más fiel lo documentado.
+Por otro lado, también hemos adecuado aquellas pantallas en el producto que requerimos o identificamos después de la segunda entrega.
+Estos cambios fueron menores en comparación con las entregas anteriores, la razón es porque se mantuvieron muchas de las cosas ya establecidas, pues fue lo que se les presentó a los usuarios que realizaron las pruebas.
 
 **Evidencia de la evolución:** 
 Primera entrega:  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>  
@@ -32,6 +27,100 @@ Nuestra plataforma garantiza la seguridad tanto de los usuarios como de los trab
 El método de monetización de WorkFlash es por medio de una suscripción, en la que los usuarios registrados como proveedores de servicios pagan una cuota mensual de $75 que les dará acceso a todos los beneficios que la aplicación ofrece.
 
 ## Usuarios
+ - **Usuarios:** 
+ -- Presentar información básica del perfil de los usuarios (rango de edad, ubicación geográfica, género...). 
+Ésta parte será una descripción de forma generalizada (investigar información básica del perfil de los usuarios).
+ --Determinar un tipo de usuario específico (primario) y sus características principales.
+ --Elaborar perfiles, personas, escenarios (Por cada tipo de usuario identificado hacer el perfil de una persona ficticia). Se sugiere utilizar la siguiente plantilla (agregar más columnas si se considera necesario): 
+
+<h2>Cliente</h2>
+<table align=center>  
+   <tr>  
+      <th>Tipo de usuario</th>  
+      <th>Género</th> 
+      <th>Edad</th>
+      <th>Ocupación</th>
+      <th>Ubicación Geográfica</th>
+       <th>Escenario</th>
+   </tr> 
+    <tr>  
+      <td>Primario</td>  
+       <td>Indistinto</td> 
+       <td>18-50 años</td> 
+       <td>Estudiante universitario, madre o padre de familia, personas nuevas en la ciudad, etc.</td> 
+       <td>Área metropolitana de Mérida</td>
+       <td>Necesitan hacer la instalación de un aire acondicionado por las altas temperaturas, pero ningún trabajador está comprometido con el trabajo, por lo que recurren a WorkFlash para contratar a alguien que sí.</td> 
+   </tr> 
+ </table>
+ 
+ <br>
+ 
+ <h3>Perfil de cliente</h3>
+ 
+<table align=center>  
+   <tr>  
+      <th>Tipo de usuario</th>  
+      <th>Género</th> 
+      <th>Edad</th>
+      <th>Ocupación</th>
+      <th>Ubicación Geográfica</th>
+       <th>Escenario</th>
+   </tr> 
+    <tr>  
+      <td>Primario</td>  
+       <td>Hombre</td> 
+       <td> 20 años</td> 
+       <td>Estudiante universitario</td> 
+       <td>Mérida, Yucatán.</td>
+       <td>Se le quedaron las llaves dentro de la casa y necesita rápidamente a un cerrajero para que le ayude a ingresar.</td> 
+   </tr> 
+ </table>      
+ <br>
+
+<h2>Trabajador</h2>
+
+ <table align=center>  
+   <tr>  
+      <th>Tipo de usuario</th>  
+      <th>Género</th> 
+      <th>Edad</th>
+      <th>Ocupación</th>
+      <th>Ubicación Geográfica</th>
+       <th>Escenario</th>
+   </tr> 
+    <tr>  
+      <td>Primario</td>  
+       <td>Indistinto</td> 
+       <td>30-50 años</td> 
+       <td>Mécanico, electricista, plomero, carpintero, etc.</td> 
+       <td>Área metropolitana de Mérida</td>
+       <td>Su poca visibilidad en una red social causa que no tenga muchos clientes, por lo que recurre a WorkFlash para darse una mayor promoción.</td> 
+   </tr> 
+ </table>      
+
+ <br>
+ 
+ <h3>Perfil de trabajador</h3> 
+ 
+ <table align=center>  
+   <tr>  
+      <th>Tipo de usuario</th>  
+      <th>Género</th> 
+      <th>Edad</th>
+      <th>Ocupación</th>
+      <th>Ubicación Geográfica</th>
+       <th>Escenario</th>
+   </tr> 
+    <tr>  
+      <td>Primario</td>  
+       <td>Mujer</td> 
+       <td>32 años</td> 
+       <td>Carpintera</td> 
+       <td>Área metropolitana de Mérida</td>
+       <td>Trabaja en un local de carpintería en un horario flexible, por lo que quiere explorar nuevas oportunidades para conseguir clientes propios y de tal forma poner su carpintería también propia.</td> 
+   </tr> 
+ </table>      
+ <br>
 
 ## Innovación
 <table align=center>  
@@ -162,3 +251,7 @@ WorkFlash viene a hacer que esos problemas desaparezcan; que el encontrar a un t
 Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan con sus expectativas, ya sea por rendimiento, cercanía o precio.
 Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio.
 Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MzA3ODg4MTYsLTE5NzAyNjgzNDIsMT
+AyODAyODAwN119
+-->

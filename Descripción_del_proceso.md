@@ -331,13 +331,3 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 [^3]: Marco de Desarrollo de la Junta de Andalucía.(s.f).*Guía para la redacción de casos de uso*. Junta de Andalucía. https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416
 [^4]: UADY. (2016). _Plan de Estudios de la Licenciatura en Ingeniería de Software._  https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwMzcxNjE5LDE4Njg1MTc0NzksLTIyNz
-U5NDY5NywtMTQ2NDIzMTUyNSwtNDc1OTIxMzU2LDE1MzgyNDcy
-NDYsLTIwMDU4MTM0MTUsLTEyMTIwNTIyNzQsLTE5MzQyMzAxNS
-wtMjEwMjU2MjczOSw4OTEyNTgzMSwtMTE2Njg0OTMxNiwyMDcw
-OTAzOTUsMTc4MTcxNTUxMSw4NzQ3NjIxMDUsLTQyNzYzNDg3MS
-wxMDQyMDA1MzMzLDE4NDY3NDk5NzUsLTI4MzIwODEzOCwtNzY1
-MjY0NjE1XX0=
--->
