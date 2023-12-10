@@ -4,32 +4,6 @@
    </center>
 </div>
 <div>
- - **Usuarios:** 
- -- Identificar de forma clara los usuarios primarios, secundarios y/o potenciales. 
- -- Presentar información básica del perfil de los usuarios (rango de edad, ubicación geográfica, género...). 
-Ésta parte será una descripción de forma generalizada (investigar información básica del perfil de los usuarios).
- --Determinar un tipo de usuario específico (primario) y sus características principales.
- --Elaborar perfiles, personas, escenarios (Por cada tipo de usuario identificado hacer el perfil de una persona ficticia). Se sugiere utilizar la siguiente plantilla (agregar más columnas si se considera necesario): 
-
-<table align=center>  
-   <tr>  
-      <th>Tipo de usuario</th>  
-      <th>Género</th> 
-      <th>Edad</th>
-      <th>Ocupación</th>
-      <th>Ubicación Geográfica</th>
-       <th>Escenario</th>
-   </tr> 
-    <tr>  
-      <td>(Primario, secundario o potencial) </td>  
-       <td> x</td> 
-       <td> x</td> 
-       <td> (estudiante universitario, mecánico...)</td> 
-       <td>x</td>
-       <td>(ejemplo de una situación en la que el usuario utilizaría la app)</td> 
-   </tr> 
- </table>      
- <br>
 
  ### Herramientas utilizadas
  WhatsApp, Teams, GitHub, StackEdit, Figma.
@@ -347,7 +321,7 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
  
 ## Sprint review
  
- Se realizará una reunión al finalizar el primer sprint para revisar el trabajo que se está entregando. Igualmente, se hablará de los problemas que hubieron, aquello que se hizo bien y lo que se puede mejorar. 
+ Se realizará una reunión al finalizar el tercer sprint para revisar el trabajo que se está entregando. Igualmente, se hablará de los problemas que hubieron, aquello que se hizo bien y lo que se puede mejorar. 
 
 ## Retrospective
 Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo aquello que se hizo bien con relación al uso de la metodología SCRUM, el proceso, uso de herramientas, así como, todo aquello que se puede mejorar en cuanto a proceso, herramientas, relación entre compañeros, etc. 
@@ -357,13 +331,3 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 [^3]: Marco de Desarrollo de la Junta de Andalucía.(s.f).*Guía para la redacción de casos de uso*. Junta de Andalucía. https://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416
 [^4]: UADY. (2016). _Plan de Estudios de la Licenciatura en Ingeniería de Software._  https://www.matematicas.uady.mx/files/documents/programas/lis/LIS_Aprobado_12-ago-2016.pdf
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzcxNTU5NiwxODY4NTE3NDc5LC0yMj
-c1OTQ2OTcsLTE0NjQyMzE1MjUsLTQ3NTkyMTM1NiwxNTM4MjQ3
-MjQ2LC0yMDA1ODEzNDE1LC0xMjEyMDUyMjc0LC0xOTM0MjMwMT
-UsLTIxMDI1NjI3MzksODkxMjU4MzEsLTExNjY4NDkzMTYsMjA3
-MDkwMzk1LDE3ODE3MTU1MTEsODc0NzYyMTA1LC00Mjc2MzQ4Nz
-EsMTA0MjAwNTMzMywxODQ2NzQ5OTc1LC0yODMyMDgxMzgsLTc2
-NTI2NDYxNV19
--->
