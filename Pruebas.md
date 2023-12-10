@@ -2155,7 +2155,10 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
      </tr>  
  </table> 
 <br>
-**### Resumen de los datos de las pruebas**
+
+## Resumen de los datos de las pruebas
+
+En conclusión se pudo observar que la mayoria 
 
 
  
@@ -2168,7 +2171,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTQ4NTI5NiwtMjE3NDU2Nzg3LDk1Nj
+eyJoaXN0b3J5IjpbMTkwMDQ5NzczNywtMjE3NDU2Nzg3LDk1Nj
 EzNjU3NywxMDE2Mzk4NiwtMTYxNzcyNzEyNSwtNDY5MDk4OTc4
 LDE5MDQ1OTgzODUsLTE2MDA4NjIwNjYsMjEwMTU4MjAyLC0xNT
 UxNTM3NTMyLDQwMzE0ODAyMiw0MDMxMzMxMjAsLTE4MTM5OTM1
