@@ -1431,7 +1431,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <table align=center>  
    <tr>
      <th>CU-10</th>  
-      <th colspan="2">Chat</th>  
+      <th colspan="2">Aceptación del trabajo</th>  
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
@@ -1439,7 +1439,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El usuario y el trabajador deben estar ya registrados y aprobar por ambos el chat</td> 
+       <td colspan="2">El usuario registrado como cliente ya debió previamente haber escogido al trabajador.</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
@@ -1452,7 +1452,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El usuario debe buscar el servicio que desea obtener.</td> 
+   <td>El trabajador debe entrar en supara ver sus contratos.</td> 
   </tr>     
   <tr>  
   <td>2</td> 
@@ -1646,7 +1646,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA5NjE1NjksNjkxOTQzMzg3LDkxMz
-U3OTM5NSw0OTIxNjk3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgs
-LTEwMDQyNjU3MTIsMTc3NzI3ODM0N119
+eyJoaXN0b3J5IjpbLTMzNDE1NDg3Miw2OTE5NDMzODcsOTEzNT
+c5Mzk1LDQ5MjE2OTcwLDEzODQxODkxNDgsMTM4NDE4OTE0OCwt
+MTAwNDI2NTcxMiwxNzc3Mjc4MzQ3XX0=
 -->
