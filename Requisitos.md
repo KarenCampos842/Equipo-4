@@ -1111,7 +1111,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema debe permitir al usuario visualizar su perfil y realizar ciertas modificar ciertos parámetros del mismo.</td> 
    </tr> 
      <tr>  
-      <td rowspan="15"><b>Secuencia normal</b></td>
+      <td rowspan="7"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -1198,21 +1198,10 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 
 
-</tr> 
-  <tr>  
-      <td><b>Postcondición</b></td>  
-       <td colspan="2">No será posible cambiar ni el nombre, ni el correo electrónico.
-       </tr> 
-       </td> 
-    </tr> 
-     <tr>  
-      <td rowspan="4"><b>Excepciones</b></td>
-     <tr>  
-   <td>
 
 - Solo se le permite al usuario seleccionar una única imagen de su galería.
 - El usuario no puede cambiar su imagen de perfil múltiples veces.
- </table>
+
  
  <br>
 
@@ -1507,7 +1496,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDg5NTE2Miw0OTIxNjk3MCwxMzg0MT
+eyJoaXN0b3J5IjpbLTk3NzI2NjI3MSw0OTIxNjk3MCwxMzg0MT
 g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
 N119
 -->
