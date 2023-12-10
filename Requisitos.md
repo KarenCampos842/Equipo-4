@@ -1849,7 +1849,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema deberá permitir al dueño legítimo de una cuenta de WorkFlash, recuperar su contraseña en caso de olvido.</td> 
    </tr> 
      <tr>  
-      <td rowspan="15"><b>Secuencia normal</b></td>
+      <td rowspan="7"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -1879,11 +1879,38 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>6</td> 
-   <td>Se le redirigirá al usuario nuevamente al menú de inicio de sesión.</td> 
+   <td>Se le redirigirá al usuario nuevamente al menú de inicio de sesión.</td>
+   <tr>
+     </tr> 
+    </tr>
+<td><b>Postcondición</b></td>
+<td  colspan="2">El enlace de restablecimiento de contraseña solo puede ser usado una vez.</td>
+</tr>
+<tr>
+<td  rowspan="9"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación.</td>
+</tr>
+  <tr>
+    </tr> 
+    </tr> 
+      <tr>  
+  <td>2</td> 
+   <td>Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.</td> 
+   </tr> 
+    </tr>
+
+</table>
+
+ 
 </tr> 
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">El enlace de restablecimiento de contraseña solo puede ser usado una vez.
+       <td colspan="2">
        </tr> 
        </td> 
     </tr> 
@@ -1912,7 +1939,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTIyOTYxNCwzNTU0ODQ3MzEsMTIzMj
+eyJoaXN0b3J5IjpbLTIxNTUzNDUyNSwzNTU0ODQ3MzEsMTIzMj
 c1NTE5NiwtNzg0MjI3OTY5LDY5MTk0MzM4Nyw5MTM1NzkzOTUs
 NDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0Mj
 Y1NzEyLDE3NzcyNzgzNDddfQ==
