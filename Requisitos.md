@@ -803,7 +803,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>5</td> 
-   <td>El usuario no podrá intentar iniciar sesión antes de recibir su</td> 
+   <td>El usuario no podrá intentar iniciar sesión con su correo electrónico sin antes haber recibido sus respectivos datos.</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -1353,7 +1353,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzUzMDM0OSw0OTIxNjk3MCwxMzg0MT
-g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
-N119
+eyJoaXN0b3J5IjpbMzQ4ODkyMTAzLDQ5MjE2OTcwLDEzODQxOD
+kxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3
+XX0=
 -->
