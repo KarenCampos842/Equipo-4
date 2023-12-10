@@ -900,7 +900,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 <table align=center>  
    <tr>
-     <th>CU-4</th>  
+     <th>CU-04</th>  
       <th colspan="2">Perfil de trabajador</th>  
    </tr> 
     <tr>  
@@ -1504,7 +1504,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzNTc5Mzk1LDQ5MjE2OTcwLDEzODQxOD
-kxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3
-XX0=
+eyJoaXN0b3J5IjpbMTUwMTIxNTE2NSw5MTM1NzkzOTUsNDkyMT
+Y5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0MjY1NzEy
+LDE3NzcyNzgzNDddfQ==
 -->
