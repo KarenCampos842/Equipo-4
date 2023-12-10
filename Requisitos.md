@@ -1816,39 +1816,21 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td> 1 </td>
-<td>No se puede acceder a esta función desde otro apartado.</td>
+<td>Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación.</td>
 </tr>
   <tr>
     </tr> 
     </tr> 
       <tr>  
   <td>2</td> 
-   <td>No se puede seleccionar la opción de cancelación de cuenta si existe un contrato activo.</td> 
+   <td>Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.</td> 
    </tr> 
     </tr>
-  <tr>  
-  <td>3</td> 
-   <td>No se puede proceder sin antes leer las advertencias.</td> 
-   </tr> 
-    </tr>
-    <tr>  
-  <td>4</td> 
-   <td>No se puede cancelar la cuenta y restaurarla más de dos veces consecutivas.</td> 
 
 </table>
 
-
-
-  
-     
-
-- Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación
- - Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.      
-</td> 
-</tr>  
- </table>
-
  <br>
+ 
  <table align=center>  
    <tr>
      <th>CU-16</th>  
@@ -1930,8 +1912,8 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjcwNjU4MTUsMzU1NDg0NzMxLDEyMz
-I3NTUxOTYsLTc4NDIyNzk2OSw2OTE5NDMzODcsOTEzNTc5Mzk1
-LDQ5MjE2OTcwLDEzODQxODkxNDgsMTM4NDE4OTE0OCwtMTAwND
-I2NTcxMiwxNzc3Mjc4MzQ3XX0=
+eyJoaXN0b3J5IjpbMzkxODU0MDYxLDM1NTQ4NDczMSwxMjMyNz
+U1MTk2LC03ODQyMjc5NjksNjkxOTQzMzg3LDkxMzU3OTM5NSw0
+OTIxNjk3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgsLTEwMDQyNj
+U3MTIsMTc3NzI3ODM0N119
 -->
