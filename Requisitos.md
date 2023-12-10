@@ -1361,7 +1361,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema deberá contar con un chat entre usuarios y trabajadores para agendar fechas, horarios y costos del servicio.</td> 
    </tr> 
      <tr>  
-      <td rowspan="9"><b>Secuencia normal</b></td>
+      <td rowspan="6"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -1386,10 +1386,38 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>5</td> 
-   <td>El trabajador envía un mensaje y el cliente es notificado.</td> 
+   <td>El trabajador envía un mensaje y el cliente es notificado.</td>
+ </tr>
+<tr>
+<td><b>Postcondición</b></td>
+<td  colspan="2">Cliente y trabajador se ponen en contacto.</td>
+</tr>
+<tr>
+<td  rowspan="4"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>No se pueden seleccionar más de dos trabajadores a las vez.</td>
+</tr>
+  <tr>
+    </tr> 
+    </tr> 
+  <tr>  
+  <td>2</td> 
+   <td>El cliente no puede abrir el chat sin antes haber visto el perfil completo.</td> 
+   </tr> 
+    </tr>
+</table>
+
+
+
+
+ 
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">Cliente y trabajador se ponen en contacto.
+       <td colspan="2">
        </tr> 
        </td> 
        </tr> 
@@ -1533,7 +1561,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Njg3MjgzMiw5MTM1NzkzOTUsNDkyMT
+eyJoaXN0b3J5IjpbLTE1MzI1NzA5MCw5MTM1NzkzOTUsNDkyMT
 Y5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0MjY1NzEy
 LDE3NzcyNzgzNDddfQ==
 -->
