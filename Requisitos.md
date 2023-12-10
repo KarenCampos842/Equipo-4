@@ -922,7 +922,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El usuario accede al menu de su perfil a través de un botón en la pantalla principal</td> 
+   <td>El usuario accede al menú de su perfil a través de un botón en la pantalla principal</td> 
   </tr>     
   <tr>  
   <td>2</td> 
@@ -976,7 +976,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr>
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">No será posible cambiar ni el nombre, ni el correo electrónico.
+       <td colspan="2">El usuario no podrá modíficar la información de su perfil consecutivamente por más de 2 veces.
        </tr> 
        </td> 
     </tr> 
@@ -988,7 +988,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>Introducir un usuario inexistence impedirá el inicio de sesión.</td> 
+   <td>El usuario no podrá editar ni el correo, ni su nombre de usuario, ni su oficio.</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -996,7 +996,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>2</td> 
-   <td>La contraseña introducida deberá ser correcta para el usuario.</td> 
+   <td>El usuario no puede cambiar su imagen de perfil múltiples veces.</td> 
    </tr> 
     </tr> 
   <tr>
@@ -1021,26 +1021,6 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr> 
 </table>
-
-
-  </tr> 
-  <tr>  
-      <td><b>Postcondición</b></td>  
-       <td colspan="2">
-      </td> 
- </tr>  
- <tr>  
-  <td rowspan="2"><b>Excepciones</b></td>
- </tr>  
- <tr>
-  <td>
-
- - El usuario no podrá editar ni el correo, ni su nombre de usuario, ni su oficio.
-- El usuario no puede cambiar su imagen de perfil múltiples veces.
-</td> 
-</tr>  
-</table>
- 
 
 <br>
 
@@ -1402,7 +1382,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTUxMjg3NCw0OTIxNjk3MCwxMzg0MT
-g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
-N119
+eyJoaXN0b3J5IjpbODc1NzIwMjI1LDQ5MjE2OTcwLDEzODQxOD
+kxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3
+XX0=
 -->
