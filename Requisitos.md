@@ -916,7 +916,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema debe permitir al usuario trabajador visualizar su perfil y realizar ciertas modificar ciertos parámetros del mismo.</td> 
    </tr> 
      <tr>  
-      <td rowspan="16"><b>Secuencia normal</b></td>
+      <td rowspan="13"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -971,10 +971,62 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr>  
   <td>12</td> 
    <td>El usuario presiona el botón de editar la fecha de vencimiento (mes, año) de la tarjeta de crédito, cambia los valores y le da a confirmar.</td> 
+    </tr> 
    </tr> 
+  <tr>
   <tr>  
       <td><b>Postcondición</b></td>  
-       <td colspan="2">El usuario no podrá modíficar la información de su perfil consecutivamente por más de 2 veces.
+       <td colspan="2">No será posible cambiar ni el nombre, ni el correo electrónico.
+       </tr> 
+       </td> 
+    </tr> 
+     <tr>  
+      <td  rowspan="10"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>Introducir un usuario inexistence impedirá el inicio de sesión.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>2</td> 
+   <td>La contraseña introducida deberá ser correcta para el usuario.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+   </tr> 
+    </tr> 
+  <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>La contraseña introducida deberá ser correcta para el usuario introducido, en caso de escribirla incorrectamente no se podrá iniciar sesión.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>Si no se introducen caracteres válidos el sistema no no permitirá realizar el inicio de sesión.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+</table>
+
+
+  </tr> 
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">
       </td> 
  </tr>  
  <tr>  
@@ -1350,7 +1402,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Mjk4MjcxNyw0OTIxNjk3MCwxMzg0MT
+eyJoaXN0b3J5IjpbLTI3MTUxMjg3NCw0OTIxNjk3MCwxMzg0MT
 g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
 N119
 -->
