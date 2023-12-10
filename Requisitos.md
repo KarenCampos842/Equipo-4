@@ -801,6 +801,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
      <tr>  
       <td rowspan="4"><b>Excepciones</b></td>
+      
      <tr>  
    <td>
 
@@ -1262,7 +1263,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwOTAwNCw0OTIxNjk3MCwxMzg0MTg5MT
-Q4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0N119
-
+eyJoaXN0b3J5IjpbMTYzMzMxNTI5NCw0OTIxNjk3MCwxMzg0MT
+g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
+N119
 -->
