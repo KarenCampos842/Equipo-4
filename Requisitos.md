@@ -1323,7 +1323,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <td  colspan="2">El trabajador y el usuario se ponen en contacto.</td>
 </tr>
 <tr>
-<td  rowspan="13"><b>Excepciones</b></td>
+<td  rowspan="4"><b>Excepciones</b></td>
 <td><b>Paso</b></td>
 <td><b>Acción</b></td>
 </tr>
@@ -1336,25 +1336,10 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>2</td> 
-   <td>El cliente no puede abrir el chat sin antes haber visto el perfil co</td> 
+   <td>El cliente no puede abrir el chat sin antes haber visto el perfil completo.</td> 
    </tr> 
-    </tr> 
-  <tr>
-    <tr>  
-  <td>3</td> 
-   <td>El cliente no podrá intentar seleccionar dos perfiles a la vez.</td> 
-   </tr> 
-    </tr> 
-  <tr>
-  <tr>
-    <tr>  
-  <td>4</td> 
-   <td>El cliente solo podrá ingresar al perfil del usuario si le da click al icono de perfil.</td> 
-   </tr> 
-    </tr> 
-  <tr> 
+    </tr>
 </table>
-
 
 <br>
 
@@ -1548,7 +1533,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0Nzk1MTk3LDkxMzU3OTM5NSw0OTIxNj
-k3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIs
-MTc3NzI3ODM0N119
+eyJoaXN0b3J5IjpbLTk4Njg3MjgzMiw5MTM1NzkzOTUsNDkyMT
+Y5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0MjY1NzEy
+LDE3NzcyNzgzNDddfQ==
 -->
