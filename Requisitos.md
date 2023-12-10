@@ -722,7 +722,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema deberá registrar a todo usuario con éxito, siendo rápido y eficiente.</td> 
    </tr> 
      <tr>  
-      <td rowspan="9"><b>Secuencia normal</b></td>
+      <td rowspan="6"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -748,13 +748,17 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr>  
   <td>5</td> 
    <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.</td>
-         <td><b>Postcondición</b></td>  
+      </tr> 
+   </tr> 
+  <tr>
+  <tr>  
+      <td><b>Postcondición</b></td>  
        <td colspan="2">No será posible cambiar ni el nombre, ni el correo electrónico.
        </tr> 
        </td> 
     </tr> 
      <tr>  
-      <td  rowspan=""><b>Excepciones</b></td>
+      <td  rowspan="10"><b>Excepciones</b></td>
 <td><b>Paso</b></td>
 <td><b>Acción</b></td>
   </tr> 
@@ -794,6 +798,9 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr> 
 </table>
+
+
+
 
 <br>
 
@@ -1336,7 +1343,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1Mzk3MjQ5LDQ5MjE2OTcwLDEzODQxOD
-kxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3
-XX0=
+eyJoaXN0b3J5IjpbMTczODk0OTcyMyw0OTIxNjk3MCwxMzg0MT
+g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
+N119
 -->
