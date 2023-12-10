@@ -1029,6 +1029,27 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    <td>El usuario no podrá continuar sin antes haber seleccionado una imagen, o bien, habiéndosela tomado.</td> 
    </tr> 
     </tr> 
+  <tr>
+   <tr>
+  <tr>
+    <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>6</td> 
+   <td>El usuario no puede cambiar la calificación de su perfil.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    <tr>
+    <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>7</td> 
+   <td>El usuario no puede confirmar un número telefónico Identico al anterior. </td> 
+   </tr> 
+    </tr> 
   <tr> 
 </table>
 
@@ -1392,7 +1413,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5MTg1NTQxLDQ5MjE2OTcwLDEzODQxOD
-kxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3
-XX0=
+eyJoaXN0b3J5IjpbLTE2MjkwMjAyMDcsNDkyMTY5NzAsMTM4ND
+E4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0MjY1NzEyLDE3NzcyNzgz
+NDddfQ==
 -->
