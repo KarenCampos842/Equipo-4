@@ -702,10 +702,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr>  
   <td>8</td> 
    <td>Le aparecerán los términos y condiciones que el trabajador deberá leer y aceptar para poder concluir su registro, posteriormente le saldrá una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionados.</td> 
-   </tr> 
-  <tr>
-  </tr>
-<tr>
+</tr>
 <td><b>Postcondición</b></td>
 <td  colspan="2">El trabajador y el usuario se ponen en contacto </td>
 </tr>
@@ -718,7 +715,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <td  rowspan="3">  </td>
 <td  >  </td>
 </tr>
-
+  <tr>  
       <td><b>Postcondición</b></td>  
        <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real
        </tr> 
@@ -1292,6 +1289,6 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Nzc2NzIwMCwxMzg0MTg5MTQ4LDEzOD
-QxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0N119
+eyJoaXN0b3J5IjpbMjIyNjE3OTIxLDEzODQxODkxNDgsMTM4ND
+E4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3XX0=
 -->
