@@ -732,7 +732,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>Debe seleccionar en el icono de cliente</td> 
+   <td>Debe seleccionar en el icono de cliente.</td> 
   </tr>
   </tr> 
   <tr>  
@@ -765,7 +765,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>EL sistema no le permitirá al usuario intentar colocar sus sitema si el correo electrónico no se encuentra en la base de datos.</td> 
+   <td>EL sistema no le permitirá al usuario intentar introducir una contraseña si el correo electrónico no se encuentra en la base de datos.</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -773,7 +773,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>2</td> 
-   <td>La contraseña introducida deberá ser correcta para el usuario.</td> 
+   <td>El usuario no puede registrase con dos </td> 
    </tr> 
     </tr> 
   <tr>
@@ -1343,7 +1343,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDIyMDM3NzcsNDkyMTY5NzAsMTM4ND
-E4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0MjY1NzEyLDE3NzcyNzgz
-NDddfQ==
+eyJoaXN0b3J5IjpbNjg1OTU2NjgzLDQ5MjE2OTcwLDEzODQxOD
+kxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3
+XX0=
 -->
