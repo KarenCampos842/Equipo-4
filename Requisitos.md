@@ -1548,7 +1548,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td> 1 </td>
-<td>El trabajador no puede salir de la pantalla sin antes haber dejado una calificación..</td>
+<td>El trabajador no puede salir de la pantalla sin antes haber dejado una calificación.</td>
 </tr>
   <tr>
     </tr> 
@@ -1612,7 +1612,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td> 1 </td>
-<td>El trabajador no puede salir de la pantalla sin antes haber dejado una calificación..</td>
+<td>El trabajador no puede salir de la pantalla sin antes haber cerrado el contrato.</td>
 </tr>
   <tr>
     </tr> 
@@ -1763,7 +1763,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Njk1MDk3NSwzNTU0ODQ3MzEsMTIzMj
+eyJoaXN0b3J5IjpbMTgyNTk2OTA3NCwzNTU0ODQ3MzEsMTIzMj
 c1NTE5NiwtNzg0MjI3OTY5LDY5MTk0MzM4Nyw5MTM1NzkzOTUs
 NDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0Mj
 Y1NzEyLDE3NzcyNzgzNDddfQ==
