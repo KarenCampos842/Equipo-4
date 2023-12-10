@@ -28,13 +28,12 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
 
 ## Usuarios
  - **Usuarios:** 
- -- Identificar de forma clara los usuarios primarios, secundarios y/o potenciales. 
  -- Presentar información básica del perfil de los usuarios (rango de edad, ubicación geográfica, género...). 
 Ésta parte será una descripción de forma generalizada (investigar información básica del perfil de los usuarios).
  --Determinar un tipo de usuario específico (primario) y sus características principales.
  --Elaborar perfiles, personas, escenarios (Por cada tipo de usuario identificado hacer el perfil de una persona ficticia). Se sugiere utilizar la siguiente plantilla (agregar más columnas si se considera necesario): 
 
-<h2>Clientes</h2>
+<h2>Cliente</h2>
 <table align=center>  
    <tr>  
       <th>Tipo de usuario</th>  
@@ -50,10 +49,33 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        <td> 10 años</td> 
        <td>Estudiante universitarios</td> 
        <td>Mérida, Yucatán.</td>
-       <td>Se le quedaron las llaves dentro de la casa y necesita rápidamente a un cerraj</td> 
+       <td>Se le quedaron las llaves dentro de la casa y necesita rápidamente a un cerrajero para que le ayude a ingresar.</td> 
+   </tr> 
+ </table>
+ <h2>Cliente</h2> 
+ <br>
+<table align=center>  
+   <tr>  
+      <th>Tipo de usuario</th>  
+      <th>Género</th> 
+      <th>Edad</th>
+      <th>Ocupación</th>
+      <th>Ubicación Geográfica</th>
+       <th>Escenario</th>
+   </tr> 
+    <tr>  
+      <td>Primario</td>  
+       <td>Hombre</td> 
+       <td> 10 años</td> 
+       <td>Estudiante universitarios</td> 
+       <td>Mérida, Yucatán.</td>
+       <td>Se le quedaron las llaves dentro de la casa y necesita rápidamente a un cerrajero para que le ayude a ingresar.</td> 
    </tr> 
  </table>      
  <br>
+
+<h2>Trabajador</h2>
+
  <table align=center>  
    <tr>  
       <th>Tipo de usuario</th>  
@@ -204,6 +226,6 @@ Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan co
 Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio.
 Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjMyOTg5MCwtMTk3MDI2ODM0MiwxMD
-I4MDI4MDA3XX0=
+eyJoaXN0b3J5IjpbNTI5MjQyNDIxLC0xOTcwMjY4MzQyLDEwMj
+gwMjgwMDddfQ==
 -->
