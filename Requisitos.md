@@ -1667,7 +1667,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    </tr> 
 <td><b>Postcondición</b></td>
-<td  colspan="2">El contrató se finalizará solo después de haber concluido los pasos previos.</td>
+<td  colspan="2">No se puede reportar más de una vezal mismo usuario.</td>
 </tr>
 <tr>
 <td  rowspan="9"><b>Excepciones</b></td>
@@ -1676,19 +1676,19 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td> 1 </td>
-<td>El trabajador no puede salir de la pantalla sin antes haber cerrado el contrato.</td>
+<td>El usuario no puede </td>
 </tr>
   <tr>
     </tr> 
     </tr> 
       <tr>  
   <td>2</td> 
-   <td>No se puede seleccionar media estrella.</td> 
+   <td>No se puede dejar el motivo vacío.</td> 
    </tr> 
     </tr>
   <tr>  
   <td>3</td> 
-   <td>No se puede terminar el contrato sin que antes el cliente haya dejado su comentario.</td> 
+   <td>No se puede contratar o tener contrato con un usuario al </td> 
 
 </table>
 
@@ -1827,8 +1827,8 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDI5ODg5NywzNTU0ODQ3MzEsMTIzMj
-c1NTE5NiwtNzg0MjI3OTY5LDY5MTk0MzM4Nyw5MTM1NzkzOTUs
-NDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0Mj
-Y1NzEyLDE3NzcyNzgzNDddfQ==
+eyJoaXN0b3J5IjpbMTk2MzE0NjgxLDM1NTQ4NDczMSwxMjMyNz
+U1MTk2LC03ODQyMjc5NjksNjkxOTQzMzg3LDkxMzU3OTM5NSw0
+OTIxNjk3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgsLTEwMDQyNj
+U3MTIsMTc3NzI3ODM0N119
 -->
