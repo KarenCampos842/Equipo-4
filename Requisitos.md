@@ -1526,23 +1526,18 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El trabajador debe entrar en la pestaña correspondiente para ver sus contratos.</td> 
+   <td>El trabajador visualiza una pantalla donde puede calificar al cliente.</td> 
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>El trabajador visualiza nombre(s) y apellido(s), ubicación y calificación del cliente.</td> 
+   <td>El trabajador selecciona una determinada cantidad de estrellas.</td> 
   </tr>
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>El trabajador acepta o rechaza el trabajo.</td> 
+   <td>El trabajador confirma su calificación.</td> 
    </tr> 
    </tr> 
-  <tr>  
-  <td>4</td> 
-   <td>El cliente es notificado sobre la aceptación o rechazo de su trabajo.</td> 
-   </tr> 
-    </tr>
 <td><b>Postcondición</b></td>
 <td  colspan="2">Cliente y trabajador se ponen en contacto.</td>
 </tr>
@@ -1709,7 +1704,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Mzg1NjUzOSwzNTU0ODQ3MzEsMTIzMj
+eyJoaXN0b3J5IjpbMTY2NTM5NjcyNiwzNTU0ODQ3MzEsMTIzMj
 c1NTE5NiwtNzg0MjI3OTY5LDY5MTk0MzM4Nyw5MTM1NzkzOTUs
 NDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0Mj
 Y1NzEyLDE3NzcyNzgzNDddfQ==
