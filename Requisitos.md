@@ -1456,12 +1456,12 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>Ver entre la lista de trabajadores y seleccionar el perfil del que mejor le parezca.</td> 
+   <td>El trabajador visualiza nombre(s) y apellido(s), ubicación y calificación del cliente.</td> 
   </tr>
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>Hacer clic en la opción para abrir el chat.</td> 
+   <td>El trabajador acepta o rechaza hazar el trabajo.</td> 
    </tr> 
    </tr> 
   <tr>  
@@ -1646,7 +1646,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODUzMjM5NSw2OTE5NDMzODcsOTEzNT
-c5Mzk1LDQ5MjE2OTcwLDEzODQxODkxNDgsMTM4NDE4OTE0OCwt
-MTAwNDI2NTcxMiwxNzc3Mjc4MzQ3XX0=
+eyJoaXN0b3J5IjpbLTE1MjcwMjM5NjEsNjkxOTQzMzg3LDkxMz
+U3OTM5NSw0OTIxNjk3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgs
+LTEwMDQyNjU3MTIsMTc3NzI3ODM0N119
 -->
