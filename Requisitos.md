@@ -1641,11 +1641,11 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">EL cl.</td> 
+       <td colspan="2">Debe haber un contrato activo o terminado entre trabajador y cliente.</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
-       <td colspan="2">El cliente podrá indicar si su servicio se realizó y concluyó correctamente.</td> 
+       <td colspan="2">Los usuarios pueden reportar la cuenta de otro usuario simpre y cuando puedan comprobar sus intereses.</td> 
    </tr> 
      <tr>  
       <td rowspan="4"><b>Secuencia normal</b></td>
@@ -1654,7 +1654,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El trabajador visualiza una pantalla donde puede cerrar su contrato.</td> 
+   <td>El usuario visualiza una pantalla donde puede cerrar su contrato.</td> 
   </tr>     
   <tr>  
   <td>2</td> 
@@ -1827,7 +1827,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0Nzc0MzIzNiwzNTU0ODQ3MzEsMTIzMj
+eyJoaXN0b3J5IjpbLTY2OTMyNzM4MywzNTU0ODQ3MzEsMTIzMj
 c1NTE5NiwtNzg0MjI3OTY5LDY5MTk0MzM4Nyw5MTM1NzkzOTUs
 NDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0Mj
 Y1NzEyLDE3NzcyNzgzNDddfQ==
