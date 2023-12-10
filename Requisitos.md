@@ -1312,11 +1312,11 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td>1</td>
-<td>El cliente selecciona un trabajador </td>
+<td>El cliente selecciona un trabajador.</td>
 </tr>
 <tr>
 <td>2</td>
-<td>El sistema abre el perfil del trabajador y despliegan las opciones de chat y contratar servicio </td>
+<td>El sistema abre el perfil del trabajador y despliegan las opciones de chat y contratar servicio.</td>
 </tr>
 <tr>
 <td><b>Postcondición</b></td>
@@ -1329,14 +1329,14 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td> 1 </td>
-<td>Si el oficio buscado no está dado de alta  en la base de datos, el sistema notifica al usuario que no encuentra el oficio buscado.</td>
+<td>No se pueden seleccionar más de dos trabajadores a las vez.</td>
 </tr>
   <tr>
     </tr> 
     </tr> 
   <tr>  
   <td>2</td> 
-   <td>La lista estará limitada a los oficios relacionados con las primeras letras que escriba el usuario.</td> 
+   <td>El cliente no puede abrir el chat sin antes haber visto el perfil co</td> 
    </tr> 
     </tr> 
   <tr>
@@ -1548,7 +1548,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA1NzU5MTMsOTEzNTc5Mzk1LDQ5Mj
-E2OTcwLDEzODQxODkxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcx
-MiwxNzc3Mjc4MzQ3XX0=
+eyJoaXN0b3J5IjpbMzY0Nzk1MTk3LDkxMzU3OTM5NSw0OTIxNj
+k3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIs
+MTc3NzI3ODM0N119
 -->
