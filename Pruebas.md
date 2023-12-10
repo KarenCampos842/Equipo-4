@@ -2023,24 +2023,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
     <td>Ventana de advertencia al no aceptar los términos y condiciones para crear una cuenta. </td>
   </tr>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
 </table>
 
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
