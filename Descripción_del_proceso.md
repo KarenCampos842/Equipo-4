@@ -4,6 +4,32 @@
    </center>
 </div>
 <div>
+ - **Usuarios:** 
+ -- Identificar de forma clara los usuarios primarios, secundarios y/o potenciales. 
+ -- Presentar información básica del perfil de los usuarios (rango de edad, ubicación geográfica, género...). 
+Ésta parte será una descripción de forma generalizada (investigar información básica del perfil de los usuarios).
+ --Determinar un tipo de usuario específico (primario) y sus características principales.
+ --Elaborar perfiles, personas, escenarios (Por cada tipo de usuario identificado hacer el perfil de una persona ficticia). Se sugiere utilizar la siguiente plantilla (agregar más columnas si se considera necesario): 
+
+<table align=center>  
+   <tr>  
+      <th>Tipo de usuario</th>  
+      <th>Género</th> 
+      <th>Edad</th>
+      <th>Ocupación</th>
+      <th>Ubicación Geográfica</th>
+       <th>Escenario</th>
+   </tr> 
+    <tr>  
+      <td>(Primario, secundario o potencial) </td>  
+       <td> x</td> 
+       <td> x</td> 
+       <td> (estudiante universitario, mecánico...)</td> 
+       <td>x</td>
+       <td>(ejemplo de una situación en la que el usuario utilizaría la app)</td> 
+   </tr> 
+ </table>      
+ <br>
 
  ### Herramientas utilizadas
  WhatsApp, Teams, GitHub, StackEdit, Figma.
@@ -333,11 +359,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODUxNzQ3OSwtMjI3NTk0Njk3LC0xND
-Y0MjMxNTI1LC00NzU5MjEzNTYsMTUzODI0NzI0NiwtMjAwNTgx
-MzQxNSwtMTIxMjA1MjI3NCwtMTkzNDIzMDE1LC0yMTAyNTYyNz
-M5LDg5MTI1ODMxLC0xMTY2ODQ5MzE2LDIwNzA5MDM5NSwxNzgx
-NzE1NTExLDg3NDc2MjEwNSwtNDI3NjM0ODcxLDEwNDIwMDUzMz
-MsMTg0Njc0OTk3NSwtMjgzMjA4MTM4LC03NjUyNjQ2MTUsMTk3
-MzM0MTM1OV19
+eyJoaXN0b3J5IjpbLTY2NzcxNTU5NiwxODY4NTE3NDc5LC0yMj
+c1OTQ2OTcsLTE0NjQyMzE1MjUsLTQ3NTkyMTM1NiwxNTM4MjQ3
+MjQ2LC0yMDA1ODEzNDE1LC0xMjEyMDUyMjc0LC0xOTM0MjMwMT
+UsLTIxMDI1NjI3MzksODkxMjU4MzEsLTExNjY4NDkzMTYsMjA3
+MDkwMzk1LDE3ODE3MTU1MTEsODc0NzYyMTA1LC00Mjc2MzQ4Nz
+EsMTA0MjAwNTMzMywxODQ2NzQ5OTc1LC0yODMyMDgxMzgsLTc2
+NTI2NDYxNV19
 -->
