@@ -1178,7 +1178,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>3</td> 
-   <td>La contraseña introducida deberá ser correcta para el usuario introducido, en caso de escribirla incorrectamente no se podrá iniciar sesión.</td> 
+   <td>El usuario no podrá elegir una fotografía con uns resolución inferior a 800x800px.</td> 
    </tr> 
     </tr> 
   <tr>
@@ -1187,7 +1187,8 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>4</td> 
-   <td>Si no se introducen caracteres válidos el sistema no no permitirá realizar el inicio de sesión.</td> 
+   <td>  
+No se pueden seleccionar más de dos imágenes a la vez.</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -1486,7 +1487,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyNDg5NjQyLDQ5MjE2OTcwLDEzODQxOD
+eyJoaXN0b3J5IjpbMjI1MjYwMTYwLDQ5MjE2OTcwLDEzODQxOD
 kxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3
 XX0=
 -->
