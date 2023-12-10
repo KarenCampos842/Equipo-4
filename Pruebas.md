@@ -1996,10 +1996,12 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 ![Captura de pantalla 2023-12-06 162907.png](https://raw.githubusercontent.com/KarenCampos842/EGIT/main/Captura%20de%20pantalla%202023-12-06%20162907.png)
 ## Resultados
 ### Métricas[^2]
-
-
 **Métrica de satisfacción**
 ![Captura de pantalla 2023-12-06 162907.png](https://raw.githubusercontent.com/KarenCampos842/EGIT/main/Captura%20de%20pantalla%202023-12-06%20162907.png)
+
+**Cantidad de tareas Completadas/No completadas como trabajador**
+**![](https://lh7-us.googleusercontent.com/gDEv2NbJj0B3UNyd3NvRe3ZkM5K_vDszD5pz_zZ32SHkNpiExRihVk6pDIFZLDDkKj212UzQpT1cDEuw4Kgudg63K4kXOOxj1kWE7mWyVcLtmOlKw4PuRvdGVU4nf4U9gxhW2qOh9kZdIRcuHYhOW_4 )**
+
 ### Mejoras a las interfaces 
 
 | Nombre de la ventana | Cambio | Descripción|
@@ -2009,7 +2011,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjE2NTM3OSwxOTA0NTk4Mzg1LC0xNj
+eyJoaXN0b3J5IjpbMTcyOTIyOTg2MiwxOTA0NTk4Mzg1LC0xNj
 AwODYyMDY2LDIxMDE1ODIwMiwtMTU1MTUzNzUzMiw0MDMxNDgw
 MjIsNDAzMTMzMTIwLC0xODEzOTkzNTM3LDYxNTgwMzQ0XX0=
 -->
