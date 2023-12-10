@@ -1,54 +1,4 @@
 <h1>REQUISITOS</h1>
-</table>
- <br>    
-<table align=center>  
-   <tr>
-     <th>CU-01</th>  
-      <th colspan="2">Nombre del caso de uso (CU)</th>  
-   </tr> 
-    <tr>  
-      <td><b>Versión</b></td>  
-       <td colspan="2">2.0 (20/11/2023)</td> 
-   </tr> 
-   <tr>  
-      <td><b>Precondición</b></td>  
-       <td colspan="2">x</td> 
-   </tr> 
-    <tr>  
-      <td><b>Descripción</b></td>  
-       <td colspan="2">El sistema deberá comportarse como se describe en el siguiente caso de uso cuando ...</td> 
-   </tr> 
-     <tr>  
-      <td rowspan="3"><b>Secuencia normal</b></td>
-       <td><b>Paso</b></td> 
-        <td><b>Acción</b></td> 
-    </tr> 
-  <tr>  
-  <td>1</td> 
-   <td>x</td> 
-  </tr>     
-  <tr>  
-  <td>2</td> 
-   <td>x</td> 
-  </tr>
-  <tr>  
-      <td><b>Postcondición</b></td>  
-       <td colspan="2">x</td> 
-   </tr> 
-     <tr>  
-      <td rowspan="4"><b>Excepciones</b></td>
-       <td><b>Paso</b></td> 
-        <td><b>Acción</b></td>  
-    </tr> 
-  <tr>  
-  <td>1</td> 
-   <td>x</td> 
-  </tr>     
-  <tr>  
-  <td>E.1</td> 
-   <td>x</td> 
-  </tr>          
- </table>
 
 ## Requerimientos funcionales
 RF-1. **Perfiles:** El sistema permitirá al usuario seleccionar un perfil (cliente o trabajador), con el cuál iniciará su registro a la aplicación.
@@ -641,6 +591,57 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
                  <li>Comprobar que se ha enviado el enlace de restablecimiento de contraseña al correo proporcionado.</li>
  </table>      
  
+</table>
+ <br>    
+<table align=center>  
+   <tr>
+     <th>CU-01</th>  
+      <th colspan="2">Nombre del caso de uso (CU)</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">2.0 (20/11/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">x</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema deberá comportarse como se describe en el siguiente caso de uso cuando ...</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="3"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>x</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>x</td> 
+  </tr>
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">x</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="4"><b>Excepciones</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td>  
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>x</td> 
+  </tr>     
+  <tr>  
+  <td>E.1</td> 
+   <td>x</td> 
+  </tr>          
+ </table>
+
   ### Casos de uso
   <table align=center>  
    <tr>
@@ -1274,5 +1275,6 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQyNjU3MTIsMTc3NzI3ODM0N119
+eyJoaXN0b3J5IjpbMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNz
+c3Mjc4MzQ3XX0=
 -->
