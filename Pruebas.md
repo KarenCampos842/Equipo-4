@@ -2019,7 +2019,129 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 **Cantidad de errores cometidos como clientes**
 **![](https://lh7-us.googleusercontent.com/KBqPWKmToFTVY3HrAQD8HMSZHqoyDFVPkMOaGedPfq0pq5mQs8-RE45unNr0DZMO91ZU_PaT5b1G-Lx0FRh9ZvohUu-rWqat6PZwi9JIzC5AtXiE0CrmBJPoFb8D6pdHK93tqfO1heUZumOBLSxuyJM)**
 <br>
-
+<table align=center>  
+     <tr>  
+      <th>Indicador</th>
+      <th>Requisito</th>    
+     </tr>
+      <tr>  
+      <th colspan=2>Objetivo 1</th>  
+     </tr>
+     <tr>  
+      <td>Tarea 1 (mínimo 4 de 6 participantes completaron la tarea)</td>
+      <td>
+      <li>RF-1. Perfiles. </li>
+      <li>RF-2. Registro del cliente.</li>
+      <li>RF-5. Creación de contraseña.</li>
+      </td>    
+     </tr>
+      <tr>  
+      <td>Tarea 2 (mínimo 4 de 6 participantes completaron la tarea)</td>
+      <td>
+      <li>RF-5. Creación de contraseña.</li>
+      <li>RF-8. Creación del perfil de cliente.</li>
+      <li>RF-10. Inicio de sesión.</li>
+       <li>RF-21. Recuperación de contraseña.</li>
+      </td>    
+     </tr>
+       <tr>  
+      <th colspan=2>Objetivo 2</th>  
+     </tr>
+     <tr>
+     <td>Tarea 4 (mínimo 4 de 6 participantes completaron la tarea).</td>
+      <td>
+       <li>RF-11. Búsqueda.</li>
+       <li>RF-12. Filtro.</li>
+       <li> RF-13. Elección del trabajador.</li>
+      </td>    
+     </tr>
+      <tr>  
+      <th colspan=2>Objetivo 3</th>  
+     </tr>
+     <tr>  
+      <td>Tarea 5 (mínimo 4 de 6 participantes completaron la tarea).</td>
+      <td>
+       <li>RF-8. Creación del perfil de cliente.</li>
+       <li>RF-15. Contratación del servicio.</li>
+      </td>    
+     </tr>
+      <tr>  
+      <td>Tarea 9 (mínimo 4 de 6 participantes completaron la tarea).</td>
+      <td>
+       <li>RF-19. Cancelación del servicio.</li>
+      </td>    
+     </tr>
+     <tr>  
+      <th colspan=2>Objetivo 4</th>  
+     </tr>
+     <tr>  
+      <td>Tarea 7 (mínimo 4 de 6 participantes completaron la tarea).</td>
+      <td>
+      <li>RF-6. Comentarios.</li>
+       <li>RF-7. Calificaciones.</li>
+      <li>RF-17. Finalización del contrato.</li>
+      </td>    
+     </tr>
+       <tr>  
+      <th colspan=2>Objetivo 5</th>  
+     </tr>
+     <tr>  
+      <td>Tarea 5 (mínimo 4 de 6 participantes completaron la tarea)</td>
+      <td rowspan=3>
+      <li>RF-14. Chat.</li></td>    
+     </tr>
+      <tr>  
+      <td>Tarea 6 (mínimo 4 de 6 participantes completaron la tarea)</td>
+      <td>
+      </td>    
+     </tr>
+      <tr>  
+      <td>Tarea 8 (mínimo 4 de 6 participantes completaron la tarea).</td>
+      <td>
+      </td>    
+     </tr>
+      <tr>  
+      <th colspan=2>Objetivo 6</th>  
+     </tr>
+     <tr>  
+      <td>Tarea 3 (mínimo 4 de 6 participantes completaron la tarea).</td>
+      <td>
+      <li>RF-22. Modificación de perfil.</li>
+      </td>    
+     </tr>
+      <tr>  
+      <th colspan=2>Objetivo 7</th>  
+     </tr>
+     <tr>  
+      <td>Máximo 2 errores por tarea (por participante). En total, máximo 12 errores por tarea.</td>
+      <td rowspan=4>
+    RNF-27. El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios.</td>    
+     </tr>
+      <tr>  
+      <td>Tareas 1 al 9 completadas en el tiempo esperado</td>
+     </tr>
+      <tr>  
+      <td>Un promedio de mínimo 3  para la pregunta:  Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</td>
+     </tr>
+      <tr>  
+      <td><b>Cuestionario de satisfacción</b><br>
+      <em>El promedio de la opción Totalmente de acuerdo o de acuerdo es el mayor:</em>
+      <li>"Me gustaría utilizar este sistema más a menudo". </li>
+      <li>"Creo que el sistema es sencillo y fácil de usar".</li>
+      <li>"Creo que el sistema funciona bien y está bien integrado".</li>
+      <li> "Creo que la mayoría de la gente puede aprender este sistema rápidamente".</li>
+       <li>"Me siento seguro al utilizar este sistema".</li>
+       <br>
+       <em>El promedio de la opción En desacuerdo o Muy en desacuerdo es el mayor:</em>
+          <li>"Me parece que este sistema es más complicado de lo que debería ser". </li>
+           <li>"Necesito apoyo técnico para utilizar este sistema.". </li>
+           <li>"Creo que hay muchas irregularidades en el sistema".</li>
+          <li>"Creo que este sistema requiere mucho tiempo".</li>
+          <li>"Creo que hay muchas cosas que aprender antes de poder empezar a utilizar este sistema".</li>
+      </td>
+     </tr>  
+ </table> 
+ 
 ### Mejoras a las interfaces 
 
 | Nombre de la ventana | Cambio | Descripción|
@@ -2029,7 +2151,8 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTA5ODk3OCwxOTA0NTk4Mzg1LC0xNj
-AwODYyMDY2LDIxMDE1ODIwMiwtMTU1MTUzNzUzMiw0MDMxNDgw
-MjIsNDAzMTMzMTIwLC0xODEzOTkzNTM3LDYxNTgwMzQ0XX0=
+eyJoaXN0b3J5IjpbMjEwMDU5OTA0NCwtNDY5MDk4OTc4LDE5MD
+Q1OTgzODUsLTE2MDA4NjIwNjYsMjEwMTU4MjAyLC0xNTUxNTM3
+NTMyLDQwMzE0ODAyMiw0MDMxMzMxMjAsLTE4MTM5OTM1MzcsNj
+E1ODAzNDRdfQ==
 -->
