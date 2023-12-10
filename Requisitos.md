@@ -1520,7 +1520,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El trabajador puede calificar al cliente.</td> 
    </tr> 
      <tr>  
-      <td rowspan="5"><b>Secuencia normal</b></td>
+      <td rowspan="4"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -1539,7 +1539,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    </tr> 
 <td><b>Postcondición</b></td>
-<td  colspan="2">Cliente y trabajador se ponen en contacto.</td>
+<td  colspan="2">Trabajador califica al cliente.</td>
 </tr>
 <tr>
 <td  rowspan="9"><b>Excepciones</b></td>
@@ -1560,12 +1560,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr>
   <tr>  
   <td>3</td> 
-   <td>No se puede rechazar al cliente sin antes revisar el perfil.</td> 
-   </tr> 
-    </tr>
-    <tr>  
-  <td>4</td> 
-   <td>El trabajador no puede restaurar un trabajo que ha rechazado.</td> 
+   <td>No se puede c</td> 
 
 </table>
 
@@ -1704,7 +1699,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTM5NjcyNiwzNTU0ODQ3MzEsMTIzMj
+eyJoaXN0b3J5IjpbLTkzNDUwMDM4OCwzNTU0ODQ3MzEsMTIzMj
 c1NTE5NiwtNzg0MjI3OTY5LDY5MTk0MzM4Nyw5MTM1NzkzOTUs
 NDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0Mj
 Y1NzEyLDE3NzcyNzgzNDddfQ==
