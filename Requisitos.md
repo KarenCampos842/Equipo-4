@@ -715,7 +715,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El usuario deberá de contar con un correo electrónico, una contraseña y también no haberse registrado antes</td> 
+       <td colspan="2">El usuario deberá de contar con un correo electrónico, una contraseña y también no haberse registrado antes.</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
@@ -737,12 +737,12 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: Su nombre completo, un correo electrónico y un número de teléfono. Una vez llenado los datos correctos, le da en el botón de "Continuar"</td> 
+   <td>Se le llevará a una ventana para llenar con sus datos correspondientes como: Su nombre completo, un correo electrónico y un número de teléfono. Una vez llenado los datos correctos, le da en el botón de "Continuar".</td> 
    </tr> 
    </tr> 
   <tr>  
   <td>4</td> 
-   <td> Posteriormente se le mostrarán los términos y condiciones que debe aceptar y dar en continuar para seguir concluir con su registro</td> 
+   <td> Posteriormente se le mostrarán los términos y condiciones que debe aceptar y dar en continuar para seguir concluir con su registro.</td> 
    </tr> 
     </tr> 
   <tr>  
@@ -773,7 +773,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>2</td> 
-   <td>El usuario no puede registrase con dos </td> 
+   <td>El usuario no puede registrase con dos perfiles (trabajador/cliente) a la vez.</td> 
    </tr> 
     </tr> 
   <tr>
@@ -784,7 +784,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>3</td> 
-   <td>La contraseña introducida deberá ser correcta para el usuario introducido, en caso de escribirla incorrectamente no se podrá iniciar sesión.</td> 
+   <td>El sistema no le permitirá al usuario continuar si no rellena los campos obligatorios correspondeintes.</td> 
    </tr> 
     </tr> 
   <tr>
@@ -1343,7 +1343,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1OTU2NjgzLDQ5MjE2OTcwLDEzODQxOD
+eyJoaXN0b3J5IjpbNTU3MzgxMjU1LDQ5MjE2OTcwLDEzODQxOD
 kxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3
 XX0=
 -->
