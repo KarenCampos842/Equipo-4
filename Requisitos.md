@@ -715,16 +715,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <td  rowspan="3">  </td>
 <td  >  </td>
 </tr>
-  <tr>  
-      <td><b>Postcondición</b></td>  
-       <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real
-       </tr> 
-       </td> 
-    </tr> 
-     <tr>  
-      <td rowspan="4"><b>Excepciones</b></td>
-     <tr>  
-   <td>
+<table/>
 
 - Si la identificación oficial y la fotografía no coinciden no podrá proceder el registro.
  - Si la tarjeta no contiene fondos suficientes, tendrá que ingresar otra o meterle fondos a la tarjeta.
@@ -1289,6 +1280,6 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyNjE3OTIxLDEzODQxODkxNDgsMTM4ND
-E4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3XX0=
+eyJoaXN0b3J5IjpbLTE0NjczODM5NDUsMTM4NDE4OTE0OCwxMz
+g0MTg5MTQ4LC0xMDA0MjY1NzEyLDE3NzcyNzgzNDddfQ==
 -->
