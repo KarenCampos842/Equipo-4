@@ -5,7 +5,8 @@
 En comparación con la segunda entrega, en está última no han habido demasiado cambios, sin embargo, podemos detallar aquellos que si fueron importantes. 
 Empezamos por la corrección y mejora de artefactos. Si bien ya estaban listos, al momento de la implementación del prototipo consideramos que algunas cosas no tenían demasiada congruencia, por lo que decidimos modificar los artefactos, haciendo algunas correcciones en las excepciones de los casos de uso. De esta manera nos hemos asegurado que el producto refleje de manera más fiel lo documentado.
 Por otro lado, también hemos adecuado aquellas pantallas en el producto que requerimos o identificamos después de la segunda entrega.
-A pesar de que estos cambios fueron menores en comparación con las entregas anteriores, se mant
+Estos cambios fueron menores en comparación con las entregas anteriores, la razón es porque se mantuvieron muchas de las cosas ya establecidas, pues fue lo que se les presentó a los usuarios que realizaron las pruebas.
+
 **Evidencia de la evolución:** 
 Primera entrega:  <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Primera-Entrega/Requisitos.md#requisitos">Requisitos.md</a>  
 Segunda entrega: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Producto.md#producto">Producto.md</a>, <a href="https://github.com/KarenCampos842/Equipo-4/blob/Segunda-Entrega/Requisitos.md#requisitos">Requisitos.md</a>  
@@ -157,5 +158,5 @@ Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan co
 Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio.
 Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0OTE5MDU4XX0=
+eyJoaXN0b3J5IjpbMTAyODAyODAwN119
 -->
