@@ -1,5 +1,6 @@
 <h1>REQUISITOS</h1>
 
+
 ## Requerimientos funcionales
 RF-1. **Perfiles:** El sistema permitirá al usuario seleccionar un perfil (cliente o trabajador), con el cuál iniciará su registro a la aplicación.
 
@@ -591,57 +592,6 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
                  <li>Comprobar que se ha enviado el enlace de restablecimiento de contraseña al correo proporcionado.</li>
  </table>      
  
-</table>
- <br>    
-<table align=center>  
-   <tr>
-     <th>CU-01</th>  
-      <th colspan="2">Nombre del caso de uso (CU)</th>  
-   </tr> 
-    <tr>  
-      <td><b>Versión</b></td>  
-       <td colspan="2">2.0 (20/11/2023)</td> 
-   </tr> 
-   <tr>  
-      <td><b>Precondición</b></td>  
-       <td colspan="2">x</td> 
-   </tr> 
-    <tr>  
-      <td><b>Descripción</b></td>  
-       <td colspan="2">El sistema deberá comportarse como se describe en el siguiente caso de uso cuando ...</td> 
-   </tr> 
-     <tr>  
-      <td rowspan="3"><b>Secuencia normal</b></td>
-       <td><b>Paso</b></td> 
-        <td><b>Acción</b></td> 
-    </tr> 
-  <tr>  
-  <td>1</td> 
-   <td>x</td> 
-  </tr>     
-  <tr>  
-  <td>2</td> 
-   <td>x</td> 
-  </tr>
-  <tr>  
-      <td><b>Postcondición</b></td>  
-       <td colspan="2">x</td> 
-   </tr> 
-     <tr>  
-      <td rowspan="4"><b>Excepciones</b></td>
-       <td><b>Paso</b></td> 
-        <td><b>Acción</b></td>  
-    </tr> 
-  <tr>  
-  <td>1</td> 
-   <td>x</td> 
-  </tr>     
-  <tr>  
-  <td>E.1</td> 
-   <td>x</td> 
-  </tr>          
- </table>
-
   ### Casos de uso
   <table align=center>  
    <tr>
@@ -661,7 +611,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema deberá registrar a todo trabajador con éxito, siendo rápido y eficiente.</td> 
    </tr> 
      <tr>  
-      <td rowspan="15"><b>Secuencia normal</b></td>
+      <td rowspan="8"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -704,7 +654,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    <td>Le aparecerán los términos y condiciones que el trabajador deberá leer y aceptar para poder concluir su registro, posteriormente le saldrá una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionados.</td> 
    </tr> 
   <tr>  
-      <td+r><b>Postcondición</b></td>  
+      <td><b>Postcondición</b></td>  
        <td colspan="2">Para poder ser registro válido deberán tener fondos en su tarjeta, y que las fotos de su perfil y de su identificación coincidan y así comprobar que sea una persona real
        </tr> 
        </td> 
@@ -1275,6 +1225,6 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2MjQzOTg5LDEzODQxODkxNDgsMTM4ND
-E4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3XX0=
+eyJoaXN0b3J5IjpbLTYwNTM1MTEzOSwxMzg0MTg5MTQ4LDEzOD
+QxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0N119
 -->
