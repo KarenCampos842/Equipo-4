@@ -1443,7 +1443,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
-       <td colspan="2">El sistema deberá contar con un chat entre usuarios y trabajadores para agendar fechas, horarios y costos del servicio.</td> 
+       <td colspan="2">El trabajador decide si aceptar un trabajo o no.</td> 
    </tr> 
      <tr>  
       <td rowspan="6"><b>Secuencia normal</b></td>
@@ -1452,7 +1452,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>1</td> 
-   <td>El trabajador debe entrar en supara ver sus contratos.</td> 
+   <td>El trabajador debe entrar en la pestaña correspondiente para ver sus contratos.</td> 
   </tr>     
   <tr>  
   <td>2</td> 
@@ -1646,7 +1646,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDE1NDg3Miw2OTE5NDMzODcsOTEzNT
+eyJoaXN0b3J5IjpbMTMwODUzMjM5NSw2OTE5NDMzODcsOTEzNT
 c5Mzk1LDQ5MjE2OTcwLDEzODQxODkxNDgsMTM4NDE4OTE0OCwt
 MTAwNDI2NTcxMiwxNzc3Mjc4MzQ3XX0=
 -->
