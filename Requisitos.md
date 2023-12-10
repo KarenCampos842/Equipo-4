@@ -1705,11 +1705,11 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
-       <td colspan="2">El usuario trabajdor debe tener una cuenta activa.</td> 
+       <td colspan="2">El usuario trabajador debe tener una cuenta activa.</td> 
    </tr> 
     <tr>  
       <td><b>Descripción</b></td>  
-       <td colspan="2">El trabajador decide si aceptar un trabajo o no.</td> 
+       <td colspan="2">El trabajador puede optar por eliminar su cuenta si así lo considera.</td> 
    </tr> 
      <tr>  
       <td rowspan="5"><b>Secuencia normal</b></td>
@@ -1901,7 +1901,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTY5NTE3MSwzNTU0ODQ3MzEsMTIzMj
+eyJoaXN0b3J5IjpbLTUwNTAwMTIzMywzNTU0ODQ3MzEsMTIzMj
 c1NTE5NiwtNzg0MjI3OTY5LDY5MTk0MzM4Nyw5MTM1NzkzOTUs
 NDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0Mj
 Y1NzEyLDE3NzcyNzgzNDddfQ==
