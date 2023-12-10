@@ -1501,6 +1501,80 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </table>
 
 <br>
+
+<table align=center>  
+   <tr>
+     <th>CU-11</th>  
+      <th colspan="2">Aceptación del trabajo</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (09/12/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El usuario registrado como cliente ya debió previamente haber escogido al trabajador.</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El trabajador decide si aceptar un trabajo o no.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="5"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El trabajador debe entrar en la pestaña correspondiente para ver sus contratos.</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>El trabajador visualiza nombre(s) y apellido(s), ubicación y calificación del cliente.</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>El trabajador acepta o rechaza el trabajo.</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>El cliente es notificado sobre la aceptación o rechazo de su trabajo.</td> 
+   </tr> 
+    </tr>
+<td><b>Postcondición</b></td>
+<td  colspan="2">Cliente y trabajador se ponen en contacto.</td>
+</tr>
+<tr>
+<td  rowspan="9"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>No se puede ver notificaciones eliminadas.</td>
+</tr>
+  <tr>
+    </tr> 
+    </tr> 
+      <tr>  
+  <td>2</td> 
+   <td>No se puede ver perfiles de clientes que no han solicitado un contrato.</td> 
+   </tr> 
+    </tr>
+  <tr>  
+  <td>3</td> 
+   <td>No se puede rechazar al cliente sin antes revisar el perfil.</td> 
+   </tr> 
+    </tr>
+    <tr>  
+  <td>4</td> 
+   <td>El trabajador no puede restaurar un trabajo que ha rechazado.</td> 
+
+</table>
+
+<br>
  
  </table> 
 <table align=center>  
@@ -1635,7 +1709,8 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjc1NTE5NiwtNzg0MjI3OTY5LDY5MT
-k0MzM4Nyw5MTM1NzkzOTUsNDkyMTY5NzAsMTM4NDE4OTE0OCwx
-Mzg0MTg5MTQ4LC0xMDA0MjY1NzEyLDE3NzcyNzgzNDddfQ==
+eyJoaXN0b3J5IjpbMzU1NDg0NzMxLDEyMzI3NTUxOTYsLTc4ND
+IyNzk2OSw2OTE5NDMzODcsOTEzNTc5Mzk1LDQ5MjE2OTcwLDEz
+ODQxODkxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mj
+c4MzQ3XX0=
 -->
