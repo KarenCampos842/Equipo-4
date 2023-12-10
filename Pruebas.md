@@ -2129,6 +2129,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
       <td rowspan=4>
     RNF-27. El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios.</td>    
      </tr>
+     <td>6/6 personas cumplieron la tarea por lo que los requisitos 6, 7 y 17 fueron exitosos</td>   
       <tr>  
       <td>Tareas 1 al 9 completadas en el tiempo esperado</td>
      </tr>
@@ -2163,9 +2164,9 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3NTE5NDM2LC0yMTc0NTY3ODcsOTU2MT
-M2NTc3LDEwMTYzOTg2LC0xNjE3NzI3MTI1LC00NjkwOTg5Nzgs
-MTkwNDU5ODM4NSwtMTYwMDg2MjA2NiwyMTAxNTgyMDIsLTE1NT
-E1Mzc1MzIsNDAzMTQ4MDIyLDQwMzEzMzEyMCwtMTgxMzk5MzUz
-Nyw2MTU4MDM0NF19
+eyJoaXN0b3J5IjpbMTk5MjYzMzcyMSwtMjE3NDU2Nzg3LDk1Nj
+EzNjU3NywxMDE2Mzk4NiwtMTYxNzcyNzEyNSwtNDY5MDk4OTc4
+LDE5MDQ1OTgzODUsLTE2MDA4NjIwNjYsMjEwMTU4MjAyLC0xNT
+UxNTM3NTMyLDQwMzE0ODAyMiw0MDMxMzMxMjAsLTE4MTM5OTM1
+MzcsNjE1ODAzNDRdfQ==
 -->
