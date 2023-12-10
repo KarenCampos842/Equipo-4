@@ -1745,24 +1745,24 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td> 1 </td>
-<td>No se puede acceder a esta función desde otroo apartado.</td>
+<td>No se puede acceder a esta función desde otro apartado.</td>
 </tr>
   <tr>
     </tr> 
     </tr> 
       <tr>  
   <td>2</td> 
-   <td>No se puede ver perfiles de clientes que no han solicitado un contrato.</td> 
+   <td>No se puede seleccionar la opción de cancelación de cuenta si existe un contrato activo.</td> 
    </tr> 
     </tr>
   <tr>  
   <td>3</td> 
-   <td>No se puede rechazar al cliente sin antes revisar el perfil.</td> 
+   <td>No se puede proceder sin antes leer las advertencias.</td> 
    </tr> 
     </tr>
     <tr>  
   <td>4</td> 
-   <td>El trabajador no puede restaurar un trabajo que ha rechazado.</td> 
+   <td>No se puede cancelar la cuenta y restaurar</td> 
 
 </table>
 
@@ -1901,8 +1901,8 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTQwODM4NCwzNTU0ODQ3MzEsMTIzMj
-c1NTE5NiwtNzg0MjI3OTY5LDY5MTk0MzM4Nyw5MTM1NzkzOTUs
-NDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0Mj
-Y1NzEyLDE3NzcyNzgzNDddfQ==
+eyJoaXN0b3J5IjpbNjg3ODEzMTcxLDM1NTQ4NDczMSwxMjMyNz
+U1MTk2LC03ODQyMjc5NjksNjkxOTQzMzg3LDkxMzU3OTM5NSw0
+OTIxNjk3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgsLTEwMDQyNj
+U3MTIsMTc3NzI3ODM0N119
 -->
