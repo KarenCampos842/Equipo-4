@@ -1085,7 +1085,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    <tr>
   <tr>  
   <td>12</td> 
-   <td>El usuario no puede cambiar los parámetros más de 2 veces consecutivas.</td> 
+   <td>El usuario no puede introducir valores que no sean los números o letras permisibles.</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -1141,7 +1141,63 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>6</td> 
-   <td>El usuario observa su correo electrónico y calificación debajo de la imagen de perfil.</td> 
+   <td>El usuario observa su correo electrónico y calificación debajo de la imagen de perfil.</td>
+   </tr> 
+   </tr> 
+  <tr>
+  <tr>  
+      <td><b>Postcondición</b></td>  
+       <td colspan="2">No será posible cambiar ni el nombre, ni el correo electrónico.
+       </tr> 
+       </td> 
+    </tr> 
+     <tr>  
+      <td  rowspan="10"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>Introducir un usuario inexistence impedirá el inicio de sesión.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>2</td> 
+   <td>La contraseña introducida deberá ser correcta para el usuario.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+   </tr> 
+    </tr> 
+  <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>La contraseña introducida deberá ser correcta para el usuario introducido, en caso de escribirla incorrectamente no se podrá iniciar sesión.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>Si no se introducen caracteres válidos el sistema no no permitirá realizar el inicio de sesión.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+</table>
+
+
+
+
+
+
 </tr> 
   <tr>  
       <td><b>Postcondición</b></td>  
@@ -1451,7 +1507,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTIxNjAyMzIsNDkyMTY5NzAsMTM4ND
-E4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0MjY1NzEyLDE3NzcyNzgz
-NDddfQ==
+eyJoaXN0b3J5IjpbMTM2NDg5NTE2Miw0OTIxNjk3MCwxMzg0MT
+g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
+N119
 -->
