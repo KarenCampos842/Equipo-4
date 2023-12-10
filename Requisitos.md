@@ -1603,7 +1603,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    </tr> 
 <td><b>Postcondición</b></td>
-<td  colspan="2">Trabajador califica al cliente.</td>
+<td  colspan="2">l</td>
 </tr>
 <tr>
 <td  rowspan="9"><b>Excepciones</b></td>
@@ -1763,8 +1763,8 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTk2OTA3NCwzNTU0ODQ3MzEsMTIzMj
-c1NTE5NiwtNzg0MjI3OTY5LDY5MTk0MzM4Nyw5MTM1NzkzOTUs
-NDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0Mj
-Y1NzEyLDE3NzcyNzgzNDddfQ==
+eyJoaXN0b3J5IjpbNjg2MjUxNDUzLDM1NTQ4NDczMSwxMjMyNz
+U1MTk2LC03ODQyMjc5NjksNjkxOTQzMzg3LDkxMzU3OTM5NSw0
+OTIxNjk3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgsLTEwMDQyNj
+U3MTIsMTc3NzI3ODM0N119
 -->
