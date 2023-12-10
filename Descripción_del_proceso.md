@@ -321,7 +321,7 @@ El sketch consistirá en dos situaciones, una dónde se represente el problema/n
  
 ## Sprint review
  
- Se realizará una reunión al finalizar el primer sprint para revisar el trabajo que se está entregando. Igualmente, se hablará de los problemas que hubieron, aquello que se hizo bien y lo que se puede mejorar. 
+ Se realizará una reunión al finalizar el tercer sprint para revisar el trabajo que se está entregando. Igualmente, se hablará de los problemas que hubieron, aquello que se hizo bien y lo que se puede mejorar. 
 
 ## Retrospective
 Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo aquello que se hizo bien con relación al uso de la metodología SCRUM, el proceso, uso de herramientas, así como, todo aquello que se puede mejorar en cuanto a proceso, herramientas, relación entre compañeros, etc. 
@@ -333,11 +333,11 @@ Reunión con el equipo posterior a finalizar la entrega dedicada a analizar todo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODUxNzQ3OSwtMjI3NTk0Njk3LC0xND
-Y0MjMxNTI1LC00NzU5MjEzNTYsMTUzODI0NzI0NiwtMjAwNTgx
-MzQxNSwtMTIxMjA1MjI3NCwtMTkzNDIzMDE1LC0yMTAyNTYyNz
-M5LDg5MTI1ODMxLC0xMTY2ODQ5MzE2LDIwNzA5MDM5NSwxNzgx
-NzE1NTExLDg3NDc2MjEwNSwtNDI3NjM0ODcxLDEwNDIwMDUzMz
-MsMTg0Njc0OTk3NSwtMjgzMjA4MTM4LC03NjUyNjQ2MTUsMTk3
-MzM0MTM1OV19
+eyJoaXN0b3J5IjpbNTkwMzcxNjE5LDE4Njg1MTc0NzksLTIyNz
+U5NDY5NywtMTQ2NDIzMTUyNSwtNDc1OTIxMzU2LDE1MzgyNDcy
+NDYsLTIwMDU4MTM0MTUsLTEyMTIwNTIyNzQsLTE5MzQyMzAxNS
+wtMjEwMjU2MjczOSw4OTEyNTgzMSwtMTE2Njg0OTMxNiwyMDcw
+OTAzOTUsMTc4MTcxNTUxMSw4NzQ3NjIxMDUsLTQyNzYzNDg3MS
+wxMDQyMDA1MzMzLDE4NDY3NDk5NzUsLTI4MzIwODEzOCwtNzY1
+MjY0NjE1XX0=
 -->
