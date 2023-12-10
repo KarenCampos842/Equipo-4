@@ -1227,7 +1227,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td><b>Descripción</b></td>
-<td  colspan="2">El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio y filtrará las opciones con criterios de calificación y ubicació</td>
+<td  colspan="2">El sistema mostrará al cliente una barra de búsqueda en la que podrá ingresar un oficio y filtrará las opciones con criterios de calificación y ubicación.</td>
 </tr>
 <tr>
 <td  rowspan="5"><b>Secuencia normal</b></td>
@@ -1236,11 +1236,11 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td>1</td>
-<td>El cliente ingresa el nombre de un oficio </td>
+<td>El cliente ingresa el nombre de un oficio.</td>
 </tr>
 <tr>
 <td>2</td>
-<td>El sistema despliega una lista de oficios </td>
+<td>El sistema despliega una lista de oficios.</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1268,7 +1268,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>2</td> 
-   <td>El usuario no puede cambiar la calificación de su perfil.</td> 
+   <td>El usuario no podrá </td> 
    </tr> 
     </tr> 
   <tr> 
@@ -1512,7 +1512,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDc2MzMxMyw5MTM1NzkzOTUsNDkyMT
-Y5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0MjY1NzEy
-LDE3NzcyNzgzNDddfQ==
+eyJoaXN0b3J5IjpbLTEwMDI1NDc3NzAsOTEzNTc5Mzk1LDQ5Mj
+E2OTcwLDEzODQxODkxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcx
+MiwxNzc3Mjc4MzQ3XX0=
 -->
