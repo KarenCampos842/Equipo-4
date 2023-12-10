@@ -117,7 +117,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        <td>32 años</td> 
        <td>Carpintera</td> 
        <td>Área metropolitana de Mérida</td>
-       <td>Realiza servicios de carpintería </td> 
+       <td>Trabaja en carpintería en un horario flexible, por lo que quiere explorar nuevas oportunidades para conseguir clientes propios y de tal forma poner su carpintería de igual manera ppropio</td> 
    </tr> 
  </table>      
  <br>
@@ -252,6 +252,6 @@ Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan co
 Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio.
 Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQ5NjI0NTksLTE5NzAyNjgzNDIsMT
-AyODAyODAwN119
+eyJoaXN0b3J5IjpbMTk2MTIzNzkxNiwtMTk3MDI2ODM0MiwxMD
+I4MDI4MDA3XX0=
 -->
