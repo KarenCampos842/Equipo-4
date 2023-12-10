@@ -802,8 +802,8 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr> 
     </tr> 
   <tr>  
-  <td>4</td> 
-   <td>Si no se aceptan los términos y condiciones, el sistema no le permitirá al usuario continuar.</td> 
+  <td>5</td> 
+   <td>El usuario no podrá intentar iniciar sesión antes de recibir su</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -1353,7 +1353,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzIxNjkyMiw0OTIxNjk3MCwxMzg0MT
+eyJoaXN0b3J5IjpbLTcxMzUzMDM0OSw0OTIxNjk3MCwxMzg0MT
 g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
 N119
 -->
