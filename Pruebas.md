@@ -2035,7 +2035,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
       <li>RF-2. Registro del cliente.</li>
       <li>RF-5. Creación de contraseña.</li>
       </td>  
-      <td>Tarea 1 (mínimo 4 de 6 participantes completaron la tarea)</td>
+      <td>Objetivo 1 cumplido</td>
       <td>  
      </tr>
       <tr>  
@@ -2154,8 +2154,8 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc3MjcxMjUsLTQ2OTA5ODk3OCwxOT
-A0NTk4Mzg1LC0xNjAwODYyMDY2LDIxMDE1ODIwMiwtMTU1MTUz
-NzUzMiw0MDMxNDgwMjIsNDAzMTMzMTIwLC0xODEzOTkzNTM3LD
-YxNTgwMzQ0XX0=
+eyJoaXN0b3J5IjpbLTE4NTQwODU4MywtMTYxNzcyNzEyNSwtND
+Y5MDk4OTc4LDE5MDQ1OTgzODUsLTE2MDA4NjIwNjYsMjEwMTU4
+MjAyLC0xNTUxNTM3NTMyLDQwMzE0ODAyMiw0MDMxMzMxMjAsLT
+E4MTM5OTM1MzcsNjE1ODAzNDRdfQ==
 -->
