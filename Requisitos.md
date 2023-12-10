@@ -1594,12 +1594,12 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>El cliente podrá calificar mediante una puntuación definida por estrellas el nivel de satisfacción que tuvo en cuanto al servicio.</td> 
+   <td>El cliente podrá calificar mediante una puntuación definida por 5 estrellas el nivel de satisfacción que tuvo en cuanto al servicio.</td> 
   </tr>
   </tr> 
   <tr>  
   <td>3</td> 
-   <td>El trabajador confirma su calificación.</td> 
+   <td>El cliente pude comentar sus resultados.</td> 
    </tr> 
    </tr> 
 <td><b>Postcondición</b></td>
@@ -1624,7 +1624,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr>
   <tr>  
   <td>3</td> 
-   <td>No se puede confirmado una calificación sin haber seleccionado nada. </td> 
+   <td>No se puede terminar el contrato sin que antes el cliente haya dejado su comentario.</td> 
 
 </table>
 
@@ -1763,8 +1763,8 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4Nzg2OTQ5LDM1NTQ4NDczMSwxMjMyNz
-U1MTk2LC03ODQyMjc5NjksNjkxOTQzMzg3LDkxMzU3OTM5NSw0
-OTIxNjk3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgsLTEwMDQyNj
-U3MTIsMTc3NzI3ODM0N119
+eyJoaXN0b3J5IjpbLTU0NzE5Mzk0NywzNTU0ODQ3MzEsMTIzMj
+c1NTE5NiwtNzg0MjI3OTY5LDY5MTk0MzM4Nyw5MTM1NzkzOTUs
+NDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0Mj
+Y1NzEyLDE3NzcyNzgzNDddfQ==
 -->
