@@ -748,6 +748,52 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr>  
   <td>5</td> 
    <td> Ya concluido su registro se le llevará a una ventana en la que se le mostrará que su usuario y contraseña han sido enviados al correo electrónico proporcionado.</td>
+         <td><b>Postcondición</b></td>  
+       <td colspan="2">No será posible cambiar ni el nombre, ni el correo electrónico.
+       </tr> 
+       </td> 
+    </tr> 
+     <tr>  
+      <td  rowspan=""><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>Introducir un usuario inexistence impedirá el inicio de sesión.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>2</td> 
+   <td>La contraseña introducida deberá ser correcta para el usuario.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+   </tr> 
+    </tr> 
+  <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>La contraseña introducida deberá ser correcta para el usuario introducido, en caso de escribirla incorrectamente no se podrá iniciar sesión.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    <tr> 
+  </tr> 
+    </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>Si no se introducen caracteres válidos el sistema no no permitirá realizar el inicio de sesión.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+</table>
 
 <br>
 
@@ -1290,7 +1336,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1NTgzMzUzLDQ5MjE2OTcwLDEzODQxOD
+eyJoaXN0b3J5IjpbODA1Mzk3MjQ5LDQ5MjE2OTcwLDEzODQxOD
 kxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3
 XX0=
 -->
