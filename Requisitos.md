@@ -1416,12 +1416,12 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr>
     <tr>  
   <td>4</td> 
-   <td>El ctrabaja</td> 
+   <td>El trabajador solo puede marcar como vistos mensajes nuevos.</td> 
    </tr> 
     </tr>
     <tr>  
   <td>5</td> 
-   <td>El cliente no puede abrir el chat sin antes haber visto el perfil completo.</td> 
+   <td>El trabajador no puede enviar mensajes cortos consecutivamente.</td> 
    </tr> 
     </tr>
 </table>
@@ -1561,7 +1561,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzA1NzIwMCw5MTM1NzkzOTUsNDkyMT
-Y5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0MjY1NzEy
-LDE3NzcyNzgzNDddfQ==
+eyJoaXN0b3J5IjpbNjkxOTQzMzg3LDkxMzU3OTM5NSw0OTIxNj
+k3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIs
+MTc3NzI3ODM0N119
 -->
