@@ -1255,7 +1255,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <td  colspan="2">El usuario es libre de seleccionar con quien quiere trabajar </td>
 </tr>
 <tr>
-<td  rowspan="3"><b>Excepciones</b></td>
+<td  rowspan="13"><b>Excepciones</b></td>
 <td><b>Paso</b></td>
 <td><b>Acción</b></td>
 </tr>
@@ -1263,8 +1263,16 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <td> 1 </td>
 <td>Si el oficio buscado no está dado de alta  en la base de datos, el sistema notifica al usuario que no encuentra el oficio buscado.</td>
 </tr>
+  <tr>
+    </tr> 
+    </tr> 
+  <tr>  
+  <td>2</td> 
+   <td>El usuario no puede cambiar la calificación de su perfil.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
 </table>
-
 <br>
 
 <table align=center>
@@ -1504,7 +1512,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTIxNTE2NSw5MTM1NzkzOTUsNDkyMT
+eyJoaXN0b3J5IjpbLTYwNDc2MzMxMyw5MTM1NzkzOTUsNDkyMT
 Y5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0MjY1NzEy
 LDE3NzcyNzgzNDddfQ==
 -->
