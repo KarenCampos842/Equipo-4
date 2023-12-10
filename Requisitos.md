@@ -670,7 +670,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>2</td> 
-   <td> - Si la tarjeta no contiene fondos suficientes, tendrá que ingresar otra o meterle fondos a la tarjeta.</td> 
+   <td>Si la tarjeta no contiene fondos suficientes, tendrá que ingresar otra o meterle fondos a la tarjeta.</td> 
    </tr> 
     </tr> 
   <tr>
@@ -678,7 +678,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>3</td> 
-   <td> - Si el correo o el número de teléfono ya están registrados en el sistema no se podrá proceder.</td> 
+   <td>Si el correo o el número de teléfono ya están registrados en el sistema no se podrá proceder.</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -1261,6 +1261,6 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTY2ODEwMzYsMTM4NDE4OTE0OCwxMz
-g0MTg5MTQ4LC0xMDA0MjY1NzEyLDE3NzcyNzgzNDddfQ==
+eyJoaXN0b3J5IjpbNDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MT
+g5MTQ4LC0xMDA0MjY1NzEyLDE3NzcyNzgzNDddfQ==
 -->
