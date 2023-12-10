@@ -1505,7 +1505,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <table align=center>  
    <tr>
      <th>CU-11</th>  
-      <th colspan="2">Aceptación del trabajo</th>  
+      <th colspan="2">Calificar a cliente</th>  
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
@@ -1709,8 +1709,8 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1NDg0NzMxLDEyMzI3NTUxOTYsLTc4ND
-IyNzk2OSw2OTE5NDMzODcsOTEzNTc5Mzk1LDQ5MjE2OTcwLDEz
-ODQxODkxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mj
-c4MzQ3XX0=
+eyJoaXN0b3J5IjpbOTg1NTE2MzAxLDM1NTQ4NDczMSwxMjMyNz
+U1MTk2LC03ODQyMjc5NjksNjkxOTQzMzg3LDkxMzU3OTM5NSw0
+OTIxNjk3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgsLTEwMDQyNj
+U3MTIsMTc3NzI3ODM0N119
 -->
