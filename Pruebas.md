@@ -1997,6 +1997,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 ## Resultados
 ### Métricas[^2]
 
+
 **Métrica de satisfacción**
 ![Captura de pantalla 2023-12-06 162907.png](https://raw.githubusercontent.com/KarenCampos842/EGIT/main/Captura%20de%20pantalla%202023-12-06%20162907.png)
 ### Mejoras a las interfaces 
@@ -2008,7 +2009,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDU5ODM4NSwtMTYwMDg2MjA2NiwyMT
-AxNTgyMDIsLTE1NTE1Mzc1MzIsNDAzMTQ4MDIyLDQwMzEzMzEy
-MCwtMTgxMzk5MzUzNyw2MTU4MDM0NF19
+eyJoaXN0b3J5IjpbMTAwNjE2NTM3OSwxOTA0NTk4Mzg1LC0xNj
+AwODYyMDY2LDIxMDE1ODIwMiwtMTU1MTUzNzUzMiw0MDMxNDgw
+MjIsNDAzMTMzMTIwLC0xODEzOTkzNTM3LDYxNTgwMzQ0XX0=
 -->
