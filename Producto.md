@@ -47,9 +47,9 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
       <td>Primario</td>  
        <td>Indistinto</td> 
        <td>18-50 años</td> 
-       <td>Estudiante universitario, madre o padre de familia, personas </td> 
-       <td>Mérida, Yucatán.</td>
-       <td>Se le quedaron las llaves dentro de la casa y necesita rápidamente a un cerrajero para que le ayude a ingresar.</td> 
+       <td>Estudiante universitario, madre o padre de familia, personas nuevas en la ciudad, etc.</td> 
+       <td>Área metropolitana de Mérida</td>
+       <td>Necesitan hacer la instalación de un aire acondicionado por las altas temperaturas, pero ningún trabajador se compromete a hacerlo</td> 
    </tr> 
  </table>
     <br>
@@ -227,6 +227,6 @@ Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan co
 Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio.
 Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjA1ODExNSwtMTk3MDI2ODM0MiwxMD
+eyJoaXN0b3J5IjpbMTUyNTM2NzU0OCwtMTk3MDI2ODM0MiwxMD
 I4MDI4MDA3XX0=
 -->
