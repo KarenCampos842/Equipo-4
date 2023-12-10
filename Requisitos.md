@@ -1152,7 +1152,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        </td> 
     </tr> 
      <tr>  
-      <td  rowspan="10"><b>Excepciones</b></td>
+      <td  rowspan="18"><b>Excepciones</b></td>
 <td><b>Paso</b></td>
 <td><b>Acción</b></td>
   </tr> 
@@ -1196,8 +1196,16 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr> 
     </tr> 
   <tr>  
-  <td>4</td> 
-   <td> No se pueden seleccionar más de dos imágenes a la vez.</td> 
+  <td>5</td> 
+   <td>El usuario no podrá continuar sin antes haber seleccionado una imagen, o bien, habiéndosela tomado.</td> 
+   </tr> 
+    </tr> 
+  <tr>
+    </tr> 
+    </tr> 
+  <tr>  
+  <td>6</td> 
+   <td>El usuario no puede cambiar la calificación de su perfil.</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -1496,7 +1504,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjczNDg5MSw0OTIxNjk3MCwxMzg0MT
-g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
-N119
+eyJoaXN0b3J5IjpbMTkyOTQ0MDA1LDQ5MjE2OTcwLDEzODQxOD
+kxNDgsMTM4NDE4OTE0OCwtMTAwNDI2NTcxMiwxNzc3Mjc4MzQ3
+XX0=
 -->
