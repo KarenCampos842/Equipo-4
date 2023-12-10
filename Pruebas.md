@@ -2005,9 +2005,14 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 **![](https://lh7-us.googleusercontent.com/gDEv2NbJj0B3UNyd3NvRe3ZkM5K_vDszD5pz_zZ32SHkNpiExRihVk6pDIFZLDDkKj212UzQpT1cDEuw4Kgudg63K4kXOOxj1kWE7mWyVcLtmOlKw4PuRvdGVU4nf4U9gxhW2qOh9kZdIRcuHYhOW_4 )**
 <br>
 **Cantidad de tareas Completadas/No completadas como cliente**
-**![](https://lh7-us.googleusercontent.com/dZNXFFR1pweQ68acJ6-h79mEkF4vRoI5gRiVvHv6tfUY8DAY62UMHWYF7N0bx1kjN3eloqral66uR22RxQ2P6qSMOVDQI_fIyQ6baBQBtFKmYKB2_lq2Qx006kpFa73KKbOy9L0M7Hm79uAHj5zHETA "Points scored")**
+**![](https://lh7-us.googleusercontent.com/dZNXFFR1pweQ68acJ6-h79mEkF4vRoI5gRiVvHv6tfUY8DAY62UMHWYF7N0bx1kjN3eloqral66uR22RxQ2P6qSMOVDQI_fIyQ6baBQBtFKmYKB2_lq2Qx006kpFa73KKbOy9L0M7Hm79uAHj5zHETA )**
 <br>
 **Tiempo promedio en segundos de las pruebas por tarea como trabajadores**
+**![](https://lh7-us.googleusercontent.com/oJxMYOVCAUNCjPPlt52O6pQxSmpAHXudeMCBGce1DI3gPFoE3Nct_oO_D57NuHsbs1AapzqwBn0K_1a0wB0sRZRxoaMaRtjw8YK1Z_KznD92Fkd0tVUZdlnLJhMB3mfywpWkLzSCGaSCQfT05hr7yxk )**
+<br>
+**Tiempo promedio en segundos de las pruebas por tarea como clientes**
+**![](https://lh7-us.googleusercontent.com/QmDojE-JcXPL8mqm3vU1rGRtDjB3aCxYQC6OW_CTIzSbb6TNoufL7sapGAL8gOtgA1PTBIMBuGnwEHplMzsQjsBWeK7anhvcoihC8eg-D67ilbtx0Kzceu9SIvTylJu4zcZOOPrIilhqXLEQFpNUYUE)**
+<br>
 
 ### Mejoras a las interfaces 
 
@@ -2018,7 +2023,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTUzMzU3NCwxOTA0NTk4Mzg1LC0xNj
+eyJoaXN0b3J5IjpbLTgwOTcwMjkyNywxOTA0NTk4Mzg1LC0xNj
 AwODYyMDY2LDIxMDE1ODIwMiwtMTU1MTUzNzUzMiw0MDMxNDgw
 MjIsNDAzMTMzMTIwLC0xODEzOTkzNTM3LDYxNTgwMzQ0XX0=
 -->
