@@ -34,6 +34,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
  --Determinar un tipo de usuario específico (primario) y sus características principales.
  --Elaborar perfiles, personas, escenarios (Por cada tipo de usuario identificado hacer el perfil de una persona ficticia). Se sugiere utilizar la siguiente plantilla (agregar más columnas si se considera necesario): 
 
+
 <table align=center>  
    <tr>  
       <th>Tipo de usuario</th>  
@@ -203,5 +204,6 @@ Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan co
 Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio.
 Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzAyNjgzNDIsMTAyODAyODAwN119
+eyJoaXN0b3J5IjpbLTEzMDIxNjUwMjgsLTE5NzAyNjgzNDIsMT
+AyODAyODAwN119
 -->
