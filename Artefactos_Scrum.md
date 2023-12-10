@@ -16,7 +16,7 @@ eyJoaXN0b3J5IjpbLTU3ODU1MjkwMF19
 
 - Se consideran todos los artefactos, no se omite ninguno.
 
--Han recibido una revisión por parte del equipo Scrum.
+- Han recibido una revisión por parte del equipo Scrum.
 
 <h3>Redacción y documentación</h3>
 
