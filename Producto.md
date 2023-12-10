@@ -3,6 +3,7 @@
 ## Evolución del producto
 
 En comparación con la segunda entrega, en está última no han habido demasiado cambios, sin embargo, podemos detallar aquellos que si fuueron importantes. 
+Empezamos por la corrección y mejora de artefactos. Si bien ya estaban listos, al momento de la implementación del protótipo consideramos que algunas cosas no tenían demasiada congruencia, por lo que decidimos modificar los artefactos, garegando algunas correc
 
 Desde la última actualización, WorkFlash ha recibido una serie de reestructuraciones que lo hacen más viable como producto, para empezar, podemos destacar que hemos ideado una nueva manera de monetización basada en una suscripción, como alternativa a la primera propuesta de colocar anuncios, esto debido a que los mismos pueden para generar ingresos considerables deben ser colocados en cantidad y esto podría resultar no grato para los usuarios que en consecuencia podrían optar por abandonar la aplicación. Con el nuevo modelo basado en suscripciones mensuales únicamente para los usuarios registrados como proveedores de servicios, garantizamos que los clientes puedan disfrutar de una experiencia de navegación mucho más limpia y al mismo tiempo podemos ofrecerles a los proveedores de servicios más beneficios.
 
@@ -165,5 +166,5 @@ Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan co
 Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio.
 Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2NTM3Nzc0XX0=
+eyJoaXN0b3J5IjpbMTE0ODQzNjg4OF19
 -->
