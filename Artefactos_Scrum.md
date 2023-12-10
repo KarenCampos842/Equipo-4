@@ -4,11 +4,17 @@ eyJoaXN0b3J5IjpbLTU3ODU1MjkwMF19
 -->
 <h2>Artefactos</h2>
 -Los artefactos están redactados de forma clara y concisa.
+
 -No se presentan faltas de ortografía o gramática.
+
 -Siguen un patrón coherente y adaptable.
+
 -Presentan la cantidad de contenido adecuada para su posterior uso.
+
 -La redacción de los artefactos está alineada a los lineamientos de Scrum. 
+
 -Se consideran todos los artefactos, no se omite ninguno.
+
 -Han recibido una revisión por parte del equipo Scrum.
 
 <h2>Redacción y documentación</h2>
