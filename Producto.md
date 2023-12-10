@@ -52,9 +52,13 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        <td>Necesitan hacer la instalación de un aire acondicionado por las altas temperaturas, pero ningún trabajador está comprometido con el trabajo, por lo que recurren a WorkFlash para contratar a alguien que sí.</td> 
    </tr> 
  </table>
-    <br>
- <h3>Perfil</h3> 
+ 
  <br>
+ 
+ <h3>Perfil de cliente</h3> 
+ 
+ <br>
+ 
 <table align=center>  
    <tr>  
       <th>Tipo de usuario</th>  
@@ -92,7 +96,30 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
        <td>30-50 años</td> 
        <td>Mécanico, electricista, plomero, carpintero, etc.</td> 
        <td>Área metropolitana de Mérida</td>
-       <td>Su poca visibilidad en una red social causa que no tenga muchos clientes por lo que recurre a WorkFlash para darsee</td> 
+       <td>Su poca visibilidad en una red social causa que no tenga muchos clientes, por lo que recurre a WorkFlash para darse una mayor promoción.</td> 
+   </tr> 
+ </table>      
+
+ <br>
+ 
+ <h3>Perfil de trabajador</h3> 
+ 
+ <table align=center>  
+   <tr>  
+      <th>Tipo de usuario</th>  
+      <th>Género</th> 
+      <th>Edad</th>
+      <th>Ocupación</th>
+      <th>Ubicación Geográfica</th>
+       <th>Escenario</th>
+   </tr> 
+    <tr>  
+      <td>Primario</td>  
+       <td>Indistinto</td> 
+       <td>30-50 años</td> 
+       <td>Mécanico, electricista, plomero, carpintero, etc.</td> 
+       <td>Área metropolitana de Mérida</td>
+       <td>Su poca visibilidad en una red social causa que no tenga muchos clientes, por lo que recurre a WorkFlash para darse una mayor promoción.</td> 
    </tr> 
  </table>      
  <br>
@@ -227,6 +254,6 @@ Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan co
 Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio.
 Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTEyMzc1NCwtMTk3MDI2ODM0MiwxMD
-I4MDI4MDA3XX0=
+eyJoaXN0b3J5IjpbLTEyNzc4MDA4MTYsLTE5NzAyNjgzNDIsMT
+AyODAyODAwN119
 -->
