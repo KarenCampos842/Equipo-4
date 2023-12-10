@@ -5,11 +5,7 @@ Para las pruebas se reclutarán a 12 personas en total. 6 con el perfil de clien
 
 **Reclutamiento (presencial o mediante un mensaje de texto o llamada telefónica)** 
 
- 1. Localizar a la persona que cumpla con el perfil: 
-
-| Trabajador |  Cliente|
-|--|--|
-| x | x |
+ 1. Localizar a la persona que cumpla con el perfil de cliente primario: <a href="https://github.com/KarenCampos842/Equipo-4/blob/Tercera-Entrega/Producto.md#usuarios">Usuarios</a> 
 
 
 2. Presentarse como estudiantes de la Licenciatura en Ingeniería de Software (en caso de conocer al participante, es suficiente con un saludo). 
@@ -160,7 +156,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 7</th>  
      </tr>
      <tr>  
-      <td>Máximo 2 errores por tarea (por participante).</td>
+      <td>Máximo 2 errores por tarea (por participante). En total, máximo 12 errores por tarea.</td>
       <td rowspan=4>
     RNF-27. El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios.
       </td>    
@@ -192,6 +188,23 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
 
 <br>
 <br>
+
+**Tiempo esperado**
+
+El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tabla a continuación:
+
+| Tarea |Tiempo base| Tiempo esperado (t)|
+|--|--|--|
+| 1 | 67.8s | t≤135.6s |
+| 2 | 16.28s |t≤32.56s |
+| 3 | 10.73s |t≤21.46s |
+| 4 | 30.64s |t≤61.28s |
+| 5 | 10.24s |t≤20.48s |
+| 6 | 7.84s |t≤15.68s |
+| 7 | 16.77s |t≤33.54s |
+| 8 | 11.46s |t≤22.92s |
+| 9 | 11.05s |t≤22.1s |
+
 
 ***Formato 1: Perfil de trabajador***
 
@@ -417,7 +430,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       <th colspan=2>Objetivo 7</th>  
      </tr>
      <tr>  
-      <td>Máximo 2 errores por tarea (por participante).</td>
+      <td>Máximo 2 errores por tarea (por participante). En total, máximo 12 errores por tarea.</td>
       <td rowspan=4>
     RNF-27. El sistema debe ser intuitivo, gráfico y agradable para la mayoría de usuarios.</td>    
      </tr>
@@ -445,6 +458,22 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
       </td>
      </tr>  
  </table>     
+
+**Tiempo esperado**
+
+El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tabla a continuación:
+
+| Tarea |Tiempo base| Tiempo esperado (t)|
+|--|--|--|
+| 1 | 28.61s | t≤57.22s |
+| 2 | 16.28s |t≤32.56s |
+| 3 | 18.19s |t≤36.38s |
+| 4 | 18.84s |t≤37.68s |
+| 5 | 23.32s |t≤46.64s |
+| 6 | 8.47s |t≤16.94s |
+| 7 | 20.39s |t≤40.78s |
+| 8 | 19.63s |t≤39.26s |
+| 9 | 13.88s |t≤27.76s |
 
 <br>
 <br>
@@ -800,14 +829,13 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
  </table>
  <br>
  <br>
-
-<table align=center>  
+ <table align=center>  
    <tr>  
       <th colspan=4>Nombre del responsable de la aplicación</th>  
       <th colspan=2>Fecha de aplicación</th> 
    </tr> 
     <tr>  
-      <td colspan=4>Ruben Moises Loria Pech</td>  
+      <td colspan=4>Rubén Moisés Loria Pech</td>  
        <td colspan=2>26/11/23</td> 
    </tr> 
    <tr>  
@@ -913,19 +941,18 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
-       <td colspan=5>normalmente los adultos se guian mas por las primeras 3 letras no terminar de leer las cosas y no se molestan en intentarlo creo que lo mejor es poner dibujitos para mas intuitivo </td> 
+       <td colspan=5>"Normalmente los adultos se guían más por las primeras 3 letras, no terminan de leer las cosas y no se molestan en intentarlo, creo que lo mejor es poner dibujitos para mas intuitivo". </td> 
    </tr>
  </table>
  <br>
  <br>
- 
 <table align=center>  
    <tr>  
       <th colspan=4>Nombre del responsable de la aplicación</th>  
       <th colspan=2>Fecha de aplicación</th> 
    </tr> 
     <tr>  
-      <td colspan=4>Ruben Moises Loria Pech</td>  
+      <td colspan=4>Rubén Moisés Loria Pech</td>  
        <td colspan=2>26/11/23</td> 
    </tr> 
    <tr>  
@@ -1025,7 +1052,7 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>
    <tr>  
       <th>Descripción de errores</th>
-       <td colspan=5> Oprimió la foto de perfil del mecánico en lugar de dar clic en el ícono (tarea 3).<br> No vio que al bajar podia contratarlo(tarea 5).
+       <td colspan=5> Oprimió la foto de perfil del mecánico en lugar de dar clic en el ícono (tarea 3).<br> No vio que al bajar podia contratarlo (tarea 5).
        <br>Cancelar el contrato fue una de las que se dificultó porque no sabia si al eliminar se cancelaba el contrato en automático(tarea 9) </td> 
    </tr>  
     <tr>  
@@ -1035,123 +1062,6 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
  </table>
 <br>
 <br>
-<table align=center>  
-   <tr>  
-      <th colspan=4>Nombre del responsable de la aplicación</th>  
-      <th colspan=2>Fecha de aplicación</th> 
-   </tr> 
-    <tr>  
-      <td colspan=4>Ruben Moises Loria Pech</td>  
-       <td colspan=2>26/11/23</td> 
-   </tr> 
-   <tr>  
-      <th colspan=6>Datos del participante</td> 
-   </tr> 
-    <tr>  
-      <th>Género</th>  
-      <th>Edad</th>
-      <th>Ocupación</th>     
-      <th colspan=3>Tipo de usuario</th>           
-   </tr> 
-    <tr>  
-      <td>Masculino</td>  
-       <td>58</td>
-      <td>plomero</td>
-      <td colspan=3>primario (trabajador)</td>  
-   </tr> 
-     <tr>  
-      <th>Número de tarea</th> 
-     <th>Descripción</th>
-     <th>Número de errores</th>
-     <th>Éxito de tarea</th>
-    <th>Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</th>
-     <th>Tiempo</th>   
-   </tr> 
-    <tr>  
-      <td>1</td> 
-      <td>Regístrate como trabajador en la aplicación.<br>
-      Nota: (Zona de trabajo: Mérida, Expiración de tarjeta: mes 11, año 2025).  </td>
-       <td>3</td>
-       <td>Completada</td>
-       <td>3</td>
-        <td>60s</td>            
-   </tr>
-    <tr>  
-      <td>2</td> 
-      <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión.</td>
-       <td>5</td>
-       <td>Completada</td>
-       <td>2</td>
-        <td>5 min</td>                          
-   </tr>
-   <tr>  
-      <td>3</td> 
-      <td>Quieres saber que opinan tus clientes de tí. Lee sus comentarios y calificaciones.</td>
-       <td>1</td>
-       <td>Completada</td>
-       <td>4</td>
-         <td>30s</td>                       
-   </tr>
-    <tr>  
-      <td>4</td> 
-      <td>Quieres cambiar datos de tu perfil, edítalo.</td>
-       <td>5</td>
-       <td>Completada</td>
-       <td>3</td>
-       <td>5 min</td>                       
-   </tr>
-    <tr>  
-      <td>5</td> 
-      <td>Se te ha notificado de nuevos trabajos, revisa tus notificaciones, acepta a Victoria Robertson y rechaza a Greg Anderson. </td>
-       <td>1</td>
-       <td>Completada</td>
-       <td>4</td>
-       <td>30s</td>                   
-   </tr>
-   <tr>  
-      <td>6</td> 
-      <td>Revisa tu última conversación con Victoria Robertson. </td>
-       <td>5</td>
-       <td>Completada</td>
-       <td>3</td>
-        <td>5 min</td>                    
-   </tr>
-   <tr>  
-      <td>7</td> 
-      <td>Ha finalizado tu contrato con Victoria Robertson, califícala.  </td>
-       <td>0</td>
-       <td>Completada</td>
-       <td>5</td>
-        <td>10s</td>                 
-   </tr>
-   <tr>  
-      <td>8</td> 
-      <td>Uno de tus clientes no asistió a la reunión que habían programado. Cancela tu contrato con Luis Pérez Medina y elimina su chat. </td>
-       <td>5</td>
-       <td>Completada</td>
-       <td>3</td>
-     <td>3 min</td>                        
-   </tr>
-    <tr>  
-      <td>9</td> 
-      <td>Cancela tu membresía y sal de la aplicación. </td>
-       <td>3</td>
-       <td>Completada</td>
-       <td>3</td>
-       <td>1 min</td>                
-   </tr>
-   <tr>  
-      <th>Descripción de errores</th>
-       <td colspan=5>Ejemplo: Oprimió el botón de contratos en lugar de notificaciones (tarea 4).
-       Hice el mismo experimento con alguien mas joven y se adapto mas rapido el trabajor con quien hice el experimento se desespero, en la de eliminar chat fue el que mas tuvo mas errores    </td> 
-   </tr>  
-    <tr>  
-      <th>Comentarios/Observaciones</th>
-       <td colspan=5>normalmente los adultos se guian mas por las primeras 3 letras no terminar de leer las cosas y no se molestan en intentarlo creo que lo mejor es poner dibujitos para mas intuitivo </td> 
-   </tr>
- </table>
- <br>
- <br>
  <table align=center>  
    <tr>  
       <th colspan=4>Nombre del responsable de la aplicación</th>  
@@ -1609,421 +1519,827 @@ El contexto es el siguiente: Imagina que tu nombre es Juan Campos Romero, eres m
    </tr>  
     <tr>  
       <th>Comentarios/Observaciones</th>
-       <td colspan=5>Deberían tener una barra de búsqueda más visible </td> 
-   </tr>
- </table>
-
+       <td colspan=5>"Deberían tener una barra de búsqueda más visible". </td> 
+   </tr>
+ </table>
+ <br>
+ <br>
+<table align=center>  
+   <tr>  
+      <th colspan=4>Nombre del responsable de la aplicación</th>  
+      <th colspan=2>Fecha de aplicación</th> 
+   </tr> 
+    <tr>  
+      <td colspan=4>Kendrick Asaf Cardenas Rojas</td>  
+       <td colspan=2>28/11/2023</td> 
+   </tr> 
+   <tr>  
+      <th colspan=6>Datos del participante</td> 
+   </tr> 
+    <tr>  
+      <th>Género</th>  
+      <th>Edad</th>
+      <th>Ocupación</th>     
+      <th colspan=3>Tipo de usuario</th>           
+   </tr> 
+    <tr>  
+      <td>Masculino</td>  
+       <td>63</td>
+      <td>Herrero</td>
+      <td colspan=3> trabajador </td>  
+   </tr> 
+     <tr>  
+      <th>Número de tarea</th> 
+     <th>Descripción</th>
+     <th>Número de errores</th>
+     <th>Éxito de tarea</th>
+    <th>Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</th>
+     <th>Tiempo</th>   
+   </tr> 
+    <tr>  
+      <td>1</td> 
+      <td>Regístrate como trabajador en la aplicación.<br>
+      Nota: (Zona de trabajo: Mérida, Expiración de tarjeta: mes 11, año 2025).  </td>
+       <td>0</td>
+       <td>Completada </td>
+       <td>5</td>
+        <td>4s</td>            
+   </tr>
+    <tr>  
+      <td>2</td> 
+      <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión.</td>
+       <td>1</td>
+       <td>Completada</td>
+       <td>4</td>
+        <td>6s</td>                          
+   </tr>
+   <tr>  
+      <td>3</td> 
+      <td>Quieres saber que opinan tus clientes de tí. Lee sus comentarios y calificaciones.</td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>5</td>
+         <td>6s</td>                       
+   </tr>
+    <tr>  
+      <td>4</td> 
+      <td>Quieres cambiar datos de tu perfil, edítalo.</td>
+       <td>5</td>
+       <td>Completada</td>
+       <td>3</td>
+       <td>15s</td>                       
+   </tr>
+    <tr>  
+      <td>5</td> 
+      <td>Se te ha notificado de nuevos trabajos, revisa tus notificaciones, acepta a Victoria Robertson y rechaza a Greg Anderson. </td>
+       <td>2</td>
+       <td>Completada</td>
+       <td>5</td>
+       <td>8s</td>                   
+   </tr>
+   <tr>  
+      <td>6</td> 
+      <td>Revisa tu última conversación con Victoria Robertson. </td>
+       <td>1</td>
+       <td>Completada</td>
+       <td>4</td>
+        <td>10s</td>                    
+   </tr>
+   <tr>  
+      <td>7</td> 
+      <td>Ha finalizado tu contrato con Victoria Robertson, califícala.  </td>
+       <td>2</td>
+       <td>Completada</td>
+       <td>5</td>
+        <td>6s</td>                 
+   </tr>
+   <tr>  
+      <td>8</td> 
+      <td>Uno de tus clientes no asistió a la reunión que habían programado. Cancela tu contrato con Luis Pérez Medina y elimina su chat. </td>
+       <td>1</td>
+       <td>Completada</td>
+       <td>5</td>
+     <td> 11s</td>                        
+   </tr>
+    <tr>  
+      <td>9</td> 
+      <td>Cancela tu membresía y sal de la aplicación. </td>
+       <td>3</td>
+       <td>Completada</td>
+       <td>4</td>
+       <td> 10s</td>                
+   </tr>
+   <tr>  
+      <th>Descripción de errores</th>
+       <td colspan=5>Ejemplo:  No supo donde presionar para eliminar el chat (tarea 8) No supo como salir de la aplicacion (tarea 9)</td> 
+   </tr>  
+    <tr>  
+      <th>Comentarios/Observaciones</th>
+       <td colspan=5></td> 
+   </tr>
+ </table>
+ <br>
+  <br>
+  <table align=center>  
+   <tr>  
+      <th colspan=4>Nombre del responsable de la aplicación</th>  
+      <th colspan=2>Fecha de aplicación</th> 
+   </tr> 
+    <tr>  
+      <td colspan=4>Kendrick Asaf Cardenas Rojas</td>  
+       <td colspan=2>28/11/2023</td> 
+   </tr> 
+   <tr>  
+      <th colspan=6>Datos del participante</td> 
+   </tr> 
+    <tr>  
+      <th>Femenino</th>  
+      <th>34</th>
+      <th>Oficinista</th>     
+      <th colspan=3>Tipo de usuario</th>           
+   </tr> 
+    <tr>  
+      <td>x</td>  
+       <td>x</td>
+      <td>x</td>
+      <td colspan=3>Cliente</td>  
+   </tr> 
+     <tr>  
+      <th>Número de tarea</th> 
+     <th>Descripción</th>
+     <th>Número de errores</th>
+     <th>Éxito de tarea</th>
+      <th>Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</th>   
+     <th>Tiempo</th>   
+   </tr> 
+    <tr>  
+      <td>1</td> 
+      <td>Regístrate como cliente en la aplicación. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>8s</td>                    
+   </tr>
+   <tr>  
+      <td>2</td> 
+      <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>6s</td>              
+   </tr>
+   <tr>  
+      <td>3</td> 
+      <td>Quieres cambiar datos de tu perfil, edítalo.</td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>10s</td>              
+   </tr>
+    <tr>  
+      <td>4</td> 
+      <td>Tu carro marca un error desconocido en el tablero, necesitas un mecánico. Busca al mecánico Juan Campos Romero, observa su perfil, calificaciones y comentarios.</td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>12s</td>              
+   </tr>
+    <tr>  
+      <td>5</td> 
+      <td>Inicia un chat con el mecánico Juan Campos Romero, contrata su servicio y regresa a tu perfil. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>25s</td>              
+   </tr>
+   <tr>  
+      <td>6</td> 
+      <td>Revisa tu última conversación con Juan Campos Romero.</td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>10s</td>              
+   </tr>
+   <tr>  
+      <td>7</td> 
+      <td>Juan Campos Romero ha terminado su trabajo. Finaliza tu contrato con él, realiza un comentario y califícalo. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>15s</td>              
+   </tr>
+   <tr>  
+      <td>8</td> 
+      <td>Luis Pérez Medina, plomero, no asistió a la reunión que habían programado. Elimina tu chat con él y repórtalo. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>11s</td>              
+   </tr>
+   <tr>  
+      <td>9</td> 
+      <td>Ha surgido un inconveniente y debes de cancelar uno de tus contratos. Cancela tu contrato con la manicurista Cintia Acosta López y cierra cesión.  </td>
+       <td>0</td>
+       <td>Completada</td>
+         <td>5</td>
+       <td>25s</td>              
+   </tr>
+   <tr>  
+      <th>Descripción de errores</th>
+       <td colspan=5>No cometió errores.</td> 
+   </tr>  
+    <tr>  
+      <th>Comentarios/Observaciones</th>
+       <td colspan=5>x</td> 
+   </tr>
+ </table>
+<br>
+<br>
+<table align=center>  
+   <tr>  
+      <th colspan=4>Nombre del responsable de la aplicación</th>  
+      <th colspan=2>Fecha de aplicación</th> 
+   </tr> 
+    <tr>  
+      <td colspan=4>Maldonado Medina Hansony de Jesús</td>  
+       <td colspan=2>29/11/2023</td> 
+   </tr> 
+   <tr>  
+      <th colspan=6>Datos del participante</td> 
+   </tr> 
+    <tr>  
+      <th>Género</th>  
+      <th>Edad</th>
+      <th>Ocupación</th>     
+      <th colspan=3>Tipo de usuario</th>           
+   </tr> 
+    <tr>  
+      <td>Masculino</td>  
+       <td>56</td>
+      <td>Gerente</td>
+      <td colspan=3>Primario (Trabajador)</td>  
+   </tr> 
+     <tr>  
+      <th>Número de tarea</th> 
+     <th>Descripción</th>
+     <th>Número de errores</th>
+     <th>Éxito de tarea</th>
+    <th>Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</th>
+     <th>Tiempo</th>   
+   </tr> 
+    <tr>  
+      <td>1</td> 
+      <td>Regístrate como trabajador en la aplicación.<br>
+      Nota: (Zona de trabajo: Mérida, Expiración de tarjeta: mes 11, año 2025).  </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>3</td>
+        <td>189 s</td>            
+   </tr>
+    <tr>  
+      <td>2</td> 
+      <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión.</td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>4</td>
+        <td>51 s</td>                          
+   </tr>
+   <tr>  
+      <td>3</td> 
+      <td>Quieres saber que opinan tus clientes de tí. Lee sus comentarios y calificaciones.</td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>5</td>
+         <td>25 s</td>                       
+   </tr>
+    <tr>  
+      <td>4</td> 
+      <td>Quieres cambiar datos de tu perfil, edítalo.</td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>4</td>
+       <td>23 s</td>                       
+   </tr>
+    <tr>  
+      <td>5</td> 
+      <td>Se te ha notificado de nuevos trabajos, revisa tus notificaciones, acepta a Victoria Robertson y rechaza a Greg Anderson. </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>5</td>
+       <td>41.19 s</td>                   
+   </tr>
+   <tr>  
+      <td>6</td> 
+      <td>Revisa tu última conversación con Victoria Robertson. </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>4</td>
+        <td>27 s</td>                    
+   </tr>
+   <tr>  
+      <td>7</td> 
+      <td>Ha finalizado tu contrato con Victoria Robertson, califícala.  </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>4</td>
+        <td>53 s</td>                 
+   </tr>
+   <tr>  
+      <td>8</td> 
+      <td>Uno de tus clientes no asistió a la reunión que habían programado. Cancela tu contrato con Luis Pérez Medina y elimina su chat. </td>
+       <td>0</td>
+       <td>Completada</td>
+       <td>3</td>
+     <td>25 s</td>                        
+   </tr>
+    <tr>  
+      <td>9</td> 
+      <td>Cancela tu membresía y sal de la aplicación. </td>
+       <td>2</td>
+       <td>No Completada</td>
+       <td>1</td>
+       <td>46 s</td>                
+   </tr>
+   <tr>  
+      <th>Descripción de errores</th>
+       <td colspan=5>Cometió 2 errores, se equivocó al querer cancelar la suscripción y salió de la aplicación sin cancelarla. (Tarea 9) </td> 
+   </tr>  
+    <tr>  
+      <th>Comentarios/Observaciones</th>
+       <td colspan=5>"Me gustó el diseño de la aplicación. Estuvo bien la experiencia, me recordó a varias aplicaciones que tengo, aunque en algunas partes si me confundían". </td> 
+   </tr>
+ </table>
+<br> 
+<br> 
+ <table align=center>  
+   <tr>  
+      <th colspan=4>Nombre del responsable de la aplicación</th>  
+      <th colspan=2>Fecha de aplicación</th> 
+   </tr> 
+    <tr>  
+      <td colspan=4> Maldonado Medina Hansony de Jesús</td>  
+       <td colspan=2>28/11/2023</td> 
+   </tr> 
+   <tr>  
+      <th colspan=6>Datos del participante</td> 
+   </tr> 
+    <tr>  
+      <th>Género</th>  
+      <th>Edad</th>
+      <th>Ocupación</th>     
+      <th colspan=3>Tipo de usuario</th>           
+   </tr> 
+    <tr>  
+      <td>Femenino</td>  
+       <td>55</td>
+      <td>Maestra</td>
+      <td colspan=3>Primario (Cliente)</td>  
+   </tr> 
+     <tr>  
+      <th>Número de tarea</th> 
+     <th>Descripción</th>
+     <th>Número de errores</th>
+     <th>Éxito de tarea</th>
+      <th>Del 1 al 5, siendo 1 muy difícil y 5 muy fácil, ¿Qué calificación le otorga a ésta tarea?</th>   
+     <th>Tiempo</th>   
+   </tr> 
+    <tr>  
+      <td>1</td> 
+      <td>Regístrate como cliente en la aplicación. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>4</td>
+       <td>49 s</td>              
+   </tr>
+   <tr>  
+      <td>2</td> 
+      <td>Olvidaste tu contraseña. Recupera tu contraseña e inicia sesión. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>5</td>
+       <td>29 s</td>              
+   </tr>
+   <tr>  
+      <td>3</td> 
+      <td>Quieres cambiar datos de tu perfil, edítalo.</td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>4</td>
+       <td>38 s</td>              
+   </tr>
+    <tr>  
+      <td>4</td> 
+      <td>Tu carro marca un error desconocido en el tablero, necesitas un mecánico. Busca al mecánico Juan Campos Romero, observa su perfil, calificaciones y comentarios.</td>
+       <td>1</td>
+       <td>Completada</td>
+        <td>2</td>
+       <td>109 s</td>              
+   </tr>
+    <tr>  
+      <td>5</td> 
+      <td>Inicia un chat con el mecánico Juan Campos Romero, contrata su servicio y regresa a tu perfil. </td>
+       <td>1</td>
+       <td>No Completada</td>
+        <td>5</td>
+       <td>56 s</td>              
+   </tr>
+   <tr>  
+      <td>6</td> 
+      <td>Revisa tu última conversación con Juan Campos Romero.</td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>4</td>
+       <td>17 s</td>              
+   </tr>
+   <tr>  
+      <td>7</td> 
+      <td>Juan Campos Romero ha terminado su trabajo. Finaliza tu contrato con él, realiza un comentario y califícalo. </td>
+       <td>1</td>
+       <td>Completada</td>
+        <td>3</td>
+       <td>48 s</td>              
+   </tr>
+   <tr>  
+      <td>8</td> 
+      <td>Luis Pérez Medina, plomero, no asistió a la reunión que habían programado. Elimina tu chat con él y repórtalo. </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>4</td>
+         <td>72 s</td>                         
+   </tr>
+   <tr>  
+      <td>9</td> 
+      <td>Ha surgido un inconveniente y debes de cancelar uno de tus contratos. Cancela tu contrato con la manicurista Cintia Acosta López y cierra sesión.  </td>
+       <td>0</td>
+       <td>Completada</td>
+        <td>4</td>
+       <td>38 s</td>              
+   </tr>
+   <tr>  
+      <th>Descripción de errores</th>
+       <td colspan=5>Cometió 3 errores, No pudo regresar a su perfil después de haber contratado el servicio (Tarea 5), Seleccionó un icono erróneo al tratar de buscar al trabajador (Tarea 4) y se le complicó buscar como finalizar el contrato (Tarea 7). </td> 
+   </tr>  
+    <tr>  
+      <th>Comentarios/Observaciones</th>
+       <td colspan=5>"Hay que implementar un icono de búsqueda como una lupa o una barra y cuando trataba de regresar a mi perfil, solo iba al del trabajador y salía como si no se hubiera contratado, pero el diseño estaba bonito".</td> 
+   </tr>
+ </table>
+ <br>
+ <br>
+ 
 ## Cuestionarios de satisfacción
 ###  Cuestionario
+![Captura de pantalla 2023-12-06 162907.png](https://raw.githubusercontent.com/KarenCampos842/EGIT/main/encuesta1.png)
+![Captura de pantalla 2023-12-06 162907.png](https://raw.githubusercontent.com/KarenCampos842/EGIT/main/encuesta2.png)
+
 ### Aplicación del cuestionario
+![Captura de pantalla 2023-12-06 162907.png](https://raw.githubusercontent.com/KarenCampos842/EGIT/main/Captura%20de%20pantalla%202023-12-06%20162907.png)
 ## Resultados
 ### Métricas[^2]
+
+**Métrica de satisfacción**
+![Captura de pantalla 2023-12-06 162907.png](https://raw.githubusercontent.com/KarenCampos842/EGIT/main/Captura%20de%20pantalla%202023-12-06%20162907.png)
+
 ### Mejoras a las interfaces 
+
 <table border="1">
   <tr>
     <th>Nombre de la ventana </th>
     <th>Cambio</th>
     <th>Descripción </th>
   </tr>
- 
   <tr>
     <td> 1_registro </td>
     <td> Sin cambios.  </td>
     <td> Ventana de inicio de sesión con la opción de crear una cuenta o recuperar tu contraseña. </td>
   </tr>
-
   <tr>
     <td> 2_registro </td>
     <td> Sin cambios.  </td>
     <td> Ventana donde se selecciona el tipo de perfil para crear una cuenta (cliente o trabajador).  </td>
   </tr>
-
    <tr>
     <td>0</td>
     <td> El botón de WorkFlash se vuelve funcional.  </td>
     <td> Venta que simula la pantalla de aplicaciones de un teléfono. </td>
   </tr>
-
    <tr>
     <td>1_registro_trabajador </td>
     <td> Sin cambios  </td>
     <td>Se solicitan datos generales (nombres, apellidos y correo electrónico).   </td>
   </tr>
-
    <tr>
     <td>2_registro_trabajador </td>
     <td> Sin cambios.  </td>
     <td>Se solicita una identificación (INE o cartilla militar) y una fotografía para continuar el proceso.  </td>
   </tr>
-  
    <tr>
     <td>3_registro_trabajador </td>
     <td> Sin cambios.  </td>
     <td>Ventana de configuración de cuenta donde el trabajador establece su oficio, zona de trabajo, número telefónico y algún trabajo que su oficio ofrezca.  </td>
   </tr>
-
    <tr>
     <td>4_registro_trabajador </td>
     <td> Sin cambios.  </td>
     <td>Se solicitan los datos bancarios para el Pago de la membresía. </td>
   </tr>
-  
    <tr>
     <td>5_registro_trabajador </td>
     <td> Sin cambios.  </td>
     <td>Ventana de donde se exponen los términos y condiciones que tienen que ser aceptados para completar el registro.  </td>
   </tr>
-  
    <tr>
     <td>6_registro_trabajador </td>
     <td> Sin cambios.  </td>
     <td>Ventana donde se finaliza el registro del trabajador y se da aviso para que el trabajador revise su correo.  </td>
-  </tr>
-  
+  </tr> 
    <tr>
     <td>Inicio_trabajador </td>
     <td> Nueva ventana.   </td>
     <td>Ventana de inicio específico para el trabajador con datos predeterminados. </td>
   </tr>
-
    <tr>
     <td>Recuperacion_contraseña_trabajador  </td>
     <td> Nueva ventana.   </td>
     <td> Ventana de recuperación de contraseña específica para el trabajador.  </td>
   </tr>
-
    <tr>
     <td>Permiso de ubicación_trabajador  </td>
     <td> Nueva ventana.</td>
     <td> Ventana específica del trabajador para permitir que la aplicación tenga acceso a la ubicación.  </td>
   </tr>
-
    <tr>
     <td>1_trabajador </td>
     <td>Se cambia el botón de "Review" por "reseñas". </td>
     <td> Ventana principal del perfil del trabajador donde se encuentran datos de su trabajo y de contacto. </td>
   </tr>
-
    <tr>
     <td>1_trabajador_e </td>
     <td>Se cambia el nombre de “1_trabajador” a “1_trabajador_e”.  </td>
     <td> Ventana con una notificación de cancelación de contrato. </td>
   </tr>
-
    <tr>
     <td>1_trabajador_e (2)</td>
     <td>Se cambia el nombre de “1_trabajador” a “1_trabajador_e”.  </td>
     <td>variación de la ventana "1_trabajador_e" con la notificación de un reporte al trabajador.  </td>
   </tr>
-
    <tr>
     <td>2_trabajador</td>
     <td>Sin cambios. </td>
     <td>Ventana del perfil del trabajador donde se encuentran las reseñas. </td>
   </tr>
-
    <tr>
     <td>3_trabajador</td>
     <td>Sin cambios. </td>
     <td>Ventana del perfil del trabajador donde se encuentran los datos de la tarjeta de crédito ligada a la membresía y un botón de cancelación. </td>
   </tr>
-  
    <tr>
     <td>3.5_trabajador</td>
     <td>Nueva ventana. </td>
     <td>Ventana que aparece después de cancelar la membresía. </td>
   </tr>
-
    <tr>
     <td>4_trabajador</td>
     <td>Sin cambios. </td>
     <td>Ventana de notificaciones donde aparecen nuevas ofertas de trabajo. </td>
   </tr>
-
    <tr>
     <td>5_trabajador</td>
     <td>Se cambia el símbolo de más por tres puntos. </td>
     <td>Ventana de contratos del trabajador donde se puede calificar o cancelar un trabajo. </td>
   </tr>
-
    <tr>
     <td>6_trabajador</td>
     <td>Sin cambios. </td>
     <td>Ventana donde se puede acceder a un chat privado con los clientes.  </td>
   </tr>
-
    <tr>
     <td>7_trabajador</td>
     <td>Sin cambios. </td>
     <td>Ventana para eliminar chats.   </td>
   </tr>
-
    <tr>
     <td>8_trabajador</td>
     <td>Sin cambios. </td>
     <td>Ventana de chat con Victoria Robertson. </td>
   </tr>
-  
    <tr>
     <td>9_trabajador</td>
     <td>Sin cambios. </td>
     <td>Ventana para editar los datos del trabajador en su perfil </td>
   </tr>
-
    <tr>
     <td>9_trabajador_e</td>
-    <td>Se elimina la foto del trabajador y se cambia el nombre de la ventana de “9_trabajador” a”9_trabajador_e”.  </td>
+    <td>Se elimina la foto del trabajador y se cambia el nombre de la ventana de “9_trabajador” a”9_trabajador_e”.  </td>
     <td>Ventana de advertencia para llenar los campos faltantes de la ventana "9_trabajador" </td>
   </tr>
-
    <tr>
     <td>9_trabajador_e (2)</td>
-    <td>Se elimina la foto del trabajador y se cambia el nombre de la ventana de “9_trabajador” a”9_trabajador_e”.  </td>
+    <td>Se elimina la foto del trabajador y se cambia el nombre de la ventana de “9_trabajador” a”9_trabajador_e”.  </td>
     <td>variación de la ventana "9_trabajador_e" con la advertencia de ingresar un número de teléfono válido.  </td>
   </tr>
-
    <tr>
     <td>10_trabajador</td>
     <td>Sin cambios. </td>
     <td>Ventana para editar los datos de la tarjeta de crédito ligada a la membresía </td>
   </tr>
-
    <tr>
     <td>10_trabajador_e</td>
     <td>Se cambia el nombre de "10_trabajador" a "10_trabajador_e". </td>
     <td>Ventana de advertencia al no llenar rodos los campos de la tarjeta de crédito.  </td>
   </tr>
-
    <tr>
     <td>10_trabajador_e (2)</td>
     <td>Se cambia el nombre de "10_trabajador" a "10_trabajador_e". </td>
     <td>Variación de la ventana "10_trabajador_e" con una advertencia al no ingresar datos válidos.  </td>
   </tr>
-
   <tr>
     <td> 1_registro_cliente </td>
     <td> Se agrega la opción para agregar el número de teléfono del cliente. </td>
     <td> Se solicitan datos generales (nombres, apellidos, teléfono y correo electrónico). y </td>
   </tr>
-
   <tr>
     <td> 2_registro_cliente </td>
     <td> Sin cambios.  </td>
     <td> Se solicita una identificación (INE o cartilla militar) y una fotografía para continuar el proceso. </td>
   </tr>
-
-
   <tr>
     <td> 3_registro_cliente </td>
     <td> Sin cambios.  </td>
     <td> Ventana de donde se exponen los términos y condiciones que tienen que ser aceptados para completar el registro.  </td>
   </tr>
-
   <tr>
     <td> 4_registro_cliente </td>
     <td> Sin cambios.  </td>
     <td> Ventana donde se finaliza el registro del trabajador y se da aviso para que el trabajador revise su correo. </td>
   </tr>
-
   <tr>
     <td>Inicio_cliente </td>
     <td> Nueva ventana.  </td>
     <td> Ventana de inicio específico para el cliente con datos predeterminados.  </td>
   </tr>
-
   <tr>
     <td>Recuperación_contraseña_cliente  </td>
     <td> Nueva ventana.  </td>
     <td> Ventana de recuperación de contraseña específica para el cliente.  </td>
   </tr>
-
   <tr>
     <td>Permiso de ubicación_cliente  </td>
     <td> Nueva ventana  </td>
     <td> Ventana específica del cliente para permitir que la aplicación tenga acceso a la ubicación.  </td>
   </tr>
-
   <tr>
     <td>1_cliente  </td>
     <td> Se agrega el icono de una lupa en la parte superior para buscar trabajadores y se agrega el número de teléfono del cliente en su perfil.  </td>
     <td> Ventana principal del cliente donde se encuentran datos de contacto, calificación y el buscador de trabajadores. </td>
   </tr>
-
   <tr>
     <td>2_cliente  </td>
     <td> Sin cambios.  </td>
     <td> Buscador de trabajadores. </td>
   </tr>
-
   <tr>
     <td>2_cliente (2) </td>
     <td> Sin cambios.  </td>
     <td> Variación de la ventana "2_cliente" sin número de teléfono. </td>
   </tr>
-
   <tr>
     <td>3_cliente  </td>
     <td> El clic a la fotografía, al ícono de perfil, al nombre o a las estrellas llevan al perfil del trabajador.  </td>
     <td>Ventana de resultados de una búsqueda.  </td>
   </tr>
-
   <tr>
     <td>4_cliente  </td>
     <td> Se cambia el botón de "Review" por "reseñas".  </td>
     <td>Perfil del trabajador desde el punto de vista de un cliente con la opción de contratar.  </td>
   </tr>
-
   <tr>
     <td>5_cliente  </td>
     <td> Se cambia el botón de "Review" por "reseñas".  </td>
     <td>Ventana de reseña del trabajador desde el punto de vista del cliente.  </td>
   </tr>
-
   <tr>
     <td>6_cliente  </td>
     <td>Sin cambios</td>
     <td>Ventana de chat con un trabajador.  </td>
   </tr>
-
   <tr>
     <td>7_cliente  </td>
     <td>Sin cambios</td>
     <td>Ventana con un aviso emergente después de contratar a un trabajador.  </td>
   </tr>
-
   <tr>
     <td>8_cliente  </td>
     <td>Se agrega el icono de una lupa en la parte superior para buscar trabajadores y se agrega el número de teléfono del cliente en su perfil. </td>
     <td>Aviso de la confirmación de la contratación.  </td>
   </tr>
-
    <tr>
     <td>8_cliente (2)  </td>
     <td>Se agrega el icono de una lupa en la parte superior para buscar trabajadores y se agrega el número de teléfono del cliente en su perfil.  </td>
     <td>Variación de la ventana "8_cliente" con la notificación del rechazo del trabajo. </td>
   </tr>
-
    <tr>
     <td>8_cliente (3)  </td>
     <td>Se agrega el icono de una lupa en la parte superior para buscar trabajadores y se agrega el número de teléfono del cliente en su perfil. </td>
     <td>variación de la ventana "8_cliente" con la notificación de la cancelación del trabajo. </td>
   </tr>
-
    <tr>
     <td>9_cliente  </td>
     <td>Se cambia el símbolo de más por tres puntos.  </td>
     <td>Ventana de contratos activos donde se puede finalizar o cancelar un trabajo y reportar a un trabajador.  </td>
   </tr>
-
    <tr>
     <td>10_cliente  </td>
     <td>Sin cambios.  </td>
     <td>Ventana de chats con los trabajadores  </td>
   </tr>
-
    <tr>
     <td>11_cliente  </td>
     <td>Sin cambios.  </td>
     <td>Ventana para eliminar chats.  </td>
   </tr>
-
    <tr>
     <td>12_cliente  </td>
     <td>Sin cambios. </td>
     <td>Ventana de chat con un trabajador.  </td>
   </tr>
-
    <tr>
     <td>13_cliente  </td>
     <td>Sin cambios. </td>
     <td>Ventana de contratos activos vacía  </td>
   </tr>
-
    <tr>
     <td>14_cliente  </td>
     <td>Sin cambios. </td>
     <td>Ventana de chats vacía.  </td>
   </tr>
-
    <tr>
     <td>15_cliente  </td>
     <td>Sin cambios. </td>
     <td>Ventana de eliminación de chats vacía.  </td>
   </tr>
-
    <tr>
     <td>16_cliente  </td>
     <td>Se agrega la opción de cambiar el número de teléfono.</td>
     <td>Ventana para cambiar los datos del cliente. </td>
   </tr>
-
    <tr>
     <td>16_cliente (2) </td>
     <td>Se elimina la foto del cliente.</td>
     <td>Variación de la ventana "16_cliente" con una advertencia para que llene los campos faltantes. </td>
   </tr>
-
    <tr>
     <td>1_registro_trabajador/cliente_e </td>
     <td>Se cambia el nombre de "1_registro" a"1_registro_trabajador/cliente_e". </td>
     <td>Ventana con una advertencia al ingresar datos erróneos en el inicio de sesión.</td>
   </tr>
-
    <tr>
-    <td>Recuperación_contraseña_trabajador/cliente_e </td>
+<td>Recuperación_contraseña_trabajador/cliente_e </td>
     <td>Se cambia el nombre de "Recuperación_contraseña" a "Recuperación_contraseña_trabajador/cliente_e".  </td>
     <td> Ventana con una advertencia al ingresar un correo no registrado durante el proceso de recuperación de contraseña. </td>
   </tr>
-
    <tr>
     <td>1_registro_trabajador/cliente  </td>
     <td>Se cambia el nombre de "1_registro_trabajador/ciente" a "1_registro_trabajador/ciente_e". </td>
     <td>Ventana de advertencia al iniciar a configurar una cuenta cuando no se introduce un correo válido.  </td>
   </tr>
-
    <tr>
     <td>1_registro_trabajador/cliente (2)  </td>
     <td>Se cambia el nombre de "1_registro_trabajador/ciente" a "1_registro_trabajador/ciente_e". </td>
     <td>Ventana de advertencia al iniciar a configurar una cuenta cuando no llenan los campos correspondientes.  </td>
   </tr>
-
    <tr>
     <td>2_registro_trabajador/cliente_e  </td>
     <td>Se cambia el nombre de "2_registro_trabajador/cliente " a "2_registro_trabajador/cliente_e ". </td>
     <td>Ventana de advertencia al no ingresar los archivos de identificación y fotografía.  </td>
   </tr>
-
    <tr>
     <td>3_registro_trabajador_e </td>
     <td>Se cambia el nombre de "3_registro_trabajador" a "3_registro_trabajador_e ".  </td>
     <td>Ventana de advertencia al iniciar a configurar una cuenta de trabajador cuando no se llenan los campos correspondientes.  </td>
   </tr>
-
    <tr>
     <td>3_registro_trabajador_e (2) </td>
     <td>Se cambia el nombre de "3_registro_trabajador" a "3_registro_trabajador_e ".  </td>
     <td>Ventana de advertencia al iniciar a configurar una cuenta de trabajador cuando no se llenan todos los campos correspondientes. </td>
   </tr>
-
    <tr>
     <td>4_registro_trabajador_e </td>
     <td>Se cambia el nombre de "4_registro_trabajador " a "4_registro_trabajador_e". </td>
     <td>Ventana de advertencia al no llenar los datos correspondientes de la tarjeta de crédito al crear una cuenta de trabajador. </td>
   </tr>
-
    <tr>
     <td>4_registro_trabajador_e (2)</td>
     <td>Se cambia el nombre de "4_registro_trabajador " a "4_registro_trabajador_e". </td>
     <td>Ventana de advertencia al no llenar todos los datos correspondientes de la tarjeta de crédito al crear una cuenta de trabajador. </td>
   </tr>
-
-   <tr>
-    <td>5_registro_trabajador/3_registro_cliente_e </td>
+   <tr>  <td>5_registro_trabajador/3_registro_cliente_e </td>
     <td>Se cambia el nombre de "5_registro_trabajador/3_registro_cliente" a "5_registro_trabajador/3_registro_cliente_e ". </td>
     <td>Ventana de advertencia al no aceptar los términos y condiciones para crear una cuenta. </td>
   </tr>
-
 </table>
+
+
 
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
