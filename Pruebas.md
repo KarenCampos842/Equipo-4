@@ -2158,7 +2158,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 
 ## Resumen de los datos de las pruebas
 
-En conclusión se pudo observar que la mayoría pudo completar las tareas planteadas en las pruebas. se alcanzaron a completar todos los requisitos en cada una de las pruebas a excepción en 2 de ellas, por lo que trabajaremos en mejorar la interfaz y añadir iconos a primera vista para hacer que la experiencia de los usuarios sea de lo más óptima. 
+En conclusión se pudo observar que la mayoría pudo completar las tareas planteadas en las pruebas. se alcanzaron a completar todos los requisitos en cada una de las pruebas a excepción en 2 de ellas, por lo que trabajaremos en mejorar la interfaz y añadir iconos a primera vista para hacer que la experiencia de los usuarios sea de lo más óptima. Finalmente pudimos observar que a la mayoría de usuarios les gustó la interfaz y la facilidad para interactuar en algunos rubros y de forma general recomiendan el uso de este software.
 
 
  
@@ -2171,7 +2171,7 @@ En conclusión se pudo observar que la mayoría pudo completar las tareas plante
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE4NTA2NDEsLTIxNzQ1Njc4Nyw5NT
+eyJoaXN0b3J5IjpbLTE1MDA3NTc5MzcsLTIxNzQ1Njc4Nyw5NT
 YxMzY1NzcsMTAxNjM5ODYsLTE2MTc3MjcxMjUsLTQ2OTA5ODk3
 OCwxOTA0NTk4Mzg1LC0xNjAwODYyMDY2LDIxMDE1ODIwMiwtMT
 U1MTUzNzUzMiw0MDMxNDgwMjIsNDAzMTMzMTIwLC0xODEzOTkz
