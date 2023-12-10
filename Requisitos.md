@@ -1594,7 +1594,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   </tr>     
   <tr>  
   <td>2</td> 
-   <td>El trabajador selecciona una determinada cantidad de estrellas.</td> 
+   <td>El cliente podrá calificar mediante una puntuación definida por estrellas el nivel de satisfacción que tuvo en cuanto al servicio.</td> 
   </tr>
   </tr> 
   <tr>  
@@ -1603,7 +1603,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
    </tr> 
 <td><b>Postcondición</b></td>
-<td  colspan="2">l</td>
+<td  colspan="2">El contrató se finalizará solo después de haber concluido los pasos previos.</td>
 </tr>
 <tr>
 <td  rowspan="9"><b>Excepciones</b></td>
@@ -1763,7 +1763,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2MjUxNDUzLDM1NTQ4NDczMSwxMjMyNz
+eyJoaXN0b3J5IjpbOTE4Nzg2OTQ5LDM1NTQ4NDczMSwxMjMyNz
 U1MTk2LC03ODQyMjc5NjksNjkxOTQzMzg3LDkxMzU3OTM5NSw0
 OTIxNjk3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgsLTEwMDQyNj
 U3MTIsMTc3NzI3ODM0N119
