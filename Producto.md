@@ -55,9 +55,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
  
  <br>
  
- <h3>Perfil de cliente</h3> 
- 
- <br>
+ <h3>Perfil de cliente</h3>
  
 <table align=center>  
    <tr>  
@@ -115,11 +113,11 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
    </tr> 
     <tr>  
       <td>Primario</td>  
-       <td>Indistinto</td> 
-       <td>30-50 años</td> 
-       <td>Mécanico, electricista, plomero, carpintero, etc.</td> 
+       <td>Mujer</td> 
+       <td>32 años</td> 
+       <td>Carpintera</td> 
        <td>Área metropolitana de Mérida</td>
-       <td>Su poca visibilidad en una red social causa que no tenga muchos clientes, por lo que recurre a WorkFlash para darse una mayor promoción.</td> 
+       <td>Realiza servicios de carpintería </td> 
    </tr> 
  </table>      
  <br>
@@ -254,6 +252,6 @@ Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan co
 Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio.
 Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc4MDA4MTYsLTE5NzAyNjgzNDIsMT
+eyJoaXN0b3J5IjpbLTEwNTQ5NjI0NTksLTE5NzAyNjgzNDIsMT
 AyODAyODAwN119
 -->
