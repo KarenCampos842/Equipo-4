@@ -981,7 +981,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        </td> 
     </tr> 
      <tr>  
-      <td  rowspan="20"><b>Excepciones</b></td>
+      <td  rowspan="26"><b>Excepciones</b></td>
 <td><b>Paso</b></td>
 <td><b>Acción</b></td>
   </tr> 
@@ -1047,7 +1047,21 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>7</td> 
-   <td>El usuario no puede confirmar un número telefónico Identico al anterior. </td> 
+   <td>El usuario no puede confirmar un número telefónico identico al anterior. </td> 
+   </tr> 
+    </tr> 
+  <tr>
+    </tr> 
+    </tr> 
+  <tr>  
+  <td>8</td> 
+   <td>El usuario no puede confirmar una dirección identica a la anterior. </td> 
+   </tr> 
+    </tr> 
+  <tr>
+  <tr>  
+  <td>9</td> 
+   <td>El usuario no puede confirmar una dirección identica a la anterior. </td> 
    </tr> 
     </tr> 
   <tr> 
@@ -1413,7 +1427,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkwMjAyMDcsNDkyMTY5NzAsMTM4ND
-E4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0MjY1NzEyLDE3NzcyNzgz
-NDddfQ==
+eyJoaXN0b3J5IjpbLTk5NjA0MDQyNiw0OTIxNjk3MCwxMzg0MT
+g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
+N119
 -->
