@@ -2,7 +2,7 @@
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTU3ODU1MjkwMF19
 -->
-<h2>Artefactos</h2>
+<h3>Artefactos</h3>
 
 - Los artefactos están redactados de forma clara y concisa.
 
@@ -18,9 +18,7 @@ eyJoaXN0b3J5IjpbLTU3ODU1MjkwMF19
 
 -Han recibido una revisión por parte del equipo Scrum.
 
-<h2>Redacción y documentación</h2>
-
-<br>
+<h3>Redacción y documentación</h3>
 
 - Se redacta de forma clara y concisa.
   
@@ -38,9 +36,7 @@ eyJoaXN0b3J5IjpbLTU3ODU1MjkwMF19
   
 - Se han documentado sustancial los cambios en los elementos del proyecto.
 
-<h2>Multimedia</h2>
-
-<br>
+<h3>Multimedia</h3>
 
 - El volumen, y claridad de los audios es adecuado.
   
@@ -50,7 +46,7 @@ eyJoaXN0b3J5IjpbLTU3ODU1MjkwMF19
   
 - La edición no interfiere con el mensaje del contenido.
   
-<h2>Gestión y proceso</h2>
+<h3>Gestión y proceso</h3>
 
 - Se han adecuado las tareas de los participantes con base en el tamaño de estas.
   
