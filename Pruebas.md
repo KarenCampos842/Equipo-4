@@ -2099,7 +2099,7 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
       <td rowspan=3>
       <li>RF-14. Chat.</li></td>    
      </tr>
-      <td>6/6 personas cumplieron la tarea por lo que el requisito 14 fue exitoso</td>
+      
       <tr>  
       <td>Tarea 6 (mínimo 4 de 6 participantes completaron la tarea)</td>
       <td>
@@ -2161,8 +2161,9 @@ El promedio de los tiempos de cada tarea no excede el doble del tiempo de la tab
 [^1]: FOCUX. (28 de marzo de 2022). Pruebas de usabilidad | Guía 2022 + Plantillas. *FOCOUX.* https://aprende-ux.focux.io/pruebas-de-usabilidad/
 [^2]: Nacho Madrid. (28 de enero de 2020). *Métricas de usabilidad y experiencia de usuario.* Nacho Madrid. https://aprende-ux.focux.io/pruebas-de-usabilidad/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2MTM2NTc3LDEwMTYzOTg2LC0xNjE3Nz
-I3MTI1LC00NjkwOTg5NzgsMTkwNDU5ODM4NSwtMTYwMDg2MjA2
-NiwyMTAxNTgyMDIsLTE1NTE1Mzc1MzIsNDAzMTQ4MDIyLDQwMz
-EzMzEyMCwtMTgxMzk5MzUzNyw2MTU4MDM0NF19
+eyJoaXN0b3J5IjpbNTY1NzE1MDM5LDk1NjEzNjU3NywxMDE2Mz
+k4NiwtMTYxNzcyNzEyNSwtNDY5MDk4OTc4LDE5MDQ1OTgzODUs
+LTE2MDA4NjIwNjYsMjEwMTU4MjAyLC0xNTUxNTM3NTMyLDQwMz
+E0ODAyMiw0MDMxMzMxMjAsLTE4MTM5OTM1MzcsNjE1ODAzNDRd
+fQ==
 -->
