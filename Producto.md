@@ -48,7 +48,7 @@ El método de monetización de WorkFlash es por medio de una suscripción, en la
       <td>Primario</td>  
        <td> Indistinto</td> 
        <td> x</td> 
-       <td> (estudiante universitario, mecánico...)</td> 
+       <td>Estudiantes universitarios, padres de familia, amas de casa</td> 
        <td>18-50 años</td>
        <td>(ejemplo de una situación en la que el usuario utilizaría la app)</td> 
    </tr> 
@@ -204,6 +204,6 @@ Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan co
 Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio.
 Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzE5ODMxMCwtMTk3MDI2ODM0MiwxMD
+eyJoaXN0b3J5IjpbLTkyMTI3OTkzOCwtMTk3MDI2ODM0MiwxMD
 I4MDI4MDA3XX0=
 -->
