@@ -27,6 +27,51 @@ Nuestra plataforma garantiza la seguridad tanto de los usuarios como de los trab
 El método de monetización de WorkFlash es por medio de una suscripción, en la que los usuarios registrados como proveedores de servicios pagan una cuota mensual de $75 que les dará acceso a todos los beneficios que la aplicación ofrece.
 
 ## Usuarios
+ - **Usuarios:** 
+ -- Identificar de forma clara los usuarios primarios, secundarios y/o potenciales. 
+ -- Presentar información básica del perfil de los usuarios (rango de edad, ubicación geográfica, género...). 
+Ésta parte será una descripción de forma generalizada (investigar información básica del perfil de los usuarios).
+ --Determinar un tipo de usuario específico (primario) y sus características principales.
+ --Elaborar perfiles, personas, escenarios (Por cada tipo de usuario identificado hacer el perfil de una persona ficticia). Se sugiere utilizar la siguiente plantilla (agregar más columnas si se considera necesario): 
+
+<table align=center>  
+   <tr>  
+      <th>Tipo de usuario</th>  
+      <th>Género</th> 
+      <th>Edad</th>
+      <th>Ocupación</th>
+      <th>Ubicación Geográfica</th>
+       <th>Escenario</th>
+   </tr> 
+    <tr>  
+      <td>Primario</td>  
+       <td> x</td> 
+       <td> x</td> 
+       <td> (estudiante universitario, mecánico...)</td> 
+       <td>x</td>
+       <td>(ejemplo de una situación en la que el usuario utilizaría la app)</td> 
+   </tr> 
+ </table>      
+ <br>
+ <table align=center>  
+   <tr>  
+      <th>Tipo de usuario</th>  
+      <th>Género</th> 
+      <th>Edad</th>
+      <th>Ocupación</th>
+      <th>Ubicación Geográfica</th>
+       <th>Escenario</th>
+   </tr> 
+    <tr>  
+      <td>(Primario, secundario o potencial) </td>  
+       <td> x</td> 
+       <td> x</td> 
+       <td> (estudiante universitario, mecánico...)</td> 
+       <td>x</td>
+       <td>(ejemplo de una situación en la que el usuario utilizaría la app)</td> 
+   </tr> 
+ </table>      
+ <br>
 
 ## Innovación
 <table align=center>  
@@ -158,5 +203,5 @@ Un espacio en el que los clientes puedan encontrar a trabajadores que cumplan co
 Además, WorkFlash cuenta con un chat para poder agendar, acordar fechas y precios y poder cerrar el contrato del servicio.
 Con WorkFlash trabajar nunca fue tan fácil y resolver tus problemas tampoco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODAyODAwN119
+eyJoaXN0b3J5IjpbLTE5NzAyNjgzNDIsMTAyODAyODAwN119
 -->
