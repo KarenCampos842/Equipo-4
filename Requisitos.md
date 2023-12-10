@@ -661,7 +661,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema deberá registrar a todo trabajador con éxito, siendo rápido y eficiente.</td> 
    </tr> 
      <tr>  
-      <td rowspan="12"><b>Secuencia normal</b></td>
+      <td rowspan="9"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -712,11 +712,12 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 <td><b>Acción</b></td>
 </tr>
 <tr>
-<td  rowspan="3">  </td>
-<td>  </td>
+<td  rowspan="1">  </td>
+<td>- Si la identificación oficial y la fotografía no coinciden no podrá proceder el registro.</td>
+<td>- Si la identificación oficial y la fotografía no coinciden no podrá proceder el registro.</td>
 </tr>
 
-- Si la identificación oficial y la fotografía no coinciden no podrá proceder el registro.
+
  - Si la tarjeta no contiene fondos suficientes, tendrá que ingresar otra o meterle fondos a la tarjeta.
  - Si el correo o el número de teléfono ya están registrados en el sistema no se podrá proceder.
  - Tendrá que llenar todos los campos solicitados en su llenado de datos, de lo contrario, no se podrá avanzar de ventana.
@@ -1279,6 +1280,6 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Njc0MDgxMywxMzg0MTg5MTQ4LDEzOD
+eyJoaXN0b3J5IjpbMTYxNzc0NTc1NiwxMzg0MTg5MTQ4LDEzOD
 QxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0N119
 -->
