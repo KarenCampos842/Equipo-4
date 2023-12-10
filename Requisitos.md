@@ -1548,7 +1548,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td> 1 </td>
-<td>El trabajador no puede salir de la pantalla sin antes haber dejado una calificación..</td>
+<td>El trabajador no puede salir de la pantalla sin antes haber dejado una calificación.</td>
 </tr>
   <tr>
     </tr> 
@@ -1565,6 +1565,208 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </table>
 
 <br>
+
+<table align=center>  
+   <tr>
+     <th>CU-12</th>  
+      <th colspan="2">Finalización del contrato</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (09/12/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">Debe haber un contrato activo entre trabajador y cliente.</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El cliente podrá indicar si su servicio se realizó y concluyó correctamente.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="4"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El cliente visualiza una pantalla donde puede cerrar su contrato.</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>El cliente podrá calificar mediante una puntuación definida por 5 estrellas el nivel de satisfacción que tuvo en cuanto al servicio.</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>El cliente pude comentar sus resultados.</td> 
+   </tr> 
+   </tr> 
+<td><b>Postcondición</b></td>
+<td  colspan="2">El contrató se finalizará solo después de haber concluido los pasos previos.</td>
+</tr>
+<tr>
+<td  rowspan="9"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>El cliente no puede salir de la pantalla sin antes haber cerrado el contrato.</td>
+</tr>
+  <tr>
+    </tr> 
+    </tr> 
+      <tr>  
+  <td>2</td> 
+   <td>No se puede seleccionar media estrella.</td> 
+   </tr> 
+    </tr>
+  <tr>  
+  <td>3</td> 
+   <td>No se puede terminar el contrato sin que antes el cliente haya dejado su comentario.</td> 
+
+</table>
+
+<br>
+
+<table align=center>  
+   <tr>
+     <th>CU-13</th>  
+      <th colspan="2">Reportes</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (09/12/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">Debe haber un contrato activo o terminado entre trabajador y cliente.</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">Los usuarios pueden reportar la cuenta de otro usuario.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="4"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El usuario visualiza una pantalla donde puede hacer un reporte.</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>El usuario introduce el motivo</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>El cliente espera una confirmación de operación realizada.</td> 
+   </tr> 
+   </tr> 
+<td><b>Postcondición</b></td>
+<td  colspan="2">No se puede reportar más de una vezal mismo usuario.</td>
+</tr>
+<tr>
+<td  rowspan="9"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>El usuario no puede reportar a más de un usuario consecutivamente.</td>
+</tr>
+  <tr>
+    </tr> 
+    </tr> 
+      <tr>  
+  <td>2</td> 
+   <td>No se puede dejar el motivo vacío.</td> 
+   </tr> 
+    </tr>
+  <tr>  
+  <td>3</td> 
+   <td>No se puede contratar o tener contrato con un usuario al que se haya reportado.</td> 
+
+</table>
+
+<br>
+
+<table align=center>  
+   <tr>
+     <th>CU-14</th>  
+      <th colspan="2">Cancelación de la cuenta (trabajador)</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (09/12/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El usuario trabajador debe tener una cuenta activa.</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El trabajador puede optar por eliminar su cuenta si así lo considera.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="5"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El trabajador debe entrar a la configuración de su perfil.</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>El trabajador selecciona la opción de cancelación de cuenta.</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>El trabajador lee las advertencias.</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>El trabajador confirma su decision o la declina.</td> 
+   </tr> 
+    </tr>
+<td><b>Postcondición</b></td>
+<td  colspan="2">El trabajador puede restaurar su cuenta si así lo desea.</td>
+</tr>
+<tr>
+<td  rowspan="9"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>No se puede acceder a esta función desde otro apartado.</td>
+</tr>
+  <tr>
+    </tr> 
+    </tr> 
+      <tr>  
+  <td>2</td> 
+   <td>No se puede seleccionar la opción de cancelación de cuenta si existe un contrato activo.</td> 
+   </tr> 
+    </tr>
+  <tr>  
+  <td>3</td> 
+   <td>No se puede proceder sin antes leer las advertencias.</td> 
+   </tr> 
+    </tr>
+    <tr>  
+  <td>4</td> 
+   <td>No se puede cancelar la cuenta y restaurarla más de dos veces consecutivas.</td> 
+
+</table>
+
+<br>
  
  </table> 
 <table align=center>  
@@ -1574,7 +1776,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
-       <td colspan="2">1.0 (29/10/2023)</td> 
+       <td colspan="2">2.0 (09/12/2023)</td> 
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
@@ -1585,7 +1787,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema deberá cobrar la membresía de los trabajadores después del mes gratis y después de cada mes hasta su cancelación</td> 
    </tr> 
      <tr>  
-      <td rowspan="9"><b>Secuencia normal</b></td>
+      <td rowspan="4"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -1601,23 +1803,34 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr>  
   <td>3</td> 
    <td>Una vez autorizado el pago, le llegará un correo electrónico al trabajador de su pago exitoso, asi como la fecha de su próximo pago.</td> 
-   <tr>  
-      <td><b>Postcondición</b></td>  
-       <td colspan="2"> Se dará como "Pago exitoso" solo si se llega a cubrir la cuota total de la membresía</td> 
-       </tr> 
-     <tr>  
-      <td rowspan="2"><b>Excepciones</b></td>
-     </tr>  
- <tr>
-  <td>
+   <tr>
+     </tr> 
+    </tr>
+<td><b>Postcondición</b></td>
+<td  colspan="2">Se dará como "Pago exitoso" solo si se llega a cubrir la cuota total de la membresía.</td>
+</tr>
+<tr>
+<td  rowspan="9"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación.</td>
+</tr>
+  <tr>
+    </tr> 
+    </tr> 
+      <tr>  
+  <td>2</td> 
+   <td>Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.</td> 
+   </tr> 
+    </tr>
 
-- Si la tarjeta no llega a tener los fondos suficientes entonces el pago no será valido y no podrá seguir usando la aplicación como trabajador y su perfil sufrirá un "Shadowban" de la aplicación
- - Si llega haber una cancelación previa de la facturación periódica, entonces no se le cobrará y podrá usar la aplicación hasta que su membrecía haya caducado.      
-</td> 
-</tr>  
- </table>
+</table>
 
  <br>
+ 
  <table align=center>  
    <tr>
      <th>CU-16</th>  
@@ -1636,7 +1849,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema deberá permitir al dueño legítimo de una cuenta de WorkFlash, recuperar su contraseña en caso de olvido.</td> 
    </tr> 
      <tr>  
-      <td rowspan="15"><b>Secuencia normal</b></td>
+      <td rowspan="7"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -1666,23 +1879,43 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
     </tr> 
   <tr>  
   <td>6</td> 
-   <td>Se le redirigirá al usuario nuevamente al menú de inicio de sesión.</td> 
-</tr> 
-  <tr>  
-      <td><b>Postcondición</b></td>  
-       <td colspan="2">El enlace de restablecimiento de contraseña solo puede ser usado una vez.
-       </tr> 
-       </td> 
+   <td>Se le redirigirá al usuario nuevamente al menú de inicio de sesión.</td>
+   <tr>
+     </tr> 
+    </tr>
+<td><b>Postcondición</b></td>
+<td  colspan="2">El enlace de restablecimiento de contraseña solo puede ser usado una vez.</td>
+</tr>
+<tr>
+<td  rowspan="9"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>Solo se le permite al usuario enviar el enlace de restablecimiento de contraseña a un correo electrónico, que será aquel con el que intente el inicio de sesión.</td>
+</tr>
+  <tr>
     </tr> 
-     <tr>  
-      <td rowspan="4"><b>Excepciones</b></td>
-     <tr>  
-   <td>
+    </tr> 
+      <tr>  
+  <td>2</td> 
+   <td>Si el correo electrónico al que se le intenta enviar el enlace de restablecimiento de contraseña no existe en la base de datos como previamente registrado, se le avisará al usuario que dicho correo electrónico no está registrado.</td> 
+   </tr> 
+    </tr>
+     </tr> 
+    </tr> 
+      <tr>  
+  <td>3</td> 
+   <td>No se podrá aceptar una nueva contraseña idéntica a la anterior. </td> 
+   </tr> 
+    </tr>
 
-- Solo se le permite al usuario enviar el enlace de restablecimiento de contraseña a un correo electrónico, que será aquel con el que intente el inicio de sesión.
-- Si el correo electrónico al que se le intenta enviar el enlace de restablecimiento de contraseña no existe en la base de datos como previamente registrado, se le avisará al usuario que dicho correo electrónico no está registrado.
-- No se podrá aceptar una nueva contraseña idéntica a la anterior.
- </table>
+</table>
+
+<br>
+
+- </table>
  
    ### Diagrama de caso de uso
    ![enter image description here](https://github-production-user-asset-6210df.s3.amazonaws.com/143464988/280605824-a27ef423-58d7-4dd6-83d8-1661b4117367.jpg)
@@ -1699,8 +1932,8 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTM0MTI0NSwzNTU0ODQ3MzEsMTIzMj
-c1NTE5NiwtNzg0MjI3OTY5LDY5MTk0MzM4Nyw5MTM1NzkzOTUs
-NDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0Mj
-Y1NzEyLDE3NzcyNzgzNDddfQ==
+eyJoaXN0b3J5IjpbLTExNTI2MDYxNTcsMzU1NDg0NzMxLDEyMz
+I3NTUxOTYsLTc4NDIyNzk2OSw2OTE5NDMzODcsOTEzNTc5Mzk1
+LDQ5MjE2OTcwLDEzODQxODkxNDgsMTM4NDE4OTE0OCwtMTAwND
+I2NTcxMiwxNzc3Mjc4MzQ3XX0=
 -->
