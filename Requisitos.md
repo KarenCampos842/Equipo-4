@@ -981,7 +981,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        </td> 
     </tr> 
      <tr>  
-      <td  rowspan="36"><b>Excepciones</b></td>
+      <td  rowspan="39"><b>Excepciones</b></td>
 <td><b>Paso</b></td>
 <td><b>Acción</b></td>
   </tr> 
@@ -1076,7 +1076,16 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    <tr>
   <tr>  
   <td>11</td> 
-   <td>El usuario no puede cambiar los parámetros más de 2 veces conse</td> 
+   <td>El usuario no puede cambiar los parámetros más de 2 veces consecutivas.</td> 
+   </tr> 
+    </tr> 
+  <tr> 
+   <tr> 
+   <tr> 
+   <tr>
+  <tr>  
+  <td>12</td> 
+   <td>El usuario no puede cambiar los parámetros más de 2 veces consecutivas.</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -1442,7 +1451,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgzNjk1MjYsNDkyMTY5NzAsMTM4ND
+eyJoaXN0b3J5IjpbLTE4NTIxNjAyMzIsNDkyMTY5NzAsMTM4ND
 E4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0MjY1NzEyLDE3NzcyNzgz
 NDddfQ==
 -->
