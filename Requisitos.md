@@ -1068,7 +1068,15 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    <tr>
   <tr>  
   <td>10</td> 
-   <td>El usuario no puede introducir guardar un trabajo sin información.</td> 
+   <td>El usuario no puede confirmar un número de tarjeta idéntico al anterior. </td> 
+   </tr> 
+    </tr> 
+  <tr> 
+   <tr> 
+   <tr>
+  <tr>  
+  <td>11</td> 
+   <td>El usuario no puede cambiar los parámetros más de 2 veces conse</td> 
    </tr> 
     </tr> 
   <tr> 
@@ -1434,7 +1442,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDc0Njg2OSw0OTIxNjk3MCwxMzg0MT
-g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
-N119
+eyJoaXN0b3J5IjpbLTEwMDgzNjk1MjYsNDkyMTY5NzAsMTM4ND
+E4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0MjY1NzEyLDE3NzcyNzgz
+NDddfQ==
 -->
