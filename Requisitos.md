@@ -700,12 +700,8 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
   <tr> 
 </table>
 
+<br>
 
-
-
-
-
- 
  </table>                
   <br>    
 <table align=center>  
@@ -773,8 +769,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        <td colspan="2">El sistema deberá autentificar rápidamente al usuario en caso de que sus datos sean correctos.</td> 
    </tr> 
      <tr>  
-      <td rowspan="4
-      "><b>Secuencia normal</b></td>
+      <td rowspan="4"><b>Secuencia normal</b></td>
        <td><b>Paso</b></td> 
         <td><b>Acción</b></td> 
     </tr> 
@@ -800,7 +795,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
        </td> 
     </tr> 
      <tr>  
-      <td  rowspan="5"><b>Excepciones</b></td>
+      <td  rowspan="10"><b>Excepciones</b></td>
 <td><b>Paso</b></td>
 <td><b>Acción</b></td>
   </tr> 
@@ -1295,7 +1290,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTMwMzcwOSw0OTIxNjk3MCwxMzg0MT
-g5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIsMTc3NzI3ODM0
-N119
+eyJoaXN0b3J5IjpbLTE0Nzg0OTI4NzEsNDkyMTY5NzAsMTM4ND
+E4OTE0OCwxMzg0MTg5MTQ4LC0xMDA0MjY1NzEyLDE3NzcyNzgz
+NDddfQ==
 -->
