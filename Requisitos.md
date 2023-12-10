@@ -1430,7 +1430,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 
 <table align=center>  
    <tr>
-     <th>CU-09</th>  
+     <th>CU-10</th>  
       <th colspan="2">Chat</th>  
    </tr> 
     <tr>  
@@ -1646,7 +1646,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzMzU2ODUzLDY5MTk0MzM4Nyw5MTM1Nz
-kzOTUsNDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0x
-MDA0MjY1NzEyLDE3NzcyNzgzNDddfQ==
+eyJoaXN0b3J5IjpbLTEzODA5NjE1NjksNjkxOTQzMzg3LDkxMz
+U3OTM5NSw0OTIxNjk3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgs
+LTEwMDQyNjU3MTIsMTc3NzI3ODM0N119
 -->
