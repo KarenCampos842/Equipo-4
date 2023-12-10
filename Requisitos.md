@@ -1295,7 +1295,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </tr>
 <tr>
 <td><b>Versión</b></td>
-<td  colspan="2">1.0 (29/10/2023)</td>
+<td  colspan="2">2.0 (09/12/2023)</td>
 </tr>
 <tr>
 <td><b>Precondición</b></td>
@@ -1350,7 +1350,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
    </tr> 
     <tr>  
       <td><b>Versión</b></td>  
-       <td colspan="2">1.0 (29/10/2023)</td> 
+       <td colspan="2">1.0 (09/12/2023)</td> 
    </tr> 
    <tr>  
       <td><b>Precondición</b></td>  
@@ -1427,6 +1427,91 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 </table>
 
  <br>
+
+<table align=center>  
+   <tr>
+     <th>CU-09</th>  
+      <th colspan="2">Chat</th>  
+   </tr> 
+    <tr>  
+      <td><b>Versión</b></td>  
+       <td colspan="2">1.0 (09/12/2023)</td> 
+   </tr> 
+   <tr>  
+      <td><b>Precondición</b></td>  
+       <td colspan="2">El usuario y el trabajador deben estar ya registrados y aprobar por ambos el chat</td> 
+   </tr> 
+    <tr>  
+      <td><b>Descripción</b></td>  
+       <td colspan="2">El sistema deberá contar con un chat entre usuarios y trabajadores para agendar fechas, horarios y costos del servicio.</td> 
+   </tr> 
+     <tr>  
+      <td rowspan="6"><b>Secuencia normal</b></td>
+       <td><b>Paso</b></td> 
+        <td><b>Acción</b></td> 
+    </tr> 
+  <tr>  
+  <td>1</td> 
+   <td>El usuario debe buscar el servicio que desea obtener.</td> 
+  </tr>     
+  <tr>  
+  <td>2</td> 
+   <td>Ver entre la lista de trabajadores y seleccionar el perfil del que mejor le parezca.</td> 
+  </tr>
+  </tr> 
+  <tr>  
+  <td>3</td> 
+   <td>Hacer clic en la opción para abrir el chat.</td> 
+   </tr> 
+   </tr> 
+  <tr>  
+  <td>4</td> 
+   <td>El trabajador recibe una notificación de que tiene un nuevo mensaje.</td> 
+   </tr> 
+    </tr> 
+  <tr>  
+  <td>5</td> 
+   <td>El trabajador envía un mensaje y el cliente es notificado.</td>
+ </tr>
+<tr>
+<td><b>Postcondición</b></td>
+<td  colspan="2">Cliente y trabajador se ponen en contacto.</td>
+</tr>
+<tr>
+<td  rowspan="9"><b>Excepciones</b></td>
+<td><b>Paso</b></td>
+<td><b>Acción</b></td>
+</tr>
+<tr>
+<td> 1 </td>
+<td>No se pueden realizar búsquedas de más de 50 caracteres.</td>
+</tr>
+  <tr>
+    </tr> 
+    </tr> 
+      <tr>  
+  <td>2</td> 
+   <td>No se pueden seleccionar más de dos trabajadores a las vez.</td> 
+   </tr> 
+    </tr>
+  <tr>  
+  <td>3</td> 
+   <td>El cliente no puede abrir el chat sin antes haber visto el perfil completo.</td> 
+   </tr> 
+    </tr>
+    <tr>  
+  <td>4</td> 
+   <td>El trabajador solo puede marcar como vistos mensajes nuevos.</td> 
+   </tr> 
+    </tr>
+    <tr>  
+  <td>5</td> 
+   <td>El trabajador no puede enviar mensajes cortos consecutivamente.</td> 
+   </tr> 
+    </tr>
+</table>
+
+<br>
  
  </table> 
 <table align=center>  
@@ -1561,7 +1646,7 @@ RNF-32. El sistema no mostrará datos personales entre usuarios y trabajadores q
 [^2]:Scrum Manager®. (2018). *Historias de Usuario.* https://www.scrummanager.com/files/historias_usuario_scrum_manager.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxOTQzMzg3LDkxMzU3OTM5NSw0OTIxNj
-k3MCwxMzg0MTg5MTQ4LDEzODQxODkxNDgsLTEwMDQyNjU3MTIs
-MTc3NzI3ODM0N119
+eyJoaXN0b3J5IjpbLTkyMzA2Mjg1LDY5MTk0MzM4Nyw5MTM1Nz
+kzOTUsNDkyMTY5NzAsMTM4NDE4OTE0OCwxMzg0MTg5MTQ4LC0x
+MDA0MjY1NzEyLDE3NzcyNzgzNDddfQ==
 -->
